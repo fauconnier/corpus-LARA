@@ -3,7 +3,7 @@
 The corpus [LARA](https://github.com/jfaucon/corpus-LARA) is a French corpus of Wikipedia pages annotated with enumeratives structures. 
 
 
-## Download LING_GEOP
+## Download LARA
 
 * With git : 
 
