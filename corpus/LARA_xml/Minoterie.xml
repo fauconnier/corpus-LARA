@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Au mini-XIXe, mais surtout au XXe, les minoteries industrielles ont remplacé les moulins à farine (moulins à eau ou moulins à vent d'autrefois, ou les moulins artisanaux utilisant la force animale).</text>
+      <span begin="147" end="345" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Le travail des minotiers (ou meunier) consiste à éliminer les parties périphériques du grain (les sons et remoulages)</text>
+      <span begin="359" end="476" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 20:12</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>On distingue plusieurs types de farine en rapport avec la pureté (évaluée par le biais du taux de matières minérales, ce qui du reste structure la réglementation) ou au regard des protéines et de quelques autres caractéristiques en ce qui concerne les aptitudes technologiques (aptitude aux différents types de panifications, etc...)</text>
+      <span begin="650" end="983" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>La baisse de la consommation quotidienne du pain dans les ménages fait que les minoteries industrielles essaient de réactiver le marché avec une gamme de produits plus large fournie à la boulangerie (contenu en céréales diversifié, méthodes d'extraction différentes ou ajout de fibres à la farine).</text>
+      <span begin="1984" end="2282" />
+    </SE>
+    <comment>#bénéficie#</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="à" postag="P+D" morpho="g=m|n=s" head="13" dep="mod">Au</word>
+        <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">mini-XIXe</word>
+        <word id="3" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+        <word id="4" lem="mais" postag="CC" morpho="_" head="1" dep="coord">mais</word>
+        <word id="5" lem="surtout" postag="ADV" morpho="_" head="4" dep="mod">surtout</word>
+        <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="4" dep="dep_coord">au</word>
+        <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">XXe</word>
+        <word id="8" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+        <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+        <word id="10" lem="minoterie" postag="NC" morpho="g=f|n=p" head="13" dep="suj">minoteries</word>
+        <word id="11" lem="industriel" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">industrielles</word>
+        <word id="12" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="13" dep="aux_tps">ont</word>
+        <word id="13" lem="remplacer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">remplacé</word>
+        <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
+        <word id="15" lem="moulin" postag="NC" morpho="g=m|n=p" head="13" dep="obj">moulins</word>
+        <word id="16" lem="à" postag="P" morpho="_" head="13" dep="mod">à</word>
+        <word id="17" lem="farine" postag="NC" morpho="g=f|n=s" head="16" dep="prep">farine</word>
+        <word id="18" lem="(" postag="PONCT" morpho="_" head="13" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="moulin" postag="NC" morpho="g=m|n=p" head="0" dep="_">moulins</word>
+          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
+          <word id="3" lem="eau" postag="NC" morpho="g=f|n=s" head="2" dep="prep">eau</word>
+          <word id="4" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="moulin" postag="NC" morpho="g=m|n=p" head="0" dep="_">moulins</word>
+          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
+          <word id="3" lem="vent" postag="NC" morpho="g=m|n=s" head="2" dep="prep">vent</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="5" lem="autrefois" postag="ADV" morpho="_" head="4" dep="mod">autrefois</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="7" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="moulin" postag="NC" morpho="g=m|n=p" head="0" dep="_">moulins</word>
+          <word id="3" lem="artisanal" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">artisanaux</word>
+          <word id="4" lem="utiliser" postag="VPR" morpho="t=pst" head="2" dep="mod">utilisant</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="force" postag="NC" morpho="g=f|n=s" head="4" dep="obj">force</word>
+          <word id="7" lem="animal" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">animale</word>
+          <word id="8" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+        <word id="2" lem="travail" postag="NC" morpho="g=m|n=s" head="9" dep="suj">travail</word>
+        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+        <word id="4" lem="minotier" postag="NC" morpho="g=m|n=p" head="3" dep="prep">minotiers</word>
+        <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+        <word id="6" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+        <word id="7" lem="meunier" postag="NC" morpho="g=m|n=s" head="6" dep="dep_coord">meunier</word>
+        <word id="8" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        <word id="9" lem="consister" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">consiste</word>
+        <word id="10" lem="à" postag="P" morpho="_" head="9" dep="a_obj">à</word>
+        <word id="11" lem="éliminer" postag="VINF" morpho="_" head="10" dep="prep">éliminer</word>
+        <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+        <word id="13" lem="partie" postag="NC" morpho="g=f|n=p" head="11" dep="obj">parties</word>
+        <word id="14" lem="périphérique" postag="ADJ" morpho="n=p" head="13" dep="mod">périphériques</word>
+        <word id="15" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+        <word id="16" lem="grain" postag="NC" morpho="g=m|n=s" head="15" dep="prep">grain</word>
+        <word id="17" lem="(" postag="PONCT" morpho="_" head="13" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="3" lem="son" postag="NC" morpho="g=m|n=p" head="0" dep="_">sons</word>
+          <word id="4" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="remoulage" postag="NC" morpho="g=m|n=p" head="0" dep="_">remoulages</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 20:12</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
+        <word id="2" lem="distinguer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">distingue</word>
+        <word id="3" lem="plusieurs" postag="DET" morpho="n=p" head="4" dep="det">plusieurs</word>
+        <word id="4" lem="type" postag="NC" morpho="g=m|n=p" head="2" dep="obj">types</word>
+        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+        <word id="6" lem="farine" postag="NC" morpho="g=f|n=s" head="5" dep="prep">farine</word>
+        <word id="7" lem="en" postag="P" morpho="_" head="2" dep="mod">en</word>
+        <word id="8" lem="rapport" postag="NC" morpho="g=m|n=s" head="7" dep="prep">rapport</word>
+        <word id="9" lem="avec" postag="P" morpho="_" head="2" dep="mod">avec</word>
+        <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+        <word id="11" lem="pureté" postag="NC" morpho="g=f|n=s" head="9" dep="prep">pureté</word>
+        <word id="12" lem="(" postag="PONCT" morpho="_" head="11" dep="ponct">(</word>
+        <word id="13" lem="évaluer" postag="VPP" morpho="g=f|n=s|t=past" head="11" dep="mod">évaluée</word>
+        <word id="14" lem="par" postag="P" morpho="_" head="13" dep="p_obj">par</word>
+        <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+        <word id="16" lem="biais" postag="NC" morpho="g=m" head="14" dep="prep">biais</word>
+        <word id="17" lem="de" postag="P+D" morpho="g=m|n=s" head="16" dep="dep">du</word>
+        <word id="18" lem="taux" postag="NC" morpho="g=m" head="17" dep="prep">taux</word>
+        <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
+        <word id="20" lem="matière" postag="NC" morpho="g=f|n=p" head="19" dep="prep">matières</word>
+        <word id="21" lem="minéral" postag="ADJ" morpho="g=f|n=p" head="20" dep="mod">minérales</word>
+        <word id="22" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        <word id="23" lem="ce" postag="PRO" morpho="_" head="2" dep="mod">ce</word>
+        <word id="24" lem="qui" postag="PROREL" morpho="n=s" head="0" dep="_">qui</word>
+        <word id="25" lem="du" postag="DET" morpho="g=m|n=s" head="26" dep="det">du</word>
+        <word id="26" lem="reste" postag="NC" morpho="g=m|n=s" head="0" dep="_">reste</word>
+        <word id="27" lem="structure" postag="NC" morpho="g=f|n=s" head="26" dep="mod">structure</word>
+        <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
+        <word id="29" lem="réglementation" postag="NC" morpho="g=f|n=s" head="26" dep="mod">réglementation</word>
+        <word id="30" lem=")" postag="PONCT" morpho="_" head="26" dep="ponct">)</word>
+        <word id="31" lem="ou" postag="CC" morpho="_" head="26" dep="coord">ou</word>
+        <word id="32" lem="à" postag="P+D" morpho="g=m|n=s" head="31" dep="dep_coord">au</word>
+        <word id="33" lem="regard" postag="NC" morpho="g=m|n=s" head="32" dep="prep">regard</word>
+        <word id="34" lem="de" postag="P+D" morpho="n=p" head="33" dep="dep">des</word>
+        <word id="35" lem="protéine" postag="NC" morpho="g=f|n=p" head="34" dep="prep">protéines</word>
+        <word id="36" lem="et" postag="CC" morpho="_" head="26" dep="coord">et</word>
+        <word id="37" lem="de" postag="P" morpho="_" head="36" dep="dep_coord">de</word>
+        <word id="38" lem="quelques" postag="DET" morpho="n=p" head="40" dep="det">quelques</word>
+        <word id="39" lem="autres" postag="ADJ" morpho="n=p" head="40" dep="mod">autres</word>
+        <word id="40" lem="caractéristique" postag="NC" morpho="g=f|n=p" head="37" dep="prep">caractéristiques</word>
+        <word id="41" lem="en" postag="P" morpho="_" head="26" dep="dep">en</word>
+        <word id="42" lem="ce" postag="PRO" morpho="_" head="41" dep="prep">ce</word>
+        <word id="43" lem="qui" postag="PROREL" morpho="n=s" head="44" dep="suj">qui</word>
+        <word id="44" lem="concerner" postag="V" morpho="n=s|p=13|t=pst" head="42" dep="mod_rel">concerne</word>
+        <word id="45" lem="les" postag="DET" morpho="n=p" head="46" dep="det">les</word>
+        <word id="46" lem="aptitude" postag="NC" morpho="g=f|n=p" head="44" dep="obj">aptitudes</word>
+        <word id="47" lem="technologique" postag="ADJ" morpho="n=p" head="46" dep="mod">technologiques</word>
+        <word id="48" lem="(" postag="PONCT" morpho="_" head="46" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 20:12</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="aptitude" postag="NC" morpho="g=f|n=s" head="0" dep="_">aptitude</word>
+          <word id="2" lem="à" postag="P+D" morpho="n=p" head="1" dep="dep">aux</word>
+          <word id="3" lem="différent" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">différents</word>
+          <word id="4" lem="type" postag="NC" morpho="g=m|n=p" head="2" dep="prep">types</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="panification" postag="NC" morpho="g=f|n=p" head="5" dep="prep">panifications</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">etc</word>
+          <word id="2" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
+          <word id="3" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="baisse" postag="NC" morpho="g=f|n=s" head="12" dep="suj">baisse</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+        <word id="5" lem="consommation" postag="NC" morpho="g=f|n=s" head="3" dep="prep">consommation</word>
+        <word id="6" lem="quotidien" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">quotidienne</word>
+        <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
+        <word id="8" lem="pain" postag="NC" morpho="g=m|n=s" head="7" dep="prep">pain</word>
+        <word id="9" lem="dans" postag="P" morpho="_" head="5" dep="dep">dans</word>
+        <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
+        <word id="11" lem="ménage" postag="NC" morpho="g=m|n=p" head="9" dep="prep">ménages</word>
+        <word id="12" lem="faire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">fait</word>
+        <word id="13" lem="que" postag="CS" morpho="_" head="12" dep="obj">que</word>
+        <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
+        <word id="15" lem="minoterie" postag="NC" morpho="g=f|n=p" head="17" dep="suj">minoteries</word>
+        <word id="16" lem="industriel" postag="ADJ" morpho="g=f|n=p" head="15" dep="mod">industrielles</word>
+        <word id="17" lem="essayer" postag="V" morpho="n=p|p=3|t=pst" head="13" dep="sub">essaient</word>
+        <word id="18" lem="de" postag="P" morpho="_" head="17" dep="obj">de</word>
+        <word id="19" lem="réactiver" postag="VINF" morpho="_" head="18" dep="prep">réactiver</word>
+        <word id="20" lem="le" postag="DET" morpho="g=m|n=s" head="21" dep="det">le</word>
+        <word id="21" lem="marché" postag="NC" morpho="g=m|n=s" head="19" dep="obj">marché</word>
+        <word id="22" lem="avec" postag="P" morpho="_" head="19" dep="mod">avec</word>
+        <word id="23" lem="une" postag="DET" morpho="g=f|n=s" head="24" dep="det">une</word>
+        <word id="24" lem="gamme" postag="NC" morpho="g=f|n=s" head="22" dep="prep">gamme</word>
+        <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">de</word>
+        <word id="26" lem="produit" postag="NC" morpho="g=m|n=p" head="25" dep="prep">produits</word>
+        <word id="27" lem="plus" postag="ADV" morpho="_" head="28" dep="mod">plus</word>
+        <word id="28" lem="large" postag="ADJ" morpho="n=s" head="24" dep="mod">large</word>
+        <word id="29" lem="fournir" postag="VPP" morpho="g=f|n=s|t=past" head="24" dep="mod">fournie</word>
+        <word id="30" lem="à" postag="P" morpho="_" head="29" dep="a_obj">à</word>
+        <word id="31" lem="la" postag="DET" morpho="g=f|n=s" head="32" dep="det">la</word>
+        <word id="32" lem="boulangerie" postag="NC" morpho="g=f|n=s" head="30" dep="prep">boulangerie</word>
+        <word id="33" lem="(" postag="PONCT" morpho="_" head="32" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
+          <word id="2" lem="contenir" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="_">contenu</word>
+          <word id="3" lem="en" postag="P" morpho="_" head="2" dep="mod">en</word>
+          <word id="4" lem="céréale" postag="NC" morpho="g=f|n=p" head="3" dep="prep">céréales</word>
+          <word id="5" lem="diversifier" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">diversifié</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="méthode" postag="NC" morpho="g=f|n=p" head="0" dep="_">méthodes</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="3" lem="extraction" postag="NC" morpho="g=f|n=s" head="2" dep="prep">extraction</word>
+          <word id="4" lem="différent" postag="ADJ" morpho="g=f|n=p" head="1" dep="mod">différentes</word>
+          <word id="5" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="ajout" postag="NC" morpho="g=m|n=s" head="0" dep="_">ajout</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="fibre" postag="NC" morpho="g=f|n=p" head="2" dep="prep">fibres</word>
+          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="farine" postag="NC" morpho="g=f|n=s" head="4" dep="prep">farine</word>
+          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="100" />
+      <text>Au mini-XIXe, mais surtout au XXe, les minoteries industrielles ont remplacé les moulins à farine (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="100" end="116" id="0" />
+      <text id="0">moulins à eau ou</text>
+      <span begin="117" end="147" id="1" />
+      <text id="1">moulins à vent d'autrefois, ou</text>
+      <span begin="148" end="199" id="2" />
+      <text id="2">les moulins artisanaux utilisant la force animale).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="95" />
+      <text>Le travail des minotiers (ou meunier) consiste à éliminer les parties périphériques du grain (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="93" end="106" id="0" />
+      <text id="0">(les sons et</text>
+      <span begin="107" end="118" id="1" />
+      <text id="1">remoulages)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 20:12</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="279" />
+      <text>On distingue plusieurs types de farine en rapport avec la pureté (évaluée par le biais du taux de matières minérales, ce qui du reste structure la réglementation) ou au regard des protéines et de quelques autres caractéristiques en ce qui concerne les aptitudes technologiques (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 20:12</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="279" end="326" id="0" />
+      <text id="0">aptitude aux différents types de panifications,</text>
+      <span begin="327" end="334" id="1" />
+      <text id="1">etc...)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="201" />
+      <text>La baisse de la consommation quotidienne du pain dans les ménages fait que les minoteries industrielles essaient de réactiver le marché avec une gamme de produits plus large fournie à la boulangerie (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="200" end="232" id="0" />
+      <text id="0">(contenu en céréales diversifié,</text>
+      <span begin="233" end="269" id="1" />
+      <text id="1">méthodes d'extraction différentes ou</text>
+      <span begin="270" end="299" id="2" />
+      <text id="2">ajout de fibres à la farine).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="77" end="90" id="0" />
+      <text id="0">les moulins</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="100" end="114" id="0" />
+      <text id="0">moulins à eau</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="117" end="131" id="0" />
+      <text id="0">moulins à vent</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="148" end="197" id="0" />
+      <text id="0">les moulins artisanaux utilisant la force animale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="59" end="93" id="0" />
+      <text id="0">les parties périphériques du grain</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="95" end="103" id="0" />
+      <text id="0">les sons</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="107" end="117" id="0" />
+      <text id="0">remoulages</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="155" end="163" id="0" />
+      <text id="0">produits</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="201" end="231" id="0" />
+      <text id="0">contenu en céréales diversifié</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="233" end="266" id="0" />
+      <text id="0">méthodes d'extraction différentes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="270" end="297" id="0" />
+      <text id="0">ajout de fibres à la farine</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:28</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:16</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 20:12</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 20:12</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 20:12</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 20:12</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:35</date>
+      <document>Minoterie.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="1" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

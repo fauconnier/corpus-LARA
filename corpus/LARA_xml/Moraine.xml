@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Types de dépôts morainiques
+La dynamique glaciaire s'exprime par :
+les marges du glacier portent des moraines latérales composées de roches arrachées par la glace et par le cycle gel-fonte (cryoclastie).
+les moraines latérales confluent afin de former des moraines médianes,
+invisible sous la glace se trouve la moraine de fond (till), arrachée du fond de la vallée et broyée par le mouvement de la glace,
+à l'extrémité aval, les restes des rochers tombent de la glace comme une moraine frontale,
+parfois, le front de la glace avance à nouveau en poussant les débris glaciaires et fluvio-glaciaires en avant, à la manière d'un bulldozer ; une moraine poussée s'inscrit alors dans le paysage libéré des glaces,
+le retrait du front d'un glacier, d'une calotte glaciaire ou d'une nappe de glace n'est pas continu, il y a des pauses, ce qui provoque la formation d'une série de moraines de récession.</text>
+      <span begin="502" end="1398" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Le mot moraine porte un double sens donc, car les origines de la moraine sont de deux sortes :
+allogène : tout ce que le glacier reçoit en sa surface (éboulis dus à la cryoclastie par exemple). Cette moraine protège le glacier du rayonnement du soleil (Cf. la Mer de Glace),
+autochtone : matériaux produits par le travail même du glacier (broyage de son lit).</text>
+      <span begin="2423" end="2784" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="type" postag="NC" morpho="g=m|n=p" head="0" dep="_">Types</word>
+        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+        <word id="3" lem="dépôt" postag="NC" morpho="g=m|n=p" head="2" dep="prep">dépôts</word>
+        <word id="4" lem="_" postag="ADJ" morpho="_" head="3" dep="mod">morainiques</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="dynamique" postag="NC" morpho="g=f|n=s" head="5" dep="suj">dynamique</word>
+        <word id="3" lem="glaciaire" postag="ADJ" morpho="n=s" head="2" dep="mod">glaciaire</word>
+        <word id="4" lem="se" postag="CLR" morpho="p=3" head="5" dep="aff">s'</word>
+        <word id="5" lem="exprimer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">exprime</word>
+        <word id="6" lem="par" postag="P" morpho="_" head="5" dep="mod">par</word>
+        <word id="7" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="marge" postag="NC" morpho="g=f|n=p" head="5" dep="suj">marges</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="glacier" postag="NC" morpho="g=m|n=s" head="3" dep="prep">glacier</word>
+          <word id="5" lem="porter" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">portent</word>
+          <word id="6" lem="des" postag="DET" morpho="n=p" head="7" dep="det">des</word>
+          <word id="7" lem="moraine" postag="NC" morpho="g=f|n=p" head="5" dep="obj">moraines</word>
+          <word id="8" lem="latéral" postag="ADJ" morpho="g=f|n=p" head="7" dep="mod">latérales</word>
+          <word id="9" lem="composer" postag="VPP" morpho="g=f|n=p|t=past" head="7" dep="mod">composées</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="de_obj">de</word>
+          <word id="11" lem="roche" postag="NC" morpho="g=f|n=p" head="10" dep="prep">roches</word>
+          <word id="12" lem="arracher" postag="VPP" morpho="g=f|n=p|t=past" head="11" dep="mod">arrachées</word>
+          <word id="13" lem="par" postag="P" morpho="_" head="12" dep="p_obj">par</word>
+          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
+          <word id="15" lem="glace" postag="NC" morpho="g=f|n=s" head="13" dep="prep">glace</word>
+          <word id="16" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
+          <word id="17" lem="par" postag="P" morpho="_" head="16" dep="dep_coord">par</word>
+          <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
+          <word id="19" lem="cycle" postag="NC" morpho="g=m|n=s" head="17" dep="prep">cycle</word>
+          <word id="20" lem="_" postag="NPP" morpho="_" head="19" dep="mod">gel-fonte</word>
+          <word id="21" lem="(" postag="PONCT" morpho="_" head="19" dep="ponct">(</word>
+          <word id="22" lem="cryoclastie" postag="NC" morpho="g=f|n=s" head="19" dep="mod">cryoclastie</word>
+          <word id="23" lem=")" postag="PONCT" morpho="_" head="19" dep="ponct">)</word>
+          <word id="24" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="moraine" postag="NC" morpho="g=f|n=p" head="0" dep="_">moraines</word>
+          <word id="3" lem="latéral" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">latérales</word>
+          <word id="4" lem="confluent" postag="NC" morpho="g=m|n=s" head="2" dep="mod">confluent</word>
+          <word id="5" lem="afin_de" postag="P" morpho="_" head="0" dep="_">afin_de</word>
+          <word id="6" lem="former" postag="VINF" morpho="_" head="5" dep="prep">former</word>
+          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
+          <word id="8" lem="moraine" postag="NC" morpho="g=f|n=p" head="6" dep="obj">moraines</word>
+          <word id="9" lem="médian" postag="ADJ" morpho="g=f|n=p" head="8" dep="mod">médianes</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="invisible" postag="ADJ" morpho="n=s" head="6" dep="mod">invisible</word>
+          <word id="2" lem="sous" postag="P" morpho="_" head="1" dep="mod">sous</word>
+          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
+          <word id="4" lem="glace" postag="NC" morpho="g=f|n=s" head="2" dep="prep">glace</word>
+          <word id="5" lem="se" postag="CLR" morpho="n=p|p=3" head="6" dep="aff">se</word>
+          <word id="6" lem="trouver" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">trouve</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="moraine" postag="NC" morpho="g=f|n=s" head="6" dep="obj">moraine</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="fond" postag="NC" morpho="g=m|n=s" head="9" dep="prep">fond</word>
+          <word id="11" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
+          <word id="12" lem="_" postag="NPP" morpho="_" head="8" dep="mod">till</word>
+          <word id="13" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="15" lem="arracher" postag="VPP" morpho="g=f|n=s|t=past" head="8" dep="mod">arrachée</word>
+          <word id="16" lem="de" postag="P+D" morpho="g=m|n=s" head="15" dep="de_obj">du</word>
+          <word id="17" lem="fond" postag="NC" morpho="g=m|n=s" head="16" dep="prep">fond</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
+          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
+          <word id="20" lem="vallée" postag="NC" morpho="g=f|n=s" head="18" dep="prep">vallée</word>
+          <word id="21" lem="et" postag="CC" morpho="_" head="15" dep="coord">et</word>
+          <word id="22" lem="broyer" postag="VPP" morpho="g=f|n=s|t=past" head="21" dep="dep_coord">broyée</word>
+          <word id="23" lem="par" postag="P" morpho="_" head="22" dep="p_obj">par</word>
+          <word id="24" lem="le" postag="DET" morpho="g=m|n=s" head="25" dep="det">le</word>
+          <word id="25" lem="mouvement" postag="NC" morpho="g=m|n=s" head="23" dep="prep">mouvement</word>
+          <word id="26" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
+          <word id="27" lem="la" postag="DET" morpho="g=f|n=s" head="28" dep="det">la</word>
+          <word id="28" lem="glace" postag="NC" morpho="g=f|n=s" head="26" dep="prep">glace</word>
+          <word id="29" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="à" postag="P" morpho="_" head="10" dep="mod">à</word>
+          <word id="2" lem="l'" postag="DET" morpho="n=s" head="3" dep="det">l'</word>
+          <word id="3" lem="extrémité" postag="NC" morpho="g=f|n=s" head="1" dep="prep">extrémité</word>
+          <word id="4" lem="aval" postag="ADJ" morpho="g=m|n=s" head="3" dep="mod">aval</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
+          <word id="7" lem="reste" postag="NC" morpho="g=m|n=p" head="10" dep="suj">restes</word>
+          <word id="8" lem="de" postag="P+D" morpho="n=p" head="7" dep="dep">des</word>
+          <word id="9" lem="rocher" postag="NC" morpho="g=m|n=p" head="8" dep="prep">rochers</word>
+          <word id="10" lem="tomber" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">tombent</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="de_obj">de</word>
+          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
+          <word id="13" lem="glace" postag="NC" morpho="g=f|n=s" head="11" dep="prep">glace</word>
+          <word id="14" lem="comme" postag="P" morpho="_" head="10" dep="mod">comme</word>
+          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
+          <word id="16" lem="moraine" postag="NC" morpho="g=f|n=s" head="14" dep="prep">moraine</word>
+          <word id="17" lem="frontal" postag="ADJ" morpho="g=f|n=s" head="16" dep="mod">frontale</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="parfois" postag="ADV" morpho="_" head="8" dep="mod">parfois</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
+          <word id="4" lem="front" postag="NC" morpho="g=m|n=s" head="8" dep="suj">front</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
+          <word id="7" lem="glace" postag="NC" morpho="g=f|n=s" head="5" dep="prep">glace</word>
+          <word id="8" lem="avancer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">avance</word>
+          <word id="9" lem="à_nouveau" postag="ADV" morpho="_" head="8" dep="mod">à_nouveau</word>
+          <word id="10" lem="en" postag="P" morpho="_" head="8" dep="mod">en</word>
+          <word id="11" lem="pousser" postag="VPR" morpho="t=pst" head="10" dep="prep">poussant</word>
+          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="13" lem="débris" postag="NC" morpho="g=m" head="11" dep="obj">débris</word>
+          <word id="14" lem="glaciaire" postag="ADJ" morpho="n=p" head="13" dep="mod">glaciaires</word>
+          <word id="15" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
+          <word id="16" lem="_" postag="ADJ" morpho="_" head="15" dep="dep_coord">fluvio-glaciaires</word>
+          <word id="17" lem="en_avant" postag="ADV" morpho="_" head="16" dep="mod">en_avant</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="19" lem="à" postag="P" morpho="_" head="11" dep="mod">à</word>
+          <word id="20" lem="la" postag="DET" morpho="g=f|n=s" head="21" dep="det">la</word>
+          <word id="21" lem="manière" postag="NC" morpho="g=f|n=s" head="19" dep="prep">manière</word>
+          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">d'</word>
+          <word id="23" lem="un" postag="DET" morpho="g=m|n=s" head="24" dep="det">un</word>
+          <word id="24" lem="bulldozer" postag="NC" morpho="g=m|n=s" head="22" dep="prep">bulldozer</word>
+          <word id="25" lem=";" postag="PONCT" morpho="_" head="8" dep="ponct">;</word>
+          <word id="26" lem="une" postag="DET" morpho="g=f|n=s" head="28" dep="det">une</word>
+          <word id="27" lem="_" postag="ADJ" morpho="_" head="28" dep="mod">moraine</word>
+          <word id="28" lem="poussée" postag="NC" morpho="g=f|n=s" head="30" dep="suj">poussée</word>
+          <word id="29" lem="se" postag="CLR" morpho="p=3" head="30" dep="aff">s'</word>
+          <word id="30" lem="inscrire" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="mod">inscrit</word>
+          <word id="31" lem="alors" postag="ADV" morpho="_" head="30" dep="mod">alors</word>
+          <word id="32" lem="dans" postag="P" morpho="_" head="30" dep="mod">dans</word>
+          <word id="33" lem="le" postag="DET" morpho="g=m|n=s" head="34" dep="det">le</word>
+          <word id="34" lem="paysage" postag="NC" morpho="g=m|n=s" head="32" dep="prep">paysage</word>
+          <word id="35" lem="libérer" postag="ADJ" morpho="g=m|n=s|t=past" head="34" dep="mod">libéré</word>
+          <word id="36" lem="de" postag="P+D" morpho="n=p" head="34" dep="dep">des</word>
+          <word id="37" lem="glace" postag="NC" morpho="g=f|n=p" head="36" dep="prep">glaces</word>
+          <word id="38" lem="," postag="PONCT" morpho="_" head="30" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="retrait" postag="NC" morpho="g=m|n=s" head="20" dep="suj">retrait</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="front" postag="NC" morpho="g=m|n=s" head="3" dep="prep">front</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="7" lem="glacier" postag="NC" morpho="g=m|n=s" head="5" dep="prep">glacier</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+          <word id="11" lem="calotte" postag="NC" morpho="g=f|n=s" head="9" dep="prep">calotte</word>
+          <word id="12" lem="glaciaire" postag="ADJ" morpho="n=s" head="11" dep="mod">glaciaire</word>
+          <word id="13" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep_coord">d'</word>
+          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
+          <word id="16" lem="nappe" postag="NC" morpho="g=f|n=s" head="14" dep="prep">nappe</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
+          <word id="18" lem="glace" postag="NC" morpho="g=f|n=s" head="17" dep="prep">glace</word>
+          <word id="19" lem="ne" postag="ADV" morpho="_" head="20" dep="mod">n'</word>
+          <word id="20" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="21" lem="pas" postag="ADV" morpho="_" head="20" dep="mod">pas</word>
+          <word id="22" lem="continu" postag="ADJ" morpho="g=m|n=s" head="20" dep="ats">continu</word>
+          <word id="23" lem="," postag="PONCT" morpho="_" head="26" dep="ponct">,</word>
+          <word id="24" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="26" dep="suj">il</word>
+          <word id="25" lem="y" postag="CLO" morpho="_" head="26" dep="aff">y</word>
+          <word id="26" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="20" dep="mod">a</word>
+          <word id="27" lem="des" postag="DET" morpho="n=p" head="28" dep="det">des</word>
+          <word id="28" lem="pause" postag="NC" morpho="g=f|n=p" head="26" dep="obj">pauses</word>
+          <word id="29" lem="," postag="PONCT" morpho="_" head="26" dep="ponct">,</word>
+          <word id="30" lem="ce" postag="PRO" morpho="_" head="26" dep="mod">ce</word>
+          <word id="31" lem="qui" postag="PROREL" morpho="n=s" head="32" dep="suj">qui</word>
+          <word id="32" lem="provoquer" postag="V" morpho="n=s|p=13|t=pst" head="30" dep="mod_rel">provoque</word>
+          <word id="33" lem="la" postag="DET" morpho="g=f|n=s" head="34" dep="det">la</word>
+          <word id="34" lem="formation" postag="NC" morpho="g=f|n=s" head="32" dep="obj">formation</word>
+          <word id="35" lem="de" postag="P" morpho="_" head="34" dep="dep">d'</word>
+          <word id="36" lem="une" postag="DET" morpho="g=f|n=s" head="37" dep="det">une</word>
+          <word id="37" lem="série" postag="NC" morpho="g=f|n=s" head="35" dep="prep">série</word>
+          <word id="38" lem="de" postag="P" morpho="_" head="37" dep="dep">de</word>
+          <word id="39" lem="moraine" postag="NC" morpho="g=f|n=p" head="38" dep="prep">moraines</word>
+          <word id="40" lem="de" postag="P" morpho="_" head="37" dep="dep">de</word>
+          <word id="41" lem="récession" postag="NC" morpho="g=f|n=s" head="40" dep="prep">récession</word>
+          <word id="42" lem="." postag="PONCT" morpho="_" head="20" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+        <word id="2" lem="mot" postag="NC" morpho="g=m|n=s" head="4" dep="suj">mot</word>
+        <word id="3" lem="moraine" postag="NC" morpho="g=f|n=s" head="2" dep="mod">moraine</word>
+        <word id="4" lem="porter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">porte</word>
+        <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+        <word id="6" lem="double" postag="ADJ" morpho="n=s" head="7" dep="mod">double</word>
+        <word id="7" lem="sens" postag="NC" morpho="g=m" head="4" dep="obj">sens</word>
+        <word id="8" lem="donc" postag="ADV" morpho="_" head="7" dep="mod">donc</word>
+        <word id="9" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+        <word id="10" lem="car" postag="CS" morpho="_" head="4" dep="mod">car</word>
+        <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
+        <word id="12" lem="origine" postag="NC" morpho="g=f|n=p" head="16" dep="suj">origines</word>
+        <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+        <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
+        <word id="15" lem="moraine" postag="NC" morpho="g=f|n=s" head="13" dep="prep">moraine</word>
+        <word id="16" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="10" dep="sub">sont</word>
+        <word id="17" lem="de" postag="P" morpho="_" head="16" dep="ats">de</word>
+        <word id="18" lem="deux" postag="NC" morpho="g=m" head="17" dep="prep">deux</word>
+        <word id="19" lem="sorte" postag="NC" morpho="g=f|n=p" head="18" dep="mod">sortes</word>
+        <word id="20" lem=":" postag="PONCT" morpho="_" head="16" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="allogène" postag="NC" morpho="g=m|n=s" head="0" dep="root">allogène</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="tout" postag="PRO" morpho="g=m|n=s" head="1" dep="mod">tout</word>
+          <word id="4" lem="ce" postag="PRO" morpho="_" head="3" dep="mod">ce</word>
+          <word id="5" lem="que" postag="PROREL" morpho="_" head="8" dep="obj">que</word>
+          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
+          <word id="7" lem="glacier" postag="NC" morpho="g=m|n=s" head="8" dep="suj">glacier</word>
+          <word id="8" lem="recevoir" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="mod_rel">reçoit</word>
+          <word id="9" lem="en" postag="P" morpho="_" head="8" dep="mod">en</word>
+          <word id="10" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="11" dep="det">sa</word>
+          <word id="11" lem="surface" postag="NC" morpho="g=f|n=s" head="9" dep="prep">surface</word>
+          <word id="12" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="13" lem="éboulis" postag="NC" morpho="g=m" head="1" dep="mod">éboulis</word>
+          <word id="14" lem="devoir" postag="V" morpho="n=s|p=12|t=past" head="0" dep="root">dus</word>
+          <word id="15" lem="à" postag="P" morpho="_" head="14" dep="a_obj">à</word>
+          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
+          <word id="17" lem="cryoclastie" postag="NC" morpho="g=f|n=s" head="15" dep="prep">cryoclastie</word>
+          <word id="18" lem="par" postag="P" morpho="_" head="17" dep="dep">par</word>
+          <word id="19" lem="exemple" postag="NC" morpho="g=m|n=s" head="18" dep="prep">exemple</word>
+          <word id="20" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
+          <word id="21" lem="." postag="PONCT" morpho="_" head="14" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="cette" postag="DET" morpho="g=f|n=s" head="2" dep="det">Cette</word>
+          <word id="2" lem="moraine" postag="NC" morpho="g=f|n=s" head="3" dep="suj">moraine</word>
+          <word id="3" lem="protéger" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">protège</word>
+          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
+          <word id="5" lem="glacier" postag="NC" morpho="g=m|n=s" head="3" dep="obj">glacier</word>
+          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
+          <word id="7" lem="rayonnement" postag="NC" morpho="g=m|n=s" head="6" dep="prep">rayonnement</word>
+          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
+          <word id="9" lem="soleil" postag="NC" morpho="g=m|n=s" head="8" dep="prep">soleil</word>
+          <word id="10" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
+          <word id="11" lem="cf" postag="P" morpho="_" head="5" dep="dep">Cf</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
+          <word id="14" lem="Mer" postag="NPP" morpho="g=m|n=s" head="3" dep="obj">Mer</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="3" dep="mod">de</word>
+          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Glace</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="autochtone" postag="NC" morpho="n=s" head="0" dep="root">autochtone</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="matériau" postag="NC" morpho="g=m|n=p" head="1" dep="mod">matériaux</word>
+          <word id="4" lem="produire" postag="VPP" morpho="g=m|n=p|t=past" head="3" dep="mod">produits</word>
+          <word id="5" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
+          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
+          <word id="7" lem="travail" postag="NC" morpho="g=m|n=s" head="5" dep="prep">travail</word>
+          <word id="8" lem="même" postag="ADJ" morpho="n=s" head="7" dep="mod">même</word>
+          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
+          <word id="10" lem="glacier" postag="NC" morpho="g=m|n=s" head="9" dep="prep">glacier</word>
+          <word id="11" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
+          <word id="12" lem="broyage" postag="NC" morpho="g=m|n=s" head="7" dep="mod">broyage</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+          <word id="14" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="15" dep="det">son</word>
+          <word id="15" lem="lit" postag="NC" morpho="g=m|n=s" head="13" dep="prep">lit</word>
+          <word id="16" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="17" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="67" />
+      <text>Types de dépôts morainiques
+La dynamique glaciaire s'exprime par :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="68" end="204" id="0" />
+      <text id="0">les marges du glacier portent des moraines latérales composées de roches arrachées par la glace et par le cycle gel-fonte (cryoclastie).</text>
+      <span begin="205" end="275" id="1" />
+      <text id="1">les moraines latérales confluent afin de former des moraines médianes,</text>
+      <span begin="276" end="406" id="2" />
+      <text id="2">invisible sous la glace se trouve la moraine de fond (till), arrachée du fond de la vallée et broyée par le mouvement de la glace,</text>
+      <span begin="407" end="497" id="3" />
+      <text id="3">à l'extrémité aval, les restes des rochers tombent de la glace comme une moraine frontale,</text>
+      <span begin="498" end="710" id="4" />
+      <text id="4">parfois, le front de la glace avance à nouveau en poussant les débris glaciaires et fluvio-glaciaires en avant, à la manière d'un bulldozer ; une moraine poussée s'inscrit alors dans le paysage libéré des glaces,</text>
+      <span begin="711" end="897" id="5" />
+      <text id="5">le retrait du front d'un glacier, d'une calotte glaciaire ou d'une nappe de glace n'est pas continu, il y a des pauses, ce qui provoque la formation d'une série de moraines de récession.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="96" />
+      <text>Le mot moraine porte un double sens donc, car les origines de la moraine sont de deux sortes :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="97" end="275" id="0" />
+      <text id="0">allogène : tout ce que le glacier reçoit en sa surface (éboulis dus à la cryoclastie par exemple). Cette moraine protège le glacier du rayonnement du soleil (Cf. la Mer de Glace)</text>
+      <span begin="277" end="361" id="1" />
+      <text id="1">autochtone : matériaux produits par le travail même du glacier (broyage de son lit).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="28" id="0" />
+      <text id="0">Types de dépôts morainiques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="98" end="120" id="0" />
+      <text id="0">des moraines latérales</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="253" end="274" id="0" />
+      <text id="0">des moraines médianes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="310" end="328" id="0" />
+      <text id="0">la moraine de fond</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="476" end="496" id="0" />
+      <text id="0">une moraine frontale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="640" end="659" id="0" />
+      <text id="0">une moraine poussée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="5">
+      <span begin="874" end="897" id="0" />
+      <text id="0">moraines de récession.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="52" end="74" id="0" />
+      <text id="0">origines de la moraine</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="97" end="106" id="0" />
+      <text id="0">allogène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="277" end="287" id="0" />
+      <text id="0">autochtone</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
+      <span begin="74" end="80" id="0" />
+      <text id="0">sont</text>
+      <span begin="80" end="95" id="1" />
+      <text id="1">de deux sortes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:41</date>
+      <document>Moraine.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

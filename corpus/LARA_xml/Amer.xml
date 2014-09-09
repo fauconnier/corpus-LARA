@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Amer
+Amer, une des saveurs primaires du goût, typique de l'amertume.
+Un amer désigne de manière générique une liqueur apéritive fabriquée à partir de l'infusion de plantes amères.
+Un amer est un point de repère fixe et identifiable sans ambiguïté utilisé pour la navigation maritime.
+L'Amer est une rivière néerlandaise située dans la province du Brabant-Septentrional.
+Amer est une commune située au nord-est de l'Espagne en Catalogne, dans le piémont pyrénéen.
+Le Ministère A.M.E.R. est un groupe de rap français originaire de Sarcelles.
+Amer est un film de Hélène Cattet et Bruno Forzani sorti en 2010.</text>
+      <span begin="3" end="608" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="amer" postag="NC" morpho="g=m|n=s" head="0" dep="_">Amer</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="amer" postag="NC" morpho="g=m|n=s" head="0" dep="_">Amer</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="3" lem="un" postag="PRO" morpho="g=f|n=s" head="0" dep="_">une</word>
+          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
+          <word id="5" lem="saveur" postag="NC" morpho="g=f|n=p" head="4" dep="prep">saveurs</word>
+          <word id="6" lem="primaire" postag="ADJ" morpho="n=p" head="5" dep="mod">primaires</word>
+          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
+          <word id="8" lem="goût" postag="NC" morpho="g=m|n=s" head="7" dep="prep">goût</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="10" lem="typique" postag="NC" morpho="g=f|n=s" head="0" dep="_">typique</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
+          <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
+          <word id="13" lem="amertume" postag="NC" morpho="g=f|n=s" head="11" dep="prep">amertume</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="amer" postag="NC" morpho="g=m|n=s" head="3" dep="suj">amer</word>
+          <word id="3" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">de</word>
+          <word id="5" lem="manière" postag="NC" morpho="g=f|n=s" head="4" dep="prep">manière</word>
+          <word id="6" lem="générique" postag="ADJ" morpho="n=s" head="5" dep="mod">générique</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="liqueur" postag="NC" morpho="g=f|n=s" head="3" dep="obj">liqueur</word>
+          <word id="9" lem="apéritif" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">apéritive</word>
+          <word id="10" lem="fabriquer" postag="VPP" morpho="g=f|n=s|t=past" head="8" dep="mod">fabriquée</word>
+          <word id="11" lem="à_partir_de" postag="P" morpho="_" head="10" dep="mod">à_partir_de</word>
+          <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
+          <word id="13" lem="infusion" postag="NC" morpho="g=f|n=s" head="11" dep="prep">infusion</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+          <word id="15" lem="plante" postag="NC" morpho="g=f|n=p" head="14" dep="prep">plantes</word>
+          <word id="16" lem="amer" postag="ADJ" morpho="g=f|n=p" head="15" dep="mod">amères</word>
+          <word id="17" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="amer" postag="NC" morpho="g=m|n=s" head="3" dep="suj">amer</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="point" postag="NC" morpho="g=m|n=s" head="3" dep="ats">point</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="repère" postag="NC" morpho="g=m|n=s" head="6" dep="prep">repère</word>
+          <word id="8" lem="fixe" postag="ADJ" morpho="n=s" head="7" dep="mod">fixe</word>
+          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="10" lem="identifiable" postag="ADJ" morpho="n=s" head="9" dep="dep_coord">identifiable</word>
+          <word id="11" lem="sans" postag="P" morpho="_" head="5" dep="dep">sans</word>
+          <word id="12" lem="ambiguïté" postag="NC" morpho="g=f|n=s" head="11" dep="prep">ambiguïté</word>
+          <word id="13" lem="utiliser" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">utilisé</word>
+          <word id="14" lem="pour" postag="P" morpho="_" head="13" dep="mod">pour</word>
+          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+          <word id="16" lem="navigation" postag="NC" morpho="g=f|n=s" head="14" dep="prep">navigation</word>
+          <word id="17" lem="maritime" postag="ADJ" morpho="n=s" head="16" dep="mod">maritime</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Amer</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="rivière" postag="NC" morpho="g=f|n=s" head="3" dep="ats">rivière</word>
+          <word id="6" lem="néerlandais" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">néerlandaise</word>
+          <word id="7" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="5" dep="mod">située</word>
+          <word id="8" lem="dans" postag="P" morpho="_" head="7" dep="mod">dans</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
+          <word id="10" lem="province" postag="NC" morpho="g=f|n=s" head="8" dep="prep">province</word>
+          <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="dep">du</word>
+          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Brabant-Septentrional</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="amer" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Amer</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
+          <word id="5" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="4" dep="mod">située</word>
+          <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="5" dep="a_obj">au</word>
+          <word id="7" lem="nord-est" postag="NC" morpho="g=m" head="6" dep="prep">nord-est</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
+          <word id="10" lem="Espagne" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Espagne</word>
+          <word id="11" lem="en" postag="P" morpho="_" head="5" dep="mod">en</word>
+          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Catalogne</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="14" lem="dans" postag="P" morpho="_" head="5" dep="mod">dans</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+          <word id="16" lem="piémont" postag="NC" morpho="g=m|n=s" head="14" dep="prep">piémont</word>
+          <word id="17" lem="_" postag="ADJ" morpho="_" head="16" dep="mod">pyrénéen</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="5" dep="suj">Ministère</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">A.M.E.R</word>
+          <word id="4" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="7" lem="groupe" postag="NC" morpho="g=m|n=s" head="5" dep="ats">groupe</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="rap" postag="NC" morpho="g=m|n=s" head="8" dep="prep">rap</word>
+          <word id="10" lem="français" postag="ADJ" morpho="g=m" head="9" dep="mod">français</word>
+          <word id="11" lem="originaire" postag="ADJ" morpho="n=s" head="9" dep="mod">originaire</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="13" lem="Sarcelles" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Sarcelles</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="amer" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Amer</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="ats">film</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="Hélène" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Hélène</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Cattet</word>
+          <word id="8" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
+          <word id="9" lem="Bruno" postag="NPP" morpho="g=m|n=s" head="8" dep="dep_coord">Bruno</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Forzani</word>
+          <word id="11" lem="sortir" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">sorti</word>
+          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
+          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">2010</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="5" />
+      <text>Amer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="6" end="69" id="0" />
+      <text id="0">Amer, une des saveurs primaires du goût, typique de l'amertume.</text>
+      <span begin="70" end="180" id="1" />
+      <text id="1">Un amer désigne de manière générique une liqueur apéritive fabriquée à partir de l'infusion de plantes amères.</text>
+      <span begin="181" end="284" id="2" />
+      <text id="2">Un amer est un point de repère fixe et identifiable sans ambiguïté utilisé pour la navigation maritime.</text>
+      <span begin="285" end="370" id="3" />
+      <text id="3">L'Amer est une rivière néerlandaise située dans la province du Brabant-Septentrional.</text>
+      <span begin="371" end="463" id="4" />
+      <text id="4">Amer est une commune située au nord-est de l'Espagne en Catalogne, dans le piémont pyrénéen.</text>
+      <span begin="464" end="540" id="5" />
+      <text id="5">Le Ministère A.M.E.R. est un groupe de rap français originaire de Sarcelles.</text>
+      <span begin="541" end="606" id="6" />
+      <text id="6">Amer est un film de Hélène Cattet et Bruno Forzani sorti en 2010.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="5" id="0" />
+      <text id="0">Amer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="6" end="10" id="0" />
+      <text id="0">Amer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="181" end="188" id="0" />
+      <text id="0">Un amer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="285" end="291" id="0" />
+      <text id="0">L'Amer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="371" end="375" id="0" />
+      <text id="0">Amer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="5">
+      <span begin="464" end="485" id="0" />
+      <text id="0">Le Ministère A.M.E.R.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="6">
+      <span begin="541" end="546" id="0" />
+      <text id="0">Amer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Amer.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

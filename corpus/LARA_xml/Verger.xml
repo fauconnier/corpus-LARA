@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>L'exploitation commerciale d'un verger est une opération risquée dépendant de nombreux éléments tels que :
+un marché de l'offre et de la demande très fluctuants (actuellement l'offre est plus importante que la demande pour de très nombreux fruits)
+le choix des variétés de fruits. Une variété peut être très « à la mode » au moment de la plantation des arbres et être très démodée 10 ans plus tard. Il faut alors parfois surgreffer les arbres avec une nouvelle variété plus recherchée.
+une exposition importante aux aléas climatiques (même s'il existe des assurances pour se protéger de ce genre de problèmes):
+le gel tardif peut réduire une récolte annuelle à néant,
+la grêle peut cause de gros dégâts (mais il est possible, quoique coûteux, d'installer des filets para-grêle au-dessus des arbres),
+des froids exceptionnels peuvent tuer les arbres et obliger à replanter l'intégralité du verger l'année suivante.
+Les problèmes de sécheresse peuvent être partiellement réglés par un bon système d'irrigation mais une trop forte chaleur en été ou au moment de la récolte donne des fruits petits et peu colorés,
+une bonne gestion des risques phytosanitaires impliquant d'avoir du personnel qualifié, souvent difficile à trouver,
+une capacité financière permettant d'investir dans une production (terrain, système d'irrigation, achat des arbres, tuteurage) qui ne rapporte « à plein » qu'après plusieurs années d'exploitation.</text>
+      <span begin="4995" end="6418" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>une exposition importante aux aléas climatiques (même s'il existe des assurances pour se protéger de ce genre de problèmes):
+le gel tardif peut réduire une récolte annuelle à néant,
+la grêle peut cause de gros dégâts (mais il est possible, quoique coûteux, d'installer des filets para-grêle au-dessus des arbres),
+des froids exceptionnels peuvent tuer les arbres et obliger à replanter l'intégralité du verger l'année suivante.
+Les problèmes de sécheresse peuvent être partiellement réglés par un bon système d'irrigation mais une trop forte chaleur en été ou au moment de la récolte donne des fruits petits et peu colorés,
+une bonne gestion des risques phytosanitaires impliquant d'avoir du personnel qualifié, souvent difficile à trouver,
+une capacité financière permettant d'investir dans une production (terrain, système d'irrigation, achat des arbres, tuteurage) qui ne rapporte « à plein » qu'après plusieurs années d'exploitation.</text>
+      <span begin="5481" end="6418" />
+    </SE>
+    <comment>axe rhétorique ??? les deux derniers items non parad. ni synt.</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
+        <word id="2" lem="exploitation" postag="NC" morpho="g=f|n=s" head="7" dep="suj">exploitation</word>
+        <word id="3" lem="commercial" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">commerciale</word>
+        <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+        <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+        <word id="6" lem="verger" postag="NC" morpho="g=m|n=s" head="4" dep="prep">verger</word>
+        <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
+        <word id="9" lem="opération" postag="NC" morpho="g=f|n=s" head="7" dep="ats">opération</word>
+        <word id="10" lem="risquer" postag="VPP" morpho="g=f|n=s|t=past" head="9" dep="mod">risquée</word>
+        <word id="11" lem="_" postag="NC" morpho="_" head="10" dep="mod">dépendant</word>
+        <word id="12" lem="de" postag="DET" morpho="n=p" head="14" dep="det">de</word>
+        <word id="13" lem="nombreux" postag="ADJ" morpho="g=m" head="14" dep="mod">nombreux</word>
+        <word id="14" lem="élément" postag="NC" morpho="g=m|n=p" head="10" dep="mod">éléments</word>
+        <word id="15" lem="tel" postag="ADJ" morpho="g=m|n=p" head="14" dep="mod">tels</word>
+        <word id="16" lem="que" postag="CS" morpho="_" head="15" dep="dep">que</word>
+        <word id="17" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
+          <word id="2" lem="marché" postag="NC" morpho="g=m|n=s" head="16" dep="suj">marché</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+          <word id="5" lem="offre" postag="NC" morpho="g=f|n=s" head="3" dep="prep">offre</word>
+          <word id="6" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep_coord">de</word>
+          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
+          <word id="9" lem="demande" postag="NC" morpho="g=f|n=s" head="7" dep="prep">demande</word>
+          <word id="10" lem="très" postag="ADV" morpho="_" head="11" dep="mod">très</word>
+          <word id="11" lem="fluctuant" postag="ADJ" morpho="g=m|n=p" head="9" dep="mod">fluctuants</word>
+          <word id="12" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
+          <word id="13" lem="actuellement" postag="ADV" morpho="_" head="16" dep="mod">actuellement</word>
+          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
+          <word id="15" lem="offre" postag="NC" morpho="g=f|n=s" head="16" dep="suj">offre</word>
+          <word id="16" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="17" lem="plus" postag="ADV" morpho="_" head="18" dep="mod">plus</word>
+          <word id="18" lem="important" postag="ADJ" morpho="g=f|n=s" head="16" dep="ats">importante</word>
+          <word id="19" lem="que" postag="CS" morpho="_" head="18" dep="dep">que</word>
+          <word id="20" lem="la" postag="DET" morpho="g=f|n=s" head="21" dep="det">la</word>
+          <word id="21" lem="demande" postag="NC" morpho="g=f|n=s" head="19" dep="sub">demande</word>
+          <word id="22" lem="pour" postag="P" morpho="_" head="21" dep="dep">pour</word>
+          <word id="23" lem="de" postag="DET" morpho="n=p" head="26" dep="det">de</word>
+          <word id="24" lem="très" postag="ADV" morpho="_" head="25" dep="mod">très</word>
+          <word id="25" lem="nombreux" postag="ADJ" morpho="g=m" head="26" dep="mod">nombreux</word>
+          <word id="26" lem="fruit" postag="NC" morpho="g=m|n=p" head="22" dep="prep">fruits</word>
+          <word id="27" lem=")" postag="PONCT" morpho="_" head="16" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="choix" postag="NC" morpho="g=m" head="0" dep="_">choix</word>
+          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+          <word id="4" lem="variété" postag="NC" morpho="g=f|n=p" head="3" dep="prep">variétés</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="fruit" postag="NC" morpho="g=m|n=p" head="5" dep="prep">fruits</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
+          <word id="2" lem="variété" postag="NC" morpho="g=f|n=s" head="3" dep="suj">variété</word>
+          <word id="3" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+          <word id="4" lem="être" postag="VINF" morpho="_" head="3" dep="obj">être</word>
+          <word id="5" lem="très" postag="ADV" morpho="_" head="0" dep="_">très</word>
+          <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="0" dep="_">"</word>
+          <word id="7" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
+          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
+          <word id="9" lem="mode" postag="NC" morpho="n=s" head="7" dep="prep">mode</word>
+          <word id="10" lem="&quot;" postag="PONCT" morpho="_" head="9" dep="ponct">"</word>
+          <word id="11" lem="à" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">au</word>
+          <word id="12" lem="moment" postag="NC" morpho="g=m|n=s" head="11" dep="prep">moment</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
+          <word id="15" lem="plantation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">plantation</word>
+          <word id="16" lem="de" postag="P+D" morpho="n=p" head="15" dep="dep">des</word>
+          <word id="17" lem="arbre" postag="NC" morpho="g=m|n=p" head="16" dep="prep">arbres</word>
+          <word id="18" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
+          <word id="19" lem="être" postag="VINF" morpho="_" head="18" dep="dep_coord">être</word>
+          <word id="20" lem="très" postag="ADV" morpho="_" head="21" dep="mod">très</word>
+          <word id="21" lem="démoder" postag="VPP" morpho="g=f|n=s|t=past" head="19" dep="ats">démodée</word>
+          <word id="22" lem="#NUM#" postag="DET" morpho="n=p" head="23" dep="det">10</word>
+          <word id="23" lem="an" postag="NC" morpho="g=m|n=p" head="21" dep="mod">ans</word>
+          <word id="24" lem="plus" postag="ADV" morpho="_" head="25" dep="mod">plus</word>
+          <word id="25" lem="tard" postag="ADV" morpho="_" head="23" dep="mod">tard</word>
+          <word id="26" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="2" dep="suj">Il</word>
+          <word id="2" lem="falloir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">faut</word>
+          <word id="3" lem="alors" postag="ADV" morpho="_" head="2" dep="mod">alors</word>
+          <word id="4" lem="parfois" postag="ADV" morpho="_" head="2" dep="mod">parfois</word>
+          <word id="5" lem="_" postag="VINF" morpho="_" head="2" dep="obj">surgreffer</word>
+          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
+          <word id="7" lem="arbre" postag="NC" morpho="g=m|n=p" head="5" dep="obj">arbres</word>
+          <word id="8" lem="avec" postag="P" morpho="_" head="5" dep="mod">avec</word>
+          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+          <word id="10" lem="nouveau" postag="ADJ" morpho="g=f|n=s" head="11" dep="mod">nouvelle</word>
+          <word id="11" lem="variété" postag="NC" morpho="g=f|n=s" head="8" dep="prep">variété</word>
+          <word id="12" lem="plus" postag="ADV" morpho="_" head="13" dep="mod">plus</word>
+          <word id="13" lem="rechercher" postag="VPP" morpho="g=f|n=s|t=past" head="11" dep="mod">recherchée</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+          <word id="2" lem="exposition" postag="NC" morpho="g=f|n=s" head="0" dep="_">exposition</word>
+          <word id="3" lem="important" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">importante</word>
+          <word id="4" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
+          <word id="5" lem="aléa" postag="NC" morpho="g=m|n=p" head="4" dep="prep">aléas</word>
+          <word id="6" lem="climatique" postag="ADJ" morpho="n=p" head="5" dep="mod">climatiques</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
+          <word id="8" lem="même_si" postag="CS" morpho="_" head="0" dep="_">même_s'</word>
+          <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="10" dep="suj">il</word>
+          <word id="10" lem="exister" postag="V" morpho="n=s|p=13|t=pst" head="8" dep="sub">existe</word>
+          <word id="11" lem="des" postag="DET" morpho="n=p" head="12" dep="det">des</word>
+          <word id="12" lem="assurance" postag="NC" morpho="g=f|n=p" head="10" dep="obj">assurances</word>
+          <word id="13" lem="pour" postag="P" morpho="_" head="10" dep="mod">pour</word>
+          <word id="14" lem="se" postag="CLR" morpho="n=p|p=3" head="15" dep="obj">se</word>
+          <word id="15" lem="protéger" postag="VINF" morpho="_" head="13" dep="prep">protéger</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="de_obj">de</word>
+          <word id="17" lem="ce" postag="DET" morpho="g=m|n=s" head="18" dep="det">ce</word>
+          <word id="18" lem="genre" postag="NC" morpho="g=m|n=s" head="16" dep="prep">genre</word>
+          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
+          <word id="20" lem="problème" postag="NC" morpho="g=m|n=p" head="19" dep="prep">problèmes</word>
+          <word id="21" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
+          <word id="22" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="gel" postag="NC" morpho="g=m|n=s" head="4" dep="suj">gel</word>
+          <word id="3" lem="tardif" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">tardif</word>
+          <word id="4" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+          <word id="5" lem="réduire" postag="VINF" morpho="_" head="4" dep="obj">réduire</word>
+          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+          <word id="7" lem="récolte" postag="NC" morpho="g=f|n=s" head="5" dep="obj">récolte</word>
+          <word id="8" lem="annuel" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">annuelle</word>
+          <word id="9" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
+          <word id="10" lem="néant" postag="NC" morpho="g=m|n=s" head="9" dep="prep">néant</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="grêle" postag="NC" morpho="g=f|n=s" head="3" dep="suj">grêle</word>
+          <word id="3" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+          <word id="4" lem="cause" postag="NC" morpho="g=f|n=s" head="3" dep="obj">cause</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="gros" postag="ADJ" morpho="g=m" head="7" dep="mod">gros</word>
+          <word id="7" lem="dégât" postag="NC" morpho="g=m|n=p" head="5" dep="prep">dégâts</word>
+          <word id="8" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+          <word id="9" lem="mais" postag="CC" morpho="_" head="3" dep="coord">mais</word>
+          <word id="10" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="11" dep="suj">il</word>
+          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="dep_coord">est</word>
+          <word id="12" lem="possible" postag="ADJ" morpho="n=s" head="11" dep="ats">possible</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="14" lem="quoique" postag="CS" morpho="_" head="11" dep="mod">quoique</word>
+          <word id="15" lem="coûteux" postag="ADJ" morpho="g=m" head="14" dep="sub">coûteux</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="11" dep="obj">d'</word>
+          <word id="18" lem="installer" postag="VINF" morpho="_" head="17" dep="prep">installer</word>
+          <word id="19" lem="des" postag="DET" morpho="n=p" head="20" dep="det">des</word>
+          <word id="20" lem="filet" postag="NC" morpho="g=m|n=p" head="18" dep="obj">filets</word>
+          <word id="21" lem="_" postag="ADJ" morpho="_" head="20" dep="mod">para-grêle</word>
+          <word id="22" lem="au-dessus_de" postag="P+D" morpho="n=p" head="18" dep="mod">au-dessus_des</word>
+          <word id="23" lem="arbre" postag="NC" morpho="g=m|n=p" head="22" dep="prep">arbres</word>
+          <word id="24" lem=")" postag="PONCT" morpho="_" head="18" dep="ponct">)</word>
+          <word id="25" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
+          <word id="2" lem="froid" postag="NC" morpho="g=m|n=p" head="4" dep="suj">froids</word>
+          <word id="3" lem="exceptionnel" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">exceptionnels</word>
+          <word id="4" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
+          <word id="5" lem="tuer" postag="VINF" morpho="_" head="4" dep="obj">tuer</word>
+          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
+          <word id="7" lem="arbre" postag="NC" morpho="g=m|n=p" head="5" dep="obj">arbres</word>
+          <word id="8" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
+          <word id="9" lem="obliger" postag="VINF" morpho="_" head="8" dep="dep_coord">obliger</word>
+          <word id="10" lem="à" postag="P" morpho="_" head="9" dep="a_obj">à</word>
+          <word id="11" lem="replanter" postag="VINF" morpho="_" head="10" dep="prep">replanter</word>
+          <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
+          <word id="13" lem="intégralité" postag="NC" morpho="g=f|n=s" head="11" dep="obj">intégralité</word>
+          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+          <word id="15" lem="verger" postag="NC" morpho="g=m|n=s" head="14" dep="prep">verger</word>
+          <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
+          <word id="17" lem="année" postag="NC" morpho="g=f|n=s" head="11" dep="mod">année</word>
+          <word id="18" lem="suivant" postag="ADJ" morpho="g=f|n=s" head="17" dep="mod">suivante</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="problème" postag="NC" morpho="g=m|n=p" head="5" dep="suj">problèmes</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="sécheresse" postag="NC" morpho="g=f|n=s" head="3" dep="prep">sécheresse</word>
+          <word id="5" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
+          <word id="6" lem="être" postag="VINF" morpho="_" head="8" dep="aux_pass">être</word>
+          <word id="7" lem="partiellement" postag="ADV" morpho="_" head="8" dep="mod">partiellement</word>
+          <word id="8" lem="régler" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="obj">réglés</word>
+          <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
+          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
+          <word id="11" lem="bon" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">bon</word>
+          <word id="12" lem="système" postag="NC" morpho="g=m|n=s" head="9" dep="prep">système</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
+          <word id="14" lem="irrigation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">irrigation</word>
+          <word id="15" lem="mais" postag="CC" morpho="_" head="5" dep="coord">mais</word>
+          <word id="16" lem="une" postag="DET" morpho="g=f|n=s" head="19" dep="det">une</word>
+          <word id="17" lem="trop" postag="ADV" morpho="_" head="18" dep="mod">trop</word>
+          <word id="18" lem="fort" postag="ADJ" morpho="g=f|n=s" head="19" dep="mod">forte</word>
+          <word id="19" lem="chaleur" postag="NC" morpho="g=f|n=s" head="15" dep="dep_coord">chaleur</word>
+          <word id="20" lem="en" postag="P" morpho="_" head="19" dep="dep">en</word>
+          <word id="21" lem="été" postag="NC" morpho="g=m|n=s" head="20" dep="prep">été</word>
+          <word id="22" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
+          <word id="23" lem="à" postag="P+D" morpho="g=m|n=s" head="22" dep="dep_coord">au</word>
+          <word id="24" lem="moment" postag="NC" morpho="g=m|n=s" head="23" dep="prep">moment</word>
+          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">de</word>
+          <word id="26" lem="la" postag="DET" morpho="g=f|n=s" head="27" dep="det">la</word>
+          <word id="27" lem="récolte" postag="NC" morpho="g=f|n=s" head="25" dep="prep">récolte</word>
+          <word id="28" lem="donner" postag="V" morpho="n=s|p=13|t=pst" head="22" dep="dep_coord">donne</word>
+          <word id="29" lem="des" postag="DET" morpho="n=p" head="30" dep="det">des</word>
+          <word id="30" lem="fruit" postag="NC" morpho="g=m|n=p" head="28" dep="obj">fruits</word>
+          <word id="31" lem="petit" postag="ADJ" morpho="g=m|n=p" head="30" dep="mod">petits</word>
+          <word id="32" lem="et" postag="CC" morpho="_" head="31" dep="coord">et</word>
+          <word id="33" lem="peu" postag="ADV" morpho="_" head="34" dep="mod">peu</word>
+          <word id="34" lem="colorer" postag="VPP" morpho="g=m|n=p|t=past" head="32" dep="dep_coord">colorés</word>
+          <word id="35" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">une</word>
+          <word id="2" lem="bon" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">bonne</word>
+          <word id="3" lem="gestion" postag="NC" morpho="g=f|n=s" head="0" dep="_">gestion</word>
+          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
+          <word id="5" lem="risque" postag="NC" morpho="g=m|n=p" head="4" dep="prep">risques</word>
+          <word id="6" lem="_" postag="ADJ" morpho="_" head="5" dep="mod">phytosanitaires</word>
+          <word id="7" lem="impliquer" postag="VPR" morpho="t=pst" head="5" dep="mod">impliquant</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">d'</word>
+          <word id="9" lem="avoir" postag="VINF" morpho="_" head="8" dep="prep">avoir</word>
+          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="de_obj">du</word>
+          <word id="11" lem="personnel" postag="NC" morpho="g=m|n=s" head="10" dep="prep">personnel</word>
+          <word id="12" lem="qualifier" postag="ADJ" morpho="g=m|n=s|t=past" head="11" dep="mod">qualifié</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="14" lem="souvent" postag="ADV" morpho="_" head="15" dep="mod">souvent</word>
+          <word id="15" lem="difficile" postag="ADJ" morpho="n=s" head="11" dep="mod">difficile</word>
+          <word id="16" lem="à" postag="P" morpho="_" head="15" dep="mod">à</word>
+          <word id="17" lem="trouver" postag="VINF" morpho="_" head="16" dep="prep">trouver</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
+        </sentence>
+        <sentence id="7">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+          <word id="2" lem="capacité" postag="NC" morpho="g=f|n=s" head="0" dep="_">capacité</word>
+          <word id="3" lem="financier" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">financière</word>
+          <word id="4" lem="permettre" postag="VPR" morpho="t=pst" head="2" dep="mod">permettant</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="obj">d'</word>
+          <word id="6" lem="investir" postag="VINF" morpho="_" head="5" dep="prep">investir</word>
+          <word id="7" lem="dans" postag="P" morpho="_" head="6" dep="p_obj">dans</word>
+          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
+          <word id="9" lem="production" postag="NC" morpho="g=f|n=s" head="7" dep="prep">production</word>
+          <word id="10" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
+          <word id="11" lem="terrain" postag="NC" morpho="g=m|n=s" head="9" dep="mod">terrain</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="13" lem="système" postag="NC" morpho="g=m|n=s" head="9" dep="mod">système</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
+          <word id="15" lem="irrigation" postag="NC" morpho="g=f|n=s" head="14" dep="prep">irrigation</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="17" lem="achat" postag="NC" morpho="g=m|n=s" head="9" dep="mod">achat</word>
+          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
+          <word id="19" lem="arbre" postag="NC" morpho="g=m|n=p" head="18" dep="prep">arbres</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="21" lem="tuteurage" postag="NC" morpho="g=m|n=s" head="9" dep="mod">tuteurage</word>
+          <word id="22" lem=")" postag="PONCT" morpho="_" head="9" dep="ponct">)</word>
+          <word id="23" lem="qui" postag="PROREL" morpho="n=s" head="25" dep="suj">qui</word>
+          <word id="24" lem="ne" postag="ADV" morpho="_" head="25" dep="mod">ne</word>
+          <word id="25" lem="rapporter" postag="V" morpho="n=s|p=13|t=pst" head="9" dep="mod_rel">rapporte</word>
+          <word id="26" lem="&quot;" postag="PONCT" morpho="_" head="25" dep="ponct">"</word>
+          <word id="27" lem="à" postag="P" morpho="_" head="25" dep="mod">à</word>
+          <word id="28" lem="plein" postag="ADJ" morpho="g=m|n=s" head="27" dep="prep">plein</word>
+          <word id="29" lem="&quot;" postag="PONCT" morpho="_" head="25" dep="ponct">"</word>
+          <word id="30" lem="que" postag="CS" morpho="_" head="25" dep="obj">qu'</word>
+          <word id="31" lem="après" postag="P" morpho="_" head="0" dep="_">après</word>
+          <word id="32" lem="plusieurs" postag="DET" morpho="n=p" head="33" dep="det">plusieurs</word>
+          <word id="33" lem="année" postag="NC" morpho="g=f|n=p" head="31" dep="prep">années</word>
+          <word id="34" lem="de" postag="P" morpho="_" head="33" dep="dep">d'</word>
+          <word id="35" lem="exploitation" postag="NC" morpho="g=f|n=s" head="34" dep="prep">exploitation</word>
+          <word id="36" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+        <word id="2" lem="exposition" postag="NC" morpho="g=f|n=s" head="0" dep="_">exposition</word>
+        <word id="3" lem="important" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">importante</word>
+        <word id="4" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
+        <word id="5" lem="aléa" postag="NC" morpho="g=m|n=p" head="4" dep="prep">aléas</word>
+        <word id="6" lem="climatique" postag="ADJ" morpho="n=p" head="5" dep="mod">climatiques</word>
+        <word id="7" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
+        <word id="8" lem="même_si" postag="CS" morpho="_" head="0" dep="_">même_s'</word>
+        <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="10" dep="suj">il</word>
+        <word id="10" lem="exister" postag="V" morpho="n=s|p=13|t=pst" head="8" dep="sub">existe</word>
+        <word id="11" lem="des" postag="DET" morpho="n=p" head="12" dep="det">des</word>
+        <word id="12" lem="assurance" postag="NC" morpho="g=f|n=p" head="10" dep="obj">assurances</word>
+        <word id="13" lem="pour" postag="P" morpho="_" head="10" dep="mod">pour</word>
+        <word id="14" lem="se" postag="CLR" morpho="n=p|p=3" head="15" dep="obj">se</word>
+        <word id="15" lem="protéger" postag="VINF" morpho="_" head="13" dep="prep">protéger</word>
+        <word id="16" lem="de" postag="P" morpho="_" head="15" dep="de_obj">de</word>
+        <word id="17" lem="ce" postag="DET" morpho="g=m|n=s" head="18" dep="det">ce</word>
+        <word id="18" lem="genre" postag="NC" morpho="g=m|n=s" head="16" dep="prep">genre</word>
+        <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
+        <word id="20" lem="problème" postag="NC" morpho="g=m|n=p" head="19" dep="prep">problèmes</word>
+        <word id="21" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
+        <word id="22" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="gel" postag="NC" morpho="g=m|n=s" head="4" dep="suj">gel</word>
+          <word id="3" lem="tardif" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">tardif</word>
+          <word id="4" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+          <word id="5" lem="réduire" postag="VINF" morpho="_" head="4" dep="obj">réduire</word>
+          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+          <word id="7" lem="récolte" postag="NC" morpho="g=f|n=s" head="5" dep="obj">récolte</word>
+          <word id="8" lem="annuel" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">annuelle</word>
+          <word id="9" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
+          <word id="10" lem="néant" postag="NC" morpho="g=m|n=s" head="9" dep="prep">néant</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="grêle" postag="NC" morpho="g=f|n=s" head="3" dep="suj">grêle</word>
+          <word id="3" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+          <word id="4" lem="cause" postag="NC" morpho="g=f|n=s" head="3" dep="obj">cause</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="gros" postag="ADJ" morpho="g=m" head="7" dep="mod">gros</word>
+          <word id="7" lem="dégât" postag="NC" morpho="g=m|n=p" head="5" dep="prep">dégâts</word>
+          <word id="8" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+          <word id="9" lem="mais" postag="CC" morpho="_" head="3" dep="coord">mais</word>
+          <word id="10" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="11" dep="suj">il</word>
+          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="dep_coord">est</word>
+          <word id="12" lem="possible" postag="ADJ" morpho="n=s" head="11" dep="ats">possible</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="14" lem="quoique" postag="CS" morpho="_" head="11" dep="mod">quoique</word>
+          <word id="15" lem="coûteux" postag="ADJ" morpho="g=m" head="14" dep="sub">coûteux</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="11" dep="obj">d'</word>
+          <word id="18" lem="installer" postag="VINF" morpho="_" head="17" dep="prep">installer</word>
+          <word id="19" lem="des" postag="DET" morpho="n=p" head="20" dep="det">des</word>
+          <word id="20" lem="filet" postag="NC" morpho="g=m|n=p" head="18" dep="obj">filets</word>
+          <word id="21" lem="_" postag="ADJ" morpho="_" head="20" dep="mod">para-grêle</word>
+          <word id="22" lem="au-dessus_de" postag="P+D" morpho="n=p" head="18" dep="mod">au-dessus_des</word>
+          <word id="23" lem="arbre" postag="NC" morpho="g=m|n=p" head="22" dep="prep">arbres</word>
+          <word id="24" lem=")" postag="PONCT" morpho="_" head="18" dep="ponct">)</word>
+          <word id="25" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
+          <word id="2" lem="froid" postag="NC" morpho="g=m|n=p" head="4" dep="suj">froids</word>
+          <word id="3" lem="exceptionnel" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">exceptionnels</word>
+          <word id="4" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
+          <word id="5" lem="tuer" postag="VINF" morpho="_" head="4" dep="obj">tuer</word>
+          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
+          <word id="7" lem="arbre" postag="NC" morpho="g=m|n=p" head="5" dep="obj">arbres</word>
+          <word id="8" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
+          <word id="9" lem="obliger" postag="VINF" morpho="_" head="8" dep="dep_coord">obliger</word>
+          <word id="10" lem="à" postag="P" morpho="_" head="9" dep="a_obj">à</word>
+          <word id="11" lem="replanter" postag="VINF" morpho="_" head="10" dep="prep">replanter</word>
+          <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
+          <word id="13" lem="intégralité" postag="NC" morpho="g=f|n=s" head="11" dep="obj">intégralité</word>
+          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+          <word id="15" lem="verger" postag="NC" morpho="g=m|n=s" head="14" dep="prep">verger</word>
+          <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
+          <word id="17" lem="année" postag="NC" morpho="g=f|n=s" head="11" dep="mod">année</word>
+          <word id="18" lem="suivant" postag="ADJ" morpho="g=f|n=s" head="17" dep="mod">suivante</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="problème" postag="NC" morpho="g=m|n=p" head="5" dep="suj">problèmes</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="sécheresse" postag="NC" morpho="g=f|n=s" head="3" dep="prep">sécheresse</word>
+          <word id="5" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
+          <word id="6" lem="être" postag="VINF" morpho="_" head="8" dep="aux_pass">être</word>
+          <word id="7" lem="partiellement" postag="ADV" morpho="_" head="8" dep="mod">partiellement</word>
+          <word id="8" lem="régler" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="obj">réglés</word>
+          <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
+          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
+          <word id="11" lem="bon" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">bon</word>
+          <word id="12" lem="système" postag="NC" morpho="g=m|n=s" head="9" dep="prep">système</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
+          <word id="14" lem="irrigation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">irrigation</word>
+          <word id="15" lem="mais" postag="CC" morpho="_" head="5" dep="coord">mais</word>
+          <word id="16" lem="une" postag="DET" morpho="g=f|n=s" head="19" dep="det">une</word>
+          <word id="17" lem="trop" postag="ADV" morpho="_" head="18" dep="mod">trop</word>
+          <word id="18" lem="fort" postag="ADJ" morpho="g=f|n=s" head="19" dep="mod">forte</word>
+          <word id="19" lem="chaleur" postag="NC" morpho="g=f|n=s" head="15" dep="dep_coord">chaleur</word>
+          <word id="20" lem="en" postag="P" morpho="_" head="19" dep="dep">en</word>
+          <word id="21" lem="été" postag="NC" morpho="g=m|n=s" head="20" dep="prep">été</word>
+          <word id="22" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
+          <word id="23" lem="à" postag="P+D" morpho="g=m|n=s" head="22" dep="dep_coord">au</word>
+          <word id="24" lem="moment" postag="NC" morpho="g=m|n=s" head="23" dep="prep">moment</word>
+          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">de</word>
+          <word id="26" lem="la" postag="DET" morpho="g=f|n=s" head="27" dep="det">la</word>
+          <word id="27" lem="récolte" postag="NC" morpho="g=f|n=s" head="25" dep="prep">récolte</word>
+          <word id="28" lem="donner" postag="V" morpho="n=s|p=13|t=pst" head="22" dep="dep_coord">donne</word>
+          <word id="29" lem="des" postag="DET" morpho="n=p" head="30" dep="det">des</word>
+          <word id="30" lem="fruit" postag="NC" morpho="g=m|n=p" head="28" dep="obj">fruits</word>
+          <word id="31" lem="petit" postag="ADJ" morpho="g=m|n=p" head="30" dep="mod">petits</word>
+          <word id="32" lem="et" postag="CC" morpho="_" head="31" dep="coord">et</word>
+          <word id="33" lem="peu" postag="ADV" morpho="_" head="34" dep="mod">peu</word>
+          <word id="34" lem="colorer" postag="VPP" morpho="g=m|n=p|t=past" head="32" dep="dep_coord">colorés</word>
+          <word id="35" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">une</word>
+          <word id="2" lem="bon" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">bonne</word>
+          <word id="3" lem="gestion" postag="NC" morpho="g=f|n=s" head="0" dep="_">gestion</word>
+          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
+          <word id="5" lem="risque" postag="NC" morpho="g=m|n=p" head="4" dep="prep">risques</word>
+          <word id="6" lem="_" postag="ADJ" morpho="_" head="5" dep="mod">phytosanitaires</word>
+          <word id="7" lem="impliquer" postag="VPR" morpho="t=pst" head="5" dep="mod">impliquant</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">d'</word>
+          <word id="9" lem="avoir" postag="VINF" morpho="_" head="8" dep="prep">avoir</word>
+          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="de_obj">du</word>
+          <word id="11" lem="personnel" postag="NC" morpho="g=m|n=s" head="10" dep="prep">personnel</word>
+          <word id="12" lem="qualifier" postag="ADJ" morpho="g=m|n=s|t=past" head="11" dep="mod">qualifié</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="14" lem="souvent" postag="ADV" morpho="_" head="15" dep="mod">souvent</word>
+          <word id="15" lem="difficile" postag="ADJ" morpho="n=s" head="11" dep="mod">difficile</word>
+          <word id="16" lem="à" postag="P" morpho="_" head="15" dep="mod">à</word>
+          <word id="17" lem="trouver" postag="VINF" morpho="_" head="16" dep="prep">trouver</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+          <word id="2" lem="capacité" postag="NC" morpho="g=f|n=s" head="0" dep="_">capacité</word>
+          <word id="3" lem="financier" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">financière</word>
+          <word id="4" lem="permettre" postag="VPR" morpho="t=pst" head="2" dep="mod">permettant</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="obj">d'</word>
+          <word id="6" lem="investir" postag="VINF" morpho="_" head="5" dep="prep">investir</word>
+          <word id="7" lem="dans" postag="P" morpho="_" head="6" dep="p_obj">dans</word>
+          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
+          <word id="9" lem="production" postag="NC" morpho="g=f|n=s" head="7" dep="prep">production</word>
+          <word id="10" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
+          <word id="11" lem="terrain" postag="NC" morpho="g=m|n=s" head="9" dep="mod">terrain</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="13" lem="système" postag="NC" morpho="g=m|n=s" head="9" dep="mod">système</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
+          <word id="15" lem="irrigation" postag="NC" morpho="g=f|n=s" head="14" dep="prep">irrigation</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="17" lem="achat" postag="NC" morpho="g=m|n=s" head="9" dep="mod">achat</word>
+          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
+          <word id="19" lem="arbre" postag="NC" morpho="g=m|n=p" head="18" dep="prep">arbres</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="21" lem="tuteurage" postag="NC" morpho="g=m|n=s" head="9" dep="mod">tuteurage</word>
+          <word id="22" lem=")" postag="PONCT" morpho="_" head="9" dep="ponct">)</word>
+          <word id="23" lem="qui" postag="PROREL" morpho="n=s" head="25" dep="suj">qui</word>
+          <word id="24" lem="ne" postag="ADV" morpho="_" head="25" dep="mod">ne</word>
+          <word id="25" lem="rapporter" postag="V" morpho="n=s|p=13|t=pst" head="9" dep="mod_rel">rapporte</word>
+          <word id="26" lem="&quot;" postag="PONCT" morpho="_" head="25" dep="ponct">"</word>
+          <word id="27" lem="à" postag="P" morpho="_" head="25" dep="mod">à</word>
+          <word id="28" lem="plein" postag="ADJ" morpho="g=m|n=s" head="27" dep="prep">plein</word>
+          <word id="29" lem="&quot;" postag="PONCT" morpho="_" head="25" dep="ponct">"</word>
+          <word id="30" lem="que" postag="CS" morpho="_" head="25" dep="obj">qu'</word>
+          <word id="31" lem="après" postag="P" morpho="_" head="0" dep="_">après</word>
+          <word id="32" lem="plusieurs" postag="DET" morpho="n=p" head="33" dep="det">plusieurs</word>
+          <word id="33" lem="année" postag="NC" morpho="g=f|n=p" head="31" dep="prep">années</word>
+          <word id="34" lem="de" postag="P" morpho="_" head="33" dep="dep">d'</word>
+          <word id="35" lem="exploitation" postag="NC" morpho="g=f|n=s" head="34" dep="prep">exploitation</word>
+          <word id="36" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="107" />
+      <text>L'exploitation commerciale d'un verger est une opération risquée dépendant de nombreux éléments tels que :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="108" end="248" id="0" />
+      <text id="0">un marché de l'offre et de la demande très fluctuants (actuellement l'offre est plus importante que la demande pour de très nombreux fruits)</text>
+      <span begin="249" end="486" id="1" />
+      <text id="1">le choix des variétés de fruits. Une variété peut être très « à la mode » au moment de la plantation des arbres et être très démodée 10 ans plus tard. Il faut alors parfois surgreffer les arbres avec une nouvelle variété plus recherchée.</text>
+      <span begin="487" end="1424" id="2" />
+      <text id="2">une exposition importante aux aléas climatiques (même s'il existe des assurances pour se protéger de ce genre de problèmes):
+le gel tardif peut réduire une récolte annuelle à néant,
+la grêle peut cause de gros dégâts (mais il est possible, quoique coûteux, d'installer des filets para-grêle au-dessus des arbres),
+des froids exceptionnels peuvent tuer les arbres et obliger à replanter l'intégralité du verger l'année suivante.
+Les problèmes de sécheresse peuvent être partiellement réglés par un bon système d'irrigation mais une trop forte chaleur en été ou au moment de la récolte donne des fruits petits et peu colorés,
+une bonne gestion des risques phytosanitaires impliquant d'avoir du personnel qualifié, souvent difficile à trouver,
+une capacité financière permettant d'investir dans une production (terrain, système d'irrigation, achat des arbres, tuteurage) qui ne rapporte « à plein » qu'après plusieurs années d'exploitation.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="126" />
+      <text>une exposition importante aux aléas climatiques (même s'il existe des assurances pour se protéger de ce genre de problèmes):</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="126" end="182" id="0" />
+      <text id="0">le gel tardif peut réduire une récolte annuelle à néant,</text>
+      <span begin="183" end="314" id="1" />
+      <text id="1">la grêle peut cause de gros dégâts (mais il est possible, quoique coûteux, d'installer des filets para-grêle au-dessus des arbres),</text>
+      <span begin="315" end="428" id="2" />
+      <text id="2">des froids exceptionnels peuvent tuer les arbres et obliger à replanter l'intégralité du verger l'année suivante.</text>
+      <span begin="429" end="624" id="3" />
+      <text id="3">Les problèmes de sécheresse peuvent être partiellement réglés par un bon système d'irrigation mais une trop forte chaleur en été ou au moment de la récolte donne des fruits petits et peu colorés,</text>
+      <span begin="625" end="741" id="4" />
+      <text id="4">une bonne gestion des risques phytosanitaires impliquant d'avoir du personnel qualifié, souvent difficile à trouver,</text>
+      <span begin="742" end="938" id="5" />
+      <text id="5">une capacité financière permettant d'investir dans une production (terrain, système d'irrigation, achat des arbres, tuteurage) qui ne rapporte « à plein » qu'après plusieurs années d'exploitation.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="88" end="96" id="0" />
+      <text id="0">éléments</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="108" end="145" id="0" />
+      <text id="0">un marché de l'offre et de la demande</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="249" end="280" id="0" />
+      <text id="0">le choix des variétés de fruits</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="487" end="534" id="0" />
+      <text id="0">une exposition importante aux aléas climatiques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
+      <span begin="97" end="105" id="0" />
+      <text id="0">tels que</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="31" end="48" id="0" />
+      <text id="0">aléas climatiques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="126" end="139" id="0" />
+      <text id="0">le gel tardif</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="183" end="191" id="0" />
+      <text id="0">la grêle</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="315" end="339" id="0" />
+      <text id="0">des froids exceptionnels</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="429" end="456" id="0" />
+      <text id="0">Les problèmes de sécheresse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:11</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:44</date>
+      <document>Verger.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

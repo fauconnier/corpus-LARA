@@ -1,0 +1,591 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Objectifs pour le XXIe siècle
+Les parcs zoologiques ont quatre fonctions fondamentales à remplir :
+Recréation
+Education
+Recherche
+Conservation</text>
+      <span begin="11183" end="11325" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Les établissements (ou espaces) zoologiques spécialisés, qui comprennent un certain nombre d'habitats spécifiques, sont nombreux :
+les aquariums, les delphinariums, les oceanariums,
+les parcs à thème animalier (ou marin),
+les reptilariums ou vivariums pour reptiles, les insectariums, les papillonneraies ou serres à papillons,
+les parcs ornithologiques,
+les parcs safaris et les parcs de vision (pour la faune sauvage locale).
+S'ajoutent à ceux-ci, les parcs animaliers, qui se sont consacrés à la présentation et à l'élevage de certains groupes particuliers d'espèceses, tels que la forêt des singes à Apeldoorn ou à Rocamadour (46), le parc des perroquets à Ténérife, la Ferme aux Crocodiles à Pierrelatte (26) et le zoo alpin à Innsbruck.</text>
+      <span begin="28171" end="28913" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="objectif" postag="NC" morpho="g=m|n=p" head="0" dep="root">Objectifs</word>
+        <word id="2" lem="pour" postag="P" morpho="_" head="1" dep="dep">pour</word>
+        <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
+        <word id="4" lem="_" postag="ADJ" morpho="_" head="5" dep="mod">XXIe</word>
+        <word id="5" lem="siècle" postag="NC" morpho="g=m|n=s" head="2" dep="prep">siècle</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="4" dep="suj">parcs</word>
+        <word id="3" lem="zoologique" postag="ADJ" morpho="n=p" head="2" dep="mod">zoologiques</word>
+        <word id="4" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">ont</word>
+        <word id="5" lem="deux" postag="ADJ" morpho="n=p" head="6" dep="mod">quatre</word>
+        <word id="6" lem="fonction" postag="NC" morpho="g=f|n=p" head="4" dep="obj">fonctions</word>
+        <word id="7" lem="fondamental" postag="ADJ" morpho="g=f|n=p" head="6" dep="mod">fondamentales</word>
+        <word id="8" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
+        <word id="9" lem="remplir" postag="VINF" morpho="_" head="8" dep="prep">remplir</word>
+        <word id="10" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="recréation" postag="NC" morpho="g=f|n=s" head="0" dep="root">Recréation</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="éducation" postag="NC" morpho="g=f|n=s" head="0" dep="root">Education</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="recherche" postag="NC" morpho="g=f|n=s" head="0" dep="_">Recherche</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="conservation" postag="NC" morpho="g=f|n=s" head="0" dep="root">Conservation</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="établissement" postag="NC" morpho="g=m|n=p" head="19" dep="suj">établissements</word>
+        <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+        <word id="4" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+        <word id="5" lem="espace" postag="NC" morpho="n=p" head="4" dep="dep_coord">espaces</word>
+        <word id="6" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        <word id="7" lem="zoologique" postag="ADJ" morpho="n=p" head="2" dep="mod">zoologiques</word>
+        <word id="8" lem="spécialiser" postag="ADJ" morpho="g=m|n=p|t=past" head="2" dep="mod">spécialisés</word>
+        <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        <word id="10" lem="qui" postag="PROREL" morpho="n=s" head="11" dep="suj">qui</word>
+        <word id="11" lem="comprendre" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">comprennent</word>
+        <word id="12" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
+        <word id="13" lem="certain" postag="ADJ" morpho="g=m|n=s" head="14" dep="mod">certain</word>
+        <word id="14" lem="nombre" postag="NC" morpho="g=m|n=s" head="11" dep="obj">nombre</word>
+        <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">d'</word>
+        <word id="16" lem="habitat" postag="NC" morpho="g=m|n=p" head="15" dep="prep">habitats</word>
+        <word id="17" lem="spécifique" postag="ADJ" morpho="n=p" head="16" dep="mod">spécifiques</word>
+        <word id="18" lem="," postag="PONCT" morpho="_" head="19" dep="ponct">,</word>
+        <word id="19" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+        <word id="20" lem="nombreux" postag="ADJ" morpho="g=m" head="19" dep="ats">nombreux</word>
+        <word id="21" lem=":" postag="PONCT" morpho="_" head="19" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="aquarium" postag="NC" morpho="g=m|n=p" head="0" dep="_">aquariums</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">delphinariums</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
+          <word id="8" lem="_" postag="NC" morpho="_" head="0" dep="_">oceanariums</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
+          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+          <word id="4" lem="thème" postag="NC" morpho="g=m|n=s" head="3" dep="prep">thème</word>
+          <word id="5" lem="animalier" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">animalier</word>
+          <word id="6" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="7" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="8" lem="marin" postag="ADJ" morpho="g=m|n=s" head="7" dep="dep_coord">marin</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">reptilariums</word>
+          <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="4" lem="vivarium" postag="NC" morpho="g=m|n=p" head="3" dep="dep_coord">vivariums</word>
+          <word id="5" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="6" lem="reptile" postag="NC" morpho="g=m|n=p" head="5" dep="prep">reptiles</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
+          <word id="9" lem="insectarium" postag="NC" morpho="g=m|n=p" head="0" dep="_">insectariums</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="9" dep="coord">,</word>
+          <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
+          <word id="12" lem="_" postag="NC" morpho="_" head="10" dep="dep_coord">papillonneraies</word>
+          <word id="13" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
+          <word id="14" lem="serre" postag="NC" morpho="g=f|n=p" head="13" dep="dep_coord">serres</word>
+          <word id="15" lem="à" postag="P" morpho="_" head="9" dep="dep">à</word>
+          <word id="16" lem="papillon" postag="NC" morpho="g=m|n=p" head="15" dep="prep">papillons</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
+          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">ornithologiques</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
+          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">safaris</word>
+          <word id="4" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
+          <word id="6" lem="parc" postag="NC" morpho="g=m|n=p" head="4" dep="dep_coord">parcs</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="vision" postag="NC" morpho="g=f|n=s" head="7" dep="prep">vision</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="10" lem="pour" postag="P" morpho="_" head="6" dep="dep">pour</word>
+          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
+          <word id="12" lem="faune" postag="NC" morpho="g=m|n=s" head="10" dep="prep">faune</word>
+          <word id="13" lem="sauvage" postag="ADJ" morpho="n=s" head="12" dep="mod">sauvage</word>
+          <word id="14" lem="local" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">locale</word>
+          <word id="15" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="cloture" idSE="1">
+      <span begin="429" end="743" />
+      <text>S'ajoutent à ceux-ci, les parcs animaliers, qui se sont consacrés à la présentation et à l'élevage de certains groupes particuliers d'espèceses, tels que la forêt des singes à Apeldoorn ou à Rocamadour (46), le parc des perroquets à Ténérife, la Ferme aux Crocodiles à Pierrelatte (26) et le zoo alpin à Innsbruck.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="99" />
+      <text>Objectifs pour le XXIe siècle
+Les parcs zoologiques ont quatre fonctions fondamentales à remplir :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="100" end="110" id="0" />
+      <text id="0">Recréation</text>
+      <span begin="111" end="120" id="1" />
+      <text id="1">Education</text>
+      <span begin="121" end="130" id="2" />
+      <text id="2">Recherche</text>
+      <span begin="131" end="143" id="3" />
+      <text id="3">Conservation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="131" />
+      <text>Les établissements (ou espaces) zoologiques spécialisés, qui comprennent un certain nombre d'habitats spécifiques, sont nombreux :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="132" end="182" id="0" />
+      <text id="0">les aquariums, les delphinariums, les oceanariums,</text>
+      <span begin="183" end="222" id="1" />
+      <text id="1">les parcs à thème animalier (ou marin),</text>
+      <span begin="223" end="328" id="2" />
+      <text id="2">les reptilariums ou vivariums pour reptiles, les insectariums, les papillonneraies ou serres à papillons,</text>
+      <span begin="329" end="355" id="3" />
+      <text id="3">les parcs ornithologiques,</text>
+      <span begin="356" end="428" id="4" />
+      <text id="4">les parcs safaris et les parcs de vision (pour la faune sauvage locale).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="cloture" idSE="1">
+      <span begin="429" end="743" />
+      <text>S'ajoutent à ceux-ci, les parcs animaliers, qui se sont consacrés à la présentation et à l'élevage de certains groupes particuliers d'espèceses, tels que la forêt des singes à Apeldoorn ou à Rocamadour (46), le parc des perroquets à Ténérife, la Ferme aux Crocodiles à Pierrelatte (26) et le zoo alpin à Innsbruck.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="63" end="87" id="0" />
+      <text id="0">fonctions fondamentales</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="100" end="110" id="0" />
+      <text id="0">Recréation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="111" end="120" id="0" />
+      <text id="0">Education</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="121" end="130" id="0" />
+      <text id="0">Recherche</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="131" end="143" id="0" />
+      <text id="0">Conservation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="56" id="0" />
+      <text id="0">Les établissements (ou espaces) zoologiques spécialisés</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="132" end="145" id="0" />
+      <text id="0">les aquariums</text>
+      <span begin="147" end="164" id="1" />
+      <text id="1">les delphinariums</text>
+      <span begin="166" end="180" id="2" />
+      <text id="2">les oceanarium</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="183" end="221" id="0" />
+      <text id="0">les parcs à thème animalier (ou marin)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="223" end="266" id="0" />
+      <text id="0">les reptilariums ou vivariums pour reptiles</text>
+      <span begin="267" end="285" id="1" />
+      <text id="1">les insectariums,</text>
+      <span begin="286" end="327" id="2" />
+      <text id="2">les papillonneraies ou serres à papillons</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="329" end="355" id="0" />
+      <text id="0">les parcs ornithologiques,</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
+      <span begin="356" end="373" id="0" />
+      <text id="0">les parcs safaris</text>
+      <span begin="377" end="396" id="1" />
+      <text id="1">les parcs de vision</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:35</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:22</date>
+      <document>Parc_zoologique.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

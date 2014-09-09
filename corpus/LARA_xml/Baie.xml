@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Baie
+
+En botanique, une baie est un type de fruit charnu.
+En géographie, une baie est une étendue de mer presque entièrement entourée de terres.
+C'est l'inverse d'une presqu'île ou d'une péninsule.
+En architecture, une baie est une ouverture dans une paroi de bâtiment, une porte, une fenêtre, une arcade qui peut rester libre ou que l'on peut fermer par un ouvrage de menuiserie.
+Voir aussi : Porte 
+en informatique, une baie (anglicisme) désigne un emplacement destiné à accueillir un périphérique dans le châssis d'un ordinateur.
+Fréquemment les mots baie de stockage sont utilisés. Dans une salle de serveurs, une baie désigne une armoire destinée à recevoir des serveurs au format U.
+Les termes baie d'extension (ou rack) sont aussi utilisés couramment dans le langage professionnel.</text>
+      <span begin="3" end="791" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 0:08</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>en informatique, une baie (anglicisme) désigne un emplacement destiné à accueillir un périphérique dans le châssis d'un ordinateur.
+Fréquemment les mots baie de stockage sont utilisés. Dans une salle de serveurs, une baie désigne une armoire destinée à recevoir des serveurs au format U.
+Les termes baie d'extension (ou rack) sont aussi utilisés couramment dans le langage professionnel.</text>
+      <span begin="404" end="791" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Homophones
+Bajkljk
+bais
+bai
+bêêê : interjection associée aux moutons
+certaines conjugaisons du verbe béer</text>
+      <span begin="792" end="897" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="baie" postag="NC" morpho="g=f|n=s" head="0" dep="root">Baie</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
+          <word id="2" lem="botanique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">botanique</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="baie" postag="NC" morpho="g=f|n=s" head="6" dep="suj">baie</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+          <word id="8" lem="type" postag="NC" morpho="g=m|n=s" head="6" dep="ats">type</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="fruit" postag="NC" morpho="g=m|n=s" head="9" dep="prep">fruit</word>
+          <word id="11" lem="charnu" postag="ADJ" morpho="g=m|n=s" head="10" dep="mod">charnu</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
+          <word id="2" lem="géographie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">géographie</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="baie" postag="NC" morpho="g=f|n=s" head="6" dep="suj">baie</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="étendue" postag="NC" morpho="g=f|n=s" head="6" dep="ats">étendue</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="mer" postag="NC" morpho="g=f|n=s" head="9" dep="prep">mer</word>
+          <word id="11" lem="presque" postag="ADV" morpho="_" head="13" dep="mod">presque</word>
+          <word id="12" lem="entièrement" postag="ADV" morpho="_" head="13" dep="mod">entièrement</word>
+          <word id="13" lem="entourer" postag="VPP" morpho="g=f|n=s|t=past" head="10" dep="mod">entourée</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="de_obj">de</word>
+          <word id="15" lem="terre" postag="NC" morpho="g=f|n=p" head="14" dep="prep">terres</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
+          <word id="4" lem="inverse" postag="NC" morpho="n=s" head="2" dep="ats">inverse</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="7" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">presqu'</word>
+          <word id="8" lem="île" postag="NC" morpho="g=f|n=s" head="5" dep="prep">île</word>
+          <word id="9" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep_coord">d'</word>
+          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+          <word id="12" lem="péninsule" postag="NC" morpho="g=f|n=s" head="10" dep="prep">péninsule</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
+          <word id="2" lem="architecture" postag="NC" morpho="g=f|n=s" head="1" dep="prep">architecture</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="baie" postag="NC" morpho="g=f|n=s" head="6" dep="suj">baie</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="ouverture" postag="NC" morpho="g=f|n=s" head="6" dep="ats">ouverture</word>
+          <word id="9" lem="dans" postag="P" morpho="_" head="6" dep="mod">dans</word>
+          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+          <word id="11" lem="paroi" postag="NC" morpho="g=f|n=s" head="9" dep="prep">paroi</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
+          <word id="13" lem="bâtiment" postag="NC" morpho="g=m|n=s" head="12" dep="prep">bâtiment</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
+          <word id="16" lem="porte" postag="NC" morpho="g=f|n=s" head="6" dep="ats">porte</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="18" lem="une" postag="DET" morpho="g=f|n=s" head="19" dep="det">une</word>
+          <word id="19" lem="fenêtre" postag="NC" morpho="g=f|n=s" head="6" dep="mod">fenêtre</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="21" lem="une" postag="DET" morpho="g=f|n=s" head="22" dep="det">une</word>
+          <word id="22" lem="arcade" postag="NC" morpho="g=f|n=s" head="6" dep="mod">arcade</word>
+          <word id="23" lem="qui" postag="PROREL" morpho="n=s" head="24" dep="suj">qui</word>
+          <word id="24" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="22" dep="mod_rel">peut</word>
+          <word id="25" lem="rester" postag="VINF" morpho="_" head="24" dep="obj">rester</word>
+          <word id="26" lem="libre" postag="ADJ" morpho="n=s" head="25" dep="ats">libre</word>
+          <word id="27" lem="ou" postag="CC" morpho="_" head="25" dep="coord">ou</word>
+          <word id="28" lem="que" postag="PROREL" morpho="_" head="30" dep="obj">que</word>
+          <word id="29" lem="l'on" postag="CLS" morpho="n=s|p=3" head="30" dep="suj">l'on</word>
+          <word id="30" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="27" dep="dep_coord">peut</word>
+          <word id="31" lem="fermer" postag="VINF" morpho="_" head="30" dep="obj">fermer</word>
+          <word id="32" lem="par" postag="P" morpho="_" head="31" dep="p_obj">par</word>
+          <word id="33" lem="un" postag="DET" morpho="g=m|n=s" head="34" dep="det">un</word>
+          <word id="34" lem="ouvrage" postag="NC" morpho="g=m|n=s" head="32" dep="prep">ouvrage</word>
+          <word id="35" lem="de" postag="P" morpho="_" head="34" dep="dep">de</word>
+          <word id="36" lem="menuiserie" postag="NC" morpho="g=f|n=s" head="35" dep="prep">menuiserie</word>
+          <word id="37" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="voir" postag="VINF" morpho="_" head="0" dep="_">Voir</word>
+          <word id="2" lem="aussi" postag="ADV" morpho="_" head="1" dep="mod">aussi</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="4" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">Porte</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="9" dep="mod">en</word>
+          <word id="2" lem="informatique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">informatique</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="baie" postag="NC" morpho="g=f|n=s" head="9" dep="suj">baie</word>
+          <word id="6" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
+          <word id="7" lem="anglicisme" postag="NC" morpho="g=m|n=s" head="5" dep="mod">anglicisme</word>
+          <word id="8" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
+          <word id="9" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
+          <word id="11" lem="emplacement" postag="NC" morpho="g=m|n=s" head="9" dep="obj">emplacement</word>
+          <word id="12" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="11" dep="mod">destiné</word>
+          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
+          <word id="14" lem="accueillir" postag="VINF" morpho="_" head="13" dep="prep">accueillir</word>
+          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
+          <word id="16" lem="périphérique" postag="NC" morpho="g=m|n=s" head="14" dep="obj">périphérique</word>
+          <word id="17" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
+          <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
+          <word id="19" lem="châssis" postag="NC" morpho="g=m" head="17" dep="prep">châssis</word>
+          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
+          <word id="21" lem="un" postag="DET" morpho="g=m|n=s" head="22" dep="det">un</word>
+          <word id="22" lem="ordinateur" postag="NC" morpho="g=m|n=s" head="20" dep="prep">ordinateur</word>
+          <word id="23" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="fréquemment" postag="ADV" morpho="_" head="8" dep="mod">Fréquemment</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="3" lem="mot" postag="NC" morpho="g=m|n=p" head="8" dep="suj">mots</word>
+          <word id="4" lem="baie" postag="NC" morpho="g=f|n=s" head="3" dep="mod">baie</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="6" lem="stockage" postag="NC" morpho="g=m|n=s" head="5" dep="prep">stockage</word>
+          <word id="7" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="8" dep="aux_pass">sont</word>
+          <word id="8" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">utilisés</word>
+          <word id="9" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="dans" postag="P" morpho="_" head="9" dep="mod">Dans</word>
+          <word id="2" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">une</word>
+          <word id="3" lem="salle" postag="NC" morpho="g=f|n=s" head="1" dep="prep">salle</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="serveur" postag="NC" morpho="g=m|n=p" head="4" dep="prep">serveurs</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="baie" postag="NC" morpho="g=f|n=s" head="9" dep="suj">baie</word>
+          <word id="9" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+          <word id="11" lem="armoire" postag="NC" morpho="g=f|n=s" head="9" dep="obj">armoire</word>
+          <word id="12" lem="destiner" postag="VPP" morpho="g=f|n=s|t=past" head="11" dep="mod">destinée</word>
+          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
+          <word id="14" lem="recevoir" postag="VINF" morpho="_" head="13" dep="prep">recevoir</word>
+          <word id="15" lem="des" postag="DET" morpho="n=p" head="16" dep="det">des</word>
+          <word id="16" lem="serveur" postag="NC" morpho="g=m|n=p" head="14" dep="obj">serveurs</word>
+          <word id="17" lem="à" postag="P+D" morpho="g=m|n=s" head="14" dep="mod">au</word>
+          <word id="18" lem="format" postag="NC" morpho="g=m|n=s" head="17" dep="prep">format</word>
+          <word id="19" lem="_" postag="NPP" morpho="_" head="18" dep="mod">U</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="terme" postag="NC" morpho="g=m|n=p" head="3" dep="suj">termes</word>
+          <word id="3" lem="bayer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">baie</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">d'</word>
+          <word id="5" lem="extension" postag="NC" morpho="g=f|n=s" head="4" dep="prep">extension</word>
+          <word id="6" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+          <word id="7" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
+          <word id="8" lem="rack" postag="NC" morpho="g=m|n=s" head="7" dep="dep_coord">rack</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+          <word id="10" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="3" dep="mod">sont</word>
+          <word id="11" lem="aussi" postag="ADV" morpho="_" head="12" dep="mod">aussi</word>
+          <word id="12" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="10" dep="mod">utilisés</word>
+          <word id="13" lem="couramment" postag="ADV" morpho="_" head="12" dep="mod">couramment</word>
+          <word id="14" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+          <word id="16" lem="langage" postag="NC" morpho="g=m|n=s" head="14" dep="prep">langage</word>
+          <word id="17" lem="professionnel" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">professionnel</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 0:08</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="en" postag="P" morpho="_" head="9" dep="mod">en</word>
+        <word id="2" lem="informatique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">informatique</word>
+        <word id="3" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+        <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+        <word id="5" lem="baie" postag="NC" morpho="g=f|n=s" head="9" dep="suj">baie</word>
+        <word id="6" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
+        <word id="7" lem="anglicisme" postag="NC" morpho="g=m|n=s" head="5" dep="mod">anglicisme</word>
+        <word id="8" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
+        <word id="9" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+        <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
+        <word id="11" lem="emplacement" postag="NC" morpho="g=m|n=s" head="9" dep="obj">emplacement</word>
+        <word id="12" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="11" dep="mod">destiné</word>
+        <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
+        <word id="14" lem="accueillir" postag="VINF" morpho="_" head="13" dep="prep">accueillir</word>
+        <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
+        <word id="16" lem="périphérique" postag="NC" morpho="g=m|n=s" head="14" dep="obj">périphérique</word>
+        <word id="17" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
+        <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
+        <word id="19" lem="châssis" postag="NC" morpho="g=m" head="17" dep="prep">châssis</word>
+        <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
+        <word id="21" lem="un" postag="DET" morpho="g=m|n=s" head="22" dep="det">un</word>
+        <word id="22" lem="ordinateur" postag="NC" morpho="g=m|n=s" head="20" dep="prep">ordinateur</word>
+        <word id="23" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 0:08</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="fréquemment" postag="ADV" morpho="_" head="8" dep="mod">Fréquemment</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="3" lem="mot" postag="NC" morpho="g=m|n=p" head="8" dep="suj">mots</word>
+          <word id="4" lem="baie" postag="NC" morpho="g=f|n=s" head="3" dep="mod">baie</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="6" lem="stockage" postag="NC" morpho="g=m|n=s" head="5" dep="prep">stockage</word>
+          <word id="7" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="8" dep="aux_pass">sont</word>
+          <word id="8" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">utilisés</word>
+          <word id="9" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="dans" postag="P" morpho="_" head="9" dep="mod">Dans</word>
+          <word id="2" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">une</word>
+          <word id="3" lem="salle" postag="NC" morpho="g=f|n=s" head="1" dep="prep">salle</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="serveur" postag="NC" morpho="g=m|n=p" head="4" dep="prep">serveurs</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="baie" postag="NC" morpho="g=f|n=s" head="9" dep="suj">baie</word>
+          <word id="9" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+          <word id="11" lem="armoire" postag="NC" morpho="g=f|n=s" head="9" dep="obj">armoire</word>
+          <word id="12" lem="destiner" postag="VPP" morpho="g=f|n=s|t=past" head="11" dep="mod">destinée</word>
+          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
+          <word id="14" lem="recevoir" postag="VINF" morpho="_" head="13" dep="prep">recevoir</word>
+          <word id="15" lem="des" postag="DET" morpho="n=p" head="16" dep="det">des</word>
+          <word id="16" lem="serveur" postag="NC" morpho="g=m|n=p" head="14" dep="obj">serveurs</word>
+          <word id="17" lem="à" postag="P+D" morpho="g=m|n=s" head="14" dep="mod">au</word>
+          <word id="18" lem="format" postag="NC" morpho="g=m|n=s" head="17" dep="prep">format</word>
+          <word id="19" lem="_" postag="NPP" morpho="_" head="18" dep="mod">U</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="terme" postag="NC" morpho="g=m|n=p" head="3" dep="suj">termes</word>
+          <word id="3" lem="bayer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">baie</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">d'</word>
+          <word id="5" lem="extension" postag="NC" morpho="g=f|n=s" head="4" dep="prep">extension</word>
+          <word id="6" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+          <word id="7" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
+          <word id="8" lem="rack" postag="NC" morpho="g=m|n=s" head="7" dep="dep_coord">rack</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+          <word id="10" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="3" dep="mod">sont</word>
+          <word id="11" lem="aussi" postag="ADV" morpho="_" head="12" dep="mod">aussi</word>
+          <word id="12" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="10" dep="mod">utilisés</word>
+          <word id="13" lem="couramment" postag="ADV" morpho="_" head="12" dep="mod">couramment</word>
+          <word id="14" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+          <word id="16" lem="langage" postag="NC" morpho="g=m|n=s" head="14" dep="prep">langage</word>
+          <word id="17" lem="professionnel" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">professionnel</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="homophone" postag="ADJ" morpho="n=p" head="0" dep="_">Homophones</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Bajkljk</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="bai" postag="NC" morpho="g=m|n=p" head="0" dep="_">bais</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="bai" postag="NC" morpho="g=m|n=s" head="0" dep="root">bai</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">bêêê</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="interjection" postag="NC" morpho="g=f|n=s" head="1" dep="mod">interjection</word>
+          <word id="4" lem="associer" postag="VPP" morpho="g=f|n=s|t=past" head="3" dep="mod">associée</word>
+          <word id="5" lem="à" postag="P+D" morpho="n=p" head="4" dep="a_obj">aux</word>
+          <word id="6" lem="mouton" postag="NC" morpho="g=m|n=p" head="5" dep="prep">moutons</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="certaines" postag="DET" morpho="g=f|n=p" head="2" dep="det">certaines</word>
+          <word id="2" lem="conjugaison" postag="NC" morpho="g=f|n=p" head="0" dep="_">conjugaisons</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="verbe" postag="NC" morpho="g=m|n=s" head="3" dep="prep">verbe</word>
+          <word id="5" lem="_" postag="VS" morpho="_" head="0" dep="_">béer</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="5" />
+      <text>Baie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="7" end="58" id="0" />
+      <text id="0">En botanique, une baie est un type de fruit charnu.</text>
+      <span begin="59" end="145" id="1" />
+      <text id="1">En géographie, une baie est une étendue de mer presque entièrement entourée de terres.</text>
+      <span begin="146" end="198" id="2" />
+      <text id="2">C'est l'inverse d'une presqu'île ou d'une péninsule.</text>
+      <span begin="199" end="401" id="3" />
+      <text id="3">En architecture, une baie est une ouverture dans une paroi de bâtiment, une porte, une fenêtre, une arcade qui peut rester libre ou que l'on peut fermer par un ouvrage de menuiserie.
+Voir aussi : Porte</text>
+      <span begin="402" end="789" id="4" />
+      <text id="4">en informatique, une baie (anglicisme) désigne un emplacement destiné à accueillir un périphérique dans le châssis d'un ordinateur.
+Fréquemment les mots baie de stockage sont utilisés. Dans une salle de serveurs, une baie désigne une armoire destinée à recevoir des serveurs au format U.
+Les termes baie d'extension (ou rack) sont aussi utilisés couramment dans le langage professionnel.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 0:08</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="132" />
+      <text>en informatique, une baie (anglicisme) désigne un emplacement destiné à accueillir un périphérique dans le châssis d'un ordinateur.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 0:08</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="133" end="288" id="0" />
+      <text id="0">Fréquemment les mots baie de stockage sont utilisés. Dans une salle de serveurs, une baie désigne une armoire destinée à recevoir des serveurs au format U.</text>
+      <span begin="289" end="388" id="1" />
+      <text id="1">Les termes baie d'extension (ou rack) sont aussi utilisés couramment dans le langage professionnel.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="11" />
+      <text>Homophones</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="12" end="19" id="0" />
+      <text id="0">Bajkljk</text>
+      <span begin="20" end="24" id="1" />
+      <text id="1">bais</text>
+      <span begin="25" end="28" id="2" />
+      <text id="2">bai</text>
+      <span begin="29" end="69" id="3" />
+      <text id="3">bêêê : interjection associée aux moutons</text>
+      <span begin="70" end="106" id="4" />
+      <text id="4">certaines conjugaisons du verbe béer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="5" id="0" />
+      <text id="0">Baie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="21" end="29" id="0" />
+      <text id="0">une baie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="74" end="82" id="0" />
+      <text id="0">une baie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="216" end="224" id="0" />
+      <text id="0">une baie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="419" end="428" id="0" />
+      <text id="0">une baie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
+      <span begin="7" end="19" id="0" />
+      <text id="0">En botanique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
+      <span begin="59" end="72" id="0" />
+      <text id="0">En géographie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="3">
+      <span begin="199" end="214" id="0" />
+      <text id="0">En architecture</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="4">
+      <span begin="402" end="417" id="0" />
+      <text id="0">en informatique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="11" id="0" />
+      <text id="0">Homophones</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="12" end="19" id="0" />
+      <text id="0">Bajkljk</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="20" end="24" id="0" />
+      <text id="0">bais</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="25" end="28" id="0" />
+      <text id="0">bai</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+      <span begin="29" end="33" id="0" />
+      <text id="0">bêêê</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="4">
+      <span begin="70" end="106" id="0" />
+      <text id="0">certaines conjugaisons du verbe béer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:58</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 0:08</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 0:08</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 0:08</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 0:08</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:53</date>
+      <document>Baie.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="1" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

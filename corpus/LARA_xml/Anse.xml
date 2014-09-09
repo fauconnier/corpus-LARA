@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Science et technique
+Anse, une poignée pour porter des objets (arrosoir, cratère de Derveni, ...).
+Anse (géographie), petite baie.
+Anse (mathématiques), un terme mathématique utilisé en topologie.
+Anse de Henle, en médecine, partie du rein.</text>
+      <span begin="9" end="249" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Anse, une poignée pour porter des objets (arrosoir, cratère de Derveni, ...).</text>
+      <span begin="30" end="107" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="science" postag="NC" morpho="g=f|n=s" head="0" dep="_">Science</word>
+        <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+        <word id="3" lem="technique" postag="NC" morpho="g=f|n=s" head="2" dep="dep_coord">technique</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="anse" postag="NC" morpho="g=f|n=s" head="0" dep="_">Anse</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+          <word id="4" lem="poignée" postag="NC" morpho="g=f|n=s" head="0" dep="_">poignée</word>
+          <word id="5" lem="pour" postag="P" morpho="_" head="4" dep="dep">pour</word>
+          <word id="6" lem="porter" postag="VINF" morpho="_" head="5" dep="prep">porter</word>
+          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
+          <word id="8" lem="objet" postag="NC" morpho="g=m|n=p" head="6" dep="obj">objets</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
+          <word id="10" lem="arrosoir" postag="NC" morpho="g=m|n=s" head="4" dep="mod">arrosoir</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="12" lem="cratère" postag="NC" morpho="g=m|n=s" head="4" dep="mod">cratère</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">Derveni</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="16" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="16" dep="prep">)</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="anse" postag="NC" morpho="g=f|n=s" head="0" dep="_">Anse</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="géographie" postag="NC" morpho="g=f|n=s" head="1" dep="mod">géographie</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="6" lem="petit" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">petite</word>
+          <word id="7" lem="baie" postag="NC" morpho="g=f|n=s" head="1" dep="mod">baie</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="anse" postag="NC" morpho="g=f|n=s" head="0" dep="_">Anse</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="mathématique" postag="NC" morpho="g=f|n=p" head="1" dep="mod">mathématiques</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="7" lem="terme" postag="NC" morpho="g=m|n=s" head="0" dep="_">terme</word>
+          <word id="8" lem="mathématique" postag="ADJ" morpho="n=s" head="7" dep="mod">mathématique</word>
+          <word id="9" lem="utiliser" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod">utilisé</word>
+          <word id="10" lem="en" postag="P" morpho="_" head="9" dep="mod">en</word>
+          <word id="11" lem="topologie" postag="NC" morpho="g=f|n=s" head="10" dep="prep">topologie</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="anse" postag="NC" morpho="g=f|n=s" head="0" dep="_">Anse</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Henle</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="6" lem="médecine" postag="NC" morpho="g=f|n=s" head="5" dep="prep">médecine</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="8" lem="partie" postag="NC" morpho="g=f|n=s" head="0" dep="_">partie</word>
+          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
+          <word id="10" lem="rein" postag="NC" morpho="g=m|n=s" head="9" dep="prep">rein</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="anse" postag="NC" morpho="g=f|n=s" head="0" dep="_">Anse</word>
+        <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+        <word id="4" lem="poignée" postag="NC" morpho="g=f|n=s" head="0" dep="_">poignée</word>
+        <word id="5" lem="pour" postag="P" morpho="_" head="4" dep="dep">pour</word>
+        <word id="6" lem="porter" postag="VINF" morpho="_" head="5" dep="prep">porter</word>
+        <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
+        <word id="8" lem="objet" postag="NC" morpho="g=m|n=p" head="6" dep="obj">objets</word>
+        <word id="9" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="arrosoir" postag="NC" morpho="g=m|n=s" head="0" dep="root">arrosoir</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">oir</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="cratère" postag="NC" morpho="g=m|n=s" head="1" dep="mod">cratère</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Derveni</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="21" />
+      <text>Science et technique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="22" end="99" id="0" />
+      <text id="0">Anse, une poignée pour porter des objets (arrosoir, cratère de Derveni, ...).</text>
+      <span begin="100" end="131" id="1" />
+      <text id="1">Anse (géographie), petite baie.</text>
+      <span begin="132" end="197" id="2" />
+      <text id="2">Anse (mathématiques), un terme mathématique utilisé en topologie.</text>
+      <span begin="198" end="240" id="3" />
+      <text id="3">Anse de Henle, en médecine, partie du rein</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="43" />
+      <text>Anse, une poignée pour porter des objets (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="42" end="52" id="0" />
+      <text id="0">(arrosoir,</text>
+      <span begin="48" end="72" id="1" />
+      <text id="1">oir, cratère de Derveni,</text>
+      <span begin="72" end="78" id="2" />
+      <text id="2">...).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="22" end="26" id="0" />
+      <text id="0">Anse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="100" end="104" id="0" />
+      <text id="0">Anse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="132" end="137" id="0" />
+      <text id="0">Anse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="198" end="211" id="0" />
+      <text id="0">Anse de Henle</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="21" id="0" />
+      <text id="0">Science et technique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
+      <span begin="106" end="116" id="0" />
+      <text id="0">géographie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="2">
+      <span begin="138" end="151" id="0" />
+      <text id="0">mathématiques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="3">
+      <span begin="213" end="224" id="0" />
+      <text id="0">en médecine</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="31" end="41" id="0" />
+      <text id="0">des objets</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="43" end="51" id="0" />
+      <text id="0">arrosoir</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="53" end="71" id="0" />
+      <text id="0">cratère de Derveni</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="1" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 9:23</date>
+      <document>Anse.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

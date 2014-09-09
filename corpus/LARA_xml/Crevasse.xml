@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Typologie
+Les crevasses latérales, perpendiculaires à la ligne de pente, sont les plus courantes. Elles se forment lorsque la partie avale du glacier se déplace plus rapidement que sa partie amont, créant ainsi des zones d'étirement. Elles se rencontrent lorsque la pente des vallées s'accentue brusquement.
+Les crevasses radiales sont transversales. Elles se forment lorsque la partie centrale du glacier se déplace plus rapidement qu'un ou ses deux bords, lorsque la vallée oblique par exemple.
+Les crevasses longitudinales sont parallèles au sens de déplacement du glacier. Elles se forment lorsque le glacier s'élargit. Quand la vallée s'élargit, les forces sont décompressives. Lorsque qu'il rencontre un autre glacier, les forces sont compressives.
+Des colonnes de glace peuvent se former à l'intersection des crevasses, à proximité de la langue terminale du glacier. Par ailleurs, lorsque le glacier est très crevassé et notamment à la langue du glacier, on parle alors de séracs.</text>
+      <span begin="649" end="1636" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="typologie" postag="NC" morpho="g=f|n=s" head="0" dep="root">Typologie</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="crevasse" postag="NC" morpho="g=f|n=p" head="12" dep="suj">crevasses</word>
+          <word id="3" lem="latéral" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">latérales</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="perpendiculaire" postag="ADJ" morpho="n=p" head="2" dep="mod">perpendiculaires</word>
+          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="a_obj">à</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="ligne" postag="NC" morpho="g=f|n=s" head="6" dep="prep">ligne</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="pente" postag="NC" morpho="g=f|n=s" head="9" dep="prep">pente</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
+          <word id="12" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="13" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
+          <word id="14" lem="plus" postag="ADV" morpho="_" head="15" dep="mod">plus</word>
+          <word id="15" lem="courant" postag="ADJ" morpho="g=f|n=p" head="12" dep="ats">courantes</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="elles" postag="CLS" morpho="g=f|n=p|p=3" head="3" dep="suj">Elles</word>
+          <word id="2" lem="se" postag="CLR" morpho="n=p|p=3" head="3" dep="aff">se</word>
+          <word id="3" lem="former" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">forment</word>
+          <word id="4" lem="lorsque" postag="CS" morpho="_" head="3" dep="mod">lorsque</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="partie" postag="NC" morpho="g=f|n=s" head="11" dep="suj">partie</word>
+          <word id="7" lem="aval" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">avale</word>
+          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
+          <word id="9" lem="glacier" postag="NC" morpho="g=m|n=s" head="8" dep="prep">glacier</word>
+          <word id="10" lem="se" postag="CLR" morpho="n=p|p=3" head="11" dep="aff">se</word>
+          <word id="11" lem="déplacer" postag="V" morpho="n=s|p=13|t=pst" head="4" dep="sub">déplace</word>
+          <word id="12" lem="plus" postag="ADV" morpho="_" head="13" dep="mod">plus</word>
+          <word id="13" lem="rapidement" postag="ADV" morpho="_" head="11" dep="mod">rapidement</word>
+          <word id="14" lem="que" postag="CS" morpho="_" head="13" dep="dep">que</word>
+          <word id="15" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="16" dep="det">sa</word>
+          <word id="16" lem="partie" postag="NC" morpho="g=f|n=s" head="14" dep="sub">partie</word>
+          <word id="17" lem="_" postag="ADJ" morpho="_" head="16" dep="mod">amont</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="19" lem="créer" postag="VPR" morpho="t=pst" head="3" dep="mod">créant</word>
+          <word id="20" lem="ainsi" postag="ADV" morpho="_" head="19" dep="mod">ainsi</word>
+          <word id="21" lem="des" postag="DET" morpho="n=p" head="22" dep="det">des</word>
+          <word id="22" lem="zone" postag="NC" morpho="g=f|n=p" head="19" dep="obj">zones</word>
+          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep">d'</word>
+          <word id="24" lem="étirement" postag="NC" morpho="g=m|n=s" head="23" dep="prep">étirement</word>
+          <word id="25" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="elles" postag="CLS" morpho="g=f|n=p|p=3" head="3" dep="suj">Elles</word>
+          <word id="2" lem="se" postag="CLR" morpho="n=p|p=3" head="3" dep="aff">se</word>
+          <word id="3" lem="rencontrer" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">rencontrent</word>
+          <word id="4" lem="lorsque" postag="CS" morpho="_" head="3" dep="mod">lorsque</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="pente" postag="NC" morpho="g=f|n=s" head="10" dep="suj">pente</word>
+          <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
+          <word id="8" lem="vallée" postag="NC" morpho="g=f|n=p" head="7" dep="prep">vallées</word>
+          <word id="9" lem="se" postag="CLR" morpho="p=3" head="10" dep="aff">s'</word>
+          <word id="10" lem="accentuer" postag="V" morpho="n=s|p=13|t=pst" head="4" dep="sub">accentue</word>
+          <word id="11" lem="brusquement" postag="ADV" morpho="_" head="10" dep="mod">brusquement</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="crevasse" postag="NC" morpho="g=f|n=p" head="4" dep="suj">crevasses</word>
+          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">radiales</word>
+          <word id="4" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="5" lem="transversal" postag="ADJ" morpho="g=f|n=p" head="4" dep="ats">transversales</word>
+          <word id="6" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="elles" postag="CLS" morpho="g=f|n=p|p=3" head="3" dep="suj">Elles</word>
+          <word id="2" lem="se" postag="CLR" morpho="n=p|p=3" head="3" dep="aff">se</word>
+          <word id="3" lem="former" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">forment</word>
+          <word id="4" lem="lorsque" postag="CS" morpho="_" head="3" dep="mod">lorsque</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="partie" postag="NC" morpho="g=f|n=s" head="11" dep="suj">partie</word>
+          <word id="7" lem="central" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">centrale</word>
+          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
+          <word id="9" lem="glacier" postag="NC" morpho="g=m|n=s" head="8" dep="prep">glacier</word>
+          <word id="10" lem="se" postag="CLR" morpho="n=p|p=3" head="11" dep="aff">se</word>
+          <word id="11" lem="déplacer" postag="V" morpho="n=s|p=13|t=pst" head="4" dep="sub">déplace</word>
+          <word id="12" lem="plus" postag="ADV" morpho="_" head="13" dep="mod">plus</word>
+          <word id="13" lem="rapidement" postag="ADV" morpho="_" head="11" dep="mod">rapidement</word>
+          <word id="14" lem="que" postag="CS" morpho="_" head="13" dep="dep">qu'</word>
+          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="0" dep="_">un</word>
+          <word id="16" lem="ou" postag="CC" morpho="_" head="15" dep="coord">ou</word>
+          <word id="17" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="18" dep="det">ses</word>
+          <word id="18" lem="deux" postag="NC" morpho="g=m" head="16" dep="dep_coord">deux</word>
+          <word id="19" lem="bord" postag="NC" morpho="g=m|n=p" head="18" dep="mod">bords</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="21" lem="lorsque" postag="CS" morpho="_" head="0" dep="_">lorsque</word>
+          <word id="22" lem="la" postag="DET" morpho="g=f|n=s" head="23" dep="det">la</word>
+          <word id="23" lem="vallée" postag="NC" morpho="g=f|n=s" head="0" dep="_">vallée</word>
+          <word id="24" lem="oblique" postag="ADJ" morpho="n=s" head="23" dep="mod">oblique</word>
+          <word id="25" lem="par" postag="P" morpho="_" head="23" dep="dep">par</word>
+          <word id="26" lem="exemple" postag="NC" morpho="g=m|n=s" head="25" dep="prep">exemple</word>
+          <word id="27" lem="." postag="PONCT" morpho="_" head="23" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="crevasse" postag="NC" morpho="g=f|n=p" head="4" dep="suj">crevasses</word>
+          <word id="3" lem="longitudinal" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">longitudinales</word>
+          <word id="4" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="5" lem="parallèle" postag="ADJ" morpho="n=p" head="4" dep="ats">parallèles</word>
+          <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="5" dep="a_obj">au</word>
+          <word id="7" lem="sens" postag="NC" morpho="g=m" head="6" dep="prep">sens</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="déplacement" postag="NC" morpho="g=m|n=s" head="8" dep="prep">déplacement</word>
+          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
+          <word id="11" lem="glacier" postag="NC" morpho="g=m|n=s" head="10" dep="prep">glacier</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="elles" postag="CLS" morpho="g=f|n=p|p=3" head="3" dep="suj">Elles</word>
+          <word id="2" lem="se" postag="CLR" morpho="n=p|p=3" head="3" dep="aff">se</word>
+          <word id="3" lem="former" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">forment</word>
+          <word id="4" lem="lorsque" postag="CS" morpho="_" head="3" dep="mod">lorsque</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="glacier" postag="NC" morpho="g=m|n=s" head="8" dep="suj">glacier</word>
+          <word id="7" lem="se" postag="CLR" morpho="p=3" head="8" dep="aff">s'</word>
+          <word id="8" lem="élargir" postag="V" morpho="n=s|p=3|t=past" head="4" dep="sub">élargit</word>
+          <word id="9" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="quand" postag="CS" morpho="_" head="9" dep="mod">Quand</word>
+          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
+          <word id="3" lem="vallée" postag="NC" morpho="g=f|n=s" head="5" dep="suj">vallée</word>
+          <word id="4" lem="se" postag="CLR" morpho="p=3" head="5" dep="aff">s'</word>
+          <word id="5" lem="élargir" postag="V" morpho="n=s|p=3|t=past" head="1" dep="sub">élargit</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
+          <word id="8" lem="force" postag="NC" morpho="g=f|n=p" head="9" dep="suj">forces</word>
+          <word id="9" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="10" lem="_" postag="ADJ" morpho="_" head="9" dep="ats">décompressives</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="lorsque" postag="CS" morpho="_" head="11" dep="mod">Lorsque</word>
+          <word id="2" lem="que" postag="PROREL" morpho="_" head="4" dep="obj">qu'</word>
+          <word id="3" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="4" dep="suj">il</word>
+          <word id="4" lem="rencontrer" postag="V" morpho="n=s|p=13|t=pst" head="1" dep="sub">rencontre</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="6" lem="autre" postag="ADJ" morpho="n=s" head="7" dep="mod">autre</word>
+          <word id="7" lem="glacier" postag="NC" morpho="g=m|n=s" head="4" dep="obj">glacier</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+          <word id="10" lem="force" postag="NC" morpho="g=f|n=p" head="11" dep="suj">forces</word>
+          <word id="11" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="12" lem="compressif" postag="ADJ" morpho="g=f|n=p" head="11" dep="ats">compressives</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">Des</word>
+          <word id="2" lem="colonne" postag="NC" morpho="g=f|n=p" head="5" dep="suj">colonnes</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="glace" postag="NC" morpho="g=f|n=s" head="3" dep="prep">glace</word>
+          <word id="5" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
+          <word id="6" lem="se" postag="CLR" morpho="n=p|p=3" head="7" dep="aff">se</word>
+          <word id="7" lem="former" postag="VINF" morpho="_" head="5" dep="obj">former</word>
+          <word id="8" lem="à" postag="P" morpho="_" head="7" dep="a_obj">à</word>
+          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
+          <word id="10" lem="intersection" postag="NC" morpho="g=f|n=s" head="8" dep="prep">intersection</word>
+          <word id="11" lem="de" postag="P+D" morpho="n=p" head="10" dep="dep">des</word>
+          <word id="12" lem="crevasse" postag="NC" morpho="g=f|n=p" head="11" dep="prep">crevasses</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="14" lem="à" postag="P" morpho="_" head="7" dep="mod">à</word>
+          <word id="15" lem="proximité" postag="NC" morpho="g=f|n=s" head="14" dep="prep">proximité</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
+          <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
+          <word id="18" lem="langue" postag="NC" morpho="g=f|n=s" head="16" dep="prep">langue</word>
+          <word id="19" lem="terminal" postag="ADJ" morpho="g=f|n=s" head="18" dep="mod">terminale</word>
+          <word id="20" lem="de" postag="P+D" morpho="g=m|n=s" head="18" dep="dep">du</word>
+          <word id="21" lem="glacier" postag="NC" morpho="g=m|n=s" head="20" dep="prep">glacier</word>
+          <word id="22" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="par_ailleurs" postag="ADV" morpho="_" head="18" dep="mod">Par_ailleurs</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
+          <word id="3" lem="lorsque" postag="CS" morpho="_" head="18" dep="mod">lorsque</word>
+          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
+          <word id="5" lem="glacier" postag="NC" morpho="g=m|n=s" head="8" dep="suj">glacier</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="aux_pass">est</word>
+          <word id="7" lem="très" postag="ADV" morpho="_" head="8" dep="mod">très</word>
+          <word id="8" lem="crevasser" postag="VPP" morpho="g=m|n=s|t=past" head="3" dep="sub">crevassé</word>
+          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="10" lem="notamment" postag="ADV" morpho="_" head="9" dep="mod">notamment</word>
+          <word id="11" lem="à" postag="P" morpho="_" head="9" dep="dep_coord">à</word>
+          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
+          <word id="13" lem="langue" postag="NC" morpho="g=f|n=s" head="11" dep="prep">langue</word>
+          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+          <word id="15" lem="glacier" postag="NC" morpho="g=m|n=s" head="14" dep="prep">glacier</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
+          <word id="17" lem="on" postag="CLS" morpho="n=s|p=3" head="18" dep="suj">on</word>
+          <word id="18" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
+          <word id="19" lem="alors" postag="ADV" morpho="_" head="18" dep="mod">alors</word>
+          <word id="20" lem="de" postag="P" morpho="_" head="18" dep="de_obj">de</word>
+          <word id="21" lem="sérac" postag="NC" morpho="g=m|n=p" head="20" dep="prep">séracs</word>
+          <word id="22" lem="." postag="PONCT" morpho="_" head="18" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="10" />
+      <text>Typologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="11" end="308" id="0" />
+      <text id="0">Les crevasses latérales, perpendiculaires à la ligne de pente, sont les plus courantes. Elles se forment lorsque la partie avale du glacier se déplace plus rapidement que sa partie amont, créant ainsi des zones d'étirement. Elles se rencontrent lorsque la pente des vallées s'accentue brusquement.</text>
+      <span begin="309" end="497" id="1" />
+      <text id="1">Les crevasses radiales sont transversales. Elles se forment lorsque la partie centrale du glacier se déplace plus rapidement qu'un ou ses deux bords, lorsque la vallée oblique par exemple.</text>
+      <span begin="498" end="988" id="2" />
+      <text id="2">Les crevasses longitudinales sont parallèles au sens de déplacement du glacier. Elles se forment lorsque le glacier s'élargit. Quand la vallée s'élargit, les forces sont décompressives. Lorsque qu'il rencontre un autre glacier, les forces sont compressives.
+Des colonnes de glace peuvent se former à l'intersection des crevasses, à proximité de la langue terminale du glacier. Par ailleurs, lorsque le glacier est très crevassé et notamment à la langue du glacier, on parle alors de séracs.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="11" end="34" id="0" />
+      <text id="0">Les crevasses latérales</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="309" end="331" id="0" />
+      <text id="0">Les crevasses radiales</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="498" end="526" id="0" />
+      <text id="0">Les crevasses longitudinales</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="10" id="0" />
+      <text id="0">Typologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Crevasse.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

@@ -1,0 +1,1679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Statut administratif
+Statut international : Les routes continentales, comme les Routes européennes, ou les routes inter-états nord-américaines (Interstate highways), ou la transamazonienne.
+Statut national : la typologie dépend alors de l’organisation de chaque pays.</text>
+      <span begin="4567" end="4834" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Quelques exemples de classifications :
+En France : autoroutes – routes nationales – routes départementales – voies communales et chemins vicinaux;
+Au Québec : autoroutes – routes nationales – routes collectrices – routes secondaires (voir : Routes provinciales du Québec);
+En Suisse : autoroutes – semi-autoroutes – routes principales – routes secondaires;
+Au Brésil : routes fédérales et routes locales (voir Routes du Brésil).</text>
+      <span begin="4835" end="5264" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Contexte géographique
+Les routes urbaines ;
+Les routes interurbaines ;
+Les routes « de rase campagne », sont une autre dénomination des routes interurbaines ;
+Les routes forestières, situées en forêt,
+Les routes de montagnes, soumises à des contraintes particulières d’aménagement et d’entretien.
+Onqui parle parfois aussi de routes littorale (d'« autoroute des estuaires » en France)</text>
+      <span begin="5653" end="6037" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>Les routes réservées à certaines catégories d'usagers (cyclistes ou piétons) ont des dénominations spécifiques :
+Le réseau « véloroute et voies vertes » doit en Europe permettre la circulation des vélos à moindre risque.
+Les routes ou rues piétonnes ou chemins piétons sont réservées aux piétons.</text>
+      <span begin="6053" end="6349" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>Routes célèbres
+la route de la soie
+la route 66 dans l'ouest des États-Unis
+la Grand Trunk Road, de l'Inde à l'Afghanistan
+les chemins de Saint Jacques
+la Via Appia, la Via Domitia et la Via Agrippa, voies romaines
+la route nationale 7 en France
+la route Napoléon en France
+la route 128 qui ceinture la ville de Boston
+la Route royale (Louis XIV)
+la Route transcanadienne au Canada
+la Route des Yungas en Bolivie</text>
+      <span begin="9705" end="10117" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="statut" postag="NC" morpho="g=m|n=s" head="0" dep="_">Statut</word>
+        <word id="2" lem="administratif" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">administratif</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="statut" postag="NC" morpho="g=m|n=s" head="0" dep="_">Statut</word>
+          <word id="2" lem="international" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">international</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">Les</word>
+          <word id="5" lem="route" postag="NC" morpho="g=f|n=p" head="0" dep="_">routes</word>
+          <word id="6" lem="continental" postag="ADJ" morpho="g=f|n=p" head="5" dep="mod">continentales</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="8" lem="comme" postag="P" morpho="_" head="0" dep="_">comme</word>
+          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+          <word id="10" lem="_" postag="NC" morpho="_" head="8" dep="prep">Routes</word>
+          <word id="11" lem="européen" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">européennes</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+          <word id="13" lem="ou" postag="CC" morpho="_" head="8" dep="coord">ou</word>
+          <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
+          <word id="15" lem="route" postag="NC" morpho="g=f|n=p" head="13" dep="dep_coord">routes</word>
+          <word id="16" lem="_" postag="ADJ" morpho="_" head="15" dep="mod">inter-états</word>
+          <word id="17" lem="_" postag="NPP" morpho="_" head="15" dep="mod">nord-américaines</word>
+          <word id="18" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
+          <word id="19" lem="_" postag="NPP" morpho="_" head="15" dep="mod">Interstate</word>
+          <word id="20" lem="_" postag="NPP" morpho="_" head="19" dep="mod">highways</word>
+          <word id="21" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
+          <word id="22" lem="," postag="PONCT" morpho="_" head="23" dep="ponct">,</word>
+          <word id="23" lem="ou" postag="CC" morpho="_" head="8" dep="coord">ou</word>
+          <word id="24" lem="la" postag="DET" morpho="g=f|n=s" head="25" dep="det">la</word>
+          <word id="25" lem="_" postag="NPP" morpho="_" head="23" dep="dep_coord">transamazonienne</word>
+          <word id="26" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="statut" postag="NC" morpho="g=m|n=s" head="6" dep="suj">Statut</word>
+          <word id="2" lem="national" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">national</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="typologie" postag="NC" morpho="g=f|n=s" head="6" dep="suj">typologie</word>
+          <word id="6" lem="dépendre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">dépend</word>
+          <word id="7" lem="alors" postag="ADV" morpho="_" head="6" dep="mod">alors</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="6" dep="de_obj">de</word>
+          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
+          <word id="10" lem="organisation" postag="NC" morpho="g=f|n=s" head="8" dep="prep">organisation</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
+          <word id="12" lem="chaque" postag="DET" morpho="n=s" head="13" dep="det">chaque</word>
+          <word id="13" lem="pays" postag="NC" morpho="g=m" head="11" dep="prep">pays</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="quelques" postag="DET" morpho="n=p" head="2" dep="det">Quelques</word>
+        <word id="2" lem="exemple" postag="NC" morpho="g=m|n=p" head="0" dep="_">exemples</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="4" lem="classification" postag="NC" morpho="g=f|n=p" head="3" dep="prep">classifications</word>
+        <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+          <word id="4" lem="autoroute" postag="NC" morpho="g=f|n=p" head="0" dep="_">autoroutes</word>
+          <word id="5" lem="-" postag="PONCT" morpho="_" head="4" dep="ponct">-</word>
+          <word id="6" lem="route" postag="NC" morpho="g=f|n=p" head="4" dep="mod">routes</word>
+          <word id="7" lem="national" postag="ADJ" morpho="g=f|n=p" head="6" dep="mod">nationales</word>
+          <word id="8" lem="-" postag="PONCT" morpho="_" head="4" dep="ponct">-</word>
+          <word id="9" lem="route" postag="NC" morpho="g=f|n=p" head="4" dep="mod">routes</word>
+          <word id="10" lem="départemental" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">départementales</word>
+          <word id="11" lem="-" postag="PONCT" morpho="_" head="4" dep="ponct">-</word>
+          <word id="12" lem="voie" postag="NC" morpho="g=f|n=p" head="4" dep="mod">voies</word>
+          <word id="13" lem="communal" postag="ADJ" morpho="g=f|n=p" head="12" dep="mod">communales</word>
+          <word id="14" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
+          <word id="15" lem="chemin" postag="NC" morpho="g=m|n=p" head="14" dep="dep_coord">chemins</word>
+          <word id="16" lem="vicinal" postag="ADJ" morpho="g=m|n=p" head="15" dep="mod">vicinaux</word>
+          <word id="17" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="à" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">Au</word>
+          <word id="2" lem="Québec" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">Québec</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+          <word id="4" lem="autoroute" postag="NC" morpho="g=f|n=p" head="0" dep="root">autoroutes</word>
+          <word id="5" lem="-" postag="PONCT" morpho="_" head="4" dep="ponct">-</word>
+          <word id="6" lem="route" postag="NC" morpho="g=f|n=p" head="4" dep="mod">routes</word>
+          <word id="7" lem="national" postag="ADJ" morpho="g=f|n=p" head="6" dep="mod">nationales</word>
+          <word id="8" lem="-" postag="PONCT" morpho="_" head="4" dep="ponct">-</word>
+          <word id="9" lem="route" postag="NC" morpho="g=f|n=p" head="4" dep="mod">routes</word>
+          <word id="10" lem="collecteur" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">collectrices</word>
+          <word id="11" lem="-" postag="PONCT" morpho="_" head="9" dep="ponct">-</word>
+          <word id="12" lem="route" postag="NC" morpho="g=f|n=p" head="9" dep="mod">routes</word>
+          <word id="13" lem="secondaire" postag="ADJ" morpho="n=p" head="12" dep="mod">secondaires</word>
+          <word id="14" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
+          <word id="15" lem="voir" postag="VINF" morpho="_" head="4" dep="dep">voir</word>
+          <word id="16" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+          <word id="17" lem="route" postag="NC" morpho="g=f|n=p" head="4" dep="mod">Routes</word>
+          <word id="18" lem="provincial" postag="ADJ" morpho="g=f|n=p" head="17" dep="mod">provinciales</word>
+          <word id="19" lem="de" postag="P+D" morpho="g=m|n=s" head="17" dep="dep">du</word>
+          <word id="20" lem="Québec" postag="NPP" morpho="g=m|n=s" head="19" dep="prep">Québec</word>
+          <word id="21" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
+          <word id="22" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="Suisse" postag="NPP" morpho="g=f|n=s" head="1" dep="prep">Suisse</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+          <word id="4" lem="autoroute" postag="NC" morpho="g=f|n=p" head="0" dep="_">autoroutes</word>
+          <word id="5" lem="-" postag="PONCT" morpho="_" head="4" dep="ponct">-</word>
+          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="mod">semi-autoroutes</word>
+          <word id="7" lem="-" postag="PONCT" morpho="_" head="4" dep="ponct">-</word>
+          <word id="8" lem="route" postag="NC" morpho="g=f|n=p" head="4" dep="mod">routes</word>
+          <word id="9" lem="principal" postag="ADJ" morpho="g=f|n=p" head="8" dep="mod">principales</word>
+          <word id="10" lem="-" postag="PONCT" morpho="_" head="8" dep="ponct">-</word>
+          <word id="11" lem="route" postag="NC" morpho="g=f|n=p" head="8" dep="mod">routes</word>
+          <word id="12" lem="secondaire" postag="ADJ" morpho="n=p" head="11" dep="mod">secondaires</word>
+          <word id="13" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="à" postag="P+D" morpho="g=m|n=s" head="0" dep="_">Au</word>
+          <word id="2" lem="Brésil" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">Brésil</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+          <word id="4" lem="route" postag="NC" morpho="g=f|n=p" head="0" dep="_">routes</word>
+          <word id="5" lem="fédéral" postag="ADJ" morpho="g=f|n=p" head="4" dep="mod">fédérales</word>
+          <word id="6" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
+          <word id="7" lem="route" postag="NC" morpho="g=f|n=p" head="6" dep="dep_coord">routes</word>
+          <word id="8" lem="local" postag="ADJ" morpho="g=f|n=p" head="7" dep="mod">locales</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
+          <word id="10" lem="voir" postag="VINF" morpho="_" head="4" dep="dep">voir</word>
+          <word id="11" lem="Routes" postag="NPP" morpho="g=m|n=s" head="10" dep="obj">Routes</word>
+          <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="mod">du</word>
+          <word id="13" lem="Brésil" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Brésil</word>
+          <word id="14" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="contexte" postag="NC" morpho="g=m|n=s" head="0" dep="_">Contexte</word>
+        <word id="2" lem="géographique" postag="ADJ" morpho="n=s" head="1" dep="mod">géographique</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=p" head="0" dep="_">routes</word>
+          <word id="3" lem="urbain" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">urbaines</word>
+          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=p" head="0" dep="_">routes</word>
+          <word id="3" lem="interurbain" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">interurbaines</word>
+          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=p" head="9" dep="suj">routes</word>
+          <word id="3" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="5" lem="rase" postag="ADJ" morpho="n=s" head="6" dep="mod">rase</word>
+          <word id="6" lem="campagne" postag="NC" morpho="g=f|n=s" head="4" dep="prep">campagne</word>
+          <word id="7" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="9" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+          <word id="11" lem="autre" postag="ADJ" morpho="n=s" head="12" dep="mod">autre</word>
+          <word id="12" lem="dénomination" postag="NC" morpho="g=f|n=s" head="9" dep="ats">dénomination</word>
+          <word id="13" lem="de" postag="P+D" morpho="n=p" head="12" dep="dep">des</word>
+          <word id="14" lem="route" postag="NC" morpho="g=f|n=p" head="13" dep="prep">routes</word>
+          <word id="15" lem="interurbain" postag="ADJ" morpho="g=f|n=p" head="14" dep="mod">interurbaines</word>
+          <word id="16" lem=";" postag="PONCT" morpho="_" head="9" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=p" head="0" dep="_">routes</word>
+          <word id="3" lem="forestier" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">forestières</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="situer" postag="VPP" morpho="g=f|n=p|t=past" head="2" dep="mod">situées</word>
+          <word id="6" lem="en" postag="P" morpho="_" head="5" dep="mod">en</word>
+          <word id="7" lem="forêt" postag="NC" morpho="g=f|n=s" head="6" dep="prep">forêt</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=p" head="0" dep="_">routes</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="montagne" postag="NC" morpho="g=f|n=p" head="3" dep="prep">montagnes</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="soumettre" postag="VPP" morpho="g=f|n=p|t=past" head="2" dep="mod">soumises</word>
+          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="a_obj">à</word>
+          <word id="8" lem="des" postag="DET" morpho="n=p" head="9" dep="det">des</word>
+          <word id="9" lem="contrainte" postag="NC" morpho="g=f|n=p" head="7" dep="prep">contraintes</word>
+          <word id="10" lem="particulier" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">particulières</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
+          <word id="12" lem="aménagement" postag="NC" morpho="g=m|n=s" head="11" dep="prep">aménagement</word>
+          <word id="13" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep_coord">d'</word>
+          <word id="15" lem="entretien" postag="NC" morpho="g=m|n=s" head="14" dep="prep">entretien</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Onqui</word>
+          <word id="2" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
+          <word id="3" lem="parfois" postag="ADV" morpho="_" head="2" dep="mod">parfois</word>
+          <word id="4" lem="aussi" postag="ADV" morpho="_" head="2" dep="mod">aussi</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="2" dep="de_obj">de</word>
+          <word id="6" lem="route" postag="NC" morpho="g=f|n=p" head="5" dep="prep">routes</word>
+          <word id="7" lem="littoral" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">littorale</word>
+          <word id="8" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="2" dep="de_obj">d'</word>
+          <word id="10" lem="&quot;" postag="PONCT" morpho="_" head="9" dep="ponct">"</word>
+          <word id="11" lem="autoroute" postag="NC" morpho="g=f|n=s" head="9" dep="prep">autoroute</word>
+          <word id="12" lem="de" postag="P+D" morpho="n=p" head="11" dep="dep">des</word>
+          <word id="13" lem="estuaire" postag="NC" morpho="g=m|n=p" head="12" dep="prep">estuaires</word>
+          <word id="14" lem="&quot;" postag="PONCT" morpho="_" head="13" dep="ponct">"</word>
+          <word id="15" lem="en" postag="P" morpho="_" head="11" dep="dep">en</word>
+          <word id="16" lem="France" postag="NPP" morpho="g=m|n=s" head="15" dep="prep">France</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="route" postag="NC" morpho="g=f|n=p" head="14" dep="suj">routes</word>
+        <word id="3" lem="réserver" postag="VPP" morpho="g=f|n=p|t=past" head="2" dep="mod">réservées</word>
+        <word id="4" lem="à" postag="P" morpho="_" head="3" dep="a_obj">à</word>
+        <word id="5" lem="certaines" postag="DET" morpho="g=f|n=p" head="6" dep="det">certaines</word>
+        <word id="6" lem="catégorie" postag="NC" morpho="g=f|n=p" head="4" dep="prep">catégories</word>
+        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
+        <word id="8" lem="usager" postag="NC" morpho="g=m|n=p" head="7" dep="prep">usagers</word>
+        <word id="9" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+        <word id="10" lem="cycliste" postag="NC" morpho="n=p" head="6" dep="mod">cyclistes</word>
+        <word id="11" lem="ou" postag="CC" morpho="_" head="10" dep="coord">ou</word>
+        <word id="12" lem="piéton" postag="NC" morpho="g=m|n=p" head="11" dep="dep_coord">piétons</word>
+        <word id="13" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+        <word id="14" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">ont</word>
+        <word id="15" lem="des" postag="DET" morpho="n=p" head="16" dep="det">des</word>
+        <word id="16" lem="dénomination" postag="NC" morpho="g=f|n=p" head="14" dep="obj">dénominations</word>
+        <word id="17" lem="spécifique" postag="ADJ" morpho="n=p" head="16" dep="mod">spécifiques</word>
+        <word id="18" lem=":" postag="PONCT" morpho="_" head="14" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="réseau" postag="NC" morpho="g=m|n=s" head="9" dep="suj">réseau</word>
+          <word id="3" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">véloroute</word>
+          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
+          <word id="6" lem="voie" postag="NC" morpho="g=f|n=p" head="5" dep="dep_coord">voies</word>
+          <word id="7" lem="vert" postag="ADJ" morpho="g=f|n=p" head="6" dep="mod">vertes</word>
+          <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="9" lem="devoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">doit</word>
+          <word id="10" lem="en" postag="P" morpho="_" head="9" dep="mod">en</word>
+          <word id="11" lem="Europe" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Europe</word>
+          <word id="12" lem="permettre" postag="VINF" morpho="_" head="9" dep="obj">permettre</word>
+          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
+          <word id="14" lem="circulation" postag="NC" morpho="g=f|n=s" head="12" dep="obj">circulation</word>
+          <word id="15" lem="de" postag="P+D" morpho="n=p" head="14" dep="dep">des</word>
+          <word id="16" lem="vélo" postag="NC" morpho="g=m|n=p" head="15" dep="prep">vélos</word>
+          <word id="17" lem="à" postag="P" morpho="_" head="14" dep="dep">à</word>
+          <word id="18" lem="moindre" postag="ADJ" morpho="n=s" head="19" dep="mod">moindre</word>
+          <word id="19" lem="risque" postag="NC" morpho="g=m|n=s" head="17" dep="prep">risque</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=p" head="10" dep="suj">routes</word>
+          <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="4" lem="rue" postag="NC" morpho="g=f|n=p" head="3" dep="dep_coord">rues</word>
+          <word id="5" lem="piéton" postag="NC" morpho="g=f|n=p" head="4" dep="mod">piétonnes</word>
+          <word id="6" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
+          <word id="7" lem="chemin" postag="NC" morpho="g=m|n=p" head="6" dep="dep_coord">chemins</word>
+          <word id="8" lem="piéton" postag="NC" morpho="g=m|n=p" head="7" dep="mod">piétons</word>
+          <word id="9" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="10" dep="aux_pass">sont</word>
+          <word id="10" lem="réserver" postag="VPP" morpho="g=f|n=p|t=past" head="0" dep="root">réservées</word>
+          <word id="11" lem="à" postag="P+D" morpho="n=p" head="10" dep="a_obj">aux</word>
+          <word id="12" lem="piéton" postag="NC" morpho="g=m|n=p" head="11" dep="prep">piétons</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="route" postag="NC" morpho="g=f|n=p" head="0" dep="_">Routes</word>
+        <word id="2" lem="célèbre" postag="ADJ" morpho="n=p" head="1" dep="mod">célèbres</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=s" head="0" dep="_">route</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="soie" postag="NC" morpho="g=f|n=s" head="3" dep="prep">soie</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=s" head="0" dep="_">route</word>
+          <word id="3" lem="#NUM#" postag="ADJ" morpho="n=p" head="2" dep="mod">66</word>
+          <word id="4" lem="dans" postag="P" morpho="_" head="2" dep="dep">dans</word>
+          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
+          <word id="6" lem="ouest" postag="NC" morpho="g=m|n=s" head="4" dep="prep">ouest</word>
+          <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
+          <word id="8" lem="États-Unis_d'Amérique" postag="NPP" morpho="g=m|n=p" head="7" dep="prep">États-Unis</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="Grand" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Grand</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Trunk</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Road</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
+          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
+          <word id="8" lem="Inde" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Inde</word>
+          <word id="9" lem="à" postag="P" morpho="_" head="6" dep="arg">à</word>
+          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
+          <word id="11" lem="Afghanistan" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Afghanistan</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="Grand" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Grand</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Trunk</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Road</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
+          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
+          <word id="8" lem="Inde" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Inde</word>
+          <word id="9" lem="à" postag="P" morpho="_" head="6" dep="arg">à</word>
+          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
+          <word id="11" lem="Afghanistan" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Afghanistan</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="chemin" postag="NC" morpho="g=m|n=p" head="0" dep="_">chemins</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Saint</word>
+          <word id="5" lem="Jacques" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Jacques</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Via</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Appia</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="4" dep="dep_coord">Via</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Domitia</word>
+          <word id="8" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="dep_coord">Via</word>
+          <word id="11" lem="Agrippa" postag="NPP" morpho="g=m|n=s" head="10" dep="mod">Agrippa</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="13" lem="voie" postag="NC" morpho="g=f|n=p" head="10" dep="mod">voies</word>
+          <word id="14" lem="romaine" postag="NC" morpho="g=f|n=p" head="13" dep="mod">romaines</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Via</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Appia</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="4" dep="dep_coord">Via</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Domitia</word>
+          <word id="8" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="dep_coord">Via</word>
+          <word id="11" lem="Agrippa" postag="NPP" morpho="g=m|n=s" head="10" dep="mod">Agrippa</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="13" lem="voie" postag="NC" morpho="g=f|n=p" head="10" dep="mod">voies</word>
+          <word id="14" lem="romaine" postag="NC" morpho="g=f|n=p" head="13" dep="mod">romaines</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=s" head="0" dep="_">route</word>
+          <word id="3" lem="national" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">nationale</word>
+          <word id="4" lem="#NUM#" postag="ADJ" morpho="n=p" head="2" dep="mod">7</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="France" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">France</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=s" head="0" dep="_">route</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Napoléon</word>
+          <word id="4" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="5" lem="France" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">France</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=s" head="0" dep="_">route</word>
+          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="mod">128</word>
+          <word id="4" lem="qui" postag="PROREL" morpho="n=s" head="5" dep="suj">qui</word>
+          <word id="5" lem="ceinturer" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">ceinture</word>
+          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
+          <word id="7" lem="ville" postag="NC" morpho="g=f|n=s" head="5" dep="obj">ville</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="Boston" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Boston</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="route" postag="NC" morpho="g=f|n=s" head="0" dep="_">route</word>
+          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="mod">128</word>
+          <word id="4" lem="qui" postag="PROREL" morpho="n=s" head="5" dep="suj">qui</word>
+          <word id="5" lem="ceinturer" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">ceinture</word>
+          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
+          <word id="7" lem="ville" postag="NC" morpho="g=f|n=s" head="5" dep="obj">ville</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="Boston" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Boston</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Route</word>
+          <word id="3" lem="royal" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">royale</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="5" lem="louis" postag="NC" morpho="g=m" head="2" dep="mod">Louis</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">XIV</word>
+          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="9">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Route</word>
+          <word id="3" lem="royal" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">royale</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="5" lem="louis" postag="NC" morpho="g=m" head="2" dep="mod">Louis</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">XIV</word>
+          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Route</word>
+          <word id="3" lem="_" postag="V" morpho="_" head="0" dep="root">transcanadienne</word>
+          <word id="4" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="a_obj">au</word>
+          <word id="5" lem="Canada" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Canada</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Route</word>
+          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Yungas</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="Bolivie" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Bolivie</word>
+        </sentence>
+      </item>
+      <item id="10">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Route</word>
+          <word id="3" lem="_" postag="V" morpho="_" head="0" dep="root">transcanadienne</word>
+          <word id="4" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="a_obj">au</word>
+          <word id="5" lem="Canada" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Canada</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="21" />
+      <text>Statut administratif</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="22" end="190" id="0" />
+      <text id="0">Statut international : Les routes continentales, comme les Routes européennes, ou les routes inter-états nord-américaines (Interstate highways), ou la transamazonienne.</text>
+      <span begin="191" end="268" id="1" />
+      <text id="1">Statut national : la typologie dépend alors de l’organisation de chaque pays.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="39" />
+      <text>Quelques exemples de classifications :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="40" end="147" id="0" />
+      <text id="0">En France : autoroutes – routes nationales – routes départementales – voies communales et chemins vicinaux;</text>
+      <span begin="148" end="273" id="1" />
+      <text id="1">Au Québec : autoroutes – routes nationales – routes collectrices – routes secondaires (voir : Routes provinciales du Québec);</text>
+      <span begin="274" end="357" id="2" />
+      <text id="2">En Suisse : autoroutes – semi-autoroutes – routes principales – routes secondaires;</text>
+      <span begin="358" end="429" id="3" />
+      <text id="3">Au Brésil : routes fédérales et routes locales (voir Routes du Brésil).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="22" />
+      <text>Contexte géographique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="23" end="44" id="0" />
+      <text id="0">Les routes urbaines ;</text>
+      <span begin="45" end="71" id="1" />
+      <text id="1">Les routes interurbaines ;</text>
+      <span begin="72" end="159" id="2" />
+      <text id="2">Les routes « de rase campagne », sont une autre dénomination des routes interurbaines ;</text>
+      <span begin="160" end="201" id="3" />
+      <text id="3">Les routes forestières, situées en forêt,</text>
+      <span begin="202" end="297" id="4" />
+      <text id="4">Les routes de montagnes, soumises à des contraintes particulières d’aménagement et d’entretien.</text>
+      <span begin="298" end="385" id="5" />
+      <text id="5">Onqui parle parfois aussi de routes littorale (d'« autoroute des estuaires » en France)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="113" />
+      <text>Les routes réservées à certaines catégories d'usagers (cyclistes ou piétons) ont des dénominations spécifiques :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="114" end="221" id="0" />
+      <text id="0">Le réseau « véloroute et voies vertes » doit en Europe permettre la circulation des vélos à moindre risque.</text>
+      <span begin="222" end="297" id="1" />
+      <text id="1">Les routes ou rues piétonnes ou chemins piétons sont réservées aux piétons.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="16" />
+      <text>Routes célèbres</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="17" end="36" id="0" />
+      <text id="0">la route de la soie</text>
+      <span begin="37" end="76" id="1" />
+      <text id="1">la route 66 dans l'ouest des États-Unis</text>
+      <span begin="77" end="123" id="2" />
+      <text id="2">la Grand Trunk Road, de l'Inde à l'Afghanistan</text>
+      <span begin="77" end="152" id="3" />
+      <text id="3">la Grand Trunk Road, de l'Inde à l'Afghanistan
+les chemins de Saint Jacques</text>
+      <span begin="153" end="215" id="4" />
+      <text id="4">la Via Appia, la Via Domitia et la Via Agrippa, voies romaines</text>
+      <span begin="153" end="246" id="5" />
+      <text id="5">la Via Appia, la Via Domitia et la Via Agrippa, voies romaines
+la route nationale 7 en France</text>
+      <span begin="247" end="274" id="6" />
+      <text id="6">la route Napoléon en France</text>
+      <span begin="275" end="319" id="7" />
+      <text id="7">la route 128 qui ceinture la ville de Boston</text>
+      <span begin="275" end="347" id="8" />
+      <text id="8">la route 128 qui ceinture la ville de Boston
+la Route royale (Louis XIV)</text>
+      <span begin="320" end="413" id="9" />
+      <text id="9">la Route royale (Louis XIV)
+la Route transcanadienne au Canada
+la Route des Yungas en Bolivie</text>
+      <span begin="348" end="382" id="10" />
+      <text id="10">la Route transcanadienne au Canada</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="21" id="0" />
+      <text id="0">Statut administratif</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="22" end="42" id="0" />
+      <text id="0">Statut international</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="191" end="206" id="0" />
+      <text id="0">Statut national</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="51" end="62" id="0" />
+      <text id="0">autoroutes</text>
+      <span begin="64" end="82" id="1" />
+      <text id="1">routes nationales</text>
+      <span begin="85" end="107" id="2" />
+      <text id="2">routes départementales</text>
+      <span begin="109" end="146" id="3" />
+      <text id="3">voies communales et chemins vicinaux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="160" end="170" id="0" />
+      <text id="0">autoroutes</text>
+      <span begin="173" end="190" id="1" />
+      <text id="1">routes nationales</text>
+      <span begin="193" end="212" id="2" />
+      <text id="2">routes collectrices</text>
+      <span begin="215" end="233" id="3" />
+      <text id="3">routes secondaires</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="286" end="296" id="0" />
+      <text id="0">autoroutes</text>
+      <span begin="299" end="314" id="1" />
+      <text id="1">semi-autoroutes</text>
+      <span begin="317" end="335" id="2" />
+      <text id="2">routes principales</text>
+      <span begin="338" end="356" id="3" />
+      <text id="3">routes secondaires</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="370" end="386" id="0" />
+      <text id="0">routes fédérales</text>
+      <span begin="390" end="404" id="1" />
+      <text id="1">routes locales</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
+      <span begin="40" end="49" id="0" />
+      <text id="0">En France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
+      <span begin="148" end="157" id="0" />
+      <text id="0">Au Québec</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
+      <span begin="274" end="283" id="0" />
+      <text id="0">En Suisse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="3">
+      <span begin="358" end="367" id="0" />
+      <text id="0">Au Brésil</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="21" id="0" />
+      <text id="0">Quelques exemples de</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="23" end="42" id="0" />
+      <text id="0">Les routes urbaines</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="45" end="69" id="0" />
+      <text id="0">Les routes interurbaines</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="72" end="103" id="0" />
+      <text id="0">Les routes « de rase campagne »</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+      <span begin="160" end="182" id="0" />
+      <text id="0">Les routes forestières</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="4">
+      <span begin="202" end="225" id="0" />
+      <text id="0">Les routes de montagnes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="5">
+      <span begin="327" end="343" id="0" />
+      <text id="0">routes littorale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="22" id="0" />
+      <text id="0">Contexte géographique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="1" end="54" id="0" />
+      <text id="0">Les routes réservées à certaines catégories d'usagers</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="114" end="153" id="0" />
+      <text id="0">Le réseau « véloroute et voies vertes »</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="222" end="269" id="0" />
+      <text id="0">Les routes ou rues piétonnes ou chemins piétons</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+      <span begin="1" end="16" id="0" />
+      <text id="0">Routes célèbres</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="17" end="36" id="0" />
+      <text id="0">la route de la soie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="37" end="49" id="0" />
+      <text id="0">la route 66</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+      <span begin="77" end="96" id="0" />
+      <text id="0">la Grand Trunk Road</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="3">
+      <span begin="124" end="152" id="0" />
+      <text id="0">les chemins de Saint Jacques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="4">
+      <span begin="153" end="165" id="0" />
+      <text id="0">la Via Appia</text>
+      <span begin="166" end="181" id="1" />
+      <text id="1">la Via Domitia</text>
+      <span begin="184" end="199" id="2" />
+      <text id="2">la Via Agrippa</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="5">
+      <span begin="216" end="236" id="0" />
+      <text id="0">la route nationale 7</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="6">
+      <span begin="247" end="264" id="0" />
+      <text id="0">la route Napoléon</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="7">
+      <span begin="275" end="287" id="0" />
+      <text id="0">la route 128</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="8">
+      <span begin="320" end="335" id="0" />
+      <text id="0">la Route royale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="9">
+      <span begin="348" end="372" id="0" />
+      <text id="0">la Route transcanadienne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="1">
+      <span begin="49" end="76" id="0" />
+      <text id="0">dans l'ouest des États-Unis</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="2">
+      <span begin="98" end="123" id="0" />
+      <text id="0">de l'Inde à l'Afghanistan</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="5">
+      <span begin="237" end="246" id="0" />
+      <text id="0">en France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="6">
+      <span begin="265" end="274" id="0" />
+      <text id="0">en France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="9">
+      <span begin="373" end="382" id="0" />
+      <text id="0">au Canada</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:57</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:15</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:00</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:16</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:31</date>
+      <document>Route.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+</root>

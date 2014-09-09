@@ -1,0 +1,2072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Croyances
+Dans la mythologie grecque, Chaos est une entité primordiale d'où naît l'univers.
+Le chaos est un concept religieux qui définissait l'univers avant l'intervention de Dieu.
+Magie du Chaos.</text>
+      <span begin="10" end="207" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Sciences
+La théorie du chaos est une théorie mathématique et physique dédiée à l'étude des systèmes dynamiques. Elle s'applique à toutes sortes de sciences : astrophysique, météorologie, sciences humaines, biochimie moléculaire. A titre d'exemple,voici une application originale : Le réseau Bee-Secured spécialisé dans la surveillance des environnements et des écosystèmes utilise la théorie du chaos dans ses modèles mathématiques de calcul d'interactions du comportement des abeilles et de son environnement.
+En géologie, un chaos désigne un entassement de rochers dégagé par l'érosion.
+En exogéologie, un chaos désigne une région géologique désordonnée.
+En astronomie, (19521) Chaos est un astéroïdetransneptunien.
+En biologie :
+Chaos est un genre d'algues rouges,
+Chaos est un genre d'amibes.</text>
+      <span begin="208" end="1004" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>La théorie du chaos est une théorie mathématique et physique dédiée à l'étude des systèmes dynamiques. Elle s'applique à toutes sortes de sciences : astrophysique, météorologie, sciences humaines, biochimie moléculaire.</text>
+      <span begin="217" end="437" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>En géologie, un chaos désigne un entassement de rochers dégagé par l'érosion.
+En exogéologie, un chaos désigne une région géologique désordonnée.
+En astronomie, (19521) Chaos est un astéroïdetransneptunien.
+En biologie :
+Chaos est un genre d'algues rouges,
+Chaos est un genre d'amibes.</text>
+      <span begin="719" end="1004" />
+    </SE>
+    <comment>NOTSEFINAL</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>En biologie :
+Chaos est un genre d'algues rouges,
+Chaos est un genre d'amibes.</text>
+      <span begin="926" end="1004" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SE>
+      <id>5</id>
+      <text>Arts
+Chaos, film réalisé par Coline Serreau en 2001, avec Catherine Frot et Vincent Lindon.
+Chaos, film réalisé par Tony Giglio en 2005, avec Wesley Snipes.
+Chaos, épisode de la série télévisée Buffy contre les vampires.
+Chaos, troisième tome de la série de bande dessinée Petit d'homme.
+Chaos, sixième tome du manga Akira.
+La Demeure du Chaos, propriété de Thierry Ehrmann à Saint-Romain-au-Mont-d'Or, qui est un musée d'art contemporain.
+Chaos, série télévisée créée par Tom Spezialy en 2011.
+Chaos, troisième album du groupe de musique Imperial, sorti en 2011.</text>
+      <span begin="1005" end="1568" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SE>
+      <id>6</id>
+      <text>Jeux
+Le Chaos (Warhammer) représente une dimension spécifique peuplée d'entités démoniaques voulant corrompre l'humanité , dans l'univers de science-fiction créé par Games Workshop (Warhammer et Warhammer 40,000).
+Chaos (jeu vidéo), un jeu vidéo édité par Games Workshop.
+Chaos (Xenosaga), un personnage jouable de la série Xenosaga.
+Chaos (4Realms), un autre jeu-vidéo sur PC, développé par 4Realms (2013)</text>
+      <span begin="1569" end="1975" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="croyance" postag="NC" morpho="g=f|n=p" head="0" dep="root">Croyances</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="dans" postag="P" morpho="_" head="7" dep="mod">Dans</word>
+          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
+          <word id="3" lem="mythologie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">mythologie</word>
+          <word id="4" lem="grec" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">grecque</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="7" dep="suj">Chaos</word>
+          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
+          <word id="9" lem="entité" postag="NC" morpho="g=f|n=s" head="7" dep="ats">entité</word>
+          <word id="10" lem="primordial" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">primordiale</word>
+          <word id="11" lem="d'où" postag="P" morpho="_" head="7" dep="mod">d'où</word>
+          <word id="12" lem="naître" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="mod">naît</word>
+          <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
+          <word id="14" lem="univers" postag="NC" morpho="g=m" head="12" dep="obj">univers</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="chaos" postag="NC" morpho="g=m" head="3" dep="suj">chaos</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="concept" postag="NC" morpho="g=m|n=s" head="3" dep="ats">concept</word>
+          <word id="6" lem="religieux" postag="ADJ" morpho="g=m" head="5" dep="mod">religieux</word>
+          <word id="7" lem="qui" postag="PROREL" morpho="n=s" head="8" dep="suj">qui</word>
+          <word id="8" lem="définir" postag="V" morpho="n=s|p=3|t=imp" head="5" dep="mod_rel">définissait</word>
+          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
+          <word id="10" lem="univers" postag="NC" morpho="g=m" head="8" dep="obj">univers</word>
+          <word id="11" lem="avant" postag="P" morpho="_" head="8" dep="mod">avant</word>
+          <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
+          <word id="13" lem="intervention" postag="NC" morpho="g=f|n=s" head="11" dep="prep">intervention</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="prep">Dieu</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="magie" postag="NC" morpho="g=f|n=s" head="0" dep="_">Magie</word>
+          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Chaos</word>
+          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="science" postag="NC" morpho="g=f|n=p" head="0" dep="_">Sciences</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="théorie" postag="NC" morpho="g=f|n=s" head="5" dep="suj">théorie</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="chaos" postag="NC" morpho="g=m" head="3" dep="prep">chaos</word>
+          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+          <word id="7" lem="théorie" postag="NC" morpho="g=f|n=s" head="5" dep="ats">théorie</word>
+          <word id="8" lem="mathématique" postag="ADJ" morpho="n=s" head="7" dep="mod">mathématique</word>
+          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="10" lem="physique" postag="ADJ" morpho="n=s" head="9" dep="dep_coord">physique</word>
+          <word id="11" lem="dédier" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">dédiée</word>
+          <word id="12" lem="à" postag="P" morpho="_" head="11" dep="a_obj">à</word>
+          <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
+          <word id="14" lem="étude" postag="NC" morpho="g=f|n=s" head="12" dep="prep">étude</word>
+          <word id="15" lem="de" postag="P+D" morpho="n=p" head="14" dep="dep">des</word>
+          <word id="16" lem="système" postag="NC" morpho="g=m|n=p" head="15" dep="prep">systèmes</word>
+          <word id="17" lem="dynamique" postag="ADJ" morpho="n=p" head="16" dep="mod">dynamiques</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="3" dep="suj">Elle</word>
+          <word id="2" lem="se" postag="CLR" morpho="p=3" head="3" dep="aff">s'</word>
+          <word id="3" lem="appliquer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">applique</word>
+          <word id="4" lem="à" postag="P" morpho="_" head="3" dep="a_obj">à</word>
+          <word id="5" lem="toutes" postag="DET" morpho="g=f|n=p" head="6" dep="det">toutes</word>
+          <word id="6" lem="sorte" postag="NC" morpho="g=f|n=p" head="4" dep="prep">sortes</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="science" postag="NC" morpho="g=f|n=p" head="7" dep="prep">sciences</word>
+          <word id="9" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
+          <word id="10" lem="astrophysique" postag="NC" morpho="g=f|n=s" head="3" dep="mod">astrophysique</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="12" lem="météorologie" postag="NC" morpho="g=f|n=s" head="3" dep="mod">météorologie</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="14" lem="science" postag="NC" morpho="g=f|n=p" head="3" dep="mod">sciences</word>
+          <word id="15" lem="humain" postag="ADJ" morpho="g=f|n=p" head="14" dep="mod">humaines</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="17" lem="biochimie" postag="NC" morpho="g=f|n=s" head="3" dep="mod">biochimie</word>
+          <word id="18" lem="moléculaire" postag="ADJ" morpho="n=s" head="17" dep="mod">moléculaire</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="à_titre_de" postag="P" morpho="_" head="4" dep="mod">A_titre_d'</word>
+          <word id="2" lem="exemple" postag="NC" morpho="g=m|n=s" head="1" dep="prep">exemple</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="4" lem="voici" postag="V" morpho="_" head="0" dep="root">voici</word>
+          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
+          <word id="6" lem="application" postag="NC" morpho="g=f|n=s" head="4" dep="obj">application</word>
+          <word id="7" lem="original" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">originale</word>
+          <word id="8" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">Le</word>
+          <word id="10" lem="réseau" postag="NC" morpho="g=m|n=s" head="21" dep="suj">réseau</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Bee-Secured</word>
+          <word id="12" lem="spécialiser" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">spécialisé</word>
+          <word id="13" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
+          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
+          <word id="15" lem="surveillance" postag="NC" morpho="g=f|n=s" head="13" dep="prep">surveillance</word>
+          <word id="16" lem="de" postag="P+D" morpho="n=p" head="15" dep="dep">des</word>
+          <word id="17" lem="environnement" postag="NC" morpho="g=m|n=p" head="16" dep="prep">environnements</word>
+          <word id="18" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
+          <word id="19" lem="de" postag="P+D" morpho="n=p" head="18" dep="dep_coord">des</word>
+          <word id="20" lem="écosystème" postag="NC" morpho="g=m|n=p" head="19" dep="prep">écosystèmes</word>
+          <word id="21" lem="utiliser" postag="V" morpho="n=s|p=13|t=pst" head="4" dep="mod">utilise</word>
+          <word id="22" lem="la" postag="DET" morpho="g=f|n=s" head="23" dep="det">la</word>
+          <word id="23" lem="théorie" postag="NC" morpho="g=f|n=s" head="21" dep="obj">théorie</word>
+          <word id="24" lem="de" postag="P+D" morpho="g=m|n=s" head="23" dep="dep">du</word>
+          <word id="25" lem="chaos" postag="NC" morpho="g=m" head="24" dep="prep">chaos</word>
+          <word id="26" lem="dans" postag="P" morpho="_" head="21" dep="mod">dans</word>
+          <word id="27" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="28" dep="det">ses</word>
+          <word id="28" lem="modèle" postag="NC" morpho="g=m|n=p" head="26" dep="prep">modèles</word>
+          <word id="29" lem="mathématique" postag="ADJ" morpho="n=p" head="28" dep="mod">mathématiques</word>
+          <word id="30" lem="de" postag="P" morpho="_" head="28" dep="dep">de</word>
+          <word id="31" lem="calcul" postag="NC" morpho="g=m|n=s" head="30" dep="prep">calcul</word>
+          <word id="32" lem="de" postag="P" morpho="_" head="31" dep="dep">d'</word>
+          <word id="33" lem="interaction" postag="NC" morpho="g=f|n=p" head="32" dep="prep">interactions</word>
+          <word id="34" lem="de" postag="P+D" morpho="g=m|n=s" head="33" dep="dep">du</word>
+          <word id="35" lem="comportement" postag="NC" morpho="g=m|n=s" head="34" dep="prep">comportement</word>
+          <word id="36" lem="de" postag="P+D" morpho="n=p" head="35" dep="dep">des</word>
+          <word id="37" lem="abeille" postag="NC" morpho="g=f|n=p" head="36" dep="prep">abeilles</word>
+          <word id="38" lem="et" postag="CC" morpho="_" head="36" dep="coord">et</word>
+          <word id="39" lem="de" postag="P" morpho="_" head="38" dep="dep_coord">de</word>
+          <word id="40" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="41" dep="det">son</word>
+          <word id="41" lem="environnement" postag="NC" morpho="g=m|n=s" head="39" dep="prep">environnement</word>
+          <word id="42" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
+          <word id="2" lem="géologie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">géologie</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="chaos" postag="NC" morpho="g=m" head="6" dep="suj">chaos</word>
+          <word id="6" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+          <word id="8" lem="entassement" postag="NC" morpho="g=m|n=s" head="6" dep="obj">entassement</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="rocher" postag="NC" morpho="g=m|n=p" head="9" dep="prep">rochers</word>
+          <word id="11" lem="dégager" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="mod">dégagé</word>
+          <word id="12" lem="par" postag="P" morpho="_" head="11" dep="p_obj">par</word>
+          <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
+          <word id="14" lem="érosion" postag="NC" morpho="g=f|n=s" head="12" dep="prep">érosion</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">exogéologie</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="chaos" postag="NC" morpho="g=m" head="6" dep="suj">chaos</word>
+          <word id="6" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="région" postag="NC" morpho="g=f|n=s" head="6" dep="obj">région</word>
+          <word id="9" lem="géologique" postag="ADJ" morpho="n=s" head="8" dep="mod">géologique</word>
+          <word id="10" lem="désordonner" postag="VPP" morpho="g=f|n=s|t=past" head="8" dep="mod">désordonnée</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="en" postag="P" morpho="_" head="8" dep="mod">En</word>
+          <word id="2" lem="astronomie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">astronomie</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
+          <word id="5" lem="#NUM#" postag="PRO" morpho="n=p" head="8" dep="mod">19521</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="8" dep="suj">Chaos</word>
+          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
+          <word id="10" lem="_" postag="NC" morpho="_" head="8" dep="ats">astéroïdetransneptunien</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="biologie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">biologie</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="2" dep="suj">Chaos</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="genre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">genre</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="algue" postag="NC" morpho="g=f|n=p" head="5" dep="prep">algues</word>
+          <word id="7" lem="rouge" postag="ADJ" morpho="n=p" head="6" dep="mod">rouges</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="2" dep="suj">Chaos</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="genre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">genre</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="amibe" postag="NC" morpho="g=f|n=p" head="5" dep="prep">amibes</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="théorie" postag="NC" morpho="g=f|n=s" head="5" dep="suj">théorie</word>
+        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+        <word id="4" lem="chaos" postag="NC" morpho="g=m" head="3" dep="prep">chaos</word>
+        <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+        <word id="7" lem="théorie" postag="NC" morpho="g=f|n=s" head="5" dep="ats">théorie</word>
+        <word id="8" lem="mathématique" postag="ADJ" morpho="n=s" head="7" dep="mod">mathématique</word>
+        <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+        <word id="10" lem="physique" postag="ADJ" morpho="n=s" head="9" dep="dep_coord">physique</word>
+        <word id="11" lem="dédier" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">dédiée</word>
+        <word id="12" lem="à" postag="P" morpho="_" head="11" dep="a_obj">à</word>
+        <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
+        <word id="14" lem="étude" postag="NC" morpho="g=f|n=s" head="12" dep="prep">étude</word>
+        <word id="15" lem="de" postag="P+D" morpho="n=p" head="14" dep="dep">des</word>
+        <word id="16" lem="système" postag="NC" morpho="g=m|n=p" head="15" dep="prep">systèmes</word>
+        <word id="17" lem="dynamique" postag="ADJ" morpho="n=p" head="16" dep="mod">dynamiques</word>
+        <word id="18" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="3" dep="suj">Elle</word>
+        <word id="2" lem="se" postag="CLR" morpho="p=3" head="3" dep="aff">s'</word>
+        <word id="3" lem="appliquer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">applique</word>
+        <word id="4" lem="à" postag="P" morpho="_" head="3" dep="a_obj">à</word>
+        <word id="5" lem="toutes" postag="DET" morpho="g=f|n=p" head="6" dep="det">toutes</word>
+        <word id="6" lem="sorte" postag="NC" morpho="g=f|n=p" head="4" dep="prep">sortes</word>
+        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+        <word id="8" lem="science" postag="NC" morpho="g=f|n=p" head="7" dep="prep">sciences</word>
+        <word id="9" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+          <word id="2" lem="astrophysique" postag="NC" morpho="g=f|n=s" head="0" dep="root">astrophysique</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="météorologie" postag="NC" morpho="g=f|n=s" head="0" dep="_">météorologie</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="science" postag="NC" morpho="g=f|n=p" head="0" dep="_">sciences</word>
+          <word id="2" lem="humain" postag="ADJ" morpho="g=f|n=p" head="1" dep="mod">humaines</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="biochimie" postag="NC" morpho="g=f|n=s" head="0" dep="root">biochimie</word>
+          <word id="2" lem="moléculaire" postag="ADJ" morpho="n=s" head="1" dep="mod">moléculaire</word>
+          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
+        <word id="2" lem="géologie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">géologie</word>
+        <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+        <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+        <word id="5" lem="chaos" postag="NC" morpho="g=m" head="6" dep="suj">chaos</word>
+        <word id="6" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+        <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+        <word id="8" lem="entassement" postag="NC" morpho="g=m|n=s" head="6" dep="obj">entassement</word>
+        <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+        <word id="10" lem="rocher" postag="NC" morpho="g=m|n=p" head="9" dep="prep">rochers</word>
+        <word id="11" lem="dégager" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="mod">dégagé</word>
+        <word id="12" lem="par" postag="P" morpho="_" head="11" dep="p_obj">par</word>
+        <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
+        <word id="14" lem="érosion" postag="NC" morpho="g=f|n=s" head="12" dep="prep">érosion</word>
+        <word id="15" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">exogéologie</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="chaos" postag="NC" morpho="g=m" head="6" dep="suj">chaos</word>
+          <word id="6" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="région" postag="NC" morpho="g=f|n=s" head="6" dep="obj">région</word>
+          <word id="9" lem="géologique" postag="ADJ" morpho="n=s" head="8" dep="mod">géologique</word>
+          <word id="10" lem="désordonner" postag="VPP" morpho="g=f|n=s|t=past" head="8" dep="mod">désordonnée</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="8" dep="mod">En</word>
+          <word id="2" lem="astronomie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">astronomie</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
+          <word id="5" lem="#NUM#" postag="PRO" morpho="n=p" head="8" dep="mod">19521</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="8" dep="suj">Chaos</word>
+          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
+          <word id="10" lem="_" postag="NC" morpho="_" head="8" dep="ats">astéroïdetransneptunien</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="biologie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">biologie</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="2" dep="suj">Chaos</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="genre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">genre</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="algue" postag="NC" morpho="g=f|n=p" head="5" dep="prep">algues</word>
+          <word id="7" lem="rouge" postag="ADJ" morpho="n=p" head="6" dep="mod">rouges</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="2" dep="suj">Chaos</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="genre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">genre</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="amibe" postag="NC" morpho="g=f|n=p" head="5" dep="prep">amibes</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+        <word id="2" lem="biologie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">biologie</word>
+        <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="2" dep="suj">Chaos</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="genre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">genre</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="algue" postag="NC" morpho="g=f|n=p" head="5" dep="prep">algues</word>
+          <word id="7" lem="rouge" postag="ADJ" morpho="n=p" head="6" dep="mod">rouges</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="2" dep="suj">Chaos</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="genre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">genre</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="amibe" postag="NC" morpho="g=f|n=p" head="5" dep="prep">amibes</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="5">
+      <sentence id="1">
+        <word id="1" lem="art" postag="NC" morpho="g=m|n=p" head="0" dep="root">Arts</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="5">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="film" postag="NC" morpho="g=m|n=s" head="1" dep="mod">film</word>
+          <word id="4" lem="réaliser" postag="VPP" morpho="g=m|n=s|t=past" head="3" dep="mod">réalisé</word>
+          <word id="5" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
+          <word id="6" lem="Coline" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Coline</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Serreau</word>
+          <word id="8" lem="en" postag="P" morpho="_" head="4" dep="mod">en</word>
+          <word id="9" lem="_" postag="NC" morpho="_" head="8" dep="prep">2001</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="11" lem="avec" postag="P" morpho="_" head="4" dep="mod">avec</word>
+          <word id="12" lem="Catherine" postag="NPP" morpho="g=f|n=s" head="11" dep="prep">Catherine</word>
+          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Frot</word>
+          <word id="14" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
+          <word id="15" lem="Vincent" postag="NPP" morpho="g=m|n=s" head="14" dep="dep_coord">Vincent</word>
+          <word id="16" lem="Lindon" postag="NPP" morpho="g=m|n=s" head="15" dep="mod">Lindon</word>
+          <word id="17" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="film" postag="NC" morpho="g=m|n=s" head="1" dep="mod">film</word>
+          <word id="4" lem="réaliser" postag="VPP" morpho="g=m|n=s|t=past" head="3" dep="mod">réalisé</word>
+          <word id="5" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
+          <word id="6" lem="Tony" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Tony</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Giglio</word>
+          <word id="8" lem="en" postag="P" morpho="_" head="4" dep="mod">en</word>
+          <word id="9" lem="_" postag="NC" morpho="_" head="8" dep="prep">2005</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="11" lem="avec" postag="P" morpho="_" head="4" dep="mod">avec</word>
+          <word id="12" lem="Wesley" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Wesley</word>
+          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Snipes</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="épisode" postag="NC" morpho="g=m|n=s" head="1" dep="mod">épisode</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="série" postag="NC" morpho="g=f|n=s" head="4" dep="prep">série</word>
+          <word id="7" lem="téléviser" postag="ADJ" morpho="g=f|n=s|t=past" head="6" dep="mod">télévisée</word>
+          <word id="8" lem="Buffy" postag="NPP" morpho="g=f|n=s" head="6" dep="mod">Buffy</word>
+          <word id="9" lem="contre" postag="P" morpho="_" head="3" dep="dep">contre</word>
+          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
+          <word id="11" lem="vampire" postag="NC" morpho="g=m|n=p" head="9" dep="prep">vampires</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="troisième" postag="ADJ" morpho="n=p" head="4" dep="mod">troisième</word>
+          <word id="4" lem="tome" postag="NC" morpho="n=s" head="1" dep="mod">tome</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
+          <word id="7" lem="série" postag="NC" morpho="g=f|n=s" head="5" dep="prep">série</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="bande" postag="NC" morpho="g=f|n=s" head="8" dep="prep">bande</word>
+          <word id="10" lem="dessiner" postag="ADJ" morpho="g=f|n=s|t=past" head="9" dep="mod">dessinée</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Petit</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="13" lem="homme" postag="NC" morpho="g=m|n=s" head="12" dep="prep">homme</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="sixième" postag="ADJ" morpho="n=p" head="1" dep="mod">sixième</word>
+          <word id="4" lem="tome" postag="NC" morpho="n=s" head="1" dep="mod">tome</word>
+          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
+          <word id="6" lem="manga" postag="NC" morpho="g=m|n=s" head="5" dep="prep">manga</word>
+          <word id="7" lem="Akira" postag="NPP" morpho="g=m|n=s" head="6" dep="mod">Akira</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Demeure</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Chaos</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="propriété" postag="NC" morpho="g=f|n=s" head="2" dep="mod">propriété</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="Thierry" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Thierry</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Ehrmann</word>
+          <word id="10" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Saint-Romain-au-Mont-d'Or</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="13" lem="qui" postag="PROREL" morpho="n=s" head="14" dep="suj">qui</word>
+          <word id="14" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="mod_rel">est</word>
+          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
+          <word id="16" lem="musée" postag="NC" morpho="g=m|n=s" head="14" dep="ats">musée</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">d'</word>
+          <word id="18" lem="art" postag="NC" morpho="g=m|n=s" head="17" dep="prep">art</word>
+          <word id="19" lem="contemporain" postag="ADJ" morpho="g=m|n=s" head="18" dep="mod">contemporain</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="série" postag="NC" morpho="g=f|n=s" head="1" dep="mod">série</word>
+          <word id="4" lem="téléviser" postag="ADJ" morpho="g=f|n=s|t=past" head="3" dep="mod">télévisée</word>
+          <word id="5" lem="créer" postag="VPP" morpho="g=f|n=s|t=past" head="3" dep="mod">créée</word>
+          <word id="6" lem="par" postag="P" morpho="_" head="5" dep="p_obj">par</word>
+          <word id="7" lem="Tom" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Tom</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Spezialy</word>
+          <word id="9" lem="en" postag="P" morpho="_" head="5" dep="mod">en</word>
+          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">2011</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="troisième" postag="ADJ" morpho="n=p" head="4" dep="mod">troisième</word>
+          <word id="4" lem="album" postag="NC" morpho="g=m|n=s" head="1" dep="mod">album</word>
+          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
+          <word id="6" lem="groupe" postag="NC" morpho="g=m|n=s" head="5" dep="prep">groupe</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="musique" postag="NC" morpho="g=f|n=s" head="7" dep="prep">musique</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Imperial</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="11" lem="sortir" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">sorti</word>
+          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
+          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">2011</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="6">
+      <sentence id="1">
+        <word id="1" lem="jeu" postag="NC" morpho="g=m|n=p" head="0" dep="root">Jeux</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="6">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="6" dep="suj">Chaos</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Warhammer</word>
+          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="6" lem="représenter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">représente</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="dimension" postag="NC" morpho="g=f|n=s" head="6" dep="obj">dimension</word>
+          <word id="9" lem="spécifique" postag="ADJ" morpho="n=s" head="8" dep="mod">spécifique</word>
+          <word id="10" lem="peupler" postag="VPP" morpho="g=f|n=s|t=past" head="8" dep="mod">peuplée</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="de_obj">d'</word>
+          <word id="12" lem="entité" postag="NC" morpho="g=f|n=p" head="11" dep="prep">entités</word>
+          <word id="13" lem="démoniaque" postag="ADJ" morpho="n=p" head="12" dep="mod">démoniaques</word>
+          <word id="14" lem="vouloir" postag="VPR" morpho="t=pst" head="12" dep="mod">voulant</word>
+          <word id="15" lem="corrompre" postag="VINF" morpho="_" head="14" dep="obj">corrompre</word>
+          <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
+          <word id="17" lem="humanité" postag="NC" morpho="g=f|n=s" head="15" dep="obj">humanité</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="19" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
+          <word id="20" lem="l'" postag="DET" morpho="n=s" head="21" dep="det">l'</word>
+          <word id="21" lem="univers" postag="NC" morpho="g=m" head="19" dep="prep">univers</word>
+          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">de</word>
+          <word id="23" lem="science-fiction" postag="NC" morpho="g=f|n=s" head="22" dep="prep">science-fiction</word>
+          <word id="24" lem="créer" postag="VPP" morpho="g=m|n=s|t=past" head="21" dep="mod">créé</word>
+          <word id="25" lem="par" postag="P" morpho="_" head="24" dep="p_obj">par</word>
+          <word id="26" lem="_" postag="NPP" morpho="_" head="25" dep="prep">Games</word>
+          <word id="27" lem="_" postag="NPP" morpho="_" head="26" dep="mod">Workshop</word>
+          <word id="28" lem="(" postag="PONCT" morpho="_" head="26" dep="ponct">(</word>
+          <word id="29" lem="_" postag="NPP" morpho="_" head="26" dep="mod">Warhammer</word>
+          <word id="30" lem="et" postag="CC" morpho="_" head="26" dep="coord">et</word>
+          <word id="31" lem="_" postag="NPP" morpho="_" head="30" dep="dep_coord">Warhammer</word>
+          <word id="32" lem="#NUM#" postag="PRO" morpho="n=p" head="30" dep="dep_coord">40,000</word>
+          <word id="33" lem=")" postag="PONCT" morpho="_" head="26" dep="ponct">)</word>
+          <word id="34" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="jeu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">jeu</word>
+          <word id="4" lem="_" postag="ADJ" morpho="_" head="3" dep="mod">vidéo</word>
+          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="coord">,</word>
+          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+          <word id="8" lem="jeu" postag="NC" morpho="g=m|n=s" head="6" dep="dep_coord">jeu</word>
+          <word id="9" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">vidéo</word>
+          <word id="10" lem="éditer" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="mod">édité</word>
+          <word id="11" lem="par" postag="P" morpho="_" head="10" dep="p_obj">par</word>
+          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Games</word>
+          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Workshop</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Xenosaga</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="7" lem="personnage" postag="NC" morpho="g=m|n=s" head="0" dep="_">personnage</word>
+          <word id="8" lem="jouable" postag="ADJ" morpho="n=s" head="7" dep="mod">jouable</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+          <word id="11" lem="série" postag="NC" morpho="g=f|n=s" head="9" dep="prep">série</word>
+          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Xenosaga</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="chaos" postag="NC" morpho="g=m" head="0" dep="_">Chaos</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">4Realms</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+          <word id="7" lem="autre" postag="ADJ" morpho="n=s" head="8" dep="mod">autre</word>
+          <word id="8" lem="_" postag="NC" morpho="_" head="0" dep="_">jeu-vidéo</word>
+          <word id="9" lem="sur" postag="P" morpho="_" head="8" dep="dep">sur</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">PC</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="12" lem="développer" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="mod">développé</word>
+          <word id="13" lem="par" postag="P" morpho="_" head="12" dep="p_obj">par</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">4Realms</word>
+          <word id="15" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
+          <word id="16" lem="_" postag="NC" morpho="_" head="14" dep="mod">2013</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="10" />
+      <text>Croyances</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="11" end="92" id="0" />
+      <text id="0">Dans la mythologie grecque, Chaos est une entité primordiale d'où naît l'univers.</text>
+      <span begin="93" end="182" id="1" />
+      <text id="1">Le chaos est un concept religieux qui définissait l'univers avant l'intervention de Dieu.</text>
+      <span begin="183" end="198" id="2" />
+      <text id="2">Magie du Chaos.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="9" />
+      <text>Sciences</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="10" end="511" id="0" />
+      <text id="0">La théorie du chaos est une théorie mathématique et physique dédiée à l'étude des systèmes dynamiques. Elle s'applique à toutes sortes de sciences : astrophysique, météorologie, sciences humaines, biochimie moléculaire. A titre d'exemple,voici une application originale : Le réseau Bee-Secured spécialisé dans la surveillance des environnements et des écosystèmes utilise la théorie du chaos dans ses modèles mathématiques de calcul d'interactions du comportement des abeilles et de son environnement.</text>
+      <span begin="512" end="797" id="1" />
+      <text id="1">En géologie, un chaos désigne un entassement de rochers dégagé par l'érosion.
+En exogéologie, un chaos désigne une région géologique désordonnée.
+En astronomie, (19521) Chaos est un astéroïdetransneptunien.
+En biologie :
+Chaos est un genre d'algues rouges,
+Chaos est un genre d'amibes.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="149" />
+      <text>La théorie du chaos est une théorie mathématique et physique dédiée à l'étude des systèmes dynamiques. Elle s'applique à toutes sortes de sciences :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="148" end="164" id="0" />
+      <text id="0">: astrophysique,</text>
+      <span begin="165" end="178" id="1" />
+      <text id="1">météorologie,</text>
+      <span begin="179" end="197" id="2" />
+      <text id="2">sciences humaines,</text>
+      <span begin="198" end="220" id="3" />
+      <text id="3">biochimie moléculaire.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="78" />
+      <text>En géologie, un chaos désigne un entassement de rochers dégagé par l'érosion.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="79" end="146" id="0" />
+      <text id="0">En exogéologie, un chaos désigne une région géologique désordonnée.</text>
+      <span begin="147" end="207" id="1" />
+      <text id="1">En astronomie, (19521) Chaos est un astéroïdetransneptunien.</text>
+      <span begin="208" end="286" id="2" />
+      <text id="2">En biologie :
+Chaos est un genre d'algues rouges,
+Chaos est un genre d'amibes.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="14" />
+      <text>En biologie :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="15" end="50" id="0" />
+      <text id="0">Chaos est un genre d'algues rouges,</text>
+      <span begin="51" end="79" id="1" />
+      <text id="1">Chaos est un genre d'amibes.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer" idSE="5">
+      <span begin="1" end="5" />
+      <text>Arts</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items" idSE="5">
+      <span begin="6" end="92" id="0" />
+      <text id="0">Chaos, film réalisé par Coline Serreau en 2001, avec Catherine Frot et Vincent Lindon.</text>
+      <span begin="93" end="157" id="1" />
+      <text id="1">Chaos, film réalisé par Tony Giglio en 2005, avec Wesley Snipes.</text>
+      <span begin="158" end="221" id="2" />
+      <text id="2">Chaos, épisode de la série télévisée Buffy contre les vampires.</text>
+      <span begin="222" end="288" id="3" />
+      <text id="3">Chaos, troisième tome de la série de bande dessinée Petit d'homme.</text>
+      <span begin="289" end="324" id="4" />
+      <text id="4">Chaos, sixième tome du manga Akira.</text>
+      <span begin="325" end="440" id="5" />
+      <text id="5">La Demeure du Chaos, propriété de Thierry Ehrmann à Saint-Romain-au-Mont-d'Or, qui est un musée d'art contemporain.</text>
+      <span begin="441" end="495" id="6" />
+      <text id="6">Chaos, série télévisée créée par Tom Spezialy en 2011.</text>
+      <span begin="496" end="564" id="7" />
+      <text id="7">Chaos, troisième album du groupe de musique Imperial, sorti en 2011.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="primer" idSE="6">
+      <span begin="1" end="5" />
+      <text>Jeux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="items" idSE="6">
+      <span begin="5" end="214" id="0" />
+      <text id="0">Le Chaos (Warhammer) représente une dimension spécifique peuplée d'entités démoniaques voulant corrompre l'humanité , dans l'univers de science-fiction créé par Games Workshop (Warhammer et Warhammer 40,000).</text>
+      <span begin="215" end="272" id="1" />
+      <text id="1">Chaos (jeu vidéo), un jeu vidéo édité par Games Workshop.</text>
+      <span begin="273" end="334" id="2" />
+      <text id="2">Chaos (Xenosaga), un personnage jouable de la série Xenosaga.</text>
+      <span begin="335" end="407" id="3" />
+      <text id="3">Chaos (4Realms), un autre jeu-vidéo sur PC, développé par 4Realms (2013)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="39" end="44" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="93" end="101" id="0" />
+      <text id="0">Le chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="183" end="198" id="0" />
+      <text id="0">Magie du Chaos.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="10" id="0" />
+      <text id="0">Croyances</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
+      <span begin="11" end="37" id="0" />
+      <text id="0">Dans la mythologie grecque</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="10" end="29" id="0" />
+      <text id="0">La théorie du chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="525" end="533" id="0" />
+      <text id="0">un chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="9" id="0" />
+      <text id="0">Sciences</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
+      <span begin="512" end="523" id="0" />
+      <text id="0">En géologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="139" end="147" id="0" />
+      <text id="0">sciences</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="150" end="163" id="0" />
+      <text id="0">astrophysique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="165" end="177" id="0" />
+      <text id="0">météorologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="179" end="196" id="0" />
+      <text id="0">sciences humaines</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+      <span begin="198" end="219" id="0" />
+      <text id="0">biochimie moléculaire</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
+      <span begin="120" end="138" id="0" />
+      <text id="0">à toutes sortes de</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="14" end="23" id="0" />
+      <text id="0">un chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="95" end="103" id="0" />
+      <text id="0">un chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="170" end="175" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="222" end="227" id="0" />
+      <text id="0">Chaos</text>
+      <span begin="258" end="263" id="1" />
+      <text id="1">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+      <span begin="1" end="12" id="0" />
+      <text id="0">En géologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="0">
+      <span begin="79" end="93" id="0" />
+      <text id="0">En exogéologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="1">
+      <span begin="147" end="160" id="0" />
+      <text id="0">En astronomie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="2">
+      <span begin="208" end="219" id="0" />
+      <text id="0">En biologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="15" end="20" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="51" end="56" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
+      <span begin="1" end="12" id="0" />
+      <text id="0">En biologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+      <span begin="6" end="11" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+      <span begin="93" end="98" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="2">
+      <span begin="158" end="163" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="3">
+      <span begin="222" end="227" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="4">
+      <span begin="289" end="294" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="5">
+      <span begin="325" end="344" id="0" />
+      <text id="0">La Demeure du Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="6">
+      <span begin="441" end="446" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="7">
+      <span begin="496" end="501" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="5" localisation="primer" idItem="-1">
+      <span begin="1" end="5" id="0" />
+      <text id="0">Arts</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+      <span begin="6" end="14" id="0" />
+      <text id="0">Le Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+      <span begin="215" end="220" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="2">
+      <span begin="273" end="278" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="3">
+      <span begin="335" end="340" id="0" />
+      <text id="0">Chaos</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="6" localisation="primer" idItem="-1">
+      <span begin="1" end="5" id="0" />
+      <text id="0">Jeux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:27</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:33</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:35</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="5">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="5">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="5">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="5">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="6">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="6">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="6">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:49</date>
+      <document>Chaos.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="6">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

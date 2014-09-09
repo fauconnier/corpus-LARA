@@ -1,0 +1,1836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:54</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Dans la périphérie de la plupart des villes, les faubourgs se constituent souvent autour d'abbayes (comme les abbayes Saint-Lucien et Saint-Quentin, situées dans les faubourgs de Beauvais)</text>
+      <span begin="612" end="800" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Les faubourgs se forment également pour des raisons de commodité lorsque les activités nécessitent la présence d'un cours d'eau (moulin à eau) , d'un espace important (terrain dégagé de constructions denses) ou une prise de distance vis-à-vis de l'agglomération du fait du caractère polluant du métier exercé (peausserie , tannerie, teinturerie...)</text>
+      <span begin="973" end="1321" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Les anciens faubourgs de Paris
+Paris était autrefois entouré de faubourgs :
+Le faubourg Saint-Antoine, le faubourg Saint-Honoré prolongeaient la ville de Paris à l'est et à l'ouest de la rive droite,
+Le faubourg Saint-Jacques et le faubourg Saint-Germain avaient la même fonction rive gauche.
+Le faubourg Poissonnière, le faubourg Saint-Marcel, le faubourg Montmartre.
+Parmi les 80 quartiers administratifs actuels de Paris, deux ont conservé trace de ces faubourgs dans leur nom :
+le quartier du Faubourg-Montmartre,
+le quartier du Faubourg-du-Roule.
+Enfin, huit rues de Paris conservent également une appellation rappelant leur appartenance passée à un faubourg :
+la rue du Faubourg-Montmartre qui prolonge la rue Montmartre,
+la rue du Faubourg-Poissonnière qui prolonge la rue Poissonnière,
+la rue du Faubourg-Saint-Antoine qui prolonge la rue Saint-Antoine,
+la rue du Faubourg-Saint-Denis qui prolonge la rue Saint-Denis,
+la rue du Faubourg-Saint-Honoré qui prolonge la rue Saint-Honoré,
+la rue du Faubourg-Saint-Jacques qui prolonge la rue Saint-Jacques,
+la rue du Faubourg-Saint-Martin qui prolonge la rue Saint-Martin,
+la rue du Faubourg-du-Temple qui prolonge la rue du Temple.</text>
+      <span begin="1322" end="2507" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>Paris était autrefois entouré de faubourgs :
+Le faubourg Saint-Antoine, le faubourg Saint-Honoré prolongeaient la ville de Paris à l'est et à l'ouest de la rive droite,
+Le faubourg Saint-Jacques et le faubourg Saint-Germain avaient la même fonction rive gauche.
+Le faubourg Poissonnière, le faubourg Saint-Marcel, le faubourg Montmartre.</text>
+      <span begin="1353" end="1690" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>Parmi les 80 quartiers administratifs actuels de Paris, deux ont conservé trace de ces faubourgs dans leur nom :
+le quartier du Faubourg-Montmartre,
+le quartier du Faubourg-du-Roule.</text>
+      <span begin="1691" end="1873" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SE>
+      <id>5</id>
+      <text>Enfin, huit rues de Paris conservent également une appellation rappelant leur appartenance passée à un faubourg :
+la rue du Faubourg-Montmartre qui prolonge la rue Montmartre,
+la rue du Faubourg-Poissonnière qui prolonge la rue Poissonnière,
+la rue du Faubourg-Saint-Antoine qui prolonge la rue Saint-Antoine,
+la rue du Faubourg-Saint-Denis qui prolonge la rue Saint-Denis,
+la rue du Faubourg-Saint-Honoré qui prolonge la rue Saint-Honoré,
+la rue du Faubourg-Saint-Jacques qui prolonge la rue Saint-Jacques,
+la rue du Faubourg-Saint-Martin qui prolonge la rue Saint-Martin,
+la rue du Faubourg-du-Temple qui prolonge la rue du Temple.</text>
+      <span begin="1873" end="2507" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:54</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="dans" postag="P" morpho="_" head="13" dep="mod">Dans</word>
+        <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
+        <word id="3" lem="périphérie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">périphérie</word>
+        <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+        <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+        <word id="6" lem="plupart" postag="NC" morpho="g=f|n=s" head="4" dep="prep">plupart</word>
+        <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
+        <word id="8" lem="ville" postag="NC" morpho="g=f|n=p" head="7" dep="prep">villes</word>
+        <word id="9" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+        <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
+        <word id="11" lem="faubourg" postag="NC" morpho="g=m|n=p" head="13" dep="suj">faubourgs</word>
+        <word id="12" lem="se" postag="CLR" morpho="n=p|p=3" head="13" dep="aff">se</word>
+        <word id="13" lem="constituer" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">constituent</word>
+        <word id="14" lem="souvent" postag="ADV" morpho="_" head="13" dep="mod">souvent</word>
+        <word id="15" lem="autour_de" postag="P" morpho="_" head="13" dep="mod">autour_d'</word>
+        <word id="16" lem="abbaye" postag="NC" morpho="g=f|n=p" head="15" dep="prep">abbayes</word>
+        <word id="17" lem="(" postag="PONCT" morpho="_" head="13" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:54</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">s</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="comme" postag="P" morpho="_" head="1" dep="dep">comme</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
+          <word id="5" lem="abbaye" postag="NC" morpho="g=f|n=p" head="3" dep="prep">abbayes</word>
+          <word id="6" lem="Saint-Lucien" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">Saint-Lucien</word>
+          <word id="7" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Saint-Quentin</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="situer" postag="VPP" morpho="g=f|n=p|t=past" head="1" dep="mod">situées</word>
+          <word id="4" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
+          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
+          <word id="6" lem="faubourg" postag="NC" morpho="g=m|n=p" head="4" dep="prep">faubourgs</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="Beauvais" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Beauvais</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="faubourg" postag="NC" morpho="g=m|n=p" head="4" dep="suj">faubourgs</word>
+        <word id="3" lem="se" postag="CLR" morpho="n=p|p=3" head="4" dep="aff">se</word>
+        <word id="4" lem="former" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">forment</word>
+        <word id="5" lem="également" postag="ADV" morpho="_" head="4" dep="mod">également</word>
+        <word id="6" lem="pour" postag="P" morpho="_" head="4" dep="mod">pour</word>
+        <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
+        <word id="8" lem="raison" postag="NC" morpho="g=f|n=p" head="6" dep="prep">raisons</word>
+        <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+        <word id="10" lem="commodité" postag="NC" morpho="g=f|n=s" head="9" dep="prep">commodité</word>
+        <word id="11" lem="lorsque" postag="CS" morpho="_" head="4" dep="mod">lorsque</word>
+        <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+        <word id="13" lem="activité" postag="NC" morpho="g=f|n=p" head="14" dep="suj">activités</word>
+        <word id="14" lem="nécessiter" postag="V" morpho="n=p|p=3|t=pst" head="11" dep="sub">nécessitent</word>
+        <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+        <word id="16" lem="présence" postag="NC" morpho="g=f|n=s" head="14" dep="obj">présence</word>
+        <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">d'</word>
+        <word id="18" lem="un" postag="DET" morpho="g=m|n=s" head="19" dep="det">un</word>
+        <word id="19" lem="cour" postag="NC" morpho="g=f|n=p" head="17" dep="prep">cours</word>
+        <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
+        <word id="21" lem="eau" postag="NC" morpho="g=f|n=s" head="20" dep="prep">eau</word>
+        <word id="22" lem="(" postag="PONCT" morpho="_" head="19" dep="ponct">(</word>
+        <word id="23" lem="moulin" postag="NC" morpho="g=m|n=s" head="19" dep="mod">moulin</word>
+        <word id="24" lem="à" postag="P" morpho="_" head="23" dep="dep">à</word>
+        <word id="25" lem="eau" postag="NC" morpho="g=f|n=s" head="24" dep="prep">eau</word>
+        <word id="26" lem=")" postag="PONCT" morpho="_" head="19" dep="ponct">)</word>
+        <word id="27" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+        <word id="28" lem="de" postag="P" morpho="_" head="14" dep="mod">d'</word>
+        <word id="29" lem="un" postag="DET" morpho="g=m|n=s" head="30" dep="det">un</word>
+        <word id="30" lem="espace" postag="NC" morpho="n=s" head="28" dep="prep">espace</word>
+        <word id="31" lem="important" postag="ADJ" morpho="g=m|n=s" head="30" dep="mod">important</word>
+        <word id="32" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
+        <word id="33" lem="terrain" postag="NC" morpho="g=m|n=s" head="14" dep="mod">terrain</word>
+        <word id="34" lem="dégager" postag="VPP" morpho="g=m|n=s|t=past" head="33" dep="mod">dégagé</word>
+        <word id="35" lem="de" postag="P" morpho="_" head="34" dep="de_obj">de</word>
+        <word id="36" lem="construction" postag="NC" morpho="g=f|n=p" head="35" dep="prep">constructions</word>
+        <word id="37" lem="dense" postag="ADJ" morpho="n=p" head="36" dep="mod">denses</word>
+        <word id="38" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
+        <word id="39" lem="ou" postag="CC" morpho="_" head="4" dep="coord">ou</word>
+        <word id="40" lem="une" postag="DET" morpho="g=f|n=s" head="41" dep="det">une</word>
+        <word id="41" lem="prise" postag="NC" morpho="g=f|n=s" head="39" dep="dep_coord">prise</word>
+        <word id="42" lem="de" postag="P" morpho="_" head="41" dep="dep">de</word>
+        <word id="43" lem="distance" postag="NC" morpho="g=f|n=s" head="42" dep="prep">distance</word>
+        <word id="44" lem="vis-à-vis_de" postag="P" morpho="_" head="41" dep="dep">vis-à-vis_de</word>
+        <word id="45" lem="l'" postag="DET" morpho="n=s" head="46" dep="det">l'</word>
+        <word id="46" lem="agglomération" postag="NC" morpho="g=f|n=s" head="44" dep="prep">agglomération</word>
+        <word id="47" lem="de" postag="P+D" morpho="g=m|n=s" head="46" dep="dep">du</word>
+        <word id="48" lem="fait" postag="NC" morpho="g=m|n=s" head="47" dep="prep">fait</word>
+        <word id="49" lem="de" postag="P+D" morpho="g=m|n=s" head="48" dep="dep">du</word>
+        <word id="50" lem="caractère" postag="NC" morpho="g=m|n=s" head="49" dep="prep">caractère</word>
+        <word id="51" lem="polluant" postag="ADJ" morpho="g=m|n=s" head="50" dep="mod">polluant</word>
+        <word id="52" lem="de" postag="P+D" morpho="g=m|n=s" head="50" dep="dep">du</word>
+        <word id="53" lem="métier" postag="NC" morpho="g=m|n=s" head="52" dep="prep">métier</word>
+        <word id="54" lem="exercer" postag="VPP" morpho="g=m|n=s|t=past" head="53" dep="mod">exercé</word>
+        <word id="55" lem="(" postag="PONCT" morpho="_" head="50" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="peausserie" postag="NC" morpho="g=f|n=s" head="0" dep="_">peausserie</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="tannerie" postag="NC" morpho="g=f|n=s" head="0" dep="_">tannerie</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="teinturerie" postag="NC" morpho="g=f|n=s" head="0" dep="root">teinturerie</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="3" dep="det">Les</word>
+        <word id="2" lem="ancien" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">anciens</word>
+        <word id="3" lem="faubourg" postag="NC" morpho="g=m|n=p" head="0" dep="_">faubourgs</word>
+        <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+        <word id="5" lem="Paris" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Paris</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="4" dep="suj">Paris</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=imp" head="4" dep="aux_tps">était</word>
+          <word id="3" lem="autrefois" postag="ADV" morpho="_" head="4" dep="mod">autrefois</word>
+          <word id="4" lem="entourer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">entouré</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="de_obj">de</word>
+          <word id="6" lem="faubourg" postag="NC" morpho="g=m|n=p" head="5" dep="prep">faubourgs</word>
+          <word id="7" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="faubourg" postag="NC" morpho="g=m|n=s" head="0" dep="_">faubourg</word>
+          <word id="3" lem="Saint-Antoine" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Antoine</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="faubourg" postag="NC" morpho="g=m|n=s" head="0" dep="_">faubourg</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Saint-Honoré</word>
+          <word id="8" lem="prolonger" postag="V" morpho="n=p|p=3|t=imp" head="6" dep="mod_rel">prolongeaient</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
+          <word id="10" lem="ville" postag="NC" morpho="g=f|n=s" head="8" dep="obj">ville</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
+          <word id="12" lem="Paris" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Paris</word>
+          <word id="13" lem="à" postag="P" morpho="_" head="8" dep="mod">à</word>
+          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
+          <word id="15" lem="_" postag="NPP" morpho="_" head="13" dep="prep">est</word>
+          <word id="16" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
+          <word id="17" lem="à" postag="P" morpho="_" head="16" dep="dep_coord">à</word>
+          <word id="18" lem="l'" postag="DET" morpho="n=s" head="19" dep="det">l'</word>
+          <word id="19" lem="ouest" postag="NC" morpho="g=m|n=s" head="17" dep="prep">ouest</word>
+          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
+          <word id="21" lem="la" postag="DET" morpho="g=f|n=s" head="22" dep="det">la</word>
+          <word id="22" lem="rive" postag="NC" morpho="g=f|n=s" head="20" dep="prep">rive</word>
+          <word id="23" lem="droit" postag="ADJ" morpho="g=f|n=s" head="22" dep="mod">droite</word>
+          <word id="24" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="faubourg" postag="NC" morpho="g=m|n=s" head="8" dep="suj">faubourg</word>
+          <word id="3" lem="Saint-Jacques" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Jacques</word>
+          <word id="4" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="faubourg" postag="NC" morpho="g=m|n=s" head="4" dep="dep_coord">faubourg</word>
+          <word id="7" lem="Saint-Germain" postag="NPP" morpho="g=m|n=s" head="6" dep="mod">Saint-Germain</word>
+          <word id="8" lem="avoir" postag="V" morpho="n=p|p=3|t=imp" head="0" dep="root">avaient</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+          <word id="10" lem="même" postag="ADJ" morpho="n=s" head="11" dep="mod">même</word>
+          <word id="11" lem="fonction" postag="NC" morpho="g=f|n=s" head="8" dep="obj">fonction</word>
+          <word id="12" lem="rive" postag="NC" morpho="g=f|n=s" head="11" dep="mod">rive</word>
+          <word id="13" lem="gauche" postag="NC" morpho="n=s" head="11" dep="mod">gauche</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="faubourg" postag="NC" morpho="g=m|n=s" head="0" dep="_">faubourg</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Poissonnière</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="faubourg" postag="NC" morpho="g=m|n=s" head="2" dep="mod">faubourg</word>
+          <word id="7" lem="Saint-Marcel" postag="NPP" morpho="g=m|n=s" head="6" dep="mod">Saint-Marcel</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
+          <word id="10" lem="faubourg" postag="NC" morpho="g=m|n=s" head="2" dep="mod">faubourg</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Montmartr</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="parmi" postag="P" morpho="_" head="12" dep="mod">Parmi</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
+          <word id="3" lem="#NUM#" postag="ADJ" morpho="n=p" head="4" dep="mod">80</word>
+          <word id="4" lem="quartier" postag="NC" morpho="g=m|n=p" head="1" dep="prep">quartiers</word>
+          <word id="5" lem="administratif" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">administratifs</word>
+          <word id="6" lem="actuel" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">actuels</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="8" lem="Paris" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Paris</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
+          <word id="10" lem="deux" postag="NC" morpho="g=m" head="12" dep="suj">deux</word>
+          <word id="11" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="12" dep="aux_tps">ont</word>
+          <word id="12" lem="conserver" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">conservé</word>
+          <word id="13" lem="trace" postag="NC" morpho="g=f|n=s" head="12" dep="obj">trace</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+          <word id="15" lem="ces" postag="DET" morpho="n=p" head="16" dep="det">ces</word>
+          <word id="16" lem="faubourg" postag="NC" morpho="g=m|n=p" head="14" dep="prep">faubourgs</word>
+          <word id="17" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
+          <word id="18" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="19" dep="det">leur</word>
+          <word id="19" lem="nom" postag="NC" morpho="g=m|n=s" head="17" dep="prep">nom</word>
+          <word id="20" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Montmartre</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-du-Roule</word>
+          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="enfin" postag="ADV" morpho="_" head="7" dep="mod">Enfin</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="3" lem="deux" postag="ADJ" morpho="n=p" head="4" dep="mod">huit</word>
+          <word id="4" lem="rue" postag="NC" morpho="g=f|n=p" head="7" dep="suj">rues</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="Paris" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Paris</word>
+          <word id="7" lem="conserver" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">conservent</word>
+          <word id="8" lem="également" postag="ADV" morpho="_" head="7" dep="mod">également</word>
+          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
+          <word id="10" lem="appellation" postag="NC" morpho="g=f|n=s" head="7" dep="obj">appellation</word>
+          <word id="11" lem="rappeler" postag="VPR" morpho="t=pst" head="10" dep="mod">rappelant</word>
+          <word id="12" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="13" dep="det">leur</word>
+          <word id="13" lem="appartenance" postag="NC" morpho="g=f|n=s" head="11" dep="obj">appartenance</word>
+          <word id="14" lem="passer" postag="VPP" morpho="g=f|n=s|t=past" head="13" dep="mod">passée</word>
+          <word id="15" lem="à" postag="P" morpho="_" head="14" dep="a_obj">à</word>
+          <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
+          <word id="17" lem="faubourg" postag="NC" morpho="g=m|n=s" head="15" dep="prep">faubourg</word>
+          <word id="18" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Montmartre</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Montmartre</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Poissonnière</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Poissonnière</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Antoine</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="Saint-Antoine" postag="NPP" morpho="g=m|n=s" head="8" dep="mod">Saint-Antoine</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Denis</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="Saint-Denis" postag="NPP" morpho="g=m|n=s" head="8" dep="mod">Saint-Denis</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Honoré</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Saint-Honoré</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="7">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Jacques</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="Saint-Jacques" postag="NPP" morpho="g=m|n=s" head="8" dep="mod">Saint-Jacques</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="8">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Martin</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="Saint-Martin" postag="NPP" morpho="g=m|n=s" head="8" dep="mod">Saint-Martin</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+        <sentence id="9">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Faubourg-du-Temple</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
+          <word id="10" lem="Temple" postag="NPP" morpho="n=s" head="9" dep="prep">Temple</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="_" postag="NPP" morpho="_" head="4" dep="suj">Paris</word>
+        <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=imp" head="4" dep="aux_tps">était</word>
+        <word id="3" lem="autrefois" postag="ADV" morpho="_" head="4" dep="mod">autrefois</word>
+        <word id="4" lem="entourer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">entouré</word>
+        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="de_obj">de</word>
+        <word id="6" lem="faubourg" postag="NC" morpho="g=m|n=p" head="5" dep="prep">faubourgs</word>
+        <word id="7" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="faubourg" postag="NC" morpho="g=m|n=s" head="0" dep="_">faubourg</word>
+          <word id="3" lem="Saint-Antoine" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Antoine</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="faubourg" postag="NC" morpho="g=m|n=s" head="0" dep="_">faubourg</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Saint-Honoré</word>
+          <word id="8" lem="prolonger" postag="V" morpho="n=p|p=3|t=imp" head="6" dep="mod_rel">prolongeaient</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
+          <word id="10" lem="ville" postag="NC" morpho="g=f|n=s" head="8" dep="obj">ville</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
+          <word id="12" lem="Paris" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Paris</word>
+          <word id="13" lem="à" postag="P" morpho="_" head="8" dep="mod">à</word>
+          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
+          <word id="15" lem="_" postag="NPP" morpho="_" head="13" dep="prep">est</word>
+          <word id="16" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
+          <word id="17" lem="à" postag="P" morpho="_" head="16" dep="dep_coord">à</word>
+          <word id="18" lem="l'" postag="DET" morpho="n=s" head="19" dep="det">l'</word>
+          <word id="19" lem="ouest" postag="NC" morpho="g=m|n=s" head="17" dep="prep">ouest</word>
+          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
+          <word id="21" lem="la" postag="DET" morpho="g=f|n=s" head="22" dep="det">la</word>
+          <word id="22" lem="rive" postag="NC" morpho="g=f|n=s" head="20" dep="prep">rive</word>
+          <word id="23" lem="droit" postag="ADJ" morpho="g=f|n=s" head="22" dep="mod">droite</word>
+          <word id="24" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="faubourg" postag="NC" morpho="g=m|n=s" head="8" dep="suj">faubourg</word>
+          <word id="3" lem="Saint-Jacques" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Jacques</word>
+          <word id="4" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="faubourg" postag="NC" morpho="g=m|n=s" head="4" dep="dep_coord">faubourg</word>
+          <word id="7" lem="Saint-Germain" postag="NPP" morpho="g=m|n=s" head="6" dep="mod">Saint-Germain</word>
+          <word id="8" lem="avoir" postag="V" morpho="n=p|p=3|t=imp" head="0" dep="root">avaient</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+          <word id="10" lem="même" postag="ADJ" morpho="n=s" head="11" dep="mod">même</word>
+          <word id="11" lem="fonction" postag="NC" morpho="g=f|n=s" head="8" dep="obj">fonction</word>
+          <word id="12" lem="rive" postag="NC" morpho="g=f|n=s" head="11" dep="mod">rive</word>
+          <word id="13" lem="gauche" postag="NC" morpho="n=s" head="11" dep="mod">gauche</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="faubourg" postag="NC" morpho="g=m|n=s" head="0" dep="_">faubourg</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Poissonnière</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="faubourg" postag="NC" morpho="g=m|n=s" head="2" dep="mod">faubourg</word>
+          <word id="7" lem="Saint-Marcel" postag="NPP" morpho="g=m|n=s" head="6" dep="mod">Saint-Marcel</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
+          <word id="10" lem="faubourg" postag="NC" morpho="g=m|n=s" head="2" dep="mod">faubourg</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Montmartre</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="parmi" postag="P" morpho="_" head="12" dep="mod">Parmi</word>
+        <word id="2" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
+        <word id="3" lem="#NUM#" postag="ADJ" morpho="n=p" head="4" dep="mod">80</word>
+        <word id="4" lem="quartier" postag="NC" morpho="g=m|n=p" head="1" dep="prep">quartiers</word>
+        <word id="5" lem="administratif" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">administratifs</word>
+        <word id="6" lem="actuel" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">actuels</word>
+        <word id="7" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+        <word id="8" lem="Paris" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Paris</word>
+        <word id="9" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
+        <word id="10" lem="deux" postag="NC" morpho="g=m" head="12" dep="suj">deux</word>
+        <word id="11" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="12" dep="aux_tps">ont</word>
+        <word id="12" lem="conserver" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">conservé</word>
+        <word id="13" lem="trace" postag="NC" morpho="g=f|n=s" head="12" dep="obj">trace</word>
+        <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+        <word id="15" lem="ces" postag="DET" morpho="n=p" head="16" dep="det">ces</word>
+        <word id="16" lem="faubourg" postag="NC" morpho="g=m|n=p" head="14" dep="prep">faubourgs</word>
+        <word id="17" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
+        <word id="18" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="19" dep="det">leur</word>
+        <word id="19" lem="nom" postag="NC" morpho="g=m|n=s" head="17" dep="prep">nom</word>
+        <word id="20" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Montmartre</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-du-Roule</word>
+          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="5">
+      <sentence id="1">
+        <word id="1" lem="enfin" postag="ADV" morpho="_" head="7" dep="mod">Enfin</word>
+        <word id="2" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+        <word id="3" lem="deux" postag="ADJ" morpho="n=p" head="4" dep="mod">huit</word>
+        <word id="4" lem="rue" postag="NC" morpho="g=f|n=p" head="7" dep="suj">rues</word>
+        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+        <word id="6" lem="Paris" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Paris</word>
+        <word id="7" lem="conserver" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">conservent</word>
+        <word id="8" lem="également" postag="ADV" morpho="_" head="7" dep="mod">également</word>
+        <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
+        <word id="10" lem="appellation" postag="NC" morpho="g=f|n=s" head="7" dep="obj">appellation</word>
+        <word id="11" lem="rappeler" postag="VPR" morpho="t=pst" head="10" dep="mod">rappelant</word>
+        <word id="12" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="13" dep="det">leur</word>
+        <word id="13" lem="appartenance" postag="NC" morpho="g=f|n=s" head="11" dep="obj">appartenance</word>
+        <word id="14" lem="passer" postag="VPP" morpho="g=f|n=s|t=past" head="13" dep="mod">passée</word>
+        <word id="15" lem="à" postag="P" morpho="_" head="14" dep="a_obj">à</word>
+        <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
+        <word id="17" lem="faubourg" postag="NC" morpho="g=m|n=s" head="15" dep="prep">faubourg</word>
+        <word id="18" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="5">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Montmartre</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Montmartre</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Poissonnière</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Poissonnière</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Antoine</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="Saint-Antoine" postag="NPP" morpho="g=m|n=s" head="8" dep="mod">Saint-Antoine</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Denis</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="Saint-Denis" postag="NPP" morpho="g=m|n=s" head="8" dep="mod">Saint-Denis</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Honoré</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Saint-Honoré</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Jacques</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="Saint-Jacques" postag="NPP" morpho="g=m|n=s" head="8" dep="mod">Saint-Jacques</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Faubourg-Saint-Martin</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="Saint-Martin" postag="NPP" morpho="g=m|n=s" head="8" dep="mod">Saint-Martin</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="rue" postag="NC" morpho="g=f|n=s" head="0" dep="_">rue</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Faubourg-du-Temple</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="prolonger" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">prolonge</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="rue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">rue</word>
+          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
+          <word id="10" lem="Temple" postag="NPP" morpho="n=s" head="9" dep="prep">Temple</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:54</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="101" />
+      <text>Dans la périphérie de la plupart des villes, les faubourgs se constituent souvent autour d'abbayes (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:54</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="98" end="134" id="0" />
+      <text id="0">s (comme les abbayes Saint-Lucien et</text>
+      <span begin="135" end="189" id="1" />
+      <text id="1">Saint-Quentin, situées dans les faubourgs de Beauvais)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="311" />
+      <text>Les faubourgs se forment également pour des raisons de commodité lorsque les activités nécessitent la présence d'un cours d'eau (moulin à eau) , d'un espace important (terrain dégagé de constructions denses) ou une prise de distance vis-à-vis de l'agglomération du fait du caractère polluant du métier exercé (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="311" end="323" id="0" />
+      <text id="0">peausserie ,</text>
+      <span begin="324" end="333" id="1" />
+      <text id="1">tannerie,</text>
+      <span begin="334" end="345" id="2" />
+      <text id="2">teinturerie</text>
+      <span begin="345" end="349" id="3" />
+      <text id="3">...)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="31" />
+      <text>Les anciens faubourgs de Paris</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="32" end="367" id="0" />
+      <text id="0">Paris était autrefois entouré de faubourgs :
+Le faubourg Saint-Antoine, le faubourg Saint-Honoré prolongeaient la ville de Paris à l'est et à l'ouest de la rive droite,
+Le faubourg Saint-Jacques et le faubourg Saint-Germain avaient la même fonction rive gauche.
+Le faubourg Poissonnière, le faubourg Saint-Marcel, le faubourg Montmartr</text>
+      <span begin="369" end="552" id="1" />
+      <text id="1">Parmi les 80 quartiers administratifs actuels de Paris, deux ont conservé trace de ces faubourgs dans leur nom :
+le quartier du Faubourg-Montmartre,
+le quartier du Faubourg-du-Roule.</text>
+      <span begin="553" end="1186" id="2" />
+      <text id="2">Enfin, huit rues de Paris conservent également une appellation rappelant leur appartenance passée à un faubourg :
+la rue du Faubourg-Montmartre qui prolonge la rue Montmartre,
+la rue du Faubourg-Poissonnière qui prolonge la rue Poissonnière,
+la rue du Faubourg-Saint-Antoine qui prolonge la rue Saint-Antoine,
+la rue du Faubourg-Saint-Denis qui prolonge la rue Saint-Denis,
+la rue du Faubourg-Saint-Honoré qui prolonge la rue Saint-Honoré,
+la rue du Faubourg-Saint-Jacques qui prolonge la rue Saint-Jacques,
+la rue du Faubourg-Saint-Martin qui prolonge la rue Saint-Martin,
+la rue du Faubourg-du-Temple qui prolonge la rue du Temple.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="45" />
+      <text>Paris était autrefois entouré de faubourgs :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="46" end="169" id="0" />
+      <text id="0">Le faubourg Saint-Antoine, le faubourg Saint-Honoré prolongeaient la ville de Paris à l'est et à l'ouest de la rive droite,</text>
+      <span begin="170" end="262" id="1" />
+      <text id="1">Le faubourg Saint-Jacques et le faubourg Saint-Germain avaient la même fonction rive gauche.</text>
+      <span begin="263" end="338" id="2" />
+      <text id="2">Le faubourg Poissonnière, le faubourg Saint-Marcel, le faubourg Montmartre.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="113" />
+      <text>Parmi les 80 quartiers administratifs actuels de Paris, deux ont conservé trace de ces faubourgs dans leur nom :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="114" end="149" id="0" />
+      <text id="0">le quartier du Faubourg-Montmartre,</text>
+      <span begin="150" end="183" id="1" />
+      <text id="1">le quartier du Faubourg-du-Roule.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="primer" idSE="5">
+      <span begin="2" end="115" />
+      <text>Enfin, huit rues de Paris conservent également une appellation rappelant leur appartenance passée à un faubourg :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="items" idSE="5">
+      <span begin="116" end="177" id="0" />
+      <text id="0">la rue du Faubourg-Montmartre qui prolonge la rue Montmartre,</text>
+      <span begin="178" end="243" id="1" />
+      <text id="1">la rue du Faubourg-Poissonnière qui prolonge la rue Poissonnière,</text>
+      <span begin="244" end="311" id="2" />
+      <text id="2">la rue du Faubourg-Saint-Antoine qui prolonge la rue Saint-Antoine,</text>
+      <span begin="312" end="375" id="3" />
+      <text id="3">la rue du Faubourg-Saint-Denis qui prolonge la rue Saint-Denis,</text>
+      <span begin="376" end="441" id="4" />
+      <text id="4">la rue du Faubourg-Saint-Honoré qui prolonge la rue Saint-Honoré,</text>
+      <span begin="442" end="509" id="5" />
+      <text id="5">la rue du Faubourg-Saint-Jacques qui prolonge la rue Saint-Jacques,</text>
+      <span begin="510" end="575" id="6" />
+      <text id="6">la rue du Faubourg-Saint-Martin qui prolonge la rue Saint-Martin,</text>
+      <span begin="576" end="635" id="7" />
+      <text id="7">la rue du Faubourg-du-Temple qui prolonge la rue du Temple.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="293" end="309" id="0" />
+      <text id="0">du métier exercé</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="311" end="321" id="0" />
+      <text id="0">peausserie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="324" end="332" id="0" />
+      <text id="0">tannerie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="334" end="345" id="0" />
+      <text id="0">teinturerie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="22" id="0" />
+      <text id="0">Les anciens faubourgs</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="77" end="102" id="0" />
+      <text id="0">Le faubourg Saint-Antoine</text>
+      <span begin="104" end="128" id="1" />
+      <text id="1">le faubourg Saint-Honoré</text>
+      <span begin="201" end="226" id="2" />
+      <text id="2">Le faubourg Saint-Jacques</text>
+      <span begin="230" end="255" id="3" />
+      <text id="3">le faubourg Saint-Germain</text>
+      <span begin="294" end="318" id="4" />
+      <text id="4">Le faubourg Poissonnière</text>
+      <span begin="320" end="344" id="5" />
+      <text id="5">le faubourg Saint-Marcel</text>
+      <span begin="346" end="367" id="6" />
+      <text id="6">le faubourg Montmartr</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="483" end="517" id="0" />
+      <text id="0">le quartier du Faubourg-Montmartre</text>
+      <span begin="519" end="551" id="1" />
+      <text id="1">le quartier du Faubourg-du-Roule</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="667" end="696" id="0" />
+      <text id="0">la rue du Faubourg-Montmartre</text>
+      <span begin="729" end="760" id="1" />
+      <text id="1">la rue du Faubourg-Poissonnière</text>
+      <span begin="795" end="827" id="2" />
+      <text id="2">la rue du Faubourg-Saint-Antoine</text>
+      <span begin="863" end="893" id="3" />
+      <text id="3">la rue du Faubourg-Saint-Denis</text>
+      <span begin="927" end="959" id="4" />
+      <text id="4">la rue du Faubourg-Saint-Honoré</text>
+      <span begin="993" end="1025" id="5" />
+      <text id="5">la rue du Faubourg-Saint-Jacques</text>
+      <span begin="1061" end="1092" id="6" />
+      <text id="6">la rue du Faubourg-Saint-Martin</text>
+      <span begin="1127" end="1155" id="7" />
+      <text id="7">la rue du Faubourg-du-Temple</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+      <span begin="22" end="31" id="0" />
+      <text id="0">de Paris</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
+      <span begin="161" end="199" id="0" />
+      <text id="0">à l'est et à l'ouest de la rive droite</text>
+      <span begin="281" end="292" id="1" />
+      <text id="1">rive gauche</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="34" end="43" id="0" />
+      <text id="0">faubourgs</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="46" end="71" id="0" />
+      <text id="0">Le faubourg Saint-Antoine</text>
+      <span begin="73" end="97" id="1" />
+      <text id="1">le faubourg Saint-Honoré</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="170" end="195" id="0" />
+      <text id="0">Le faubourg Saint-Jacques</text>
+      <span begin="199" end="224" id="1" />
+      <text id="1">le faubourg Saint-Germain</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="263" end="287" id="0" />
+      <text id="0">Le faubourg Poissonnière</text>
+      <span begin="289" end="313" id="1" />
+      <text id="1">le faubourg Saint-Marcel</text>
+      <span begin="315" end="337" id="2" />
+      <text id="2">le faubourg Montmartre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+      <span begin="14" end="38" id="0" />
+      <text id="0">quartiers administratifs</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="114" end="148" id="0" />
+      <text id="0">le quartier du Faubourg-Montmartre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="150" end="182" id="0" />
+      <text id="0">le quartier du Faubourg-du-Roule</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
+      <span begin="98" end="111" id="0" />
+      <text id="0">dans leur nom</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
+      <span begin="57" end="61" id="0" />
+      <text id="0">deux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
+      <span begin="14" end="27" id="0" />
+      <text id="0">rues de Paris</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+      <span begin="116" end="145" id="0" />
+      <text id="0">la rue du Faubourg-Montmartre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+      <span begin="178" end="209" id="0" />
+      <text id="0">la rue du Faubourg-Poissonnière</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="2">
+      <span begin="244" end="276" id="0" />
+      <text id="0">la rue du Faubourg-Saint-Antoine</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="3">
+      <span begin="312" end="342" id="0" />
+      <text id="0">la rue du Faubourg-Saint-Denis</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="4">
+      <span begin="376" end="408" id="0" />
+      <text id="0">la rue du Faubourg-Saint-Honoré</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="5">
+      <span begin="442" end="475" id="0" />
+      <text id="0">la rue du Faubourg-Saint-Jacques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="6">
+      <span begin="510" end="541" id="0" />
+      <text id="0">la rue du Faubourg-Saint-Martin</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="7">
+      <span begin="576" end="604" id="0" />
+      <text id="0">la rue du Faubourg-du-Temple</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="5" localisation="primer" idItem="-1">
+      <span begin="9" end="13" id="0" />
+      <text id="0">huit</text>
+      <span begin="50" end="64" id="1" />
+      <text id="1">ne appellation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:54</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:54</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:54</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:54</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:29</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:34</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="5">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="5">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="5">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:50</date>
+      <document>Faubourg.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="5">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

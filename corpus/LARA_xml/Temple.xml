@@ -1,0 +1,2057 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Le Temple, absolument, désigne :
+le Temple de Jérusalem, ou premier Temple, édifié par Salomon au -s-Xe, détruit par les Babyloniens en -586, et dont il ne reste aucun vestige ; le second Temple, rebâti vers -536, rénové par Hérode Ier le Grand puis détruit par Titus en l'an 70, et dont il ne reste qu'une partie de la muraille d'enceinte, notamment le mur de 57 mètres que les Juifs appellent le Mur occidental (connu également sous le nom de Mur des Lamentations) ;
+l'ordre du Temple ou ordre des Templiers, ordre religieux militaire fondé au XIIe siècle à Jérusalem pour la défense du Saint-Sépulcre ;
+à Paris, la Tour du Temple, reste d'un ancien monastère qui servit de prison à Louis XVI et où mourut son jeune fils Louis ; par métonymie, le quartier du Temple, situé dans le IIIe arrondissement, où se trouve notamment le Carreau du Temple.</text>
+      <span begin="1154" end="2002" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Temples célèbres
+le temple de Göbekli Tepe, plus ancien exemple répertorié d'architecture monumentale ;
+certaines pyramides précolombiennes ou d'Égypte ;
+les temples romains ;
+le temple d'Amon à Karnak ;
+les temples d'Angkor, au Cambodge ;
+le temple de Borobudur dans l'île de Java en Indonésie;
+le Parthénon, à Athènes (voir Temple grec) ;
+le Temple d'Artémis à Éphèse, l'une des sept merveilles du monde antique ;
+le Panthéon de Rome, le temple de tous les dieux ; le Panthéon de Paris, l'ancienne église Sainte-Geneviève transformée sous la Révolution en Temple de la Raison ;
+le temple du Soleil à Machu Picchu, qui a donné son nom à un album de Tintin.
+les temples grecs de Sicile sont parmi les mieux conservés :
+Vallée des Temples à Agrigente : temples d'Héracles, d'Héra, de la Concorde, de Castor et Pollux
+Ségeste
+Sélinonte : temple E
+Temples grecs de Syracuse : temples d'Athéna, d'Apollon, de Zeus
+le Temple de Salomon
+Samye : 1er temple du Tibet (VIIIe).</text>
+      <span begin="2430" end="3397" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>les temples grecs de Sicile sont parmi les mieux conservés :
+Vallée des Temples à Agrigente : temples d'Héracles, d'Héra, de la Concorde, de Castor et Pollux
+Ségeste
+Sélinonte : temple E
+Temples grecs de Syracuse : temples d'Athéna, d'Apollon, de Zeus</text>
+      <span begin="3088" end="3339" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>Temples en France
+la Maison Carrée à Nîmes
+le Temple d'Auguste et de Livie à Vienne</text>
+      <span begin="3398" end="3481" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>Temples des religions actuelles
+Certaines religions prônent la construction de temples pour leurs célébrations :
+C'est l'édifice dans lequel les protestants français hors Alsace-Lorraine célèbrent leur culte.
+Selon la doctrine de l'Église de Jésus-Christ des saints des derniers jours, le Temple est littéralement la maison du Seigneur.
+Le Temple de la Mahabodhi est un édifice où sont célébrés les rites du Bouddhisme.</text>
+      <span begin="4304" end="4723" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:07</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SE>
+      <id>5</id>
+      <text>Certaines religions prônent la construction de temples pour leurs célébrations :
+C'est l'édifice dans lequel les protestants français hors Alsace-Lorraine célèbrent leur culte.
+Selon la doctrine de l'Église de Jésus-Christ des saints des derniers jours, le Temple est littéralement la maison du Seigneur.
+Le Temple de la Mahabodhi est un édifice où sont célébrés les rites du Bouddhisme.</text>
+      <span begin="4336" end="4723" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+        <word id="2" lem="Temple" postag="NPP" morpho="n=s" head="6" dep="suj">Temple</word>
+        <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+        <word id="4" lem="absolument" postag="ADV" morpho="_" head="6" dep="mod">absolument</word>
+        <word id="5" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+        <word id="6" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+        <word id="7" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="Temple" postag="NPP" morpho="n=s" head="0" dep="_">Temple</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="Jérusalem" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Jérusalem</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="7" lem="premier" postag="ADJ" morpho="n=p" head="8" dep="mod">premier</word>
+          <word id="8" lem="Temple" postag="NPP" morpho="n=s" head="6" dep="dep_coord">Temple</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="10" lem="édifier" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">édifié</word>
+          <word id="11" lem="par" postag="P" morpho="_" head="10" dep="p_obj">par</word>
+          <word id="12" lem="Salomon" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Salomon</word>
+          <word id="13" lem="à" postag="P+D" morpho="g=m|n=s" head="10" dep="a_obj">au</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">-s-Xe</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="16" lem="détruire" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">détruit</word>
+          <word id="17" lem="par" postag="P" morpho="_" head="16" dep="p_obj">par</word>
+          <word id="18" lem="les" postag="DET" morpho="n=p" head="19" dep="det">les</word>
+          <word id="19" lem="_" postag="NC" morpho="_" head="17" dep="prep">Babyloniens</word>
+          <word id="20" lem="en" postag="P" morpho="_" head="16" dep="mod">en</word>
+          <word id="21" lem="_" postag="NPP" morpho="_" head="20" dep="prep">-586</word>
+          <word id="22" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="23" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="24" lem="dont" postag="PROREL" morpho="_" head="27" dep="de_obj">dont</word>
+          <word id="25" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="27" dep="suj">il</word>
+          <word id="26" lem="ne" postag="ADV" morpho="_" head="27" dep="mod">ne</word>
+          <word id="27" lem="rester" postag="V" morpho="n=s|p=13|t=pst" head="23" dep="dep_coord">reste</word>
+          <word id="28" lem="aucun" postag="DET" morpho="g=m|n=s" head="29" dep="det">aucun</word>
+          <word id="29" lem="vestige" postag="NC" morpho="g=m|n=s" head="27" dep="obj">vestige</word>
+          <word id="30" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+          <word id="31" lem="le" postag="DET" morpho="g=m|n=s" head="33" dep="det">le</word>
+          <word id="32" lem="second" postag="ADJ" morpho="n=p" head="33" dep="mod">second</word>
+          <word id="33" lem="Temple" postag="NPP" morpho="n=s" head="0" dep="_">Temple</word>
+          <word id="34" lem="," postag="PONCT" morpho="_" head="33" dep="ponct">,</word>
+          <word id="35" lem="rebâtir" postag="VPP" morpho="g=m|n=s|t=past" head="33" dep="mod">rebâti</word>
+          <word id="36" lem="vers" postag="P" morpho="_" head="35" dep="mod">vers</word>
+          <word id="37" lem="_" postag="NPP" morpho="_" head="36" dep="prep">-536</word>
+          <word id="38" lem="," postag="PONCT" morpho="_" head="33" dep="ponct">,</word>
+          <word id="39" lem="rénover" postag="VPP" morpho="g=m|n=s|t=past" head="33" dep="mod">rénové</word>
+          <word id="40" lem="par" postag="P" morpho="_" head="39" dep="p_obj">par</word>
+          <word id="41" lem="_" postag="NPP" morpho="_" head="40" dep="prep">Hérode</word>
+          <word id="42" lem="_" postag="NPP" morpho="_" head="41" dep="mod">Ier</word>
+          <word id="43" lem="le" postag="DET" morpho="g=m|n=s" head="44" dep="det">le</word>
+          <word id="44" lem="Grand" postag="NPP" morpho="g=m|n=s" head="41" dep="mod">Grand</word>
+          <word id="45" lem="puis" postag="CC" morpho="_" head="39" dep="coord">puis</word>
+          <word id="46" lem="détruire" postag="VPP" morpho="g=m|n=s|t=past" head="45" dep="dep_coord">détruit</word>
+          <word id="47" lem="par" postag="P" morpho="_" head="46" dep="p_obj">par</word>
+          <word id="48" lem="Titus" postag="NPP" morpho="g=m|n=s" head="47" dep="prep">Titus</word>
+          <word id="49" lem="en" postag="P" morpho="_" head="46" dep="mod">en</word>
+          <word id="50" lem="l'" postag="DET" morpho="n=s" head="51" dep="det">l'</word>
+          <word id="51" lem="an" postag="NC" morpho="g=m|n=s" head="49" dep="prep">an</word>
+          <word id="52" lem="#NUM#" postag="ADJ" morpho="n=p" head="51" dep="mod">70</word>
+          <word id="53" lem="," postag="PONCT" morpho="_" head="33" dep="ponct">,</word>
+          <word id="54" lem="et" postag="CC" morpho="_" head="33" dep="coord">et</word>
+          <word id="55" lem="dont" postag="PROREL" morpho="_" head="58" dep="mod">dont</word>
+          <word id="56" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="58" dep="suj">il</word>
+          <word id="57" lem="ne" postag="ADV" morpho="_" head="58" dep="mod">ne</word>
+          <word id="58" lem="rester" postag="V" morpho="n=s|p=13|t=pst" head="54" dep="dep_coord">reste</word>
+          <word id="59" lem="que" postag="ADV" morpho="_" head="58" dep="mod">qu'</word>
+          <word id="60" lem="une" postag="DET" morpho="g=f|n=s" head="61" dep="det">une</word>
+          <word id="61" lem="partie" postag="NC" morpho="g=f|n=s" head="58" dep="obj">partie</word>
+          <word id="62" lem="de" postag="P" morpho="_" head="61" dep="dep">de</word>
+          <word id="63" lem="la" postag="DET" morpho="g=f|n=s" head="64" dep="det">la</word>
+          <word id="64" lem="muraille" postag="NC" morpho="g=f|n=s" head="62" dep="prep">muraille</word>
+          <word id="65" lem="de" postag="P" morpho="_" head="64" dep="dep">d'</word>
+          <word id="66" lem="enceinte" postag="NC" morpho="g=f|n=s" head="65" dep="prep">enceinte</word>
+          <word id="67" lem="," postag="PONCT" morpho="_" head="58" dep="ponct">,</word>
+          <word id="68" lem="notamment" postag="ADV" morpho="_" head="58" dep="mod">notamment</word>
+          <word id="69" lem="le" postag="DET" morpho="g=m|n=s" head="70" dep="det">le</word>
+          <word id="70" lem="mur" postag="NC" morpho="g=m|n=s" head="58" dep="obj">mur</word>
+          <word id="71" lem="de" postag="P" morpho="_" head="70" dep="dep">de</word>
+          <word id="72" lem="#NUM#" postag="DET" morpho="n=p" head="73" dep="det">57</word>
+          <word id="73" lem="mètre" postag="NC" morpho="g=m|n=p" head="71" dep="prep">mètres</word>
+          <word id="74" lem="que" postag="CS" morpho="_" head="70" dep="dep">que</word>
+          <word id="75" lem="les" postag="DET" morpho="n=p" head="76" dep="det">les</word>
+          <word id="76" lem="_" postag="NC" morpho="_" head="77" dep="suj">Juifs</word>
+          <word id="77" lem="appeler" postag="V" morpho="n=p|p=3|t=pst" head="74" dep="sub">appellent</word>
+          <word id="78" lem="le" postag="DET" morpho="g=m|n=s" head="79" dep="det">le</word>
+          <word id="79" lem="_" postag="NC" morpho="_" head="77" dep="obj">Mur</word>
+          <word id="80" lem="occidental" postag="ADJ" morpho="g=m|n=s" head="79" dep="mod">occidental</word>
+          <word id="81" lem="(" postag="PONCT" morpho="_" head="79" dep="ponct">(</word>
+          <word id="82" lem="connaître" postag="VPP" morpho="g=m|n=s|t=past" head="79" dep="mod">connu</word>
+          <word id="83" lem="également" postag="ADV" morpho="_" head="82" dep="mod">également</word>
+          <word id="84" lem="sous" postag="P" morpho="_" head="82" dep="mod">sous</word>
+          <word id="85" lem="le" postag="DET" morpho="g=m|n=s" head="86" dep="det">le</word>
+          <word id="86" lem="nom" postag="NC" morpho="g=m|n=s" head="84" dep="prep">nom</word>
+          <word id="87" lem="de" postag="P" morpho="_" head="86" dep="dep">de</word>
+          <word id="88" lem="_" postag="NC" morpho="_" head="87" dep="prep">Mur</word>
+          <word id="89" lem="de" postag="P+D" morpho="n=p" head="88" dep="dep">des</word>
+          <word id="90" lem="_" postag="NC" morpho="_" head="89" dep="prep">Lamentations</word>
+          <word id="91" lem=")" postag="PONCT" morpho="_" head="79" dep="ponct">)</word>
+          <word id="92" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
+          <word id="2" lem="ordre" postag="NC" morpho="g=m|n=s" head="0" dep="_">ordre</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="Temple" postag="NPP" morpho="n=s" head="3" dep="prep">Temple</word>
+          <word id="5" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="6" lem="ordre" postag="NC" morpho="g=m|n=s" head="5" dep="dep_coord">ordre</word>
+          <word id="7" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Templiers</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="10" lem="ordre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">ordre</word>
+          <word id="11" lem="religieux" postag="ADJ" morpho="g=m" head="10" dep="mod">religieux</word>
+          <word id="12" lem="militaire" postag="ADJ" morpho="n=s" head="10" dep="mod">militaire</word>
+          <word id="13" lem="fonder" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">fondé</word>
+          <word id="14" lem="à" postag="P+D" morpho="g=m|n=s" head="13" dep="a_obj">au</word>
+          <word id="15" lem="_" postag="ADJ" morpho="_" head="16" dep="mod">XIIe</word>
+          <word id="16" lem="siècle" postag="NC" morpho="g=m|n=s" head="14" dep="prep">siècle</word>
+          <word id="17" lem="à" postag="P" morpho="_" head="13" dep="mod">à</word>
+          <word id="18" lem="Jérusalem" postag="NPP" morpho="g=m|n=s" head="17" dep="prep">Jérusalem</word>
+          <word id="19" lem="pour" postag="P" morpho="_" head="13" dep="mod">pour</word>
+          <word id="20" lem="la" postag="DET" morpho="g=f|n=s" head="21" dep="det">la</word>
+          <word id="21" lem="défense" postag="NC" morpho="g=f|n=s" head="19" dep="prep">défense</word>
+          <word id="22" lem="de" postag="P+D" morpho="g=m|n=s" head="21" dep="dep">du</word>
+          <word id="23" lem="_" postag="NPP" morpho="_" head="22" dep="prep">Saint-Sépulcre</word>
+          <word id="24" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="à" postag="P" morpho="_" head="9" dep="mod">à</word>
+          <word id="2" lem="Paris" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">Paris</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="9" dep="suj">Tour</word>
+          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
+          <word id="7" lem="Temple" postag="NPP" morpho="n=s" head="6" dep="prep">Temple</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="9" lem="rester" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">reste</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="mod">d'</word>
+          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="13" dep="det">un</word>
+          <word id="12" lem="ancien" postag="ADJ" morpho="g=m|n=s" head="13" dep="mod">ancien</word>
+          <word id="13" lem="monastère" postag="NC" morpho="g=m|n=s" head="10" dep="prep">monastère</word>
+          <word id="14" lem="qui" postag="PROREL" morpho="n=s" head="15" dep="suj">qui</word>
+          <word id="15" lem="servir" postag="V" morpho="n=s|p=3|t=past" head="13" dep="mod_rel">servit</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="de_obj">de</word>
+          <word id="17" lem="prison" postag="NC" morpho="g=f|n=s" head="16" dep="prep">prison</word>
+          <word id="18" lem="à" postag="P" morpho="_" head="15" dep="mod">à</word>
+          <word id="19" lem="Louis" postag="NPP" morpho="g=m|n=s" head="18" dep="prep">Louis</word>
+          <word id="20" lem="_" postag="NPP" morpho="_" head="19" dep="mod">XVI</word>
+          <word id="21" lem="et" postag="CC" morpho="_" head="15" dep="coord">et</word>
+          <word id="22" lem="où" postag="PROREL" morpho="_" head="23" dep="mod">où</word>
+          <word id="23" lem="mourir" postag="V" morpho="n=s|p=3|t=past" head="21" dep="dep_coord">mourut</word>
+          <word id="24" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="26" dep="det">son</word>
+          <word id="25" lem="jeune" postag="ADJ" morpho="n=s" head="26" dep="mod">jeune</word>
+          <word id="26" lem="fils" postag="NC" morpho="g=m" head="23" dep="obj">fils</word>
+          <word id="27" lem="Louis" postag="NPP" morpho="g=m|n=s" head="26" dep="mod">Louis</word>
+          <word id="28" lem=";" postag="PONCT" morpho="_" head="9" dep="ponct">;</word>
+          <word id="29" lem="par" postag="P" morpho="_" head="9" dep="mod">par</word>
+          <word id="30" lem="métonymie" postag="NC" morpho="g=f|n=s" head="29" dep="prep">métonymie</word>
+          <word id="31" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="32" lem="le" postag="DET" morpho="g=m|n=s" head="33" dep="det">le</word>
+          <word id="33" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
+          <word id="34" lem="de" postag="P+D" morpho="g=m|n=s" head="33" dep="dep">du</word>
+          <word id="35" lem="Temple" postag="NPP" morpho="n=s" head="34" dep="prep">Temple</word>
+          <word id="36" lem="," postag="PONCT" morpho="_" head="33" dep="ponct">,</word>
+          <word id="37" lem="situer" postag="VPP" morpho="g=m|n=s|t=past" head="33" dep="mod">situé</word>
+          <word id="38" lem="dans" postag="P" morpho="_" head="37" dep="mod">dans</word>
+          <word id="39" lem="le" postag="DET" morpho="g=m|n=s" head="41" dep="det">le</word>
+          <word id="40" lem="_" postag="ADJ" morpho="_" head="41" dep="mod">IIIe</word>
+          <word id="41" lem="arrondissement" postag="NC" morpho="g=m|n=s" head="38" dep="prep">arrondissement</word>
+          <word id="42" lem="," postag="PONCT" morpho="_" head="41" dep="ponct">,</word>
+          <word id="43" lem="où" postag="PROREL" morpho="_" head="45" dep="mod">où</word>
+          <word id="44" lem="se" postag="CLR" morpho="n=p|p=3" head="45" dep="aff">se</word>
+          <word id="45" lem="trouver" postag="V" morpho="n=s|p=13|t=pst" head="41" dep="mod_rel">trouve</word>
+          <word id="46" lem="notamment" postag="ADV" morpho="_" head="45" dep="mod">notamment</word>
+          <word id="47" lem="le" postag="DET" morpho="g=m|n=s" head="48" dep="det">le</word>
+          <word id="48" lem="_" postag="NPP" morpho="_" head="45" dep="suj">Carreau</word>
+          <word id="49" lem="de" postag="P+D" morpho="g=m|n=s" head="48" dep="dep">du</word>
+          <word id="50" lem="Temple" postag="NPP" morpho="n=s" head="49" dep="prep">Temple</word>
+          <word id="51" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="temple" postag="NC" morpho="g=m|n=p" head="0" dep="_">Temples</word>
+        <word id="2" lem="célèbre" postag="ADJ" morpho="n=p" head="1" dep="mod">célèbres</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="temple" postag="NC" morpho="g=m|n=s" head="0" dep="_">temple</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Göbekli</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Tepe</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="7" lem="plus" postag="ADV" morpho="_" head="8" dep="mod">plus</word>
+          <word id="8" lem="ancien" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">ancien</word>
+          <word id="9" lem="exemple" postag="NC" morpho="g=m|n=s" head="2" dep="mod">exemple</word>
+          <word id="10" lem="répertorier" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">répertorié</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="de_obj">d'</word>
+          <word id="12" lem="architecture" postag="NC" morpho="g=f|n=s" head="11" dep="prep">architecture</word>
+          <word id="13" lem="monumental" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">monumentale</word>
+          <word id="14" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="certaines" postag="DET" morpho="g=f|n=p" head="2" dep="det">certaines</word>
+          <word id="2" lem="pyramide" postag="NC" morpho="g=f|n=p" head="0" dep="_">pyramides</word>
+          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">précolombiennes</word>
+          <word id="4" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep_coord">d'</word>
+          <word id="6" lem="Égypte" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Égypte</word>
+          <word id="7" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="temple" postag="NC" morpho="g=m|n=p" head="0" dep="_">temples</word>
+          <word id="3" lem="romain" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">romains</word>
+          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="temple" postag="NC" morpho="g=m|n=s" head="0" dep="_">temple</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="Amon" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Amon</word>
+          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Karnak</word>
+          <word id="7" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="temple" postag="NC" morpho="g=m|n=p" head="0" dep="_">temples</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Angkor</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
+          <word id="7" lem="Cambodge" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Cambodge</word>
+          <word id="8" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="temple" postag="NC" morpho="g=m|n=s" head="0" dep="_">temple</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Borobudur</word>
+          <word id="5" lem="dans" postag="P" morpho="_" head="2" dep="dep">dans</word>
+          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
+          <word id="7" lem="île" postag="NC" morpho="g=f|n=s" head="5" dep="prep">île</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Java</word>
+          <word id="10" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="11" lem="Indonésie" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Indonésie</word>
+          <word id="12" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Parthénon</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
+          <word id="5" lem="Athènes" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Athènes</word>
+          <word id="6" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
+          <word id="7" lem="voir" postag="VINF" morpho="_" head="0" dep="_">voir</word>
+          <word id="8" lem="_" postag="ET" morpho="_" head="0" dep="_">Temple</word>
+          <word id="9" lem="grec" postag="ADJ" morpho="g=m|n=s" head="8" dep="dep">grec</word>
+          <word id="10" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="11" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="Temple" postag="NPP" morpho="n=s" head="0" dep="_">Temple</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Artémis</word>
+          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Éphèse</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
+          <word id="9" lem="un" postag="PRO" morpho="g=f|n=s" head="2" dep="mod">une</word>
+          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
+          <word id="11" lem="deux" postag="NC" morpho="g=m" head="10" dep="prep">sept</word>
+          <word id="12" lem="merveille" postag="NC" morpho="g=f|n=p" head="11" dep="mod">merveilles</word>
+          <word id="13" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
+          <word id="14" lem="monde" postag="NC" morpho="g=m|n=s" head="13" dep="prep">monde</word>
+          <word id="15" lem="antique" postag="ADJ" morpho="n=s" head="14" dep="mod">antique</word>
+          <word id="16" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Panthéon</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="Rome" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Rome</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
+          <word id="7" lem="temple" postag="NC" morpho="g=m|n=s" head="2" dep="mod">temple</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="tout" postag="ADJ" morpho="g=m|n=p" head="11" dep="mod">tous</word>
+          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
+          <word id="11" lem="dieu" postag="NC" morpho="g=m|n=p" head="8" dep="prep">dieux</word>
+          <word id="12" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="0" dep="_">Panthéon</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="Paris" postag="NPP" morpho="g=m|n=s" head="15" dep="prep">Paris</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="18" lem="l'" postag="DET" morpho="n=s" head="20" dep="det">l'</word>
+          <word id="19" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="20" dep="mod">ancienne</word>
+          <word id="20" lem="église" postag="NC" morpho="g=f|n=s" head="14" dep="mod">église</word>
+          <word id="21" lem="Sainte-Geneviève" postag="NPP" morpho="g=m|n=s" head="20" dep="mod">Sainte-Geneviève</word>
+          <word id="22" lem="transformer" postag="VPP" morpho="g=f|n=s|t=past" head="20" dep="mod">transformée</word>
+          <word id="23" lem="sous" postag="P" morpho="_" head="22" dep="mod">sous</word>
+          <word id="24" lem="la" postag="DET" morpho="g=f|n=s" head="25" dep="det">la</word>
+          <word id="25" lem="_" postag="NC" morpho="_" head="23" dep="prep">Révolution</word>
+          <word id="26" lem="en" postag="P" morpho="_" head="22" dep="mod">en</word>
+          <word id="27" lem="Temple" postag="NPP" morpho="n=s" head="26" dep="prep">Temple</word>
+          <word id="28" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
+          <word id="29" lem="la" postag="DET" morpho="g=f|n=s" head="30" dep="det">la</word>
+          <word id="30" lem="_" postag="NPP" morpho="_" head="28" dep="prep">Raison</word>
+          <word id="31" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="9">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="temple" postag="NC" morpho="g=m|n=s" head="0" dep="_">temple</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Soleil</word>
+          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Machu</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Picchu</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="9" lem="qui" postag="PROREL" morpho="n=s" head="11" dep="suj">qui</word>
+          <word id="10" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="aux_tps">a</word>
+          <word id="11" lem="donner" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod_rel">donné</word>
+          <word id="12" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="13" dep="det">son</word>
+          <word id="13" lem="nom" postag="NC" morpho="g=m|n=s" head="11" dep="obj">nom</word>
+          <word id="14" lem="à" postag="P" morpho="_" head="11" dep="a_obj">à</word>
+          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
+          <word id="16" lem="album" postag="NC" morpho="g=m|n=s" head="14" dep="prep">album</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
+          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="prep">Tintin</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="10">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="temple" postag="NC" morpho="g=m|n=p" head="6" dep="suj">temples</word>
+          <word id="3" lem="grec" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">grecs</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Sicile</word>
+          <word id="6" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="7" lem="parmi" postag="P" morpho="_" head="6" dep="mod">parmi</word>
+          <word id="8" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+          <word id="9" lem="mieux" postag="ADV" morpho="_" head="10" dep="mod">mieux</word>
+          <word id="10" lem="conserver" postag="ADJ" morpho="g=m|n=p|t=past" head="7" dep="prep">conservés</word>
+          <word id="11" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="vallée" postag="NC" morpho="g=f|n=s" head="0" dep="_">Vallée</word>
+          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Temples</word>
+          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Agrigente</word>
+          <word id="6" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="7" lem="temple" postag="NC" morpho="g=m|n=p" head="1" dep="mod">temples</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Héracles</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Héra</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+          <word id="16" lem="Concorde" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">Concorde</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="19" lem="Castor" postag="NPP" morpho="g=m|n=s" head="18" dep="prep">Castor</word>
+          <word id="20" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+          <word id="21" lem="Pollux" postag="NPP" morpho="g=m|n=s" head="20" dep="dep_coord">Pollux</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Ségeste</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Sélinonte</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="temple" postag="NC" morpho="g=m|n=s" head="1" dep="mod">temple</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">E</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="temple" postag="NC" morpho="g=m|n=p" head="0" dep="_">Temples</word>
+          <word id="2" lem="grec" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">grecs</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Syracuse</word>
+          <word id="5" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="6" lem="temple" postag="NC" morpho="g=m|n=p" head="1" dep="mod">temples</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Athéna</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Apollon</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="14" lem="Zeus" postag="NPP" morpho="g=m|n=s" head="13" dep="prep">Zeus</word>
+        </sentence>
+      </item>
+      <item id="11">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="Temple" postag="NPP" morpho="n=s" head="0" dep="_">Temple</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="Salomon" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Salomon</word>
+        </sentence>
+      </item>
+      <item id="12">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Samye</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="_" postag="ADJ" morpho="_" head="4" dep="mod">1er</word>
+          <word id="4" lem="temple" postag="NC" morpho="g=m|n=s" head="1" dep="mod">temple</word>
+          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Tibet</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="mod">VIIIe</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+        <word id="2" lem="temple" postag="NC" morpho="g=m|n=p" head="6" dep="suj">temples</word>
+        <word id="3" lem="grec" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">grecs</word>
+        <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Sicile</word>
+        <word id="6" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+        <word id="7" lem="parmi" postag="P" morpho="_" head="6" dep="mod">parmi</word>
+        <word id="8" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+        <word id="9" lem="mieux" postag="ADV" morpho="_" head="10" dep="mod">mieux</word>
+        <word id="10" lem="conserver" postag="ADJ" morpho="g=m|n=p|t=past" head="7" dep="prep">conservés</word>
+        <word id="11" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="vallée" postag="NC" morpho="g=f|n=s" head="0" dep="_">Vallée</word>
+          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Temples</word>
+          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Agrigente</word>
+          <word id="6" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="7" lem="temple" postag="NC" morpho="g=m|n=p" head="1" dep="mod">temples</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Héracles</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Héra</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+          <word id="16" lem="Concorde" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">Concorde</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="19" lem="Castor" postag="NPP" morpho="g=m|n=s" head="18" dep="prep">Castor</word>
+          <word id="20" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+          <word id="21" lem="Pollux" postag="NPP" morpho="g=m|n=s" head="20" dep="dep_coord">Pollux</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Ségeste</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Sélinonte</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="temple" postag="NC" morpho="g=m|n=s" head="1" dep="mod">temple</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">E</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="temple" postag="NC" morpho="g=m|n=p" head="0" dep="_">Temples</word>
+          <word id="2" lem="grec" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">grecs</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Syracuse</word>
+          <word id="5" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="6" lem="temple" postag="NC" morpho="g=m|n=p" head="1" dep="mod">temples</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Athéna</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Apollon</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="14" lem="Zeus" postag="NPP" morpho="g=m|n=s" head="13" dep="prep">Zeus</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="temple" postag="NC" morpho="g=m|n=p" head="0" dep="_">Temples</word>
+        <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
+        <word id="3" lem="France" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">France</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Maison</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Carrée</word>
+          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+          <word id="5" lem="Nîmes" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Nîmes</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="Temple" postag="NPP" morpho="n=s" head="0" dep="_">Temple</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="Auguste" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Auguste</word>
+          <word id="5" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">de</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Livie</word>
+          <word id="8" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+          <word id="9" lem="_" postag="VS" morpho="_" head="0" dep="_">Vienne</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="temple" postag="NC" morpho="g=m|n=p" head="0" dep="_">Temples</word>
+        <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+        <word id="3" lem="religion" postag="NC" morpho="g=f|n=p" head="2" dep="prep">religions</word>
+        <word id="4" lem="actuel" postag="ADJ" morpho="g=f|n=p" head="3" dep="mod">actuelles</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="certaines" postag="DET" morpho="g=f|n=p" head="2" dep="det">Certaines</word>
+        <word id="2" lem="religion" postag="NC" morpho="g=f|n=p" head="3" dep="suj">religions</word>
+        <word id="3" lem="prôner" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">prônent</word>
+        <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+        <word id="5" lem="construction" postag="NC" morpho="g=f|n=s" head="3" dep="obj">construction</word>
+        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+        <word id="7" lem="temple" postag="NC" morpho="g=m|n=p" head="6" dep="prep">temples</word>
+        <word id="8" lem="pour" postag="P" morpho="_" head="3" dep="mod">pour</word>
+        <word id="9" lem="leurs" postag="DET" morpho="n=p|p=3|poss=p" head="10" dep="det">leurs</word>
+        <word id="10" lem="célébration" postag="NC" morpho="g=f|n=p" head="8" dep="prep">célébrations</word>
+        <word id="11" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
+          <word id="4" lem="édifice" postag="NC" morpho="g=m|n=s" head="2" dep="ats">édifice</word>
+          <word id="5" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
+          <word id="6" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="5" dep="prep">lequel</word>
+          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
+          <word id="8" lem="protestant" postag="NC" morpho="g=m|n=p" head="12" dep="suj">protestants</word>
+          <word id="9" lem="français" postag="ADJ" morpho="g=m" head="8" dep="mod">français</word>
+          <word id="10" lem="hors" postag="P" morpho="_" head="8" dep="dep">hors</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Alsace-Lorraine</word>
+          <word id="12" lem="célébrer" postag="V" morpho="n=p|p=3|t=pst" head="4" dep="mod_rel">célèbrent</word>
+          <word id="13" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="14" dep="det">leur</word>
+          <word id="14" lem="culte" postag="NC" morpho="g=m|n=s" head="12" dep="obj">culte</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="selon" postag="P" morpho="_" head="17" dep="mod">Selon</word>
+          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
+          <word id="3" lem="doctrine" postag="NC" morpho="g=f|n=s" head="1" dep="prep">doctrine</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
+          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="prep">Église</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="Jésus-Christ" postag="NPP" morpho="_" head="7" dep="prep">Jésus-Christ</word>
+          <word id="9" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
+          <word id="10" lem="saint" postag="NC" morpho="g=m|n=p" head="9" dep="prep">saints</word>
+          <word id="11" lem="de" postag="P+D" morpho="n=p" head="10" dep="dep">des</word>
+          <word id="12" lem="dernier" postag="ADJ" morpho="g=m|n=p" head="13" dep="mod">derniers</word>
+          <word id="13" lem="jour" postag="NC" morpho="g=m|n=p" head="11" dep="prep">jours</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+          <word id="16" lem="Temple" postag="NPP" morpho="n=s" head="17" dep="suj">Temple</word>
+          <word id="17" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="18" lem="littéralement" postag="ADV" morpho="_" head="17" dep="mod">littéralement</word>
+          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
+          <word id="20" lem="maison" postag="NC" morpho="g=f|n=s" head="17" dep="ats">maison</word>
+          <word id="21" lem="de" postag="P+D" morpho="g=m|n=s" head="20" dep="dep">du</word>
+          <word id="22" lem="_" postag="NPP" morpho="_" head="21" dep="prep">Seigneur</word>
+          <word id="23" lem="." postag="PONCT" morpho="_" head="17" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="Temple" postag="NPP" morpho="n=s" head="6" dep="suj">Temple</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Mahabodhi</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+          <word id="8" lem="édifice" postag="NC" morpho="g=m|n=s" head="6" dep="ats">édifice</word>
+          <word id="9" lem="où" postag="PROREL" morpho="_" head="11" dep="mod">où</word>
+          <word id="10" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="11" dep="aux_tps">sont</word>
+          <word id="11" lem="célébrer" postag="VPP" morpho="g=m|n=p|t=past" head="8" dep="mod_rel">célébrés</word>
+          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="13" lem="rite" postag="NC" morpho="g=m|n=p" head="11" dep="suj">rites</word>
+          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="prep">Bouddhisme</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:07</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="5">
+      <sentence id="1">
+        <word id="1" lem="certaines" postag="DET" morpho="g=f|n=p" head="2" dep="det">Certaines</word>
+        <word id="2" lem="religion" postag="NC" morpho="g=f|n=p" head="3" dep="suj">religions</word>
+        <word id="3" lem="prôner" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">prônent</word>
+        <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+        <word id="5" lem="construction" postag="NC" morpho="g=f|n=s" head="3" dep="obj">construction</word>
+        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+        <word id="7" lem="temple" postag="NC" morpho="g=m|n=p" head="6" dep="prep">temples</word>
+        <word id="8" lem="pour" postag="P" morpho="_" head="3" dep="mod">pour</word>
+        <word id="9" lem="leurs" postag="DET" morpho="n=p|p=3|poss=p" head="10" dep="det">leurs</word>
+        <word id="10" lem="célébration" postag="NC" morpho="g=f|n=p" head="8" dep="prep">célébrations</word>
+        <word id="11" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:07</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="5">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
+          <word id="4" lem="édifice" postag="NC" morpho="g=m|n=s" head="2" dep="ats">édifice</word>
+          <word id="5" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
+          <word id="6" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="5" dep="prep">lequel</word>
+          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
+          <word id="8" lem="protestant" postag="NC" morpho="g=m|n=p" head="12" dep="suj">protestants</word>
+          <word id="9" lem="français" postag="ADJ" morpho="g=m" head="8" dep="mod">français</word>
+          <word id="10" lem="hors" postag="P" morpho="_" head="8" dep="dep">hors</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Alsace-Lorraine</word>
+          <word id="12" lem="célébrer" postag="V" morpho="n=p|p=3|t=pst" head="4" dep="mod_rel">célèbrent</word>
+          <word id="13" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="14" dep="det">leur</word>
+          <word id="14" lem="culte" postag="NC" morpho="g=m|n=s" head="12" dep="obj">culte</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="selon" postag="P" morpho="_" head="17" dep="mod">Selon</word>
+          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
+          <word id="3" lem="doctrine" postag="NC" morpho="g=f|n=s" head="1" dep="prep">doctrine</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
+          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="prep">Église</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="Jésus-Christ" postag="NPP" morpho="_" head="7" dep="prep">Jésus-Christ</word>
+          <word id="9" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
+          <word id="10" lem="saint" postag="NC" morpho="g=m|n=p" head="9" dep="prep">saints</word>
+          <word id="11" lem="de" postag="P+D" morpho="n=p" head="10" dep="dep">des</word>
+          <word id="12" lem="dernier" postag="ADJ" morpho="g=m|n=p" head="13" dep="mod">derniers</word>
+          <word id="13" lem="jour" postag="NC" morpho="g=m|n=p" head="11" dep="prep">jours</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+          <word id="16" lem="Temple" postag="NPP" morpho="n=s" head="17" dep="suj">Temple</word>
+          <word id="17" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="18" lem="littéralement" postag="ADV" morpho="_" head="17" dep="mod">littéralement</word>
+          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
+          <word id="20" lem="maison" postag="NC" morpho="g=f|n=s" head="17" dep="ats">maison</word>
+          <word id="21" lem="de" postag="P+D" morpho="g=m|n=s" head="20" dep="dep">du</word>
+          <word id="22" lem="_" postag="NPP" morpho="_" head="21" dep="prep">Seigneur</word>
+          <word id="23" lem="." postag="PONCT" morpho="_" head="17" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="Temple" postag="NPP" morpho="n=s" head="6" dep="suj">Temple</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Mahabodhi</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+          <word id="8" lem="édifice" postag="NC" morpho="g=m|n=s" head="6" dep="ats">édifice</word>
+          <word id="9" lem="où" postag="PROREL" morpho="_" head="11" dep="mod">où</word>
+          <word id="10" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="11" dep="aux_tps">sont</word>
+          <word id="11" lem="célébrer" postag="VPP" morpho="g=m|n=p|t=past" head="8" dep="mod_rel">célébrés</word>
+          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="13" lem="rite" postag="NC" morpho="g=m|n=p" head="11" dep="suj">rites</word>
+          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="prep">Bouddhisme</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="33" />
+      <text>Le Temple, absolument, désigne :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="34" end="469" id="0" />
+      <text id="0">le Temple de Jérusalem, ou premier Temple, édifié par Salomon au -s-Xe, détruit par les Babyloniens en -586, et dont il ne reste aucun vestige ; le second Temple, rebâti vers -536, rénové par Hérode Ier le Grand puis détruit par Titus en l'an 70, et dont il ne reste qu'une partie de la muraille d'enceinte, notamment le mur de 57 mètres que les Juifs appellent le Mur occidental (connu également sous le nom de Mur des Lamentations) ;</text>
+      <span begin="470" end="606" id="1" />
+      <text id="1">l'ordre du Temple ou ordre des Templiers, ordre religieux militaire fondé au XIIe siècle à Jérusalem pour la défense du Saint-Sépulcre ;</text>
+      <span begin="607" end="849" id="2" />
+      <text id="2">à Paris, la Tour du Temple, reste d'un ancien monastère qui servit de prison à Louis XVI et où mourut son jeune fils Louis ; par métonymie, le quartier du Temple, situé dans le IIIe arrondissement, où se trouve notamment le Carreau du Temple.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="17" />
+      <text>Temples célèbres</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="18" end="104" id="0" />
+      <text id="0">le temple de Göbekli Tepe, plus ancien exemple répertorié d'architecture monumentale ;</text>
+      <span begin="105" end="154" id="1" />
+      <text id="1">certaines pyramides précolombiennes ou d'Égypte ;</text>
+      <span begin="155" end="176" id="2" />
+      <text id="2">les temples romains ;</text>
+      <span begin="177" end="204" id="3" />
+      <text id="3">le temple d'Amon à Karnak ;</text>
+      <span begin="205" end="240" id="4" />
+      <text id="4">les temples d'Angkor, au Cambodge ;</text>
+      <span begin="241" end="296" id="5" />
+      <text id="5">le temple de Borobudur dans l'île de Java en Indonésie;</text>
+      <span begin="297" end="341" id="6" />
+      <text id="6">le Parthénon, à Athènes (voir Temple grec) ;</text>
+      <span begin="342" end="416" id="7" />
+      <text id="7">le Temple d'Artémis à Éphèse, l'une des sept merveilles du monde antique ;</text>
+      <span begin="417" end="580" id="8" />
+      <text id="8">le Panthéon de Rome, le temple de tous les dieux ; le Panthéon de Paris, l'ancienne église Sainte-Geneviève transformée sous la Révolution en Temple de la Raison ;</text>
+      <span begin="581" end="658" id="9" />
+      <text id="9">le temple du Soleil à Machu Picchu, qui a donné son nom à un album de Tintin.</text>
+      <span begin="659" end="910" id="10" />
+      <text id="10">les temples grecs de Sicile sont parmi les mieux conservés :
+Vallée des Temples à Agrigente : temples d'Héracles, d'Héra, de la Concorde, de Castor et Pollux
+Ségeste
+Sélinonte : temple E
+Temples grecs de Syracuse : temples d'Athéna, d'Apollon, de Zeus</text>
+      <span begin="911" end="931" id="11" />
+      <text id="11">le Temple de Salomon</text>
+      <span begin="932" end="968" id="12" />
+      <text id="12">Samye : 1er temple du Tibet (VIIIe).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="61" />
+      <text>les temples grecs de Sicile sont parmi les mieux conservés :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="62" end="158" id="0" />
+      <text id="0">Vallée des Temples à Agrigente : temples d'Héracles, d'Héra, de la Concorde, de Castor et Pollux</text>
+      <span begin="159" end="166" id="1" />
+      <text id="1">Ségeste</text>
+      <span begin="167" end="187" id="2" />
+      <text id="2">Sélinonte : temple E</text>
+      <span begin="188" end="252" id="3" />
+      <text id="3">Temples grecs de Syracuse : temples d'Athéna, d'Apollon, de Zeus</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="18" />
+      <text>Temples en France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="19" end="43" id="0" />
+      <text id="0">la Maison Carrée à Nîmes</text>
+      <span begin="44" end="84" id="1" />
+      <text id="1">le Temple d'Auguste et de Livie à Vienne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="113" />
+      <text>Temples des religions actuelles
+Certaines religions prônent la construction de temples pour leurs célébrations :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="114" end="209" id="0" />
+      <text id="0">C'est l'édifice dans lequel les protestants français hors Alsace-Lorraine célèbrent leur culte.</text>
+      <span begin="210" end="337" id="1" />
+      <text id="1">Selon la doctrine de l'Église de Jésus-Christ des saints des derniers jours, le Temple est littéralement la maison du Seigneur.</text>
+      <span begin="338" end="420" id="2" />
+      <text id="2">Le Temple de la Mahabodhi est un édifice où sont célébrés les rites du Bouddhisme.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:07</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="primer" idSE="5">
+      <span begin="1" end="81" />
+      <text>Certaines religions prônent la construction de temples pour leurs célébrations :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:07</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="items" idSE="5">
+      <span begin="82" end="177" id="0" />
+      <text id="0">C'est l'édifice dans lequel les protestants français hors Alsace-Lorraine célèbrent leur culte.</text>
+      <span begin="178" end="305" id="1" />
+      <text id="1">Selon la doctrine de l'Église de Jésus-Christ des saints des derniers jours, le Temple est littéralement la maison du Seigneur.</text>
+      <span begin="306" end="388" id="2" />
+      <text id="2">Le Temple de la Mahabodhi est un édifice où sont célébrés les rites du Bouddhisme.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="10" id="0" />
+      <text id="0">Le Temple</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="34" end="75" id="0" />
+      <text id="0">le Temple de Jérusalem, ou premier Temple</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="470" end="510" id="0" />
+      <text id="0">l'ordre du Temple ou ordre des Templiers</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="616" end="633" id="0" />
+      <text id="0">la Tour du Temple</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="2">
+      <span begin="607" end="615" id="0" />
+      <text id="0">à Paris,</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
+      <span begin="24" end="31" id="0" />
+      <text id="0">désigne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="17" id="0" />
+      <text id="0">Temples célèbres</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="18" end="43" id="0" />
+      <text id="0">le temple de Göbekli Tepe</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="114" end="152" id="0" />
+      <text id="0">pyramides précolombiennes ou d'Égypte</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="155" end="175" id="0" />
+      <text id="0">les temples romains</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="177" end="193" id="0" />
+      <text id="0">le temple d'Amon</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
+      <span begin="205" end="225" id="0" />
+      <text id="0">les temples d'Angkor</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="5">
+      <span begin="241" end="264" id="0" />
+      <text id="0">le temple de Borobudur</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="6">
+      <span begin="297" end="309" id="0" />
+      <text id="0">le Parthénon</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="7">
+      <span begin="342" end="362" id="0" />
+      <text id="0">le Temple d'Artémis</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="8">
+      <span begin="417" end="436" id="0" />
+      <text id="0">le Panthéon de Rome</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="9">
+      <span begin="581" end="600" id="0" />
+      <text id="0">le temple du Soleil</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="10">
+      <span begin="659" end="686" id="0" />
+      <text id="0">les temples grecs de Sicile</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="3">
+      <span begin="194" end="202" id="0" />
+      <text id="0">à Karnak</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="4">
+      <span begin="227" end="238" id="0" />
+      <text id="0">au Cambodge</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="5">
+      <span begin="264" end="295" id="0" />
+      <text id="0">dans l'île de Java en Indonésie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="6">
+      <span begin="310" end="320" id="0" />
+      <text id="0">à Athènes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="7">
+      <span begin="362" end="370" id="0" />
+      <text id="0">à Éphèse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="9">
+      <span begin="601" end="616" id="0" />
+      <text id="0">à Machu Picchu,</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="28" id="0" />
+      <text id="0">les temples grecs de Sicile</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="62" end="80" id="0" />
+      <text id="0">Vallée des Temples</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="159" end="166" id="0" />
+      <text id="0">Ségeste</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="167" end="176" id="0" />
+      <text id="0">Sélinonte</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+      <span begin="188" end="213" id="0" />
+      <text id="0">Temples grecs de Syracuse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
+      <span begin="81" end="92" id="0" />
+      <text id="0">à Agrigente</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="1" end="8" id="0" />
+      <text id="0">Temples</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="19" end="35" id="0" />
+      <text id="0">la Maison Carrée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="45" end="75" id="0" />
+      <text id="0">e Temple d'Auguste et de Livie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+      <span begin="9" end="18" id="0" />
+      <text id="0">en France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="0">
+      <span begin="36" end="43" id="0" />
+      <text id="0">à Nîmes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="1">
+      <span begin="75" end="84" id="0" />
+      <text id="0">à Vienne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+      <span begin="1" end="33" id="0" />
+      <text id="0">Temples des religions actuelles</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="122" end="208" id="0" />
+      <text id="0">édifice dans lequel les protestants français hors Alsace-Lorraine célèbrent leur culte</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="315" end="336" id="0" />
+      <text id="0">la maison du Seigneur</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+      <span begin="368" end="419" id="0" />
+      <text id="0">un édifice où sont célébrés les rites du Bouddhisme</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="1">
+      <span begin="210" end="285" id="0" />
+      <text id="0">Selon la doctrine de l'Église de Jésus-Christ des saints des derniers jours</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:04</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:03</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:05</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="1" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:38</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:07</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="5">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:07</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="5">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:07</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="5">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:07</date>
+      <document>Temple.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="5">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

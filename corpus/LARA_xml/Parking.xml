@@ -1,0 +1,3588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Polluants attendus dans l'air des parkings souterrains
+NO2 
+CO 
+PM10 
+PM2.5 
+Benzène
+Toluène
+Ethylbenzène
+s 
+1,3-butadiène
+Formaldéhyde
+Acétaldéhyde
+Acroléine
+Naphtalène
+Acénaphtylène
+Acénaphtène
+Phénanthrène
+Anthracène
+Fluoranthène
+Pyrène 
+Benzo(a)anthracène
+Chrysène
+Benzo(b)fluoranthène
+Benzo(k)fluoranthène
+Benzo(a)pyrène
+Dibenzo(ah)antracène
+Benzo(ghi)pérylène
+Indéno(1,2,3-cd)pyrène
+Fluorène
+Arsenic
+Baryum
+Cadmium
+Chrome
+Cobalt
+Cuivre
+Mercure 
+Manganèse
+Nickel
+Plomb
+fumées noires
+Certains de ces polluants sont plus lourds que l'air, ou se fixent (adsorption) sur les particules.</text>
+      <span begin="7103" end="7691" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Les parkings automatiques sont généralement des ouvrages souterrains ou en élévation dont les rampes intérieures sont remplacées par des systèmes de levage et de translation des véhicules. Deux grandes catégories se distinguent sur le marché :
+les « norias », sortes de grandes roues verticales où les plateaux se présentent face à l'entrée du véhicule. Ce dernier, une fois laissé sur le plateau est déplacé par rotation de la noria ;
+les « transbordeurs », combinant un ascenseur et une palette qui descendent le véhicule jusqu'à un alvéole puis le remisent par déplacement de la palette le supportant.</text>
+      <span begin="10605" end="11210" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Accès des piétons
+Les accès destinés aux piétons répondent à une double problématique :
+constituer une issue confortable du parking. En France ils ne doivent pas être situés à plus de 40 mètres d'un point quelconque si deux accès sont accessibles, et pas à plus de 25 m si un seul accès est utilisable.
+protéger les piétons en cas d'incendie. En France, le degré coupe feu des éléments de construction doit être au minimum de trois heures, de façon à assurer la stabilité de l'ouvrage et permettre une évacuation en toute sécurité.</text>
+      <span begin="13568" end="14099" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>La largeur des voies de circulations et des rampes entre murs et/ou poteaux est au moins de :
+3,00 m en partie droite en sens unique (2.80 m pour les parcs de stationnement privés) ;
+5,50 m en partie droite à double sens (5 m pour les parcs de stationnement privés) ;
+4,00 m en courbe à en sens unique ;
+3,50 m (voie intérieure) / 3,00 m (voie extérieure) en courbe à double sens.</text>
+      <span begin="15251" end="15631" />
+    </SE>
+    <comment>#a au moins pour largeur#
+
+relation de type "datatypeProperty" ???</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>Équipement de gestion
+Les équipements de gestion des parkings vont de la simple barrière manuelle au systèmes les plus sophistiqués avec reconnaissance de plaque minéralogique et gestion technique centralisée. Les principaux équipements sont :
+Le système de péage, comprenant les barrières d'entrée et de sortie ainsi que les caisses de péage à pieds et l'unité centrale de gestion. Les systèmes modernes acceptent le paiement en espèces, par cartes de crédit, par cartes privatives (compagnies pétrolières, grands magasins, etc., par transpondeurs autoroutiers et accepteront dans un avenir très proche le paiement par téléphone portable ou étiquette RFID.
+La gestion technique centralisée (GTC) permet le pilotage et la surveillance de l'ensemble des équipements techniques (éclairage, ventilation, détection incendie, détection CO, alarmes, etc.). Constituée d'un réseau de points d'auscultation (plus de 1000 dans les grands parkings), la GTC est le centre de contrôle opérationnel et retrace l'ensemble des évènements qui affectent le parking.
+La vidéosurveillance, interfacée ou non avec la GTC, permet le contrôle visuel du parking et la levée de doute en cas d'incident. En France et dans de nombreux pays les conditions d'enregistrement sont réglementées.
+L'interphonie relie l'ensemble des points névralgiques du parking (ascenseurs, caisses, sorties piétons, barrières, etc.) avec le poste de gestion situé dans l'ouvrage ou déporté dans un PC spécialisé.
+Les systèmes de détection de présence de véhicules, interfacées avec la GTC ou en boucle fermée avec un système de guidage électronique, permet le guidage des visiteurs dès l'entrée du parking (nombre de places disponibles) et à l'intérieur du parking (nombre de places disponibles par étage et zones de disponibilité) qu'il soit en ouvrage ou en surface.</text>
+      <span begin="15632" end="17454" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SE>
+      <id>5</id>
+      <text>Deux systèmes existent actuellementoù :
+Le plus fiable et efficace: Des capteurs à ultrasons placés en hauteur au dessus des places avec un voyant lumineux à diodes LED devant chaque place, qui indique aux usagers, en temps réel, les places disponibles (voyant vert) et occupées (voyant rouge). Cette technologie reste aujourd'hui de loin la plus fiable dans les parking couverts. Pour que ce système soit efficace pour les usagers, les voyants à LED doivent être à haute luminosité et omnidirectionnels (visibles sur 360°) et pour être bien visibles dans tout le parking. Le montage en hauteur évite aussi tout risque de chocs ou de vandalisme sur les équipements.
+Dans des cas très particuliers: Des capteurs à induction magnétique placés au sol, qui transmettent l'information par radio-fréquence formant un réseau de capteurs. La technologie RFID sur laquelle repose ce système sans-fil permet un comptage dans les parkings à l'extérieur. Cette solution évite une partie des câblages, mais ne permet pas d'indiquer aux usagers les places libres dans les allées: sa fonction est donc d'indiquer le nombre total des places libres par zone et par allée sur des afficheurs. Mais l’installation de ces afficheurs de comptage en extérieur est complexe et nécessite des travaux de structure importants et onéreux. Enfin le principe de détection de la variations de champ magnétique a une fiabilité limitée car il existe dans les parkings diverses sources de variations de champ magnétique qui créent des perturbations qui génèrent le plus souvent des erreurs de comptage.
+Ces capteurs au sol fonctionnent sur piles qu'il faut aussi changer après quelques années.</text>
+      <span begin="17989" end="19649" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SE>
+      <id>6</id>
+      <text>France
+En France, les dimensions des places de parking sont fixées par les normes NF-P 91-100 (Parcs de stationnements accessibles au public) et NF-P 91-120 (parcs de stationnement privés).
+Pour un stationnement dit « en bataille » (places perpendiculaires à la circulation), une largeur minimale de 2.30 mètres est exigée si l'emplacement est libre de tout obstacle latéral. Cette dimension est augmentée en cas d'obstacles latéraux (poteaux, murs...) et peut atteindre 2.60 m dans le cas d'une place présentant des murs de chaque côté et sur toute la longueur. La profondeur minimale d'une place en bataille sera de 5 mètres. Un dégagement libre supérieur ou égal à 5 m est exigé devant chaque place.
+Les allées de circulation sont au minimum de :
+3,00 m pour les voies à sens unique (2.80 m pour les parcs de stationnement privés)
+5,50 m pour les voies à double sens (5.00 m pour les parcs de stationnement privés).</text>
+      <span begin="24004" end="24922" />
+    </SE>
+    <comment>#a pour largeur minimum#</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SE>
+      <id>7</id>
+      <text>Les allées de circulation sont au minimum de :
+3,00 m pour les voies à sens unique (2.80 m pour les parcs de stationnement privés)
+5,50 m pour les voies à double sens (5.00 m pour les parcs de stationnement privés).</text>
+      <span begin="24707" end="24922" />
+    </SE>
+    <comment>#a pour largeur minimum#</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="polluant" postag="NC" morpho="g=m|n=p" head="0" dep="_">Polluants</word>
+        <word id="2" lem="attendre" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="mod">attendus</word>
+        <word id="3" lem="dans" postag="P" morpho="_" head="2" dep="mod">dans</word>
+        <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+        <word id="5" lem="air" postag="NC" morpho="g=m|n=s" head="3" dep="prep">air</word>
+        <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+        <word id="7" lem="parking" postag="NC" morpho="g=m|n=p" head="6" dep="prep">parkings</word>
+        <word id="8" lem="souterrain" postag="ADJ" morpho="g=m|n=p" head="7" dep="mod">souterrains</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">NO2</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">CO</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">PM10</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">PM2.5</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="benzène" postag="NC" morpho="g=m|n=s" head="0" dep="root">Benzène</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="toluène" postag="NC" morpho="g=m|n=s" head="0" dep="root">Toluène</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Ethylbenzène</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">s</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1,3-butadiène</word>
+        </sentence>
+      </item>
+      <item id="9">
+        <sentence id="1">
+          <word id="1" lem="formaldéhyde" postag="NC" morpho="g=m|n=s" head="0" dep="root">Formaldéhyde</word>
+        </sentence>
+      </item>
+      <item id="10">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Acétaldéhyde</word>
+        </sentence>
+      </item>
+      <item id="11">
+        <sentence id="1">
+          <word id="1" lem="acroléine" postag="NC" morpho="g=f|n=s" head="0" dep="root">Acroléine</word>
+        </sentence>
+      </item>
+      <item id="12">
+        <sentence id="1">
+          <word id="1" lem="naphtalène" postag="NC" morpho="g=m|n=s" head="0" dep="root">Naphtalène</word>
+        </sentence>
+      </item>
+      <item id="13">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Acénaphtylène</word>
+        </sentence>
+      </item>
+      <item id="14">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Acénaphtène</word>
+        </sentence>
+      </item>
+      <item id="15">
+        <sentence id="1">
+          <word id="1" lem="phénanthrène" postag="NC" morpho="g=m|n=s" head="0" dep="root">Phénanthrène</word>
+        </sentence>
+      </item>
+      <item id="16">
+        <sentence id="1">
+          <word id="1" lem="anthracène" postag="NC" morpho="g=m|n=s" head="0" dep="root">Anthracène</word>
+        </sentence>
+      </item>
+      <item id="17">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Fluoranthène</word>
+        </sentence>
+      </item>
+      <item id="18">
+        <sentence id="1">
+          <word id="1" lem="pyrène" postag="NC" morpho="g=m|n=s" head="0" dep="root">Pyrène</word>
+        </sentence>
+      </item>
+      <item id="19">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Benzo</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="_" postag="ADV" morpho="_" head="5" dep="mod">a</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
+          <word id="5" lem="anthracène" postag="NC" morpho="g=m|n=s" head="1" dep="mod">anthracène</word>
+        </sentence>
+      </item>
+      <item id="20">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chrysène</word>
+        </sentence>
+      </item>
+      <item id="21">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Benzo</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">b</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">fluoranthène</word>
+        </sentence>
+      </item>
+      <item id="22">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Benzo</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">k</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">fluoranthène</word>
+        </sentence>
+      </item>
+      <item id="23">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Benzo</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="_" postag="ADV" morpho="_" head="5" dep="mod">a</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
+          <word id="5" lem="pyrène" postag="NC" morpho="g=m|n=s" head="1" dep="mod">pyrène</word>
+        </sentence>
+      </item>
+      <item id="24">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Dibenzo</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">ah</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">antracène</word>
+        </sentence>
+      </item>
+      <item id="25">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Benzo</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">ghi</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">pérylène</word>
+        </sentence>
+      </item>
+      <item id="26">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Indéno</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="#NUM#" postag="DET" morpho="n=p" head="4" dep="det">1,2</word>
+          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">,3-cd</word>
+          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="6" lem="pyrène" postag="NC" morpho="g=m|n=s" head="1" dep="mod">pyrène</word>
+        </sentence>
+      </item>
+      <item id="27">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Fluorène</word>
+        </sentence>
+      </item>
+      <item id="28">
+        <sentence id="1">
+          <word id="1" lem="arsenic" postag="NC" morpho="g=m|n=s" head="0" dep="root">Arsenic</word>
+        </sentence>
+      </item>
+      <item id="29">
+        <sentence id="1">
+          <word id="1" lem="baryum" postag="NC" morpho="g=m|n=s" head="0" dep="root">Baryum</word>
+        </sentence>
+      </item>
+      <item id="30">
+        <sentence id="1">
+          <word id="1" lem="cadmium" postag="NC" morpho="g=m|n=s" head="0" dep="root">Cadmium</word>
+        </sentence>
+      </item>
+      <item id="31">
+        <sentence id="1">
+          <word id="1" lem="chrome" postag="NC" morpho="g=m|n=s" head="0" dep="root">Chrome</word>
+        </sentence>
+      </item>
+      <item id="32">
+        <sentence id="1">
+          <word id="1" lem="cobalt" postag="NC" morpho="g=m|n=s" head="0" dep="root">Cobalt</word>
+        </sentence>
+      </item>
+      <item id="33">
+        <sentence id="1">
+          <word id="1" lem="cuivre" postag="NC" morpho="g=m|n=s" head="0" dep="_">Cuivre</word>
+        </sentence>
+      </item>
+      <item id="34">
+        <sentence id="1">
+          <word id="1" lem="mercure" postag="NC" morpho="g=m|n=s" head="0" dep="root">Mercure</word>
+        </sentence>
+      </item>
+      <item id="35">
+        <sentence id="1">
+          <word id="1" lem="manganèse" postag="NC" morpho="g=m|n=s" head="0" dep="root">Manganèse</word>
+        </sentence>
+      </item>
+      <item id="36">
+        <sentence id="1">
+          <word id="1" lem="nickel" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nickel</word>
+        </sentence>
+      </item>
+      <item id="37">
+        <sentence id="1">
+          <word id="1" lem="plomb" postag="NC" morpho="g=m|n=s" head="0" dep="_">Plomb</word>
+        </sentence>
+      </item>
+      <item id="38">
+        <sentence id="1">
+          <word id="1" lem="fumée" postag="NC" morpho="g=f|n=p" head="0" dep="_">fumées</word>
+          <word id="2" lem="noir" postag="ADJ" morpho="g=f|n=p" head="1" dep="mod">noires</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="cloture" idSE="0">
+      <span begin="488" end="588" />
+      <text>Certains de ces polluants sont plus lourds que l'air, ou se fixent (adsorption) sur les particules.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="parking" postag="NC" morpho="g=m|n=p" head="4" dep="suj">parkings</word>
+        <word id="3" lem="automatique" postag="ADJ" morpho="n=p" head="2" dep="mod">automatiques</word>
+        <word id="4" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+        <word id="5" lem="généralement" postag="ADV" morpho="_" head="4" dep="mod">généralement</word>
+        <word id="6" lem="des" postag="DET" morpho="n=p" head="7" dep="det">des</word>
+        <word id="7" lem="ouvrage" postag="NC" morpho="g=m|n=p" head="4" dep="ats">ouvrages</word>
+        <word id="8" lem="souterrain" postag="ADJ" morpho="g=m|n=p" head="7" dep="mod">souterrains</word>
+        <word id="9" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
+        <word id="10" lem="en" postag="P" morpho="_" head="9" dep="dep_coord">en</word>
+        <word id="11" lem="élévation" postag="NC" morpho="g=f|n=s" head="10" dep="prep">élévation</word>
+        <word id="12" lem="dont" postag="PROREL" morpho="_" head="17" dep="de_obj">dont</word>
+        <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+        <word id="14" lem="rampe" postag="NC" morpho="g=f|n=p" head="17" dep="suj">rampes</word>
+        <word id="15" lem="intérieur" postag="ADJ" morpho="g=f|n=p" head="14" dep="mod">intérieures</word>
+        <word id="16" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="17" dep="aux_pass">sont</word>
+        <word id="17" lem="remplacer" postag="VPP" morpho="g=f|n=p|t=past" head="11" dep="mod_rel">remplacées</word>
+        <word id="18" lem="par" postag="P" morpho="_" head="17" dep="p_obj">par</word>
+        <word id="19" lem="des" postag="DET" morpho="n=p" head="20" dep="det">des</word>
+        <word id="20" lem="système" postag="NC" morpho="g=m|n=p" head="18" dep="prep">systèmes</word>
+        <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
+        <word id="22" lem="levage" postag="NC" morpho="g=m|n=s" head="21" dep="prep">levage</word>
+        <word id="23" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
+        <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep_coord">de</word>
+        <word id="25" lem="translation" postag="NC" morpho="g=f|n=s" head="24" dep="prep">translation</word>
+        <word id="26" lem="de" postag="P+D" morpho="n=p" head="25" dep="dep">des</word>
+        <word id="27" lem="véhicule" postag="NC" morpho="g=m|n=p" head="26" dep="prep">véhicules</word>
+        <word id="28" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="deux" postag="ADJ" morpho="n=p" head="3" dep="mod">Deux</word>
+        <word id="2" lem="grand" postag="ADJ" morpho="g=f|n=p" head="3" dep="mod">grandes</word>
+        <word id="3" lem="catégorie" postag="NC" morpho="g=f|n=p" head="5" dep="suj">catégories</word>
+        <word id="4" lem="se" postag="CLR" morpho="n=p|p=3" head="5" dep="obj">se</word>
+        <word id="5" lem="distinguer" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">distinguent</word>
+        <word id="6" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
+        <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
+        <word id="8" lem="marché" postag="NC" morpho="g=m|n=s" head="6" dep="prep">marché</word>
+        <word id="9" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="2" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
+          <word id="3" lem="noria" postag="NC" morpho="g=f|n=p" head="0" dep="_">norias</word>
+          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="6" lem="sorte" postag="NC" morpho="g=f|n=p" head="3" dep="mod">sortes</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="grand" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">grandes</word>
+          <word id="9" lem="roue" postag="NC" morpho="g=f|n=p" head="7" dep="prep">roues</word>
+          <word id="10" lem="vertical" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">verticales</word>
+          <word id="11" lem="où" postag="PROREL" morpho="_" head="15" dep="mod">où</word>
+          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="13" lem="plateau" postag="NC" morpho="g=m|n=p" head="15" dep="suj">plateaux</word>
+          <word id="14" lem="se" postag="CLR" morpho="n=p|p=3" head="15" dep="aff">se</word>
+          <word id="15" lem="présenter" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="mod_rel">présentent</word>
+          <word id="16" lem="face_à" postag="P" morpho="_" head="15" dep="mod">face_à</word>
+          <word id="17" lem="l'" postag="DET" morpho="n=s" head="18" dep="det">l'</word>
+          <word id="18" lem="entrée" postag="NC" morpho="g=f|n=s" head="16" dep="prep">entrée</word>
+          <word id="19" lem="de" postag="P+D" morpho="g=m|n=s" head="18" dep="dep">du</word>
+          <word id="20" lem="véhicule" postag="NC" morpho="g=m|n=s" head="19" dep="prep">véhicule</word>
+          <word id="21" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="ce" postag="DET" morpho="g=m|n=s" head="2" dep="det">Ce</word>
+          <word id="2" lem="dernier" postag="ADJ" morpho="g=m|n=s" head="11" dep="suj">dernier</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="fois" postag="NC" morpho="g=f" head="11" dep="suj">fois</word>
+          <word id="6" lem="laisser" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">laissé</word>
+          <word id="7" lem="sur" postag="P" morpho="_" head="6" dep="mod">sur</word>
+          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
+          <word id="9" lem="plateau" postag="NC" morpho="g=m|n=s" head="7" dep="prep">plateau</word>
+          <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="aux_pass">est</word>
+          <word id="11" lem="déplacer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">déplacé</word>
+          <word id="12" lem="par" postag="P" morpho="_" head="11" dep="p_obj">par</word>
+          <word id="13" lem="rotation" postag="NC" morpho="g=f|n=s" head="12" dep="prep">rotation</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+          <word id="16" lem="noria" postag="NC" morpho="g=f|n=s" head="14" dep="prep">noria</word>
+          <word id="17" lem=";" postag="PONCT" morpho="_" head="11" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="2" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
+          <word id="3" lem="transbordeur" postag="NC" morpho="g=m|n=p" head="0" dep="_">transbordeurs</word>
+          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="combiner" postag="VPR" morpho="t=pst" head="0" dep="_">combinant</word>
+          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+          <word id="8" lem="ascenseur" postag="NC" morpho="g=m|n=s" head="6" dep="obj">ascenseur</word>
+          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+          <word id="11" lem="palette" postag="NC" morpho="g=f|n=s" head="9" dep="dep_coord">palette</word>
+          <word id="12" lem="qui" postag="PROREL" morpho="n=s" head="13" dep="suj">qui</word>
+          <word id="13" lem="descendre" postag="V" morpho="n=p|p=3|t=pst" head="11" dep="mod_rel">descendent</word>
+          <word id="14" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
+          <word id="15" lem="véhicule" postag="NC" morpho="g=m|n=s" head="13" dep="obj">véhicule</word>
+          <word id="16" lem="jusqu'à" postag="P" morpho="_" head="13" dep="mod">jusqu'à</word>
+          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
+          <word id="18" lem="alvéole" postag="NC" morpho="n=s" head="16" dep="prep">alvéole</word>
+          <word id="19" lem="puis" postag="CC" morpho="_" head="13" dep="coord">puis</word>
+          <word id="20" lem="le" postag="CLO" morpho="g=m|n=s|p=3" head="21" dep="obj">le</word>
+          <word id="21" lem="remiser" postag="V" morpho="n=p|p=3|t=pst" head="19" dep="dep_coord">remisent</word>
+          <word id="22" lem="par" postag="P" morpho="_" head="21" dep="mod">par</word>
+          <word id="23" lem="déplacement" postag="NC" morpho="g=m|n=s" head="22" dep="prep">déplacement</word>
+          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="25" lem="la" postag="DET" morpho="g=f|n=s" head="26" dep="det">la</word>
+          <word id="26" lem="palette" postag="NC" morpho="g=f|n=s" head="24" dep="prep">palette</word>
+          <word id="27" lem="le" postag="CLO" morpho="g=m|n=s|p=3" head="28" dep="obj">le</word>
+          <word id="28" lem="supporter" postag="VPR" morpho="t=pst" head="21" dep="mod">supportant</word>
+          <word id="29" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="accès" postag="NC" morpho="g=m" head="0" dep="_">Accès</word>
+        <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+        <word id="3" lem="piéton" postag="NC" morpho="g=m|n=p" head="2" dep="prep">piétons</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="accès" postag="NC" morpho="g=m" head="6" dep="suj">accès</word>
+        <word id="3" lem="destiner" postag="VPP" morpho="g=m|n=p|t=past" head="2" dep="mod">destinés</word>
+        <word id="4" lem="à" postag="P+D" morpho="n=p" head="3" dep="a_obj">aux</word>
+        <word id="5" lem="piéton" postag="NC" morpho="g=m|n=p" head="4" dep="prep">piétons</word>
+        <word id="6" lem="répondre" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">répondent</word>
+        <word id="7" lem="à" postag="P" morpho="_" head="6" dep="a_obj">à</word>
+        <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
+        <word id="9" lem="double" postag="ADJ" morpho="n=s" head="10" dep="mod">double</word>
+        <word id="10" lem="problématique" postag="NC" morpho="g=f|n=s" head="7" dep="prep">problématique</word>
+        <word id="11" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="constituer" postag="VINF" morpho="_" head="0" dep="_">constituer</word>
+          <word id="2" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">une</word>
+          <word id="3" lem="issue" postag="NC" morpho="g=f|n=s" head="1" dep="obj">issue</word>
+          <word id="4" lem="confortable" postag="ADJ" morpho="n=s" head="3" dep="mod">confortable</word>
+          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
+          <word id="6" lem="parking" postag="NC" morpho="g=m|n=s" head="5" dep="prep">parking</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="en" postag="P" morpho="_" head="5" dep="mod">En</word>
+          <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
+          <word id="3" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="5" dep="suj">ils</word>
+          <word id="4" lem="ne" postag="ADV" morpho="_" head="5" dep="mod">ne</word>
+          <word id="5" lem="devoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">doivent</word>
+          <word id="6" lem="pas" postag="ADV" morpho="_" head="5" dep="mod">pas</word>
+          <word id="7" lem="être" postag="VINF" morpho="_" head="8" dep="aux_pass">être</word>
+          <word id="8" lem="situer" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="obj">situés</word>
+          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="mod">à</word>
+          <word id="10" lem="plus" postag="ADV" morpho="_" head="13" dep="mod">plus</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+          <word id="12" lem="#NUM#" postag="DET" morpho="n=p" head="13" dep="det">40</word>
+          <word id="13" lem="mètre" postag="NC" morpho="g=m|n=p" head="9" dep="prep">mètres</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
+          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
+          <word id="16" lem="point" postag="NC" morpho="g=m|n=s" head="14" dep="prep">point</word>
+          <word id="17" lem="quelconque" postag="ADJ" morpho="n=s" head="16" dep="mod">quelconque</word>
+          <word id="18" lem="si" postag="CS" morpho="_" head="5" dep="mod">si</word>
+          <word id="19" lem="deux" postag="ADJ" morpho="n=p" head="20" dep="mod">deux</word>
+          <word id="20" lem="accès" postag="NC" morpho="g=m" head="21" dep="suj">accès</word>
+          <word id="21" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="18" dep="sub">sont</word>
+          <word id="22" lem="accessible" postag="ADJ" morpho="n=p" head="21" dep="ats">accessibles</word>
+          <word id="23" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="24" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
+          <word id="25" lem="pas" postag="ADV" morpho="_" head="24" dep="mod">pas</word>
+          <word id="26" lem="à" postag="P" morpho="_" head="24" dep="dep_coord">à</word>
+          <word id="27" lem="plus" postag="ADV" morpho="_" head="30" dep="mod">plus</word>
+          <word id="28" lem="de" postag="P" morpho="_" head="30" dep="dep">de</word>
+          <word id="29" lem="#NUM#" postag="DET" morpho="n=p" head="30" dep="det">25</word>
+          <word id="30" lem="_" postag="NC" morpho="_" head="26" dep="prep">m</word>
+          <word id="31" lem="si" postag="CS" morpho="_" head="24" dep="dep_coord">si</word>
+          <word id="32" lem="un" postag="DET" morpho="g=m|n=s" head="34" dep="det">un</word>
+          <word id="33" lem="seul" postag="ADJ" morpho="g=m|n=s" head="34" dep="mod">seul</word>
+          <word id="34" lem="accès" postag="NC" morpho="g=m" head="35" dep="suj">accès</word>
+          <word id="35" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="31" dep="sub">est</word>
+          <word id="36" lem="utilisable" postag="ADJ" morpho="n=s" head="35" dep="ats">utilisable</word>
+          <word id="37" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="protéger" postag="VINF" morpho="_" head="0" dep="_">protéger</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="3" lem="piéton" postag="NC" morpho="g=m|n=p" head="1" dep="obj">piétons</word>
+          <word id="4" lem="en_cas_de" postag="P" morpho="_" head="1" dep="mod">en_cas_d'</word>
+          <word id="5" lem="incendie" postag="NC" morpho="g=m|n=s" head="4" dep="prep">incendie</word>
+          <word id="6" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="en" postag="P" morpho="_" head="12" dep="mod">En</word>
+          <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
+          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
+          <word id="5" lem="degré" postag="NC" morpho="g=m|n=s" head="12" dep="suj">degré</word>
+          <word id="6" lem="coupe" postag="NC" morpho="g=f|n=s" head="5" dep="mod">coupe</word>
+          <word id="7" lem="feu" postag="NC" morpho="g=m|n=s" head="6" dep="mod">feu</word>
+          <word id="8" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="9" lem="élément" postag="NC" morpho="g=m|n=p" head="8" dep="prep">éléments</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
+          <word id="11" lem="construction" postag="NC" morpho="g=f|n=s" head="10" dep="prep">construction</word>
+          <word id="12" lem="devoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">doit</word>
+          <word id="13" lem="être" postag="VINF" morpho="_" head="12" dep="obj">être</word>
+          <word id="14" lem="à" postag="P+D" morpho="g=m|n=s" head="13" dep="mod">au</word>
+          <word id="15" lem="minimum" postag="NC" morpho="g=m|n=s" head="14" dep="prep">minimum</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
+          <word id="17" lem="deux" postag="NC" morpho="g=m" head="16" dep="prep">trois</word>
+          <word id="18" lem="heure" postag="NC" morpho="g=f|n=p" head="17" dep="mod">heures</word>
+          <word id="19" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
+          <word id="20" lem="de_façon_à" postag="P" morpho="_" head="12" dep="mod">de_façon_à</word>
+          <word id="21" lem="assurer" postag="VINF" morpho="_" head="20" dep="prep">assurer</word>
+          <word id="22" lem="la" postag="DET" morpho="g=f|n=s" head="23" dep="det">la</word>
+          <word id="23" lem="stabilité" postag="NC" morpho="g=f|n=s" head="21" dep="obj">stabilité</word>
+          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="25" lem="l'" postag="DET" morpho="n=s" head="26" dep="det">l'</word>
+          <word id="26" lem="ouvrage" postag="NC" morpho="g=m|n=s" head="24" dep="prep">ouvrage</word>
+          <word id="27" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
+          <word id="28" lem="permettre" postag="VINF" morpho="_" head="27" dep="dep_coord">permettre</word>
+          <word id="29" lem="une" postag="DET" morpho="g=f|n=s" head="30" dep="det">une</word>
+          <word id="30" lem="évacuation" postag="NC" morpho="g=f|n=s" head="28" dep="obj">évacuation</word>
+          <word id="31" lem="en" postag="P" morpho="_" head="30" dep="dep">en</word>
+          <word id="32" lem="toute" postag="DET" morpho="g=f|n=s" head="33" dep="det">toute</word>
+          <word id="33" lem="sécurité" postag="NC" morpho="g=f|n=s" head="31" dep="prep">sécurité</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="largeur" postag="NC" morpho="g=f|n=s" head="16" dep="suj">largeur</word>
+        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+        <word id="4" lem="voie" postag="NC" morpho="g=f|n=p" head="3" dep="prep">voies</word>
+        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+        <word id="6" lem="circulation" postag="NC" morpho="g=f|n=p" head="5" dep="prep">circulations</word>
+        <word id="7" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+        <word id="8" lem="de" postag="P+D" morpho="n=p" head="7" dep="dep_coord">des</word>
+        <word id="9" lem="rampe" postag="NC" morpho="g=f|n=p" head="8" dep="prep">rampes</word>
+        <word id="10" lem="entre" postag="P" morpho="_" head="9" dep="dep">entre</word>
+        <word id="11" lem="mur" postag="NC" morpho="g=m|n=p" head="10" dep="prep">murs</word>
+        <word id="12" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
+        <word id="13" lem="/" postag="PONCT" morpho="_" head="12" dep="ponct">/</word>
+        <word id="14" lem="ou" postag="CC" morpho="_" head="12" dep="coord">ou</word>
+        <word id="15" lem="poteau" postag="NC" morpho="g=m|n=p" head="14" dep="dep_coord">poteaux</word>
+        <word id="16" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="17" lem="au_moins" postag="ADV" morpho="_" head="16" dep="mod">au_moins</word>
+        <word id="18" lem="de" postag="P" morpho="_" head="16" dep="ats">de</word>
+        <word id="19" lem=":" postag="PONCT" morpho="_" head="16" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">3,00</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="root">m</word>
+          <word id="3" lem="en_partie" postag="ADV" morpho="_" head="4" dep="mod">en_partie</word>
+          <word id="4" lem="droit" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">droite</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="sens" postag="NC" morpho="g=m" head="5" dep="prep">sens</word>
+          <word id="7" lem="unique" postag="ADJ" morpho="n=s" head="6" dep="mod">unique</word>
+          <word id="8" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="2" dep="mod">2.80</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">m</word>
+          <word id="11" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="13" lem="parc" postag="NC" morpho="g=m|n=p" head="11" dep="prep">parcs</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+          <word id="15" lem="stationnement" postag="NC" morpho="g=m|n=s" head="14" dep="prep">stationnement</word>
+          <word id="16" lem="priver" postag="ADJ" morpho="g=m|n=p|t=past" head="15" dep="mod">privés</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="18" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">5,50</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="root">m</word>
+          <word id="3" lem="en_partie" postag="ADV" morpho="_" head="4" dep="mod">en_partie</word>
+          <word id="4" lem="droit" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">droite</word>
+          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+          <word id="6" lem="double" postag="ADJ" morpho="n=s" head="7" dep="mod">double</word>
+          <word id="7" lem="sens" postag="NC" morpho="g=m" head="5" dep="prep">sens</word>
+          <word id="8" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="9" lem="#NUM#" postag="DET" morpho="n=p" head="10" dep="det">5</word>
+          <word id="10" lem="_" postag="NC" morpho="_" head="2" dep="mod">m</word>
+          <word id="11" lem="pour" postag="P" morpho="_" head="10" dep="dep">pour</word>
+          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="13" lem="parc" postag="NC" morpho="g=m|n=p" head="11" dep="prep">parcs</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+          <word id="15" lem="stationnement" postag="NC" morpho="g=m|n=s" head="14" dep="prep">stationnement</word>
+          <word id="16" lem="priver" postag="ADJ" morpho="g=m|n=p|t=past" head="15" dep="mod">privés</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="18" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">4,00</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">m</word>
+          <word id="3" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="4" lem="courbe" postag="NC" morpho="g=f|n=s" head="3" dep="prep">courbe</word>
+          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+          <word id="6" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="7" lem="sens" postag="NC" morpho="g=m" head="6" dep="prep">sens</word>
+          <word id="8" lem="unique" postag="ADJ" morpho="n=s" head="7" dep="mod">unique</word>
+          <word id="9" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">3,50</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">m</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="4" lem="voie" postag="NC" morpho="g=f|n=s" head="2" dep="mod">voie</word>
+          <word id="5" lem="intérieur" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">intérieure</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="7" lem="/" postag="PONCT" morpho="_" head="2" dep="ponct">/</word>
+          <word id="8" lem="#NUM#" postag="DET" morpho="n=p" head="9" dep="det">3,00</word>
+          <word id="9" lem="_" postag="NC" morpho="_" head="2" dep="mod">m</word>
+          <word id="10" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="11" lem="voie" postag="NC" morpho="g=f|n=s" head="2" dep="mod">voie</word>
+          <word id="12" lem="extérieur" postag="ADJ" morpho="g=f|n=s" head="11" dep="mod">extérieure</word>
+          <word id="13" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="14" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="15" lem="courbe" postag="NC" morpho="g=f|n=s" head="14" dep="prep">courbe</word>
+          <word id="16" lem="à" postag="P" morpho="_" head="15" dep="dep">à</word>
+          <word id="17" lem="double" postag="ADJ" morpho="n=s" head="18" dep="mod">double</word>
+          <word id="18" lem="sens" postag="NC" morpho="g=m" head="16" dep="prep">sens</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="équipement" postag="NC" morpho="g=m|n=s" head="0" dep="_">Équipement</word>
+        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+        <word id="3" lem="gestion" postag="NC" morpho="g=f|n=s" head="2" dep="prep">gestion</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="équipement" postag="NC" morpho="g=m|n=p" head="7" dep="suj">équipements</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="4" lem="gestion" postag="NC" morpho="g=f|n=s" head="3" dep="prep">gestion</word>
+        <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
+        <word id="6" lem="parking" postag="NC" morpho="g=m|n=p" head="5" dep="prep">parkings</word>
+        <word id="7" lem="aller" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">vont</word>
+        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">de</word>
+        <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+        <word id="10" lem="simple" postag="ADJ" morpho="n=s" head="11" dep="mod">simple</word>
+        <word id="11" lem="barrière" postag="NC" morpho="g=f|n=s" head="8" dep="prep">barrière</word>
+        <word id="12" lem="manuel" postag="ADJ" morpho="g=f|n=s" head="11" dep="mod">manuelle</word>
+        <word id="13" lem="à" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">au</word>
+        <word id="14" lem="système" postag="NC" morpho="g=m|n=p" head="13" dep="prep">systèmes</word>
+        <word id="15" lem="les" postag="DET" morpho="n=p" head="17" dep="det">les</word>
+        <word id="16" lem="plus" postag="ADV" morpho="_" head="17" dep="mod">plus</word>
+        <word id="17" lem="sophistiquer" postag="VPP" morpho="g=m|n=p|t=past" head="14" dep="mod">sophistiqués</word>
+        <word id="18" lem="avec" postag="P" morpho="_" head="17" dep="mod">avec</word>
+        <word id="19" lem="reconnaissance" postag="NC" morpho="g=f|n=s" head="18" dep="prep">reconnaissance</word>
+        <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
+        <word id="21" lem="plaque" postag="NC" morpho="g=f|n=s" head="20" dep="prep">plaque</word>
+        <word id="22" lem="minéralogique" postag="ADJ" morpho="n=s" head="21" dep="mod">minéralogique</word>
+        <word id="23" lem="et" postag="CC" morpho="_" head="19" dep="coord">et</word>
+        <word id="24" lem="gestion" postag="NC" morpho="g=f|n=s" head="23" dep="dep_coord">gestion</word>
+        <word id="25" lem="technique" postag="ADJ" morpho="n=s" head="24" dep="mod">technique</word>
+        <word id="26" lem="centraliser" postag="VPP" morpho="g=f|n=s|t=past" head="19" dep="mod">centralisée</word>
+        <word id="27" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+      </sentence>
+      <sentence id="3">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="3" dep="det">Les</word>
+        <word id="2" lem="principal" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">principaux</word>
+        <word id="3" lem="équipement" postag="NC" morpho="g=m|n=p" head="4" dep="suj">équipements</word>
+        <word id="4" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+        <word id="5" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="système" postag="NC" morpho="g=m|n=s" head="0" dep="_">système</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="péage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">péage</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="comprendre" postag="VPR" morpho="t=pst" head="0" dep="_">comprenant</word>
+          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
+          <word id="8" lem="barrière" postag="NC" morpho="g=f|n=p" head="6" dep="obj">barrières</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">d'</word>
+          <word id="10" lem="entrée" postag="NC" morpho="g=f|n=s" head="9" dep="prep">entrée</word>
+          <word id="11" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep_coord">de</word>
+          <word id="13" lem="sortie" postag="NC" morpho="g=f|n=s" head="12" dep="prep">sortie</word>
+          <word id="14" lem="ainsi_que" postag="CC" morpho="_" head="8" dep="coord">ainsi_que</word>
+          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
+          <word id="16" lem="caisse" postag="NC" morpho="g=f|n=p" head="14" dep="dep">caisses</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
+          <word id="18" lem="péage" postag="NC" morpho="g=m|n=s" head="17" dep="prep">péage</word>
+          <word id="19" lem="à" postag="P" morpho="_" head="18" dep="dep">à</word>
+          <word id="20" lem="pied" postag="NC" morpho="n=p" head="19" dep="prep">pieds</word>
+          <word id="21" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
+          <word id="22" lem="l'" postag="DET" morpho="n=s" head="23" dep="det">l'</word>
+          <word id="23" lem="unité" postag="NC" morpho="g=f|n=s" head="21" dep="dep_coord">unité</word>
+          <word id="24" lem="central" postag="ADJ" morpho="g=f|n=s" head="23" dep="mod">centrale</word>
+          <word id="25" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="26" lem="gestion" postag="NC" morpho="g=f|n=s" head="25" dep="prep">gestion</word>
+          <word id="27" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="système" postag="NC" morpho="g=m|n=p" head="4" dep="suj">systèmes</word>
+          <word id="3" lem="moderne" postag="ADJ" morpho="n=p" head="2" dep="mod">modernes</word>
+          <word id="4" lem="accepter" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">acceptent</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="paiement" postag="NC" morpho="g=m|n=s" head="4" dep="obj">paiement</word>
+          <word id="7" lem="en" postag="P" morpho="_" head="6" dep="dep">en</word>
+          <word id="8" lem="espèce" postag="NC" morpho="g=f|n=p" head="7" dep="prep">espèces</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="10" lem="par" postag="P" morpho="_" head="4" dep="mod">par</word>
+          <word id="11" lem="carte" postag="NC" morpho="g=f|n=p" head="10" dep="prep">cartes</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
+          <word id="13" lem="crédit" postag="NC" morpho="g=m|n=s" head="12" dep="prep">crédit</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="15" lem="par" postag="P" morpho="_" head="4" dep="mod">par</word>
+          <word id="16" lem="carte" postag="NC" morpho="g=f|n=p" head="15" dep="prep">cartes</word>
+          <word id="17" lem="privatif" postag="ADJ" morpho="g=f|n=p" head="16" dep="mod">privatives</word>
+          <word id="18" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
+          <word id="19" lem="compagnie" postag="NC" morpho="g=f|n=p" head="4" dep="mod">compagnies</word>
+          <word id="20" lem="pétrolier" postag="ADJ" morpho="g=f|n=p" head="19" dep="mod">pétrolières</word>
+          <word id="21" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="22" lem="grand" postag="ADJ" morpho="g=m|n=p" head="23" dep="mod">grands</word>
+          <word id="23" lem="magasin" postag="NC" morpho="g=m|n=p" head="4" dep="mod">magasins</word>
+          <word id="24" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="25" lem="_" postag="ADV" morpho="_" head="4" dep="mod">etc.</word>
+          <word id="26" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="27" lem="par" postag="P" morpho="_" head="4" dep="mod">par</word>
+          <word id="28" lem="_" postag="NC" morpho="_" head="27" dep="prep">transpondeurs</word>
+          <word id="29" lem="autoroutier" postag="ADJ" morpho="g=m|n=p" head="28" dep="mod">autoroutiers</word>
+          <word id="30" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
+          <word id="31" lem="accepter" postag="V" morpho="n=p|p=3|t=fut" head="30" dep="dep_coord">accepteront</word>
+          <word id="32" lem="dans" postag="P" morpho="_" head="31" dep="mod">dans</word>
+          <word id="33" lem="un" postag="DET" morpho="g=m|n=s" head="34" dep="det">un</word>
+          <word id="34" lem="avenir" postag="NC" morpho="g=m|n=s" head="32" dep="prep">avenir</word>
+          <word id="35" lem="très" postag="ADV" morpho="_" head="36" dep="mod">très</word>
+          <word id="36" lem="proche" postag="ADJ" morpho="n=s" head="34" dep="mod">proche</word>
+          <word id="37" lem="le" postag="DET" morpho="g=m|n=s" head="38" dep="det">le</word>
+          <word id="38" lem="paiement" postag="NC" morpho="g=m|n=s" head="31" dep="obj">paiement</word>
+          <word id="39" lem="par" postag="P" morpho="_" head="38" dep="dep">par</word>
+          <word id="40" lem="téléphone" postag="NC" morpho="g=m|n=s" head="39" dep="prep">téléphone</word>
+          <word id="41" lem="portable" postag="ADJ" morpho="n=s" head="40" dep="mod">portable</word>
+          <word id="42" lem="ou" postag="CC" morpho="_" head="4" dep="coord">ou</word>
+          <word id="43" lem="étiqueter" postag="V" morpho="n=s|p=13|t=pst" head="42" dep="dep_coord">étiquette</word>
+          <word id="44" lem="_" postag="NPP" morpho="_" head="43" dep="obj">RFID</word>
+          <word id="45" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="gestion" postag="NC" morpho="g=f|n=s" head="8" dep="suj">gestion</word>
+          <word id="3" lem="technique" postag="ADJ" morpho="n=s" head="2" dep="mod">technique</word>
+          <word id="4" lem="centraliser" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">centralisée</word>
+          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="2" dep="mod">GTC</word>
+          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="8" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">permet</word>
+          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
+          <word id="10" lem="pilotage" postag="NC" morpho="g=m|n=s" head="8" dep="obj">pilotage</word>
+          <word id="11" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
+          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
+          <word id="13" lem="surveillance" postag="NC" morpho="g=f|n=s" head="11" dep="dep_coord">surveillance</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+          <word id="15" lem="l'" postag="DET" morpho="n=s" head="16" dep="det">l'</word>
+          <word id="16" lem="ensemble" postag="NC" morpho="g=m|n=s" head="14" dep="prep">ensemble</word>
+          <word id="17" lem="de" postag="P+D" morpho="n=p" head="16" dep="dep">des</word>
+          <word id="18" lem="équipement" postag="NC" morpho="g=m|n=p" head="17" dep="prep">équipements</word>
+          <word id="19" lem="technique" postag="ADJ" morpho="n=p" head="18" dep="mod">techniques</word>
+          <word id="20" lem="(" postag="PONCT" morpho="_" head="18" dep="ponct">(</word>
+          <word id="21" lem="éclairage" postag="NC" morpho="g=m|n=s" head="18" dep="mod">éclairage</word>
+          <word id="22" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
+          <word id="23" lem="ventilation" postag="NC" morpho="g=f|n=s" head="18" dep="mod">ventilation</word>
+          <word id="24" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
+          <word id="25" lem="détection" postag="NC" morpho="g=f|n=s" head="18" dep="mod">détection</word>
+          <word id="26" lem="incendie" postag="NC" morpho="g=m|n=s" head="25" dep="mod">incendie</word>
+          <word id="27" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="28" lem="détection" postag="NC" morpho="g=f|n=s" head="8" dep="mod">détection</word>
+          <word id="29" lem="_" postag="NPP" morpho="_" head="28" dep="mod">CO</word>
+          <word id="30" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="31" lem="alarme" postag="NC" morpho="g=f|n=p" head="8" dep="mod">alarmes</word>
+          <word id="32" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="33" lem="_" postag="ADV" morpho="_" head="8" dep="mod">etc.</word>
+          <word id="34" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="35" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="constituer" postag="VPP" morpho="g=f|n=s|t=past" head="21" dep="mod">Constituée</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="de_obj">d'</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="réseau" postag="NC" morpho="g=m|n=s" head="2" dep="prep">réseau</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="point" postag="NC" morpho="g=m|n=p" head="5" dep="prep">points</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
+          <word id="8" lem="auscultation" postag="NC" morpho="g=f|n=s" head="7" dep="prep">auscultation</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
+          <word id="10" lem="plus" postag="ADV" morpho="_" head="12" dep="mod">plus</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="12" dep="det">de</word>
+          <word id="12" lem="_" postag="NC" morpho="_" head="4" dep="mod">1000</word>
+          <word id="13" lem="dans" postag="P" morpho="_" head="1" dep="mod">dans</word>
+          <word id="14" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
+          <word id="15" lem="grand" postag="ADJ" morpho="g=m|n=p" head="16" dep="mod">grands</word>
+          <word id="16" lem="parking" postag="NC" morpho="g=m|n=p" head="13" dep="prep">parkings</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
+          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
+          <word id="20" lem="_" postag="NPP" morpho="_" head="21" dep="suj">GTC</word>
+          <word id="21" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="22" lem="le" postag="DET" morpho="g=m|n=s" head="23" dep="det">le</word>
+          <word id="23" lem="centre" postag="NC" morpho="g=m|n=s" head="21" dep="ats">centre</word>
+          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="25" lem="contrôle" postag="NC" morpho="g=m|n=s" head="24" dep="prep">contrôle</word>
+          <word id="26" lem="opérationnel" postag="ADJ" morpho="g=m|n=s" head="25" dep="mod">opérationnel</word>
+          <word id="27" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
+          <word id="28" lem="retracer" postag="V" morpho="n=s|p=13|t=pst" head="27" dep="dep_coord">retrace</word>
+          <word id="29" lem="l'" postag="DET" morpho="n=s" head="30" dep="det">l'</word>
+          <word id="30" lem="ensemble" postag="NC" morpho="g=m|n=s" head="28" dep="obj">ensemble</word>
+          <word id="31" lem="de" postag="P+D" morpho="n=p" head="30" dep="dep">des</word>
+          <word id="32" lem="_" postag="NC" morpho="_" head="31" dep="prep">évènements</word>
+          <word id="33" lem="qui" postag="PROREL" morpho="n=s" head="34" dep="suj">qui</word>
+          <word id="34" lem="affecter" postag="V" morpho="n=p|p=3|t=pst" head="30" dep="mod_rel">affectent</word>
+          <word id="35" lem="le" postag="DET" morpho="g=m|n=s" head="36" dep="det">le</word>
+          <word id="36" lem="parking" postag="NC" morpho="g=m|n=s" head="34" dep="obj">parking</word>
+          <word id="37" lem="." postag="PONCT" morpho="_" head="21" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="vidéosurveillance" postag="NC" morpho="g=f|n=s" head="11" dep="suj">vidéosurveillance</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="4" lem="interfacer" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">interfacée</word>
+          <word id="5" lem="ou" postag="CC" morpho="_" head="4" dep="coord">ou</word>
+          <word id="6" lem="non" postag="ADV" morpho="_" head="5" dep="dep_coord">non</word>
+          <word id="7" lem="avec" postag="P" morpho="_" head="4" dep="mod">avec</word>
+          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="prep">GTC</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="11" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">permet</word>
+          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
+          <word id="13" lem="contrôle" postag="NC" morpho="g=m|n=s" head="11" dep="obj">contrôle</word>
+          <word id="14" lem="visuel" postag="ADJ" morpho="g=m|n=s" head="13" dep="mod">visuel</word>
+          <word id="15" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+          <word id="16" lem="parking" postag="NC" morpho="g=m|n=s" head="15" dep="prep">parking</word>
+          <word id="17" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
+          <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
+          <word id="19" lem="levée" postag="NC" morpho="g=f|n=s" head="17" dep="dep_coord">levée</word>
+          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
+          <word id="21" lem="doute" postag="NC" morpho="g=m|n=s" head="20" dep="prep">doute</word>
+          <word id="22" lem="en_cas_de" postag="P" morpho="_" head="11" dep="mod">en_cas_d'</word>
+          <word id="23" lem="incident" postag="NC" morpho="g=m|n=s" head="22" dep="prep">incident</word>
+          <word id="24" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="en" postag="P" morpho="_" head="12" dep="mod">En</word>
+          <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
+          <word id="3" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+          <word id="4" lem="dans" postag="P" morpho="_" head="3" dep="dep_coord">dans</word>
+          <word id="5" lem="de" postag="DET" morpho="n=p" head="7" dep="det">de</word>
+          <word id="6" lem="nombreux" postag="ADJ" morpho="g=m" head="7" dep="mod">nombreux</word>
+          <word id="7" lem="pays" postag="NC" morpho="g=m" head="4" dep="prep">pays</word>
+          <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
+          <word id="9" lem="condition" postag="NC" morpho="g=f|n=p" head="4" dep="prep">conditions</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
+          <word id="11" lem="enregistrement" postag="NC" morpho="g=m|n=s" head="10" dep="prep">enregistrement</word>
+          <word id="12" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="13" lem="réglementer" postag="VPP" morpho="g=f|n=p|t=past" head="12" dep="ats">réglementées</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="3" dep="suj">interphonie</word>
+          <word id="3" lem="relier" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">relie</word>
+          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+          <word id="5" lem="ensemble" postag="NC" morpho="g=m|n=s" head="3" dep="obj">ensemble</word>
+          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="7" lem="point" postag="NC" morpho="g=m|n=p" head="6" dep="prep">points</word>
+          <word id="8" lem="névralgique" postag="ADJ" morpho="n=p" head="7" dep="mod">névralgiques</word>
+          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
+          <word id="10" lem="parking" postag="NC" morpho="g=m|n=s" head="9" dep="prep">parking</word>
+          <word id="11" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
+          <word id="12" lem="ascenseur" postag="NC" morpho="g=m|n=p" head="7" dep="mod">ascenseurs</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="14" lem="caisse" postag="NC" morpho="g=f|n=p" head="3" dep="mod">caisses</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="16" lem="sortir" postag="VPP" morpho="g=f|n=p|t=past" head="3" dep="mod">sorties</word>
+          <word id="17" lem="piéton" postag="NC" morpho="g=m|n=p" head="16" dep="mod">piétons</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="19" lem="barrière" postag="NC" morpho="g=f|n=p" head="3" dep="mod">barrières</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="21" lem="_" postag="ADV" morpho="_" head="3" dep="mod">etc.</word>
+          <word id="22" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+          <word id="23" lem="avec" postag="P" morpho="_" head="3" dep="mod">avec</word>
+          <word id="24" lem="le" postag="DET" morpho="g=m|n=s" head="25" dep="det">le</word>
+          <word id="25" lem="poste" postag="NC" morpho="n=s" head="23" dep="prep">poste</word>
+          <word id="26" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
+          <word id="27" lem="gestion" postag="NC" morpho="g=f|n=s" head="26" dep="prep">gestion</word>
+          <word id="28" lem="situer" postag="VPP" morpho="g=m|n=s|t=past" head="25" dep="mod">situé</word>
+          <word id="29" lem="dans" postag="P" morpho="_" head="28" dep="mod">dans</word>
+          <word id="30" lem="l'" postag="DET" morpho="n=s" head="31" dep="det">l'</word>
+          <word id="31" lem="ouvrage" postag="NC" morpho="g=m|n=s" head="29" dep="prep">ouvrage</word>
+          <word id="32" lem="ou" postag="CC" morpho="_" head="28" dep="coord">ou</word>
+          <word id="33" lem="déporter" postag="VPP" morpho="g=m|n=s|t=past" head="32" dep="dep_coord">déporté</word>
+          <word id="34" lem="dans" postag="P" morpho="_" head="33" dep="mod">dans</word>
+          <word id="35" lem="un" postag="DET" morpho="g=m|n=s" head="36" dep="det">un</word>
+          <word id="36" lem="_" postag="NC" morpho="_" head="34" dep="prep">PC</word>
+          <word id="37" lem="spécialiser" postag="ADJ" morpho="g=m|n=s|t=past" head="36" dep="mod">spécialisé</word>
+          <word id="38" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="système" postag="NC" morpho="g=m|n=p" head="25" dep="suj">systèmes</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="détection" postag="NC" morpho="g=f|n=s" head="3" dep="prep">détection</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="présence" postag="NC" morpho="g=f|n=s" head="5" dep="prep">présence</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="véhicule" postag="NC" morpho="g=m|n=p" head="7" dep="prep">véhicules</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="10" lem="interfacer" postag="VPP" morpho="g=f|n=p|t=past" head="2" dep="mod">interfacées</word>
+          <word id="11" lem="avec" postag="P" morpho="_" head="10" dep="mod">avec</word>
+          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
+          <word id="13" lem="_" postag="NPP" morpho="_" head="11" dep="prep">GTC</word>
+          <word id="14" lem="ou" postag="CC" morpho="_" head="11" dep="coord">ou</word>
+          <word id="15" lem="en" postag="P" morpho="_" head="14" dep="dep_coord">en</word>
+          <word id="16" lem="boucle" postag="NC" morpho="g=f|n=s" head="15" dep="prep">boucle</word>
+          <word id="17" lem="fermer" postag="ADJ" morpho="g=f|n=s|t=past" head="16" dep="mod">fermée</word>
+          <word id="18" lem="avec" postag="P" morpho="_" head="10" dep="mod">avec</word>
+          <word id="19" lem="un" postag="DET" morpho="g=m|n=s" head="20" dep="det">un</word>
+          <word id="20" lem="système" postag="NC" morpho="g=m|n=s" head="18" dep="prep">système</word>
+          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
+          <word id="22" lem="guidage" postag="NC" morpho="g=m|n=s" head="21" dep="prep">guidage</word>
+          <word id="23" lem="électronique" postag="ADJ" morpho="n=s" head="22" dep="mod">électronique</word>
+          <word id="24" lem="," postag="PONCT" morpho="_" head="25" dep="ponct">,</word>
+          <word id="25" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">permet</word>
+          <word id="26" lem="le" postag="DET" morpho="g=m|n=s" head="27" dep="det">le</word>
+          <word id="27" lem="guidage" postag="NC" morpho="g=m|n=s" head="25" dep="obj">guidage</word>
+          <word id="28" lem="de" postag="P+D" morpho="n=p" head="27" dep="dep">des</word>
+          <word id="29" lem="visiteur" postag="NC" morpho="g=m|n=p" head="28" dep="prep">visiteurs</word>
+          <word id="30" lem="dès" postag="P" morpho="_" head="25" dep="mod">dès</word>
+          <word id="31" lem="l'" postag="DET" morpho="n=s" head="32" dep="det">l'</word>
+          <word id="32" lem="entrée" postag="NC" morpho="g=f|n=s" head="30" dep="prep">entrée</word>
+          <word id="33" lem="de" postag="P+D" morpho="g=m|n=s" head="32" dep="dep">du</word>
+          <word id="34" lem="parking" postag="NC" morpho="g=m|n=s" head="33" dep="prep">parking</word>
+          <word id="35" lem="(" postag="PONCT" morpho="_" head="25" dep="ponct">(</word>
+          <word id="36" lem="nombre" postag="NC" morpho="g=m|n=s" head="25" dep="mod">nombre</word>
+          <word id="37" lem="de" postag="P" morpho="_" head="36" dep="dep">de</word>
+          <word id="38" lem="place" postag="NC" morpho="g=f|n=p" head="37" dep="prep">places</word>
+          <word id="39" lem="disponible" postag="ADJ" morpho="n=p" head="38" dep="mod">disponibles</word>
+          <word id="40" lem=")" postag="PONCT" morpho="_" head="25" dep="ponct">)</word>
+          <word id="41" lem="et" postag="CC" morpho="_" head="25" dep="coord">et</word>
+          <word id="42" lem="à" postag="P" morpho="_" head="41" dep="dep_coord">à</word>
+          <word id="43" lem="l'" postag="DET" morpho="n=s" head="44" dep="det">l'</word>
+          <word id="44" lem="intérieur" postag="NC" morpho="g=m|n=s" head="42" dep="prep">intérieur</word>
+          <word id="45" lem="de" postag="P+D" morpho="g=m|n=s" head="44" dep="dep">du</word>
+          <word id="46" lem="parking" postag="NC" morpho="g=m|n=s" head="45" dep="prep">parking</word>
+          <word id="47" lem="(" postag="PONCT" morpho="_" head="25" dep="ponct">(</word>
+          <word id="48" lem="nombre" postag="NC" morpho="g=m|n=s" head="25" dep="mod">nombre</word>
+          <word id="49" lem="de" postag="P" morpho="_" head="48" dep="dep">de</word>
+          <word id="50" lem="place" postag="NC" morpho="g=f|n=p" head="49" dep="prep">places</word>
+          <word id="51" lem="disponible" postag="ADJ" morpho="n=p" head="50" dep="mod">disponibles</word>
+          <word id="52" lem="par" postag="P" morpho="_" head="48" dep="dep">par</word>
+          <word id="53" lem="étage" postag="NC" morpho="g=m|n=s" head="52" dep="prep">étage</word>
+          <word id="54" lem="et" postag="CC" morpho="_" head="48" dep="coord">et</word>
+          <word id="55" lem="zone" postag="NC" morpho="g=f|n=p" head="54" dep="dep_coord">zones</word>
+          <word id="56" lem="de" postag="P" morpho="_" head="55" dep="dep">de</word>
+          <word id="57" lem="disponibilité" postag="NC" morpho="g=f|n=s" head="56" dep="prep">disponibilité</word>
+          <word id="58" lem=")" postag="PONCT" morpho="_" head="25" dep="ponct">)</word>
+          <word id="59" lem="que" postag="CS" morpho="_" head="25" dep="mod">qu'</word>
+          <word id="60" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="61" dep="suj">il</word>
+          <word id="61" lem="être" postag="VS" morpho="n=s|p=3|t=pst" head="59" dep="sub">soit</word>
+          <word id="62" lem="en" postag="P" morpho="_" head="61" dep="ats">en</word>
+          <word id="63" lem="ouvrage" postag="NC" morpho="g=m|n=s" head="62" dep="prep">ouvrage</word>
+          <word id="64" lem="ou" postag="CC" morpho="_" head="62" dep="coord">ou</word>
+          <word id="65" lem="en" postag="P" morpho="_" head="64" dep="dep_coord">en</word>
+          <word id="66" lem="surface" postag="NC" morpho="g=f|n=s" head="65" dep="prep">surface</word>
+          <word id="67" lem="." postag="PONCT" morpho="_" head="25" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="5">
+      <sentence id="1">
+        <word id="1" lem="deux" postag="ADJ" morpho="n=p" head="2" dep="mod">Deux</word>
+        <word id="2" lem="système" postag="NC" morpho="g=m|n=p" head="3" dep="suj">systèmes</word>
+        <word id="3" lem="exister" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">existent</word>
+        <word id="4" lem="_" postag="ADV" morpho="_" head="3" dep="mod">actuellementoù</word>
+        <word id="5" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="5">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">Le</word>
+          <word id="2" lem="plus" postag="ADV" morpho="_" head="3" dep="mod">plus</word>
+          <word id="3" lem="fiable" postag="ADJ" morpho="n=s" head="0" dep="_">fiable</word>
+          <word id="4" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+          <word id="5" lem="efficace" postag="ADJ" morpho="n=s" head="4" dep="dep_coord">efficace</word>
+          <word id="6" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">Des</word>
+          <word id="8" lem="capteur" postag="NC" morpho="g=m|n=p" head="0" dep="_">capteurs</word>
+          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="dep">à</word>
+          <word id="10" lem="ultrason" postag="NC" morpho="g=m|n=p" head="9" dep="prep">ultrasons</word>
+          <word id="11" lem="placer" postag="VPP" morpho="g=m|n=p|t=past" head="10" dep="mod">placés</word>
+          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
+          <word id="13" lem="hauteur" postag="NC" morpho="g=f|n=s" head="12" dep="prep">hauteur</word>
+          <word id="14" lem="au_dessus_de" postag="P+D" morpho="n=p" head="11" dep="mod">au_dessus_des</word>
+          <word id="15" lem="place" postag="NC" morpho="g=f|n=p" head="14" dep="prep">places</word>
+          <word id="16" lem="avec" postag="P" morpho="_" head="11" dep="mod">avec</word>
+          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
+          <word id="18" lem="voyant" postag="NC" morpho="g=m|n=s" head="16" dep="prep">voyant</word>
+          <word id="19" lem="lumineux" postag="ADJ" morpho="g=m" head="18" dep="mod">lumineux</word>
+          <word id="20" lem="à" postag="P" morpho="_" head="18" dep="dep">à</word>
+          <word id="21" lem="diode" postag="NC" morpho="g=f|n=p" head="20" dep="prep">diodes</word>
+          <word id="22" lem="_" postag="NPP" morpho="_" head="21" dep="mod">LED</word>
+          <word id="23" lem="devant" postag="P" morpho="_" head="11" dep="mod">devant</word>
+          <word id="24" lem="chaque" postag="DET" morpho="n=s" head="25" dep="det">chaque</word>
+          <word id="25" lem="place" postag="NC" morpho="g=f|n=s" head="23" dep="prep">place</word>
+          <word id="26" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="27" lem="qui" postag="PROREL" morpho="n=s" head="28" dep="suj">qui</word>
+          <word id="28" lem="indiquer" postag="V" morpho="n=s|p=13|t=pst" head="8" dep="mod_rel">indique</word>
+          <word id="29" lem="à" postag="P+D" morpho="n=p" head="28" dep="mod">aux</word>
+          <word id="30" lem="usager" postag="NC" morpho="g=m|n=p" head="29" dep="prep">usagers</word>
+          <word id="31" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="32" lem="en" postag="P" morpho="_" head="28" dep="mod">en</word>
+          <word id="33" lem="temps" postag="NC" morpho="g=m" head="32" dep="prep">temps</word>
+          <word id="34" lem="réel" postag="ADJ" morpho="g=m|n=s" head="33" dep="mod">réel</word>
+          <word id="35" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="36" lem="les" postag="DET" morpho="n=p" head="37" dep="det">les</word>
+          <word id="37" lem="place" postag="NC" morpho="g=f|n=p" head="28" dep="obj">places</word>
+          <word id="38" lem="disponible" postag="ADJ" morpho="n=p" head="37" dep="mod">disponibles</word>
+          <word id="39" lem="(" postag="PONCT" morpho="_" head="28" dep="ponct">(</word>
+          <word id="40" lem="voyant" postag="NC" morpho="g=m|n=s" head="28" dep="mod">voyant</word>
+          <word id="41" lem="vert" postag="ADJ" morpho="g=m|n=s" head="40" dep="mod">vert</word>
+          <word id="42" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="43" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="44" lem="occuper" postag="VPP" morpho="g=f|n=p|t=past" head="43" dep="dep_coord">occupées</word>
+          <word id="45" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
+          <word id="46" lem="voyant" postag="NC" morpho="g=m|n=s" head="8" dep="mod">voyant</word>
+          <word id="47" lem="rouge" postag="ADJ" morpho="n=s" head="46" dep="mod">rouge</word>
+          <word id="48" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="49" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="cette" postag="DET" morpho="g=f|n=s" head="2" dep="det">Cette</word>
+          <word id="2" lem="technologie" postag="NC" morpho="g=f|n=s" head="3" dep="suj">technologie</word>
+          <word id="3" lem="rester" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">reste</word>
+          <word id="4" lem="aujourd'hui" postag="ADV" morpho="_" head="3" dep="mod">aujourd'hui</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="ats">de</word>
+          <word id="6" lem="loin" postag="ADV" morpho="_" head="9" dep="mod">loin</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
+          <word id="8" lem="plus" postag="ADV" morpho="_" head="9" dep="mod">plus</word>
+          <word id="9" lem="fiable" postag="ADJ" morpho="n=s" head="5" dep="prep">fiable</word>
+          <word id="10" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
+          <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
+          <word id="12" lem="parking" postag="NC" morpho="g=m|n=s" head="10" dep="prep">parking</word>
+          <word id="13" lem="couvrir" postag="VPP" morpho="g=m|n=p|t=past" head="12" dep="mod">couverts</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="pour_que" postag="CS" morpho="_" head="14" dep="mod">Pour_que</word>
+          <word id="2" lem="ce" postag="DET" morpho="g=m|n=s" head="3" dep="det">ce</word>
+          <word id="3" lem="système" postag="NC" morpho="g=m|n=s" head="4" dep="suj">système</word>
+          <word id="4" lem="être" postag="VS" morpho="n=s|p=3|t=pst" head="1" dep="sub">soit</word>
+          <word id="5" lem="efficace" postag="ADJ" morpho="n=s" head="4" dep="ats">efficace</word>
+          <word id="6" lem="pour" postag="P" morpho="_" head="4" dep="mod">pour</word>
+          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
+          <word id="8" lem="usager" postag="NC" morpho="g=m|n=p" head="6" dep="prep">usagers</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
+          <word id="11" lem="voyant" postag="NC" morpho="g=m|n=p" head="4" dep="mod">voyants</word>
+          <word id="12" lem="à" postag="P" morpho="_" head="11" dep="dep">à</word>
+          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="prep">LED</word>
+          <word id="14" lem="devoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">doivent</word>
+          <word id="15" lem="être" postag="VINF" morpho="_" head="14" dep="obj">être</word>
+          <word id="16" lem="à" postag="P" morpho="_" head="15" dep="mod">à</word>
+          <word id="17" lem="haut" postag="ADJ" morpho="g=f|n=s" head="18" dep="mod">haute</word>
+          <word id="18" lem="luminosité" postag="NC" morpho="g=f|n=s" head="16" dep="prep">luminosité</word>
+          <word id="19" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
+          <word id="20" lem="_" postag="NC" morpho="_" head="19" dep="dep_coord">omnidirectionnels</word>
+          <word id="21" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
+          <word id="22" lem="visible" postag="NC" morpho="g=m|n=p" head="14" dep="mod">visibles</word>
+          <word id="23" lem="sur" postag="P" morpho="_" head="22" dep="dep">sur</word>
+          <word id="24" lem="#NUM#" postag="DET" morpho="n=p" head="25" dep="det">360</word>
+          <word id="25" lem="°" postag="NC" morpho="g=m" head="23" dep="prep">°</word>
+          <word id="26" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
+          <word id="27" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
+          <word id="28" lem="pour" postag="P" morpho="_" head="27" dep="dep_coord">pour</word>
+          <word id="29" lem="être" postag="VINF" morpho="_" head="28" dep="prep">être</word>
+          <word id="30" lem="bien" postag="ADV" morpho="_" head="31" dep="mod">bien</word>
+          <word id="31" lem="visible" postag="ADJ" morpho="n=p" head="29" dep="ats">visibles</word>
+          <word id="32" lem="dans" postag="P" morpho="_" head="29" dep="mod">dans</word>
+          <word id="33" lem="tout" postag="ADJ" morpho="g=m|n=s" head="35" dep="mod">tout</word>
+          <word id="34" lem="le" postag="DET" morpho="g=m|n=s" head="35" dep="det">le</word>
+          <word id="35" lem="parking" postag="NC" morpho="g=m|n=s" head="32" dep="prep">parking</word>
+          <word id="36" lem="." postag="PONCT" morpho="_" head="14" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="montage" postag="NC" morpho="g=m|n=s" head="5" dep="suj">montage</word>
+          <word id="3" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="4" lem="hauteur" postag="NC" morpho="g=f|n=s" head="3" dep="prep">hauteur</word>
+          <word id="5" lem="éviter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">évite</word>
+          <word id="6" lem="aussi" postag="ADV" morpho="_" head="5" dep="mod">aussi</word>
+          <word id="7" lem="tout" postag="ADJ" morpho="g=m|n=s" head="8" dep="suj">tout</word>
+          <word id="8" lem="risquer" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="mod">risque</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="obj">de</word>
+          <word id="10" lem="choc" postag="NC" morpho="g=m|n=p" head="9" dep="prep">chocs</word>
+          <word id="11" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep_coord">de</word>
+          <word id="13" lem="vandalisme" postag="NC" morpho="g=m|n=s" head="12" dep="prep">vandalisme</word>
+          <word id="14" lem="sur" postag="P" morpho="_" head="8" dep="mod">sur</word>
+          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
+          <word id="16" lem="équipement" postag="NC" morpho="g=m|n=p" head="14" dep="prep">équipements</word>
+          <word id="17" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="dans" postag="P" morpho="_" head="0" dep="_">Dans</word>
+          <word id="2" lem="des" postag="DET" morpho="n=p" head="3" dep="det">des</word>
+          <word id="3" lem="cas" postag="NC" morpho="g=m" head="1" dep="prep">cas</word>
+          <word id="4" lem="très" postag="ADV" morpho="_" head="5" dep="mod">très</word>
+          <word id="5" lem="particulier" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">particuliers</word>
+          <word id="6" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">Des</word>
+          <word id="8" lem="capteur" postag="NC" morpho="g=m|n=p" head="0" dep="_">capteurs</word>
+          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="dep">à</word>
+          <word id="10" lem="induction" postag="NC" morpho="g=f|n=s" head="9" dep="prep">induction</word>
+          <word id="11" lem="magnétique" postag="ADJ" morpho="n=s" head="10" dep="mod">magnétique</word>
+          <word id="12" lem="placer" postag="VPP" morpho="g=m|n=p|t=past" head="8" dep="mod">placés</word>
+          <word id="13" lem="à" postag="P+D" morpho="g=m|n=s" head="12" dep="a_obj">au</word>
+          <word id="14" lem="sol" postag="NC" morpho="g=m|n=p" head="13" dep="prep">sol</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="16" lem="qui" postag="PROREL" morpho="n=s" head="17" dep="suj">qui</word>
+          <word id="17" lem="transmettre" postag="V" morpho="n=p|p=3|t=pst" head="8" dep="mod_rel">transmettent</word>
+          <word id="18" lem="l'" postag="DET" morpho="n=s" head="19" dep="det">l'</word>
+          <word id="19" lem="information" postag="NC" morpho="g=f|n=s" head="17" dep="obj">information</word>
+          <word id="20" lem="par" postag="P" morpho="_" head="19" dep="dep">par</word>
+          <word id="21" lem="_" postag="NC" morpho="_" head="20" dep="prep">radio-fréquence</word>
+          <word id="22" lem="former" postag="VPR" morpho="t=pst" head="21" dep="mod">formant</word>
+          <word id="23" lem="un" postag="DET" morpho="g=m|n=s" head="24" dep="det">un</word>
+          <word id="24" lem="réseau" postag="NC" morpho="g=m|n=s" head="22" dep="obj">réseau</word>
+          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">de</word>
+          <word id="26" lem="capteur" postag="NC" morpho="g=m|n=p" head="25" dep="prep">capteurs</word>
+          <word id="27" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="technologie" postag="NC" morpho="g=f|n=s" head="10" dep="suj">technologie</word>
+          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="mod">RFID</word>
+          <word id="4" lem="sur" postag="P" morpho="_" head="6" dep="mod">sur</word>
+          <word id="5" lem="lequel" postag="PROREL" morpho="g=f|n=s" head="4" dep="prep">laquelle</word>
+          <word id="6" lem="reposer" postag="V" morpho="n=s|p=13|t=pst" head="3" dep="mod_rel">repose</word>
+          <word id="7" lem="ce" postag="DET" morpho="g=m|n=s" head="8" dep="det">ce</word>
+          <word id="8" lem="système" postag="NC" morpho="g=m|n=s" head="6" dep="suj">système</word>
+          <word id="9" lem="sans-fil" postag="NC" morpho="g=m|n=s" head="8" dep="mod">sans-fil</word>
+          <word id="10" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">permet</word>
+          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
+          <word id="12" lem="comptage" postag="NC" morpho="g=m|n=s" head="10" dep="obj">comptage</word>
+          <word id="13" lem="dans" postag="P" morpho="_" head="10" dep="mod">dans</word>
+          <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
+          <word id="15" lem="parking" postag="NC" morpho="g=m|n=p" head="13" dep="prep">parkings</word>
+          <word id="16" lem="à" postag="P" morpho="_" head="10" dep="a_obj">à</word>
+          <word id="17" lem="l'" postag="DET" morpho="n=s" head="18" dep="det">l'</word>
+          <word id="18" lem="extérieur" postag="NC" morpho="g=m|n=s" head="16" dep="prep">extérieur</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="cette" postag="DET" morpho="g=f|n=s" head="2" dep="det">Cette</word>
+          <word id="2" lem="solution" postag="NC" morpho="g=f|n=s" head="3" dep="suj">solution</word>
+          <word id="3" lem="éviter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">évite</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="partie" postag="NC" morpho="g=f|n=s" head="3" dep="obj">partie</word>
+          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="7" lem="câblage" postag="NC" morpho="g=m|n=p" head="6" dep="prep">câblages</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="9" lem="mais" postag="CC" morpho="_" head="3" dep="coord">mais</word>
+          <word id="10" lem="ne" postag="ADV" morpho="_" head="11" dep="mod">ne</word>
+          <word id="11" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="dep_coord">permet</word>
+          <word id="12" lem="pas" postag="ADV" morpho="_" head="11" dep="mod">pas</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="11" dep="obj">d'</word>
+          <word id="14" lem="indiquer" postag="VINF" morpho="_" head="13" dep="prep">indiquer</word>
+          <word id="15" lem="à" postag="P+D" morpho="n=p" head="14" dep="a_obj">aux</word>
+          <word id="16" lem="usager" postag="NC" morpho="g=m|n=p" head="15" dep="prep">usagers</word>
+          <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
+          <word id="18" lem="place" postag="NC" morpho="g=f|n=p" head="14" dep="obj">places</word>
+          <word id="19" lem="libre" postag="ADJ" morpho="n=p" head="18" dep="mod">libres</word>
+          <word id="20" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
+          <word id="21" lem="les" postag="DET" morpho="n=p" head="22" dep="det">les</word>
+          <word id="22" lem="allée" postag="NC" morpho="g=f|n=p" head="20" dep="prep">allées</word>
+          <word id="23" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
+          <word id="24" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="25" dep="det">sa</word>
+          <word id="25" lem="fonction" postag="NC" morpho="g=f|n=s" head="26" dep="suj">fonction</word>
+          <word id="26" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="mod">est</word>
+          <word id="27" lem="donc" postag="ADV" morpho="_" head="26" dep="mod">donc</word>
+          <word id="28" lem="de" postag="P" morpho="_" head="26" dep="ats">d'</word>
+          <word id="29" lem="indiquer" postag="VINF" morpho="_" head="28" dep="prep">indiquer</word>
+          <word id="30" lem="le" postag="DET" morpho="g=m|n=s" head="31" dep="det">le</word>
+          <word id="31" lem="nombre" postag="NC" morpho="g=m|n=s" head="29" dep="obj">nombre</word>
+          <word id="32" lem="total" postag="ADJ" morpho="g=m|n=s" head="31" dep="mod">total</word>
+          <word id="33" lem="de" postag="P+D" morpho="n=p" head="31" dep="dep">des</word>
+          <word id="34" lem="place" postag="NC" morpho="g=f|n=p" head="33" dep="prep">places</word>
+          <word id="35" lem="libre" postag="ADJ" morpho="n=p" head="34" dep="mod">libres</word>
+          <word id="36" lem="par" postag="P" morpho="_" head="31" dep="dep">par</word>
+          <word id="37" lem="zone" postag="NC" morpho="g=f|n=s" head="36" dep="prep">zone</word>
+          <word id="38" lem="et" postag="CC" morpho="_" head="36" dep="coord">et</word>
+          <word id="39" lem="par" postag="P" morpho="_" head="38" dep="dep_coord">par</word>
+          <word id="40" lem="allée" postag="NC" morpho="g=f|n=s" head="39" dep="prep">allée</word>
+          <word id="41" lem="sur" postag="P" morpho="_" head="29" dep="mod">sur</word>
+          <word id="42" lem="des" postag="DET" morpho="n=p" head="43" dep="det">des</word>
+          <word id="43" lem="afficheur" postag="NC" morpho="g=m|n=p" head="41" dep="prep">afficheurs</word>
+          <word id="44" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="mais" postag="CC" morpho="_" head="0" dep="root">Mais</word>
+          <word id="2" lem="l'" postag="DET" morpho="n=s" head="3" dep="det">l'</word>
+          <word id="3" lem="installation" postag="NC" morpho="g=f|n=s" head="11" dep="suj">installation</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="ces" postag="DET" morpho="n=p" head="6" dep="det">ces</word>
+          <word id="6" lem="afficheur" postag="NC" morpho="g=m|n=p" head="4" dep="prep">afficheurs</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="comptage" postag="NC" morpho="g=m|n=s" head="7" dep="prep">comptage</word>
+          <word id="9" lem="en" postag="P" morpho="_" head="3" dep="dep">en</word>
+          <word id="10" lem="extérieur" postag="NC" morpho="g=m|n=s" head="9" dep="prep">extérieur</word>
+          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="1" dep="dep_coord">est</word>
+          <word id="12" lem="complexe" postag="ADJ" morpho="n=s" head="11" dep="ats">complexe</word>
+          <word id="13" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
+          <word id="14" lem="nécessiter" postag="V" morpho="n=s|p=13|t=pst" head="13" dep="dep_coord">nécessite</word>
+          <word id="15" lem="des" postag="DET" morpho="n=p" head="16" dep="det">des</word>
+          <word id="16" lem="travail" postag="NC" morpho="g=m|n=p" head="14" dep="obj">travaux</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
+          <word id="18" lem="structure" postag="NC" morpho="g=f|n=s" head="17" dep="prep">structure</word>
+          <word id="19" lem="important" postag="ADJ" morpho="g=m|n=p" head="16" dep="mod">importants</word>
+          <word id="20" lem="et" postag="CC" morpho="_" head="19" dep="coord">et</word>
+          <word id="21" lem="onéreux" postag="ADJ" morpho="g=m" head="20" dep="dep_coord">onéreux</word>
+          <word id="22" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="enfin" postag="ADV" morpho="_" head="12" dep="mod">Enfin</word>
+          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
+          <word id="3" lem="principe" postag="NC" morpho="g=m|n=s" head="12" dep="suj">principe</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="détection" postag="NC" morpho="g=f|n=s" head="4" dep="prep">détection</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="variation" postag="NC" morpho="g=f|n=p" head="6" dep="prep">variations</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="champ" postag="NC" morpho="g=m|n=s" head="9" dep="prep">champ</word>
+          <word id="11" lem="magnétique" postag="ADJ" morpho="n=s" head="10" dep="mod">magnétique</word>
+          <word id="12" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">a</word>
+          <word id="13" lem="une" postag="DET" morpho="g=f|n=s" head="14" dep="det">une</word>
+          <word id="14" lem="fiabilité" postag="NC" morpho="g=f|n=s" head="12" dep="obj">fiabilité</word>
+          <word id="15" lem="limiter" postag="ADJ" morpho="g=f|n=s|t=past" head="14" dep="mod">limitée</word>
+          <word id="16" lem="car" postag="CS" morpho="_" head="12" dep="mod">car</word>
+          <word id="17" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="18" dep="suj">il</word>
+          <word id="18" lem="exister" postag="V" morpho="n=s|p=13|t=pst" head="16" dep="sub">existe</word>
+          <word id="19" lem="dans" postag="P" morpho="_" head="18" dep="mod">dans</word>
+          <word id="20" lem="les" postag="DET" morpho="n=p" head="21" dep="det">les</word>
+          <word id="21" lem="parking" postag="NC" morpho="g=m|n=p" head="19" dep="prep">parkings</word>
+          <word id="22" lem="divers" postag="ADJ" morpho="g=f|n=p" head="21" dep="mod">diverses</word>
+          <word id="23" lem="source" postag="NC" morpho="g=f|n=p" head="21" dep="mod">sources</word>
+          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="25" lem="variation" postag="NC" morpho="g=f|n=p" head="24" dep="prep">variations</word>
+          <word id="26" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
+          <word id="27" lem="champ" postag="NC" morpho="g=m|n=s" head="26" dep="prep">champ</word>
+          <word id="28" lem="magnétique" postag="ADJ" morpho="n=s" head="27" dep="mod">magnétique</word>
+          <word id="29" lem="qui" postag="PROREL" morpho="n=s" head="30" dep="suj">qui</word>
+          <word id="30" lem="créer" postag="V" morpho="n=p|p=3|t=pst" head="23" dep="mod_rel">créent</word>
+          <word id="31" lem="des" postag="DET" morpho="n=p" head="32" dep="det">des</word>
+          <word id="32" lem="perturbation" postag="NC" morpho="g=f|n=p" head="30" dep="obj">perturbations</word>
+          <word id="33" lem="qui" postag="PROREL" morpho="n=s" head="34" dep="suj">qui</word>
+          <word id="34" lem="générer" postag="V" morpho="n=p|p=3|t=pst" head="32" dep="mod_rel">génèrent</word>
+          <word id="35" lem="le_plus_souvent" postag="ADV" morpho="_" head="34" dep="mod">le_plus_souvent</word>
+          <word id="36" lem="des" postag="DET" morpho="n=p" head="37" dep="det">des</word>
+          <word id="37" lem="erreur" postag="NC" morpho="g=f|n=p" head="34" dep="obj">erreurs</word>
+          <word id="38" lem="de" postag="P" morpho="_" head="37" dep="dep">de</word>
+          <word id="39" lem="comptage" postag="NC" morpho="g=m|n=s" head="38" dep="prep">comptage</word>
+          <word id="40" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="cloture" idSE="5">
+      <span begin="1570" end="1660" />
+      <text>Ces capteurs au sol fonctionnent sur piles qu'il faut aussi changer après quelques années.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="6">
+      <sentence id="1">
+        <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="en" postag="P" morpho="_" head="11" dep="mod">En</word>
+        <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
+        <word id="3" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+        <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
+        <word id="5" lem="dimension" postag="NC" morpho="g=f|n=p" head="11" dep="suj">dimensions</word>
+        <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+        <word id="7" lem="place" postag="NC" morpho="g=f|n=p" head="6" dep="prep">places</word>
+        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+        <word id="9" lem="parking" postag="NC" morpho="g=m|n=s" head="8" dep="prep">parking</word>
+        <word id="10" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="11" dep="aux_pass">sont</word>
+        <word id="11" lem="fixer" postag="VPP" morpho="g=f|n=p|t=past" head="0" dep="root">fixées</word>
+        <word id="12" lem="par" postag="P" morpho="_" head="11" dep="p_obj">par</word>
+        <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+        <word id="14" lem="norme" postag="NC" morpho="g=f|n=p" head="12" dep="prep">normes</word>
+        <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="mod">NF-P</word>
+        <word id="16" lem="#NUM#" postag="DET" morpho="n=p" head="17" dep="det">91</word>
+        <word id="17" lem="_" postag="NC" morpho="_" head="14" dep="mod">-100</word>
+        <word id="18" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
+        <word id="19" lem="parc" postag="NC" morpho="g=m|n=p" head="14" dep="mod">Parcs</word>
+        <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
+        <word id="21" lem="stationnement" postag="NC" morpho="g=m|n=p" head="20" dep="prep">stationnements</word>
+        <word id="22" lem="accessible" postag="ADJ" morpho="n=p" head="21" dep="mod">accessibles</word>
+        <word id="23" lem="à" postag="P+D" morpho="g=m|n=s" head="19" dep="dep">au</word>
+        <word id="24" lem="public" postag="NC" morpho="g=m|n=s" head="23" dep="prep">public</word>
+        <word id="25" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
+        <word id="26" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
+        <word id="27" lem="_" postag="NPP" morpho="_" head="26" dep="dep_coord">NF-P</word>
+        <word id="28" lem="#NUM#" postag="DET" morpho="n=p" head="29" dep="det">91</word>
+        <word id="29" lem="_" postag="NC" morpho="_" head="26" dep="dep_coord">-120</word>
+        <word id="30" lem="(" postag="PONCT" morpho="_" head="29" dep="ponct">(</word>
+        <word id="31" lem="parc" postag="NC" morpho="g=m|n=p" head="29" dep="mod">parcs</word>
+        <word id="32" lem="de" postag="P" morpho="_" head="31" dep="dep">de</word>
+        <word id="33" lem="stationnement" postag="NC" morpho="g=m|n=s" head="32" dep="prep">stationnement</word>
+        <word id="34" lem="priver" postag="ADJ" morpho="g=m|n=p|t=past" head="33" dep="mod">privés</word>
+        <word id="35" lem=")" postag="PONCT" morpho="_" head="29" dep="ponct">)</word>
+        <word id="36" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
+      </sentence>
+      <sentence id="3">
+        <word id="1" lem="pour" postag="P" morpho="_" head="24" dep="mod">Pour</word>
+        <word id="2" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">un</word>
+        <word id="3" lem="stationnement" postag="NC" morpho="g=m|n=s" head="1" dep="prep">stationnement</word>
+        <word id="4" lem="dire" postag="VPP" morpho="g=m|n=s|t=past" head="3" dep="mod">dit</word>
+        <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
+        <word id="6" lem="en" postag="P" morpho="_" head="4" dep="mod">en</word>
+        <word id="7" lem="bataille" postag="NC" morpho="g=f|n=s" head="6" dep="prep">bataille</word>
+        <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
+        <word id="9" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+        <word id="10" lem="place" postag="NC" morpho="g=f|n=p" head="3" dep="mod">places</word>
+        <word id="11" lem="perpendiculaire" postag="ADJ" morpho="n=p" head="10" dep="mod">perpendiculaires</word>
+        <word id="12" lem="à" postag="P" morpho="_" head="10" dep="dep">à</word>
+        <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
+        <word id="14" lem="circulation" postag="NC" morpho="g=f|n=s" head="12" dep="prep">circulation</word>
+        <word id="15" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+        <word id="16" lem="," postag="PONCT" morpho="_" head="24" dep="ponct">,</word>
+        <word id="17" lem="une" postag="DET" morpho="g=f|n=s" head="18" dep="det">une</word>
+        <word id="18" lem="largeur" postag="NC" morpho="g=f|n=s" head="24" dep="suj">largeur</word>
+        <word id="19" lem="minimal" postag="ADJ" morpho="g=f|n=s" head="18" dep="mod">minimale</word>
+        <word id="20" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
+        <word id="21" lem="_" postag="NPP" morpho="_" head="20" dep="prep">2.30</word>
+        <word id="22" lem="mètre" postag="NC" morpho="g=m|n=p" head="21" dep="mod">mètres</word>
+        <word id="23" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="24" dep="aux_pass">est</word>
+        <word id="24" lem="exiger" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">exigée</word>
+        <word id="25" lem="si" postag="CS" morpho="_" head="24" dep="mod">si</word>
+        <word id="26" lem="l'" postag="DET" morpho="n=s" head="27" dep="det">l'</word>
+        <word id="27" lem="emplacement" postag="NC" morpho="g=m|n=s" head="28" dep="suj">emplacement</word>
+        <word id="28" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="25" dep="sub">est</word>
+        <word id="29" lem="libre" postag="ADJ" morpho="n=s" head="28" dep="ats">libre</word>
+        <word id="30" lem="de" postag="P" morpho="_" head="29" dep="de_obj">de</word>
+        <word id="31" lem="tout" postag="DET" morpho="g=m|n=s" head="32" dep="det">tout</word>
+        <word id="32" lem="obstacle" postag="NC" morpho="g=m|n=s" head="30" dep="prep">obstacle</word>
+        <word id="33" lem="latéral" postag="ADJ" morpho="g=m|n=s" head="32" dep="mod">latéral</word>
+        <word id="34" lem="." postag="PONCT" morpho="_" head="24" dep="ponct">.</word>
+      </sentence>
+      <sentence id="4">
+        <word id="1" lem="cette" postag="DET" morpho="g=f|n=s" head="2" dep="det">Cette</word>
+        <word id="2" lem="dimension" postag="NC" morpho="g=f|n=s" head="4" dep="suj">dimension</word>
+        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
+        <word id="4" lem="augmenter" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">augmentée</word>
+        <word id="5" lem="en_cas_de" postag="P" morpho="_" head="4" dep="mod">en_cas_d'</word>
+        <word id="6" lem="obstacle" postag="NC" morpho="g=m|n=p" head="5" dep="prep">obstacles</word>
+        <word id="7" lem="latéral" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">latéraux</word>
+        <word id="8" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
+        <word id="9" lem="poteau" postag="NC" morpho="g=m|n=p" head="4" dep="mod">poteaux</word>
+        <word id="10" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+        <word id="11" lem="mur" postag="NC" morpho="g=m|n=p" head="4" dep="mod">murs</word>
+        <word id="12" lem="..." postag="PONCT" morpho="_" head="4" dep="ponct">...</word>
+        <word id="13" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
+        <word id="14" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
+        <word id="15" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="14" dep="dep_coord">peut</word>
+        <word id="16" lem="atteindre" postag="VINF" morpho="_" head="15" dep="obj">atteindre</word>
+        <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="obj">2.60</word>
+        <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="mod">m</word>
+        <word id="19" lem="dans" postag="P" morpho="_" head="16" dep="mod">dans</word>
+        <word id="20" lem="le" postag="DET" morpho="g=m|n=s" head="21" dep="det">le</word>
+        <word id="21" lem="cas" postag="NC" morpho="g=m" head="19" dep="prep">cas</word>
+        <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">d'</word>
+        <word id="23" lem="une" postag="DET" morpho="g=f|n=s" head="24" dep="det">une</word>
+        <word id="24" lem="place" postag="NC" morpho="g=f|n=s" head="22" dep="prep">place</word>
+        <word id="25" lem="présenter" postag="VPR" morpho="t=pst" head="24" dep="mod">présentant</word>
+        <word id="26" lem="des" postag="DET" morpho="n=p" head="27" dep="det">des</word>
+        <word id="27" lem="mur" postag="NC" morpho="g=m|n=p" head="25" dep="obj">murs</word>
+        <word id="28" lem="de" postag="P" morpho="_" head="27" dep="dep">de</word>
+        <word id="29" lem="chaque" postag="DET" morpho="n=s" head="30" dep="det">chaque</word>
+        <word id="30" lem="côté" postag="NC" morpho="g=m|n=s" head="28" dep="prep">côté</word>
+        <word id="31" lem="et" postag="CC" morpho="_" head="27" dep="coord">et</word>
+        <word id="32" lem="sur" postag="P" morpho="_" head="31" dep="dep_coord">sur</word>
+        <word id="33" lem="tout" postag="ADJ" morpho="g=f|n=s" head="35" dep="mod">toute</word>
+        <word id="34" lem="la" postag="DET" morpho="g=f|n=s" head="35" dep="det">la</word>
+        <word id="35" lem="longueur" postag="NC" morpho="g=f|n=s" head="32" dep="prep">longueur</word>
+        <word id="36" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+      </sentence>
+      <sentence id="5">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="profondeur" postag="NC" morpho="g=f|n=s" head="9" dep="suj">profondeur</word>
+        <word id="3" lem="minimal" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">minimale</word>
+        <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+        <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
+        <word id="6" lem="place" postag="NC" morpho="g=f|n=s" head="4" dep="prep">place</word>
+        <word id="7" lem="en" postag="P" morpho="_" head="6" dep="dep">en</word>
+        <word id="8" lem="bataille" postag="NC" morpho="g=f|n=s" head="7" dep="prep">bataille</word>
+        <word id="9" lem="être" postag="V" morpho="n=s|p=3|t=fut" head="0" dep="root">sera</word>
+        <word id="10" lem="de" postag="P" morpho="_" head="9" dep="ats">de</word>
+        <word id="11" lem="#NUM#" postag="DET" morpho="n=p" head="12" dep="det">5</word>
+        <word id="12" lem="mètre" postag="NC" morpho="g=m|n=p" head="10" dep="prep">mètres</word>
+        <word id="13" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+      </sentence>
+      <sentence id="6">
+        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+        <word id="2" lem="dégagement" postag="NC" morpho="g=m|n=s" head="11" dep="suj">dégagement</word>
+        <word id="3" lem="libre" postag="ADJ" morpho="n=s" head="2" dep="mod">libre</word>
+        <word id="4" lem="supérieur" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">supérieur</word>
+        <word id="5" lem="ou" postag="CC" morpho="_" head="4" dep="coord">ou</word>
+        <word id="6" lem="égal" postag="ADJ" morpho="g=m|n=s" head="5" dep="dep_coord">égal</word>
+        <word id="7" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+        <word id="8" lem="#NUM#" postag="DET" morpho="n=p" head="9" dep="det">5</word>
+        <word id="9" lem="_" postag="NC" morpho="_" head="7" dep="prep">m</word>
+        <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="aux_pass">est</word>
+        <word id="11" lem="exiger" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">exigé</word>
+        <word id="12" lem="devant" postag="P" morpho="_" head="11" dep="mod">devant</word>
+        <word id="13" lem="chaque" postag="DET" morpho="n=s" head="14" dep="det">chaque</word>
+        <word id="14" lem="place" postag="NC" morpho="g=f|n=s" head="12" dep="prep">place</word>
+        <word id="15" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
+      </sentence>
+      <sentence id="7">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="allée" postag="NC" morpho="g=f|n=p" head="5" dep="suj">allées</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="4" lem="circulation" postag="NC" morpho="g=f|n=s" head="3" dep="prep">circulation</word>
+        <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+        <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="5" dep="ats">au</word>
+        <word id="7" lem="minimum" postag="NC" morpho="g=m|n=s" head="6" dep="prep">minimum</word>
+        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+        <word id="9" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="6">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">3,00</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="root">m</word>
+          <word id="3" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
+          <word id="5" lem="voie" postag="NC" morpho="g=f|n=p" head="3" dep="prep">voies</word>
+          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
+          <word id="7" lem="sens" postag="NC" morpho="g=m" head="6" dep="prep">sens</word>
+          <word id="8" lem="unique" postag="ADJ" morpho="n=s" head="7" dep="mod">unique</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="2" dep="mod">2.80</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">m</word>
+          <word id="12" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+          <word id="14" lem="parc" postag="NC" morpho="g=m|n=p" head="12" dep="prep">parcs</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="stationnement" postag="NC" morpho="g=m|n=s" head="15" dep="prep">stationnement</word>
+          <word id="17" lem="priver" postag="ADJ" morpho="g=m|n=p|t=past" head="16" dep="mod">privés</word>
+          <word id="18" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">5,50</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="root">m</word>
+          <word id="3" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
+          <word id="5" lem="voie" postag="NC" morpho="g=f|n=p" head="3" dep="prep">voies</word>
+          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
+          <word id="7" lem="double" postag="ADJ" morpho="n=s" head="8" dep="mod">double</word>
+          <word id="8" lem="sens" postag="NC" morpho="g=m" head="6" dep="prep">sens</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="2" dep="mod">5.00</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">m</word>
+          <word id="12" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+          <word id="14" lem="parc" postag="NC" morpho="g=m|n=p" head="12" dep="prep">parcs</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="stationnement" postag="NC" morpho="g=m|n=s" head="15" dep="prep">stationnement</word>
+          <word id="17" lem="priver" postag="ADJ" morpho="g=m|n=p|t=past" head="16" dep="mod">privés</word>
+          <word id="18" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="7">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="allée" postag="NC" morpho="g=f|n=p" head="5" dep="suj">allées</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="4" lem="circulation" postag="NC" morpho="g=f|n=s" head="3" dep="prep">circulation</word>
+        <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+        <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="5" dep="ats">au</word>
+        <word id="7" lem="minimum" postag="NC" morpho="g=m|n=s" head="6" dep="prep">minimum</word>
+        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+        <word id="9" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="7">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">3,00</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="root">m</word>
+          <word id="3" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
+          <word id="5" lem="voie" postag="NC" morpho="g=f|n=p" head="3" dep="prep">voies</word>
+          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
+          <word id="7" lem="sens" postag="NC" morpho="g=m" head="6" dep="prep">sens</word>
+          <word id="8" lem="unique" postag="ADJ" morpho="n=s" head="7" dep="mod">unique</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="2" dep="mod">2.80</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">m</word>
+          <word id="12" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+          <word id="14" lem="parc" postag="NC" morpho="g=m|n=p" head="12" dep="prep">parcs</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="stationnement" postag="NC" morpho="g=m|n=s" head="15" dep="prep">stationnement</word>
+          <word id="17" lem="priver" postag="ADJ" morpho="g=m|n=p|t=past" head="16" dep="mod">privés</word>
+          <word id="18" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">5,50</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="root">m</word>
+          <word id="3" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
+          <word id="5" lem="voie" postag="NC" morpho="g=f|n=p" head="3" dep="prep">voies</word>
+          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
+          <word id="7" lem="double" postag="ADJ" morpho="n=s" head="8" dep="mod">double</word>
+          <word id="8" lem="sens" postag="NC" morpho="g=m" head="6" dep="prep">sens</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="2" dep="mod">5.00</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">m</word>
+          <word id="12" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
+          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+          <word id="14" lem="parc" postag="NC" morpho="g=m|n=p" head="12" dep="prep">parcs</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="stationnement" postag="NC" morpho="g=m|n=s" head="15" dep="prep">stationnement</word>
+          <word id="17" lem="priver" postag="ADJ" morpho="g=m|n=p|t=past" head="16" dep="mod">privés</word>
+          <word id="18" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="55" />
+      <text>Polluants attendus dans l'air des parkings souterrains</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="56" end="60" id="0" />
+      <text id="0">NO2</text>
+      <span begin="61" end="64" id="1" />
+      <text id="1">CO</text>
+      <span begin="65" end="70" id="2" />
+      <text id="2">PM10</text>
+      <span begin="71" end="77" id="3" />
+      <text id="3">PM2.5</text>
+      <span begin="78" end="85" id="4" />
+      <text id="4">Benzène</text>
+      <span begin="86" end="93" id="5" />
+      <text id="5">Toluène</text>
+      <span begin="94" end="106" id="6" />
+      <text id="6">Ethylbenzène</text>
+      <span begin="107" end="109" id="7" />
+      <text id="7">s</text>
+      <span begin="110" end="123" id="8" />
+      <text id="8">1,3-butadiène</text>
+      <span begin="124" end="136" id="9" />
+      <text id="9">Formaldéhyde</text>
+      <span begin="137" end="149" id="10" />
+      <text id="10">Acétaldéhyde</text>
+      <span begin="150" end="159" id="11" />
+      <text id="11">Acroléine</text>
+      <span begin="160" end="170" id="12" />
+      <text id="12">Naphtalène</text>
+      <span begin="171" end="184" id="13" />
+      <text id="13">Acénaphtylène</text>
+      <span begin="185" end="196" id="14" />
+      <text id="14">Acénaphtène</text>
+      <span begin="197" end="209" id="15" />
+      <text id="15">Phénanthrène</text>
+      <span begin="210" end="220" id="16" />
+      <text id="16">Anthracène</text>
+      <span begin="221" end="233" id="17" />
+      <text id="17">Fluoranthène</text>
+      <span begin="234" end="241" id="18" />
+      <text id="18">Pyrène</text>
+      <span begin="242" end="260" id="19" />
+      <text id="19">Benzo(a)anthracène</text>
+      <span begin="261" end="269" id="20" />
+      <text id="20">Chrysène</text>
+      <span begin="270" end="290" id="21" />
+      <text id="21">Benzo(b)fluoranthène</text>
+      <span begin="291" end="311" id="22" />
+      <text id="22">Benzo(k)fluoranthène</text>
+      <span begin="312" end="326" id="23" />
+      <text id="23">Benzo(a)pyrène</text>
+      <span begin="327" end="347" id="24" />
+      <text id="24">Dibenzo(ah)antracène</text>
+      <span begin="348" end="366" id="25" />
+      <text id="25">Benzo(ghi)pérylène</text>
+      <span begin="367" end="389" id="26" />
+      <text id="26">Indéno(1,2,3-cd)pyrène</text>
+      <span begin="390" end="398" id="27" />
+      <text id="27">Fluorène</text>
+      <span begin="399" end="406" id="28" />
+      <text id="28">Arsenic</text>
+      <span begin="407" end="413" id="29" />
+      <text id="29">Baryum</text>
+      <span begin="414" end="421" id="30" />
+      <text id="30">Cadmium</text>
+      <span begin="422" end="428" id="31" />
+      <text id="31">Chrome</text>
+      <span begin="429" end="435" id="32" />
+      <text id="32">Cobalt</text>
+      <span begin="436" end="442" id="33" />
+      <text id="33">Cuivre</text>
+      <span begin="443" end="451" id="34" />
+      <text id="34">Mercure</text>
+      <span begin="452" end="461" id="35" />
+      <text id="35">Manganèse</text>
+      <span begin="462" end="468" id="36" />
+      <text id="36">Nickel</text>
+      <span begin="469" end="474" id="37" />
+      <text id="37">Plomb</text>
+      <span begin="475" end="488" id="38" />
+      <text id="38">fumées noires</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="cloture" idSE="0">
+      <span begin="488" end="588" />
+      <text>Certains de ces polluants sont plus lourds que l'air, ou se fixent (adsorption) sur les particules.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="245" />
+      <text>Les parkings automatiques sont généralement des ouvrages souterrains ou en élévation dont les rampes intérieures sont remplacées par des systèmes de levage et de translation des véhicules. Deux grandes catégories se distinguent sur le marché :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="246" end="437" id="0" />
+      <text id="0">les « norias », sortes de grandes roues verticales où les plateaux se présentent face à l'entrée du véhicule. Ce dernier, une fois laissé sur le plateau est déplacé par rotation de la noria ;</text>
+      <span begin="438" end="606" id="1" />
+      <text id="1">les « transbordeurs », combinant un ascenseur et une palette qui descendent le véhicule jusqu'à un alvéole puis le remisent par déplacement de la palette le supportant.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="88" />
+      <text>Accès des piétons
+Les accès destinés aux piétons répondent à une double problématique :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="89" end="303" id="0" />
+      <text id="0">constituer une issue confortable du parking. En France ils ne doivent pas être situés à plus de 40 mètres d'un point quelconque si deux accès sont accessibles, et pas à plus de 25 m si un seul accès est utilisable.</text>
+      <span begin="304" end="531" id="1" />
+      <text id="1">protéger les piétons en cas d'incendie. En France, le degré coupe feu des éléments de construction doit être au minimum de trois heures, de façon à assurer la stabilité de l'ouvrage et permettre une évacuation en toute sécurité</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="94" />
+      <text>La largeur des voies de circulations et des rampes entre murs et/ou poteaux est au moins de :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="95" end="183" id="0" />
+      <text id="0">3,00 m en partie droite en sens unique (2.80 m pour les parcs de stationnement privés) ;</text>
+      <span begin="184" end="268" id="1" />
+      <text id="1">5,50 m en partie droite à double sens (5 m pour les parcs de stationnement privés) ;</text>
+      <span begin="269" end="304" id="2" />
+      <text id="2">4,00 m en courbe à en sens unique ;</text>
+      <span begin="305" end="381" id="3" />
+      <text id="3">3,50 m (voie intérieure) / 3,00 m (voie extérieure) en courbe à double sens.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="244" />
+      <text>Équipement de gestion
+Les équipements de gestion des parkings vont de la simple barrière manuelle au systèmes les plus sophistiqués avec reconnaissance de plaque minéralogique et gestion technique centralisée. Les principaux équipements sont :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="245" end="658" id="0" />
+      <text id="0">Le système de péage, comprenant les barrières d'entrée et de sortie ainsi que les caisses de péage à pieds et l'unité centrale de gestion. Les systèmes modernes acceptent le paiement en espèces, par cartes de crédit, par cartes privatives (compagnies pétrolières, grands magasins, etc., par transpondeurs autoroutiers et accepteront dans un avenir très proche le paiement par téléphone portable ou étiquette RFID.</text>
+      <span begin="659" end="1049" id="1" />
+      <text id="1">La gestion technique centralisée (GTC) permet le pilotage et la surveillance de l'ensemble des équipements techniques (éclairage, ventilation, détection incendie, détection CO, alarmes, etc.). Constituée d'un réseau de points d'auscultation (plus de 1000 dans les grands parkings), la GTC est le centre de contrôle opérationnel et retrace l'ensemble des évènements qui affectent le parking.</text>
+      <span begin="1050" end="1265" id="2" />
+      <text id="2">La vidéosurveillance, interfacée ou non avec la GTC, permet le contrôle visuel du parking et la levée de doute en cas d'incident. En France et dans de nombreux pays les conditions d'enregistrement sont réglementées.</text>
+      <span begin="1266" end="1467" id="3" />
+      <text id="3">L'interphonie relie l'ensemble des points névralgiques du parking (ascenseurs, caisses, sorties piétons, barrières, etc.) avec le poste de gestion situé dans l'ouvrage ou déporté dans un PC spécialisé.</text>
+      <span begin="1468" end="1823" id="4" />
+      <text id="4">Les systèmes de détection de présence de véhicules, interfacées avec la GTC ou en boucle fermée avec un système de guidage électronique, permet le guidage des visiteurs dès l'entrée du parking (nombre de places disponibles) et à l'intérieur du parking (nombre de places disponibles par étage et zones de disponibilité) qu'il soit en ouvrage ou en surface.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer" idSE="5">
+      <span begin="1" end="40" />
+      <text>Deux systèmes existent actuellementoù :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items" idSE="5">
+      <span begin="41" end="666" id="0" />
+      <text id="0">Le plus fiable et efficace: Des capteurs à ultrasons placés en hauteur au dessus des places avec un voyant lumineux à diodes LED devant chaque place, qui indique aux usagers, en temps réel, les places disponibles (voyant vert) et occupées (voyant rouge). Cette technologie reste aujourd'hui de loin la plus fiable dans les parking couverts. Pour que ce système soit efficace pour les usagers, les voyants à LED doivent être à haute luminosité et omnidirectionnels (visibles sur 360°) et pour être bien visibles dans tout le parking. Le montage en hauteur évite aussi tout risque de chocs ou de vandalisme sur les équipements.</text>
+      <span begin="667" end="1569" id="1" />
+      <text id="1">Dans des cas très particuliers: Des capteurs à induction magnétique placés au sol, qui transmettent l'information par radio-fréquence formant un réseau de capteurs. La technologie RFID sur laquelle repose ce système sans-fil permet un comptage dans les parkings à l'extérieur. Cette solution évite une partie des câblages, mais ne permet pas d'indiquer aux usagers les places libres dans les allées: sa fonction est donc d'indiquer le nombre total des places libres par zone et par allée sur des afficheurs. Mais l’installation de ces afficheurs de comptage en extérieur est complexe et nécessite des travaux de structure importants et onéreux. Enfin le principe de détection de la variations de champ magnétique a une fiabilité limitée car il existe dans les parkings diverses sources de variations de champ magnétique qui créent des perturbations qui génèrent le plus souvent des erreurs de comptage.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="cloture" idSE="5">
+      <span begin="1570" end="1660" />
+      <text>Ces capteurs au sol fonctionnent sur piles qu'il faut aussi changer après quelques années.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer" idSE="6">
+      <span begin="1" end="750" />
+      <text>France
+En France, les dimensions des places de parking sont fixées par les normes NF-P 91-100 (Parcs de stationnements accessibles au public) et NF-P 91-120 (parcs de stationnement privés).
+Pour un stationnement dit « en bataille » (places perpendiculaires à la circulation), une largeur minimale de 2.30 mètres est exigée si l'emplacement est libre de tout obstacle latéral. Cette dimension est augmentée en cas d'obstacles latéraux (poteaux, murs...) et peut atteindre 2.60 m dans le cas d'une place présentant des murs de chaque côté et sur toute la longueur. La profondeur minimale d'une place en bataille sera de 5 mètres. Un dégagement libre supérieur ou égal à 5 m est exigé devant chaque place.
+Les allées de circulation sont au minimum de :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items" idSE="6">
+      <span begin="751" end="834" id="0" />
+      <text id="0">3,00 m pour les voies à sens unique (2.80 m pour les parcs de stationnement privés)</text>
+      <span begin="835" end="919" id="1" />
+      <text id="1">5,50 m pour les voies à double sens (5.00 m pour les parcs de stationnement privés).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="primer" idSE="7">
+      <span begin="1" end="47" />
+      <text>Les allées de circulation sont au minimum de :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="items" idSE="7">
+      <span begin="48" end="131" id="0" />
+      <text id="0">3,00 m pour les voies à sens unique (2.80 m pour les parcs de stationnement privés)</text>
+      <span begin="132" end="216" id="1" />
+      <text id="1">5,50 m pour les voies à double sens (5.00 m pour les parcs de stationnement privés).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="10" id="0" />
+      <text id="0">Polluants</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="56" end="60" id="0" />
+      <text id="0">NO2</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="61" end="64" id="0" />
+      <text id="0">CO</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="65" end="70" id="0" />
+      <text id="0">PM10</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="71" end="77" id="0" />
+      <text id="0">PM2.5</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="78" end="85" id="0" />
+      <text id="0">Benzène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="5">
+      <span begin="86" end="93" id="0" />
+      <text id="0">Toluène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="6">
+      <span begin="94" end="106" id="0" />
+      <text id="0">Ethylbenzène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="7">
+      <span begin="107" end="109" id="0" />
+      <text id="0">s</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="8">
+      <span begin="110" end="123" id="0" />
+      <text id="0">1,3-butadiène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="9">
+      <span begin="124" end="136" id="0" />
+      <text id="0">Formaldéhyde</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="10">
+      <span begin="137" end="149" id="0" />
+      <text id="0">Acétaldéhyde</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="11">
+      <span begin="150" end="159" id="0" />
+      <text id="0">Acroléine</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="12">
+      <span begin="160" end="170" id="0" />
+      <text id="0">Naphtalène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="13">
+      <span begin="171" end="184" id="0" />
+      <text id="0">Acénaphtylène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="14">
+      <span begin="185" end="196" id="0" />
+      <text id="0">Acénaphtène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="15">
+      <span begin="197" end="209" id="0" />
+      <text id="0">Phénanthrène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="16">
+      <span begin="210" end="220" id="0" />
+      <text id="0">Anthracène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="17">
+      <span begin="221" end="233" id="0" />
+      <text id="0">Fluoranthène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="18">
+      <span begin="234" end="241" id="0" />
+      <text id="0">Pyrène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="19">
+      <span begin="242" end="260" id="0" />
+      <text id="0">Benzo(a)anthracène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="20">
+      <span begin="261" end="269" id="0" />
+      <text id="0">Chrysène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="21">
+      <span begin="270" end="290" id="0" />
+      <text id="0">Benzo(b)fluoranthène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="22">
+      <span begin="291" end="311" id="0" />
+      <text id="0">Benzo(k)fluoranthène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="23">
+      <span begin="312" end="326" id="0" />
+      <text id="0">Benzo(a)pyrène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="24">
+      <span begin="327" end="347" id="0" />
+      <text id="0">Dibenzo(ah)antracène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="25">
+      <span begin="348" end="366" id="0" />
+      <text id="0">Benzo(ghi)pérylène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="26">
+      <span begin="367" end="389" id="0" />
+      <text id="0">Indéno(1,2,3-cd)pyrène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="27">
+      <span begin="390" end="398" id="0" />
+      <text id="0">Fluorène</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="28">
+      <span begin="399" end="406" id="0" />
+      <text id="0">Arsenic</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="29">
+      <span begin="407" end="413" id="0" />
+      <text id="0">Baryum</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="30">
+      <span begin="414" end="421" id="0" />
+      <text id="0">Cadmium</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="31">
+      <span begin="422" end="428" id="0" />
+      <text id="0">Chrome</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="32">
+      <span begin="429" end="435" id="0" />
+      <text id="0">Cobalt</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="33">
+      <span begin="436" end="442" id="0" />
+      <text id="0">Cuivre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="34">
+      <span begin="443" end="451" id="0" />
+      <text id="0">Mercure</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="35">
+      <span begin="452" end="461" id="0" />
+      <text id="0">Manganèse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="36">
+      <span begin="462" end="468" id="0" />
+      <text id="0">Nickel</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="37">
+      <span begin="469" end="474" id="0" />
+      <text id="0">Plomb</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="38">
+      <span begin="475" end="488" id="0" />
+      <text id="0">fumées noires</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
+      <span begin="20" end="55" id="0" />
+      <text id="0">dans l'air des parkings souterrains</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="2" end="14" id="0" />
+      <text id="0">Les parkings</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="246" end="260" id="0" />
+      <text id="0">les « norias »</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="438" end="459" id="0" />
+      <text id="0">les « transbordeurs »</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
+      <span begin="189" end="215" id="0" />
+      <text id="0">. Deux grandes catégories</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="73" end="86" id="0" />
+      <text id="0">problématique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="89" end="132" id="0" />
+      <text id="0">constituer une issue confortable du parking</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="304" end="342" id="0" />
+      <text id="0">protéger les piétons en cas d'incendie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="16" end="76" id="0" />
+      <text id="0">voies de circulations et des rampes entre murs et/ou poteaux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="95" end="181" id="0" />
+      <text id="0">3,00 m en partie droite en sens unique (2.80 m pour les parcs de stationnement privés)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="184" end="267" id="0" />
+      <text id="0">5,50 m en partie droite à double sens (5 m pour les parcs de stationnement privés)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="269" end="303" id="0" />
+      <text id="0">4,00 m en courbe à en sens unique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="3">
+      <span begin="305" end="380" id="0" />
+      <text id="0">3,50 m (voie intérieure) / 3,00 m (voie extérieure) en courbe à double sens</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="3" localisation="primer" idItem="-1">
+      <span begin="77" end="92" id="0" />
+      <text id="0">est au moins de</text>
+      <span begin="1" end="15" id="1" />
+      <text id="1">La largeur des</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+      <span begin="211" end="214" id="0" />
+      <text id="0">Les</text>
+      <span begin="226" end="237" id="1" />
+      <text id="1">équipements</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="245" end="264" id="0" />
+      <text id="0">Le système de péage</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="659" end="698" id="0" />
+      <text id="0">La gestion technique centralisée (GTC)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+      <span begin="1050" end="1070" id="0" />
+      <text id="0">La vidéosurveillance</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="3">
+      <span begin="1266" end="1279" id="0" />
+      <text id="0">L'interphonie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="4">
+      <span begin="1468" end="1518" id="0" />
+      <text id="0">Les systèmes de détection de présence de véhicules</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
+      <span begin="1" end="14" id="0" />
+      <text id="0">Deux systèmes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+      <span begin="69" end="94" id="0" />
+      <text id="0">Des capteurs à ultrasons</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+      <span begin="699" end="734" id="0" />
+      <text id="0">Des capteurs à induction magnétique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
+      <span begin="704" end="729" id="0" />
+      <text id="0">Les allées de circulation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+      <span begin="751" end="834" id="0" />
+      <text id="0">3,00 m pour les voies à sens unique (2.80 m pour les parcs de stationnement privés)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+      <span begin="835" end="918" id="0" />
+      <text id="0">5,50 m pour les voies à double sens (5.00 m pour les parcs de stationnement privés)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="6" localisation="primer" idItem="-1">
+      <span begin="730" end="748" id="0" />
+      <text id="0">sont au minimum de</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="primer" idItem="-1">
+      <span begin="2" end="26" id="0" />
+      <text id="0">es allées de circulation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="0">
+      <span begin="48" end="131" id="0" />
+      <text id="0">3,00 m pour les voies à sens unique (2.80 m pour les parcs de stationnement privés)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="1">
+      <span begin="132" end="215" id="0" />
+      <text id="0">5,50 m pour les voies à double sens (5.00 m pour les parcs de stationnement privés)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="7" localisation="primer" idItem="-1">
+      <span begin="27" end="45" id="0" />
+      <text id="0">sont au minimum de</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:36</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:13</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="1" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:14</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:45</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="1" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:17</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="5">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="5">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="5">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 12:18</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="5">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="6">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="6">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="6">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:46</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="6">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="1" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="7">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="7">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="7">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:26</date>
+      <document>Parking.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="7">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="1" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

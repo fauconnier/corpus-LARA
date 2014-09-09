@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Québec
+Cour d'appel du Québec
+Cour supérieure du Québec</text>
+      <span begin="1699" end="1754" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>International
+Tribunal militaire international de Nuremberg 
+Tribunal militaire international pour l'Extrême-Orient (TMIEO)
+Tribunal pénal international pour le Rwanda (TPIR)
+Tribunal pénal international pour l'ex-Yougoslavie (TPIY)
+Tribunal spécial pour la Sierra Leone (TSSL)
+Cour pénale internationale (CPI)
+Cour internationale de justice (CIJ)
+Cour permanente de justice internationale (CPJI)</text>
+      <span begin="1794" end="2190" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="Québec" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Québec</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="cour" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cour</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="3" lem="appel" postag="NC" morpho="g=m|n=s" head="2" dep="prep">appel</word>
+          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="5" lem="Québec" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Québec</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="cour" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cour</word>
+          <word id="2" lem="supérieur" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">supérieure</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="4" lem="Québec" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Québec</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="international" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">International</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="tribunal" postag="NC" morpho="g=m|n=s" head="0" dep="_">Tribunal</word>
+          <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="1" dep="mod">militaire</word>
+          <word id="3" lem="international" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">international</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Nuremberg</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="tribunal" postag="NC" morpho="g=m|n=s" head="0" dep="_">Tribunal</word>
+          <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="1" dep="mod">militaire</word>
+          <word id="3" lem="international" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">international</word>
+          <word id="4" lem="pour" postag="P" morpho="_" head="1" dep="dep">pour</word>
+          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
+          <word id="6" lem="Extrême-Orient" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Extrême-Orient</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="mod">TMIEO</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="tribunal" postag="NC" morpho="g=m|n=s" head="0" dep="_">Tribunal</word>
+          <word id="2" lem="pénal" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">pénal</word>
+          <word id="3" lem="international" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">international</word>
+          <word id="4" lem="pour" postag="P" morpho="_" head="1" dep="dep">pour</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="Rwanda" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Rwanda</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="mod">TPIR</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="tribunal" postag="NC" morpho="g=m|n=s" head="0" dep="_">Tribunal</word>
+          <word id="2" lem="pénal" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">pénal</word>
+          <word id="3" lem="international" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">international</word>
+          <word id="4" lem="pour" postag="P" morpho="_" head="1" dep="dep">pour</word>
+          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="4" dep="prep">ex-Yougoslavie</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="mod">TPIY</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="tribunal" postag="NC" morpho="g=m|n=s" head="0" dep="_">Tribunal</word>
+          <word id="2" lem="spécial" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">spécial</word>
+          <word id="3" lem="pour" postag="P" morpho="_" head="1" dep="dep">pour</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="Sierra" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Sierra</word>
+          <word id="6" lem="Leone" postag="NPP" morpho="n=s" head="5" dep="mod">Leone</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="5" dep="mod">TSSL</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="cour" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cour</word>
+          <word id="2" lem="pénal" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">pénale</word>
+          <word id="3" lem="international" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">internationale</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">CPI</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="cour" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cour</word>
+          <word id="2" lem="international" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">internationale</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="4" lem="justice" postag="NC" morpho="g=f|n=s" head="3" dep="prep">justice</word>
+          <word id="5" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="1" dep="mod">CIJ</word>
+          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="cour" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cour</word>
+          <word id="2" lem="permanent" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">permanente</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="4" lem="justice" postag="NC" morpho="g=f|n=s" head="3" dep="prep">justice</word>
+          <word id="5" lem="international" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">internationale</word>
+          <word id="6" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="1" dep="mod">CPJI</word>
+          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="7" />
+      <text>Québec</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="8" end="30" id="0" />
+      <text id="0">Cour d'appel du Québec</text>
+      <span begin="31" end="56" id="1" />
+      <text id="1">Cour supérieure du Québec</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="14" />
+      <text>International</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="15" end="61" id="0" />
+      <text id="0">Tribunal militaire international de Nuremberg</text>
+      <span begin="61" end="124" id="1" />
+      <text id="1">Tribunal militaire international pour l'Extrême-Orient (TMIEO)</text>
+      <span begin="125" end="175" id="2" />
+      <text id="2">Tribunal pénal international pour le Rwanda (TPIR)</text>
+      <span begin="176" end="233" id="3" />
+      <text id="3">Tribunal pénal international pour l'ex-Yougoslavie (TPIY)</text>
+      <span begin="234" end="278" id="4" />
+      <text id="4">Tribunal spécial pour la Sierra Leone (TSSL)</text>
+      <span begin="279" end="311" id="5" />
+      <text id="5">Cour pénale internationale (CPI)</text>
+      <span begin="312" end="348" id="6" />
+      <text id="6">Cour internationale de justice (CIJ)</text>
+      <span begin="349" end="397" id="7" />
+      <text id="7">Cour permanente de justice internationale (CPJI)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="8" end="30" id="0" />
+      <text id="0">Cour d'appel du Québec</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="31" end="56" id="0" />
+      <text id="0">Cour supérieure du Québec</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="7" id="0" />
+      <text id="0">Québec</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="15" end="61" id="0" />
+      <text id="0">Tribunal militaire international de Nuremberg</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="62" end="117" id="0" />
+      <text id="0">Tribunal militaire international pour l'Extrême-Orient</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="125" end="169" id="0" />
+      <text id="0">Tribunal pénal international pour le Rwanda</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="176" end="227" id="0" />
+      <text id="0">Tribunal pénal international pour l'ex-Yougoslavie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
+      <span begin="234" end="271" id="0" />
+      <text id="0">Tribunal spécial pour la Sierra Leone</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="5">
+      <span begin="279" end="305" id="0" />
+      <text id="0">Cour pénale internationale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="6">
+      <span begin="312" end="343" id="0" />
+      <text id="0">Cour internationale de justice</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="7">
+      <span begin="349" end="390" id="0" />
+      <text id="0">Cour permanente de justice internationale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="14" id="0" />
+      <text id="0">International</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:06</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:27</date>
+      <document>Tribunal.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+</root>

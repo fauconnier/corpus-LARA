@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Le mot vient du latin institutum (installations, coutume)</text>
+      <span begin="294" end="352" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+        <word id="2" lem="mot" postag="NC" morpho="g=m|n=s" head="3" dep="suj">mot</word>
+        <word id="3" lem="venir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">vient</word>
+        <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="de_obj">du</word>
+        <word id="5" lem="latin" postag="NC" morpho="g=m|n=s" head="4" dep="prep">latin</word>
+        <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">institutum</word>
+        <word id="7" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="installation" postag="NC" morpho="g=f|n=p" head="0" dep="root">installations</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="coutume" postag="NC" morpho="g=f|n=s" head="0" dep="root">coutume</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="2" end="36" />
+      <text>Le mot vient du latin institutum (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="34" end="51" id="0" />
+      <text id="0">(installations,</text>
+      <span begin="51" end="59" id="1" />
+      <text id="1">coutume)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="24" end="34" id="0" />
+      <text id="0">institutum</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="36" end="49" id="0" />
+      <text id="0">installations</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="51" end="58" id="0" />
+      <text id="0">coutume</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
+      <span begin="2" end="8" id="0" />
+      <text id="0">Le mot</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:12</date>
+      <document>Institut.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="1" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

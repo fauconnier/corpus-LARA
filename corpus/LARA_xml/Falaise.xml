@@ -1,0 +1,2155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>La côte rocheuse, qui peut être en pente douce, se distingue de la falaise, cette dernière n'étant pas spécifiquement constituée d'une roche cohérente (par exemple dune littorale, dune perchée).</text>
+      <span begin="399" end="593" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Une falaise plongeante (versant des fjords, calanques)</text>
+      <span begin="594" end="649" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>La base des falaises est formée :
+soit par l'action d'une érosion e sur une rive surélevée,
+soit par une action e de creusement sur un substrat rocheux,
+soit encore par une érosion différentielle sur deux types de roches, l'une y étant plus sensible que l'autre.</text>
+      <span begin="2929" end="3191" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>La partie supérieure des falaises est formée par des processus sub-aériens :
+alternance gel/dégel (cryoclastie)
+infiltrations, ruissellements (haloclastie, rôle des organismes vivants dans la biométéorisation)
+éboulement par appel du vide</text>
+      <span begin="3192" end="3430" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>infiltrations, ruissellements (haloclastie, rôle des organismes vivants dans la biométéorisation)</text>
+      <span begin="3304" end="3401" />
+    </SE>
+    <comment>#CauséPar#</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SE>
+      <id>5</id>
+      <text>La vitesse du recul des falaise est en moyenne de l'ordre du millimètre par an pour les falaises rocheuses dures (granite, silex)</text>
+      <span begin="3430" end="3560" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SE>
+      <id>6</id>
+      <text>La vitesse du recul des falaise est en moyenne de l'ordre du millimètre par an pour les falaises rocheuses dures (granite, silex), du centimètre par an pour les falaises rocheuses plus tendres (calcaire, schiste),</text>
+      <span begin="3431" end="3644" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SE>
+      <id>7</id>
+      <text>La vitesse du recul des falaise est en moyenne de l'ordre du millimètre par an pour les falaises rocheuses dures (granite, silex), du centimètre par an pour les falaises rocheuses plus tendres (calcaire, schiste), du mètre (craie friable) ou dizaine de mètres par an pour les falaises de roches meubles (argile à silex, sables, marnes).</text>
+      <span begin="3431" end="3767" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SE>
+      <id>8</id>
+      <text>Classement des falaises par leur hauteur
+La hauteur donnée est toujours au-dessus du niveau de la mer.
+Umilehi Point : 1 005 mètres
+Croaghaun Mount : 688 mètres
+Kahiwa Falls : 660 mètres
+Slieve League : 606 mètres
+Preikestolen : 604 mètres
+Cabo Girao : 580 mètres
+Làtrabjarg-Islande : 440 mètres</text>
+      <span begin="4432" end="4727" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="côte" postag="NC" morpho="g=f|n=s" head="13" dep="suj">côte</word>
+        <word id="3" lem="rocheux" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">rocheuse</word>
+        <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+        <word id="6" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="2" dep="mod_rel">peut</word>
+        <word id="7" lem="être" postag="VINF" morpho="_" head="6" dep="obj">être</word>
+        <word id="8" lem="en" postag="P" morpho="_" head="7" dep="mod">en</word>
+        <word id="9" lem="pente" postag="NC" morpho="g=f|n=s" head="8" dep="prep">pente</word>
+        <word id="10" lem="doux" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">douce</word>
+        <word id="11" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+        <word id="12" lem="se" postag="CLR" morpho="n=p|p=3" head="13" dep="obj">se</word>
+        <word id="13" lem="distinguer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">distingue</word>
+        <word id="14" lem="de" postag="P" morpho="_" head="13" dep="de_obj">de</word>
+        <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+        <word id="16" lem="falaise" postag="NC" morpho="g=f|n=s" head="14" dep="prep">falaise</word>
+        <word id="17" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+        <word id="18" lem="cette" postag="DET" morpho="g=f|n=s" head="19" dep="det">cette</word>
+        <word id="19" lem="dernier" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">dernière</word>
+        <word id="20" lem="ne" postag="ADV" morpho="_" head="24" dep="mod">n'</word>
+        <word id="21" lem="être" postag="VPR" morpho="t=pst" head="24" dep="aux_pass">étant</word>
+        <word id="22" lem="pas" postag="ADV" morpho="_" head="24" dep="mod">pas</word>
+        <word id="23" lem="spécifiquement" postag="ADV" morpho="_" head="24" dep="mod">spécifiquement</word>
+        <word id="24" lem="constituer" postag="VPP" morpho="g=f|n=s|t=past" head="19" dep="mod">constituée</word>
+        <word id="25" lem="de" postag="P" morpho="_" head="24" dep="de_obj">d'</word>
+        <word id="26" lem="une" postag="DET" morpho="g=f|n=s" head="27" dep="det">une</word>
+        <word id="27" lem="roche" postag="NC" morpho="g=f|n=s" head="25" dep="prep">roche</word>
+        <word id="28" lem="cohérent" postag="ADJ" morpho="g=f|n=s" head="27" dep="mod">cohérente</word>
+        <word id="29" lem="(" postag="PONCT" morpho="_" head="24" dep="ponct">(</word>
+        <word id="30" lem="par" postag="P" morpho="_" head="24" dep="p_obj">par</word>
+        <word id="31" lem="exemple" postag="NC" morpho="g=m|n=s" head="30" dep="prep">exemple</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="dune" postag="NC" morpho="g=f|n=s" head="0" dep="root">dune</word>
+          <word id="2" lem="littoral" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">littorale</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="dune" postag="NC" morpho="g=f|n=s" head="0" dep="_">dune</word>
+          <word id="2" lem="percher" postag="ADJ" morpho="g=f|n=s|t=past" head="1" dep="mod">perchée</word>
+          <word id="3" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
+        <word id="2" lem="falaise" postag="NC" morpho="g=f|n=s" head="0" dep="root">falaise</word>
+        <word id="3" lem="plongeant" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">plongeante</word>
+        <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="versant" postag="NC" morpho="g=m|n=s" head="0" dep="root">versant</word>
+          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+          <word id="4" lem="fjord" postag="NC" morpho="g=m|n=p" head="3" dep="prep">fjords</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=p" head="0" dep="root">calanques</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="base" postag="NC" morpho="g=f|n=s" head="6" dep="suj">base</word>
+        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+        <word id="4" lem="falaise" postag="NC" morpho="g=f|n=p" head="3" dep="prep">falaises</word>
+        <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="aux_pass">est</word>
+        <word id="6" lem="former" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">formée</word>
+        <word id="7" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="soit" postag="CC" morpho="_" head="0" dep="root">soit</word>
+          <word id="2" lem="par" postag="P" morpho="_" head="1" dep="dep_coord">par</word>
+          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
+          <word id="4" lem="action" postag="NC" morpho="g=f|n=s" head="2" dep="prep">action</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+          <word id="7" lem="érosion" postag="NC" morpho="g=f|n=s" head="5" dep="prep">érosion</word>
+          <word id="8" lem="_" postag="ADV" morpho="_" head="7" dep="mod">e</word>
+          <word id="9" lem="sur" postag="P" morpho="_" head="1" dep="dep_coord">sur</word>
+          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+          <word id="11" lem="rive" postag="NC" morpho="g=f|n=s" head="9" dep="prep">rive</word>
+          <word id="12" lem="surélever" postag="VPP" morpho="g=f|n=s|t=past" head="11" dep="mod">surélevée</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="soit" postag="CC" morpho="_" head="0" dep="root">soit</word>
+          <word id="2" lem="par" postag="P" morpho="_" head="1" dep="dep_coord">par</word>
+          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+          <word id="4" lem="action" postag="NC" morpho="g=f|n=s" head="2" dep="prep">action</word>
+          <word id="5" lem="_" postag="V" morpho="_" head="1" dep="dep_coord">e</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="mod">de</word>
+          <word id="7" lem="creusement" postag="NC" morpho="g=m|n=s" head="6" dep="prep">creusement</word>
+          <word id="8" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
+          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
+          <word id="10" lem="substrat" postag="NC" morpho="g=m|n=s" head="8" dep="prep">substrat</word>
+          <word id="11" lem="rocheux" postag="ADJ" morpho="g=m" head="10" dep="mod">rocheux</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="soit" postag="CC" morpho="_" head="0" dep="root">soit</word>
+          <word id="2" lem="encore" postag="ADV" morpho="_" head="3" dep="mod">encore</word>
+          <word id="3" lem="par" postag="P" morpho="_" head="1" dep="dep_coord">par</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="érosion" postag="NC" morpho="g=f|n=s" head="3" dep="prep">érosion</word>
+          <word id="6" lem="différentiel" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">différentielle</word>
+          <word id="7" lem="sur" postag="P" morpho="_" head="5" dep="dep">sur</word>
+          <word id="8" lem="deux" postag="ADJ" morpho="n=p" head="9" dep="mod">deux</word>
+          <word id="9" lem="type" postag="NC" morpho="g=m|n=p" head="7" dep="prep">types</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
+          <word id="11" lem="roche" postag="NC" morpho="g=f|n=p" head="10" dep="prep">roches</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
+          <word id="14" lem="un" postag="PRO" morpho="g=f|n=s" head="0" dep="_">une</word>
+          <word id="15" lem="y" postag="CLO" morpho="_" head="0" dep="_">y</word>
+          <word id="16" lem="être" postag="VPR" morpho="t=pst" head="0" dep="_">étant</word>
+          <word id="17" lem="plus" postag="ADV" morpho="_" head="18" dep="mod">plus</word>
+          <word id="18" lem="sensible" postag="ADJ" morpho="n=s" head="16" dep="ats">sensible</word>
+          <word id="19" lem="que" postag="CS" morpho="_" head="18" dep="dep">que</word>
+          <word id="20" lem="l'" postag="DET" morpho="n=s" head="21" dep="det">l'</word>
+          <word id="21" lem="autre" postag="PRO" morpho="g=f|n=s" head="19" dep="sub">autre</word>
+          <word id="22" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="partie" postag="NC" morpho="g=f|n=s" head="7" dep="suj">partie</word>
+        <word id="3" lem="supérieur" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">supérieure</word>
+        <word id="4" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+        <word id="5" lem="falaise" postag="NC" morpho="g=f|n=p" head="4" dep="prep">falaises</word>
+        <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="aux_pass">est</word>
+        <word id="7" lem="former" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">formée</word>
+        <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
+        <word id="9" lem="des" postag="DET" morpho="n=p" head="10" dep="det">des</word>
+        <word id="10" lem="processus" postag="NC" morpho="g=m" head="8" dep="prep">processus</word>
+        <word id="11" lem="_" postag="ADJ" morpho="_" head="10" dep="mod">sub-aériens</word>
+        <word id="12" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="alternance" postag="NC" morpho="g=f|n=s" head="0" dep="_">alternance</word>
+          <word id="2" lem="gel" postag="NC" morpho="g=m|n=s" head="1" dep="mod">gel</word>
+          <word id="3" lem="/" postag="P" morpho="_" head="2" dep="dep">/</word>
+          <word id="4" lem="dégel" postag="NC" morpho="g=m|n=s" head="3" dep="prep">dégel</word>
+          <word id="5" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="6" lem="cryoclastie" postag="NC" morpho="g=f|n=s" head="1" dep="mod">cryoclastie</word>
+          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="infiltration" postag="NC" morpho="g=f|n=p" head="0" dep="_">infiltrations</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="3" lem="ruissellement" postag="NC" morpho="g=m|n=p" head="0" dep="_">ruissellements</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="mod">haloclastie</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="7" lem="rôle" postag="NC" morpho="g=m|n=s" head="3" dep="mod">rôle</word>
+          <word id="8" lem="de" postag="P+D" morpho="n=p" head="7" dep="dep">des</word>
+          <word id="9" lem="organisme" postag="NC" morpho="g=m|n=p" head="8" dep="prep">organismes</word>
+          <word id="10" lem="vivant" postag="ADJ" morpho="g=m|n=p" head="9" dep="mod">vivants</word>
+          <word id="11" lem="dans" postag="P" morpho="_" head="7" dep="dep">dans</word>
+          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
+          <word id="13" lem="_" postag="NC" morpho="_" head="11" dep="prep">biométéorisation</word>
+          <word id="14" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="éboulement" postag="NC" morpho="g=m|n=s" head="0" dep="root">éboulement</word>
+          <word id="2" lem="par" postag="P" morpho="_" head="1" dep="dep">par</word>
+          <word id="3" lem="appel" postag="NC" morpho="g=m|n=s" head="2" dep="prep">appel</word>
+          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="5" lem="vide" postag="NC" morpho="g=m|n=s" head="4" dep="prep">vide</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="infiltration" postag="NC" morpho="g=f|n=p" head="0" dep="_">infiltrations</word>
+        <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        <word id="3" lem="ruissellement" postag="NC" morpho="g=m|n=p" head="0" dep="_">ruissellements</word>
+        <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">haloclastie</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="rôle" postag="NC" morpho="g=m|n=s" head="0" dep="_">rôle</word>
+          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+          <word id="3" lem="organisme" postag="NC" morpho="g=m|n=p" head="2" dep="prep">organismes</word>
+          <word id="4" lem="vivant" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">vivants</word>
+          <word id="5" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
+          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
+          <word id="7" lem="_" postag="NC" morpho="_" head="5" dep="prep">biométéorisation</word>
+          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="5">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="vitesse" postag="NC" morpho="g=f|n=s" head="7" dep="suj">vitesse</word>
+        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+        <word id="4" lem="recul" postag="NC" morpho="g=m|n=s" head="3" dep="prep">recul</word>
+        <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
+        <word id="6" lem="falaise" postag="NC" morpho="g=f|n=s" head="5" dep="prep">falaise</word>
+        <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="8" lem="en_moyenne" postag="ADV" morpho="_" head="7" dep="mod">en_moyenne</word>
+        <word id="9" lem="de" postag="P" morpho="_" head="7" dep="mod">de</word>
+        <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
+        <word id="11" lem="ordre" postag="NC" morpho="g=m|n=s" head="9" dep="prep">ordre</word>
+        <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
+        <word id="13" lem="millimètre" postag="NC" morpho="g=m|n=s" head="12" dep="prep">millimètre</word>
+        <word id="14" lem="par" postag="P" morpho="_" head="11" dep="dep">par</word>
+        <word id="15" lem="an" postag="NC" morpho="g=m|n=s" head="14" dep="prep">an</word>
+        <word id="16" lem="pour" postag="P" morpho="_" head="7" dep="mod">pour</word>
+        <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
+        <word id="18" lem="falaise" postag="NC" morpho="g=f|n=p" head="16" dep="prep">falaises</word>
+        <word id="19" lem="rocheux" postag="ADJ" morpho="g=f|n=p" head="18" dep="mod">rocheuses</word>
+        <word id="20" lem="dur" postag="ADJ" morpho="g=f|n=p" head="18" dep="mod">dures</word>
+        <word id="21" lem="(" postag="PONCT" morpho="_" head="18" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="5">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">s</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="granite" postag="NC" morpho="g=m|n=s" head="1" dep="mod">granite</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="silex" postag="NC" morpho="g=m" head="0" dep="_">silex</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="6">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="vitesse" postag="NC" morpho="g=f|n=s" head="7" dep="suj">vitesse</word>
+        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+        <word id="4" lem="recul" postag="NC" morpho="g=m|n=s" head="3" dep="prep">recul</word>
+        <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
+        <word id="6" lem="falaise" postag="NC" morpho="g=f|n=s" head="5" dep="prep">falaise</word>
+        <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="8" lem="en_moyenne" postag="ADV" morpho="_" head="7" dep="mod">en_moyenne</word>
+        <word id="9" lem="de" postag="P" morpho="_" head="7" dep="mod">de</word>
+        <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
+        <word id="11" lem="ordre" postag="NC" morpho="g=m|n=s" head="9" dep="prep">ordre</word>
+        <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
+        <word id="13" lem="millimètre" postag="NC" morpho="g=m|n=s" head="12" dep="prep">millimètre</word>
+        <word id="14" lem="par" postag="P" morpho="_" head="11" dep="dep">par</word>
+        <word id="15" lem="an" postag="NC" morpho="g=m|n=s" head="14" dep="prep">an</word>
+        <word id="16" lem="pour" postag="P" morpho="_" head="7" dep="mod">pour</word>
+        <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
+        <word id="18" lem="falaise" postag="NC" morpho="g=f|n=p" head="16" dep="prep">falaises</word>
+        <word id="19" lem="rocheux" postag="ADJ" morpho="g=f|n=p" head="18" dep="mod">rocheuses</word>
+        <word id="20" lem="dur" postag="ADJ" morpho="g=f|n=p" head="18" dep="mod">dures</word>
+        <word id="21" lem="(" postag="PONCT" morpho="_" head="18" dep="ponct">(</word>
+        <word id="22" lem="granite" postag="NC" morpho="g=m|n=s" head="18" dep="mod">granite</word>
+        <word id="23" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
+        <word id="24" lem="silex" postag="NC" morpho="g=m" head="18" dep="mod">silex</word>
+        <word id="25" lem=")" postag="PONCT" morpho="_" head="18" dep="ponct">)</word>
+        <word id="26" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+        <word id="27" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="mod">du</word>
+        <word id="28" lem="centimètre" postag="NC" morpho="g=m|n=s" head="27" dep="prep">centimètre</word>
+        <word id="29" lem="par" postag="P" morpho="_" head="28" dep="dep">par</word>
+        <word id="30" lem="an" postag="NC" morpho="g=m|n=s" head="29" dep="prep">an</word>
+        <word id="31" lem="pour" postag="P" morpho="_" head="28" dep="dep">pour</word>
+        <word id="32" lem="les" postag="DET" morpho="n=p" head="33" dep="det">les</word>
+        <word id="33" lem="falaise" postag="NC" morpho="g=f|n=p" head="31" dep="prep">falaises</word>
+        <word id="34" lem="rocheux" postag="ADJ" morpho="g=f|n=p" head="33" dep="mod">rocheuses</word>
+        <word id="35" lem="plus" postag="ADV" morpho="_" head="36" dep="mod">plus</word>
+        <word id="36" lem="tendre" postag="ADJ" morpho="n=p" head="33" dep="mod">tendres</word>
+        <word id="37" lem="(" postag="PONCT" morpho="_" head="33" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="6">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="calcaire" postag="NC" morpho="g=m|n=s" head="0" dep="root">calcaire</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="schiste" postag="NC" morpho="g=m|n=s" head="0" dep="root">schiste</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="7">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="vitesse" postag="NC" morpho="g=f|n=s" head="7" dep="suj">vitesse</word>
+        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+        <word id="4" lem="recul" postag="NC" morpho="g=m|n=s" head="3" dep="prep">recul</word>
+        <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
+        <word id="6" lem="falaise" postag="NC" morpho="g=f|n=s" head="5" dep="prep">falaise</word>
+        <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="8" lem="en_moyenne" postag="ADV" morpho="_" head="7" dep="mod">en_moyenne</word>
+        <word id="9" lem="de" postag="P" morpho="_" head="7" dep="mod">de</word>
+        <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
+        <word id="11" lem="ordre" postag="NC" morpho="g=m|n=s" head="9" dep="prep">ordre</word>
+        <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
+        <word id="13" lem="millimètre" postag="NC" morpho="g=m|n=s" head="12" dep="prep">millimètre</word>
+        <word id="14" lem="par" postag="P" morpho="_" head="11" dep="dep">par</word>
+        <word id="15" lem="an" postag="NC" morpho="g=m|n=s" head="14" dep="prep">an</word>
+        <word id="16" lem="pour" postag="P" morpho="_" head="7" dep="mod">pour</word>
+        <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
+        <word id="18" lem="falaise" postag="NC" morpho="g=f|n=p" head="16" dep="prep">falaises</word>
+        <word id="19" lem="rocheux" postag="ADJ" morpho="g=f|n=p" head="18" dep="mod">rocheuses</word>
+        <word id="20" lem="dur" postag="ADJ" morpho="g=f|n=p" head="18" dep="mod">dures</word>
+        <word id="21" lem="(" postag="PONCT" morpho="_" head="18" dep="ponct">(</word>
+        <word id="22" lem="granite" postag="NC" morpho="g=m|n=s" head="18" dep="mod">granite</word>
+        <word id="23" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
+        <word id="24" lem="silex" postag="NC" morpho="g=m" head="18" dep="mod">silex</word>
+        <word id="25" lem=")" postag="PONCT" morpho="_" head="18" dep="ponct">)</word>
+        <word id="26" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+        <word id="27" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="mod">du</word>
+        <word id="28" lem="centimètre" postag="NC" morpho="g=m|n=s" head="27" dep="prep">centimètre</word>
+        <word id="29" lem="par" postag="P" morpho="_" head="28" dep="dep">par</word>
+        <word id="30" lem="an" postag="NC" morpho="g=m|n=s" head="29" dep="prep">an</word>
+        <word id="31" lem="pour" postag="P" morpho="_" head="28" dep="dep">pour</word>
+        <word id="32" lem="les" postag="DET" morpho="n=p" head="33" dep="det">les</word>
+        <word id="33" lem="falaise" postag="NC" morpho="g=f|n=p" head="31" dep="prep">falaises</word>
+        <word id="34" lem="rocheux" postag="ADJ" morpho="g=f|n=p" head="33" dep="mod">rocheuses</word>
+        <word id="35" lem="plus" postag="ADV" morpho="_" head="36" dep="mod">plus</word>
+        <word id="36" lem="tendre" postag="ADJ" morpho="n=p" head="33" dep="mod">tendres</word>
+        <word id="37" lem="(" postag="PONCT" morpho="_" head="33" dep="ponct">(</word>
+        <word id="38" lem="calcaire" postag="NC" morpho="g=m|n=s" head="33" dep="mod">calcaire</word>
+        <word id="39" lem="," postag="PONCT" morpho="_" head="33" dep="ponct">,</word>
+        <word id="40" lem="schiste" postag="NC" morpho="g=m|n=s" head="33" dep="mod">schiste</word>
+        <word id="41" lem=")" postag="PONCT" morpho="_" head="33" dep="ponct">)</word>
+        <word id="42" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+        <word id="43" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="mod">du</word>
+        <word id="44" lem="mètre" postag="NC" morpho="g=m|n=s" head="43" dep="prep">mètre</word>
+        <word id="45" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
+        <word id="46" lem="craie" postag="NC" morpho="g=f|n=s" head="7" dep="mod">craie</word>
+        <word id="47" lem="friable" postag="ADJ" morpho="n=s" head="46" dep="mod">friable</word>
+        <word id="48" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
+        <word id="49" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
+        <word id="50" lem="dizaine" postag="NC" morpho="g=f|n=s" head="49" dep="dep_coord">dizaine</word>
+        <word id="51" lem="de" postag="P" morpho="_" head="50" dep="dep">de</word>
+        <word id="52" lem="mètre" postag="NC" morpho="g=m|n=p" head="51" dep="prep">mètres</word>
+        <word id="53" lem="par" postag="P" morpho="_" head="50" dep="dep">par</word>
+        <word id="54" lem="an" postag="NC" morpho="g=m|n=s" head="53" dep="prep">an</word>
+        <word id="55" lem="pour" postag="P" morpho="_" head="7" dep="mod">pour</word>
+        <word id="56" lem="les" postag="DET" morpho="n=p" head="57" dep="det">les</word>
+        <word id="57" lem="falaise" postag="NC" morpho="g=f|n=p" head="55" dep="prep">falaises</word>
+        <word id="58" lem="de" postag="P" morpho="_" head="57" dep="dep">de</word>
+        <word id="59" lem="roche" postag="NC" morpho="g=f|n=p" head="58" dep="prep">roches</word>
+        <word id="60" lem="meuble" postag="NC" morpho="g=m|n=p" head="59" dep="mod">meubles</word>
+        <word id="61" lem="(" postag="PONCT" morpho="_" head="57" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="7">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="être" postag="V" morpho="n=s|p=2|t=pst" head="0" dep="_">es</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="argile" postag="NC" morpho="g=f|n=s" head="1" dep="mod">argile</word>
+          <word id="4" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
+          <word id="5" lem="silex" postag="NC" morpho="g=m" head="4" dep="prep">silex</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="sable" postag="NC" morpho="g=m|n=p" head="0" dep="_">sables</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="coord">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="marne" postag="NC" morpho="g=f|n=p" head="0" dep="root">marnes</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="8">
+      <sentence id="1">
+        <word id="1" lem="classement" postag="NC" morpho="g=m|n=s" head="0" dep="root">Classement</word>
+        <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+        <word id="3" lem="falaise" postag="NC" morpho="g=f|n=p" head="2" dep="prep">falaises</word>
+        <word id="4" lem="par" postag="P" morpho="_" head="1" dep="dep">par</word>
+        <word id="5" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="6" dep="det">leur</word>
+        <word id="6" lem="hauteur" postag="NC" morpho="g=f|n=s" head="4" dep="prep">hauteur</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="hauteur" postag="NC" morpho="g=f|n=s" head="4" dep="suj">hauteur</word>
+        <word id="3" lem="donner" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">donnée</word>
+        <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="5" lem="toujours" postag="ADV" morpho="_" head="4" dep="mod">toujours</word>
+        <word id="6" lem="au-dessus_de" postag="P+D" morpho="g=m|n=s" head="4" dep="p_obj">au-dessus_du</word>
+        <word id="7" lem="niveau" postag="NC" morpho="g=m|n=s" head="6" dep="prep">niveau</word>
+        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+        <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
+        <word id="10" lem="mer" postag="NC" morpho="g=f|n=s" head="8" dep="prep">mer</word>
+        <word id="11" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="8">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Umilehi</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Point</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">1_005</word>
+          <word id="5" lem="mètre" postag="NC" morpho="g=m|n=p" head="1" dep="mod">mètres</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Croaghaun</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Mount</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">688</word>
+          <word id="5" lem="mètre" postag="NC" morpho="g=m|n=p" head="1" dep="mod">mètres</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Kahiwa</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Falls</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">660</word>
+          <word id="5" lem="mètre" postag="NC" morpho="g=m|n=p" head="1" dep="mod">mètres</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Slieve</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">League</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">606</word>
+          <word id="5" lem="mètre" postag="NC" morpho="g=m|n=p" head="1" dep="mod">mètres</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Preikestolen</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="#NUM#" postag="DET" morpho="n=p" head="4" dep="det">604</word>
+          <word id="4" lem="mètre" postag="NC" morpho="g=m|n=p" head="1" dep="mod">mètres</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Cabo</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Girao</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">580</word>
+          <word id="5" lem="mètre" postag="NC" morpho="g=m|n=p" head="1" dep="mod">mètres</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Làtrabjarg-Islande</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="#NUM#" postag="DET" morpho="n=p" head="4" dep="det">440</word>
+          <word id="4" lem="mètre" postag="NC" morpho="g=m|n=p" head="1" dep="mod">mètres</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="164" />
+      <text>La côte rocheuse, qui peut être en pente douce, se distingue de la falaise, cette dernière n'étant pas spécifiquement constituée d'une roche cohérente (par exemple</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="164" end="181" id="0" />
+      <text id="0">dune littorale,</text>
+      <span begin="180" end="195" id="1" />
+      <text id="1">dune perchée).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="25" />
+      <text>Une falaise plongeante (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="23" end="44" id="0" />
+      <text id="0">(versant des fjords,</text>
+      <span begin="45" end="55" id="1" />
+      <text id="1">calanques)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="34" />
+      <text>La base des falaises est formée :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="35" end="92" id="0" />
+      <text id="0">soit par l'action d'une érosion e sur une rive surélevée,</text>
+      <span begin="93" end="153" id="1" />
+      <text id="1">soit par une action e de creusement sur un substrat rocheux,</text>
+      <span begin="154" end="263" id="2" />
+      <text id="2">soit encore par une érosion différentielle sur deux types de roches, l'une y étant plus sensible que l'autre.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="77" />
+      <text>La partie supérieure des falaises est formée par des processus sub-aériens :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="78" end="112" id="0" />
+      <text id="0">alternance gel/dégel (cryoclastie)</text>
+      <span begin="113" end="210" id="1" />
+      <text id="1">infiltrations, ruissellements (haloclastie, rôle des organismes vivants dans la biométéorisation)</text>
+      <span begin="211" end="239" id="2" />
+      <text id="2">éboulement par appel du vide</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="32" />
+      <text>infiltrations, ruissellements (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="31" end="44" id="0" />
+      <text id="0">(haloclastie,</text>
+      <span begin="45" end="98" id="1" />
+      <text id="1">rôle des organismes vivants dans la biométéorisation)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer" idSE="5">
+      <span begin="2" end="116" />
+      <text>La vitesse du recul des falaise est en moyenne de l'ordre du millimètre par an pour les falaises rocheuses dures (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items" idSE="5">
+      <span begin="113" end="124" id="0" />
+      <text id="0">s (granite,</text>
+      <span begin="125" end="131" id="1" />
+      <text id="1">silex)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer" idSE="6">
+      <span begin="1" end="195" />
+      <text>La vitesse du recul des falaise est en moyenne de l'ordre du millimètre par an pour les falaises rocheuses dures (granite, silex), du centimètre par an pour les falaises rocheuses plus tendres (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items" idSE="6">
+      <span begin="193" end="204" id="0" />
+      <text id="0">(calcaire,</text>
+      <span begin="205" end="214" id="1" />
+      <text id="1">schiste),</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer" idSE="7">
+      <span begin="1" end="305" />
+      <text>La vitesse du recul des falaise est en moyenne de l'ordre du millimètre par an pour les falaises rocheuses dures (granite, silex), du centimètre par an pour les falaises rocheuses plus tendres (calcaire, schiste), du mètre (craie friable) ou dizaine de mètres par an pour les falaises de roches meubles (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items" idSE="7">
+      <span begin="301" end="321" id="0" />
+      <text id="0">es (argile à silex,</text>
+      <span begin="321" end="329" id="1" />
+      <text id="1">sables,</text>
+      <span begin="329" end="337" id="2" />
+      <text id="2">marnes).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="primer" idSE="8">
+      <span begin="1" end="103" />
+      <text>Classement des falaises par leur hauteur
+La hauteur donnée est toujours au-dessus du niveau de la mer.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="items" idSE="8">
+      <span begin="104" end="132" id="0" />
+      <text id="0">Umilehi Point : 1 005 mètres</text>
+      <span begin="133" end="161" id="1" />
+      <text id="1">Croaghaun Mount : 688 mètres</text>
+      <span begin="162" end="187" id="2" />
+      <text id="2">Kahiwa Falls : 660 mètres</text>
+      <span begin="188" end="214" id="3" />
+      <text id="3">Slieve League : 606 mètres</text>
+      <span begin="215" end="240" id="4" />
+      <text id="4">Preikestolen : 604 mètres</text>
+      <span begin="241" end="264" id="5" />
+      <text id="5">Cabo Girao : 580 mètres</text>
+      <span begin="265" end="296" id="6" />
+      <text id="6">Làtrabjarg-Islande : 440 mètres</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="132" end="151" id="0" />
+      <text id="0">une roche cohérente</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="165" end="179" id="0" />
+      <text id="0">dune littorale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="181" end="193" id="0" />
+      <text id="0">dune perchée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
+      <span begin="153" end="164" id="0" />
+      <text id="0">par exemple</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="23" id="0" />
+      <text id="0">Une falaise plongeante</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="25" end="43" id="0" />
+      <text id="0">versant des fjords</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="45" end="54" id="0" />
+      <text id="0">calanques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="21" id="0" />
+      <text id="0">La base des falaises</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="44" end="91" id="0" />
+      <text id="0">l'action d'une érosion e sur une rive surélevée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="102" end="152" id="0" />
+      <text id="0">une action e de creusement sur un substrat rocheux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="170" end="221" id="0" />
+      <text id="0">une érosion différentielle sur deux types de roches</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
+      <span begin="22" end="32" id="0" />
+      <text id="0">est formée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="50" end="75" id="0" />
+      <text id="0">des processus sub-aériens</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="78" end="98" id="0" />
+      <text id="0">alternance gel/dégel</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="113" end="126" id="0" />
+      <text id="0">infiltrations</text>
+      <span begin="128" end="142" id="1" />
+      <text id="1">ruissellements</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="211" end="239" id="0" />
+      <text id="0">éboulement par appel du vide</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+      <span begin="16" end="30" id="0" />
+      <text id="0">ruissellements</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="32" end="43" id="0" />
+      <text id="0">haloclastie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="45" end="97" id="0" />
+      <text id="0">rôle des organismes vivants dans la biométéorisation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
+      <span begin="86" end="114" id="0" />
+      <text id="0">les falaises rocheuses dures</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+      <span begin="116" end="123" id="0" />
+      <text id="0">granite</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+      <span begin="125" end="130" id="0" />
+      <text id="0">silex</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
+      <span begin="158" end="193" id="0" />
+      <text id="0">les falaises rocheuses plus tendres</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+      <span begin="195" end="203" id="0" />
+      <text id="0">calcaire</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+      <span begin="205" end="212" id="0" />
+      <text id="0">schiste</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="primer" idItem="-1">
+      <span begin="273" end="303" id="0" />
+      <text id="0">les falaises de roches meubles</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="0">
+      <span begin="305" end="319" id="0" />
+      <text id="0">argile à silex</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="1">
+      <span begin="321" end="327" id="0" />
+      <text id="0">sables</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="2">
+      <span begin="329" end="335" id="0" />
+      <text id="0">marnes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="primer" idItem="-1">
+      <span begin="12" end="24" id="0" />
+      <text id="0">des falaises</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="0">
+      <span begin="104" end="117" id="0" />
+      <text id="0">Umilehi Point</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="1">
+      <span begin="133" end="148" id="0" />
+      <text id="0">Croaghaun Mount</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="2">
+      <span begin="162" end="174" id="0" />
+      <text id="0">Kahiwa Falls</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="3">
+      <span begin="188" end="201" id="0" />
+      <text id="0">Slieve League</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="4">
+      <span begin="215" end="227" id="0" />
+      <text id="0">Preikestolen</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="5">
+      <span begin="241" end="251" id="0" />
+      <text id="0">Cabo Girao</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="6">
+      <span begin="265" end="283" id="0" />
+      <text id="0">Làtrabjarg-Islande</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="8" localisation="primer" idItem="-1">
+      <span begin="25" end="41" id="0" />
+      <text id="0">par leur hauteur</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="8" localisation="primer" idItem="-1">
+      <span begin="1" end="11" id="0" />
+      <text id="0">Classement</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:53</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:23</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="1" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:25</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="1" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="5">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="5">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="5">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="5">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="1" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="6">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="6">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="6">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:48</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="6">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="1" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="7">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="7">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="7">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:27</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="7">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="1" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="8">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="8">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="8">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:49</date>
+      <document>Falaise.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="8">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

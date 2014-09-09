@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:06</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Une grotte peut se former dans des structures minéralessolubles par l'eau : principalement les roches carbonatées (cavités iques) ainsi que le gypse et l'anhydrite, voire le sel gemme, le grès et le quartzite, le gneiss et le granite, le basalte et certains conglomérats (cavités pseudokarstiques).</text>
+      <span begin="326" end="624" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Concernant les animaux à sang chaud, généralement, es espèces volantes (chauve-souris, oiseaux les ont plus facilement colonisées).</text>
+      <span begin="1698" end="1829" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Au XVIII, l'architecture baroque reprit à son compte le thème de la grotte pour aménager les parcs des x : voyez par ex. Pommersfelden ou le château de Wilhelmsthal.</text>
+      <span begin="6568" end="6733" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:06</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
+        <word id="2" lem="grotte" postag="NC" morpho="g=f|n=s" head="3" dep="suj">grotte</word>
+        <word id="3" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+        <word id="4" lem="se" postag="CLR" morpho="n=p|p=3" head="5" dep="aff">se</word>
+        <word id="5" lem="former" postag="VINF" morpho="_" head="3" dep="obj">former</word>
+        <word id="6" lem="dans" postag="P" morpho="_" head="5" dep="mod">dans</word>
+        <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
+        <word id="8" lem="structure" postag="NC" morpho="g=f|n=p" head="6" dep="prep">structures</word>
+        <word id="9" lem="_" postag="VPP" morpho="_" head="8" dep="mod">minéralessolubles</word>
+        <word id="10" lem="par" postag="P" morpho="_" head="9" dep="p_obj">par</word>
+        <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
+        <word id="12" lem="eau" postag="NC" morpho="g=f|n=s" head="10" dep="prep">eau</word>
+        <word id="13" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:06</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="principalement" postag="ADV" morpho="_" head="0" dep="_">principalement</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="3" lem="roche" postag="NC" morpho="g=f|n=p" head="0" dep="_">roches</word>
+          <word id="4" lem="carbonater" postag="VPP" morpho="g=f|n=p|t=past" head="3" dep="mod">carbonatées</word>
+          <word id="5" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+          <word id="6" lem="cavité" postag="NC" morpho="g=f|n=p" head="3" dep="mod">cavités</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">iques</word>
+          <word id="8" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="ainsi_que" postag="CC" morpho="_" head="0" dep="root">ainsi_que</word>
+          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
+          <word id="3" lem="gypse" postag="NC" morpho="g=m|n=s" head="1" dep="dep">gypse</word>
+          <word id="4" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
+          <word id="2" lem="anhydrite" postag="NC" morpho="g=f|n=s" head="0" dep="_">anhydrite</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="voire" postag="CC" morpho="_" head="0" dep="root">voire</word>
+          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
+          <word id="3" lem="sel" postag="NC" morpho="g=m|n=s" head="0" dep="_">sel</word>
+          <word id="4" lem="gemme" postag="NC" morpho="g=f|n=s" head="3" dep="mod">gemme</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="grès" postag="NC" morpho="g=m" head="0" dep="_">grès</word>
+          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="quartzite" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartzite</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="gneiss" postag="NC" morpho="g=m" head="0" dep="_">gneiss</word>
+          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="granite" postag="NC" morpho="g=m|n=s" head="0" dep="_">granite</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="basalte" postag="NC" morpho="g=m|n=s" head="0" dep="_">basalte</word>
+          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="9">
+        <sentence id="1">
+          <word id="1" lem="certains" postag="DET" morpho="g=m|n=p" head="2" dep="det">certains</word>
+          <word id="2" lem="conglomérat" postag="NC" morpho="g=m|n=p" head="0" dep="_">conglomérats</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="4" lem="cavité" postag="NC" morpho="g=f|n=p" head="2" dep="mod">cavités</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">pseudokarstiques</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="concerner" postag="VPR" morpho="t=pst" head="10" dep="mod">Concernant</word>
+        <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+        <word id="3" lem="animal" postag="NC" morpho="g=m|n=p" head="1" dep="obj">animaux</word>
+        <word id="4" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
+        <word id="5" lem="sang" postag="NC" morpho="g=m|n=s" head="4" dep="prep">sang</word>
+        <word id="6" lem="chaud" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">chaud</word>
+        <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        <word id="8" lem="généralement" postag="ADV" morpho="_" head="1" dep="mod">généralement</word>
+        <word id="9" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+        <word id="10" lem="être" postag="V" morpho="n=s|p=2|t=pst" head="0" dep="root">es</word>
+        <word id="11" lem="_" postag="ADJ" morpho="_" head="12" dep="mod">espèces</word>
+        <word id="12" lem="volant" postag="NC" morpho="g=f|n=p" head="10" dep="ats">volantes</word>
+        <word id="13" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="chauve-souris" postag="NC" morpho="g=f|n=s" head="0" dep="root">chauve-souris</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="oiseau" postag="NC" morpho="g=m|n=p" head="6" dep="suj">oiseaux</word>
+          <word id="2" lem="les" postag="CLO" morpho="n=p|p=3" head="6" dep="obj">les</word>
+          <word id="3" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="aux_pass">ont</word>
+          <word id="4" lem="plus" postag="ADV" morpho="_" head="5" dep="mod">plus</word>
+          <word id="5" lem="facilement" postag="ADV" morpho="_" head="6" dep="mod">facilement</word>
+          <word id="6" lem="coloniser" postag="VPP" morpho="g=f|n=p|t=past" head="0" dep="root">colonisées</word>
+          <word id="7" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="à" postag="P+D" morpho="g=m|n=s" head="7" dep="mod">Au</word>
+        <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="prep">XVIII</word>
+        <word id="3" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+        <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+        <word id="5" lem="architecture" postag="NC" morpho="g=f|n=s" head="7" dep="suj">architecture</word>
+        <word id="6" lem="baroque" postag="ADJ" morpho="n=s" head="5" dep="mod">baroque</word>
+        <word id="7" lem="reprendre" postag="V" morpho="n=s|p=3|t=past" head="0" dep="root">reprit</word>
+        <word id="8" lem="à" postag="P" morpho="_" head="7" dep="mod">à</word>
+        <word id="9" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="10" dep="det">son</word>
+        <word id="10" lem="compte" postag="NC" morpho="g=m|n=s" head="8" dep="prep">compte</word>
+        <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
+        <word id="12" lem="thème" postag="NC" morpho="g=m|n=s" head="7" dep="obj">thème</word>
+        <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+        <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
+        <word id="15" lem="grotte" postag="NC" morpho="g=f|n=s" head="13" dep="prep">grotte</word>
+        <word id="16" lem="pour" postag="P" morpho="_" head="7" dep="mod">pour</word>
+        <word id="17" lem="aménager" postag="VINF" morpho="_" head="16" dep="prep">aménager</word>
+        <word id="18" lem="les" postag="DET" morpho="n=p" head="19" dep="det">les</word>
+        <word id="19" lem="parc" postag="NC" morpho="g=m|n=p" head="17" dep="obj">parcs</word>
+        <word id="20" lem="de" postag="P+D" morpho="n=p" head="19" dep="dep">des</word>
+        <word id="21" lem="_" postag="NC" morpho="_" head="20" dep="prep">x</word>
+        <word id="22" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="voir" postag="V" morpho="n=p|p=2|t=pst" head="0" dep="root">voyez</word>
+          <word id="2" lem="par" postag="P" morpho="_" head="1" dep="mod">par</word>
+          <word id="3" lem="ex" postag="NC" morpho="_" head="2" dep="prep">ex</word>
+          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Pommersfelden</word>
+          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="château" postag="NC" morpho="g=m|n=s" head="0" dep="_">château</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Wilhelmsthal</word>
+          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:06</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="76" />
+      <text>Une grotte peut se former dans des structures minéralessolubles par l'eau :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:06</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="77" end="130" id="0" />
+      <text id="0">principalement les roches carbonatées (cavités iques)</text>
+      <span begin="131" end="152" id="1" />
+      <text id="1">ainsi que le gypse et</text>
+      <span begin="153" end="165" id="2" />
+      <text id="2">l'anhydrite,</text>
+      <span begin="166" end="185" id="3" />
+      <text id="3">voire le sel gemme,</text>
+      <span begin="186" end="197" id="4" />
+      <text id="4">le grès et</text>
+      <span begin="197" end="210" id="5" />
+      <text id="5">le quartzite,</text>
+      <span begin="211" end="224" id="6" />
+      <text id="6">le gneiss et</text>
+      <span begin="224" end="235" id="7" />
+      <text id="7">le granite,</text>
+      <span begin="236" end="249" id="8" />
+      <text id="8">le basalte et</text>
+      <span begin="250" end="299" id="9" />
+      <text id="9">certains conglomérats (cavités pseudokarstiques).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="73" />
+      <text>Concernant les animaux à sang chaud, généralement, es espèces volantes (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="72" end="87" id="0" />
+      <text id="0">(chauve-souris,</text>
+      <span begin="88" end="132" id="1" />
+      <text id="1">oiseaux les ont plus facilement colonisées).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="107" />
+      <text>Au XVIII, l'architecture baroque reprit à son compte le thème de la grotte pour aménager les parcs des x :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="107" end="138" id="0" />
+      <text id="0">voyez par ex. Pommersfelden ou</text>
+      <span begin="139" end="166" id="1" />
+      <text id="1">le château de Wilhelmsthal.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="52" end="72" id="0" />
+      <text id="0">es espèces volantes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="73" end="87" id="0" />
+      <text id="0">chauve-souris,</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="88" end="96" id="0" />
+      <text id="0">oiseaux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="90" end="106" id="0" />
+      <text id="0">les parcs des x</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="122" end="135" id="0" />
+      <text id="0">Pommersfelden</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="139" end="165" id="0" />
+      <text id="0">le château de Wilhelmsthal</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="2" localisation="item" idItem="0">
+      <span begin="108" end="121" id="0" />
+      <text id="0">voyez par ex.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:06</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:06</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:06</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:06</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:45</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:46</date>
+      <document>Grotte.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

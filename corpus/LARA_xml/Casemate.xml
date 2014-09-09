@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Casemate
+
+Par extension, dans la Ligne Maginot et les fortifications du XXe, une casemate peut être une construction isolée mais de taille assez importante.
+Blockhaus
+Blockhaus est un mot allemand équivalent du mot anglais blockhouse (tous deux issus du moyen néerlandais blochuus cf. français blocus) qui désigne à l'origine une maison forte, un fortin construit généralement avec des bois empilés, bruts ou facés, à la manière des fustes. C'est typiquement le fortin anglais d'Amérique du Nord.
+Le terme est passé aux retranchements de campagne enterrés, d'abord blindés avec de gros troncs, puis en béton armé, utilisés massivement par l'armée allemande pendant la Première Guerre mondiale. Les poilus qui s'abritaient dans d'infâmes cagnas ont adopté le mot.
+La langue allemande emploie toujours le mot blockhaus pour désigner une maison en rondin, une fuste.
+En français courant, blockhaus est devenu un terme générique comme bunker ou casemate et désigne désormais tout type d'ouvrage militaire bétonné, a priori isolé ou de petite dimension. Son équivalent strict est tout simplement bloc, employé pour la Ligne Maginot. Les militaires du génie écrivent aussi bloc bétonné. Ils réservent le terme de blockhaus à:
+En fortification de campagne, un retranchement protégé par des rondins et recouvert de terre, abritant des fantassins avec leur armement.
+En fortification permanente en pierre (système Séré de Rivières), le réduit d'une position d'infanterie, souvent situé en montagne, parfois en bord de mer, peu susceptible d'être battu par l'artillerie adverse, et constitué soit d'une tour munie de meurtrières, de bretèches ou de mâchicoulis, soit d'un casernement pourvu de volets métalliques percés de meurtrières.
+En fortification moderne (type Maginot), soit un petit ouvrage extérieur en béton équipé d'armes automatiques légères — les ouvrages de taille intermédiaire sont nommés casemates et les plus importants blocs — , soit un local intérieur pourvu d'un fusil mitrailleur et placé à un coude d'un couloir de communication afin de le battre en cas d'intrusion de l'adversaire.
+Bunker
+La casemate est appelée bunker principalement dans les pays anglo-saxons. Bunker est un mot anglais qui désigne un coffre, une soute (à charbon) de navire puis un abri à l'épreuve des obus ou des bombes. Il semblerait qu'il ait pris ce dernier sens pendant l'entre-deux-guerres mondiales, la langue anglaise conservant au mot blockhouse le sens originel de fortin d'infanterie. En français, il fait double emploi avec blockhaus et peut pratiquement toujours être rendu par casemate ou fortin.
+En français, on utilise souvent le terme de bunker (parfois aussi le terme de caveau) pour désigner une salle sécurisée et ventilée destinée à accueillir et à être utilisée pour le stockage de produits chimiques dangereux, dans les laboratoires de recherche et/ou d'enseignement en chimie.
+Casemate navale
+Sur certains navires de guerre de la fin du XIXe et du début du XXe, une partie de l'artillerie secondaire était abritée dans des casemates situées dans la coque.</text>
+      <span begin="3" end="3067" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Les militaires du génie écrivent aussi bloc bétonné. Ils réservent le terme de blockhaus à:
+En fortification de campagne, un retranchement protégé par des rondins et recouvert de terre, abritant des fantassins avec leur armement.
+En fortification permanente en pierre (système Séré de Rivières), le réduit d'une position d'infanterie, souvent situé en montagne, parfois en bord de mer, peu susceptible d'être battu par l'artillerie adverse, et constitué soit d'une tour munie de meurtrières, de bretèches ou de mâchicoulis, soit d'un casernement pourvu de volets métalliques percés de meurtrières.
+En fortification moderne (type Maginot), soit un petit ouvrage extérieur en béton équipé d'armes automatiques légères — les ouvrages de taille intermédiaire sont nommés casemates et les plus importants blocs — , soit un local intérieur pourvu d'un fusil mitrailleur et placé à un coude d'un couloir de communication afin de le battre en cas d'intrusion de l'adversaire.</text>
+      <span begin="1131" end="2098" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:30</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>En fortification moderne (type Maginot), soit un petit ouvrage extérieur en béton équipé d'armes automatiques légères — les ouvrages de taille intermédiaire sont nommés casemates et les plus importants blocs —</text>
+      <span begin="1729" end="1939" />
+    </SE>
+    <comment>NOTSEFINAL</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="casemate" postag="NC" morpho="g=f|n=s" head="0" dep="root">Casemate</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="par" postag="P" morpho="_" head="16" dep="mod">Par</word>
+        <word id="2" lem="extension" postag="NC" morpho="g=f|n=s" head="1" dep="prep">extension</word>
+        <word id="3" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+        <word id="4" lem="dans" postag="P" morpho="_" head="16" dep="mod">dans</word>
+        <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+        <word id="6" lem="Ligne" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Ligne</word>
+        <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Maginot</word>
+        <word id="8" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
+        <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+        <word id="10" lem="fortification" postag="NC" morpho="g=f|n=p" head="8" dep="dep_coord">fortifications</word>
+        <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="dep">du</word>
+        <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">XXe</word>
+        <word id="13" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+        <word id="14" lem="une" postag="DET" morpho="g=f|n=s" head="15" dep="det">une</word>
+        <word id="15" lem="casemate" postag="NC" morpho="g=f|n=s" head="16" dep="suj">casemate</word>
+        <word id="16" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+        <word id="17" lem="être" postag="VINF" morpho="_" head="16" dep="obj">être</word>
+        <word id="18" lem="une" postag="DET" morpho="g=f|n=s" head="19" dep="det">une</word>
+        <word id="19" lem="construction" postag="NC" morpho="g=f|n=s" head="17" dep="ats">construction</word>
+        <word id="20" lem="isoler" postag="ADJ" morpho="g=f|n=s|t=past" head="19" dep="mod">isolée</word>
+        <word id="21" lem="mais" postag="CC" morpho="_" head="16" dep="coord">mais</word>
+        <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep_coord">de</word>
+        <word id="23" lem="taille" postag="NC" morpho="g=f|n=s" head="22" dep="prep">taille</word>
+        <word id="24" lem="assez" postag="ADV" morpho="_" head="25" dep="mod">assez</word>
+        <word id="25" lem="important" postag="ADJ" morpho="g=f|n=s" head="23" dep="mod">importante</word>
+        <word id="26" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="blockhaus" postag="NC" morpho="g=m" head="0" dep="root">Blockhaus</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="blockhaus" postag="NC" morpho="g=m" head="2" dep="suj">Blockhaus</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="mot" postag="NC" morpho="g=m|n=s" head="2" dep="ats">mot</word>
+          <word id="5" lem="allemand" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">allemand</word>
+          <word id="6" lem="équivalent" postag="NC" morpho="g=m|n=s" head="4" dep="mod">équivalent</word>
+          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
+          <word id="8" lem="mot" postag="NC" morpho="g=m|n=s" head="7" dep="prep">mot</word>
+          <word id="9" lem="anglais" postag="ADJ" morpho="g=m" head="8" dep="mod">anglais</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">blockhouse</word>
+          <word id="11" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
+          <word id="12" lem="tout" postag="ADJ" morpho="g=m|n=p" head="13" dep="mod">tous</word>
+          <word id="13" lem="deux" postag="NC" morpho="g=m" head="8" dep="mod">deux</word>
+          <word id="14" lem="issir" postag="VPP" morpho="g=m|n=p|t=past" head="13" dep="mod">issus</word>
+          <word id="15" lem="de" postag="P+D" morpho="g=m|n=s" head="14" dep="de_obj">du</word>
+          <word id="16" lem="moyen" postag="NC" morpho="g=m|n=s" head="15" dep="prep">moyen</word>
+          <word id="17" lem="néerlandais" postag="ADJ" morpho="g=m" head="16" dep="mod">néerlandais</word>
+          <word id="18" lem="_" postag="NPP" morpho="_" head="16" dep="mod">blochuus</word>
+          <word id="19" lem="cf" postag="P" morpho="_" head="14" dep="mod">cf</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="français" postag="ADJ" morpho="g=m" head="2" dep="mod">français</word>
+          <word id="2" lem="blocus" postag="NC" morpho="g=m" head="0" dep="_">blocus</word>
+          <word id="3" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="4" lem="qui" postag="PROREL" morpho="n=s" head="5" dep="suj">qui</word>
+          <word id="5" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">désigne</word>
+          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="mod">à</word>
+          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
+          <word id="8" lem="origine" postag="NC" morpho="g=f|n=s" head="6" dep="prep">origine</word>
+          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
+          <word id="10" lem="maison" postag="NC" morpho="g=f|n=s" head="5" dep="obj">maison</word>
+          <word id="11" lem="fort" postag="ADJ" morpho="g=f|n=s" head="10" dep="mod">forte</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
+          <word id="14" lem="fortin" postag="NC" morpho="g=m|n=s" head="5" dep="obj">fortin</word>
+          <word id="15" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="14" dep="mod">construit</word>
+          <word id="16" lem="généralement" postag="ADV" morpho="_" head="15" dep="mod">généralement</word>
+          <word id="17" lem="avec" postag="P" morpho="_" head="15" dep="mod">avec</word>
+          <word id="18" lem="des" postag="DET" morpho="n=p" head="19" dep="det">des</word>
+          <word id="19" lem="bois" postag="NC" morpho="g=m" head="17" dep="prep">bois</word>
+          <word id="20" lem="empiler" postag="VPP" morpho="g=m|n=p|t=past" head="19" dep="mod">empilés</word>
+          <word id="21" lem="," postag="PONCT" morpho="_" head="19" dep="ponct">,</word>
+          <word id="22" lem="brut" postag="ADJ" morpho="g=m|n=p" head="19" dep="mod">bruts</word>
+          <word id="23" lem="ou" postag="CC" morpho="_" head="22" dep="coord">ou</word>
+          <word id="24" lem="_" postag="ADJ" morpho="_" head="23" dep="dep_coord">facés</word>
+          <word id="25" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
+          <word id="26" lem="à" postag="P" morpho="_" head="15" dep="a_obj">à</word>
+          <word id="27" lem="la" postag="DET" morpho="g=f|n=s" head="28" dep="det">la</word>
+          <word id="28" lem="manière" postag="NC" morpho="g=f|n=s" head="26" dep="prep">manière</word>
+          <word id="29" lem="de" postag="P+D" morpho="n=p" head="28" dep="dep">des</word>
+          <word id="30" lem="_" postag="NC" morpho="_" head="29" dep="prep">fustes</word>
+          <word id="31" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="typiquement" postag="ADV" morpho="_" head="2" dep="mod">typiquement</word>
+          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
+          <word id="5" lem="fortin" postag="NC" morpho="g=m|n=s" head="2" dep="ats">fortin</word>
+          <word id="6" lem="anglais" postag="ADJ" morpho="g=m" head="5" dep="mod">anglais</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
+          <word id="8" lem="Amérique" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Amérique</word>
+          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
+          <word id="10" lem="Nord" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Nord</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="terme" postag="NC" morpho="g=m|n=s" head="4" dep="suj">terme</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
+          <word id="4" lem="passer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">passé</word>
+          <word id="5" lem="à" postag="P+D" morpho="n=p" head="4" dep="a_obj">aux</word>
+          <word id="6" lem="retranchement" postag="NC" morpho="g=m|n=p" head="5" dep="prep">retranchements</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="campagne" postag="NC" morpho="g=f|n=s" head="7" dep="prep">campagne</word>
+          <word id="9" lem="enterrer" postag="VPP" morpho="g=m|n=p|t=past" head="6" dep="mod">enterrés</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="11" lem="d'abord" postag="ADV" morpho="_" head="12" dep="mod">d'abord</word>
+          <word id="12" lem="blinder" postag="VPP" morpho="g=m|n=p|t=past" head="6" dep="mod">blindés</word>
+          <word id="13" lem="avec" postag="P" morpho="_" head="12" dep="mod">avec</word>
+          <word id="14" lem="de" postag="DET" morpho="n=p" head="16" dep="det">de</word>
+          <word id="15" lem="gros" postag="ADJ" morpho="g=m" head="16" dep="mod">gros</word>
+          <word id="16" lem="tronc" postag="NC" morpho="g=m|n=p" head="13" dep="prep">troncs</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
+          <word id="18" lem="puis" postag="CC" morpho="_" head="12" dep="coord">puis</word>
+          <word id="19" lem="en" postag="P" morpho="_" head="18" dep="dep_coord">en</word>
+          <word id="20" lem="béton" postag="NC" morpho="g=m|n=s" head="19" dep="prep">béton</word>
+          <word id="21" lem="armer" postag="ADJ" morpho="g=m|n=s|t=past" head="20" dep="mod">armé</word>
+          <word id="22" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="23" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="6" dep="mod">utilisés</word>
+          <word id="24" lem="massivement" postag="ADV" morpho="_" head="23" dep="mod">massivement</word>
+          <word id="25" lem="par" postag="P" morpho="_" head="23" dep="p_obj">par</word>
+          <word id="26" lem="l'" postag="DET" morpho="n=s" head="27" dep="det">l'</word>
+          <word id="27" lem="armée" postag="NC" morpho="g=f|n=s" head="25" dep="prep">armée</word>
+          <word id="28" lem="allemand" postag="ADJ" morpho="g=f|n=s" head="27" dep="mod">allemande</word>
+          <word id="29" lem="pendant" postag="P" morpho="_" head="23" dep="mod">pendant</word>
+          <word id="30" lem="la" postag="DET" morpho="g=f|n=s" head="31" dep="det">la</word>
+          <word id="31" lem="_" postag="NPP" morpho="_" head="29" dep="prep">Première</word>
+          <word id="32" lem="_" postag="NPP" morpho="_" head="31" dep="mod">Guerre</word>
+          <word id="33" lem="mondial" postag="ADJ" morpho="g=f|n=s" head="32" dep="mod">mondiale</word>
+          <word id="34" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="poilu" postag="NC" morpho="g=m|n=p" head="11" dep="suj">poilus</word>
+          <word id="3" lem="qui" postag="PROREL" morpho="n=s" head="5" dep="suj">qui</word>
+          <word id="4" lem="se" postag="CLR" morpho="p=3" head="5" dep="aff">s'</word>
+          <word id="5" lem="abriter" postag="V" morpho="n=p|p=3|t=imp" head="2" dep="mod_rel">abritaient</word>
+          <word id="6" lem="dans" postag="P" morpho="_" head="5" dep="mod">dans</word>
+          <word id="7" lem="de" postag="DET" morpho="n=p" head="9" dep="det">d'</word>
+          <word id="8" lem="infâme" postag="ADJ" morpho="n=p" head="9" dep="mod">infâmes</word>
+          <word id="9" lem="cagna" postag="NC" morpho="g=m|n=p" head="6" dep="prep">cagnas</word>
+          <word id="10" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="11" dep="aux_tps">ont</word>
+          <word id="11" lem="adopter" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">adopté</word>
+          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
+          <word id="13" lem="mot" postag="NC" morpho="g=m|n=s" head="11" dep="obj">mot</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
+        </sentence>
+        <sentence id="7">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="langue" postag="NC" morpho="g=f|n=s" head="4" dep="suj">langue</word>
+          <word id="3" lem="allemand" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">allemande</word>
+          <word id="4" lem="employer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">emploie</word>
+          <word id="5" lem="toujours" postag="ADV" morpho="_" head="4" dep="mod">toujours</word>
+          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
+          <word id="7" lem="mot" postag="NC" morpho="g=m|n=s" head="4" dep="obj">mot</word>
+          <word id="8" lem="blockhaus" postag="NC" morpho="g=m" head="7" dep="mod">blockhaus</word>
+          <word id="9" lem="pour" postag="P" morpho="_" head="4" dep="mod">pour</word>
+          <word id="10" lem="désigner" postag="VINF" morpho="_" head="9" dep="prep">désigner</word>
+          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+          <word id="12" lem="maison" postag="NC" morpho="g=f|n=s" head="10" dep="obj">maison</word>
+          <word id="13" lem="en" postag="P" morpho="_" head="12" dep="dep">en</word>
+          <word id="14" lem="rondin" postag="NC" morpho="g=m|n=s" head="13" dep="prep">rondin</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="16" lem="une" postag="DET" morpho="g=f|n=s" head="17" dep="det">une</word>
+          <word id="17" lem="_" postag="NC" morpho="_" head="10" dep="obj">fuste</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+        <sentence id="8">
+          <word id="1" lem="en" postag="P" morpho="_" head="7" dep="mod">En</word>
+          <word id="2" lem="français" postag="NC" morpho="g=m" head="1" dep="prep">français</word>
+          <word id="3" lem="courant" postag="NC" morpho="g=m|n=s" head="2" dep="mod">courant</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="5" lem="blockhaus" postag="NC" morpho="g=m" head="7" dep="suj">blockhaus</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="aux_tps">est</word>
+          <word id="7" lem="devenir" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">devenu</word>
+          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
+          <word id="9" lem="terme" postag="NC" morpho="g=m|n=s" head="7" dep="ats">terme</word>
+          <word id="10" lem="générique" postag="ADJ" morpho="n=s" head="9" dep="mod">générique</word>
+          <word id="11" lem="comme" postag="P" morpho="_" head="7" dep="mod">comme</word>
+          <word id="12" lem="bunker" postag="NC" morpho="g=m|n=s" head="11" dep="prep">bunker</word>
+          <word id="13" lem="ou" postag="CC" morpho="_" head="12" dep="coord">ou</word>
+          <word id="14" lem="casemate" postag="NC" morpho="g=f|n=s" head="13" dep="dep_coord">casemate</word>
+          <word id="15" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
+          <word id="16" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="15" dep="dep_coord">désigne</word>
+          <word id="17" lem="désormais" postag="ADV" morpho="_" head="16" dep="mod">désormais</word>
+          <word id="18" lem="tout" postag="DET" morpho="g=m|n=s" head="19" dep="det">tout</word>
+          <word id="19" lem="type" postag="NC" morpho="g=m|n=s" head="16" dep="obj">type</word>
+          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
+          <word id="21" lem="ouvrage" postag="NC" morpho="g=m|n=s" head="20" dep="prep">ouvrage</word>
+          <word id="22" lem="militaire" postag="ADJ" morpho="n=s" head="21" dep="mod">militaire</word>
+          <word id="23" lem="bétonner" postag="VPP" morpho="g=m|n=s|t=past" head="19" dep="mod">bétonné</word>
+          <word id="24" lem="," postag="PONCT" morpho="_" head="19" dep="ponct">,</word>
+          <word id="25" lem="a_priori" postag="ADV" morpho="_" head="26" dep="mod">a_priori</word>
+          <word id="26" lem="isoler" postag="ADJ" morpho="g=m|n=s|t=past" head="19" dep="mod">isolé</word>
+          <word id="27" lem="ou" postag="CC" morpho="_" head="19" dep="coord">ou</word>
+          <word id="28" lem="de" postag="P" morpho="_" head="27" dep="dep_coord">de</word>
+          <word id="29" lem="petit" postag="ADJ" morpho="g=f|n=s" head="30" dep="mod">petite</word>
+          <word id="30" lem="dimension" postag="NC" morpho="g=f|n=s" head="28" dep="prep">dimension</word>
+          <word id="31" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+        <sentence id="9">
+          <word id="1" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="2" dep="det">Son</word>
+          <word id="2" lem="équivalent" postag="NC" morpho="g=m|n=s" head="4" dep="suj">équivalent</word>
+          <word id="3" lem="strict" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">strict</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="tout" postag="ADV" morpho="_" head="6" dep="mod">tout</word>
+          <word id="6" lem="simplement" postag="ADV" morpho="_" head="4" dep="mod">simplement</word>
+          <word id="7" lem="bloc" postag="NC" morpho="g=m|n=s" head="4" dep="ats">bloc</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="9" lem="employer" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod">employé</word>
+          <word id="10" lem="pour" postag="P" morpho="_" head="9" dep="mod">pour</word>
+          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
+          <word id="12" lem="Ligne" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Ligne</word>
+          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Maginot</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+        <sentence id="10">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="militaire" postag="NC" morpho="g=m|n=p" head="5" dep="suj">militaires</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="génie" postag="NC" morpho="g=m|n=s" head="3" dep="prep">génie</word>
+          <word id="5" lem="écrire" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">écrivent</word>
+          <word id="6" lem="aussi" postag="ADV" morpho="_" head="5" dep="mod">aussi</word>
+          <word id="7" lem="bloc" postag="NC" morpho="g=m|n=s" head="5" dep="obj">bloc</word>
+          <word id="8" lem="bétonner" postag="ADJ" morpho="g=m|n=s|t=past" head="7" dep="mod">bétonné</word>
+          <word id="9" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+        <sentence id="11">
+          <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="2" dep="suj">Ils</word>
+          <word id="2" lem="réserver" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">réservent</word>
+          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
+          <word id="4" lem="terme" postag="NC" morpho="g=m|n=s" head="2" dep="obj">terme</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="blockhaus" postag="NC" morpho="g=m" head="5" dep="prep">blockhaus</word>
+          <word id="7" lem="à" postag="P" morpho="_" head="2" dep="mod">à</word>
+          <word id="8" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+        </sentence>
+        <sentence id="12">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="fortification" postag="NC" morpho="g=f|n=s" head="1" dep="prep">fortification</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="campagne" postag="NC" morpho="g=f|n=s" head="3" dep="prep">campagne</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="7" lem="retranchement" postag="NC" morpho="g=m|n=s" head="0" dep="_">retranchement</word>
+          <word id="8" lem="protéger" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod">protégé</word>
+          <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
+          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
+          <word id="11" lem="rondin" postag="NC" morpho="g=m|n=p" head="9" dep="prep">rondins</word>
+          <word id="12" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="13" lem="recouvrir" postag="VPP" morpho="g=m|n=s|t=past" head="12" dep="dep_coord">recouvert</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="de_obj">de</word>
+          <word id="15" lem="terre" postag="NC" morpho="g=f|n=s" head="14" dep="prep">terre</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="17" lem="abriter" postag="VPR" morpho="t=pst" head="7" dep="mod">abritant</word>
+          <word id="18" lem="des" postag="DET" morpho="n=p" head="19" dep="det">des</word>
+          <word id="19" lem="fantassin" postag="NC" morpho="g=m|n=p" head="17" dep="obj">fantassins</word>
+          <word id="20" lem="avec" postag="P" morpho="_" head="17" dep="mod">avec</word>
+          <word id="21" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="22" dep="det">leur</word>
+          <word id="22" lem="armement" postag="NC" morpho="g=m|n=s" head="20" dep="prep">armement</word>
+          <word id="23" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+        <sentence id="13">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="fortification" postag="NC" morpho="g=f|n=s" head="1" dep="prep">fortification</word>
+          <word id="3" lem="permanent" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">permanente</word>
+          <word id="4" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="5" lem="pierre" postag="NC" morpho="g=f|n=s" head="4" dep="prep">pierre</word>
+          <word id="6" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="7" lem="système" postag="NC" morpho="g=m|n=s" head="2" dep="mod">système</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Séré</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Rivières</word>
+          <word id="11" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
+          <word id="14" lem="réduit" postag="NC" morpho="g=m|n=s" head="0" dep="_">réduit</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">d'</word>
+          <word id="16" lem="une" postag="DET" morpho="g=f|n=s" head="17" dep="det">une</word>
+          <word id="17" lem="position" postag="NC" morpho="g=f|n=s" head="15" dep="prep">position</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">d'</word>
+          <word id="19" lem="infanterie" postag="NC" morpho="g=f|n=s" head="18" dep="prep">infanterie</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="21" lem="souvent" postag="ADV" morpho="_" head="22" dep="mod">souvent</word>
+          <word id="22" lem="situer" postag="VPP" morpho="g=m|n=s|t=past" head="14" dep="mod">situé</word>
+          <word id="23" lem="en" postag="P" morpho="_" head="22" dep="mod">en</word>
+          <word id="24" lem="montagne" postag="NC" morpho="g=f|n=s" head="23" dep="prep">montagne</word>
+          <word id="25" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="26" lem="parfois" postag="ADV" morpho="_" head="22" dep="mod">parfois</word>
+          <word id="27" lem="en" postag="P" morpho="_" head="22" dep="mod">en</word>
+          <word id="28" lem="bord" postag="NC" morpho="g=m|n=s" head="27" dep="prep">bord</word>
+          <word id="29" lem="de" postag="P" morpho="_" head="28" dep="dep">de</word>
+          <word id="30" lem="mer" postag="NC" morpho="g=f|n=s" head="29" dep="prep">mer</word>
+          <word id="31" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="32" lem="peu" postag="ADV" morpho="_" head="33" dep="mod">peu</word>
+          <word id="33" lem="susceptible" postag="ADJ" morpho="n=s" head="22" dep="mod">susceptible</word>
+          <word id="34" lem="de" postag="P" morpho="_" head="33" dep="de_obj">d'</word>
+          <word id="35" lem="être" postag="VINF" morpho="_" head="36" dep="aux_pass">être</word>
+          <word id="36" lem="battre" postag="VPP" morpho="g=m|n=s|t=past" head="34" dep="prep">battu</word>
+          <word id="37" lem="par" postag="P" morpho="_" head="36" dep="p_obj">par</word>
+          <word id="38" lem="l'" postag="DET" morpho="n=s" head="39" dep="det">l'</word>
+          <word id="39" lem="artillerie" postag="NC" morpho="g=f|n=s" head="37" dep="prep">artillerie</word>
+          <word id="40" lem="adverse" postag="ADJ" morpho="n=s" head="39" dep="mod">adverse</word>
+          <word id="41" lem="," postag="PONCT" morpho="_" head="36" dep="ponct">,</word>
+          <word id="42" lem="et" postag="CC" morpho="_" head="36" dep="coord">et</word>
+          <word id="43" lem="constituer" postag="VPP" morpho="g=m|n=s|t=past" head="42" dep="dep_coord">constitué</word>
+          <word id="44" lem="soit" postag="CC" morpho="_" head="34" dep="coord">soit</word>
+          <word id="45" lem="de" postag="P" morpho="_" head="44" dep="dep_coord">d'</word>
+          <word id="46" lem="une" postag="DET" morpho="g=f|n=s" head="47" dep="det">une</word>
+          <word id="47" lem="tour" postag="NC" morpho="n=s" head="45" dep="prep">tour</word>
+          <word id="48" lem="munir" postag="VPP" morpho="g=f|n=s|t=past" head="47" dep="mod">munie</word>
+          <word id="49" lem="de" postag="P" morpho="_" head="48" dep="de_obj">de</word>
+          <word id="50" lem="meurtrière" postag="NC" morpho="g=f|n=p" head="49" dep="prep">meurtrières</word>
+          <word id="51" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="52" lem="de" postag="P" morpho="_" head="22" dep="de_obj">de</word>
+          <word id="53" lem="bretèche" postag="NC" morpho="g=f|n=p" head="52" dep="prep">bretèches</word>
+          <word id="54" lem="ou" postag="CC" morpho="_" head="52" dep="coord">ou</word>
+          <word id="55" lem="de" postag="P" morpho="_" head="54" dep="dep_coord">de</word>
+          <word id="56" lem="mâchicoulis" postag="NC" morpho="g=m" head="55" dep="prep">mâchicoulis</word>
+          <word id="57" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="58" lem="soit" postag="CC" morpho="_" head="22" dep="coord">soit</word>
+          <word id="59" lem="de" postag="P" morpho="_" head="58" dep="dep_coord">d'</word>
+          <word id="60" lem="un" postag="DET" morpho="g=m|n=s" head="61" dep="det">un</word>
+          <word id="61" lem="casernement" postag="NC" morpho="g=m|n=s" head="59" dep="prep">casernement</word>
+          <word id="62" lem="pourvoir" postag="VPP" morpho="g=m|n=s|t=past" head="61" dep="mod">pourvu</word>
+          <word id="63" lem="de" postag="P" morpho="_" head="62" dep="de_obj">de</word>
+          <word id="64" lem="volet" postag="NC" morpho="g=m|n=p" head="63" dep="prep">volets</word>
+          <word id="65" lem="métallique" postag="ADJ" morpho="n=p" head="64" dep="mod">métalliques</word>
+          <word id="66" lem="percer" postag="VPP" morpho="g=m|n=p|t=past" head="64" dep="mod">percés</word>
+          <word id="67" lem="de" postag="P" morpho="_" head="66" dep="de_obj">de</word>
+          <word id="68" lem="meurtrière" postag="NC" morpho="g=f|n=p" head="67" dep="prep">meurtrières</word>
+          <word id="69" lem="." postag="PONCT" morpho="_" head="14" dep="ponct">.</word>
+        </sentence>
+        <sentence id="14">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="fortification" postag="NC" morpho="g=f|n=s" head="1" dep="prep">fortification</word>
+          <word id="3" lem="moderne" postag="ADJ" morpho="n=s" head="2" dep="mod">moderne</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="5" lem="type" postag="NC" morpho="g=m|n=s" head="2" dep="mod">type</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Maginot</word>
+          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="9" lem="soit" postag="CC" morpho="_" head="1" dep="coord">soit</word>
+          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
+          <word id="11" lem="petit" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">petit</word>
+          <word id="12" lem="ouvrage" postag="NC" morpho="g=m|n=s" head="9" dep="dep_coord">ouvrage</word>
+          <word id="13" lem="extérieur" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">extérieur</word>
+          <word id="14" lem="en" postag="P" morpho="_" head="12" dep="dep">en</word>
+          <word id="15" lem="béton" postag="NC" morpho="g=m|n=s" head="14" dep="prep">béton</word>
+          <word id="16" lem="équiper" postag="VPP" morpho="g=m|n=s|t=past" head="12" dep="mod">équipé</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="de_obj">d'</word>
+          <word id="18" lem="arme" postag="NC" morpho="g=f|n=p" head="17" dep="prep">armes</word>
+          <word id="19" lem="automatique" postag="ADJ" morpho="n=p" head="18" dep="mod">automatiques</word>
+          <word id="20" lem="léger" postag="ADJ" morpho="g=f|n=p" head="18" dep="mod">légères</word>
+          <word id="21" lem="-" postag="PONCT" morpho="_" head="12" dep="ponct">-</word>
+          <word id="22" lem="les" postag="DET" morpho="n=p" head="23" dep="det">les</word>
+          <word id="23" lem="ouvrage" postag="NC" morpho="g=m|n=p" head="12" dep="mod">ouvrages</word>
+          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="25" lem="taille" postag="NC" morpho="g=f|n=s" head="24" dep="prep">taille</word>
+          <word id="26" lem="intermédiaire" postag="ADJ" morpho="n=s" head="25" dep="mod">intermédiaire</word>
+          <word id="27" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="28" dep="aux_pass">sont</word>
+          <word id="28" lem="nommer" postag="VPP" morpho="g=m|n=p|t=past" head="23" dep="mod_rel">nommés</word>
+          <word id="29" lem="casemate" postag="NC" morpho="g=f|n=p" head="28" dep="suj">casemates</word>
+          <word id="30" lem="et" postag="CC" morpho="_" head="29" dep="coord">et</word>
+          <word id="31" lem="les" postag="DET" morpho="n=p" head="34" dep="det">les</word>
+          <word id="32" lem="plus" postag="ADV" morpho="_" head="33" dep="mod">plus</word>
+          <word id="33" lem="important" postag="ADJ" morpho="g=m|n=p" head="34" dep="mod">importants</word>
+          <word id="34" lem="bloc" postag="NC" morpho="g=m|n=p" head="30" dep="dep_coord">blocs</word>
+          <word id="35" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
+          <word id="36" lem="," postag="PONCT" morpho="_" head="37" dep="ponct">,</word>
+          <word id="37" lem="soit" postag="CC" morpho="_" head="1" dep="coord">soit</word>
+          <word id="38" lem="un" postag="DET" morpho="g=m|n=s" head="39" dep="det">un</word>
+          <word id="39" lem="local" postag="NC" morpho="g=m|n=s" head="37" dep="dep_coord">local</word>
+          <word id="40" lem="intérieur" postag="ADJ" morpho="g=m|n=s" head="39" dep="mod">intérieur</word>
+          <word id="41" lem="pourvoir" postag="VPP" morpho="g=m|n=s|t=past" head="39" dep="mod">pourvu</word>
+          <word id="42" lem="de" postag="P" morpho="_" head="41" dep="de_obj">d'</word>
+          <word id="43" lem="un" postag="DET" morpho="g=m|n=s" head="44" dep="det">un</word>
+          <word id="44" lem="fusil" postag="NC" morpho="g=m|n=s" head="42" dep="prep">fusil</word>
+          <word id="45" lem="_" postag="ADJ" morpho="_" head="44" dep="mod">mitrailleur</word>
+          <word id="46" lem="et" postag="CC" morpho="_" head="41" dep="coord">et</word>
+          <word id="47" lem="placer" postag="VPP" morpho="g=m|n=s|t=past" head="46" dep="dep_coord">placé</word>
+          <word id="48" lem="à" postag="P" morpho="_" head="47" dep="a_obj">à</word>
+          <word id="49" lem="un" postag="DET" morpho="g=m|n=s" head="50" dep="det">un</word>
+          <word id="50" lem="coude" postag="NC" morpho="g=m|n=s" head="48" dep="prep">coude</word>
+          <word id="51" lem="de" postag="P" morpho="_" head="50" dep="dep">d'</word>
+          <word id="52" lem="un" postag="DET" morpho="g=m|n=s" head="53" dep="det">un</word>
+          <word id="53" lem="couloir" postag="NC" morpho="g=m|n=s" head="51" dep="prep">couloir</word>
+          <word id="54" lem="de" postag="P" morpho="_" head="53" dep="dep">de</word>
+          <word id="55" lem="communication" postag="NC" morpho="g=f|n=s" head="54" dep="prep">communication</word>
+          <word id="56" lem="afin_de" postag="P" morpho="_" head="37" dep="dep_coord">afin_de</word>
+          <word id="57" lem="le" postag="CLO" morpho="g=m|n=s|p=3" head="58" dep="obj">le</word>
+          <word id="58" lem="battre" postag="VINF" morpho="_" head="56" dep="prep">battre</word>
+          <word id="59" lem="en_cas_de" postag="P" morpho="_" head="58" dep="mod">en_cas_d'</word>
+          <word id="60" lem="intrusion" postag="NC" morpho="g=f|n=s" head="59" dep="prep">intrusion</word>
+          <word id="61" lem="de" postag="P" morpho="_" head="60" dep="dep">de</word>
+          <word id="62" lem="l'" postag="DET" morpho="n=s" head="63" dep="det">l'</word>
+          <word id="63" lem="adversaire" postag="NC" morpho="n=s" head="61" dep="prep">adversaire</word>
+          <word id="64" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="bunker" postag="NC" morpho="g=m|n=s" head="0" dep="root">Bunker</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="casemate" postag="NC" morpho="g=f|n=s" head="4" dep="suj">casemate</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
+          <word id="4" lem="appeler" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">appelée</word>
+          <word id="5" lem="bunker" postag="NC" morpho="g=m|n=s" head="4" dep="mod">bunker</word>
+          <word id="6" lem="principalement" postag="ADV" morpho="_" head="5" dep="mod">principalement</word>
+          <word id="7" lem="dans" postag="P" morpho="_" head="4" dep="mod">dans</word>
+          <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
+          <word id="9" lem="pays" postag="NC" morpho="g=m" head="7" dep="prep">pays</word>
+          <word id="10" lem="anglo-saxon" postag="ADJ" morpho="g=m|n=p" head="9" dep="mod">anglo-saxons</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="bunker" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Bunker</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="mot" postag="NC" morpho="g=m|n=s" head="2" dep="ats">mot</word>
+          <word id="5" lem="anglais" postag="ADJ" morpho="g=m" head="4" dep="mod">anglais</word>
+          <word id="6" lem="qui" postag="PROREL" morpho="n=s" head="7" dep="suj">qui</word>
+          <word id="7" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="4" dep="mod_rel">désigne</word>
+          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
+          <word id="9" lem="coffre" postag="NC" morpho="g=m|n=s" head="7" dep="obj">coffre</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+          <word id="12" lem="soute" postag="NC" morpho="g=f|n=s" head="2" dep="ats">soute</word>
+          <word id="13" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
+          <word id="14" lem="à" postag="P" morpho="_" head="12" dep="dep">à</word>
+          <word id="15" lem="charbon" postag="NC" morpho="g=m|n=s" head="14" dep="prep">charbon</word>
+          <word id="16" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+          <word id="18" lem="navire" postag="NC" morpho="g=m|n=s" head="17" dep="prep">navire</word>
+          <word id="19" lem="puis" postag="CC" morpho="_" head="12" dep="coord">puis</word>
+          <word id="20" lem="un" postag="DET" morpho="g=m|n=s" head="21" dep="det">un</word>
+          <word id="21" lem="abri" postag="NC" morpho="g=m|n=s" head="19" dep="dep_coord">abri</word>
+          <word id="22" lem="à" postag="P" morpho="_" head="21" dep="dep">à</word>
+          <word id="23" lem="l'" postag="DET" morpho="n=s" head="24" dep="det">l'</word>
+          <word id="24" lem="épreuve" postag="NC" morpho="g=f|n=s" head="22" dep="prep">épreuve</word>
+          <word id="25" lem="de" postag="P+D" morpho="n=p" head="24" dep="dep">des</word>
+          <word id="26" lem="obus" postag="NC" morpho="g=m" head="25" dep="prep">obus</word>
+          <word id="27" lem="ou" postag="CC" morpho="_" head="24" dep="coord">ou</word>
+          <word id="28" lem="des" postag="DET" morpho="n=p" head="29" dep="det">des</word>
+          <word id="29" lem="bombe" postag="NC" morpho="g=f|n=p" head="27" dep="dep_coord">bombes</word>
+          <word id="30" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="2" dep="suj">Il</word>
+          <word id="2" lem="sembler" postag="V" morpho="n=s|p=3|t=cond" head="0" dep="root">semblerait</word>
+          <word id="3" lem="que" postag="CS" morpho="_" head="2" dep="ats">qu'</word>
+          <word id="4" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="6" dep="suj">il</word>
+          <word id="5" lem="avoir" postag="VS" morpho="n=s|p=3|t=pst" head="6" dep="aux_tps">ait</word>
+          <word id="6" lem="prendre" postag="VPP" morpho="g=m|t=past" head="3" dep="sub">pris</word>
+          <word id="7" lem="ce" postag="DET" morpho="g=m|n=s" head="9" dep="det">ce</word>
+          <word id="8" lem="dernier" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">dernier</word>
+          <word id="9" lem="sens" postag="NC" morpho="g=m" head="6" dep="obj">sens</word>
+          <word id="10" lem="pendant" postag="P" morpho="_" head="6" dep="mod">pendant</word>
+          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
+          <word id="12" lem="entre-deux-guerres" postag="NC" morpho="g=m" head="10" dep="prep">entre-deux-guerres</word>
+          <word id="13" lem="mondial" postag="ADJ" morpho="g=f|n=p" head="12" dep="mod">mondiales</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+          <word id="16" lem="langue" postag="NC" morpho="g=f|n=s" head="6" dep="obj">langue</word>
+          <word id="17" lem="anglais" postag="ADJ" morpho="g=f|n=s" head="16" dep="mod">anglaise</word>
+          <word id="18" lem="conserver" postag="VPR" morpho="t=pst" head="16" dep="mod">conservant</word>
+          <word id="19" lem="à" postag="P+D" morpho="g=m|n=s" head="18" dep="mod">au</word>
+          <word id="20" lem="mot" postag="NC" morpho="g=m|n=s" head="19" dep="prep">mot</word>
+          <word id="21" lem="_" postag="ADV" morpho="_" head="18" dep="mod">blockhouse</word>
+          <word id="22" lem="le" postag="DET" morpho="g=m|n=s" head="23" dep="det">le</word>
+          <word id="23" lem="sens" postag="NC" morpho="g=m" head="18" dep="obj">sens</word>
+          <word id="24" lem="originel" postag="ADJ" morpho="g=m|n=s" head="23" dep="mod">originel</word>
+          <word id="25" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="26" lem="fortin" postag="NC" morpho="g=m|n=s" head="25" dep="prep">fortin</word>
+          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">d'</word>
+          <word id="28" lem="infanterie" postag="NC" morpho="g=f|n=s" head="27" dep="prep">infanterie</word>
+          <word id="29" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="en" postag="P" morpho="_" head="5" dep="mod">En</word>
+          <word id="2" lem="français" postag="NC" morpho="g=m" head="1" dep="prep">français</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="4" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="5" dep="suj">il</word>
+          <word id="5" lem="faire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">fait</word>
+          <word id="6" lem="double" postag="ADJ" morpho="n=s" head="7" dep="mod">double</word>
+          <word id="7" lem="emploi" postag="NC" morpho="g=m|n=s" head="5" dep="obj">emploi</word>
+          <word id="8" lem="avec" postag="P" morpho="_" head="5" dep="mod">avec</word>
+          <word id="9" lem="blockhaus" postag="NC" morpho="g=m" head="8" dep="prep">blockhaus</word>
+          <word id="10" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
+          <word id="11" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="dep_coord">peut</word>
+          <word id="12" lem="pratiquement" postag="ADV" morpho="_" head="13" dep="mod">pratiquement</word>
+          <word id="13" lem="toujours" postag="ADV" morpho="_" head="11" dep="mod">toujours</word>
+          <word id="14" lem="être" postag="VINF" morpho="_" head="15" dep="aux_pass">être</word>
+          <word id="15" lem="rendre" postag="VPP" morpho="g=m|n=s|t=past" head="11" dep="obj">rendu</word>
+          <word id="16" lem="par" postag="P" morpho="_" head="15" dep="mod">par</word>
+          <word id="17" lem="casemate" postag="NC" morpho="g=f|n=s" head="16" dep="prep">casemate</word>
+          <word id="18" lem="ou" postag="CC" morpho="_" head="17" dep="coord">ou</word>
+          <word id="19" lem="fortin" postag="NC" morpho="g=m|n=s" head="18" dep="dep_coord">fortin</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="en" postag="P" morpho="_" head="5" dep="mod">En</word>
+          <word id="2" lem="français" postag="NC" morpho="g=m" head="1" dep="prep">français</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="4" lem="on" postag="CLS" morpho="n=s|p=3" head="5" dep="suj">on</word>
+          <word id="5" lem="utiliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">utilise</word>
+          <word id="6" lem="souvent" postag="ADV" morpho="_" head="5" dep="mod">souvent</word>
+          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
+          <word id="8" lem="terme" postag="NC" morpho="g=m|n=s" head="5" dep="obj">terme</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="bunker" postag="NC" morpho="g=m|n=s" head="9" dep="prep">bunker</word>
+          <word id="11" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
+          <word id="12" lem="parfois" postag="ADV" morpho="_" head="13" dep="mod">parfois</word>
+          <word id="13" lem="aussi" postag="ADV" morpho="_" head="15" dep="mod">aussi</word>
+          <word id="14" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
+          <word id="15" lem="terme" postag="NC" morpho="g=m|n=s" head="8" dep="mod">terme</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
+          <word id="17" lem="caveau" postag="NC" morpho="g=m|n=s" head="16" dep="prep">caveau</word>
+          <word id="18" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="19" lem="pour" postag="P" morpho="_" head="5" dep="mod">pour</word>
+          <word id="20" lem="désigner" postag="VINF" morpho="_" head="19" dep="prep">désigner</word>
+          <word id="21" lem="une" postag="DET" morpho="g=f|n=s" head="22" dep="det">une</word>
+          <word id="22" lem="salle" postag="NC" morpho="g=f|n=s" head="20" dep="obj">salle</word>
+          <word id="23" lem="sécuriser" postag="ADJ" morpho="g=f|n=s|t=past" head="22" dep="mod">sécurisée</word>
+          <word id="24" lem="et" postag="CC" morpho="_" head="22" dep="coord">et</word>
+          <word id="25" lem="ventiler" postag="VPP" morpho="g=f|n=s|t=past" head="24" dep="dep_coord">ventilée</word>
+          <word id="26" lem="destiner" postag="VPP" morpho="g=f|n=s|t=past" head="25" dep="mod">destinée</word>
+          <word id="27" lem="à" postag="P" morpho="_" head="26" dep="a_obj">à</word>
+          <word id="28" lem="accueillir" postag="VINF" morpho="_" head="27" dep="prep">accueillir</word>
+          <word id="29" lem="et" postag="CC" morpho="_" head="27" dep="coord">et</word>
+          <word id="30" lem="à" postag="P" morpho="_" head="29" dep="dep_coord">à</word>
+          <word id="31" lem="être" postag="VINF" morpho="_" head="32" dep="aux_pass">être</word>
+          <word id="32" lem="utiliser" postag="VPP" morpho="g=f|n=s|t=past" head="30" dep="prep">utilisée</word>
+          <word id="33" lem="pour" postag="P" morpho="_" head="32" dep="mod">pour</word>
+          <word id="34" lem="le" postag="DET" morpho="g=m|n=s" head="35" dep="det">le</word>
+          <word id="35" lem="stockage" postag="NC" morpho="g=m|n=s" head="33" dep="prep">stockage</word>
+          <word id="36" lem="de" postag="P" morpho="_" head="35" dep="dep">de</word>
+          <word id="37" lem="produit" postag="NC" morpho="g=m|n=p" head="36" dep="prep">produits</word>
+          <word id="38" lem="chimique" postag="ADJ" morpho="n=p" head="37" dep="mod">chimiques</word>
+          <word id="39" lem="dangereux" postag="ADJ" morpho="g=m" head="37" dep="mod">dangereux</word>
+          <word id="40" lem="," postag="PONCT" morpho="_" head="32" dep="ponct">,</word>
+          <word id="41" lem="dans" postag="P" morpho="_" head="32" dep="mod">dans</word>
+          <word id="42" lem="les" postag="DET" morpho="n=p" head="43" dep="det">les</word>
+          <word id="43" lem="laboratoire" postag="NC" morpho="g=m|n=p" head="41" dep="prep">laboratoires</word>
+          <word id="44" lem="de" postag="P" morpho="_" head="43" dep="dep">de</word>
+          <word id="45" lem="recherche" postag="NC" morpho="g=f|n=s" head="44" dep="prep">recherche</word>
+          <word id="46" lem="et" postag="CC" morpho="_" head="43" dep="coord">et</word>
+          <word id="47" lem="/" postag="PONCT" morpho="_" head="46" dep="ponct">/</word>
+          <word id="48" lem="ou" postag="CC" morpho="_" head="46" dep="coord">ou</word>
+          <word id="49" lem="de" postag="P" morpho="_" head="48" dep="dep_coord">d'</word>
+          <word id="50" lem="enseignement" postag="NC" morpho="g=m|n=s" head="49" dep="prep">enseignement</word>
+          <word id="51" lem="en" postag="P" morpho="_" head="46" dep="dep_coord">en</word>
+          <word id="52" lem="chimie" postag="NC" morpho="g=f|n=s" head="51" dep="prep">chimie</word>
+          <word id="53" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="casemate" postag="NC" morpho="g=f|n=s" head="0" dep="_">Casemate</word>
+          <word id="2" lem="naval" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">navale</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="sur" postag="P" morpho="_" head="24" dep="mod">Sur</word>
+          <word id="2" lem="certains" postag="DET" morpho="g=m|n=p" head="3" dep="det">certains</word>
+          <word id="3" lem="navire" postag="NC" morpho="g=m|n=p" head="1" dep="prep">navires</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="guerre" postag="NC" morpho="g=f|n=s" head="4" dep="prep">guerre</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="fin" postag="NC" morpho="n=s" head="6" dep="prep">fin</word>
+          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">XIXe</word>
+          <word id="11" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
+          <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep_coord">du</word>
+          <word id="13" lem="début" postag="NC" morpho="g=m|n=s" head="12" dep="prep">début</word>
+          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="prep">XXe</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="24" dep="ponct">,</word>
+          <word id="17" lem="une" postag="DET" morpho="g=f|n=s" head="18" dep="det">une</word>
+          <word id="18" lem="partie" postag="NC" morpho="g=f|n=s" head="24" dep="suj">partie</word>
+          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
+          <word id="20" lem="l'" postag="DET" morpho="n=s" head="21" dep="det">l'</word>
+          <word id="21" lem="artillerie" postag="NC" morpho="g=f|n=s" head="19" dep="prep">artillerie</word>
+          <word id="22" lem="secondaire" postag="ADJ" morpho="n=s" head="21" dep="mod">secondaire</word>
+          <word id="23" lem="être" postag="V" morpho="n=s|p=3|t=imp" head="24" dep="aux_pass">était</word>
+          <word id="24" lem="abriter" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">abritée</word>
+          <word id="25" lem="dans" postag="P" morpho="_" head="24" dep="mod">dans</word>
+          <word id="26" lem="des" postag="DET" morpho="n=p" head="27" dep="det">des</word>
+          <word id="27" lem="casemate" postag="NC" morpho="g=f|n=p" head="25" dep="prep">casemates</word>
+          <word id="28" lem="situer" postag="VPP" morpho="g=f|n=p|t=past" head="27" dep="mod">situées</word>
+          <word id="29" lem="dans" postag="P" morpho="_" head="28" dep="mod">dans</word>
+          <word id="30" lem="la" postag="DET" morpho="g=f|n=s" head="31" dep="det">la</word>
+          <word id="31" lem="coque" postag="NC" morpho="g=f|n=s" head="29" dep="prep">coque</word>
+          <word id="32" lem="." postag="PONCT" morpho="_" head="24" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="militaire" postag="NC" morpho="g=m|n=p" head="5" dep="suj">militaires</word>
+        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+        <word id="4" lem="génie" postag="NC" morpho="g=m|n=s" head="3" dep="prep">génie</word>
+        <word id="5" lem="écrire" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">écrivent</word>
+        <word id="6" lem="aussi" postag="ADV" morpho="_" head="5" dep="mod">aussi</word>
+        <word id="7" lem="bloc" postag="NC" morpho="g=m|n=s" head="5" dep="obj">bloc</word>
+        <word id="8" lem="bétonner" postag="ADJ" morpho="g=m|n=s|t=past" head="7" dep="mod">bétonné</word>
+        <word id="9" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="2" dep="suj">Ils</word>
+        <word id="2" lem="réserver" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">réservent</word>
+        <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
+        <word id="4" lem="terme" postag="NC" morpho="g=m|n=s" head="2" dep="obj">terme</word>
+        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+        <word id="6" lem="blockhaus" postag="NC" morpho="g=m" head="5" dep="prep">blockhaus</word>
+        <word id="7" lem="à" postag="P" morpho="_" head="2" dep="mod">à</word>
+        <word id="8" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="fortification" postag="NC" morpho="g=f|n=s" head="1" dep="prep">fortification</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="campagne" postag="NC" morpho="g=f|n=s" head="3" dep="prep">campagne</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="7" lem="retranchement" postag="NC" morpho="g=m|n=s" head="0" dep="_">retranchement</word>
+          <word id="8" lem="protéger" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod">protégé</word>
+          <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
+          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
+          <word id="11" lem="rondin" postag="NC" morpho="g=m|n=p" head="9" dep="prep">rondins</word>
+          <word id="12" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="13" lem="recouvrir" postag="VPP" morpho="g=m|n=s|t=past" head="12" dep="dep_coord">recouvert</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="de_obj">de</word>
+          <word id="15" lem="terre" postag="NC" morpho="g=f|n=s" head="14" dep="prep">terre</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="17" lem="abriter" postag="VPR" morpho="t=pst" head="7" dep="mod">abritant</word>
+          <word id="18" lem="des" postag="DET" morpho="n=p" head="19" dep="det">des</word>
+          <word id="19" lem="fantassin" postag="NC" morpho="g=m|n=p" head="17" dep="obj">fantassins</word>
+          <word id="20" lem="avec" postag="P" morpho="_" head="17" dep="mod">avec</word>
+          <word id="21" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="22" dep="det">leur</word>
+          <word id="22" lem="armement" postag="NC" morpho="g=m|n=s" head="20" dep="prep">armement</word>
+          <word id="23" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="fortification" postag="NC" morpho="g=f|n=s" head="1" dep="prep">fortification</word>
+          <word id="3" lem="permanent" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">permanente</word>
+          <word id="4" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="5" lem="pierre" postag="NC" morpho="g=f|n=s" head="4" dep="prep">pierre</word>
+          <word id="6" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="7" lem="système" postag="NC" morpho="g=m|n=s" head="2" dep="mod">système</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Séré</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Rivières</word>
+          <word id="11" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
+          <word id="14" lem="réduit" postag="NC" morpho="g=m|n=s" head="0" dep="_">réduit</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">d'</word>
+          <word id="16" lem="une" postag="DET" morpho="g=f|n=s" head="17" dep="det">une</word>
+          <word id="17" lem="position" postag="NC" morpho="g=f|n=s" head="15" dep="prep">position</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">d'</word>
+          <word id="19" lem="infanterie" postag="NC" morpho="g=f|n=s" head="18" dep="prep">infanterie</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="21" lem="souvent" postag="ADV" morpho="_" head="22" dep="mod">souvent</word>
+          <word id="22" lem="situer" postag="VPP" morpho="g=m|n=s|t=past" head="14" dep="mod">situé</word>
+          <word id="23" lem="en" postag="P" morpho="_" head="22" dep="mod">en</word>
+          <word id="24" lem="montagne" postag="NC" morpho="g=f|n=s" head="23" dep="prep">montagne</word>
+          <word id="25" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="26" lem="parfois" postag="ADV" morpho="_" head="22" dep="mod">parfois</word>
+          <word id="27" lem="en" postag="P" morpho="_" head="22" dep="mod">en</word>
+          <word id="28" lem="bord" postag="NC" morpho="g=m|n=s" head="27" dep="prep">bord</word>
+          <word id="29" lem="de" postag="P" morpho="_" head="28" dep="dep">de</word>
+          <word id="30" lem="mer" postag="NC" morpho="g=f|n=s" head="29" dep="prep">mer</word>
+          <word id="31" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="32" lem="peu" postag="ADV" morpho="_" head="33" dep="mod">peu</word>
+          <word id="33" lem="susceptible" postag="ADJ" morpho="n=s" head="22" dep="mod">susceptible</word>
+          <word id="34" lem="de" postag="P" morpho="_" head="33" dep="de_obj">d'</word>
+          <word id="35" lem="être" postag="VINF" morpho="_" head="36" dep="aux_pass">être</word>
+          <word id="36" lem="battre" postag="VPP" morpho="g=m|n=s|t=past" head="34" dep="prep">battu</word>
+          <word id="37" lem="par" postag="P" morpho="_" head="36" dep="p_obj">par</word>
+          <word id="38" lem="l'" postag="DET" morpho="n=s" head="39" dep="det">l'</word>
+          <word id="39" lem="artillerie" postag="NC" morpho="g=f|n=s" head="37" dep="prep">artillerie</word>
+          <word id="40" lem="adverse" postag="ADJ" morpho="n=s" head="39" dep="mod">adverse</word>
+          <word id="41" lem="," postag="PONCT" morpho="_" head="36" dep="ponct">,</word>
+          <word id="42" lem="et" postag="CC" morpho="_" head="36" dep="coord">et</word>
+          <word id="43" lem="constituer" postag="VPP" morpho="g=m|n=s|t=past" head="42" dep="dep_coord">constitué</word>
+          <word id="44" lem="soit" postag="CC" morpho="_" head="34" dep="coord">soit</word>
+          <word id="45" lem="de" postag="P" morpho="_" head="44" dep="dep_coord">d'</word>
+          <word id="46" lem="une" postag="DET" morpho="g=f|n=s" head="47" dep="det">une</word>
+          <word id="47" lem="tour" postag="NC" morpho="n=s" head="45" dep="prep">tour</word>
+          <word id="48" lem="munir" postag="VPP" morpho="g=f|n=s|t=past" head="47" dep="mod">munie</word>
+          <word id="49" lem="de" postag="P" morpho="_" head="48" dep="de_obj">de</word>
+          <word id="50" lem="meurtrière" postag="NC" morpho="g=f|n=p" head="49" dep="prep">meurtrières</word>
+          <word id="51" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="52" lem="de" postag="P" morpho="_" head="22" dep="de_obj">de</word>
+          <word id="53" lem="bretèche" postag="NC" morpho="g=f|n=p" head="52" dep="prep">bretèches</word>
+          <word id="54" lem="ou" postag="CC" morpho="_" head="52" dep="coord">ou</word>
+          <word id="55" lem="de" postag="P" morpho="_" head="54" dep="dep_coord">de</word>
+          <word id="56" lem="mâchicoulis" postag="NC" morpho="g=m" head="55" dep="prep">mâchicoulis</word>
+          <word id="57" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="58" lem="soit" postag="CC" morpho="_" head="22" dep="coord">soit</word>
+          <word id="59" lem="de" postag="P" morpho="_" head="58" dep="dep_coord">d'</word>
+          <word id="60" lem="un" postag="DET" morpho="g=m|n=s" head="61" dep="det">un</word>
+          <word id="61" lem="casernement" postag="NC" morpho="g=m|n=s" head="59" dep="prep">casernement</word>
+          <word id="62" lem="pourvoir" postag="VPP" morpho="g=m|n=s|t=past" head="61" dep="mod">pourvu</word>
+          <word id="63" lem="de" postag="P" morpho="_" head="62" dep="de_obj">de</word>
+          <word id="64" lem="volet" postag="NC" morpho="g=m|n=p" head="63" dep="prep">volets</word>
+          <word id="65" lem="métallique" postag="ADJ" morpho="n=p" head="64" dep="mod">métalliques</word>
+          <word id="66" lem="percer" postag="VPP" morpho="g=m|n=p|t=past" head="64" dep="mod">percés</word>
+          <word id="67" lem="de" postag="P" morpho="_" head="66" dep="de_obj">de</word>
+          <word id="68" lem="meurtrière" postag="NC" morpho="g=f|n=p" head="67" dep="prep">meurtrières</word>
+          <word id="69" lem="." postag="PONCT" morpho="_" head="14" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="fortification" postag="NC" morpho="g=f|n=s" head="1" dep="prep">fortification</word>
+          <word id="3" lem="moderne" postag="ADJ" morpho="n=s" head="2" dep="mod">moderne</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="5" lem="type" postag="NC" morpho="g=m|n=s" head="2" dep="mod">type</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Maginot</word>
+          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="9" lem="soit" postag="CC" morpho="_" head="1" dep="coord">soit</word>
+          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
+          <word id="11" lem="petit" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">petit</word>
+          <word id="12" lem="ouvrage" postag="NC" morpho="g=m|n=s" head="9" dep="dep_coord">ouvrage</word>
+          <word id="13" lem="extérieur" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">extérieur</word>
+          <word id="14" lem="en" postag="P" morpho="_" head="12" dep="dep">en</word>
+          <word id="15" lem="béton" postag="NC" morpho="g=m|n=s" head="14" dep="prep">béton</word>
+          <word id="16" lem="équiper" postag="VPP" morpho="g=m|n=s|t=past" head="12" dep="mod">équipé</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="de_obj">d'</word>
+          <word id="18" lem="arme" postag="NC" morpho="g=f|n=p" head="17" dep="prep">armes</word>
+          <word id="19" lem="automatique" postag="ADJ" morpho="n=p" head="18" dep="mod">automatiques</word>
+          <word id="20" lem="léger" postag="ADJ" morpho="g=f|n=p" head="18" dep="mod">légères</word>
+          <word id="21" lem="-" postag="PONCT" morpho="_" head="12" dep="ponct">-</word>
+          <word id="22" lem="les" postag="DET" morpho="n=p" head="23" dep="det">les</word>
+          <word id="23" lem="ouvrage" postag="NC" morpho="g=m|n=p" head="12" dep="mod">ouvrages</word>
+          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="25" lem="taille" postag="NC" morpho="g=f|n=s" head="24" dep="prep">taille</word>
+          <word id="26" lem="intermédiaire" postag="ADJ" morpho="n=s" head="25" dep="mod">intermédiaire</word>
+          <word id="27" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="28" dep="aux_pass">sont</word>
+          <word id="28" lem="nommer" postag="VPP" morpho="g=m|n=p|t=past" head="23" dep="mod_rel">nommés</word>
+          <word id="29" lem="casemate" postag="NC" morpho="g=f|n=p" head="28" dep="suj">casemates</word>
+          <word id="30" lem="et" postag="CC" morpho="_" head="29" dep="coord">et</word>
+          <word id="31" lem="les" postag="DET" morpho="n=p" head="34" dep="det">les</word>
+          <word id="32" lem="plus" postag="ADV" morpho="_" head="33" dep="mod">plus</word>
+          <word id="33" lem="important" postag="ADJ" morpho="g=m|n=p" head="34" dep="mod">importants</word>
+          <word id="34" lem="bloc" postag="NC" morpho="g=m|n=p" head="30" dep="dep_coord">blocs</word>
+          <word id="35" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
+          <word id="36" lem="," postag="PONCT" morpho="_" head="37" dep="ponct">,</word>
+          <word id="37" lem="soit" postag="CC" morpho="_" head="1" dep="coord">soit</word>
+          <word id="38" lem="un" postag="DET" morpho="g=m|n=s" head="39" dep="det">un</word>
+          <word id="39" lem="local" postag="NC" morpho="g=m|n=s" head="37" dep="dep_coord">local</word>
+          <word id="40" lem="intérieur" postag="ADJ" morpho="g=m|n=s" head="39" dep="mod">intérieur</word>
+          <word id="41" lem="pourvoir" postag="VPP" morpho="g=m|n=s|t=past" head="39" dep="mod">pourvu</word>
+          <word id="42" lem="de" postag="P" morpho="_" head="41" dep="de_obj">d'</word>
+          <word id="43" lem="un" postag="DET" morpho="g=m|n=s" head="44" dep="det">un</word>
+          <word id="44" lem="fusil" postag="NC" morpho="g=m|n=s" head="42" dep="prep">fusil</word>
+          <word id="45" lem="_" postag="ADJ" morpho="_" head="44" dep="mod">mitrailleur</word>
+          <word id="46" lem="et" postag="CC" morpho="_" head="41" dep="coord">et</word>
+          <word id="47" lem="placer" postag="VPP" morpho="g=m|n=s|t=past" head="46" dep="dep_coord">placé</word>
+          <word id="48" lem="à" postag="P" morpho="_" head="47" dep="a_obj">à</word>
+          <word id="49" lem="un" postag="DET" morpho="g=m|n=s" head="50" dep="det">un</word>
+          <word id="50" lem="coude" postag="NC" morpho="g=m|n=s" head="48" dep="prep">coude</word>
+          <word id="51" lem="de" postag="P" morpho="_" head="50" dep="dep">d'</word>
+          <word id="52" lem="un" postag="DET" morpho="g=m|n=s" head="53" dep="det">un</word>
+          <word id="53" lem="couloir" postag="NC" morpho="g=m|n=s" head="51" dep="prep">couloir</word>
+          <word id="54" lem="de" postag="P" morpho="_" head="53" dep="dep">de</word>
+          <word id="55" lem="communication" postag="NC" morpho="g=f|n=s" head="54" dep="prep">communication</word>
+          <word id="56" lem="afin_de" postag="P" morpho="_" head="37" dep="dep_coord">afin_de</word>
+          <word id="57" lem="le" postag="CLO" morpho="g=m|n=s|p=3" head="58" dep="obj">le</word>
+          <word id="58" lem="battre" postag="VINF" morpho="_" head="56" dep="prep">battre</word>
+          <word id="59" lem="en_cas_de" postag="P" morpho="_" head="58" dep="mod">en_cas_d'</word>
+          <word id="60" lem="intrusion" postag="NC" morpho="g=f|n=s" head="59" dep="prep">intrusion</word>
+          <word id="61" lem="de" postag="P" morpho="_" head="60" dep="dep">de</word>
+          <word id="62" lem="l'" postag="DET" morpho="n=s" head="63" dep="det">l'</word>
+          <word id="63" lem="adversaire" postag="NC" morpho="n=s" head="61" dep="prep">adversaire</word>
+          <word id="64" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:30</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+        <word id="2" lem="fortification" postag="NC" morpho="g=f|n=s" head="1" dep="prep">fortification</word>
+        <word id="3" lem="moderne" postag="ADJ" morpho="n=s" head="2" dep="mod">moderne</word>
+        <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+        <word id="5" lem="type" postag="NC" morpho="g=m|n=s" head="2" dep="mod">type</word>
+        <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Maginot</word>
+        <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        <word id="8" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+        <word id="9" lem="soit" postag="CC" morpho="_" head="1" dep="coord">soit</word>
+        <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
+        <word id="11" lem="petit" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">petit</word>
+        <word id="12" lem="ouvrage" postag="NC" morpho="g=m|n=s" head="9" dep="dep_coord">ouvrage</word>
+        <word id="13" lem="extérieur" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">extérieur</word>
+        <word id="14" lem="en" postag="P" morpho="_" head="12" dep="dep">en</word>
+        <word id="15" lem="béton" postag="NC" morpho="g=m|n=s" head="14" dep="prep">béton</word>
+        <word id="16" lem="équiper" postag="VPP" morpho="g=m|n=s|t=past" head="12" dep="mod">équipé</word>
+        <word id="17" lem="de" postag="P" morpho="_" head="16" dep="de_obj">d'</word>
+        <word id="18" lem="arme" postag="NC" morpho="g=f|n=p" head="17" dep="prep">armes</word>
+        <word id="19" lem="automatique" postag="ADJ" morpho="n=p" head="18" dep="mod">automatiques</word>
+        <word id="20" lem="léger" postag="ADJ" morpho="g=f|n=p" head="18" dep="mod">légères</word>
+        <word id="21" lem="-" postag="PONCT" morpho="_" head="18" dep="ponct">-</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:30</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="-" postag="PONCT" morpho="_" head="8" dep="ponct">-</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="3" lem="ouvrage" postag="NC" morpho="g=m|n=p" head="8" dep="suj">ouvrages</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="taille" postag="NC" morpho="g=f|n=s" head="4" dep="prep">taille</word>
+          <word id="6" lem="intermédiaire" postag="ADJ" morpho="n=s" head="5" dep="mod">intermédiaire</word>
+          <word id="7" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="8" dep="aux_pass">sont</word>
+          <word id="8" lem="nommer" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">nommés</word>
+          <word id="9" lem="casemate" postag="NC" morpho="g=f|n=p" head="8" dep="ats">casemates</word>
+          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
+          <word id="2" lem="plus" postag="ADV" morpho="_" head="3" dep="mod">plus</word>
+          <word id="3" lem="important" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">importants</word>
+          <word id="4" lem="bloc" postag="NC" morpho="g=m|n=p" head="0" dep="_">blocs</word>
+          <word id="5" lem="-" postag="PONCT" morpho="_" head="4" dep="ponct">-</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="157" />
+      <text>Casemate
+
+Par extension, dans la Ligne Maginot et les fortifications du XXe, une casemate peut être une construction isolée mais de taille assez importante.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="158" end="2096" id="0" />
+      <text id="0">Blockhaus
+Blockhaus est un mot allemand équivalent du mot anglais blockhouse (tous deux issus du moyen néerlandais blochuus cf. français blocus) qui désigne à l'origine une maison forte, un fortin construit généralement avec des bois empilés, bruts ou facés, à la manière des fustes. C'est typiquement le fortin anglais d'Amérique du Nord.
+Le terme est passé aux retranchements de campagne enterrés, d'abord blindés avec de gros troncs, puis en béton armé, utilisés massivement par l'armée allemande pendant la Première Guerre mondiale. Les poilus qui s'abritaient dans d'infâmes cagnas ont adopté le mot.
+La langue allemande emploie toujours le mot blockhaus pour désigner une maison en rondin, une fuste.
+En français courant, blockhaus est devenu un terme générique comme bunker ou casemate et désigne désormais tout type d'ouvrage militaire bétonné, a priori isolé ou de petite dimension. Son équivalent strict est tout simplement bloc, employé pour la Ligne Maginot. Les militaires du génie écrivent aussi bloc bétonné. Ils réservent le terme de blockhaus à:
+En fortification de campagne, un retranchement protégé par des rondins et recouvert de terre, abritant des fantassins avec leur armement.
+En fortification permanente en pierre (système Séré de Rivières), le réduit d'une position d'infanterie, souvent situé en montagne, parfois en bord de mer, peu susceptible d'être battu par l'artillerie adverse, et constitué soit d'une tour munie de meurtrières, de bretèches ou de mâchicoulis, soit d'un casernement pourvu de volets métalliques percés de meurtrières.
+En fortification moderne (type Maginot), soit un petit ouvrage extérieur en béton équipé d'armes automatiques légères — les ouvrages de taille intermédiaire sont nommés casemates et les plus importants blocs — , soit un local intérieur pourvu d'un fusil mitrailleur et placé à un coude d'un couloir de communication afin de le battre en cas d'intrusion de l'adversaire.</text>
+      <span begin="2097" end="2886" id="1" />
+      <text id="1">Bunker
+La casemate est appelée bunker principalement dans les pays anglo-saxons. Bunker est un mot anglais qui désigne un coffre, une soute (à charbon) de navire puis un abri à l'épreuve des obus ou des bombes. Il semblerait qu'il ait pris ce dernier sens pendant l'entre-deux-guerres mondiales, la langue anglaise conservant au mot blockhouse le sens originel de fortin d'infanterie. En français, il fait double emploi avec blockhaus et peut pratiquement toujours être rendu par casemate ou fortin.
+En français, on utilise souvent le terme de bunker (parfois aussi le terme de caveau) pour désigner une salle sécurisée et ventilée destinée à accueillir et à être utilisée pour le stockage de produits chimiques dangereux, dans les laboratoires de recherche et/ou d'enseignement en chimie.</text>
+      <span begin="2887" end="3065" id="2" />
+      <text id="2">Casemate navale
+Sur certains navires de guerre de la fin du XIXe et du début du XXe, une partie de l'artillerie secondaire était abritée dans des casemates situées dans la coque.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="92" />
+      <text>Les militaires du génie écrivent aussi bloc bétonné. Ils réservent le terme de blockhaus à:</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="93" end="230" id="0" />
+      <text id="0">En fortification de campagne, un retranchement protégé par des rondins et recouvert de terre, abritant des fantassins avec leur armement.</text>
+      <span begin="231" end="598" id="1" />
+      <text id="1">En fortification permanente en pierre (système Séré de Rivières), le réduit d'une position d'infanterie, souvent situé en montagne, parfois en bord de mer, peu susceptible d'être battu par l'artillerie adverse, et constitué soit d'une tour munie de meurtrières, de bretèches ou de mâchicoulis, soit d'un casernement pourvu de volets métalliques percés de meurtrières.</text>
+      <span begin="599" end="968" id="2" />
+      <text id="2">En fortification moderne (type Maginot), soit un petit ouvrage extérieur en béton équipé d'armes automatiques légères — les ouvrages de taille intermédiaire sont nommés casemates et les plus importants blocs — , soit un local intérieur pourvu d'un fusil mitrailleur et placé à un coude d'un couloir de communication afin de le battre en cas d'intrusion de l'adversaire.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:30</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="121" />
+      <text>En fortification moderne (type Maginot), soit un petit ouvrage extérieur en béton équipé d'armes automatiques légères —</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:30</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="119" end="183" id="0" />
+      <text id="0">— les ouvrages de taille intermédiaire sont nommés casemates et</text>
+      <span begin="183" end="210" id="1" />
+      <text id="1">les plus importants blocs —</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="9" id="0" />
+      <text id="0">Casemate</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="158" end="167" id="0" />
+      <text id="0">Blockhaus</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="2097" end="2103" id="0" />
+      <text id="0">Bunker</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="2887" end="2902" id="0" />
+      <text id="0">Casemate navale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="80" end="89" id="0" />
+      <text id="0">blockhaus</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="123" end="147" id="0" />
+      <text id="0">un retranchement protégé</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="297" end="334" id="0" />
+      <text id="0">le réduit d'une position d'infanterie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="645" end="716" id="0" />
+      <text id="0">un petit ouvrage extérieur en béton équipé d'armes automatiques légères</text>
+      <span begin="816" end="864" id="1" />
+      <text id="1">un local intérieur pourvu d'un fusil mitrailleur</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
+      <span begin="93" end="121" id="0" />
+      <text id="0">En fortification de campagne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
+      <span begin="231" end="268" id="0" />
+      <text id="0">En fortification permanente en pierre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
+      <span begin="599" end="623" id="0" />
+      <text id="0">En fortification moderne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
+      <span begin="71" end="79" id="0" />
+      <text id="0">terme de</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:20</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:29</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:30</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:30</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:30</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 0:30</date>
+      <document>Casemate.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

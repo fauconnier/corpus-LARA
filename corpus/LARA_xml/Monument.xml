@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Monuments religieux
+Néolithique
+Mégalithe
+Dolmen
+Europe chrétienne
+Église 
+Palais épiscopal
+Couvent
+Monde musulman
+Mosquée
+Zaouïa 
+Khanqah</text>
+      <span begin="3596" end="3734" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Europe chrétienne
+Église 
+Palais épiscopal
+Couvent</text>
+      <span begin="3645" end="3695" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Monde musulman
+Mosquée
+Zaouïa 
+Khanqah</text>
+      <span begin="3696" end="3734" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>Monuments profanes
+Europe chrétienne
+beffroi
+Château
+hôtel de ville
+place publique</text>
+      <span begin="3735" end="3818" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>À l'époque gréco-romaine, les principaux types de monuments modernes s'affirment : les monuments funéraires de grandes dimensions, les mausolées et bien sûr les temples.</text>
+      <span begin="4165" end="4334" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="monument" postag="NC" morpho="g=m|n=p" head="0" dep="_">Monuments</word>
+        <word id="2" lem="religieux" postag="ADJ" morpho="g=m" head="1" dep="mod">religieux</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="néolithique" postag="NC" morpho="g=m|n=p" head="0" dep="_">Néolithique</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="mégalithe" postag="NC" morpho="g=m|n=s" head="0" dep="root">Mégalithe</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="dolmen" postag="NC" morpho="g=m|n=s" head="0" dep="root">Dolmen</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="Europe" postag="NPP" morpho="g=f|n=s" head="0" dep="root">Europe</word>
+          <word id="2" lem="chrétien" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">chrétienne</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="église" postag="NC" morpho="g=f|n=s" head="0" dep="root">Église</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="palais" postag="NC" morpho="g=m" head="0" dep="_">Palais</word>
+          <word id="2" lem="épiscopal" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">épiscopal</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="couvent" postag="NC" morpho="g=m|n=s" head="0" dep="root">Couvent</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="couvent" postag="NC" morpho="g=m|n=s" head="0" dep="root">Couvent</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="monde" postag="NC" morpho="g=m|n=s" head="0" dep="root">Monde</word>
+          <word id="2" lem="musulman" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">musulman</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="mosquée" postag="NC" morpho="g=f|n=s" head="0" dep="root">Mosquée</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="zaouïa" postag="NC" morpho="g=f" head="0" dep="_">Zaouïa</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Khanqah</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="Europe" postag="NPP" morpho="g=f|n=s" head="0" dep="root">Europe</word>
+        <word id="2" lem="chrétien" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">chrétienne</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="église" postag="NC" morpho="g=f|n=s" head="0" dep="root">Église</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="palais" postag="NC" morpho="g=m" head="0" dep="_">Palais</word>
+          <word id="2" lem="épiscopal" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">épiscopal</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="couvent" postag="NC" morpho="g=m|n=s" head="0" dep="root">Couvent</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="monde" postag="NC" morpho="g=m|n=s" head="0" dep="root">Monde</word>
+        <word id="2" lem="musulman" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">musulman</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="mosquée" postag="NC" morpho="g=f|n=s" head="0" dep="root">Mosquée</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="zaouïa" postag="NC" morpho="g=f" head="0" dep="_">Zaouïa</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Khanqah</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="monument" postag="NC" morpho="g=m|n=p" head="0" dep="_">Monuments</word>
+        <word id="2" lem="profane" postag="NC" morpho="n=p" head="1" dep="mod">profanes</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="Europe" postag="NPP" morpho="g=f|n=s" head="0" dep="root">Europe</word>
+        <word id="2" lem="chrétien" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">chrétienne</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="beffroi" postag="NC" morpho="g=m|n=s" head="0" dep="root">beffroi</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="château" postag="NC" morpho="g=m|n=s" head="0" dep="root">Château</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="hôtel" postag="NC" morpho="g=m|n=s" head="0" dep="_">hôtel</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="ville" postag="NC" morpho="g=f|n=s" head="2" dep="prep">ville</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="_">place</word>
+          <word id="2" lem="public" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">publique</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="à" postag="P" morpho="_" head="13" dep="mod">À</word>
+        <word id="2" lem="l'" postag="DET" morpho="n=s" head="3" dep="det">l'</word>
+        <word id="3" lem="époque" postag="NC" morpho="g=f|n=s" head="1" dep="prep">époque</word>
+        <word id="4" lem="gréco-romain" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">gréco-romaine</word>
+        <word id="5" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+        <word id="6" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
+        <word id="7" lem="principal" postag="ADJ" morpho="g=m|n=p" head="8" dep="mod">principaux</word>
+        <word id="8" lem="type" postag="NC" morpho="g=m|n=p" head="13" dep="suj">types</word>
+        <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+        <word id="10" lem="monument" postag="NC" morpho="g=m|n=p" head="9" dep="prep">monuments</word>
+        <word id="11" lem="moderne" postag="ADJ" morpho="n=p" head="10" dep="mod">modernes</word>
+        <word id="12" lem="se" postag="CLR" morpho="p=3" head="13" dep="aff">s'</word>
+        <word id="13" lem="affirmer" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">affirment</word>
+        <word id="14" lem=":" postag="PONCT" morpho="_" head="13" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="monument" postag="NC" morpho="g=m|n=p" head="0" dep="_">monuments</word>
+          <word id="3" lem="funéraire" postag="ADJ" morpho="n=p" head="2" dep="mod">funéraires</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="5" lem="grand" postag="ADJ" morpho="g=f|n=p" head="6" dep="mod">grandes</word>
+          <word id="6" lem="dimension" postag="NC" morpho="g=f|n=p" head="4" dep="prep">dimensions</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="3" lem="mausolée" postag="NC" morpho="g=m|n=p" head="0" dep="_">mausolées</word>
+          <word id="4" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="bien_sûr" postag="ADV" morpho="_" head="3" dep="mod">bien_sûr</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="3" lem="temple" postag="NC" morpho="g=m|n=p" head="0" dep="root">temples</word>
+          <word id="4" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="20" />
+      <text>Monuments religieux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="21" end="49" id="0" />
+      <text id="0">Néolithique
+Mégalithe
+Dolmen</text>
+      <span begin="49" end="100" id="1" />
+      <text id="1">Europe chrétienne
+Église 
+Palais épiscopal
+Couvent</text>
+      <span begin="93" end="139" id="2" />
+      <text id="2">Couvent
+Monde musulman
+Mosquée
+Zaouïa 
+Khanqah</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="18" />
+      <text>Europe chrétienne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="19" end="26" id="0" />
+      <text id="0">Église</text>
+      <span begin="27" end="43" id="1" />
+      <text id="1">Palais épiscopal</text>
+      <span begin="44" end="51" id="2" />
+      <text id="2">Couvent</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="15" />
+      <text>Monde musulman</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="16" end="23" id="0" />
+      <text id="0">Mosquée</text>
+      <span begin="24" end="31" id="1" />
+      <text id="1">Zaouïa</text>
+      <span begin="32" end="39" id="2" />
+      <text id="2">Khanqah</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="37" />
+      <text>Monuments profanes
+Europe chrétienne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="38" end="45" id="0" />
+      <text id="0">beffroi</text>
+      <span begin="46" end="53" id="1" />
+      <text id="1">Château</text>
+      <span begin="54" end="68" id="2" />
+      <text id="2">hôtel de ville</text>
+      <span begin="69" end="83" id="3" />
+      <text id="3">place publique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="83" />
+      <text>À l'époque gréco-romaine, les principaux types de monuments modernes s'affirment :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="84" end="131" id="0" />
+      <text id="0">les monuments funéraires de grandes dimensions,</text>
+      <span begin="130" end="149" id="1" />
+      <text id="1">, les mausolées et</text>
+      <span begin="149" end="170" id="2" />
+      <text id="2">bien sûr les temples.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="20" id="0" />
+      <text id="0">Monuments religieux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="33" end="42" id="0" />
+      <text id="0">Mégalithe</text>
+      <span begin="43" end="49" id="1" />
+      <text id="1">Dolmen</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="68" end="75" id="0" />
+      <text id="0">Église</text>
+      <span begin="76" end="92" id="1" />
+      <text id="1">Palais épiscopal</text>
+      <span begin="93" end="100" id="2" />
+      <text id="2">Couvent</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="116" end="123" id="0" />
+      <text id="0">Mosquée</text>
+      <span begin="124" end="131" id="1" />
+      <text id="1">Zaouïa</text>
+      <span begin="132" end="139" id="2" />
+      <text id="2">Khanqah</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
+      <span begin="21" end="32" id="0" />
+      <text id="0">Néolithique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
+      <span begin="50" end="67" id="0" />
+      <text id="0">Europe chrétienne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="2">
+      <span begin="101" end="115" id="0" />
+      <text id="0">Monde musulman</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="19" end="26" id="0" />
+      <text id="0">Église</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="27" end="43" id="0" />
+      <text id="0">Palais épiscopal</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="44" end="51" id="0" />
+      <text id="0">Couvent</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="18" id="0" />
+      <text id="0">Europe chrétienne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="16" end="23" id="0" />
+      <text id="0">Mosquée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="24" end="30" id="0" />
+      <text id="0">Zaouïa</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="32" end="39" id="0" />
+      <text id="0">Khanqah</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="15" id="0" />
+      <text id="0">Monde musulman</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="1" end="19" id="0" />
+      <text id="0">Monuments profanes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="38" end="45" id="0" />
+      <text id="0">beffroi</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="46" end="53" id="0" />
+      <text id="0">Château</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="54" end="68" id="0" />
+      <text id="0">hôtel de ville</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="3">
+      <span begin="69" end="83" id="0" />
+      <text id="0">place publique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+      <span begin="20" end="37" id="0" />
+      <text id="0">Europe chrétienne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+      <span begin="51" end="69" id="0" />
+      <text id="0">monuments modernes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="84" end="130" id="0" />
+      <text id="0">les monuments funéraires de grandes dimensions</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="131" end="145" id="0" />
+      <text id="0">les mausolées</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+      <span begin="158" end="169" id="0" />
+      <text id="0">les temples</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
+      <span begin="1" end="25" id="0" />
+      <text id="0">À l'époque gréco-romaine</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:31</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:45</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:46</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 13:08</date>
+      <document>Monument.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+</root>

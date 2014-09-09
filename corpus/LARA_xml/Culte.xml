@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Le terme culte peut prendre une connotation péjorative lorsqu’il est considéré comme outrancier ou adressé à un objet indigne : « culte de l'argent » , « culte du Veau d'or » ou « culte de la personnalité ».</text>
+      <span begin="659" end="867" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Culte vient du latin cultus, dérivé du verbe colere qui veut dire au sens propre « cultiver » et par extension « rendre un culte ». Rendre un culte, c'est donc « cultiver » une relation avec une divinité et vouloir la faire « fructifier » pour le plus grand bénéfice moral et matériel (paix, richesse, prospérité, bonheur, « salut », santé, etc.)</text>
+      <span begin="1124" end="1471" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Les principaux actes cultuels sont :
+le sacrifice, la libation, l'offrande et l'éducation ;
+la prière (invocation, louange, demande, etc.) ;
+le chant et la musique ;
+la lecture de textes sacrés le cas échéant ;
+éventuellement la prédication qui a un rôle important surtout dans les religions abrahamiques et le bouddhisme (mais la prédication peut aussi s'effectuer dans le cadre d'une activité missionnaire qui n'est pas liée à un culte proprement dit) ;
+les pèlerinages, processions.</text>
+      <span begin="2393" end="2878" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>la prière (invocation, louange, demande, etc.) ;</text>
+      <span begin="2485" end="2533" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>La célébration du culte est souvent réservée à un personnage spécial, le prêtre du culte qui peut avoir été choisi de diverses manières (appartenance à une classe sacerdotale, élection, choix par la divinité ou ordination).</text>
+      <span begin="3064" end="3287" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+        <word id="2" lem="terme" postag="NC" morpho="g=m|n=s" head="4" dep="suj">terme</word>
+        <word id="3" lem="culte" postag="ADJ" morpho="n=s" head="2" dep="mod">culte</word>
+        <word id="4" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+        <word id="5" lem="prendre" postag="VINF" morpho="_" head="4" dep="obj">prendre</word>
+        <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+        <word id="7" lem="connotation" postag="NC" morpho="g=f|n=s" head="5" dep="obj">connotation</word>
+        <word id="8" lem="péjoratif" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">péjorative</word>
+        <word id="9" lem="lorsqu'" postag="CS" morpho="_" head="5" dep="mod">lorsqu'</word>
+        <word id="10" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="12" dep="suj">il</word>
+        <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="12" dep="aux_pass">est</word>
+        <word id="12" lem="considérer" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="sub">considéré</word>
+        <word id="13" lem="comme" postag="P" morpho="_" head="12" dep="mod">comme</word>
+        <word id="14" lem="outrancier" postag="ADJ" morpho="g=m|n=s" head="13" dep="prep">outrancier</word>
+        <word id="15" lem="ou" postag="CC" morpho="_" head="12" dep="coord">ou</word>
+        <word id="16" lem="adresser" postag="VPP" morpho="g=m|n=s|t=past" head="15" dep="dep_coord">adressé</word>
+        <word id="17" lem="à" postag="P" morpho="_" head="16" dep="a_obj">à</word>
+        <word id="18" lem="un" postag="DET" morpho="g=m|n=s" head="19" dep="det">un</word>
+        <word id="19" lem="objet" postag="NC" morpho="g=m|n=s" head="17" dep="prep">objet</word>
+        <word id="20" lem="indigne" postag="ADJ" morpho="n=s" head="19" dep="mod">indigne</word>
+        <word id="21" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="2" lem="culte" postag="NC" morpho="g=m|n=s" head="0" dep="root">culte</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+          <word id="5" lem="argent" postag="NC" morpho="g=m|n=s" head="3" dep="prep">argent</word>
+          <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="2" lem="culte" postag="NC" morpho="g=m|n=s" head="0" dep="root">culte</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Veau</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="6" lem="or" postag="NC" morpho="g=m|n=s" head="5" dep="prep">or</word>
+          <word id="7" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="8" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="2" lem="culte" postag="NC" morpho="g=m|n=s" head="0" dep="root">culte</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="personnalité" postag="NC" morpho="g=f|n=s" head="3" dep="prep">personnalité</word>
+          <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="culte" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Culte</word>
+        <word id="2" lem="venir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">vient</word>
+        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="de_obj">du</word>
+        <word id="4" lem="latin" postag="NC" morpho="g=m|n=s" head="3" dep="prep">latin</word>
+        <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">cultus</word>
+        <word id="6" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+        <word id="7" lem="dériver" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">dérivé</word>
+        <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="de_obj">du</word>
+        <word id="9" lem="verbe" postag="NC" morpho="g=m|n=s" head="8" dep="prep">verbe</word>
+        <word id="10" lem="_" postag="ADJ" morpho="_" head="9" dep="mod">colere</word>
+        <word id="11" lem="qui" postag="PROREL" morpho="n=s" head="12" dep="suj">qui</word>
+        <word id="12" lem="vouloir" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="mod_rel">veut</word>
+        <word id="13" lem="dire" postag="VINF" morpho="_" head="12" dep="obj">dire</word>
+        <word id="14" lem="à" postag="P+D" morpho="g=m|n=s" head="13" dep="mod">au</word>
+        <word id="15" lem="sens" postag="NC" morpho="g=m" head="14" dep="prep">sens</word>
+        <word id="16" lem="propre" postag="ADJ" morpho="n=s" head="15" dep="mod">propre</word>
+        <word id="17" lem="&quot;" postag="PONCT" morpho="_" head="13" dep="ponct">"</word>
+        <word id="18" lem="cultiver" postag="VINF" morpho="_" head="13" dep="mod">cultiver</word>
+        <word id="19" lem="&quot;" postag="PONCT" morpho="_" head="18" dep="ponct">"</word>
+        <word id="20" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
+        <word id="21" lem="par" postag="P" morpho="_" head="20" dep="dep_coord">par</word>
+        <word id="22" lem="extension" postag="NC" morpho="g=f|n=s" head="21" dep="prep">extension</word>
+        <word id="23" lem="&quot;" postag="PONCT" morpho="_" head="13" dep="ponct">"</word>
+        <word id="24" lem="rendre" postag="VINF" morpho="_" head="13" dep="obj">rendre</word>
+        <word id="25" lem="un" postag="DET" morpho="g=m|n=s" head="26" dep="det">un</word>
+        <word id="26" lem="culte" postag="NC" morpho="g=m|n=s" head="24" dep="obj">culte</word>
+        <word id="27" lem="&quot;" postag="PONCT" morpho="_" head="24" dep="ponct">"</word>
+        <word id="28" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="rendre" postag="VINF" morpho="_" head="6" dep="mod">Rendre</word>
+        <word id="2" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">un</word>
+        <word id="3" lem="culte" postag="NC" morpho="g=m|n=s" head="1" dep="obj">culte</word>
+        <word id="4" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+        <word id="5" lem="ce" postag="CLS" morpho="_" head="6" dep="suj">c'</word>
+        <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="7" lem="donc" postag="ADV" morpho="_" head="6" dep="mod">donc</word>
+        <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="6" dep="ponct">"</word>
+        <word id="9" lem="cultiver" postag="VINF" morpho="_" head="6" dep="mod">cultiver</word>
+        <word id="10" lem="&quot;" postag="PONCT" morpho="_" head="9" dep="ponct">"</word>
+        <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+        <word id="12" lem="relation" postag="NC" morpho="g=f|n=s" head="9" dep="obj">relation</word>
+        <word id="13" lem="avec" postag="P" morpho="_" head="12" dep="dep">avec</word>
+        <word id="14" lem="une" postag="DET" morpho="g=f|n=s" head="15" dep="det">une</word>
+        <word id="15" lem="divinité" postag="NC" morpho="g=f|n=s" head="13" dep="prep">divinité</word>
+        <word id="16" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
+        <word id="17" lem="vouloir" postag="VINF" morpho="_" head="16" dep="dep_coord">vouloir</word>
+        <word id="18" lem="la" postag="CLO" morpho="g=f|n=s|p=3" head="19" dep="obj">la</word>
+        <word id="19" lem="faire" postag="VINF" morpho="_" head="17" dep="obj">faire</word>
+        <word id="20" lem="&quot;" postag="PONCT" morpho="_" head="19" dep="ponct">"</word>
+        <word id="21" lem="fructifier" postag="VINF" morpho="_" head="19" dep="mod">fructifier</word>
+        <word id="22" lem="&quot;" postag="PONCT" morpho="_" head="21" dep="ponct">"</word>
+        <word id="23" lem="pour" postag="P" morpho="_" head="21" dep="mod">pour</word>
+        <word id="24" lem="le" postag="DET" morpho="g=m|n=s" head="27" dep="det">le</word>
+        <word id="25" lem="plus" postag="ADV" morpho="_" head="26" dep="mod">plus</word>
+        <word id="26" lem="grand" postag="ADJ" morpho="g=m|n=s" head="27" dep="mod">grand</word>
+        <word id="27" lem="bénéfice" postag="NC" morpho="g=m|n=s" head="23" dep="prep">bénéfice</word>
+        <word id="28" lem="moral" postag="ADJ" morpho="g=m|n=s" head="27" dep="mod">moral</word>
+        <word id="29" lem="et" postag="CC" morpho="_" head="28" dep="coord">et</word>
+        <word id="30" lem="matériel" postag="ADJ" morpho="g=m|n=s" head="29" dep="dep_coord">matériel</word>
+        <word id="31" lem="(" postag="PONCT" morpho="_" head="27" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="paix" postag="NC" morpho="g=f" head="0" dep="_">paix</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="richesse" postag="NC" morpho="g=f|n=s" head="0" dep="root">richesse</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="prospérité" postag="NC" morpho="g=f|n=s" head="0" dep="_">prospérité</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="bonheur" postag="NC" morpho="g=m|n=s" head="0" dep="root">bonheur</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="2" lem="salut" postag="NC" morpho="g=m|n=s" head="0" dep="root">salut</word>
+          <word id="3" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="santé" postag="NC" morpho="g=f|n=s" head="0" dep="_">santé</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="3" dep="det">Les</word>
+        <word id="2" lem="principal" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">principaux</word>
+        <word id="3" lem="acte" postag="NC" morpho="g=m|n=p" head="5" dep="suj">actes</word>
+        <word id="4" lem="cultuel" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">cultuels</word>
+        <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+        <word id="6" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="sacrifice" postag="NC" morpho="g=m|n=s" head="0" dep="_">sacrifice</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="libation" postag="NC" morpho="g=f|n=s" head="3" dep="dep_coord">libation</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
+          <word id="8" lem="offrande" postag="NC" morpho="g=f|n=s" head="6" dep="dep_coord">offrande</word>
+          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
+          <word id="11" lem="éducation" postag="NC" morpho="g=f|n=s" head="9" dep="dep_coord">éducation</word>
+          <word id="12" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="sacrifice" postag="NC" morpho="g=m|n=s" head="0" dep="_">sacrifice</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="libation" postag="NC" morpho="g=f|n=s" head="3" dep="dep_coord">libation</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
+          <word id="8" lem="offrande" postag="NC" morpho="g=f|n=s" head="6" dep="dep_coord">offrande</word>
+          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
+          <word id="11" lem="éducation" postag="NC" morpho="g=f|n=s" head="9" dep="dep_coord">éducation</word>
+          <word id="12" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="prière" postag="NC" morpho="g=f|n=s" head="8" dep="suj">prière</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="4" lem="invocation" postag="NC" morpho="g=f|n=s" head="2" dep="mod">invocation</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="louange" postag="NC" morpho="g=f|n=s" head="2" dep="mod">louange</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="8" lem="demander" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">demande</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="10" lem="_" postag="ADV" morpho="_" head="8" dep="mod">etc.</word>
+          <word id="11" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="12" lem=";" postag="PONCT" morpho="_" head="8" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="chant" postag="NC" morpho="g=m|n=s" head="0" dep="_">chant</word>
+          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="musique" postag="NC" morpho="g=f|n=s" head="3" dep="dep_coord">musique</word>
+          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="lecture" postag="NC" morpho="g=f|n=s" head="0" dep="_">lecture</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="texte" postag="NC" morpho="g=m|n=p" head="3" dep="prep">textes</word>
+          <word id="5" lem="sacrer" postag="ADJ" morpho="g=m|n=p|t=past" head="4" dep="mod">sacrés</word>
+          <word id="6" lem="le_cas_échéant" postag="ADV" morpho="_" head="2" dep="mod">le_cas_échéant</word>
+          <word id="7" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="éventuellement" postag="ADV" morpho="_" head="0" dep="_">éventuellement</word>
+          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
+          <word id="3" lem="prédication" postag="NC" morpho="g=f|n=s" head="0" dep="_">prédication</word>
+          <word id="4" lem="qui" postag="PROREL" morpho="n=s" head="5" dep="suj">qui</word>
+          <word id="5" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="mod_rel">a</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="7" lem="rôle" postag="NC" morpho="g=m|n=s" head="5" dep="obj">rôle</word>
+          <word id="8" lem="important" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">important</word>
+          <word id="9" lem="surtout" postag="ADV" morpho="_" head="7" dep="mod">surtout</word>
+          <word id="10" lem="dans" postag="P" morpho="_" head="5" dep="mod">dans</word>
+          <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
+          <word id="12" lem="religion" postag="NC" morpho="g=f|n=p" head="10" dep="prep">religions</word>
+          <word id="13" lem="_" postag="ADJ" morpho="_" head="12" dep="mod">abrahamiques</word>
+          <word id="14" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+          <word id="16" lem="bouddhisme" postag="NC" morpho="g=m|n=s" head="14" dep="dep_coord">bouddhisme</word>
+          <word id="17" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
+          <word id="18" lem="mais" postag="CC" morpho="_" head="5" dep="coord">mais</word>
+          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
+          <word id="20" lem="prédication" postag="NC" morpho="g=f|n=s" head="21" dep="suj">prédication</word>
+          <word id="21" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="18" dep="dep_coord">peut</word>
+          <word id="22" lem="aussi" postag="ADV" morpho="_" head="21" dep="mod">aussi</word>
+          <word id="23" lem="se" postag="CLR" morpho="p=3" head="24" dep="aff">s'</word>
+          <word id="24" lem="effectuer" postag="VINF" morpho="_" head="21" dep="obj">effectuer</word>
+          <word id="25" lem="dans" postag="P" morpho="_" head="24" dep="mod">dans</word>
+          <word id="26" lem="le" postag="DET" morpho="g=m|n=s" head="27" dep="det">le</word>
+          <word id="27" lem="cadre" postag="NC" morpho="g=m|n=s" head="25" dep="prep">cadre</word>
+          <word id="28" lem="de" postag="P" morpho="_" head="27" dep="dep">d'</word>
+          <word id="29" lem="une" postag="DET" morpho="g=f|n=s" head="30" dep="det">une</word>
+          <word id="30" lem="activité" postag="NC" morpho="g=f|n=s" head="28" dep="prep">activité</word>
+          <word id="31" lem="missionnaire" postag="ADJ" morpho="n=s" head="30" dep="mod">missionnaire</word>
+          <word id="32" lem="qui" postag="PROREL" morpho="n=s" head="36" dep="suj">qui</word>
+          <word id="33" lem="ne" postag="ADV" morpho="_" head="36" dep="mod">n'</word>
+          <word id="34" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="36" dep="aux_pass">est</word>
+          <word id="35" lem="pas" postag="ADV" morpho="_" head="36" dep="mod">pas</word>
+          <word id="36" lem="lier" postag="VPP" morpho="g=f|n=s|t=past" head="30" dep="mod_rel">liée</word>
+          <word id="37" lem="à" postag="P" morpho="_" head="36" dep="a_obj">à</word>
+          <word id="38" lem="un" postag="DET" morpho="g=m|n=s" head="39" dep="det">un</word>
+          <word id="39" lem="culte" postag="NC" morpho="g=m|n=s" head="37" dep="prep">culte</word>
+          <word id="40" lem="proprement" postag="ADV" morpho="_" head="41" dep="mod">proprement</word>
+          <word id="41" lem="dire" postag="VPP" morpho="g=m|n=s|t=past" head="39" dep="mod">dit</word>
+          <word id="42" lem=")" postag="PONCT" morpho="_" head="24" dep="ponct">)</word>
+          <word id="43" lem=";" postag="PONCT" morpho="_" head="21" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="pèlerinage" postag="NC" morpho="g=m|n=p" head="0" dep="_">pèlerinages</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="4" lem="procession" postag="NC" morpho="g=f|n=p" head="2" dep="mod">processions</word>
+          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+        <word id="2" lem="prière" postag="NC" morpho="g=f|n=s" head="0" dep="_">prière</word>
+        <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="invocation" postag="NC" morpho="g=f|n=s" head="0" dep="_">invocation</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="louange" postag="NC" morpho="g=f|n=s" head="0" dep="_">louange</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="demande" postag="NC" morpho="g=f|n=s" head="0" dep="_">demande</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="célébration" postag="NC" morpho="g=f|n=s" head="7" dep="suj">célébration</word>
+        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+        <word id="4" lem="culte" postag="NC" morpho="g=m|n=s" head="3" dep="prep">culte</word>
+        <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="aux_pass">est</word>
+        <word id="6" lem="souvent" postag="ADV" morpho="_" head="7" dep="mod">souvent</word>
+        <word id="7" lem="réserver" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">réservée</word>
+        <word id="8" lem="à" postag="P" morpho="_" head="7" dep="a_obj">à</word>
+        <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
+        <word id="10" lem="personnage" postag="NC" morpho="g=m|n=s" head="8" dep="prep">personnage</word>
+        <word id="11" lem="spécial" postag="ADJ" morpho="g=m|n=s" head="10" dep="mod">spécial</word>
+        <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
+        <word id="14" lem="prêtre" postag="NC" morpho="g=m|n=s" head="0" dep="_">prêtre</word>
+        <word id="15" lem="de" postag="P+D" morpho="g=m|n=s" head="14" dep="dep">du</word>
+        <word id="16" lem="culte" postag="NC" morpho="g=m|n=s" head="15" dep="prep">culte</word>
+        <word id="17" lem="qui" postag="PROREL" morpho="n=s" head="18" dep="suj">qui</word>
+        <word id="18" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="14" dep="mod_rel">peut</word>
+        <word id="19" lem="avoir" postag="VINF" morpho="_" head="18" dep="obj">avoir</word>
+        <word id="20" lem="être" postag="VPP" morpho="t=past" head="21" dep="aux_pass">été</word>
+        <word id="21" lem="choisir" postag="VPP" morpho="g=m|n=s|t=past" head="19" dep="obj">choisi</word>
+        <word id="22" lem="de" postag="P" morpho="_" head="21" dep="de_obj">de</word>
+        <word id="23" lem="diverses" postag="DET" morpho="g=f|n=p" head="24" dep="det">diverses</word>
+        <word id="24" lem="manière" postag="NC" morpho="g=f|n=p" head="22" dep="prep">manières</word>
+        <word id="25" lem="(" postag="PONCT" morpho="_" head="21" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="appartenance" postag="NC" morpho="g=f|n=s" head="0" dep="root">appartenance</word>
+          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
+          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+          <word id="4" lem="classe" postag="NC" morpho="g=f|n=s" head="2" dep="prep">classe</word>
+          <word id="5" lem="sacerdotal" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">sacerdotale</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="élection" postag="NC" morpho="g=f|n=s" head="0" dep="_">élection</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="choix" postag="NC" morpho="g=m" head="0" dep="root">choix</word>
+          <word id="2" lem="par" postag="P" morpho="_" head="1" dep="dep">par</word>
+          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
+          <word id="4" lem="divinité" postag="NC" morpho="g=f|n=s" head="2" dep="prep">divinité</word>
+          <word id="5" lem="ou" postag="CC" morpho="_" head="4" dep="coord">ou</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="ordination" postag="NC" morpho="g=f|n=s" head="0" dep="root">ordination</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="128" />
+      <text>Le terme culte peut prendre une connotation péjorative lorsqu’il est considéré comme outrancier ou adressé à un objet indigne :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="129" end="152" id="0" />
+      <text id="0">« culte de l'argent » ,</text>
+      <span begin="153" end="178" id="1" />
+      <text id="1">« culte du Veau d'or » ou</text>
+      <span begin="179" end="208" id="2" />
+      <text id="2">« culte de la personnalité ».</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="287" />
+      <text>Culte vient du latin cultus, dérivé du verbe colere qui veut dire au sens propre « cultiver » et par extension « rendre un culte ». Rendre un culte, c'est donc « cultiver » une relation avec une divinité et vouloir la faire « fructifier » pour le plus grand bénéfice moral et matériel (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="287" end="293" id="0" />
+      <text id="0">paix,</text>
+      <span begin="293" end="302" id="1" />
+      <text id="1">richesse,</text>
+      <span begin="303" end="314" id="2" />
+      <text id="2">prospérité,</text>
+      <span begin="314" end="324" id="3" />
+      <text id="3">bonheur,</text>
+      <span begin="324" end="335" id="4" />
+      <text id="4">« salut »,</text>
+      <span begin="335" end="342" id="5" />
+      <text id="5">santé,</text>
+      <span begin="342" end="347" id="6" />
+      <text id="6">etc.)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="37" />
+      <text>Les principaux actes cultuels sont :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="38" end="92" id="0" />
+      <text id="0">le sacrifice, la libation, l'offrande et l'éducation ;</text>
+      <span begin="38" end="141" id="1" />
+      <text id="1">le sacrifice, la libation, l'offrande et l'éducation ;
+la prière (invocation, louange, demande, etc.) ;</text>
+      <span begin="142" end="166" id="2" />
+      <text id="2">le chant et la musique ;</text>
+      <span begin="167" end="211" id="3" />
+      <text id="3">la lecture de textes sacrés le cas échéant ;</text>
+      <span begin="212" end="456" id="4" />
+      <text id="4">éventuellement la prédication qui a un rôle important surtout dans les religions abrahamiques et le bouddhisme (mais la prédication peut aussi s'effectuer dans le cadre d'une activité missionnaire qui n'est pas liée à un culte proprement dit) ;</text>
+      <span begin="457" end="486" id="5" />
+      <text id="5">les pèlerinages, processions.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="12" />
+      <text>la prière (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="12" end="23" id="0" />
+      <text id="0">invocation,</text>
+      <span begin="24" end="32" id="1" />
+      <text id="1">louange,</text>
+      <span begin="33" end="41" id="2" />
+      <text id="2">demande,</text>
+      <span begin="42" end="47" id="3" />
+      <text id="3">etc.)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="138" />
+      <text>La célébration du culte est souvent réservée à un personnage spécial, le prêtre du culte qui peut avoir été choisi de diverses manières (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="138" end="176" id="0" />
+      <text id="0">appartenance à une classe sacerdotale,</text>
+      <span begin="177" end="186" id="1" />
+      <text id="1">élection,</text>
+      <span begin="187" end="211" id="2" />
+      <text id="2">choix par la divinité ou</text>
+      <span begin="212" end="224" id="3" />
+      <text id="3">ordination).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="16" id="0" />
+      <text id="0">Le terme culte</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="131" end="148" id="0" />
+      <text id="0">culte de l'argent</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="155" end="173" id="0" />
+      <text id="0">culte du Veau d'or</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="181" end="205" id="0" />
+      <text id="0">culte de la personnalité</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="259" end="285" id="0" />
+      <text id="0">bénéfice moral et matériel</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="287" end="291" id="0" />
+      <text id="0">paix</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="293" end="301" id="0" />
+      <text id="0">richesse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="303" end="313" id="0" />
+      <text id="0">prospérité</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="315" end="322" id="0" />
+      <text id="0">bonheur</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
+      <span begin="326" end="331" id="0" />
+      <text id="0">salut</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="5">
+      <span begin="335" end="340" id="0" />
+      <text id="0">santé</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="16" end="30" id="0" />
+      <text id="0">actes cultuels</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="38" end="50" id="0" />
+      <text id="0">le sacrifice</text>
+      <span begin="52" end="63" id="1" />
+      <text id="1">la libation</text>
+      <span begin="65" end="76" id="2" />
+      <text id="2">l'offrande</text>
+      <span begin="79" end="90" id="3" />
+      <text id="3">l'éducation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="93" end="102" id="0" />
+      <text id="0">la prière</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="142" end="150" id="0" />
+      <text id="0">le chant</text>
+      <span begin="154" end="164" id="1" />
+      <text id="1">la musique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+      <span begin="167" end="194" id="0" />
+      <text id="0">la lecture de textes sacrés</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="4">
+      <span begin="227" end="241" id="0" />
+      <text id="0">la prédication</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="5">
+      <span begin="457" end="472" id="0" />
+      <text id="0">les pèlerinages</text>
+      <span begin="474" end="485" id="1" />
+      <text id="1">processions</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
+      <span begin="31" end="35" id="0" />
+      <text id="0">sont</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="1" end="10" id="0" />
+      <text id="0">la prière</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="12" end="22" id="0" />
+      <text id="0">invocation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="24" end="31" id="0" />
+      <text id="0">louange</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="33" end="40" id="0" />
+      <text id="0">demande</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+      <span begin="71" end="89" id="0" />
+      <text id="0">le prêtre du culte</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="138" end="175" id="0" />
+      <text id="0">appartenance à une classe sacerdotale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="177" end="185" id="0" />
+      <text id="0">élection</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+      <span begin="187" end="208" id="0" />
+      <text id="0">choix par la divinité</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="3">
+      <span begin="212" end="222" id="0" />
+      <text id="0">ordination</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
+      <span begin="109" end="137" id="0" />
+      <text id="0">choisi de diverses manières</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:36</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:17</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:22</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:18</date>
+      <document>Culte.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="1" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

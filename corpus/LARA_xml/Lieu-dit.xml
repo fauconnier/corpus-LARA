@@ -1,0 +1,1382 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Appellatifs géographiques ou topographiques
+les Bel-Air, Beausoleil sont nombreux en métropole ;
+le Bout du Monde, à Sixt-Fer-à-Cheval ;
+la Clarté (à Perros-Guirec) ;
+l'Oubliette (Maine-et-Loire) ;
+le Val du Puits ;
+Groenendael (Belgique) appellatif toponymique flamand dael « vallée » précédé de l'adjectif de couleur signifiant « verte »;
+Sept Fontaines (Belgique) ;
+le Bosquet ;
+la Mare.</text>
+      <span begin="1061" end="1451" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Appellatifs liés à une activité humaine ou à la propriété
+les Hautes Granges ;
+les Closeries ;
+la Vénerie.</text>
+      <span begin="1452" end="1558" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Appellatifs (topographiques, floraux ou type d'habitat) et noms de personnes
+Chez-Billard-Haut (Charente), Chez Gruel (Charente, Saint-Martial-de-Mirambeau), Chez-Maurice (Haute-Savoie), de chez « maison » (du latin casa) + nom de personne ;
+la Girardière du nom de famille Girard + suffixe -ière (à partir du Moyen Âge), les Grandes Châtelaines
+Kertanguy (Basse-Bretagne), du breton ker « maison, village » + Tanguy nom de personne ;
+Saint-Aubin-des-Chaumes, Saint-Brisson, etc. (formations médiévales en Saint-, généralement d'anciennes paroisses) ;
+la Ville Hamon, la Ville Juhel, etc. (formations toponymiques médiévales où ville a encore son sens de « groupe d'habitations »);
+le ''Parc des Princes'' de Boulogne-Billancourt
+Carrefour Léonard, dans la forêt de Soignes (Bruxelles)
+Bois Joly (Ile-d'Aix) ;
+Moncourt, nom d'une ancienne paroisse, toponyme médiéval en -court, précédé d'un nom de personne germanique.</text>
+      <span begin="1559" end="2477" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>Appellations à caractère anecdotique, historique ou mythique
+le Camp de César ;
+la Mi-Voie ;
+le Saut des Français (en Duranus) ;
+l'Ermite (Belgique);
+Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
+      <span begin="2478" end="2685" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="appellatif" postag="NC" morpho="g=m|n=p" head="0" dep="_">Appellatifs</word>
+        <word id="2" lem="géographique" postag="ADJ" morpho="n=p" head="1" dep="mod">géographiques</word>
+        <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+        <word id="4" lem="topographique" postag="ADJ" morpho="n=p" head="3" dep="dep_coord">topographiques</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="Bel-Air" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Bel-Air</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="coord">,</word>
+          <word id="4" lem="Beausoleil" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Beausoleil</word>
+          <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="_">sont</word>
+          <word id="6" lem="nombreux" postag="ADJ" morpho="g=m" head="5" dep="ats">nombreux</word>
+          <word id="7" lem="en" postag="P" morpho="_" head="5" dep="mod">en</word>
+          <word id="8" lem="métropole" postag="NC" morpho="g=f|n=s" head="7" dep="prep">métropole</word>
+          <word id="9" lem=";" postag="PONCT" morpho="_" head="5" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Bout</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Monde</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="6" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Sixt-Fer-à-Cheval</word>
+          <word id="8" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Clarté</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
+          <word id="5" lem="Perros-Guirec" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Perros-Guirec</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="7" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Oubliette</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="4" lem="Maine-et-Loire" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Maine-et-Loire</word>
+          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="Val" postag="NPP" morpho="n=s" head="0" dep="_">Val</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="Puits" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Puits</word>
+          <word id="5" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="groenendael" postag="NC" morpho="g=m|n=s" head="5" dep="suj">Groenendael</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Belgique</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="_" postag="V" morpho="_" head="0" dep="root">appellatif</word>
+          <word id="6" lem="toponymique" postag="ADJ" morpho="n=s" head="7" dep="mod">toponymique</word>
+          <word id="7" lem="flamand" postag="NC" morpho="g=f|n=s" head="5" dep="obj">flamand</word>
+          <word id="8" lem="_" postag="ADJ" morpho="_" head="7" dep="mod">dael</word>
+          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
+          <word id="10" lem="vallée" postag="NC" morpho="g=f|n=s" head="7" dep="mod">vallée</word>
+          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
+          <word id="12" lem="précéder" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">précédé</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="de_obj">de</word>
+          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
+          <word id="15" lem="adjectif" postag="NC" morpho="g=m|n=s" head="13" dep="prep">adjectif</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
+          <word id="17" lem="couleur" postag="NC" morpho="g=f|n=s" head="16" dep="prep">couleur</word>
+          <word id="18" lem="signifiant" postag="ADJ" morpho="g=m|n=s" head="17" dep="mod">signifiant</word>
+          <word id="19" lem="&quot;" postag="PONCT" morpho="_" head="17" dep="ponct">"</word>
+          <word id="20" lem="vert" postag="ADJ" morpho="g=f|n=s" head="17" dep="mod">verte</word>
+          <word id="21" lem="&quot;" postag="PONCT" morpho="_" head="17" dep="ponct">"</word>
+          <word id="22" lem=";" postag="PONCT" morpho="_" head="5" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="deux" postag="NC" morpho="g=m" head="0" dep="_">Sept</word>
+          <word id="2" lem="Fontaines" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Fontaines</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="4" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Belgique</word>
+          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="6" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Bosquet</word>
+          <word id="3" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Mare</word>
+          <word id="3" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="appellatif" postag="NC" morpho="g=m|n=p" head="0" dep="_">Appellatifs</word>
+        <word id="2" lem="lier" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="mod">liés</word>
+        <word id="3" lem="à" postag="P" morpho="_" head="2" dep="a_obj">à</word>
+        <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+        <word id="5" lem="activité" postag="NC" morpho="g=f|n=s" head="3" dep="prep">activité</word>
+        <word id="6" lem="humain" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">humaine</word>
+        <word id="7" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
+        <word id="8" lem="à" postag="P" morpho="_" head="7" dep="dep_coord">à</word>
+        <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
+        <word id="10" lem="propriété" postag="NC" morpho="g=f|n=s" head="8" dep="prep">propriété</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Hautes</word>
+          <word id="3" lem="Granges" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Granges</word>
+          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Closeries</word>
+          <word id="3" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Vénerie</word>
+          <word id="3" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="appellatif" postag="NC" morpho="g=m|n=p" head="0" dep="_">Appellatifs</word>
+        <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+        <word id="3" lem="topographique" postag="ADJ" morpho="n=p" head="1" dep="mod">topographiques</word>
+        <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        <word id="5" lem="floral" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">floraux</word>
+        <word id="6" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
+        <word id="7" lem="type" postag="NC" morpho="g=m|n=s" head="6" dep="dep_coord">type</word>
+        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+        <word id="9" lem="habitat" postag="NC" morpho="g=m|n=s" head="8" dep="prep">habitat</word>
+        <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        <word id="11" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+        <word id="12" lem="nom" postag="NC" morpho="g=m|n=p" head="11" dep="dep_coord">noms</word>
+        <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+        <word id="14" lem="personne" postag="NC" morpho="g=f|n=p" head="13" dep="prep">personnes</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Chez-Billard-Haut</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="Charente" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Charente</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Chez</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Gruel</word>
+          <word id="8" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="9" lem="Charente" postag="NPP" morpho="g=f|n=s" head="6" dep="mod">Charente</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="11" lem="Saint-Martial-de-Mirambeau" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Martial-de-Mirambeau</word>
+          <word id="12" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Chez-Maurice</word>
+          <word id="15" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
+          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Haute-Savoie</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="19" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="20" lem="chez" postag="P" morpho="_" head="19" dep="prep">chez</word>
+          <word id="21" lem="&quot;" postag="PONCT" morpho="_" head="20" dep="ponct">"</word>
+          <word id="22" lem="maison" postag="NC" morpho="g=f|n=s" head="20" dep="prep">maison</word>
+          <word id="23" lem="&quot;" postag="PONCT" morpho="_" head="22" dep="ponct">"</word>
+          <word id="24" lem="(" postag="PONCT" morpho="_" head="22" dep="ponct">(</word>
+          <word id="25" lem="de" postag="P+D" morpho="g=m|n=s" head="22" dep="dep">du</word>
+          <word id="26" lem="latin" postag="NC" morpho="g=m|n=s" head="25" dep="prep">latin</word>
+          <word id="27" lem="_" postag="ADJ" morpho="_" head="26" dep="mod">casa</word>
+          <word id="28" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="29" lem="+" postag="P" morpho="_" head="0" dep="_">+</word>
+          <word id="30" lem="nom" postag="NC" morpho="g=m|n=s" head="29" dep="prep">nom</word>
+          <word id="31" lem="de" postag="P" morpho="_" head="30" dep="dep">de</word>
+          <word id="32" lem="personne" postag="NC" morpho="g=f|n=s" head="31" dep="prep">personne</word>
+          <word id="33" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Girardière</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="nom" postag="NC" morpho="g=m|n=s" head="3" dep="prep">nom</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="famille" postag="NC" morpho="g=f|n=s" head="5" dep="prep">famille</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Girard</word>
+          <word id="8" lem="+" postag="P" morpho="_" head="6" dep="dep">+</word>
+          <word id="9" lem="suffixe" postag="NC" morpho="g=m|n=s" head="8" dep="prep">suffixe</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">-ière</word>
+          <word id="11" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="12" lem="à_partir_de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">à_partir_du</word>
+          <word id="13" lem="Moyen" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Moyen</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="mod">Âge</word>
+          <word id="15" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
+          <word id="18" lem="_" postag="NPP" morpho="_" head="0" dep="_">Grandes</word>
+          <word id="19" lem="_" postag="NPP" morpho="_" head="18" dep="mod">Châtelaines</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Kertanguy</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Basse-Bretagne</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="7" lem="breton" postag="NC" morpho="g=f|n=s" head="6" dep="prep">breton</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">ker</word>
+          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
+          <word id="10" lem="maison" postag="NC" morpho="g=f|n=s" head="7" dep="mod">maison</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="12" lem="village" postag="NC" morpho="g=m|n=s" head="1" dep="mod">village</word>
+          <word id="13" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
+          <word id="14" lem="+" postag="P" morpho="_" head="1" dep="dep">+</word>
+          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="prep">Tanguy</word>
+          <word id="16" lem="nom" postag="NC" morpho="g=m|n=s" head="15" dep="mod">nom</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
+          <word id="18" lem="personne" postag="NC" morpho="g=f|n=s" head="17" dep="prep">personne</word>
+          <word id="19" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Saint-Aubin-des-Chaumes</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="Saint-Brisson" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Brisson</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">etc</word>
+          <word id="6" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="formation" postag="NC" morpho="g=f|n=p" head="0" dep="root">formations</word>
+          <word id="3" lem="médiéval" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">médiévales</word>
+          <word id="4" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Saint-</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="7" lem="généralement" postag="ADV" morpho="_" head="2" dep="mod">généralement</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="9" lem="ancien" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">anciennes</word>
+          <word id="10" lem="paroisse" postag="NC" morpho="g=f|n=p" head="8" dep="prep">paroisses</word>
+          <word id="11" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="12" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Ville</word>
+          <word id="3" lem="Hamon" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Hamon</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="0" dep="_">Ville</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Juhel</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="6" dep="mod">etc</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="formation" postag="NC" morpho="g=f|n=p" head="0" dep="root">formations</word>
+          <word id="3" lem="toponymique" postag="ADJ" morpho="n=p" head="2" dep="mod">toponymiques</word>
+          <word id="4" lem="médiéval" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">médiévales</word>
+          <word id="5" lem="où" postag="PROREL" morpho="_" head="7" dep="mod">où</word>
+          <word id="6" lem="ville" postag="NC" morpho="g=f|n=s" head="7" dep="suj">ville</word>
+          <word id="7" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="2" dep="mod_rel">a</word>
+          <word id="8" lem="encore" postag="ADV" morpho="_" head="7" dep="mod">encore</word>
+          <word id="9" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="10" dep="det">son</word>
+          <word id="10" lem="sens" postag="NC" morpho="g=m" head="7" dep="obj">sens</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
+          <word id="12" lem="&quot;" postag="PONCT" morpho="_" head="11" dep="ponct">"</word>
+          <word id="13" lem="groupe" postag="NC" morpho="g=m|n=s" head="11" dep="prep">groupe</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
+          <word id="15" lem="habitation" postag="NC" morpho="g=f|n=p" head="14" dep="prep">habitations</word>
+          <word id="16" lem="&quot;" postag="PONCT" morpho="_" head="11" dep="ponct">"</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="11" dep="ponct">)</word>
+          <word id="18" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">_''</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Parc</word>
+          <word id="4" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Princes''</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="Boulogne-Billancourt" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Boulogne-Billancourt</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=s" head="0" dep="_">Carrefour</word>
+          <word id="2" lem="Léonard" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Léonard</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="forêt" postag="NC" morpho="g=f|n=s" head="4" dep="prep">forêt</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Soignes</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
+          <word id="10" lem="Bruxelles" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Bruxelles</word>
+          <word id="11" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="bois" postag="NC" morpho="g=m" head="0" dep="_">Bois</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Joly</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Ile-d'</word>
+          <word id="5" lem="Aix" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Aix</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="7" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="Moncourt" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Moncourt</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="3" lem="nom" postag="NC" morpho="g=m|n=s" head="1" dep="mod">nom</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">d'</word>
+          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+          <word id="6" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">ancienne</word>
+          <word id="7" lem="paroisse" postag="NC" morpho="g=f|n=s" head="4" dep="prep">paroisse</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="9" lem="toponyme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">toponyme</word>
+          <word id="10" lem="médiéval" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">médiéval</word>
+          <word id="11" lem="en" postag="P" morpho="_" head="9" dep="dep">en</word>
+          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">-court</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="14" lem="précéder" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">précédé</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="de_obj">d'</word>
+          <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
+          <word id="17" lem="nom" postag="NC" morpho="g=m|n=s" head="15" dep="prep">nom</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
+          <word id="19" lem="personne" postag="NC" morpho="g=f|n=s" head="18" dep="prep">personne</word>
+          <word id="20" lem="germanique" postag="ADJ" morpho="n=s" head="19" dep="mod">germanique</word>
+          <word id="21" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="appellation" postag="NC" morpho="g=f|n=p" head="0" dep="root">Appellations</word>
+        <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
+        <word id="3" lem="caractère" postag="NC" morpho="g=m|n=s" head="2" dep="prep">caractère</word>
+        <word id="4" lem="anecdotique" postag="ADJ" morpho="n=s" head="3" dep="mod">anecdotique</word>
+        <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        <word id="6" lem="historique" postag="ADJ" morpho="n=s" head="1" dep="mod">historique</word>
+        <word id="7" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
+        <word id="8" lem="mythique" postag="ADJ" morpho="n=s" head="7" dep="dep_coord">mythique</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Camp</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="César" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">César</word>
+          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Mi-Voie</word>
+          <word id="3" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Saut</word>
+          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Français</word>
+          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="7" lem="Duranus" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Duranus</word>
+          <word id="8" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="9" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Ermite</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="4" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="2" dep="mod">Belgique</word>
+          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Passe-tout-Outre</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="3" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="frontière" postag="NC" morpho="g=f|n=s" head="3" dep="prep">frontière</word>
+          <word id="6" lem="franco-belge" postag="ADJ" morpho="n=s" head="5" dep="mod">franco-belge</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Autreppe</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="44" />
+      <text>Appellatifs géographiques ou topographiques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="45" end="97" id="0" />
+      <text id="0">les Bel-Air, Beausoleil sont nombreux en métropole ;</text>
+      <span begin="98" end="137" id="1" />
+      <text id="1">le Bout du Monde, à Sixt-Fer-à-Cheval ;</text>
+      <span begin="138" end="167" id="2" />
+      <text id="2">la Clarté (à Perros-Guirec) ;</text>
+      <span begin="168" end="198" id="3" />
+      <text id="3">l'Oubliette (Maine-et-Loire) ;</text>
+      <span begin="199" end="216" id="4" />
+      <text id="4">le Val du Puits ;</text>
+      <span begin="217" end="341" id="5" />
+      <text id="5">Groenendael (Belgique) appellatif toponymique flamand dael « vallée » précédé de l'adjectif de couleur signifiant « verte »;</text>
+      <span begin="342" end="369" id="6" />
+      <text id="6">Sept Fontaines (Belgique) ;</text>
+      <span begin="370" end="382" id="7" />
+      <text id="7">le Bosquet ;</text>
+      <span begin="383" end="391" id="8" />
+      <text id="8">la Mare.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="58" />
+      <text>Appellatifs liés à une activité humaine ou à la propriété</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="59" end="79" id="0" />
+      <text id="0">les Hautes Granges ;</text>
+      <span begin="80" end="95" id="1" />
+      <text id="1">les Closeries ;</text>
+      <span begin="96" end="107" id="2" />
+      <text id="2">la Vénerie.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="77" />
+      <text>Appellatifs (topographiques, floraux ou type d'habitat) et noms de personnes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="78" end="242" id="0" />
+      <text id="0">Chez-Billard-Haut (Charente), Chez Gruel (Charente, Saint-Martial-de-Mirambeau), Chez-Maurice (Haute-Savoie), de chez « maison » (du latin casa) + nom de personne ;</text>
+      <span begin="243" end="346" id="1" />
+      <text id="1">la Girardière du nom de famille Girard + suffixe -ière (à partir du Moyen Âge), les Grandes Châtelaines</text>
+      <span begin="347" end="435" id="2" />
+      <text id="2">Kertanguy (Basse-Bretagne), du breton ker « maison, village » + Tanguy nom de personne ;</text>
+      <span begin="436" end="552" id="3" />
+      <text id="3">Saint-Aubin-des-Chaumes, Saint-Brisson, etc. (formations médiévales en Saint-, généralement d'anciennes paroisses) ;</text>
+      <span begin="553" end="682" id="4" />
+      <text id="4">la Ville Hamon, la Ville Juhel, etc. (formations toponymiques médiévales où ville a encore son sens de « groupe d'habitations »);</text>
+      <span begin="683" end="730" id="5" />
+      <text id="5">le ''Parc des Princes'' de Boulogne-Billancourt</text>
+      <span begin="731" end="786" id="6" />
+      <text id="6">Carrefour Léonard, dans la forêt de Soignes (Bruxelles)</text>
+      <span begin="787" end="810" id="7" />
+      <text id="7">Bois Joly (Ile-d'Aix) ;</text>
+      <span begin="811" end="919" id="8" />
+      <text id="8">Moncourt, nom d'une ancienne paroisse, toponyme médiéval en -court, précédé d'un nom de personne germanique.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="61" />
+      <text>Appellations à caractère anecdotique, historique ou mythique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="62" end="80" id="0" />
+      <text id="0">le Camp de César ;</text>
+      <span begin="81" end="93" id="1" />
+      <text id="1">la Mi-Voie ;</text>
+      <span begin="94" end="129" id="2" />
+      <text id="2">le Saut des Français (en Duranus) ;</text>
+      <span begin="130" end="150" id="3" />
+      <text id="3">l'Ermite (Belgique);</text>
+      <span begin="151" end="208" id="4" />
+      <text id="4">Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="44" id="0" />
+      <text id="0">Appellatifs géographiques ou topographiques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="48" end="56" id="0" />
+      <text id="0">Bel-Air</text>
+      <span begin="58" end="68" id="1" />
+      <text id="1">Beausoleil</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="98" end="114" id="0" />
+      <text id="0">le Bout du Monde</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="138" end="147" id="0" />
+      <text id="0">la Clarté</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="168" end="180" id="0" />
+      <text id="0">l'Oubliette</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="199" end="214" id="0" />
+      <text id="0">le Val du Puits</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="5">
+      <span begin="217" end="229" id="0" />
+      <text id="0">Groenendael</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="6">
+      <span begin="342" end="356" id="0" />
+      <text id="0">Sept Fontaines</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="7">
+      <span begin="370" end="381" id="0" />
+      <text id="0">le Bosquet</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="8">
+      <span begin="383" end="390" id="0" />
+      <text id="0">la Mare</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="40" id="0" />
+      <text id="0">Appellatifs liés à une activité humaine</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="59" end="77" id="0" />
+      <text id="0">les Hautes Granges</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="80" end="93" id="0" />
+      <text id="0">les Closeries</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="96" end="106" id="0" />
+      <text id="0">la Vénerie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="12" id="0" />
+      <text id="0">Appellatifs</text>
+      <span begin="60" end="77" id="1" />
+      <text id="1">noms de personnes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="78" end="95" id="0" />
+      <text id="0">Chez-Billard-Haut</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="243" end="256" id="0" />
+      <text id="0">la Girardière</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="347" end="356" id="0" />
+      <text id="0">Kertanguy</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+      <span begin="436" end="459" id="0" />
+      <text id="0">Saint-Aubin-des-Chaumes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="4">
+      <span begin="553" end="567" id="0" />
+      <text id="0">la Ville Hamon</text>
+      <span begin="568" end="583" id="1" />
+      <text id="1">la Ville Juhel</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="5">
+      <span begin="683" end="707" id="0" />
+      <text id="0">le ''Parc des Princes''</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="6">
+      <span begin="731" end="748" id="0" />
+      <text id="0">Carrefour Léonard</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="7">
+      <span begin="787" end="796" id="0" />
+      <text id="0">Bois Joly</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="8">
+      <span begin="811" end="819" id="0" />
+      <text id="0">Moncourt</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="1" end="37" id="0" />
+      <text id="0">Appellations à caractère anecdotique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="62" end="78" id="0" />
+      <text id="0">le Camp de César</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="81" end="91" id="0" />
+      <text id="0">la Mi-Voie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="94" end="114" id="0" />
+      <text id="0">le Saut des Français</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="3">
+      <span begin="130" end="138" id="0" />
+      <text id="0">l'Ermite</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="4">
+      <span begin="151" end="167" id="0" />
+      <text id="0">Passe-tout-Outre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:18</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="1" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:47</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="1" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:48</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="1" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:49</date>
+      <document>Lieu-dit.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="1" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

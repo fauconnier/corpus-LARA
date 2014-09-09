@@ -1,0 +1,2727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Par métaphore, ce terme est aussi employé pour puits, trésor dans de nombreuses acceptions :
+une source d'énergie ;
+une source d'ions ;
+une source de carbone ;
+une source du droit ;
+etc.</text>
+      <span begin="395" end="581" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Néanmoins, de son sens premier : '''origine''', '''principe''', il a conservé toutes les significations :
+Commencement, endroit (vieux), point (de départ), fondation (architecture), Abondance.
+Rechercher l'origine d'un mot en remontant jusqu'à la source (Étymologie).
+Art qui se rajeunit en se retrempant à ses sources.
+Retour aux sources.
+L'ambition, source de désordres.
+sources des colonnes d'un temple.
+Cause, ferment, générateur, germe, principe.
+La révolte, source de vraie vie.
+Mère : Prendre source, avoir sa source dans…
+Sortir (de) : Gourmandise, immoralisme : Être une source d'ennuis, de plaisir.
+Créer, produire : Le droit universel, source de toutes les lois positives.
+Base, fondement : Aucune action humaine n'a de source unique.
+Cause : Les Sources de la morale et de la religion.</text>
+      <span begin="582" end="1379" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Cause, ferment, générateur, germe, principe.
+La révolte, source de vraie vie.
+Mère : Prendre source, avoir sa source dans…
+Sortir (de) : Gourmandise, immoralisme : Être une source d'ennuis, de plaisir.</text>
+      <span begin="989" end="1190" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>Information
+Une source désigne l'origine humaine ou technique d'une information. Elle peut être :
+primaire si elle présente des faits ;
+secondaire si elle analyse des sources primaires ;
+tertiaire si elle compile des sources primaires et secondaires.</text>
+      <span begin="1424" end="1674" />
+    </SE>
+    <comment>ellipse partielle dans les items</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>Physique
+En optique, une source lumineuse est l'origine d'où émanent les rayons d'un corps radiant ou réfléchissant ;
+en thermodynamique, une source chaude et une source froide sont nécessaires au fonctionnement d'une machine thermique ;
+en électromagnétisme et dans ses applications (télécommunications, astrophysique…), une source électromagnétique est un objet à partir duquel est émise une onde électromagnétique : émetteur radio, émetteur de télévision, satellite, corps célesteetc. ;
+en astrophysique, une source X ultralumineuse est un astre lumineux dans le domaine des rayons X.</text>
+      <span begin="1800" end="2387" />
+    </SE>
+    <comment>#inclusion lexicale#</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SE>
+      <id>5</id>
+      <text>Mathématiques
+En théorie des ensembles, la source d'une fonction est un ensemble auquel appartient la variable de la fonction ;
+en théorie des graphes, une source est, dans la théorie des graphes, un sommet particulier d'un graphe orienté.</text>
+      <span begin="2388" end="2628" />
+    </SE>
+    <comment>#homonymie#+#inclusion lexicale#</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SE>
+      <id>6</id>
+      <text>Électronique
+La source est une des électrodes d'un transistor à effet de champ ;
+un source commune est un type d'amplificateur électronique ;
+une source d'alimentation électrique est un dispositif pouvant fournir ou évacuer de l'énergie électrique, sous la forme d'une source de tension ou d'une source de courant ;
+une source d'une chaîne Hi-Fi.</text>
+      <span begin="2748" end="3095" />
+    </SE>
+    <comment>#homonymie#+#inclusion lexicale#</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SE>
+      <id>7</id>
+      <text>Systèmes et logiciels
+Source Code Control System est un système de gestion de versions ;
+Source est un moteur de jeu créé par Valve ;
+Source Mage est une distribution Linux ;
+SourceForge.net est le nom d'une plateforme d'hébergement, SourceForge logiciel qui la fait tourner et SourceForge, Inc. la société qui les propose ;
+SourceForts est un mod du jeu vidéo Half-Life 2 ;
+SourceMonitor est un logiciel de métrique logicielle ;
+Sourcesup est une plateforme de gestion de logiciels ;
+SourceWatch est un wiki qui vise à démasquer les campagnes de lobbyings et/ou de propagande.
+Sources est un portail Web d'information canadien pour des journalistes, écrivains indépendants, rédacteurs, auteurs, et chercheurs.</text>
+      <span begin="3190" end="3900" />
+    </SE>
+    <comment>#homonymie#+#inclusion lexicale#</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SE>
+      <id>8</id>
+      <text>Musique
+Source Tags &amp;amp; Codes est un album du groupe rock ...And You Will Know Us by the Trail of Dead.
+Sources est un album de Bia Krieger.
+Source est un label de disques.</text>
+      <span begin="3901" end="4075" />
+    </SE>
+    <comment>#inclusion lexicale#</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="par" postag="P" morpho="_" head="8" dep="mod">Par</word>
+        <word id="2" lem="métaphore" postag="NC" morpho="g=f|n=s" head="1" dep="prep">métaphore</word>
+        <word id="3" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+        <word id="4" lem="ce" postag="DET" morpho="g=m|n=s" head="5" dep="det">ce</word>
+        <word id="5" lem="terme" postag="NC" morpho="g=m|n=s" head="8" dep="suj">terme</word>
+        <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="aux_pass">est</word>
+        <word id="7" lem="aussi" postag="ADV" morpho="_" head="8" dep="mod">aussi</word>
+        <word id="8" lem="employer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">employé</word>
+        <word id="9" lem="pour" postag="P" morpho="_" head="8" dep="mod">pour</word>
+        <word id="10" lem="puits" postag="NC" morpho="g=m" head="9" dep="prep">puits</word>
+        <word id="11" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+        <word id="12" lem="trésor" postag="NC" morpho="g=m|n=s" head="8" dep="mod">trésor</word>
+        <word id="13" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
+        <word id="14" lem="de" postag="DET" morpho="n=p" head="16" dep="det">de</word>
+        <word id="15" lem="nombreux" postag="ADJ" morpho="g=f|n=p" head="16" dep="mod">nombreuses</word>
+        <word id="16" lem="acception" postag="NC" morpho="g=f|n=p" head="13" dep="prep">acceptions</word>
+        <word id="17" lem=":" postag="PONCT" morpho="_" head="8" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+          <word id="2" lem="source" postag="NC" morpho="g=f|n=s" head="0" dep="_">source</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="énergie" postag="NC" morpho="g=f|n=s" head="3" dep="prep">énergie</word>
+          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+          <word id="2" lem="source" postag="NC" morpho="g=f|n=s" head="0" dep="_">source</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="ion" postag="NC" morpho="g=m|n=p" head="3" dep="prep">ions</word>
+          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+          <word id="2" lem="source" postag="NC" morpho="g=f|n=s" head="0" dep="_">source</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="carbone" postag="NC" morpho="g=m|n=s" head="3" dep="prep">carbone</word>
+          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+          <word id="2" lem="source" postag="NC" morpho="g=f|n=s" head="0" dep="_">source</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="droit" postag="NC" morpho="g=m|n=s" head="3" dep="prep">droit</word>
+          <word id="5" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="root">etc</word>
+          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="néanmoins" postag="ADV" morpho="_" head="16" dep="mod">Néanmoins</word>
+        <word id="2" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="16" dep="mod">de</word>
+        <word id="4" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="5" dep="det">son</word>
+        <word id="5" lem="sens" postag="NC" morpho="g=m" head="3" dep="prep">sens</word>
+        <word id="6" lem="premier" postag="ADJ" morpho="n=p" head="5" dep="mod">premier</word>
+        <word id="7" lem=":" postag="PONCT" morpho="_" head="16" dep="ponct">:</word>
+        <word id="8" lem="_" postag="NPP" morpho="_" head="16" dep="suj">_'''</word>
+        <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">origine'''</word>
+        <word id="10" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+        <word id="11" lem="_" postag="NPP" morpho="_" head="16" dep="suj">_'''</word>
+        <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">principe'''</word>
+        <word id="13" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+        <word id="14" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="16" dep="suj">il</word>
+        <word id="15" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="16" dep="aux_tps">a</word>
+        <word id="16" lem="conserver" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">conservé</word>
+        <word id="17" lem="tout" postag="ADJ" morpho="g=f|n=p" head="19" dep="mod">toutes</word>
+        <word id="18" lem="les" postag="DET" morpho="n=p" head="19" dep="det">les</word>
+        <word id="19" lem="signification" postag="NC" morpho="g=f|n=p" head="16" dep="obj">significations</word>
+        <word id="20" lem=":" postag="PONCT" morpho="_" head="16" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="commencement" postag="NC" morpho="g=m|n=s" head="0" dep="_">Commencement</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="3" lem="endroit" postag="NC" morpho="g=m|n=s" head="0" dep="_">endroit</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+          <word id="5" lem="vieux" postag="ADJ" morpho="g=m" head="3" dep="mod">vieux</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="8" lem="point" postag="NC" morpho="g=m|n=s" head="0" dep="_">point</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="11" lem="départ" postag="NC" morpho="g=m|n=s" head="10" dep="prep">départ</word>
+          <word id="12" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="14" lem="fondation" postag="NC" morpho="g=f|n=s" head="13" dep="dep_coord">fondation</word>
+          <word id="15" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
+          <word id="16" lem="architecture" postag="NC" morpho="g=f|n=s" head="14" dep="mod">architecture</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="19" lem="Abondance" postag="NPP" morpho="g=m|n=s" head="14" dep="mod">Abondance</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="14" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="rechercher" postag="VINF" morpho="_" head="0" dep="_">Rechercher</word>
+          <word id="2" lem="l'" postag="DET" morpho="n=s" head="3" dep="det">l'</word>
+          <word id="3" lem="origine" postag="NC" morpho="g=f|n=s" head="1" dep="obj">origine</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">d'</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="mot" postag="NC" morpho="g=m|n=s" head="4" dep="prep">mot</word>
+          <word id="7" lem="en" postag="P" morpho="_" head="1" dep="mod">en</word>
+          <word id="8" lem="remonter" postag="VPR" morpho="t=pst" head="7" dep="prep">remontant</word>
+          <word id="9" lem="jusqu'à" postag="P" morpho="_" head="8" dep="mod">jusqu'à</word>
+          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+          <word id="11" lem="source" postag="NC" morpho="g=f|n=s" head="9" dep="prep">source</word>
+          <word id="12" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
+          <word id="13" lem="étymologie" postag="NC" morpho="g=f|n=s" head="8" dep="mod">Étymologie</word>
+          <word id="14" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="art" postag="NC" morpho="g=m|n=s" head="0" dep="root">Art</word>
+          <word id="2" lem="qui" postag="PROREL" morpho="n=s" head="4" dep="suj">qui</word>
+          <word id="3" lem="se" postag="CLR" morpho="n=p|p=3" head="4" dep="aff">se</word>
+          <word id="4" lem="rajeunir" postag="V" morpho="n=s|p=3|t=past" head="1" dep="mod_rel">rajeunit</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="4" dep="mod">en</word>
+          <word id="6" lem="se" postag="CLR" morpho="n=p|p=3" head="7" dep="aff">se</word>
+          <word id="7" lem="retremper" postag="VPR" morpho="t=pst" head="5" dep="prep">retrempant</word>
+          <word id="8" lem="à" postag="P" morpho="_" head="7" dep="a_obj">à</word>
+          <word id="9" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="10" dep="det">ses</word>
+          <word id="10" lem="source" postag="NC" morpho="g=f|n=p" head="8" dep="prep">sources</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="retour" postag="NC" morpho="g=m|n=s" head="0" dep="_">Retour</word>
+          <word id="2" lem="à" postag="P+D" morpho="n=p" head="1" dep="dep">aux</word>
+          <word id="3" lem="source" postag="NC" morpho="g=f|n=p" head="2" dep="prep">sources</word>
+          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
+          <word id="2" lem="ambition" postag="NC" morpho="g=f|n=s" head="0" dep="_">ambition</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="4" lem="source" postag="NC" morpho="g=f|n=s" head="2" dep="mod">source</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="désordre" postag="NC" morpho="g=m|n=p" head="5" dep="prep">désordres</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="source" postag="NC" morpho="g=f|n=p" head="0" dep="_">sources</word>
+          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+          <word id="3" lem="colonne" postag="NC" morpho="g=f|n=p" head="2" dep="prep">colonnes</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">d'</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="temple" postag="NC" morpho="g=m|n=s" head="4" dep="prep">temple</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="cause" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cause</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="3" lem="ferment" postag="NC" morpho="g=m|n=s" head="0" dep="_">ferment</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="5" lem="générateur" postag="NC" morpho="g=m|n=s" head="0" dep="_">générateur</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="7" lem="germe" postag="NC" morpho="g=m|n=s" head="0" dep="_">germe</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="9" lem="principe" postag="NC" morpho="g=m|n=s" head="7" dep="mod">principe</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="révolte" postag="NC" morpho="g=f|n=s" head="0" dep="_">révolte</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="4" lem="source" postag="NC" morpho="g=f|n=s" head="2" dep="mod">source</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="vrai" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">vraie</word>
+          <word id="7" lem="vie" postag="NC" morpho="g=f|n=s" head="5" dep="prep">vie</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="mère" postag="NC" morpho="g=f|n=s" head="0" dep="root">Mère</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="prendre" postag="VINF" morpho="_" head="1" dep="dep">Prendre</word>
+          <word id="4" lem="source" postag="NC" morpho="g=f|n=s" head="3" dep="obj">source</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="6" lem="avoir" postag="VINF" morpho="_" head="1" dep="dep">avoir</word>
+          <word id="7" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="8" dep="det">sa</word>
+          <word id="8" lem="source" postag="NC" morpho="g=f|n=s" head="6" dep="obj">source</word>
+          <word id="9" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">dans…</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="sortir" postag="VINF" morpho="_" head="0" dep="_">Sortir</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="mod">de</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="6" lem="gourmandise" postag="NC" morpho="g=f|n=s" head="1" dep="mod">Gourmandise</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="8" lem="immoralisme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">immoralisme</word>
+          <word id="9" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="10" lem="être" postag="VINF" morpho="_" head="1" dep="mod">Être</word>
+          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+          <word id="12" lem="source" postag="NC" morpho="g=f|n=s" head="10" dep="obj">source</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
+          <word id="14" lem="ennui" postag="NC" morpho="g=m|n=p" head="13" dep="prep">ennuis</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="10" dep="mod">de</word>
+          <word id="17" lem="plaisir" postag="NC" morpho="g=m|n=s" head="16" dep="prep">plaisir</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="créer" postag="VINF" morpho="_" head="0" dep="_">Créer</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="3" lem="produire" postag="VINF" morpho="_" head="0" dep="_">produire</word>
+          <word id="4" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">Le</word>
+          <word id="6" lem="droit" postag="NC" morpho="g=m|n=s" head="3" dep="mod">droit</word>
+          <word id="7" lem="universel" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">universel</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="9" lem="source" postag="NC" morpho="g=f|n=s" head="3" dep="mod">source</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
+          <word id="11" lem="tout" postag="ADJ" morpho="g=f|n=p" head="13" dep="mod">toutes</word>
+          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="13" lem="loi" postag="NC" morpho="g=f|n=p" head="10" dep="prep">lois</word>
+          <word id="14" lem="positif" postag="ADJ" morpho="g=f|n=p" head="13" dep="mod">positives</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="base" postag="NC" morpho="g=f|n=s" head="9" dep="suj">Base</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="3" lem="fondement" postag="NC" morpho="g=m|n=s" head="9" dep="mod">fondement</word>
+          <word id="4" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
+          <word id="5" lem="aucune" postag="DET" morpho="g=f|n=s" head="6" dep="det">Aucune</word>
+          <word id="6" lem="action" postag="NC" morpho="g=f|n=s" head="9" dep="suj">action</word>
+          <word id="7" lem="humain" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">humaine</word>
+          <word id="8" lem="ne" postag="ADV" morpho="_" head="9" dep="mod">n'</word>
+          <word id="9" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">a</word>
+          <word id="10" lem="de" postag="DET" morpho="n=p" head="11" dep="det">de</word>
+          <word id="11" lem="source" postag="NC" morpho="g=f|n=s" head="9" dep="obj">source</word>
+          <word id="12" lem="unique" postag="ADJ" morpho="n=s" head="11" dep="mod">unique</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="cause" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cause</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+          <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">Les</word>
+          <word id="4" lem="_" postag="NC" morpho="_" head="0" dep="_">Sources</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
+          <word id="7" lem="moral" postag="ADJ" morpho="g=f|n=s" head="5" dep="prep">morale</word>
+          <word id="8" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep_coord">de</word>
+          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+          <word id="11" lem="religion" postag="NC" morpho="g=f|n=s" head="9" dep="prep">religion</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="cause" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cause</word>
+        <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        <word id="3" lem="ferment" postag="NC" morpho="g=m|n=s" head="0" dep="_">ferment</word>
+        <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        <word id="5" lem="générateur" postag="NC" morpho="g=m|n=s" head="0" dep="_">générateur</word>
+        <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        <word id="7" lem="germe" postag="NC" morpho="g=m|n=s" head="0" dep="_">germe</word>
+        <word id="8" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+        <word id="9" lem="principe" postag="NC" morpho="g=m|n=s" head="7" dep="mod">principe</word>
+        <word id="10" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="révolte" postag="NC" morpho="g=f|n=s" head="0" dep="_">révolte</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="4" lem="source" postag="NC" morpho="g=f|n=s" head="2" dep="mod">source</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="vrai" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">vraie</word>
+          <word id="7" lem="vie" postag="NC" morpho="g=f|n=s" head="5" dep="prep">vie</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="mère" postag="NC" morpho="g=f|n=s" head="0" dep="root">Mère</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="prendre" postag="VINF" morpho="_" head="1" dep="dep">Prendre</word>
+          <word id="4" lem="source" postag="NC" morpho="g=f|n=s" head="3" dep="obj">source</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="6" lem="avoir" postag="VINF" morpho="_" head="1" dep="dep">avoir</word>
+          <word id="7" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="8" dep="det">sa</word>
+          <word id="8" lem="source" postag="NC" morpho="g=f|n=s" head="6" dep="obj">source</word>
+          <word id="9" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">dans…</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="sortir" postag="VINF" morpho="_" head="0" dep="_">Sortir</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="mod">de</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="5" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="6" lem="gourmandise" postag="NC" morpho="g=f|n=s" head="1" dep="mod">Gourmandise</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="8" lem="immoralisme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">immoralisme</word>
+          <word id="9" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="10" lem="être" postag="VINF" morpho="_" head="1" dep="mod">Être</word>
+          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+          <word id="12" lem="source" postag="NC" morpho="g=f|n=s" head="10" dep="obj">source</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
+          <word id="14" lem="ennui" postag="NC" morpho="g=m|n=p" head="13" dep="prep">ennuis</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="10" dep="mod">de</word>
+          <word id="17" lem="plaisir" postag="NC" morpho="g=m|n=s" head="16" dep="prep">plaisir</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="information" postag="NC" morpho="g=f|n=s" head="0" dep="_">Information</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
+        <word id="2" lem="source" postag="NC" morpho="g=f|n=s" head="3" dep="suj">source</word>
+        <word id="3" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+        <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+        <word id="5" lem="origine" postag="NC" morpho="g=f|n=s" head="3" dep="obj">origine</word>
+        <word id="6" lem="humain" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">humaine</word>
+        <word id="7" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
+        <word id="8" lem="technique" postag="ADJ" morpho="n=s" head="7" dep="dep_coord">technique</word>
+        <word id="9" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
+        <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+        <word id="11" lem="information" postag="NC" morpho="g=f|n=s" head="9" dep="prep">information</word>
+        <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+      </sentence>
+      <sentence id="3">
+        <word id="1" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="2" dep="suj">Elle</word>
+        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+        <word id="3" lem="être" postag="VINF" morpho="_" head="2" dep="obj">être</word>
+        <word id="4" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="primaire" postag="ADJ" morpho="n=s" head="0" dep="_">primaire</word>
+          <word id="2" lem="si" postag="CS" morpho="_" head="1" dep="mod">si</word>
+          <word id="3" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="4" dep="suj">elle</word>
+          <word id="4" lem="présenter" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="sub">présente</word>
+          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
+          <word id="6" lem="fait" postag="NC" morpho="g=m|n=p" head="4" dep="obj">faits</word>
+          <word id="7" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="secondaire" postag="ADJ" morpho="n=s" head="0" dep="_">secondaire</word>
+          <word id="2" lem="si" postag="CS" morpho="_" head="1" dep="mod">si</word>
+          <word id="3" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="4" dep="suj">elle</word>
+          <word id="4" lem="analyser" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="sub">analyse</word>
+          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
+          <word id="6" lem="source" postag="NC" morpho="g=f|n=p" head="4" dep="obj">sources</word>
+          <word id="7" lem="primaire" postag="ADJ" morpho="n=p" head="6" dep="mod">primaires</word>
+          <word id="8" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="tertiaire" postag="ADJ" morpho="n=s" head="0" dep="_">tertiaire</word>
+          <word id="2" lem="si" postag="CS" morpho="_" head="1" dep="mod">si</word>
+          <word id="3" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="4" dep="suj">elle</word>
+          <word id="4" lem="compiler" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="sub">compile</word>
+          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
+          <word id="6" lem="source" postag="NC" morpho="g=f|n=p" head="4" dep="obj">sources</word>
+          <word id="7" lem="primaire" postag="ADJ" morpho="n=p" head="6" dep="mod">primaires</word>
+          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
+          <word id="9" lem="secondaire" postag="ADJ" morpho="n=p" head="8" dep="dep_coord">secondaires</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="physique" postag="ADJ" morpho="n=s" head="0" dep="_">Physique</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="7" dep="mod">En</word>
+          <word id="2" lem="optique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">optique</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="source" postag="NC" morpho="g=f|n=s" head="7" dep="suj">source</word>
+          <word id="6" lem="lumineux" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">lumineuse</word>
+          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
+          <word id="9" lem="origine" postag="NC" morpho="g=f|n=s" head="7" dep="ats">origine</word>
+          <word id="10" lem="d'où" postag="P" morpho="_" head="9" dep="dep">d'où</word>
+          <word id="11" lem="_" postag="NC" morpho="_" head="10" dep="prep">émanent</word>
+          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="13" lem="rayon" postag="NC" morpho="g=m|n=p" head="7" dep="ats">rayons</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
+          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
+          <word id="16" lem="corps" postag="NC" morpho="g=m" head="14" dep="prep">corps</word>
+          <word id="17" lem="_" postag="ADJ" morpho="_" head="16" dep="mod">radiant</word>
+          <word id="18" lem="ou" postag="CC" morpho="_" head="17" dep="coord">ou</word>
+          <word id="19" lem="réfléchissant" postag="ADJ" morpho="g=m|n=s" head="18" dep="dep_coord">réfléchissant</word>
+          <word id="20" lem=";" postag="PONCT" morpho="_" head="7" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
+          <word id="2" lem="thermodynamique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">thermodynamique</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="source" postag="NC" morpho="g=f|n=s" head="11" dep="suj">source</word>
+          <word id="6" lem="chaud" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">chaude</word>
+          <word id="7" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
+          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
+          <word id="9" lem="source" postag="NC" morpho="g=f|n=s" head="7" dep="dep_coord">source</word>
+          <word id="10" lem="froid" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">froide</word>
+          <word id="11" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="12" lem="nécessaire" postag="ADJ" morpho="n=p" head="11" dep="ats">nécessaires</word>
+          <word id="13" lem="à" postag="P+D" morpho="g=m|n=s" head="12" dep="a_obj">au</word>
+          <word id="14" lem="fonctionnement" postag="NC" morpho="g=m|n=s" head="13" dep="prep">fonctionnement</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">d'</word>
+          <word id="16" lem="une" postag="DET" morpho="g=f|n=s" head="17" dep="det">une</word>
+          <word id="17" lem="machine" postag="NC" morpho="g=f|n=s" head="15" dep="prep">machine</word>
+          <word id="18" lem="thermique" postag="ADJ" morpho="n=s" head="17" dep="mod">thermique</word>
+          <word id="19" lem=";" postag="PONCT" morpho="_" head="11" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="16" dep="mod">en</word>
+          <word id="2" lem="électromagnétisme" postag="NC" morpho="g=m|n=s" head="1" dep="prep">électromagnétisme</word>
+          <word id="3" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+          <word id="4" lem="dans" postag="P" morpho="_" head="3" dep="dep_coord">dans</word>
+          <word id="5" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="6" dep="det">ses</word>
+          <word id="6" lem="application" postag="NC" morpho="g=f|n=p" head="4" dep="prep">applications</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="16" dep="ponct">(</word>
+          <word id="8" lem="télécommunication" postag="NC" morpho="g=f|n=p" head="16" dep="mod">télécommunications</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="16" dep="suj">astrophysique…</word>
+          <word id="11" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="13" lem="une" postag="DET" morpho="g=f|n=s" head="14" dep="det">une</word>
+          <word id="14" lem="source" postag="NC" morpho="g=f|n=s" head="10" dep="mod">source</word>
+          <word id="15" lem="électromagnétique" postag="ADJ" morpho="n=s" head="14" dep="mod">électromagnétique</word>
+          <word id="16" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
+          <word id="18" lem="objet" postag="NC" morpho="g=m|n=s" head="16" dep="ats">objet</word>
+          <word id="19" lem="à" postag="P" morpho="_" head="18" dep="dep">à</word>
+          <word id="20" lem="partir" postag="VINF" morpho="_" head="19" dep="prep">partir</word>
+          <word id="21" lem="duquel" postag="P+PRO" morpho="g=m|n=s" head="23" dep="mod">duquel</word>
+          <word id="22" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="23" dep="aux_tps">est</word>
+          <word id="23" lem="émettre" postag="VPP" morpho="g=f|n=s|t=past" head="20" dep="mod">émise</word>
+          <word id="24" lem="une" postag="DET" morpho="g=f|n=s" head="25" dep="det">une</word>
+          <word id="25" lem="onde" postag="NC" morpho="g=f|n=s" head="23" dep="mod">onde</word>
+          <word id="26" lem="électromagnétique" postag="ADJ" morpho="n=s" head="25" dep="mod">électromagnétique</word>
+          <word id="27" lem=":" postag="PONCT" morpho="_" head="16" dep="ponct">:</word>
+          <word id="28" lem="émetteur" postag="NC" morpho="g=m|n=s" head="16" dep="mod">émetteur</word>
+          <word id="29" lem="radio" postag="NC" morpho="n=s" head="28" dep="mod">radio</word>
+          <word id="30" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+          <word id="31" lem="émetteur" postag="NC" morpho="g=m|n=s" head="16" dep="mod">émetteur</word>
+          <word id="32" lem="de" postag="P" morpho="_" head="31" dep="dep">de</word>
+          <word id="33" lem="télévision" postag="NC" morpho="g=f|n=s" head="32" dep="prep">télévision</word>
+          <word id="34" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+          <word id="35" lem="satellite" postag="NC" morpho="g=m|n=s" head="16" dep="mod">satellite</word>
+          <word id="36" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+          <word id="37" lem="corps" postag="NC" morpho="g=m" head="16" dep="mod">corps</word>
+          <word id="38" lem="_" postag="NPP" morpho="_" head="37" dep="mod">célesteetc</word>
+          <word id="39" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="8" dep="mod">en</word>
+          <word id="2" lem="astrophysique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">astrophysique</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="source" postag="NC" morpho="g=f|n=s" head="8" dep="suj">source</word>
+          <word id="6" lem="_" postag="ADJ" morpho="_" head="5" dep="mod">X</word>
+          <word id="7" lem="_" postag="ADJ" morpho="_" head="5" dep="mod">ultralumineuse</word>
+          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
+          <word id="10" lem="astre" postag="NC" morpho="g=m|n=s" head="8" dep="ats">astre</word>
+          <word id="11" lem="lumineux" postag="ADJ" morpho="g=m" head="10" dep="mod">lumineux</word>
+          <word id="12" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
+          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
+          <word id="14" lem="domaine" postag="NC" morpho="g=m|n=s" head="12" dep="prep">domaine</word>
+          <word id="15" lem="de" postag="P+D" morpho="n=p" head="14" dep="dep">des</word>
+          <word id="16" lem="rayon" postag="NC" morpho="g=m|n=p" head="15" dep="prep">rayons</word>
+          <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="mod">X</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="5">
+      <sentence id="1">
+        <word id="1" lem="mathématique" postag="NC" morpho="g=f|n=p" head="0" dep="root">Mathématiques</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="5">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="11" dep="mod">En</word>
+          <word id="2" lem="théorie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">théorie</word>
+          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+          <word id="4" lem="ensemble" postag="NC" morpho="g=m|n=p" head="3" dep="prep">ensembles</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
+          <word id="7" lem="source" postag="NC" morpho="g=f|n=s" head="11" dep="suj">source</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
+          <word id="10" lem="fonction" postag="NC" morpho="g=f|n=s" head="8" dep="prep">fonction</word>
+          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="12" lem="un" postag="DET" morpho="g=m|n=s" head="13" dep="det">un</word>
+          <word id="13" lem="ensemble" postag="NC" morpho="g=m|n=s" head="11" dep="ats">ensemble</word>
+          <word id="14" lem="auquel" postag="P+PRO" morpho="g=m|n=s" head="15" dep="mod">auquel</word>
+          <word id="15" lem="appartenir" postag="V" morpho="n=s|p=3|t=pst" head="13" dep="mod_rel">appartient</word>
+          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
+          <word id="17" lem="variable" postag="NC" morpho="g=f|n=s" head="15" dep="suj">variable</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
+          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
+          <word id="20" lem="fonction" postag="NC" morpho="g=f|n=s" head="18" dep="prep">fonction</word>
+          <word id="21" lem=";" postag="PONCT" morpho="_" head="11" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="8" dep="mod">en</word>
+          <word id="2" lem="théorie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">théorie</word>
+          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+          <word id="4" lem="graphe" postag="NC" morpho="g=m|n=p" head="3" dep="prep">graphes</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+          <word id="7" lem="source" postag="NC" morpho="g=f|n=s" head="8" dep="suj">source</word>
+          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="10" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
+          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
+          <word id="12" lem="théorie" postag="NC" morpho="g=f|n=s" head="10" dep="prep">théorie</word>
+          <word id="13" lem="de" postag="P+D" morpho="n=p" head="12" dep="dep">des</word>
+          <word id="14" lem="graphe" postag="NC" morpho="g=m|n=p" head="13" dep="prep">graphes</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
+          <word id="17" lem="sommet" postag="NC" morpho="g=m|n=s" head="8" dep="ats">sommet</word>
+          <word id="18" lem="particulier" postag="ADJ" morpho="g=m|n=s" head="17" dep="mod">particulier</word>
+          <word id="19" lem="de" postag="P" morpho="_" head="17" dep="dep">d'</word>
+          <word id="20" lem="un" postag="DET" morpho="g=m|n=s" head="21" dep="det">un</word>
+          <word id="21" lem="graphe" postag="NC" morpho="g=m|n=s" head="19" dep="prep">graphe</word>
+          <word id="22" lem="orienter" postag="VPP" morpho="g=m|n=s|t=past" head="21" dep="mod">orienté</word>
+          <word id="23" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="6">
+      <sentence id="1">
+        <word id="1" lem="électronique" postag="NC" morpho="g=f|n=s" head="0" dep="root">Électronique</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="6">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="source" postag="NC" morpho="g=f|n=s" head="3" dep="suj">source</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="0" dep="_">une</word>
+          <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
+          <word id="6" lem="électrode" postag="NC" morpho="g=f|n=p" head="5" dep="prep">électrodes</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
+          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
+          <word id="9" lem="transistor" postag="NC" morpho="g=m|n=s" head="7" dep="prep">transistor</word>
+          <word id="10" lem="à" postag="P" morpho="_" head="9" dep="dep">à</word>
+          <word id="11" lem="effet" postag="NC" morpho="g=m|n=s" head="10" dep="prep">effet</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
+          <word id="13" lem="champ" postag="NC" morpho="g=m|n=s" head="12" dep="prep">champ</word>
+          <word id="14" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
+          <word id="2" lem="source" postag="NC" morpho="g=f|n=s" head="4" dep="suj">source</word>
+          <word id="3" lem="commun" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">commune</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="type" postag="NC" morpho="g=m|n=s" head="4" dep="ats">type</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
+          <word id="8" lem="amplificateur" postag="NC" morpho="g=m|n=s" head="7" dep="prep">amplificateur</word>
+          <word id="9" lem="électronique" postag="ADJ" morpho="n=s" head="8" dep="mod">électronique</word>
+          <word id="10" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+          <word id="2" lem="source" postag="NC" morpho="g=f|n=s" head="6" dep="suj">source</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="alimentation" postag="NC" morpho="g=f|n=s" head="3" dep="prep">alimentation</word>
+          <word id="5" lem="électrique" postag="ADJ" morpho="n=s" head="4" dep="mod">électrique</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+          <word id="8" lem="dispositif" postag="NC" morpho="g=m|n=s" head="6" dep="ats">dispositif</word>
+          <word id="9" lem="pouvoir" postag="VPR" morpho="t=pst" head="8" dep="mod">pouvant</word>
+          <word id="10" lem="fournir" postag="VINF" morpho="_" head="9" dep="obj">fournir</word>
+          <word id="11" lem="ou" postag="CC" morpho="_" head="10" dep="coord">ou</word>
+          <word id="12" lem="évacuer" postag="VINF" morpho="_" head="11" dep="dep_coord">évacuer</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="de_obj">de</word>
+          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
+          <word id="15" lem="énergie" postag="NC" morpho="g=f|n=s" head="13" dep="prep">énergie</word>
+          <word id="16" lem="électrique" postag="ADJ" morpho="n=s" head="15" dep="mod">électrique</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+          <word id="18" lem="sous" postag="P" morpho="_" head="9" dep="mod">sous</word>
+          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
+          <word id="20" lem="forme" postag="NC" morpho="g=f|n=s" head="18" dep="prep">forme</word>
+          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">d'</word>
+          <word id="22" lem="une" postag="DET" morpho="g=f|n=s" head="23" dep="det">une</word>
+          <word id="23" lem="source" postag="NC" morpho="g=f|n=s" head="21" dep="prep">source</word>
+          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="25" lem="tension" postag="NC" morpho="g=f|n=s" head="24" dep="prep">tension</word>
+          <word id="26" lem="ou" postag="CC" morpho="_" head="21" dep="coord">ou</word>
+          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep_coord">d'</word>
+          <word id="28" lem="une" postag="DET" morpho="g=f|n=s" head="29" dep="det">une</word>
+          <word id="29" lem="source" postag="NC" morpho="g=f|n=s" head="27" dep="prep">source</word>
+          <word id="30" lem="de" postag="P" morpho="_" head="29" dep="dep">de</word>
+          <word id="31" lem="courant" postag="NC" morpho="g=m|n=s" head="30" dep="prep">courant</word>
+          <word id="32" lem=";" postag="PONCT" morpho="_" head="6" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
+          <word id="2" lem="source" postag="NC" morpho="g=f|n=s" head="0" dep="root">source</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="chaîne" postag="NC" morpho="g=f|n=s" head="3" dep="prep">chaîne</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Hi-Fi</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="7">
+      <sentence id="1">
+        <word id="1" lem="système" postag="NC" morpho="g=m|n=p" head="0" dep="_">Systèmes</word>
+        <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+        <word id="3" lem="logiciel" postag="NC" morpho="g=m|n=p" head="2" dep="dep_coord">logiciels</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="7">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="source" postag="NC" morpho="g=f|n=s" head="5" dep="suj">Source</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Code</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Control</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">System</word>
+          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="7" lem="système" postag="NC" morpho="g=m|n=s" head="5" dep="ats">système</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="gestion" postag="NC" morpho="g=f|n=s" head="8" dep="prep">gestion</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
+          <word id="11" lem="version" postag="NC" morpho="g=f|n=p" head="10" dep="prep">versions</word>
+          <word id="12" lem=";" postag="PONCT" morpho="_" head="5" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="source" postag="NC" morpho="g=f|n=s" head="2" dep="suj">Source</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="moteur" postag="NC" morpho="g=m|n=s" head="2" dep="ats">moteur</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="jeu" postag="NC" morpho="g=m|n=s" head="5" dep="prep">jeu</word>
+          <word id="7" lem="créer" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">créé</word>
+          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Valve</word>
+          <word id="10" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="source" postag="NC" morpho="g=f|n=s" head="3" dep="mod">Source</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Mage</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="distribution" postag="NC" morpho="g=f|n=s" head="3" dep="ats">distribution</word>
+          <word id="6" lem="Linux" postag="NPP" morpho="_" head="5" dep="mod">Linux</word>
+          <word id="7" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">SourceForge.net</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
+          <word id="4" lem="nom" postag="NC" morpho="g=m|n=s" head="2" dep="ats">nom</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+          <word id="7" lem="plateforme" postag="NC" morpho="g=f|n=s" head="5" dep="prep">plateforme</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="9" lem="hébergement" postag="NC" morpho="g=m|n=s" head="8" dep="prep">hébergement</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="0" dep="_">SourceForge</word>
+          <word id="12" lem="logiciel" postag="NC" morpho="g=m|n=s" head="11" dep="mod">logiciel</word>
+          <word id="13" lem="qui" postag="PROREL" morpho="n=s" head="15" dep="suj">qui</word>
+          <word id="14" lem="la" postag="CLO" morpho="g=f|n=s|p=3" head="15" dep="obj">la</word>
+          <word id="15" lem="faire" postag="V" morpho="n=s|p=3|t=pst" head="12" dep="mod_rel">fait</word>
+          <word id="16" lem="tourner" postag="VINF" morpho="_" head="15" dep="obj">tourner</word>
+          <word id="17" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
+          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="dep_coord">SourceForge</word>
+          <word id="19" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
+          <word id="20" lem="_" postag="NPP" morpho="_" head="15" dep="mod">Inc</word>
+          <word id="21" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="société" postag="NC" morpho="g=f|n=s" head="0" dep="_">société</word>
+          <word id="3" lem="qui" postag="PROREL" morpho="n=s" head="5" dep="suj">qui</word>
+          <word id="4" lem="les" postag="CLO" morpho="n=p|p=3" head="5" dep="obj">les</word>
+          <word id="5" lem="proposer" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">propose</word>
+          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">SourceForts</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="ats">mod</word>
+          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
+          <word id="6" lem="jeu" postag="NC" morpho="g=m|n=s" head="5" dep="prep">jeu</word>
+          <word id="7" lem="_" postag="ADJ" morpho="_" head="6" dep="mod">vidéo</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Half-Life</word>
+          <word id="9" lem="#NUM#" postag="ADJ" morpho="n=p" head="6" dep="mod">2</word>
+          <word id="10" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">SourceMonitor</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="logiciel" postag="NC" morpho="g=m|n=s" head="2" dep="ats">logiciel</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="métrique" postag="NC" morpho="g=f|n=s" head="5" dep="prep">métrique</word>
+          <word id="7" lem="logiciel" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">logicielle</word>
+          <word id="8" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Sourcesup</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+          <word id="4" lem="plateforme" postag="NC" morpho="g=f|n=s" head="2" dep="ats">plateforme</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="gestion" postag="NC" morpho="g=f|n=s" head="5" dep="prep">gestion</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="logiciel" postag="NC" morpho="g=m|n=p" head="7" dep="prep">logiciels</word>
+          <word id="9" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">SourceWatch</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="ats">wiki</word>
+          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
+          <word id="6" lem="viser" postag="V" morpho="n=s|p=13|t=pst" head="4" dep="mod_rel">vise</word>
+          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="a_obj">à</word>
+          <word id="8" lem="démasquer" postag="VINF" morpho="_" head="7" dep="prep">démasquer</word>
+          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+          <word id="10" lem="campagne" postag="NC" morpho="g=f|n=p" head="8" dep="obj">campagnes</word>
+          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
+          <word id="12" lem="lobbying" postag="NC" morpho="g=m|n=p" head="11" dep="prep">lobbyings</word>
+          <word id="13" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
+          <word id="14" lem="/" postag="PONCT" morpho="_" head="13" dep="ponct">/</word>
+          <word id="15" lem="ou" postag="CC" morpho="_" head="13" dep="coord">ou</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep_coord">de</word>
+          <word id="17" lem="propagande" postag="NC" morpho="g=f|n=s" head="16" dep="prep">propagande</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="source" postag="NC" morpho="g=f|n=p" head="2" dep="suj">Sources</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="portail" postag="NC" morpho="g=m|n=s" head="2" dep="ats">portail</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Web</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="7" lem="information" postag="NC" morpho="g=f|n=s" head="6" dep="prep">information</word>
+          <word id="8" lem="canadien" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">canadien</word>
+          <word id="9" lem="pour" postag="P" morpho="_" head="2" dep="mod">pour</word>
+          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
+          <word id="11" lem="journaliste" postag="NC" morpho="n=p" head="9" dep="prep">journalistes</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="13" lem="écrivain" postag="NC" morpho="g=m|n=p" head="2" dep="mod">écrivains</word>
+          <word id="14" lem="indépendant" postag="ADJ" morpho="g=m|n=p" head="13" dep="mod">indépendants</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="16" lem="rédacteur" postag="NC" morpho="g=m|n=p" head="2" dep="mod">rédacteurs</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="18" lem="auteur" postag="NC" morpho="g=m|n=p" head="2" dep="mod">auteurs</word>
+          <word id="19" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="20" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="21" lem="chercheur" postag="NC" morpho="g=m|n=p" head="20" dep="dep_coord">chercheurs</word>
+          <word id="22" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="8">
+      <sentence id="1">
+        <word id="1" lem="musique" postag="NC" morpho="g=f|n=s" head="0" dep="root">Musique</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="8">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="source" postag="NC" morpho="g=f|n=s" head="7" dep="suj">Source</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Tags</word>
+          <word id="3" lem="&amp;" postag="CC" morpho="_" head="2" dep="coord">&amp;</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="dep_coord">amp</word>
+          <word id="5" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
+          <word id="6" lem="code" postag="NC" morpho="g=m|n=p" head="1" dep="mod">Codes</word>
+          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
+          <word id="9" lem="album" postag="NC" morpho="g=m|n=s" head="7" dep="ats">album</word>
+          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
+          <word id="11" lem="groupe" postag="NC" morpho="g=m|n=s" head="10" dep="prep">groupe</word>
+          <word id="12" lem="rock'n'roll" postag="ADJ" morpho="_" head="11" dep="mod">rock</word>
+          <word id="13" lem="..." postag="PONCT" morpho="_" head="7" dep="ponct">...</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="7" dep="mod">And</word>
+          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="mod">You</word>
+          <word id="16" lem="Will" postag="NPP" morpho="g=m|n=s" head="14" dep="mod">Will</word>
+          <word id="17" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Know</word>
+          <word id="18" lem="Us" postag="NPP" morpho="g=m|n=s" head="14" dep="mod">Us</word>
+          <word id="19" lem="_" postag="NPP" morpho="_" head="14" dep="mod">by</word>
+          <word id="20" lem="_" postag="NPP" morpho="_" head="14" dep="mod">the</word>
+          <word id="21" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Trail</word>
+          <word id="22" lem="_" postag="NPP" morpho="_" head="14" dep="mod">of</word>
+          <word id="23" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Dead</word>
+          <word id="24" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="source" postag="NC" morpho="g=f|n=p" head="2" dep="suj">Sources</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="album" postag="NC" morpho="g=m|n=s" head="2" dep="ats">album</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Bia</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Krieger</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="source" postag="NC" morpho="g=f|n=s" head="2" dep="suj">Source</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="label" postag="NC" morpho="g=m|n=s" head="2" dep="ats">label</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="6" lem="disque" postag="NC" morpho="g=m|n=p" head="5" dep="prep">disques</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="93" />
+      <text>Par métaphore, ce terme est aussi employé pour puits, trésor dans de nombreuses acceptions :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="94" end="116" id="0" />
+      <text id="0">une source d'énergie ;</text>
+      <span begin="117" end="136" id="1" />
+      <text id="1">une source d'ions ;</text>
+      <span begin="137" end="160" id="2" />
+      <text id="2">une source de carbone ;</text>
+      <span begin="161" end="182" id="3" />
+      <text id="3">une source du droit ;</text>
+      <span begin="183" end="187" id="4" />
+      <text id="4">etc.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="106" />
+      <text>Néanmoins, de son sens premier : '''origine''', '''principe''', il a conservé toutes les significations :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="107" end="407" id="0" />
+      <text id="0">Commencement, endroit (vieux), point (de départ), fondation (architecture), Abondance.
+Rechercher l'origine d'un mot en remontant jusqu'à la source (Étymologie).
+Art qui se rajeunit en se retrempant à ses sources.
+Retour aux sources.
+L'ambition, source de désordres.
+sources des colonnes d'un temple.</text>
+      <span begin="408" end="609" id="1" />
+      <text id="1">Cause, ferment, générateur, germe, principe.
+La révolte, source de vraie vie.
+Mère : Prendre source, avoir sa source dans…
+Sortir (de) : Gourmandise, immoralisme : Être une source d'ennuis, de plaisir.</text>
+      <span begin="610" end="684" id="2" />
+      <text id="2">Créer, produire : Le droit universel, source de toutes les lois positives.</text>
+      <span begin="685" end="746" id="3" />
+      <text id="3">Base, fondement : Aucune action humaine n'a de source unique.</text>
+      <span begin="747" end="798" id="4" />
+      <text id="4">Cause : Les Sources de la morale et de la religion.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="45" />
+      <text>Cause, ferment, générateur, germe, principe.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="46" end="78" id="0" />
+      <text id="0">La révolte, source de vraie vie.</text>
+      <span begin="79" end="123" id="1" />
+      <text id="1">Mère : Prendre source, avoir sa source dans…</text>
+      <span begin="124" end="202" id="2" />
+      <text id="2">Sortir (de) : Gourmandise, immoralisme : Être une source d'ennuis, de plaisir.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="98" />
+      <text>Information
+Une source désigne l'origine humaine ou technique d'une information. Elle peut être :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="99" end="136" id="0" />
+      <text id="0">primaire si elle présente des faits ;</text>
+      <span begin="137" end="187" id="1" />
+      <text id="1">secondaire si elle analyse des sources primaires ;</text>
+      <span begin="188" end="251" id="2" />
+      <text id="2">tertiaire si elle compile des sources primaires et secondaires.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="9" />
+      <text>Physique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="10" end="118" id="0" />
+      <text id="0">En optique, une source lumineuse est l'origine d'où émanent les rayons d'un corps radiant ou réfléchissant ;</text>
+      <span begin="119" end="238" id="1" />
+      <text id="1">en thermodynamique, une source chaude et une source froide sont nécessaires au fonctionnement d'une machine thermique ;</text>
+      <span begin="239" end="490" id="2" />
+      <text id="2">en électromagnétisme et dans ses applications (télécommunications, astrophysique…), une source électromagnétique est un objet à partir duquel est émise une onde électromagnétique : émetteur radio, émetteur de télévision, satellite, corps célesteetc. ;</text>
+      <span begin="491" end="588" id="3" />
+      <text id="3">en astrophysique, une source X ultralumineuse est un astre lumineux dans le domaine des rayons X.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer" idSE="5">
+      <span begin="1" end="14" />
+      <text>Mathématiques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items" idSE="5">
+      <span begin="15" end="128" id="0" />
+      <text id="0">En théorie des ensembles, la source d'une fonction est un ensemble auquel appartient la variable de la fonction ;</text>
+      <span begin="129" end="240" id="1" />
+      <text id="1">en théorie des graphes, une source est, dans la théorie des graphes, un sommet particulier d'un graphe orienté.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer" idSE="6">
+      <span begin="2" end="14" />
+      <text>Électronique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items" idSE="6">
+      <span begin="15" end="82" id="0" />
+      <text id="0">La source est une des électrodes d'un transistor à effet de champ ;</text>
+      <span begin="83" end="143" id="1" />
+      <text id="1">un source commune est un type d'amplificateur électronique ;</text>
+      <span begin="144" end="317" id="2" />
+      <text id="2">une source d'alimentation électrique est un dispositif pouvant fournir ou évacuer de l'énergie électrique, sous la forme d'une source de tension ou d'une source de courant ;</text>
+      <span begin="318" end="348" id="3" />
+      <text id="3">une source d'une chaîne Hi-Fi.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer" idSE="7">
+      <span begin="1" end="22" />
+      <text>Systèmes et logiciels</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items" idSE="7">
+      <span begin="23" end="89" id="0" />
+      <text id="0">Source Code Control System est un système de gestion de versions ;</text>
+      <span begin="90" end="134" id="1" />
+      <text id="1">Source est un moteur de jeu créé par Valve ;</text>
+      <span begin="135" end="175" id="2" />
+      <text id="2">Source Mage est une distribution Linux ;</text>
+      <span begin="176" end="325" id="3" />
+      <text id="3">SourceForge.net est le nom d'une plateforme d'hébergement, SourceForge logiciel qui la fait tourner et SourceForge, Inc. la société qui les propose ;</text>
+      <span begin="326" end="375" id="4" />
+      <text id="4">SourceForts est un mod du jeu vidéo Half-Life 2 ;</text>
+      <span begin="376" end="430" id="5" />
+      <text id="5">SourceMonitor est un logiciel de métrique logicielle ;</text>
+      <span begin="431" end="485" id="6" />
+      <text id="6">Sourcesup est une plateforme de gestion de logiciels ;</text>
+      <span begin="486" end="578" id="7" />
+      <text id="7">SourceWatch est un wiki qui vise à démasquer les campagnes de lobbyings et/ou de propagande.</text>
+      <span begin="579" end="711" id="8" />
+      <text id="8">Sources est un portail Web d'information canadien pour des journalistes, écrivains indépendants, rédacteurs, auteurs, et chercheurs.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="primer" idSE="8">
+      <span begin="1" end="8" />
+      <text>Musique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="items" idSE="8">
+      <span begin="9" end="106" id="0" />
+      <text id="0">Source Tags &amp;amp; Codes est un album du groupe rock ...And You Will Know Us by the Trail of Dead.</text>
+      <span begin="107" end="143" id="1" />
+      <text id="1">Sources est un album de Bia Krieger.</text>
+      <span begin="144" end="174" id="2" />
+      <text id="2">Source est un label de disques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="16" end="24" id="0" />
+      <text id="0">ce terme</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="94" end="115" id="0" />
+      <text id="0">une source d'énergie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="117" end="134" id="0" />
+      <text id="0">une source d'ions</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="137" end="158" id="0" />
+      <text id="0">une source de carbone</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="161" end="181" id="0" />
+      <text id="0">une source du droit</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
+      <span begin="25" end="28" id="0" />
+      <text id="0">est</text>
+      <span begin="35" end="47" id="1" />
+      <text id="1">employé pour</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="44" id="0" />
+      <text id="0">Cause, ferment, générateur, germe, principe</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="46" end="56" id="0" />
+      <text id="0">La révolte</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="79" end="83" id="0" />
+      <text id="0">Mère</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="124" end="135" id="0" />
+      <text id="0">Sortir (de)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="82" end="86" id="0" />
+      <text id="0">Elle</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="99" end="107" id="0" />
+      <text id="0">primaire</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="137" end="147" id="0" />
+      <text id="0">secondaire</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="188" end="197" id="0" />
+      <text id="0">tertiaire</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="3" localisation="primer" idItem="-1">
+      <span begin="82" end="86" id="0" />
+      <text id="0">Elle</text>
+      <span begin="92" end="96" id="1" />
+      <text id="1">être</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="22" end="42" id="0" />
+      <text id="0">une source lumineuse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="139" end="156" id="0" />
+      <text id="0">une source chaude</text>
+      <span begin="160" end="177" id="1" />
+      <text id="1">une source froide</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+      <span begin="323" end="351" id="0" />
+      <text id="0">une source électromagnétique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="3">
+      <span begin="508" end="537" id="0" />
+      <text id="0">une source X ultralumineuse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
+      <span begin="1" end="9" id="0" />
+      <text id="0">Physique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="0">
+      <span begin="10" end="20" id="0" />
+      <text id="0">En optique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="1">
+      <span begin="119" end="137" id="0" />
+      <text id="0">en thermodynamique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="2">
+      <span begin="239" end="259" id="0" />
+      <text id="0">en électromagnétisme</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="3">
+      <span begin="491" end="508" id="0" />
+      <text id="0">en astrophysique,</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+      <span begin="41" end="65" id="0" />
+      <text id="0">la source d'une fonction</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+      <span begin="153" end="164" id="0" />
+      <text id="0">une source</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="5" localisation="primer" idItem="-1">
+      <span begin="1" end="14" id="0" />
+      <text id="0">Mathématiques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="5" localisation="item" idItem="0">
+      <span begin="15" end="39" id="0" />
+      <text id="0">En théorie des ensembles</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="5" localisation="item" idItem="1">
+      <span begin="129" end="151" id="0" />
+      <text id="0">en théorie des graphes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+      <span begin="15" end="24" id="0" />
+      <text id="0">La source</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+      <span begin="83" end="100" id="0" />
+      <text id="0">un source commune</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="2">
+      <span begin="144" end="181" id="0" />
+      <text id="0">une source d'alimentation électrique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="3">
+      <span begin="318" end="347" id="0" />
+      <text id="0">une source d'une chaîne Hi-Fi</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="6" localisation="primer" idItem="-1">
+      <span begin="2" end="14" id="0" />
+      <text id="0">Électronique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="0">
+      <span begin="23" end="49" id="0" />
+      <text id="0">Source Code Control System</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="1">
+      <span begin="90" end="97" id="0" />
+      <text id="0">Source</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="2">
+      <span begin="135" end="146" id="0" />
+      <text id="0">Source Mage</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="3">
+      <span begin="176" end="191" id="0" />
+      <text id="0">SourceForge.net</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="4">
+      <span begin="326" end="338" id="0" />
+      <text id="0">SourceForts</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="5">
+      <span begin="376" end="388" id="0" />
+      <text id="0">SourceMonito</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="6">
+      <span begin="431" end="441" id="0" />
+      <text id="0">Sourcesup</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="7">
+      <span begin="486" end="497" id="0" />
+      <text id="0">SourceWatch</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="8">
+      <span begin="579" end="587" id="0" />
+      <text id="0">Sources</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="7" localisation="primer" idItem="-1">
+      <span begin="1" end="22" id="0" />
+      <text id="0">Systèmes et logiciels</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="0">
+      <span begin="9" end="32" id="0" />
+      <text id="0">Source Tags &amp;amp; Codes</text>
+      <span begin="37" end="60" id="1" />
+      <text id="1">un album du groupe rock</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="1">
+      <span begin="107" end="114" id="0" />
+      <text id="0">Sources</text>
+      <span begin="119" end="142" id="1" />
+      <text id="1">un album de Bia Krieger</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="2">
+      <span begin="144" end="150" id="0" />
+      <text id="0">Source</text>
+      <span begin="155" end="174" id="1" />
+      <text id="1">un label de disques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="8" localisation="primer" idItem="-1">
+      <span begin="1" end="8" id="0" />
+      <text id="0">Musique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:01</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="1" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="1" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="1" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:26</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:27</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="1" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="5">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="5">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="5">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="5">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="6">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="6">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="6">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="6">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="7">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="7">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="7">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:20</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="7">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="8">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="8">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="8">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:21</date>
+      <document>Source.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="8">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+</root>

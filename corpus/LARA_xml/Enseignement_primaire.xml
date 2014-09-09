@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Au niveau administratif, l’enseignement primaire québécois est rattaché à l’éducation pré-scolaire qui n'est pas obligatoire (on parle d’éducation préscolaire et enseignement primaire])</text>
+      <span begin="783" end="968" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="à" postag="P+D" morpho="g=m|n=s" head="10" dep="mod">Au</word>
+        <word id="2" lem="niveau" postag="NC" morpho="g=m|n=s" head="1" dep="prep">niveau</word>
+        <word id="3" lem="administratif" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">administratif</word>
+        <word id="4" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+        <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
+        <word id="6" lem="enseignement" postag="NC" morpho="g=m|n=s" head="10" dep="suj">enseignement</word>
+        <word id="7" lem="primaire" postag="ADJ" morpho="n=s" head="6" dep="mod">primaire</word>
+        <word id="8" lem="québécois" postag="NC" morpho="g=m" head="6" dep="mod">québécois</word>
+        <word id="9" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="aux_tps">est</word>
+        <word id="10" lem="rattacher" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">rattaché</word>
+        <word id="11" lem="à" postag="P" morpho="_" head="10" dep="a_obj">à</word>
+        <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
+        <word id="13" lem="éducation" postag="NC" morpho="g=f|n=s" head="11" dep="prep">éducation</word>
+        <word id="14" lem="_" postag="ADJ" morpho="_" head="13" dep="mod">pré-scolaire</word>
+        <word id="15" lem="qui" postag="PROREL" morpho="n=s" head="17" dep="suj">qui</word>
+        <word id="16" lem="ne" postag="ADV" morpho="_" head="17" dep="mod">n'</word>
+        <word id="17" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="13" dep="mod_rel">est</word>
+        <word id="18" lem="pas" postag="ADV" morpho="_" head="17" dep="mod">pas</word>
+        <word id="19" lem="obligatoire" postag="ADJ" morpho="n=s" head="17" dep="ats">obligatoire</word>
+        <word id="20" lem="(" postag="PONCT" morpho="_" head="17" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">on</word>
+          <word id="2" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="de_obj">d'</word>
+          <word id="4" lem="éducation" postag="NC" morpho="g=f|n=s" head="3" dep="prep">éducation</word>
+          <word id="5" lem="préscolaire" postag="ADJ" morpho="n=s" head="4" dep="mod">préscolaire</word>
+          <word id="6" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="enseignement" postag="NC" morpho="g=m|n=s" head="0" dep="_">enseignement</word>
+          <word id="2" lem="primaire" postag="ADJ" morpho="n=s" head="1" dep="mod">primaire</word>
+          <word id="3" lem="]" postag="PONCT" morpho="_" head="1" dep="ponct">]</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="127" />
+      <text>Au niveau administratif, l’enseignement primaire québécois est rattaché à l’éducation pré-scolaire qui n'est pas obligatoire (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="127" end="162" id="0" />
+      <text id="0">on parle d’éducation préscolaire et</text>
+      <span begin="163" end="186" id="1" />
+      <text id="1">enseignement primaire])</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="77" end="99" id="0" />
+      <text id="0">éducation pré-scolaire</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="138" end="159" id="0" />
+      <text id="0">éducation préscolaire</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="163" end="184" id="0" />
+      <text id="0">enseignement primaire</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="0" localisation="item" idItem="0">
+      <span begin="127" end="135" id="0" />
+      <text id="0">on parle</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:47</date>
+      <document>Enseignement_primaire.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

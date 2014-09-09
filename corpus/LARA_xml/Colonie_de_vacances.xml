@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Les colonies de vacances au cinéma
+Section vide à compléter
+Les Aiguilles rouges 
+L'Argent de poche 
+La Classe de neige 
+La Meilleure Façon de marcher 
+Le Petit Bougnat 
+Préparez vos mouchoirs 
+Scout toujours... 
+Le Souffle au cœur 
+Les Joyeuses Colonies de vacances 
+Nos jours heureux 
+Vive la colo!</text>
+      <span begin="1065" end="1366" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="colonie" postag="NC" morpho="g=f|n=p" head="0" dep="_">colonies</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="4" lem="vacance" postag="NC" morpho="g=f|n=p" head="3" dep="prep">vacances</word>
+        <word id="5" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
+        <word id="6" lem="cinéma" postag="NC" morpho="g=m|n=s" head="5" dep="prep">cinéma</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="Aiguilles" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Aiguilles</word>
+          <word id="3" lem="rouge" postag="ADJ" morpho="n=p" head="2" dep="mod">rouges</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Argent</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="poche" postag="NC" morpho="n=s" head="3" dep="prep">poche</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Classe</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="neige" postag="NC" morpho="g=f|n=s" head="3" dep="prep">neige</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Meilleure</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Façon</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="5" lem="_" postag="I" morpho="_" head="0" dep="_">marcher</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Petit</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Bougnat</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="préparer" postag="V" morpho="n=p|p=2|t=pst" head="0" dep="root">Préparez</word>
+          <word id="2" lem="vos" postag="DET" morpho="n=p|p=2|poss=p" head="3" dep="det">vos</word>
+          <word id="3" lem="mouchoir" postag="NC" morpho="g=m|n=p" head="1" dep="obj">mouchoirs</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="scout" postag="NC" morpho="g=m|n=s" head="0" dep="root">Scout</word>
+          <word id="2" lem="toujours" postag="ADV" morpho="_" head="1" dep="mod">toujours</word>
+          <word id="3" lem="..." postag="PONCT" morpho="_" head="1" dep="ponct">...</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Souffle</word>
+          <word id="3" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
+          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">cœur</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Joyeuses</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Colonies</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="5" lem="vacance" postag="NC" morpho="g=f|n=p" head="4" dep="prep">vacances</word>
+        </sentence>
+      </item>
+      <item id="9">
+        <sentence id="1">
+          <word id="1" lem="nos" postag="DET" morpho="n=p|p=1|poss=p" head="2" dep="det">Nos</word>
+          <word id="2" lem="jour" postag="NC" morpho="g=m|n=p" head="0" dep="_">jours</word>
+          <word id="3" lem="heureux" postag="ADJ" morpho="g=m" head="2" dep="mod">heureux</word>
+        </sentence>
+      </item>
+      <item id="10">
+        <sentence id="1">
+          <word id="1" lem="vif" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">Vive</word>
+          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
+          <word id="3" lem="colonie" postag="NC" morpho="n=s" head="0" dep="root">colo</word>
+          <word id="4" lem="!" postag="PONCT" morpho="_" head="3" dep="ponct">!</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="35" />
+      <text>Les colonies de vacances au cinéma</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="61" end="82" id="0" />
+      <text id="0">Les Aiguilles rouges</text>
+      <span begin="83" end="101" id="1" />
+      <text id="1">L'Argent de poche</text>
+      <span begin="102" end="121" id="2" />
+      <text id="2">La Classe de neige</text>
+      <span begin="122" end="152" id="3" />
+      <text id="3">La Meilleure Façon de marcher</text>
+      <span begin="153" end="170" id="4" />
+      <text id="4">Le Petit Bougnat</text>
+      <span begin="171" end="194" id="5" />
+      <text id="5">Préparez vos mouchoirs</text>
+      <span begin="195" end="213" id="6" />
+      <text id="6">Scout toujours...</text>
+      <span begin="214" end="233" id="7" />
+      <text id="7">Le Souffle au cœur</text>
+      <span begin="234" end="268" id="8" />
+      <text id="8">Les Joyeuses Colonies de vacances</text>
+      <span begin="269" end="287" id="9" />
+      <text id="9">Nos jours heureux</text>
+      <span begin="288" end="302" id="10" />
+      <text id="10">Vive la colo!</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="61" end="82" id="0" />
+      <text id="0">Les Aiguilles rouges</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="83" end="101" id="0" />
+      <text id="0">L'Argent de poche</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="102" end="121" id="0" />
+      <text id="0">La Classe de neige</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="122" end="152" id="0" />
+      <text id="0">La Meilleure Façon de marcher</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="153" end="169" id="0" />
+      <text id="0">Le Petit Bougnat</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="5">
+      <span begin="171" end="193" id="0" />
+      <text id="0">Préparez vos mouchoirs</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="6">
+      <span begin="195" end="213" id="0" />
+      <text id="0">Scout toujours...</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="7">
+      <span begin="214" end="233" id="0" />
+      <text id="0">Le Souffle au cœur</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="8">
+      <span begin="234" end="267" id="0" />
+      <text id="0">Les Joyeuses Colonies de vacances</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="9">
+      <span begin="269" end="287" id="0" />
+      <text id="0">Nos jours heureux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="10">
+      <span begin="288" end="301" id="0" />
+      <text id="0">Vive la colo!</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
+      <span begin="26" end="35" id="0" />
+      <text id="0">au cinéma</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Colonie_de_vacances.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

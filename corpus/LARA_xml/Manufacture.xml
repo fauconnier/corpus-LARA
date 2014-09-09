@@ -1,0 +1,1610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Les communautés de métier étaient conservées pour les productions traditionnelles, et leurs dispositions sociales (statut des apprentis, horaires, rémunérations,..)</text>
+      <span begin="681" end="846" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Manufactures et magasins créés ou relancés en France entre 1661 et 1764
+en 1664, la Manufacture de bas de soie au métier, Château de Madrid.
+en 1664, la Manufacture de la savonnerie, pour la tapisserie, créée par Barthelemy de Laffemas
+en 1664, la Manufacture des Gobelins, pour la tapisserie, créée par Barthelemy de Laffemas.
+en 1664, la Manufacture de Beauvais (tapisseries).
+en 1665, la Manufacture de Tapisserie d'Aubusson.
+en 1665, la Manufacture des Glaces, une verrerie à Saint-Gobain.
+en 1665, un Magasin royal des armes, alimenté par Saint-Étienne, à Paris.
+en 1666, la Compagnie royale des mines et fonderies du Languedoc
+en 1667, la Manufacture des dentelles d'Auxerre.
+en 1666, la Manufacture des points de France.
+en 1665, la Manufacture royale des Rames, des ateliers de draperie à Abbeville.
+en 1667, la Manufacture des draps de Villeneuvette
+en 1667, la Manufacture de draps des Saptes.
+en 1670, la Manufacture des rubans de Chevreuse.
+en 1674, la Manufacture des tabacs.
+en 1740, la Manufacture de Vincennes, pour la porcelaine, qui déménagera à Sèvres en 1756.
+en 1756, la Manufacture de Sèvres, pour la porcelaine.
+en 1764, la Manufacture d'armes de Saint-Étienne.
+Très nombreuses lettres de privilèges pour des verreries, mines, forges, tuileries, corderies, manufacture de poudres, etc.</text>
+      <span begin="2223" end="3531" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:37</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>la manufacture de briare: fabrique de boutons et de perles (1837) puis fabrique de mosaïques connues sous la dénomination émaux de Briare.</text>
+      <span begin="4419" end="4557" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>Il reste encore à distinguer les manufactures horlogères verticales de celles intégrées horizontalement, manufacturant la majorité, sinon toutes les parties de leurs montres p. ex. (Rolex, Jaeger Le Coultre, et les marques du Swatch Group</text>
+      <span begin="5641" end="5879" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="communauté" postag="NC" morpho="g=f|n=p" head="6" dep="suj">communautés</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="4" lem="métier" postag="NC" morpho="g=m|n=s" head="3" dep="prep">métier</word>
+        <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=imp" head="6" dep="aux_pass">étaient</word>
+        <word id="6" lem="conserver" postag="VPP" morpho="g=f|n=p|t=past" head="0" dep="root">conservées</word>
+        <word id="7" lem="pour" postag="P" morpho="_" head="6" dep="mod">pour</word>
+        <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
+        <word id="9" lem="production" postag="NC" morpho="g=f|n=p" head="7" dep="prep">productions</word>
+        <word id="10" lem="traditionnel" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">traditionnelles</word>
+        <word id="11" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+        <word id="12" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
+        <word id="13" lem="leurs" postag="DET" morpho="n=p|p=3|poss=p" head="14" dep="det">leurs</word>
+        <word id="14" lem="disposition" postag="NC" morpho="g=f|n=p" head="0" dep="_">dispositions</word>
+        <word id="15" lem="social" postag="ADJ" morpho="g=f|n=p" head="14" dep="mod">sociales</word>
+        <word id="16" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="statut" postag="NC" morpho="g=m|n=s" head="0" dep="root">statut</word>
+          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+          <word id="4" lem="apprenti" postag="NC" morpho="g=m|n=p" head="3" dep="prep">apprentis</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="horaire" postag="NC" morpho="g=m|n=p" head="0" dep="_">horaires</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="rémunération" postag="NC" morpho="g=f|n=p" head="0" dep="_">rémunérations</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="2" lem="_" postag="PONCT" morpho="_" head="0" dep="_">..</word>
+          <word id="3" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="manufacture" postag="NC" morpho="g=f|n=p" head="0" dep="_">Manufactures</word>
+        <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+        <word id="3" lem="magasin" postag="NC" morpho="g=m|n=p" head="2" dep="dep_coord">magasins</word>
+        <word id="4" lem="créer" postag="VPP" morpho="g=m|n=p|t=past" head="3" dep="mod">créés</word>
+        <word id="5" lem="ou" postag="CC" morpho="_" head="4" dep="coord">ou</word>
+        <word id="6" lem="relancer" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="dep_coord">relancés</word>
+        <word id="7" lem="en" postag="P" morpho="_" head="6" dep="mod">en</word>
+        <word id="8" lem="France" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">France</word>
+        <word id="9" lem="entre" postag="P" morpho="_" head="4" dep="mod">entre</word>
+        <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">1661</word>
+        <word id="11" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
+        <word id="12" lem="_" postag="NC" morpho="_" head="11" dep="dep_coord">1764</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1664</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="bas" postag="NC" morpho="g=m" head="6" dep="prep">bas</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="soie" postag="NC" morpho="g=f|n=s" head="8" dep="prep">soie</word>
+          <word id="10" lem="à" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">au</word>
+          <word id="11" lem="métier" postag="NC" morpho="g=m|n=s" head="10" dep="prep">métier</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="13" lem="Château" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">Château</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="15" lem="Madrid" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">Madrid</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="14" dep="mod">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1664</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="14" dep="suj">Manufacture</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="savonnerie" postag="NC" morpho="g=f|n=s" head="6" dep="prep">savonnerie</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="10" lem="pour" postag="P" morpho="_" head="14" dep="mod">pour</word>
+          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
+          <word id="12" lem="tapisserie" postag="NC" morpho="g=f|n=s" head="10" dep="prep">tapisserie</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="14" lem="créer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">créée</word>
+          <word id="15" lem="par" postag="P" morpho="_" head="14" dep="p_obj">par</word>
+          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Barthelemy</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="14" dep="de_obj">de</word>
+          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="prep">Laffemas</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="13" dep="mod">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1664</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="13" dep="suj">Manufacture</word>
+          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Gobelins</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+          <word id="9" lem="pour" postag="P" morpho="_" head="13" dep="mod">pour</word>
+          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+          <word id="11" lem="tapisserie" postag="NC" morpho="g=f|n=s" head="9" dep="prep">tapisserie</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+          <word id="13" lem="créer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">créée</word>
+          <word id="14" lem="par" postag="P" morpho="_" head="13" dep="p_obj">par</word>
+          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="prep">Barthelemy</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="13" dep="de_obj">de</word>
+          <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="prep">Laffemas</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="13" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1664</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="Beauvais" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Beauvais</word>
+          <word id="8" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
+          <word id="9" lem="tapisserie" postag="NC" morpho="g=f|n=p" head="5" dep="mod">tapisseries</word>
+          <word id="10" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1665</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Tapisserie</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="9" lem="Aubusson" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Aubusson</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1665</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="7" lem="_" postag="NC" morpho="_" head="6" dep="prep">Glaces</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
+          <word id="10" lem="verrerie" postag="NC" morpho="g=f|n=s" head="0" dep="_">verrerie</word>
+          <word id="11" lem="à" postag="P" morpho="_" head="10" dep="dep">à</word>
+          <word id="12" lem="Saint-Gobain" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Saint-Gobain</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1665</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Magasin</word>
+          <word id="6" lem="royal" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">royal</word>
+          <word id="7" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="8" lem="arme" postag="NC" morpho="g=f|n=p" head="7" dep="prep">armes</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="10" lem="alimenter" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">alimenté</word>
+          <word id="11" lem="par" postag="P" morpho="_" head="10" dep="p_obj">par</word>
+          <word id="12" lem="Saint-Étienne" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Saint-Étienne</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="14" lem="à" postag="P" morpho="_" head="10" dep="a_obj">à</word>
+          <word id="15" lem="Paris" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">Paris</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1666</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Compagnie</word>
+          <word id="6" lem="royal" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">royale</word>
+          <word id="7" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="8" lem="mine" postag="NC" morpho="g=f|n=p" head="7" dep="prep">mines</word>
+          <word id="9" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
+          <word id="10" lem="fonderie" postag="NC" morpho="g=f|n=p" head="9" dep="dep_coord">fonderies</word>
+          <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
+          <word id="12" lem="Languedoc" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Languedoc</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1667</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="7" lem="dentelle" postag="NC" morpho="g=f|n=p" head="6" dep="prep">dentelles</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="9" lem="Auxerre" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Auxerre</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="9">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1666</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="7" lem="point" postag="NC" morpho="g=m|n=p" head="6" dep="prep">points</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="France" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">France</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="10">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1665</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="royal" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">royale</word>
+          <word id="7" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Rames</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
+          <word id="11" lem="atelier" postag="NC" morpho="g=m|n=p" head="0" dep="_">ateliers</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
+          <word id="13" lem="draperie" postag="NC" morpho="g=f|n=s" head="12" dep="prep">draperie</word>
+          <word id="14" lem="à" postag="P" morpho="_" head="11" dep="dep">à</word>
+          <word id="15" lem="Abbeville" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">Abbeville</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="11">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1667</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="7" lem="drap" postag="NC" morpho="g=m|n=p" head="6" dep="prep">draps</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="Villeneuvette" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Villeneuvette</word>
+        </sentence>
+      </item>
+      <item id="12">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1667</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="drap" postag="NC" morpho="g=m|n=p" head="6" dep="prep">draps</word>
+          <word id="8" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Saptes</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="13">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1670</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="7" lem="ruban" postag="NC" morpho="g=m|n=p" head="6" dep="prep">rubans</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="Chevreuse" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Chevreuse</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="14">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1674</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
+          <word id="7" lem="tabac" postag="NC" morpho="g=m|n=p" head="6" dep="prep">tabacs</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="15">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="14" dep="mod">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1740</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="14" dep="suj">Manufacture</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="Vincennes" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Vincennes</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="9" lem="pour" postag="P" morpho="_" head="14" dep="mod">pour</word>
+          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+          <word id="11" lem="porcelaine" postag="NC" morpho="g=f|n=s" head="9" dep="prep">porcelaine</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
+          <word id="13" lem="qui" postag="PROREL" morpho="n=s" head="14" dep="suj">qui</word>
+          <word id="14" lem="déménager" postag="V" morpho="n=s|p=3|t=fut" head="0" dep="root">déménagera</word>
+          <word id="15" lem="à" postag="P" morpho="_" head="14" dep="mod">à</word>
+          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Sèvres</word>
+          <word id="17" lem="en" postag="P" morpho="_" head="14" dep="mod">en</word>
+          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1756</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="14" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="16">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1756</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Sèvres</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="9" lem="pour" postag="P" morpho="_" head="0" dep="_">pour</word>
+          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+          <word id="11" lem="porcelaine" postag="NC" morpho="g=f|n=s" head="9" dep="prep">porcelaine</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+      <item id="17">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1764</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
+          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">Manufacture</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
+          <word id="7" lem="arme" postag="NC" morpho="g=f|n=p" head="6" dep="prep">armes</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="9" lem="Saint-Étienne" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Saint-Étienne</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="18">
+        <sentence id="1">
+          <word id="1" lem="très" postag="ADV" morpho="_" head="2" dep="mod">Très</word>
+          <word id="2" lem="nombreux" postag="ADJ" morpho="g=f|n=p" head="3" dep="mod">nombreuses</word>
+          <word id="3" lem="lettre" postag="NC" morpho="g=f|n=p" head="0" dep="root">lettres</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+          <word id="5" lem="privilège" postag="NC" morpho="g=m|n=p" head="4" dep="prep">privilèges</word>
+          <word id="6" lem="pour" postag="P" morpho="_" head="3" dep="dep">pour</word>
+          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
+          <word id="8" lem="verrerie" postag="NC" morpho="g=f|n=p" head="6" dep="prep">verreries</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="10" lem="mine" postag="NC" morpho="g=f|n=p" head="3" dep="mod">mines</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="12" lem="forge" postag="NC" morpho="g=f|n=p" head="3" dep="mod">forges</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="14" lem="tuilerie" postag="NC" morpho="g=f|n=p" head="3" dep="mod">tuileries</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="16" lem="corderie" postag="NC" morpho="g=f|n=p" head="3" dep="mod">corderies</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="18" lem="manufacture" postag="NC" morpho="g=f|n=s" head="3" dep="mod">manufacture</word>
+          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
+          <word id="20" lem="poudre" postag="NC" morpho="g=f|n=p" head="19" dep="prep">poudres</word>
+          <word id="21" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="22" lem="_" postag="ADV" morpho="_" head="3" dep="mod">etc</word>
+          <word id="23" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:37</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+        <word id="2" lem="manufacture" postag="NC" morpho="g=f|n=s" head="0" dep="_">manufacture</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">briare</word>
+        <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:37</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="fabrique" postag="NC" morpho="g=f|n=s" head="0" dep="_">fabrique</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="bouton" postag="NC" morpho="g=m|n=p" head="2" dep="prep">boutons</word>
+          <word id="4" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep_coord">de</word>
+          <word id="6" lem="perle" postag="NC" morpho="g=f|n=p" head="5" dep="prep">perles</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="8" lem="_" postag="NC" morpho="_" head="6" dep="mod">1837</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+          <word id="10" lem="puis" postag="CC" morpho="_" head="1" dep="coord">puis</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="fabrique" postag="NC" morpho="g=f|n=s" head="0" dep="_">fabrique</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="mosaïque" postag="NC" morpho="g=f|n=p" head="2" dep="prep">mosaïques</word>
+          <word id="4" lem="connaître" postag="VPP" morpho="g=f|n=p|t=past" head="3" dep="mod">connues</word>
+          <word id="5" lem="sous" postag="P" morpho="_" head="4" dep="mod">sous</word>
+          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
+          <word id="7" lem="dénomination" postag="NC" morpho="g=f|n=s" head="5" dep="prep">dénomination</word>
+          <word id="8" lem="_" postag="ADJ" morpho="_" head="7" dep="mod">émaux</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="10" lem="Briare" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Briare</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="2" dep="suj">Il</word>
+        <word id="2" lem="rester" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">reste</word>
+        <word id="3" lem="encore" postag="ADV" morpho="_" head="2" dep="mod">encore</word>
+        <word id="4" lem="à" postag="P" morpho="_" head="2" dep="ats">à</word>
+        <word id="5" lem="distinguer" postag="VINF" morpho="_" head="4" dep="prep">distinguer</word>
+        <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
+        <word id="7" lem="manufacture" postag="NC" morpho="g=f|n=p" head="5" dep="obj">manufactures</word>
+        <word id="8" lem="horloger" postag="ADJ" morpho="g=f|n=p" head="7" dep="mod">horlogères</word>
+        <word id="9" lem="vertical" postag="ADJ" morpho="g=f|n=p" head="7" dep="mod">verticales</word>
+        <word id="10" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+        <word id="11" lem="celles" postag="PRO" morpho="g=f|n=p" head="10" dep="prep">celles</word>
+        <word id="12" lem="intégrer" postag="VPP" morpho="g=f|n=p|t=past" head="7" dep="mod">intégrées</word>
+        <word id="13" lem="horizontalement" postag="ADV" morpho="_" head="12" dep="mod">horizontalement</word>
+        <word id="14" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+        <word id="15" lem="manufacturer" postag="VPR" morpho="t=pst" head="7" dep="mod">manufacturant</word>
+        <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
+        <word id="17" lem="majorité" postag="NC" morpho="g=f|n=s" head="15" dep="obj">majorité</word>
+        <word id="18" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
+        <word id="19" lem="sinon" postag="ADV" morpho="_" head="22" dep="mod">sinon</word>
+        <word id="20" lem="tout" postag="ADJ" morpho="g=f|n=p" head="22" dep="mod">toutes</word>
+        <word id="21" lem="les" postag="DET" morpho="n=p" head="22" dep="det">les</word>
+        <word id="22" lem="partie" postag="NC" morpho="g=f|n=p" head="15" dep="obj">parties</word>
+        <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep">de</word>
+        <word id="24" lem="leurs" postag="DET" morpho="n=p|p=3|poss=p" head="25" dep="det">leurs</word>
+        <word id="25" lem="montre" postag="NC" morpho="g=f|n=p" head="23" dep="prep">montres</word>
+        <word id="26" lem="_" postag="NPP" morpho="_" head="25" dep="mod">p</word>
+        <word id="27" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="ex" postag="NC" morpho="_" head="0" dep="root">ex</word>
+        <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+      </sentence>
+      <sentence id="3">
+        <word id="1" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Rolex</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Jaeger</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Le</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Coultre</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="5" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="marque" postag="NC" morpho="g=f|n=p" head="0" dep="_">marques</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Swatch</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Group</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="116" />
+      <text>Les communautés de métier étaient conservées pour les productions traditionnelles, et leurs dispositions sociales (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="115" end="137" id="0" />
+      <text id="0">(statut des apprentis,</text>
+      <span begin="138" end="147" id="1" />
+      <text id="1">horaires,</text>
+      <span begin="148" end="162" id="2" />
+      <text id="2">rémunérations,</text>
+      <span begin="161" end="165" id="3" />
+      <text id="3">,..)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="72" />
+      <text>Manufactures et magasins créés ou relancés en France entre 1661 et 1764</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="73" end="141" id="0" />
+      <text id="0">en 1664, la Manufacture de bas de soie au métier, Château de Madrid.</text>
+      <span begin="142" end="236" id="1" />
+      <text id="1">en 1664, la Manufacture de la savonnerie, pour la tapisserie, créée par Barthelemy de Laffemas</text>
+      <span begin="237" end="328" id="2" />
+      <text id="2">en 1664, la Manufacture des Gobelins, pour la tapisserie, créée par Barthelemy de Laffemas.</text>
+      <span begin="329" end="379" id="3" />
+      <text id="3">en 1664, la Manufacture de Beauvais (tapisseries).</text>
+      <span begin="380" end="429" id="4" />
+      <text id="4">en 1665, la Manufacture de Tapisserie d'Aubusson.</text>
+      <span begin="430" end="494" id="5" />
+      <text id="5">en 1665, la Manufacture des Glaces, une verrerie à Saint-Gobain.</text>
+      <span begin="495" end="568" id="6" />
+      <text id="6">en 1665, un Magasin royal des armes, alimenté par Saint-Étienne, à Paris.</text>
+      <span begin="569" end="633" id="7" />
+      <text id="7">en 1666, la Compagnie royale des mines et fonderies du Languedoc</text>
+      <span begin="634" end="682" id="8" />
+      <text id="8">en 1667, la Manufacture des dentelles d'Auxerre.</text>
+      <span begin="683" end="728" id="9" />
+      <text id="9">en 1666, la Manufacture des points de France.</text>
+      <span begin="729" end="808" id="10" />
+      <text id="10">en 1665, la Manufacture royale des Rames, des ateliers de draperie à Abbeville.</text>
+      <span begin="809" end="859" id="11" />
+      <text id="11">en 1667, la Manufacture des draps de Villeneuvette</text>
+      <span begin="860" end="904" id="12" />
+      <text id="12">en 1667, la Manufacture de draps des Saptes.</text>
+      <span begin="905" end="953" id="13" />
+      <text id="13">en 1670, la Manufacture des rubans de Chevreuse.</text>
+      <span begin="954" end="989" id="14" />
+      <text id="14">en 1674, la Manufacture des tabacs.</text>
+      <span begin="990" end="1080" id="15" />
+      <text id="15">en 1740, la Manufacture de Vincennes, pour la porcelaine, qui déménagera à Sèvres en 1756.</text>
+      <span begin="1081" end="1135" id="16" />
+      <text id="16">en 1756, la Manufacture de Sèvres, pour la porcelaine.</text>
+      <span begin="1136" end="1185" id="17" />
+      <text id="17">en 1764, la Manufacture d'armes de Saint-Étienne.</text>
+      <span begin="1185" end="1309" id="18" />
+      <text id="18">Très nombreuses lettres de privilèges pour des verreries, mines, forges, tuileries, corderies, manufacture de poudres, etc.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:37</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="26" />
+      <text>la manufacture de briare:</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:37</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="27" end="72" id="0" />
+      <text id="0">fabrique de boutons et de perles (1837) puis</text>
+      <span begin="72" end="139" id="1" />
+      <text id="1">fabrique de mosaïques connues sous la dénomination émaux de Briare.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="183" />
+      <text>Il reste encore à distinguer les manufactures horlogères verticales de celles intégrées horizontalement, manufacturant la majorité, sinon toutes les parties de leurs montres p. ex. (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="182" end="189" id="0" />
+      <text id="0">(Rolex,</text>
+      <span begin="190" end="212" id="1" />
+      <text id="1">Jaeger Le Coultre, et</text>
+      <span begin="211" end="239" id="2" />
+      <text id="2">les marques du Swatch Group</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="87" end="114" id="0" />
+      <text id="0">leurs dispositions sociales</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="116" end="136" id="0" />
+      <text id="0">statut des apprentis</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="138" end="146" id="0" />
+      <text id="0">horaires</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="148" end="161" id="0" />
+      <text id="0">rémunérations</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="25" id="0" />
+      <text id="0">Manufactures et magasins</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="82" end="112" id="0" />
+      <text id="0">la Manufacture de bas de soie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="151" end="182" id="0" />
+      <text id="0">la Manufacture de la savonnerie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="246" end="273" id="0" />
+      <text id="0">la Manufacture des Gobelins</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="338" end="364" id="0" />
+      <text id="0">la Manufacture de Beauvais</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
+      <span begin="389" end="428" id="0" />
+      <text id="0">la Manufacture de Tapisserie d'Aubusson</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="5">
+      <span begin="439" end="464" id="0" />
+      <text id="0">la Manufacture des Glaces</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="6">
+      <span begin="504" end="530" id="0" />
+      <text id="0">un Magasin royal des armes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="7">
+      <span begin="578" end="633" id="0" />
+      <text id="0">la Compagnie royale des mines et fonderies du Languedoc</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="8">
+      <span begin="643" end="681" id="0" />
+      <text id="0">la Manufacture des dentelles d'Auxerre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="9">
+      <span begin="692" end="727" id="0" />
+      <text id="0">la Manufacture des points de France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="10">
+      <span begin="738" end="769" id="0" />
+      <text id="0">la Manufacture royale des Rames</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="11">
+      <span begin="818" end="859" id="0" />
+      <text id="0">la Manufacture des draps de Villeneuvette</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="12">
+      <span begin="869" end="903" id="0" />
+      <text id="0">la Manufacture de draps des Saptes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="13">
+      <span begin="914" end="952" id="0" />
+      <text id="0">la Manufacture des rubans de Chevreuse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="14">
+      <span begin="963" end="988" id="0" />
+      <text id="0">la Manufacture des tabacs</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="15">
+      <span begin="999" end="1026" id="0" />
+      <text id="0">la Manufacture de Vincennes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="16">
+      <span begin="1090" end="1114" id="0" />
+      <text id="0">la Manufacture de Sèvres</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="17">
+      <span begin="1145" end="1184" id="0" />
+      <text id="0">la Manufacture d'armes de Saint-Étienne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
+      <span begin="73" end="80" id="0" />
+      <text id="0">en 1664</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
+      <span begin="142" end="149" id="0" />
+      <text id="0">en 1664</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
+      <span begin="237" end="244" id="0" />
+      <text id="0">en 1664</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="3">
+      <span begin="329" end="336" id="0" />
+      <text id="0">en 1664</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="4">
+      <span begin="380" end="387" id="0" />
+      <text id="0">en 1665</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="5">
+      <span begin="430" end="437" id="0" />
+      <text id="0">en 1665</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="6">
+      <span begin="495" end="502" id="0" />
+      <text id="0">en 1665</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="7">
+      <span begin="569" end="576" id="0" />
+      <text id="0">en 1666</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="8">
+      <span begin="634" end="641" id="0" />
+      <text id="0">en 1667</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="9">
+      <span begin="683" end="690" id="0" />
+      <text id="0">en 1666</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="10">
+      <span begin="729" end="736" id="0" />
+      <text id="0">en 1665</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="11">
+      <span begin="809" end="816" id="0" />
+      <text id="0">en 1667</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="12">
+      <span begin="860" end="867" id="0" />
+      <text id="0">en 1667</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="13">
+      <span begin="905" end="912" id="0" />
+      <text id="0">en 1670</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="14">
+      <span begin="954" end="961" id="0" />
+      <text id="0">en 1674</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="15">
+      <span begin="990" end="997" id="0" />
+      <text id="0">en 1740</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="16">
+      <span begin="1081" end="1088" id="0" />
+      <text id="0">en 1756</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="17">
+      <span begin="1136" end="1143" id="0" />
+      <text id="0">en 1764</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="30" end="57" id="0" />
+      <text id="0">les manufactures horlogères</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="183" end="188" id="0" />
+      <text id="0">Rolex</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="190" end="207" id="0" />
+      <text id="0">Jaeger Le Coultre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="212" end="239" id="0" />
+      <text id="0">les marques du Swatch Group</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:21</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:36</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:37</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:37</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:37</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:37</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:38</date>
+      <document>Manufacture.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

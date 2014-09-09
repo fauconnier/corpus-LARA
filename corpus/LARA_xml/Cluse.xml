@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Cluses connues
+Aux Etats-Unis
+Cumberland Gap
+Gorge du Columbia
+Wallula Gap
+En France
+Clue de Barles
+Clue de Pérouré
+Cluse de Voreppe
+La Clusaz
+En Italie
+Cluse de Vérone</text>
+      <span begin="1415" end="1583" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Aux Etats-Unis
+Cumberland Gap
+Gorge du Columbia
+Wallula Gap</text>
+      <span begin="1430" end="1489" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>En France
+Clue de Barles
+Clue de Pérouré
+Cluse de Voreppe
+La Clusaz</text>
+      <span begin="1490" end="1557" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="cluse" postag="NC" morpho="g=f|n=p" head="0" dep="_">Cluses</word>
+        <word id="2" lem="connaître" postag="ADJ" morpho="g=f|n=p|t=past" head="1" dep="mod">connues</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="à" postag="P+D" morpho="n=p" head="0" dep="_">Aux</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="prep">Etats-Unis</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Cumberland</word>
+          <word id="2" lem="Gap" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Gap</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="gorge" postag="NC" morpho="g=f|n=s" head="0" dep="_">Gorge</word>
+          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="3" lem="Columbia" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Columbia</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Wallula</word>
+          <word id="2" lem="Gap" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Gap</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Clue</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="Barles" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Barles</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Clue</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Pérouré</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="cluse" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cluse</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="Voreppe" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Voreppe</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Clusaz</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="Italie" postag="NPP" morpho="g=f|n=s" head="1" dep="prep">Italie</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="cluse" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cluse</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Vérone</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="à" postag="P+D" morpho="n=p" head="0" dep="_">Aux</word>
+        <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="prep">Etats-Unis</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Cumberland</word>
+          <word id="2" lem="Gap" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Gap</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="gorge" postag="NC" morpho="g=f|n=s" head="0" dep="_">Gorge</word>
+          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="3" lem="Columbia" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Columbia</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="gorge" postag="NC" morpho="g=f|n=s" head="0" dep="_">Gorge</word>
+          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="3" lem="Columbia" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Columbia</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Wallula</word>
+          <word id="2" lem="Gap" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Gap</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+        <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Clue</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="Barles" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Barles</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Clue</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Pérouré</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="cluse" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cluse</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="Voreppe" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Voreppe</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Clusaz</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="15" />
+      <text>Cluses connues</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="16" end="75" id="0" />
+      <text id="0">Aux Etats-Unis
+Cumberland Gap
+Gorge du Columbia
+Wallula Gap</text>
+      <span begin="76" end="143" id="1" />
+      <text id="1">En France
+Clue de Barles
+Clue de Pérouré
+Cluse de Voreppe
+La Clusaz</text>
+      <span begin="144" end="169" id="2" />
+      <text id="2">En Italie
+Cluse de Vérone</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="15" />
+      <text>Aux Etats-Unis</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="16" end="30" id="0" />
+      <text id="0">Cumberland Gap</text>
+      <span begin="31" end="48" id="1" />
+      <text id="1">Gorge du Columbia</text>
+      <span begin="31" end="60" id="2" />
+      <text id="2">Gorge du Columbia
+Wallula Gap</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="10" />
+      <text>En France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="11" end="25" id="0" />
+      <text id="0">Clue de Barles</text>
+      <span begin="26" end="41" id="1" />
+      <text id="1">Clue de Pérouré</text>
+      <span begin="42" end="58" id="2" />
+      <text id="2">Cluse de Voreppe</text>
+      <span begin="59" end="68" id="3" />
+      <text id="3">La Clusaz</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="15" id="0" />
+      <text id="0">Cluses connues</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="31" end="45" id="0" />
+      <text id="0">Cumberland Gap</text>
+      <span begin="46" end="63" id="1" />
+      <text id="1">Gorge du Columbia</text>
+      <span begin="64" end="75" id="2" />
+      <text id="2">Wallula Gap</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="86" end="100" id="0" />
+      <text id="0">Clue de Barles</text>
+      <span begin="101" end="116" id="1" />
+      <text id="1">Clue de Pérouré</text>
+      <span begin="117" end="133" id="2" />
+      <text id="2">Cluse de Voreppe</text>
+      <span begin="134" end="143" id="3" />
+      <text id="3">La Clusaz</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="154" end="169" id="0" />
+      <text id="0">Cluse de Vérone</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
+      <span begin="16" end="30" id="0" />
+      <text id="0">Aux Etats-Unis</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
+      <span begin="76" end="85" id="0" />
+      <text id="0">En France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="2">
+      <span begin="144" end="153" id="0" />
+      <text id="0">En Italie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="16" end="30" id="0" />
+      <text id="0">Cumberland Gap</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="31" end="48" id="0" />
+      <text id="0">Gorge du Columbia</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="49" end="60" id="0" />
+      <text id="0">Wallula Gap</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="15" id="0" />
+      <text id="0">Aux Etats-Unis</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="11" end="25" id="0" />
+      <text id="0">Clue de Barles</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="26" end="41" id="0" />
+      <text id="0">Clue de Pérouré</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="42" end="58" id="0" />
+      <text id="0">Cluse de Voreppe</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+      <span begin="59" end="68" id="0" />
+      <text id="0">La Clusaz</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="10" id="0" />
+      <text id="0">En France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:34</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:03</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:04</date>
+      <document>Cluse.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

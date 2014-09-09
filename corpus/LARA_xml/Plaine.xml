@@ -1,0 +1,998 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Qualification en fonction du contexte géographique
+La plaine abyssale : plaine sous-marine située généralement de -4000 à -6000 mètres, elle a un dénivelé faible mais notable qui conduit aux dorsales océaniques, son étendue est généralement imposante: de l'ordre de centaines voire de milliers de kilomètres d'extension, elle est composée de sédiments continentaux rejetés au large.
+La plaine d'altitude (ou altiplano).
+La plaine de piémont située aux pieds des chaînes de montagne et formée par le dépôt des matériaux charriés par les torrents et rivières provenant de ces montagnes.
+La plaine alluviale (synonyme : lit majeur d'un cours d'eau) : surface topographique, à faible dénivelé, en fond de vallée. Elle est constituée par des alluvions (débris, matériaux) déposées lors de crues du cours d'eau. La plaine alluviale appartient à la zone inondable d'un cours d'eau ; toutefois des aménagements de berge (digue) permettent de réduire le risque d'inondation.
+La plaine deltaïque : elle est à la confluence de la plaine alluviale - dont elle est le prolongement - et de la mer, elle reçoit des sédiments des deux parts.
+La plaine d'épandage : une plaine d'accumulation, ses principaux tributaires sont les torrents ou les moraines glaciaires.
+La plaine littorale : aire côtière enrichie par les sédiments continentaux non recouverte.
+La plaine maritime : étendue devenue non-submersible par les marées, par le passé, ces zones étaient généralement des marais.
+La pénéplaine : surfaces aplanies par la coalescence de bassins fluviaux.</text>
+      <span begin="732" end="2271" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Quelques grandes plaines
+La plaine d'Alsace (fossé d'effondrement)
+La plaine d'Allemagne du nord (portion de la grande plaine d'Europe du Nord)
+La Djeffara, entre la Tunisie et la Libye
+La plaine du Pô en Italie
+Les Pampas dans l'Amérique du Sud (Argentine, Brésil et Uruguay)
+Les Grandes Plaines aux États-Unis
+La plaine alluviale de la Bassée</text>
+      <span begin="2272" end="2616" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="qualification" postag="NC" morpho="g=f|n=s" head="0" dep="root">Qualification</word>
+        <word id="2" lem="en_fonction_de" postag="P+D" morpho="g=m|n=s" head="0" dep="_">en_fonction_du</word>
+        <word id="3" lem="contexte" postag="NC" morpho="g=m|n=s" head="2" dep="prep">contexte</word>
+        <word id="4" lem="géographique" postag="ADJ" morpho="n=s" head="3" dep="mod">géographique</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="16" dep="suj">plaine</word>
+          <word id="3" lem="abyssal" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">abyssale</word>
+          <word id="4" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+          <word id="5" lem="plaine" postag="NC" morpho="g=f|n=s" head="2" dep="mod">plaine</word>
+          <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="mod">sous-marine</word>
+          <word id="7" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="5" dep="mod">située</word>
+          <word id="8" lem="généralement" postag="ADV" morpho="_" head="7" dep="mod">généralement</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="de_obj">de</word>
+          <word id="10" lem="_" postag="VINF" morpho="_" head="9" dep="prep">-4000</word>
+          <word id="11" lem="à" postag="P" morpho="_" head="10" dep="mod">à</word>
+          <word id="12" lem="_" postag="NC" morpho="_" head="11" dep="prep">-6000</word>
+          <word id="13" lem="mètre" postag="NC" morpho="g=m|n=p" head="12" dep="mod">mètres</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+          <word id="15" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="16" dep="suj">elle</word>
+          <word id="16" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">a</word>
+          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
+          <word id="18" lem="dénivelé" postag="NC" morpho="g=m|n=s" head="16" dep="obj">dénivelé</word>
+          <word id="19" lem="faible" postag="ADJ" morpho="n=s" head="18" dep="mod">faible</word>
+          <word id="20" lem="mais" postag="CC" morpho="_" head="19" dep="coord">mais</word>
+          <word id="21" lem="notable" postag="ADJ" morpho="n=s" head="20" dep="dep_coord">notable</word>
+          <word id="22" lem="qui" postag="PROREL" morpho="n=s" head="23" dep="suj">qui</word>
+          <word id="23" lem="conduire" postag="V" morpho="n=s|p=3|t=pst" head="18" dep="mod_rel">conduit</word>
+          <word id="24" lem="à" postag="P+D" morpho="n=p" head="23" dep="a_obj">aux</word>
+          <word id="25" lem="dorsale" postag="NC" morpho="g=f|n=p" head="24" dep="prep">dorsales</word>
+          <word id="26" lem="océanique" postag="ADJ" morpho="n=p" head="25" dep="mod">océaniques</word>
+          <word id="27" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+          <word id="28" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="29" dep="det">son</word>
+          <word id="29" lem="étendue" postag="NC" morpho="g=f|n=s" head="30" dep="suj">étendue</word>
+          <word id="30" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="16" dep="mod">est</word>
+          <word id="31" lem="généralement" postag="ADV" morpho="_" head="32" dep="mod">généralement</word>
+          <word id="32" lem="imposant" postag="ADJ" morpho="g=f|n=s" head="30" dep="ats">imposante</word>
+          <word id="33" lem=":" postag="PONCT" morpho="_" head="30" dep="ponct">:</word>
+          <word id="34" lem="de" postag="P" morpho="_" head="30" dep="mod">de</word>
+          <word id="35" lem="l'" postag="DET" morpho="n=s" head="36" dep="det">l'</word>
+          <word id="36" lem="ordre" postag="NC" morpho="g=m|n=s" head="34" dep="prep">ordre</word>
+          <word id="37" lem="de" postag="P" morpho="_" head="36" dep="dep">de</word>
+          <word id="38" lem="centaine" postag="NC" morpho="g=f|n=p" head="37" dep="prep">centaines</word>
+          <word id="39" lem="voire" postag="CC" morpho="_" head="37" dep="coord">voire</word>
+          <word id="40" lem="de" postag="P" morpho="_" head="39" dep="dep_coord">de</word>
+          <word id="41" lem="millier" postag="NC" morpho="g=m|n=p" head="40" dep="prep">milliers</word>
+          <word id="42" lem="de" postag="P" morpho="_" head="36" dep="dep">de</word>
+          <word id="43" lem="kilomètre" postag="NC" morpho="g=m|n=p" head="42" dep="prep">kilomètres</word>
+          <word id="44" lem="de" postag="P" morpho="_" head="43" dep="dep">d'</word>
+          <word id="45" lem="extension" postag="NC" morpho="g=f|n=s" head="44" dep="prep">extension</word>
+          <word id="46" lem="," postag="PONCT" morpho="_" head="30" dep="ponct">,</word>
+          <word id="47" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="49" dep="suj">elle</word>
+          <word id="48" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="49" dep="aux_pass">est</word>
+          <word id="49" lem="composer" postag="VPP" morpho="g=f|n=s|t=past" head="30" dep="mod">composée</word>
+          <word id="50" lem="de" postag="P" morpho="_" head="49" dep="de_obj">de</word>
+          <word id="51" lem="sédiment" postag="NC" morpho="g=m|n=p" head="50" dep="prep">sédiments</word>
+          <word id="52" lem="continental" postag="ADJ" morpho="g=m|n=p" head="51" dep="mod">continentaux</word>
+          <word id="53" lem="rejeter" postag="VPP" morpho="g=m|n=p|t=past" head="51" dep="mod">rejetés</word>
+          <word id="54" lem="à" postag="P+D" morpho="g=m|n=s" head="53" dep="a_obj">au</word>
+          <word id="55" lem="large" postag="ADJ" morpho="n=s" head="54" dep="prep">large</word>
+          <word id="56" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="0" dep="_">plaine</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="altitude" postag="NC" morpho="g=f|n=s" head="3" dep="prep">altitude</word>
+          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="6" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="dep_coord">altiplano</word>
+          <word id="8" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="0" dep="_">plaine</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="piémont" postag="NC" morpho="g=m|n=s" head="3" dep="prep">piémont</word>
+          <word id="5" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">située</word>
+          <word id="6" lem="à" postag="P+D" morpho="n=p" head="5" dep="a_obj">aux</word>
+          <word id="7" lem="pied" postag="NC" morpho="n=p" head="6" dep="prep">pieds</word>
+          <word id="8" lem="de" postag="P+D" morpho="n=p" head="7" dep="dep">des</word>
+          <word id="9" lem="chaîne" postag="NC" morpho="g=f|n=p" head="8" dep="prep">chaînes</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
+          <word id="11" lem="montagne" postag="NC" morpho="g=f|n=s" head="10" dep="prep">montagne</word>
+          <word id="12" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
+          <word id="13" lem="former" postag="VPP" morpho="g=f|n=s|t=past" head="12" dep="dep_coord">formée</word>
+          <word id="14" lem="par" postag="P" morpho="_" head="13" dep="p_obj">par</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+          <word id="16" lem="dépôt" postag="NC" morpho="g=m|n=s" head="14" dep="prep">dépôt</word>
+          <word id="17" lem="de" postag="P+D" morpho="n=p" head="16" dep="dep">des</word>
+          <word id="18" lem="matériau" postag="NC" morpho="g=m|n=p" head="17" dep="prep">matériaux</word>
+          <word id="19" lem="charrier" postag="VPP" morpho="g=m|n=p|t=past" head="18" dep="mod">charriés</word>
+          <word id="20" lem="par" postag="P" morpho="_" head="19" dep="p_obj">par</word>
+          <word id="21" lem="les" postag="DET" morpho="n=p" head="22" dep="det">les</word>
+          <word id="22" lem="torrent" postag="NC" morpho="g=m|n=p" head="20" dep="prep">torrents</word>
+          <word id="23" lem="et" postag="CC" morpho="_" head="22" dep="coord">et</word>
+          <word id="24" lem="rivière" postag="NC" morpho="g=f|n=p" head="23" dep="dep_coord">rivières</word>
+          <word id="25" lem="provenir" postag="VPR" morpho="t=pst" head="22" dep="mod">provenant</word>
+          <word id="26" lem="de" postag="P" morpho="_" head="25" dep="de_obj">de</word>
+          <word id="27" lem="ces" postag="DET" morpho="n=p" head="28" dep="det">ces</word>
+          <word id="28" lem="montagne" postag="NC" morpho="g=f|n=p" head="26" dep="prep">montagnes</word>
+          <word id="29" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="0" dep="_">plaine</word>
+          <word id="3" lem="alluvial" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">alluviale</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="5" lem="synonyme" postag="NC" morpho="g=m|n=s" head="2" dep="mod">synonyme</word>
+          <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+          <word id="7" lem="lit" postag="NC" morpho="g=m|n=s" head="2" dep="mod">lit</word>
+          <word id="8" lem="majeur" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">majeur</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
+          <word id="11" lem="cour" postag="NC" morpho="g=f|n=p" head="9" dep="prep">cours</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
+          <word id="13" lem="eau" postag="NC" morpho="g=f|n=s" head="12" dep="prep">eau</word>
+          <word id="14" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="15" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+          <word id="16" lem="surface" postag="NC" morpho="g=f|n=s" head="0" dep="_">surface</word>
+          <word id="17" lem="topographique" postag="ADJ" morpho="n=s" head="16" dep="mod">topographique</word>
+          <word id="18" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="19" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
+          <word id="20" lem="faible" postag="ADJ" morpho="n=s" head="21" dep="mod">faible</word>
+          <word id="21" lem="dénivelé" postag="NC" morpho="g=m|n=s" head="19" dep="prep">dénivelé</word>
+          <word id="22" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="23" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
+          <word id="24" lem="fond" postag="NC" morpho="g=m|n=s" head="23" dep="prep">fond</word>
+          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">de</word>
+          <word id="26" lem="vallée" postag="NC" morpho="g=f|n=s" head="25" dep="prep">vallée</word>
+          <word id="27" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="3" dep="suj">Elle</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="aux_pass">est</word>
+          <word id="3" lem="constituer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">constituée</word>
+          <word id="4" lem="par" postag="P" morpho="_" head="3" dep="p_obj">par</word>
+          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
+          <word id="6" lem="alluvion" postag="NC" morpho="g=f|n=p" head="4" dep="prep">alluvions</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="8" lem="débris" postag="NC" morpho="g=m" head="6" dep="mod">débris</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="10" lem="matériau" postag="NC" morpho="g=m|n=p" head="6" dep="mod">matériaux</word>
+          <word id="11" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+          <word id="12" lem="déposer" postag="VPP" morpho="g=f|n=p|t=past" head="6" dep="mod">déposées</word>
+          <word id="13" lem="lors_de" postag="P" morpho="_" head="12" dep="mod">lors_de</word>
+          <word id="14" lem="crue" postag="NC" morpho="g=f|n=p" head="13" dep="prep">crues</word>
+          <word id="15" lem="de" postag="P+D" morpho="g=m|n=s" head="14" dep="dep">du</word>
+          <word id="16" lem="cour" postag="NC" morpho="g=f|n=p" head="15" dep="prep">cours</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">d'</word>
+          <word id="18" lem="eau" postag="NC" morpho="g=f|n=s" head="17" dep="prep">eau</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="4" dep="suj">plaine</word>
+          <word id="3" lem="alluvial" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">alluviale</word>
+          <word id="4" lem="appartenir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">appartient</word>
+          <word id="5" lem="à" postag="P" morpho="_" head="4" dep="a_obj">à</word>
+          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
+          <word id="7" lem="zone" postag="NC" morpho="g=f|n=s" head="5" dep="prep">zone</word>
+          <word id="8" lem="inondable" postag="ADJ" morpho="n=s" head="7" dep="mod">inondable</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
+          <word id="11" lem="cour" postag="NC" morpho="g=f|n=p" head="9" dep="prep">cours</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
+          <word id="13" lem="eau" postag="NC" morpho="g=f|n=s" head="12" dep="prep">eau</word>
+          <word id="14" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
+          <word id="15" lem="toutefois" postag="ADV" morpho="_" head="4" dep="mod">toutefois</word>
+          <word id="16" lem="des" postag="DET" morpho="n=p" head="17" dep="det">des</word>
+          <word id="17" lem="aménagement" postag="NC" morpho="g=m|n=p" head="4" dep="obj">aménagements</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
+          <word id="19" lem="berge" postag="NC" morpho="g=f|n=s" head="18" dep="prep">berge</word>
+          <word id="20" lem="(" postag="PONCT" morpho="_" head="17" dep="ponct">(</word>
+          <word id="21" lem="digue" postag="NC" morpho="g=f|n=s" head="17" dep="mod">digue</word>
+          <word id="22" lem=")" postag="PONCT" morpho="_" head="17" dep="ponct">)</word>
+          <word id="23" lem="permettre" postag="V" morpho="n=p|p=3|t=pst" head="17" dep="mod_rel">permettent</word>
+          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="obj">de</word>
+          <word id="25" lem="réduire" postag="VINF" morpho="_" head="24" dep="prep">réduire</word>
+          <word id="26" lem="le" postag="DET" morpho="g=m|n=s" head="27" dep="det">le</word>
+          <word id="27" lem="risque" postag="NC" morpho="g=m|n=s" head="25" dep="obj">risque</word>
+          <word id="28" lem="de" postag="P" morpho="_" head="27" dep="dep">d'</word>
+          <word id="29" lem="inondation" postag="NC" morpho="g=f|n=s" head="28" dep="prep">inondation</word>
+          <word id="30" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="6" dep="mod">plaine</word>
+          <word id="3" lem="deltaïque" postag="ADJ" morpho="n=s" head="2" dep="mod">deltaïque</word>
+          <word id="4" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
+          <word id="5" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="6" dep="suj">elle</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="ats">à</word>
+          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
+          <word id="9" lem="confluence" postag="NC" morpho="g=f|n=s" head="7" dep="prep">confluence</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
+          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
+          <word id="12" lem="plaine" postag="NC" morpho="g=f|n=s" head="10" dep="prep">plaine</word>
+          <word id="13" lem="alluvial" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">alluviale</word>
+          <word id="14" lem="-" postag="PONCT" morpho="_" head="12" dep="ponct">-</word>
+          <word id="15" lem="dont" postag="PROREL" morpho="_" head="17" dep="de_obj">dont</word>
+          <word id="16" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="17" dep="suj">elle</word>
+          <word id="17" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="12" dep="mod_rel">est</word>
+          <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
+          <word id="19" lem="prolongement" postag="NC" morpho="g=m|n=s" head="17" dep="ats">prolongement</word>
+          <word id="20" lem="-" postag="PONCT" morpho="_" head="6" dep="ponct">-</word>
+          <word id="21" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
+          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep_coord">de</word>
+          <word id="23" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
+          <word id="24" lem="mer" postag="NC" morpho="g=f|n=s" head="22" dep="prep">mer</word>
+          <word id="25" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="26" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="27" dep="suj">elle</word>
+          <word id="27" lem="recevoir" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="mod">reçoit</word>
+          <word id="28" lem="des" postag="DET" morpho="n=p" head="29" dep="det">des</word>
+          <word id="29" lem="sédiment" postag="NC" morpho="g=m|n=p" head="27" dep="obj">sédiments</word>
+          <word id="30" lem="de" postag="P+D" morpho="n=p" head="29" dep="dep">des</word>
+          <word id="31" lem="deux" postag="NC" morpho="g=m" head="30" dep="prep">deux</word>
+          <word id="32" lem="part" postag="NC" morpho="n=p" head="31" dep="mod">parts</word>
+          <word id="33" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="14" dep="suj">plaine</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="épandage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">épandage</word>
+          <word id="5" lem=":" postag="PONCT" morpho="_" head="14" dep="ponct">:</word>
+          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+          <word id="7" lem="plaine" postag="NC" morpho="g=f|n=s" head="14" dep="suj">plaine</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="9" lem="accumulation" postag="NC" morpho="g=f|n=s" head="8" dep="prep">accumulation</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="11" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="13" dep="det">ses</word>
+          <word id="12" lem="principal" postag="ADJ" morpho="g=m|n=p" head="13" dep="mod">principaux</word>
+          <word id="13" lem="_" postag="NC" morpho="_" head="7" dep="mod">tributaires</word>
+          <word id="14" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
+          <word id="16" lem="torrent" postag="NC" morpho="g=m|n=p" head="14" dep="ats">torrents</word>
+          <word id="17" lem="ou" postag="CC" morpho="_" head="16" dep="coord">ou</word>
+          <word id="18" lem="les" postag="DET" morpho="n=p" head="19" dep="det">les</word>
+          <word id="19" lem="moraine" postag="NC" morpho="g=f|n=p" head="17" dep="dep_coord">moraines</word>
+          <word id="20" lem="glaciaire" postag="ADJ" morpho="n=p" head="19" dep="mod">glaciaires</word>
+          <word id="21" lem="." postag="PONCT" morpho="_" head="14" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="0" dep="_">plaine</word>
+          <word id="3" lem="littoral" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">littorale</word>
+          <word id="4" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+          <word id="5" lem="aire" postag="NC" morpho="g=f|n=s" head="2" dep="mod">aire</word>
+          <word id="6" lem="côtier" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">côtière</word>
+          <word id="7" lem="enrichir" postag="VPP" morpho="g=f|n=s|t=past" head="5" dep="mod">enrichie</word>
+          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
+          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+          <word id="10" lem="sédiment" postag="NC" morpho="g=m|n=p" head="8" dep="prep">sédiments</word>
+          <word id="11" lem="continental" postag="ADJ" morpho="g=m|n=p" head="10" dep="mod">continentaux</word>
+          <word id="12" lem="non" postag="ADV" morpho="_" head="13" dep="mod">non</word>
+          <word id="13" lem="recouvrir" postag="VPP" morpho="g=f|n=s|t=past" head="10" dep="mod">recouverte</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="6" dep="suj">plaine</word>
+          <word id="3" lem="maritime" postag="ADJ" morpho="n=s" head="2" dep="mod">maritime</word>
+          <word id="4" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+          <word id="5" lem="étendre" postag="VPP" morpho="g=f|n=s|t=past" head="6" dep="mod">étendue</word>
+          <word id="6" lem="devenir" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">devenue</word>
+          <word id="7" lem="_" postag="ADV" morpho="_" head="6" dep="mod">non-submersible</word>
+          <word id="8" lem="par" postag="P" morpho="_" head="6" dep="p_obj">par</word>
+          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+          <word id="10" lem="marée" postag="NC" morpho="g=f|n=p" head="8" dep="prep">marées</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="12" lem="par" postag="P" morpho="_" head="6" dep="p_obj">par</word>
+          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
+          <word id="14" lem="passé" postag="NC" morpho="g=m|n=s" head="12" dep="prep">passé</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
+          <word id="16" lem="ces" postag="DET" morpho="n=p" head="17" dep="det">ces</word>
+          <word id="17" lem="zone" postag="NC" morpho="g=f|n=p" head="18" dep="suj">zones</word>
+          <word id="18" lem="être" postag="V" morpho="n=p|p=3|t=imp" head="6" dep="mod">étaient</word>
+          <word id="19" lem="généralement" postag="ADV" morpho="_" head="18" dep="mod">généralement</word>
+          <word id="20" lem="des" postag="DET" morpho="n=p" head="21" dep="det">des</word>
+          <word id="21" lem="marais" postag="NC" morpho="g=m" head="18" dep="ats">marais</word>
+          <word id="22" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="pénéplaine" postag="NC" morpho="g=f|n=s" head="0" dep="_">pénéplaine</word>
+          <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+          <word id="4" lem="surface" postag="NC" morpho="g=f|n=p" head="0" dep="_">surfaces</word>
+          <word id="5" lem="aplanir" postag="VPP" morpho="g=f|n=p|t=past" head="4" dep="mod">aplanies</word>
+          <word id="6" lem="par" postag="P" morpho="_" head="5" dep="p_obj">par</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="coalescence" postag="NC" morpho="g=f|n=s" head="6" dep="prep">coalescence</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="bassin" postag="NC" morpho="g=m|n=p" head="9" dep="prep">bassins</word>
+          <word id="11" lem="fluvial" postag="ADJ" morpho="g=m|n=p" head="10" dep="mod">fluviaux</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="quelques" postag="DET" morpho="n=p" head="3" dep="det">Quelques</word>
+        <word id="2" lem="grand" postag="ADJ" morpho="g=f|n=p" head="3" dep="mod">grandes</word>
+        <word id="3" lem="plaine" postag="NC" morpho="g=f|n=p" head="0" dep="_">plaines</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="0" dep="_">plaine</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="Alsace" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Alsace</word>
+          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="6" lem="fossé" postag="NC" morpho="g=m|n=s" head="2" dep="mod">fossé</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
+          <word id="8" lem="effondrement" postag="NC" morpho="g=m|n=s" head="7" dep="prep">effondrement</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="0" dep="_">plaine</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Allemagne</word>
+          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="6" lem="nord" postag="NC" morpho="g=m|n=s" head="5" dep="prep">nord</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="8" lem="portion" postag="NC" morpho="g=f|n=s" head="2" dep="mod">portion</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
+          <word id="11" lem="grand" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">grande</word>
+          <word id="12" lem="plaine" postag="NC" morpho="g=f|n=s" head="9" dep="prep">plaine</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
+          <word id="14" lem="Europe" postag="NPP" morpho="g=f|n=s" head="13" dep="prep">Europe</word>
+          <word id="15" lem="de" postag="P+D" morpho="g=m|n=s" head="14" dep="dep">du</word>
+          <word id="16" lem="Nord" postag="NPP" morpho="g=m|n=s" head="15" dep="prep">Nord</word>
+          <word id="17" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Djeffara</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="4" lem="entre" postag="P" morpho="_" head="0" dep="_">entre</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="Tunisie" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Tunisie</word>
+          <word id="7" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
+          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
+          <word id="9" lem="Libye" postag="NPP" morpho="g=f|n=s" head="7" dep="dep_coord">Libye</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="0" dep="_">plaine</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="Pô" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Pô</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="Italie" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Italie</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Pampas</word>
+          <word id="3" lem="dans" postag="P" morpho="_" head="2" dep="dep">dans</word>
+          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+          <word id="5" lem="Amérique" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Amérique</word>
+          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
+          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Sud</word>
+          <word id="8" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
+          <word id="9" lem="argentine" postag="NC" morpho="g=f|n=s" head="5" dep="mod">Argentine</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="11" lem="Brésil" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Brésil</word>
+          <word id="12" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
+          <word id="13" lem="Uruguay" postag="NPP" morpho="g=m|n=s" head="12" dep="dep_coord">Uruguay</word>
+          <word id="14" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Grandes</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Plaines</word>
+          <word id="4" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
+          <word id="5" lem="États-Unis_d'Amérique" postag="NPP" morpho="g=m|n=p" head="4" dep="prep">États-Unis</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="plaine" postag="NC" morpho="g=f|n=s" head="0" dep="_">plaine</word>
+          <word id="3" lem="alluvial" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">alluviale</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="prep">Bassée</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="51" />
+      <text>Qualification en fonction du contexte géographique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="52" end="383" id="0" />
+      <text id="0">La plaine abyssale : plaine sous-marine située généralement de -4000 à -6000 mètres, elle a un dénivelé faible mais notable qui conduit aux dorsales océaniques, son étendue est généralement imposante: de l'ordre de centaines voire de milliers de kilomètres d'extension, elle est composée de sédiments continentaux rejetés au large.</text>
+      <span begin="384" end="420" id="1" />
+      <text id="1">La plaine d'altitude (ou altiplano).</text>
+      <span begin="421" end="585" id="2" />
+      <text id="2">La plaine de piémont située aux pieds des chaînes de montagne et formée par le dépôt des matériaux charriés par les torrents et rivières provenant de ces montagnes.</text>
+      <span begin="586" end="966" id="3" />
+      <text id="3">La plaine alluviale (synonyme : lit majeur d'un cours d'eau) : surface topographique, à faible dénivelé, en fond de vallée. Elle est constituée par des alluvions (débris, matériaux) déposées lors de crues du cours d'eau. La plaine alluviale appartient à la zone inondable d'un cours d'eau ; toutefois des aménagements de berge (digue) permettent de réduire le risque d'inondation.</text>
+      <span begin="967" end="1126" id="4" />
+      <text id="4">La plaine deltaïque : elle est à la confluence de la plaine alluviale - dont elle est le prolongement - et de la mer, elle reçoit des sédiments des deux parts.</text>
+      <span begin="1127" end="1249" id="5" />
+      <text id="5">La plaine d'épandage : une plaine d'accumulation, ses principaux tributaires sont les torrents ou les moraines glaciaires.</text>
+      <span begin="1250" end="1340" id="6" />
+      <text id="6">La plaine littorale : aire côtière enrichie par les sédiments continentaux non recouverte.</text>
+      <span begin="1341" end="1466" id="7" />
+      <text id="7">La plaine maritime : étendue devenue non-submersible par les marées, par le passé, ces zones étaient généralement des marais.</text>
+      <span begin="1467" end="1540" id="8" />
+      <text id="8">La pénéplaine : surfaces aplanies par la coalescence de bassins fluviaux.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="25" />
+      <text>Quelques grandes plaines</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="26" end="67" id="0" />
+      <text id="0">La plaine d'Alsace (fossé d'effondrement)</text>
+      <span begin="67" end="144" id="1" />
+      <text id="1">La plaine d'Allemagne du nord (portion de la grande plaine d'Europe du Nord)</text>
+      <span begin="145" end="186" id="2" />
+      <text id="2">La Djeffara, entre la Tunisie et la Libye</text>
+      <span begin="187" end="212" id="3" />
+      <text id="3">La plaine du Pô en Italie</text>
+      <span begin="213" end="277" id="4" />
+      <text id="4">Les Pampas dans l'Amérique du Sud (Argentine, Brésil et Uruguay)</text>
+      <span begin="278" end="312" id="5" />
+      <text id="5">Les Grandes Plaines aux États-Unis</text>
+      <span begin="313" end="345" id="6" />
+      <text id="6">La plaine alluviale de la Bassée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="52" end="70" id="0" />
+      <text id="0">La plaine abyssale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="384" end="404" id="0" />
+      <text id="0">La plaine d'altitude</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="421" end="441" id="0" />
+      <text id="0">La plaine de piémont</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="586" end="605" id="0" />
+      <text id="0">La plaine alluviale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="967" end="986" id="0" />
+      <text id="0">La plaine deltaïque</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="5">
+      <span begin="1127" end="1147" id="0" />
+      <text id="0">La plaine d'épandage</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="6">
+      <span begin="1250" end="1269" id="0" />
+      <text id="0">La plaine littorale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="7">
+      <span begin="1341" end="1359" id="0" />
+      <text id="0">La plaine maritime</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="8">
+      <span begin="1467" end="1481" id="0" />
+      <text id="0">La pénéplaine</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
+      <span begin="30" end="51" id="0" />
+      <text id="0">contexte géographique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="10" end="25" id="0" />
+      <text id="0">grandes plaines</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="26" end="45" id="0" />
+      <text id="0">La plaine d'Alsace</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="68" end="98" id="0" />
+      <text id="0">La plaine d'Allemagne du nord</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="145" end="156" id="0" />
+      <text id="0">La Djeffara</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="187" end="202" id="0" />
+      <text id="0">La plaine du Pô</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
+      <span begin="213" end="224" id="0" />
+      <text id="0">Les Pampas</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="5">
+      <span begin="278" end="297" id="0" />
+      <text id="0">Les Grandes Plaines</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="6">
+      <span begin="313" end="345" id="0" />
+      <text id="0">La plaine alluviale de la Bassée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
+      <span begin="157" end="186" id="0" />
+      <text id="0">entre la Tunisie et la Libye</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="3">
+      <span begin="203" end="212" id="0" />
+      <text id="0">en Italie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="4">
+      <span begin="224" end="247" id="0" />
+      <text id="0">dans l'Amérique du Sud</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="5">
+      <span begin="298" end="312" id="0" />
+      <text id="0">aux États-Unis</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="9" id="0" />
+      <text id="0">Quelques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:42</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:17</date>
+      <document>Plaine.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+</root>

@@ -1,0 +1,874 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Talus
+
+Anatomie
+Talus est synonyme d'os astragale.
+Architecture
+Au sens premier, le talus d'un parement de mur désigne la pente ou inclinaison qui est donnée au parement de façon à ce qu'il soit de profil légèrement oblique et non pas rigoureusement vertical et ce afin d'obtenir une plus grande stabilité. On parle de mur « à talus ». Au sens dérivé, le talus est la face d'un parement de mur présentant une inclinaison plus grande que le fruit mais moins grande que le glacis. Dans le talus, l'angle formé avec l'horizontale est supérieur à 30°. On parle de « mur taluté ».
+Géographie
+Un talus est un terrain en forte pente qui limite une plaine, un glacis, un plateau, une banquette, une terrasse, un fossé, une tranchée.
+Le talus continental sépare le plateau continental des plaines abyssales.
+Les talus sont les principaux éléments constitutifs du bocage.
+Localité
+Talus-Saint-Prix est une commune française de la Marne.</text>
+      <span begin="3" end="929" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Géographie
+Un talus est un terrain en forte pente qui limite une plaine, un glacis, un plateau, une banquette, une terrasse, un fossé, une tranchée.
+Le talus continental sépare le plateau continental des plaines abyssales.
+Les talus sont les principaux éléments constitutifs du bocage.</text>
+      <span begin="579" end="864" />
+    </SE>
+    <comment>#inclusion lexicale#</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:12</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Un talus est un terrain en forte pente qui limite une plaine, un glacis, un plateau, une banquette, une terrasse, un fossé, une tranchée.
+Le talus continental sépare le plateau continental des plaines abyssales.
+Les talus sont les principaux éléments constitutifs du bocage.</text>
+      <span begin="590" end="864" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="talus" postag="NC" morpho="g=m" head="0" dep="root">Talus</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="anatomie" postag="NC" morpho="g=f|n=s" head="0" dep="root">Anatomie</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="talus" postag="NC" morpho="g=m" head="2" dep="suj">Talus</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="synonyme" postag="ADJ" morpho="n=s" head="2" dep="ats">synonyme</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">d'</word>
+          <word id="5" lem="os" postag="NC" morpho="g=m" head="4" dep="prep">os</word>
+          <word id="6" lem="_" postag="ADJ" morpho="_" head="5" dep="mod">astragale</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="architecture" postag="NC" morpho="g=f|n=s" head="0" dep="_">Architecture</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="à" postag="P+D" morpho="g=m|n=s" head="12" dep="mod">Au</word>
+          <word id="2" lem="sens" postag="NC" morpho="g=m" head="1" dep="prep">sens</word>
+          <word id="3" lem="premier" postag="ADJ" morpho="n=p" head="2" dep="mod">premier</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="talus" postag="NC" morpho="g=m" head="12" dep="suj">talus</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
+          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
+          <word id="9" lem="parement" postag="NC" morpho="g=m|n=s" head="7" dep="prep">parement</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
+          <word id="11" lem="mur" postag="NC" morpho="g=m|n=s" head="10" dep="prep">mur</word>
+          <word id="12" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
+          <word id="14" lem="pente" postag="NC" morpho="g=f|n=s" head="12" dep="obj">pente</word>
+          <word id="15" lem="ou" postag="CC" morpho="_" head="14" dep="coord">ou</word>
+          <word id="16" lem="inclinaison" postag="NC" morpho="g=f|n=s" head="15" dep="dep_coord">inclinaison</word>
+          <word id="17" lem="qui" postag="PROREL" morpho="n=s" head="19" dep="suj">qui</word>
+          <word id="18" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="19" dep="aux_pass">est</word>
+          <word id="19" lem="donner" postag="VPP" morpho="g=f|n=s|t=past" head="14" dep="mod_rel">donnée</word>
+          <word id="20" lem="à" postag="P+D" morpho="g=m|n=s" head="19" dep="a_obj">au</word>
+          <word id="21" lem="parement" postag="NC" morpho="g=m|n=s" head="20" dep="prep">parement</word>
+          <word id="22" lem="de_façon_à" postag="P" morpho="_" head="19" dep="mod">de_façon_à</word>
+          <word id="23" lem="ce" postag="PRO" morpho="_" head="22" dep="prep">ce</word>
+          <word id="24" lem="que" postag="PROREL" morpho="_" head="0" dep="_">qu'</word>
+          <word id="25" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="0" dep="_">il</word>
+          <word id="26" lem="soit" postag="CC" morpho="_" head="0" dep="_">soit</word>
+          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep_coord">de</word>
+          <word id="28" lem="profil" postag="NC" morpho="g=m|n=s" head="27" dep="prep">profil</word>
+          <word id="29" lem="légèrement" postag="ADV" morpho="_" head="30" dep="mod">légèrement</word>
+          <word id="30" lem="oblique" postag="ADJ" morpho="n=s" head="28" dep="mod">oblique</word>
+          <word id="31" lem="et" postag="CC" morpho="_" head="30" dep="coord">et</word>
+          <word id="32" lem="non" postag="ADV" morpho="_" head="35" dep="mod">non</word>
+          <word id="33" lem="pas" postag="ADV" morpho="_" head="35" dep="mod">pas</word>
+          <word id="34" lem="rigoureusement" postag="ADV" morpho="_" head="35" dep="mod">rigoureusement</word>
+          <word id="35" lem="vertical" postag="ADJ" morpho="g=m|n=s" head="31" dep="dep_coord">vertical</word>
+          <word id="36" lem="et" postag="CC" morpho="_" head="28" dep="coord">et</word>
+          <word id="37" lem="ce" postag="PRO" morpho="_" head="36" dep="dep_coord">ce</word>
+          <word id="38" lem="afin_de" postag="P" morpho="_" head="36" dep="dep_coord">afin_d'</word>
+          <word id="39" lem="obtenir" postag="VINF" morpho="_" head="38" dep="prep">obtenir</word>
+          <word id="40" lem="une" postag="DET" morpho="g=f|n=s" head="43" dep="det">une</word>
+          <word id="41" lem="plus" postag="ADV" morpho="_" head="42" dep="mod">plus</word>
+          <word id="42" lem="grand" postag="ADJ" morpho="g=f|n=s" head="43" dep="mod">grande</word>
+          <word id="43" lem="stabilité" postag="NC" morpho="g=f|n=s" head="39" dep="obj">stabilité</word>
+          <word id="44" lem="." postag="PONCT" morpho="_" head="26" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
+          <word id="2" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="de_obj">de</word>
+          <word id="4" lem="mur" postag="NC" morpho="g=m|n=s" head="3" dep="prep">mur</word>
+          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
+          <word id="6" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
+          <word id="7" lem="talus" postag="NC" morpho="g=m" head="6" dep="prep">talus</word>
+          <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
+          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="à" postag="P+D" morpho="g=m|n=s" head="7" dep="mod">Au</word>
+          <word id="2" lem="sens" postag="NC" morpho="g=m" head="1" dep="prep">sens</word>
+          <word id="3" lem="dériver" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">dérivé</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="talus" postag="NC" morpho="g=m" head="7" dep="suj">talus</word>
+          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
+          <word id="9" lem="face" postag="NC" morpho="g=f|n=s" head="7" dep="ats">face</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
+          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
+          <word id="12" lem="parement" postag="NC" morpho="g=m|n=s" head="10" dep="prep">parement</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+          <word id="14" lem="mur" postag="NC" morpho="g=m|n=s" head="13" dep="prep">mur</word>
+          <word id="15" lem="présenter" postag="VPR" morpho="t=pst" head="12" dep="mod">présentant</word>
+          <word id="16" lem="une" postag="DET" morpho="g=f|n=s" head="17" dep="det">une</word>
+          <word id="17" lem="inclinaison" postag="NC" morpho="g=f|n=s" head="15" dep="obj">inclinaison</word>
+          <word id="18" lem="plus" postag="ADV" morpho="_" head="19" dep="mod">plus</word>
+          <word id="19" lem="grand" postag="ADJ" morpho="g=f|n=s" head="17" dep="mod">grande</word>
+          <word id="20" lem="que" postag="CS" morpho="_" head="19" dep="dep">que</word>
+          <word id="21" lem="le" postag="DET" morpho="g=m|n=s" head="22" dep="det">le</word>
+          <word id="22" lem="fruit" postag="NC" morpho="g=m|n=s" head="20" dep="sub">fruit</word>
+          <word id="23" lem="mais" postag="CC" morpho="_" head="22" dep="coord">mais</word>
+          <word id="24" lem="moins" postag="ADV" morpho="_" head="25" dep="mod">moins</word>
+          <word id="25" lem="grand" postag="ADJ" morpho="g=f|n=s" head="23" dep="dep_coord">grande</word>
+          <word id="26" lem="que" postag="CS" morpho="_" head="25" dep="dep">que</word>
+          <word id="27" lem="le" postag="DET" morpho="g=m|n=s" head="28" dep="det">le</word>
+          <word id="28" lem="glacis" postag="NC" morpho="g=m" head="26" dep="sub">glacis</word>
+          <word id="29" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="dans" postag="P" morpho="_" head="11" dep="mod">Dans</word>
+          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
+          <word id="3" lem="talus" postag="NC" morpho="g=m" head="1" dep="prep">talus</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
+          <word id="6" lem="angle" postag="NC" morpho="g=m|n=s" head="11" dep="suj">angle</word>
+          <word id="7" lem="former" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">formé</word>
+          <word id="8" lem="avec" postag="P" morpho="_" head="7" dep="mod">avec</word>
+          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
+          <word id="10" lem="horizontale" postag="NC" morpho="g=f|n=s" head="8" dep="prep">horizontale</word>
+          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="12" lem="supérieur" postag="ADJ" morpho="g=m|n=s" head="11" dep="ats">supérieur</word>
+          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
+          <word id="14" lem="#NUM#" postag="DET" morpho="n=p" head="15" dep="det">30</word>
+          <word id="15" lem="°" postag="NC" morpho="g=m" head="13" dep="prep">°</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
+          <word id="2" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="de_obj">de</word>
+          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
+          <word id="5" lem="mur" postag="NC" morpho="g=m|n=s" head="3" dep="prep">mur</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">taluté</word>
+          <word id="7" lem="&quot;" postag="PONCT" morpho="_" head="5" dep="ponct">"</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="géographie" postag="NC" morpho="g=f|n=s" head="0" dep="_">Géographie</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="talus" postag="NC" morpho="g=m" head="3" dep="suj">talus</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="terrain" postag="NC" morpho="g=m|n=s" head="3" dep="ats">terrain</word>
+          <word id="6" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
+          <word id="7" lem="fort" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">forte</word>
+          <word id="8" lem="pente" postag="NC" morpho="g=f|n=s" head="6" dep="prep">pente</word>
+          <word id="9" lem="qui" postag="PROREL" morpho="n=s" head="10" dep="suj">qui</word>
+          <word id="10" lem="limiter" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="mod_rel">limite</word>
+          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+          <word id="12" lem="plaine" postag="NC" morpho="g=f|n=s" head="10" dep="obj">plaine</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
+          <word id="15" lem="glacis" postag="NC" morpho="g=m" head="3" dep="ats">glacis</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
+          <word id="18" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="ats">plateau</word>
+          <word id="19" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="20" lem="une" postag="DET" morpho="g=f|n=s" head="21" dep="det">une</word>
+          <word id="21" lem="banquette" postag="NC" morpho="g=f|n=s" head="3" dep="ats">banquette</word>
+          <word id="22" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="23" lem="une" postag="DET" morpho="g=f|n=s" head="24" dep="det">une</word>
+          <word id="24" lem="terrasse" postag="NC" morpho="g=f|n=s" head="3" dep="ats">terrasse</word>
+          <word id="25" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="26" lem="un" postag="DET" morpho="g=m|n=s" head="27" dep="det">un</word>
+          <word id="27" lem="fossé" postag="NC" morpho="g=m|n=s" head="3" dep="ats">fossé</word>
+          <word id="28" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+          <word id="29" lem="une" postag="DET" morpho="g=f|n=s" head="30" dep="det">une</word>
+          <word id="30" lem="tranchée" postag="NC" morpho="g=f|n=s" head="3" dep="ats">tranchée</word>
+          <word id="31" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="talus" postag="NC" morpho="g=m" head="4" dep="suj">talus</word>
+          <word id="3" lem="continental" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">continental</word>
+          <word id="4" lem="séparer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">sépare</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="plateau" postag="NC" morpho="g=m|n=s" head="4" dep="obj">plateau</word>
+          <word id="7" lem="continental" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">continental</word>
+          <word id="8" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
+          <word id="9" lem="plaine" postag="NC" morpho="g=f|n=p" head="8" dep="prep">plaines</word>
+          <word id="10" lem="abyssal" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">abyssales</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="talus" postag="NC" morpho="g=m" head="3" dep="suj">talus</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
+          <word id="5" lem="principal" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">principaux</word>
+          <word id="6" lem="élément" postag="NC" morpho="g=m|n=p" head="3" dep="ats">éléments</word>
+          <word id="7" lem="constitutif" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">constitutifs</word>
+          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
+          <word id="9" lem="bocage" postag="NC" morpho="g=m|n=s" head="8" dep="prep">bocage</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="localité" postag="NC" morpho="g=f|n=s" head="0" dep="root">Localité</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Talus-Saint-Prix</word>
+          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
+          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="Marne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Marne</word>
+          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="géographie" postag="NC" morpho="g=f|n=s" head="0" dep="_">Géographie</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+        <word id="2" lem="talus" postag="NC" morpho="g=m" head="3" dep="suj">talus</word>
+        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+        <word id="5" lem="terrain" postag="NC" morpho="g=m|n=s" head="3" dep="ats">terrain</word>
+        <word id="6" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
+        <word id="7" lem="fort" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">forte</word>
+        <word id="8" lem="pente" postag="NC" morpho="g=f|n=s" head="6" dep="prep">pente</word>
+        <word id="9" lem="qui" postag="PROREL" morpho="n=s" head="10" dep="suj">qui</word>
+        <word id="10" lem="limiter" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="mod_rel">limite</word>
+        <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+        <word id="12" lem="plaine" postag="NC" morpho="g=f|n=s" head="10" dep="obj">plaine</word>
+        <word id="13" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
+        <word id="15" lem="glacis" postag="NC" morpho="g=m" head="3" dep="ats">glacis</word>
+        <word id="16" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
+        <word id="18" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="ats">plateau</word>
+        <word id="19" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="20" lem="une" postag="DET" morpho="g=f|n=s" head="21" dep="det">une</word>
+        <word id="21" lem="banquette" postag="NC" morpho="g=f|n=s" head="3" dep="ats">banquette</word>
+        <word id="22" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="23" lem="une" postag="DET" morpho="g=f|n=s" head="24" dep="det">une</word>
+        <word id="24" lem="terrasse" postag="NC" morpho="g=f|n=s" head="3" dep="ats">terrasse</word>
+        <word id="25" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="26" lem="un" postag="DET" morpho="g=m|n=s" head="27" dep="det">un</word>
+        <word id="27" lem="fossé" postag="NC" morpho="g=m|n=s" head="3" dep="ats">fossé</word>
+        <word id="28" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="29" lem="une" postag="DET" morpho="g=f|n=s" head="30" dep="det">une</word>
+        <word id="30" lem="tranchée" postag="NC" morpho="g=f|n=s" head="3" dep="ats">tranchée</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="talus" postag="NC" morpho="g=m" head="4" dep="suj">talus</word>
+          <word id="3" lem="continental" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">continental</word>
+          <word id="4" lem="séparer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">sépare</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="plateau" postag="NC" morpho="g=m|n=s" head="4" dep="obj">plateau</word>
+          <word id="7" lem="continental" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">continental</word>
+          <word id="8" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
+          <word id="9" lem="plaine" postag="NC" morpho="g=f|n=p" head="8" dep="prep">plaines</word>
+          <word id="10" lem="abyssal" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">abyssales</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="talus" postag="NC" morpho="g=m" head="3" dep="suj">talus</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
+          <word id="5" lem="principal" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">principaux</word>
+          <word id="6" lem="élément" postag="NC" morpho="g=m|n=p" head="3" dep="ats">éléments</word>
+          <word id="7" lem="constitutif" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">constitutifs</word>
+          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
+          <word id="9" lem="bocage" postag="NC" morpho="g=m|n=s" head="8" dep="prep">bocage</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:12</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+        <word id="2" lem="talus" postag="NC" morpho="g=m" head="3" dep="suj">talus</word>
+        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+        <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+        <word id="5" lem="terrain" postag="NC" morpho="g=m|n=s" head="3" dep="ats">terrain</word>
+        <word id="6" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
+        <word id="7" lem="fort" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">forte</word>
+        <word id="8" lem="pente" postag="NC" morpho="g=f|n=s" head="6" dep="prep">pente</word>
+        <word id="9" lem="qui" postag="PROREL" morpho="n=s" head="10" dep="suj">qui</word>
+        <word id="10" lem="limiter" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="mod_rel">limite</word>
+        <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
+        <word id="12" lem="plaine" postag="NC" morpho="g=f|n=s" head="10" dep="obj">plaine</word>
+        <word id="13" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
+        <word id="15" lem="glacis" postag="NC" morpho="g=m" head="3" dep="ats">glacis</word>
+        <word id="16" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
+        <word id="18" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="ats">plateau</word>
+        <word id="19" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="20" lem="une" postag="DET" morpho="g=f|n=s" head="21" dep="det">une</word>
+        <word id="21" lem="banquette" postag="NC" morpho="g=f|n=s" head="3" dep="ats">banquette</word>
+        <word id="22" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="23" lem="une" postag="DET" morpho="g=f|n=s" head="24" dep="det">une</word>
+        <word id="24" lem="terrasse" postag="NC" morpho="g=f|n=s" head="3" dep="ats">terrasse</word>
+        <word id="25" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="26" lem="un" postag="DET" morpho="g=m|n=s" head="27" dep="det">un</word>
+        <word id="27" lem="fossé" postag="NC" morpho="g=m|n=s" head="3" dep="ats">fossé</word>
+        <word id="28" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
+        <word id="29" lem="une" postag="DET" morpho="g=f|n=s" head="30" dep="det">une</word>
+        <word id="30" lem="tranchée" postag="NC" morpho="g=f|n=s" head="3" dep="ats">tranchée</word>
+        <word id="31" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:12</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="talus" postag="NC" morpho="g=m" head="4" dep="suj">talus</word>
+          <word id="3" lem="continental" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">continental</word>
+          <word id="4" lem="séparer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">sépare</word>
+          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
+          <word id="6" lem="plateau" postag="NC" morpho="g=m|n=s" head="4" dep="obj">plateau</word>
+          <word id="7" lem="continental" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">continental</word>
+          <word id="8" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
+          <word id="9" lem="plaine" postag="NC" morpho="g=f|n=p" head="8" dep="prep">plaines</word>
+          <word id="10" lem="abyssal" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">abyssales</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="talus" postag="NC" morpho="g=m" head="3" dep="suj">talus</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
+          <word id="5" lem="principal" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">principaux</word>
+          <word id="6" lem="élément" postag="NC" morpho="g=m|n=p" head="3" dep="ats">éléments</word>
+          <word id="7" lem="constitutif" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">constitutifs</word>
+          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
+          <word id="9" lem="bocage" postag="NC" morpho="g=m|n=s" head="8" dep="prep">bocage</word>
+          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="6" />
+      <text>Talus</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="8" end="51" id="0" />
+      <text id="0">Anatomie
+Talus est synonyme d'os astragale.</text>
+      <span begin="52" end="576" id="1" />
+      <text id="1">Architecture
+Au sens premier, le talus d'un parement de mur désigne la pente ou inclinaison qui est donnée au parement de façon à ce qu'il soit de profil légèrement oblique et non pas rigoureusement vertical et ce afin d'obtenir une plus grande stabilité. On parle de mur « à talus ». Au sens dérivé, le talus est la face d'un parement de mur présentant une inclinaison plus grande que le fruit mais moins grande que le glacis. Dans le talus, l'angle formé avec l'horizontale est supérieur à 30°. On parle de « mur taluté ».</text>
+      <span begin="577" end="862" id="2" />
+      <text id="2">Géographie
+Un talus est un terrain en forte pente qui limite une plaine, un glacis, un plateau, une banquette, une terrasse, un fossé, une tranchée.
+Le talus continental sépare le plateau continental des plaines abyssales.
+Les talus sont les principaux éléments constitutifs du bocage.</text>
+      <span begin="863" end="927" id="3" />
+      <text id="3">Localité
+Talus-Saint-Prix est une commune française de la Marne.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="148" />
+      <text>Géographie
+Un talus est un terrain en forte pente qui limite une plaine, un glacis, un plateau, une banquette, une terrasse, un fossé, une tranchée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="150" end="223" id="0" />
+      <text id="0">Le talus continental sépare le plateau continental des plaines abyssales.</text>
+      <span begin="224" end="286" id="1" />
+      <text id="1">Les talus sont les principaux éléments constitutifs du bocage.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:12</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="138" />
+      <text>Un talus est un terrain en forte pente qui limite une plaine, un glacis, un plateau, une banquette, une terrasse, un fossé, une tranchée.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:12</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="139" end="212" id="0" />
+      <text id="0">Le talus continental sépare le plateau continental des plaines abyssales.</text>
+      <span begin="213" end="275" id="1" />
+      <text id="1">Les talus sont les principaux éléments constitutifs du bocage.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="6" id="0" />
+      <text id="0">Talus</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="8" end="16" id="0" />
+      <text id="0">Anatomie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="52" end="64" id="0" />
+      <text id="0">Architecture</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="577" end="587" id="0" />
+      <text id="0">Géographie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="863" end="872" id="0" />
+      <text id="0">Localité</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="12" end="20" id="0" />
+      <text id="0">Un talus</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="150" end="171" id="0" />
+      <text id="0">Le talus continental</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="224" end="233" id="0" />
+      <text id="0">Les talus</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="11" id="0" />
+      <text id="0">Géographie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 4:03</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="1" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 3:25</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:12</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:12</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:12</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 10:12</date>
+      <document>Talus.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="1" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

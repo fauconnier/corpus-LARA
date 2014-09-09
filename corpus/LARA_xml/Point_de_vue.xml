@@ -1,0 +1,1197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Point de vue
+
+Acceptions
+Un point de vue est l'expression d'une opinion, individuelle ou non, sur un sujet donné.;
+Le point de vue littéraire est considéré comme un aspect (par ailleurs circonscrit à une époque, une société, ou un genre littéraire...) de la relation entre l'auteur, le locuteur et l'écrit. Depuis Gérard Genette, on utilise le mot focalisation dans le même sens.
+Un point de vue ou panorama est un lieu depuis lequel la vue sur le paysage est particulièrement intéressante ou spectaculaire.
+Un point de vue critique est une approche objective et rationnelle au moyen du scepticisme et du questionnement critique. En soulignant la prévalence des faits sur les opinions, il s'oppose aux points de vue individuels et consensuels qui n'utilisent pas la logique, la raison ou la méthode scientifique comme moyen de jugement. Le point de vue critique explore la connaissance plus loin que le simple point de vue cognitif car il remet les choses en question.
+Expressions
+Pour désigner un aspect d'un sujet ou d'une personne : « (Au) point de vue moral, il va bien. »
+Littérature
+Point de vue est une nouvelle de Isaac Asimov publiée dans le recueil Nous les robots.
+Point de vue est un roman court de Gene Wolfe publié en France en 2004 dans le recueil de nouvelles Tracés du vertige.
+Presse
+Point de vue est un hebdomadaire français.
+Cinéma
+Points de vue est un court métrage français (fiction) de 35 mm de Matyas Cophy réalisé en 1999 et produit par Les Films de la Chouette.</text>
+      <span begin="3" end="1490" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Acceptions
+Un point de vue est l'expression d'une opinion, individuelle ou non, sur un sujet donné.;
+Le point de vue littéraire est considéré comme un aspect (par ailleurs circonscrit à une époque, une société, ou un genre littéraire...) de la relation entre l'auteur, le locuteur et l'écrit. Depuis Gérard Genette, on utilise le mot focalisation dans le même sens.
+Un point de vue ou panorama est un lieu depuis lequel la vue sur le paysage est particulièrement intéressante ou spectaculaire.
+Un point de vue critique est une approche objective et rationnelle au moyen du scepticisme et du questionnement critique. En soulignant la prévalence des faits sur les opinions, il s'oppose aux points de vue individuels et consensuels qui n'utilisent pas la logique, la raison ou la méthode scientifique comme moyen de jugement. Le point de vue critique explore la connaissance plus loin que le simple point de vue cognitif car il remet les choses en question.</text>
+      <span begin="17" end="971" />
+    </SE>
+    <comment>#a pour acception#</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Littérature
+Point de vue est une nouvelle de Isaac Asimov publiée dans le recueil Nous les robots.
+Point de vue est un roman court de Gene Wolfe publié en France en 2004 dans le recueil de nouvelles Tracés du vertige.</text>
+      <span begin="1080" end="1297" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="point" postag="NC" morpho="g=m|n=s" head="0" dep="_">Point</word>
+        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+        <word id="3" lem="vue" postag="NC" morpho="g=f|n=s" head="2" dep="prep">vue</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="acception" postag="NC" morpho="g=f|n=p" head="0" dep="root">Acceptions</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="5" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
+          <word id="7" lem="expression" postag="NC" morpho="g=f|n=s" head="5" dep="ats">expression</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
+          <word id="10" lem="opinion" postag="NC" morpho="g=f|n=s" head="8" dep="prep">opinion</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="12" lem="individuel" postag="ADJ" morpho="g=f|n=s" head="10" dep="mod">individuelle</word>
+          <word id="13" lem="ou" postag="CC" morpho="_" head="10" dep="coord">ou</word>
+          <word id="14" lem="non" postag="ADV" morpho="_" head="13" dep="dep_coord">non</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="16" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
+          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
+          <word id="18" lem="sujet" postag="NC" morpho="g=m|n=s" head="16" dep="prep">sujet</word>
+          <word id="19" lem="donner" postag="ADJ" morpho="g=m|n=s|t=past" head="18" dep="mod">donné</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+          <word id="21" lem=";" postag="PONCT" morpho="_" head="5" dep="ponct">;</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="7" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="littéraire" postag="ADJ" morpho="n=s" head="2" dep="mod">littéraire</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="aux_pass">est</word>
+          <word id="7" lem="considérer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">considéré</word>
+          <word id="8" lem="comme" postag="P" morpho="_" head="7" dep="ats">comme</word>
+          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
+          <word id="10" lem="aspect" postag="NC" morpho="g=m|n=s" head="8" dep="prep">aspect</word>
+          <word id="11" lem="(" postag="PONCT" morpho="_" head="10" dep="ponct">(</word>
+          <word id="12" lem="par_ailleurs" postag="ADV" morpho="_" head="13" dep="mod">par_ailleurs</word>
+          <word id="13" lem="circonscrire" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">circonscrit</word>
+          <word id="14" lem="à" postag="P" morpho="_" head="13" dep="a_obj">à</word>
+          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
+          <word id="16" lem="époque" postag="NC" morpho="g=f|n=s" head="14" dep="prep">époque</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="18" lem="une" postag="DET" morpho="g=f|n=s" head="19" dep="det">une</word>
+          <word id="19" lem="société" postag="NC" morpho="g=f|n=s" head="7" dep="obj">société</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="21" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
+          <word id="22" lem="un" postag="DET" morpho="g=m|n=s" head="23" dep="det">un</word>
+          <word id="23" lem="genre" postag="NC" morpho="g=m|n=s" head="21" dep="dep_coord">genre</word>
+          <word id="24" lem="littéraire" postag="ADJ" morpho="n=s" head="23" dep="mod">littéraire</word>
+          <word id="25" lem="..." postag="PONCT" morpho="_" head="7" dep="ponct">...</word>
+          <word id="26" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
+          <word id="27" lem="de" postag="P" morpho="_" head="7" dep="mod">de</word>
+          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
+          <word id="29" lem="relation" postag="NC" morpho="g=f|n=s" head="27" dep="prep">relation</word>
+          <word id="30" lem="entre" postag="P" morpho="_" head="29" dep="dep">entre</word>
+          <word id="31" lem="l'" postag="DET" morpho="n=s" head="32" dep="det">l'</word>
+          <word id="32" lem="auteur" postag="NC" morpho="g=m|n=s" head="30" dep="prep">auteur</word>
+          <word id="33" lem="," postag="PONCT" morpho="_" head="32" dep="coord">,</word>
+          <word id="34" lem="le" postag="DET" morpho="g=m|n=s" head="35" dep="det">le</word>
+          <word id="35" lem="locuteur" postag="NC" morpho="g=m|n=s" head="33" dep="dep_coord">locuteur</word>
+          <word id="36" lem="et" postag="CC" morpho="_" head="32" dep="coord">et</word>
+          <word id="37" lem="l'" postag="DET" morpho="n=s" head="38" dep="det">l'</word>
+          <word id="38" lem="écrit" postag="NC" morpho="g=m|n=s" head="36" dep="dep_coord">écrit</word>
+          <word id="39" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="depuis" postag="P" morpho="_" head="6" dep="mod">Depuis</word>
+          <word id="2" lem="Gérard" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">Gérard</word>
+          <word id="3" lem="Genette" postag="NPP" morpho="g=f|n=s" head="2" dep="mod">Genette</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="5" lem="on" postag="CLS" morpho="n=s|p=3" head="6" dep="suj">on</word>
+          <word id="6" lem="utiliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">utilise</word>
+          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
+          <word id="8" lem="mot" postag="NC" morpho="g=m|n=s" head="6" dep="obj">mot</word>
+          <word id="9" lem="focalisation" postag="NC" morpho="g=f|n=s" head="8" dep="mod">focalisation</word>
+          <word id="10" lem="dans" postag="P" morpho="_" head="6" dep="mod">dans</word>
+          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
+          <word id="12" lem="même" postag="ADJ" morpho="n=s" head="13" dep="mod">même</word>
+          <word id="13" lem="sens" postag="NC" morpho="g=m" head="10" dep="prep">sens</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="7" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="6" lem="panorama" postag="NC" morpho="g=m|n=s" head="5" dep="dep_coord">panorama</word>
+          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
+          <word id="9" lem="lieu" postag="NC" morpho="g=m|n=s" head="7" dep="ats">lieu</word>
+          <word id="10" lem="depuis" postag="P" morpho="_" head="7" dep="mod">depuis</word>
+          <word id="11" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="10" dep="prep">lequel</word>
+          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
+          <word id="13" lem="vue" postag="NC" morpho="g=f|n=s" head="10" dep="prep">vue</word>
+          <word id="14" lem="sur" postag="P" morpho="_" head="13" dep="dep">sur</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+          <word id="16" lem="paysage" postag="NC" morpho="g=m|n=s" head="14" dep="prep">paysage</word>
+          <word id="17" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="mod">est</word>
+          <word id="18" lem="particulièrement" postag="ADV" morpho="_" head="19" dep="mod">particulièrement</word>
+          <word id="19" lem="intéressant" postag="ADJ" morpho="g=f|n=s" head="17" dep="ats">intéressante</word>
+          <word id="20" lem="ou" postag="CC" morpho="_" head="19" dep="coord">ou</word>
+          <word id="21" lem="spectaculaire" postag="ADJ" morpho="n=s" head="20" dep="dep_coord">spectaculaire</word>
+          <word id="22" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="6" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="critique" postag="ADJ" morpho="n=s" head="2" dep="mod">critique</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="approche" postag="NC" morpho="g=f|n=s" head="6" dep="ats">approche</word>
+          <word id="9" lem="objectif" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">objective</word>
+          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
+          <word id="11" lem="rationnel" postag="ADJ" morpho="g=f|n=s" head="10" dep="dep_coord">rationnelle</word>
+          <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">au</word>
+          <word id="13" lem="moyen" postag="NC" morpho="g=m|n=s" head="12" dep="prep">moyen</word>
+          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+          <word id="15" lem="scepticisme" postag="NC" morpho="g=m|n=s" head="14" dep="prep">scepticisme</word>
+          <word id="16" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
+          <word id="17" lem="de" postag="P+D" morpho="g=m|n=s" head="16" dep="dep_coord">du</word>
+          <word id="18" lem="questionnement" postag="NC" morpho="g=m|n=s" head="17" dep="prep">questionnement</word>
+          <word id="19" lem="critique" postag="ADJ" morpho="n=s" head="18" dep="mod">critique</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+        <sentence id="7">
+          <word id="1" lem="en" postag="P" morpho="_" head="13" dep="mod">En</word>
+          <word id="2" lem="souligner" postag="VPR" morpho="t=pst" head="1" dep="prep">soulignant</word>
+          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
+          <word id="4" lem="prévalence" postag="NC" morpho="g=f|n=s" head="2" dep="obj">prévalence</word>
+          <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
+          <word id="6" lem="fait" postag="NC" morpho="g=m|n=p" head="5" dep="prep">faits</word>
+          <word id="7" lem="sur" postag="P" morpho="_" head="2" dep="mod">sur</word>
+          <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
+          <word id="9" lem="opinion" postag="NC" morpho="g=f|n=p" head="7" dep="prep">opinions</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+          <word id="11" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="13" dep="suj">il</word>
+          <word id="12" lem="se" postag="CLR" morpho="p=3" head="13" dep="aff">s'</word>
+          <word id="13" lem="opposer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">oppose</word>
+          <word id="14" lem="à" postag="P+D" morpho="n=p" head="13" dep="a_obj">aux</word>
+          <word id="15" lem="point" postag="NC" morpho="g=m|n=p" head="14" dep="prep">points</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
+          <word id="17" lem="vue" postag="NC" morpho="g=f|n=s" head="16" dep="prep">vue</word>
+          <word id="18" lem="individuel" postag="ADJ" morpho="g=m|n=p" head="15" dep="mod">individuels</word>
+          <word id="19" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
+          <word id="20" lem="consensuel" postag="ADJ" morpho="g=m|n=p" head="19" dep="dep_coord">consensuels</word>
+          <word id="21" lem="qui" postag="PROREL" morpho="n=s" head="23" dep="suj">qui</word>
+          <word id="22" lem="ne" postag="ADV" morpho="_" head="23" dep="mod">n'</word>
+          <word id="23" lem="utiliser" postag="V" morpho="n=p|p=3|t=pst" head="15" dep="mod_rel">utilisent</word>
+          <word id="24" lem="pas" postag="ADV" morpho="_" head="23" dep="mod">pas</word>
+          <word id="25" lem="la" postag="DET" morpho="g=f|n=s" head="26" dep="det">la</word>
+          <word id="26" lem="logique" postag="NC" morpho="g=f|n=s" head="23" dep="obj">logique</word>
+          <word id="27" lem="," postag="PONCT" morpho="_" head="26" dep="coord">,</word>
+          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
+          <word id="29" lem="raison" postag="NC" morpho="g=f|n=s" head="27" dep="dep_coord">raison</word>
+          <word id="30" lem="ou" postag="CC" morpho="_" head="26" dep="coord">ou</word>
+          <word id="31" lem="la" postag="DET" morpho="g=f|n=s" head="32" dep="det">la</word>
+          <word id="32" lem="méthode" postag="NC" morpho="g=f|n=s" head="30" dep="dep_coord">méthode</word>
+          <word id="33" lem="scientifique" postag="ADJ" morpho="n=s" head="32" dep="mod">scientifique</word>
+          <word id="34" lem="comme" postag="P" morpho="_" head="23" dep="mod">comme</word>
+          <word id="35" lem="moyen" postag="NC" morpho="g=m|n=s" head="34" dep="prep">moyen</word>
+          <word id="36" lem="de" postag="P" morpho="_" head="35" dep="dep">de</word>
+          <word id="37" lem="jugement" postag="NC" morpho="g=m|n=s" head="36" dep="prep">jugement</word>
+          <word id="38" lem="." postag="PONCT" morpho="_" head="13" dep="ponct">.</word>
+        </sentence>
+        <sentence id="8">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="6" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="critique" postag="ADJ" morpho="n=s" head="2" dep="mod">critique</word>
+          <word id="6" lem="explorer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">explore</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="connaissance" postag="NC" morpho="g=f|n=s" head="6" dep="obj">connaissance</word>
+          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
+          <word id="10" lem="loin" postag="ADV" morpho="_" head="8" dep="mod">loin</word>
+          <word id="11" lem="que" postag="CS" morpho="_" head="10" dep="dep">que</word>
+          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
+          <word id="13" lem="simple" postag="ADJ" morpho="n=s" head="14" dep="mod">simple</word>
+          <word id="14" lem="point" postag="NC" morpho="g=m|n=s" head="11" dep="sub">point</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="vue" postag="NC" morpho="g=f|n=s" head="15" dep="prep">vue</word>
+          <word id="17" lem="cognitif" postag="ADJ" morpho="g=m|n=s" head="14" dep="mod">cognitif</word>
+          <word id="18" lem="car" postag="CS" morpho="_" head="6" dep="mod">car</word>
+          <word id="19" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="20" dep="suj">il</word>
+          <word id="20" lem="remettre" postag="V" morpho="n=s|p=3|t=pst" head="18" dep="sub">remet</word>
+          <word id="21" lem="les" postag="DET" morpho="n=p" head="22" dep="det">les</word>
+          <word id="22" lem="chose" postag="NC" morpho="g=f|n=p" head="20" dep="obj">choses</word>
+          <word id="23" lem="en" postag="P" morpho="_" head="22" dep="dep">en</word>
+          <word id="24" lem="question" postag="NC" morpho="g=f|n=s" head="23" dep="prep">question</word>
+          <word id="25" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="expression" postag="NC" morpho="g=f|n=p" head="0" dep="_">Expressions</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="pour" postag="P" morpho="_" head="23" dep="mod">Pour</word>
+          <word id="2" lem="désigner" postag="VINF" morpho="_" head="1" dep="prep">désigner</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="aspect" postag="NC" morpho="g=m|n=s" head="2" dep="obj">aspect</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="7" lem="sujet" postag="NC" morpho="g=m|n=s" head="5" dep="prep">sujet</word>
+          <word id="8" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep_coord">d'</word>
+          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+          <word id="11" lem="personne" postag="NC" morpho="g=f|n=s" head="9" dep="prep">personne</word>
+          <word id="12" lem=":" postag="PONCT" morpho="_" head="23" dep="ponct">:</word>
+          <word id="13" lem="&quot;" postag="PONCT" morpho="_" head="23" dep="ponct">"</word>
+          <word id="14" lem="(" postag="PONCT" morpho="_" head="23" dep="ponct">(</word>
+          <word id="15" lem="à" postag="P+D" morpho="g=m|n=s" head="23" dep="mod">Au</word>
+          <word id="16" lem=")" postag="PONCT" morpho="_" head="17" dep="ponct">)</word>
+          <word id="17" lem="point" postag="NC" morpho="g=m|n=s" head="15" dep="prep">point</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
+          <word id="19" lem="vue" postag="NC" morpho="g=f|n=s" head="18" dep="prep">vue</word>
+          <word id="20" lem="moral" postag="ADJ" morpho="g=m|n=s" head="17" dep="mod">moral</word>
+          <word id="21" lem="," postag="PONCT" morpho="_" head="23" dep="ponct">,</word>
+          <word id="22" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="23" dep="suj">il</word>
+          <word id="23" lem="aller" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">va</word>
+          <word id="24" lem="bien" postag="ADV" morpho="_" head="23" dep="mod">bien</word>
+          <word id="25" lem="." postag="PONCT" morpho="_" head="23" dep="ponct">.</word>
+          <word id="26" lem="&quot;" postag="PONCT" morpho="_" head="23" dep="ponct">"</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="littérature" postag="NC" morpho="g=f|n=s" head="0" dep="root">Littérature</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="point" postag="NC" morpho="g=m|n=s" head="4" dep="suj">Point</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="vue" postag="NC" morpho="g=f|n=s" head="2" dep="prep">vue</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
+          <word id="6" lem="nouveau" postag="ADJ" morpho="g=f|n=s" head="4" dep="ats">nouvelle</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="mod">de</word>
+          <word id="8" lem="Isaac" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Isaac</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Asimov</word>
+          <word id="10" lem="publier" postag="VPP" morpho="g=f|n=s|t=past" head="6" dep="mod">publiée</word>
+          <word id="11" lem="dans" postag="P" morpho="_" head="10" dep="mod">dans</word>
+          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
+          <word id="13" lem="recueil" postag="NC" morpho="g=m|n=s" head="11" dep="prep">recueil</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="mod">Nous</word>
+          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
+          <word id="16" lem="robot" postag="NC" morpho="g=m|n=p" head="10" dep="obj">robots</word>
+          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="point" postag="NC" morpho="g=m|n=s" head="4" dep="suj">Point</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="vue" postag="NC" morpho="g=f|n=s" head="2" dep="prep">vue</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="roman" postag="NC" morpho="g=m|n=s" head="4" dep="ats">roman</word>
+          <word id="7" lem="court" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">court</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="9" lem="Gene" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Gene</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Wolfe</word>
+          <word id="11" lem="publier" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">publié</word>
+          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
+          <word id="13" lem="France" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">France</word>
+          <word id="14" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
+          <word id="15" lem="_" postag="NC" morpho="_" head="14" dep="prep">2004</word>
+          <word id="16" lem="dans" postag="P" morpho="_" head="11" dep="mod">dans</word>
+          <word id="17" lem="le" postag="DET" morpho="g=m|n=s" head="18" dep="det">le</word>
+          <word id="18" lem="recueil" postag="NC" morpho="g=m|n=s" head="16" dep="prep">recueil</word>
+          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
+          <word id="20" lem="nouveau" postag="ADJ" morpho="g=f|n=p" head="21" dep="mod">nouvelles</word>
+          <word id="21" lem="_" postag="NC" morpho="_" head="19" dep="prep">Tracés</word>
+          <word id="22" lem="de" postag="P+D" morpho="g=m|n=s" head="21" dep="dep">du</word>
+          <word id="23" lem="vertige" postag="NC" morpho="g=m|n=s" head="22" dep="prep">vertige</word>
+          <word id="24" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="presse" postag="NC" morpho="g=f|n=s" head="0" dep="_">Presse</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="point" postag="NC" morpho="g=m|n=s" head="4" dep="suj">Point</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="vue" postag="NC" morpho="g=f|n=s" head="2" dep="prep">vue</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="hebdomadaire" postag="NC" morpho="g=m|n=s" head="4" dep="ats">hebdomadaire</word>
+          <word id="7" lem="français" postag="ADJ" morpho="g=m" head="6" dep="mod">français</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="cinéma" postag="NC" morpho="g=m|n=s" head="0" dep="root">Cinéma</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="point" postag="NC" morpho="g=m|n=p" head="4" dep="suj">Points</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="vue" postag="NC" morpho="g=f|n=s" head="2" dep="prep">vue</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
+          <word id="6" lem="court" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">court</word>
+          <word id="7" lem="métrage" postag="NC" morpho="g=m|n=s" head="4" dep="ats">métrage</word>
+          <word id="8" lem="français" postag="ADJ" morpho="g=m" head="7" dep="mod">français</word>
+          <word id="9" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
+          <word id="10" lem="fiction" postag="NC" morpho="g=f|n=s" head="7" dep="mod">fiction</word>
+          <word id="11" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+          <word id="13" lem="#NUM#" postag="DET" morpho="n=p" head="14" dep="det">35</word>
+          <word id="14" lem="millimètre" postag="NC" morpho="g=m" head="12" dep="prep">mm</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Matyas</word>
+          <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="mod">Cophy</word>
+          <word id="18" lem="réaliser" postag="VPP" morpho="g=m|n=s|t=past" head="14" dep="mod">réalisé</word>
+          <word id="19" lem="en" postag="P" morpho="_" head="18" dep="mod">en</word>
+          <word id="20" lem="_" postag="NC" morpho="_" head="19" dep="prep">1999</word>
+          <word id="21" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
+          <word id="22" lem="produire" postag="VPP" morpho="g=m|n=s|t=past" head="21" dep="dep_coord">produit</word>
+          <word id="23" lem="par" postag="P" morpho="_" head="22" dep="p_obj">par</word>
+          <word id="24" lem="_" postag="NPP" morpho="_" head="23" dep="prep">Les</word>
+          <word id="25" lem="_" postag="NPP" morpho="_" head="24" dep="mod">Films</word>
+          <word id="26" lem="de" postag="P" morpho="_" head="22" dep="de_obj">de</word>
+          <word id="27" lem="la" postag="DET" morpho="g=f|n=s" head="28" dep="det">la</word>
+          <word id="28" lem="_" postag="NPP" morpho="_" head="26" dep="prep">Chouette</word>
+          <word id="29" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="acception" postag="NC" morpho="g=f|n=p" head="0" dep="root">Acceptions</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="5" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
+          <word id="7" lem="expression" postag="NC" morpho="g=f|n=s" head="5" dep="ats">expression</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
+          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
+          <word id="10" lem="opinion" postag="NC" morpho="g=f|n=s" head="8" dep="prep">opinion</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+          <word id="12" lem="individuel" postag="ADJ" morpho="g=f|n=s" head="10" dep="mod">individuelle</word>
+          <word id="13" lem="ou" postag="CC" morpho="_" head="10" dep="coord">ou</word>
+          <word id="14" lem="non" postag="ADV" morpho="_" head="13" dep="dep_coord">non</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="16" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
+          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
+          <word id="18" lem="sujet" postag="NC" morpho="g=m|n=s" head="16" dep="prep">sujet</word>
+          <word id="19" lem="donner" postag="ADJ" morpho="g=m|n=s|t=past" head="18" dep="mod">donné</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+          <word id="21" lem=";" postag="PONCT" morpho="_" head="5" dep="ponct">;</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="7" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="littéraire" postag="ADJ" morpho="n=s" head="2" dep="mod">littéraire</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="aux_pass">est</word>
+          <word id="7" lem="considérer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">considéré</word>
+          <word id="8" lem="comme" postag="P" morpho="_" head="7" dep="ats">comme</word>
+          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
+          <word id="10" lem="aspect" postag="NC" morpho="g=m|n=s" head="8" dep="prep">aspect</word>
+          <word id="11" lem="(" postag="PONCT" morpho="_" head="10" dep="ponct">(</word>
+          <word id="12" lem="par_ailleurs" postag="ADV" morpho="_" head="13" dep="mod">par_ailleurs</word>
+          <word id="13" lem="circonscrire" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">circonscrit</word>
+          <word id="14" lem="à" postag="P" morpho="_" head="13" dep="a_obj">à</word>
+          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
+          <word id="16" lem="époque" postag="NC" morpho="g=f|n=s" head="14" dep="prep">époque</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="18" lem="une" postag="DET" morpho="g=f|n=s" head="19" dep="det">une</word>
+          <word id="19" lem="société" postag="NC" morpho="g=f|n=s" head="7" dep="obj">société</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="21" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
+          <word id="22" lem="un" postag="DET" morpho="g=m|n=s" head="23" dep="det">un</word>
+          <word id="23" lem="genre" postag="NC" morpho="g=m|n=s" head="21" dep="dep_coord">genre</word>
+          <word id="24" lem="littéraire" postag="ADJ" morpho="n=s" head="23" dep="mod">littéraire</word>
+          <word id="25" lem="..." postag="PONCT" morpho="_" head="7" dep="ponct">...</word>
+          <word id="26" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
+          <word id="27" lem="de" postag="P" morpho="_" head="7" dep="mod">de</word>
+          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
+          <word id="29" lem="relation" postag="NC" morpho="g=f|n=s" head="27" dep="prep">relation</word>
+          <word id="30" lem="entre" postag="P" morpho="_" head="29" dep="dep">entre</word>
+          <word id="31" lem="l'" postag="DET" morpho="n=s" head="32" dep="det">l'</word>
+          <word id="32" lem="auteur" postag="NC" morpho="g=m|n=s" head="30" dep="prep">auteur</word>
+          <word id="33" lem="," postag="PONCT" morpho="_" head="32" dep="coord">,</word>
+          <word id="34" lem="le" postag="DET" morpho="g=m|n=s" head="35" dep="det">le</word>
+          <word id="35" lem="locuteur" postag="NC" morpho="g=m|n=s" head="33" dep="dep_coord">locuteur</word>
+          <word id="36" lem="et" postag="CC" morpho="_" head="32" dep="coord">et</word>
+          <word id="37" lem="l'" postag="DET" morpho="n=s" head="38" dep="det">l'</word>
+          <word id="38" lem="écrit" postag="NC" morpho="g=m|n=s" head="36" dep="dep_coord">écrit</word>
+          <word id="39" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="depuis" postag="P" morpho="_" head="6" dep="mod">Depuis</word>
+          <word id="2" lem="Gérard" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">Gérard</word>
+          <word id="3" lem="Genette" postag="NPP" morpho="g=f|n=s" head="2" dep="mod">Genette</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="5" lem="on" postag="CLS" morpho="n=s|p=3" head="6" dep="suj">on</word>
+          <word id="6" lem="utiliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">utilise</word>
+          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
+          <word id="8" lem="mot" postag="NC" morpho="g=m|n=s" head="6" dep="obj">mot</word>
+          <word id="9" lem="focalisation" postag="NC" morpho="g=f|n=s" head="8" dep="mod">focalisation</word>
+          <word id="10" lem="dans" postag="P" morpho="_" head="6" dep="mod">dans</word>
+          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
+          <word id="12" lem="même" postag="ADJ" morpho="n=s" head="13" dep="mod">même</word>
+          <word id="13" lem="sens" postag="NC" morpho="g=m" head="10" dep="prep">sens</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="7" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="6" lem="panorama" postag="NC" morpho="g=m|n=s" head="5" dep="dep_coord">panorama</word>
+          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
+          <word id="9" lem="lieu" postag="NC" morpho="g=m|n=s" head="7" dep="ats">lieu</word>
+          <word id="10" lem="depuis" postag="P" morpho="_" head="7" dep="mod">depuis</word>
+          <word id="11" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="10" dep="prep">lequel</word>
+          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
+          <word id="13" lem="vue" postag="NC" morpho="g=f|n=s" head="10" dep="prep">vue</word>
+          <word id="14" lem="sur" postag="P" morpho="_" head="13" dep="dep">sur</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
+          <word id="16" lem="paysage" postag="NC" morpho="g=m|n=s" head="14" dep="prep">paysage</word>
+          <word id="17" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="mod">est</word>
+          <word id="18" lem="particulièrement" postag="ADV" morpho="_" head="19" dep="mod">particulièrement</word>
+          <word id="19" lem="intéressant" postag="ADJ" morpho="g=f|n=s" head="17" dep="ats">intéressante</word>
+          <word id="20" lem="ou" postag="CC" morpho="_" head="19" dep="coord">ou</word>
+          <word id="21" lem="spectaculaire" postag="ADJ" morpho="n=s" head="20" dep="dep_coord">spectaculaire</word>
+          <word id="22" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="6" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="critique" postag="ADJ" morpho="n=s" head="2" dep="mod">critique</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
+          <word id="8" lem="approche" postag="NC" morpho="g=f|n=s" head="6" dep="ats">approche</word>
+          <word id="9" lem="objectif" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">objective</word>
+          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
+          <word id="11" lem="rationnel" postag="ADJ" morpho="g=f|n=s" head="10" dep="dep_coord">rationnelle</word>
+          <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">au</word>
+          <word id="13" lem="moyen" postag="NC" morpho="g=m|n=s" head="12" dep="prep">moyen</word>
+          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
+          <word id="15" lem="scepticisme" postag="NC" morpho="g=m|n=s" head="14" dep="prep">scepticisme</word>
+          <word id="16" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
+          <word id="17" lem="de" postag="P+D" morpho="g=m|n=s" head="16" dep="dep_coord">du</word>
+          <word id="18" lem="questionnement" postag="NC" morpho="g=m|n=s" head="17" dep="prep">questionnement</word>
+          <word id="19" lem="critique" postag="ADJ" morpho="n=s" head="18" dep="mod">critique</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="en" postag="P" morpho="_" head="13" dep="mod">En</word>
+          <word id="2" lem="souligner" postag="VPR" morpho="t=pst" head="1" dep="prep">soulignant</word>
+          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
+          <word id="4" lem="prévalence" postag="NC" morpho="g=f|n=s" head="2" dep="obj">prévalence</word>
+          <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
+          <word id="6" lem="fait" postag="NC" morpho="g=m|n=p" head="5" dep="prep">faits</word>
+          <word id="7" lem="sur" postag="P" morpho="_" head="2" dep="mod">sur</word>
+          <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
+          <word id="9" lem="opinion" postag="NC" morpho="g=f|n=p" head="7" dep="prep">opinions</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+          <word id="11" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="13" dep="suj">il</word>
+          <word id="12" lem="se" postag="CLR" morpho="p=3" head="13" dep="aff">s'</word>
+          <word id="13" lem="opposer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">oppose</word>
+          <word id="14" lem="à" postag="P+D" morpho="n=p" head="13" dep="a_obj">aux</word>
+          <word id="15" lem="point" postag="NC" morpho="g=m|n=p" head="14" dep="prep">points</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
+          <word id="17" lem="vue" postag="NC" morpho="g=f|n=s" head="16" dep="prep">vue</word>
+          <word id="18" lem="individuel" postag="ADJ" morpho="g=m|n=p" head="15" dep="mod">individuels</word>
+          <word id="19" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
+          <word id="20" lem="consensuel" postag="ADJ" morpho="g=m|n=p" head="19" dep="dep_coord">consensuels</word>
+          <word id="21" lem="qui" postag="PROREL" morpho="n=s" head="23" dep="suj">qui</word>
+          <word id="22" lem="ne" postag="ADV" morpho="_" head="23" dep="mod">n'</word>
+          <word id="23" lem="utiliser" postag="V" morpho="n=p|p=3|t=pst" head="15" dep="mod_rel">utilisent</word>
+          <word id="24" lem="pas" postag="ADV" morpho="_" head="23" dep="mod">pas</word>
+          <word id="25" lem="la" postag="DET" morpho="g=f|n=s" head="26" dep="det">la</word>
+          <word id="26" lem="logique" postag="NC" morpho="g=f|n=s" head="23" dep="obj">logique</word>
+          <word id="27" lem="," postag="PONCT" morpho="_" head="26" dep="coord">,</word>
+          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
+          <word id="29" lem="raison" postag="NC" morpho="g=f|n=s" head="27" dep="dep_coord">raison</word>
+          <word id="30" lem="ou" postag="CC" morpho="_" head="26" dep="coord">ou</word>
+          <word id="31" lem="la" postag="DET" morpho="g=f|n=s" head="32" dep="det">la</word>
+          <word id="32" lem="méthode" postag="NC" morpho="g=f|n=s" head="30" dep="dep_coord">méthode</word>
+          <word id="33" lem="scientifique" postag="ADJ" morpho="n=s" head="32" dep="mod">scientifique</word>
+          <word id="34" lem="comme" postag="P" morpho="_" head="23" dep="mod">comme</word>
+          <word id="35" lem="moyen" postag="NC" morpho="g=m|n=s" head="34" dep="prep">moyen</word>
+          <word id="36" lem="de" postag="P" morpho="_" head="35" dep="dep">de</word>
+          <word id="37" lem="jugement" postag="NC" morpho="g=m|n=s" head="36" dep="prep">jugement</word>
+          <word id="38" lem="." postag="PONCT" morpho="_" head="13" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="point" postag="NC" morpho="g=m|n=s" head="6" dep="suj">point</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="vue" postag="NC" morpho="g=f|n=s" head="3" dep="prep">vue</word>
+          <word id="5" lem="critique" postag="ADJ" morpho="n=s" head="2" dep="mod">critique</word>
+          <word id="6" lem="explorer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">explore</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="connaissance" postag="NC" morpho="g=f|n=s" head="6" dep="obj">connaissance</word>
+          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
+          <word id="10" lem="loin" postag="ADV" morpho="_" head="8" dep="mod">loin</word>
+          <word id="11" lem="que" postag="CS" morpho="_" head="10" dep="dep">que</word>
+          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
+          <word id="13" lem="simple" postag="ADJ" morpho="n=s" head="14" dep="mod">simple</word>
+          <word id="14" lem="point" postag="NC" morpho="g=m|n=s" head="11" dep="sub">point</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="vue" postag="NC" morpho="g=f|n=s" head="15" dep="prep">vue</word>
+          <word id="17" lem="cognitif" postag="ADJ" morpho="g=m|n=s" head="14" dep="mod">cognitif</word>
+          <word id="18" lem="car" postag="CS" morpho="_" head="6" dep="mod">car</word>
+          <word id="19" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="20" dep="suj">il</word>
+          <word id="20" lem="remettre" postag="V" morpho="n=s|p=3|t=pst" head="18" dep="sub">remet</word>
+          <word id="21" lem="les" postag="DET" morpho="n=p" head="22" dep="det">les</word>
+          <word id="22" lem="chose" postag="NC" morpho="g=f|n=p" head="20" dep="obj">choses</word>
+          <word id="23" lem="en" postag="P" morpho="_" head="22" dep="dep">en</word>
+          <word id="24" lem="question" postag="NC" morpho="g=f|n=s" head="23" dep="prep">question</word>
+          <word id="25" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="littérature" postag="NC" morpho="g=f|n=s" head="0" dep="root">Littérature</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="point" postag="NC" morpho="g=m|n=s" head="4" dep="suj">Point</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="vue" postag="NC" morpho="g=f|n=s" head="2" dep="prep">vue</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
+          <word id="6" lem="nouveau" postag="ADJ" morpho="g=f|n=s" head="4" dep="ats">nouvelle</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="mod">de</word>
+          <word id="8" lem="Isaac" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Isaac</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Asimov</word>
+          <word id="10" lem="publier" postag="VPP" morpho="g=f|n=s|t=past" head="6" dep="mod">publiée</word>
+          <word id="11" lem="dans" postag="P" morpho="_" head="10" dep="mod">dans</word>
+          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
+          <word id="13" lem="recueil" postag="NC" morpho="g=m|n=s" head="11" dep="prep">recueil</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="mod">Nous</word>
+          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
+          <word id="16" lem="robot" postag="NC" morpho="g=m|n=p" head="10" dep="obj">robots</word>
+          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="point" postag="NC" morpho="g=m|n=s" head="4" dep="suj">Point</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="vue" postag="NC" morpho="g=f|n=s" head="2" dep="prep">vue</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="roman" postag="NC" morpho="g=m|n=s" head="4" dep="ats">roman</word>
+          <word id="7" lem="court" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">court</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="9" lem="Gene" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Gene</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Wolfe</word>
+          <word id="11" lem="publier" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">publié</word>
+          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
+          <word id="13" lem="France" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">France</word>
+          <word id="14" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
+          <word id="15" lem="_" postag="NC" morpho="_" head="14" dep="prep">2004</word>
+          <word id="16" lem="dans" postag="P" morpho="_" head="11" dep="mod">dans</word>
+          <word id="17" lem="le" postag="DET" morpho="g=m|n=s" head="18" dep="det">le</word>
+          <word id="18" lem="recueil" postag="NC" morpho="g=m|n=s" head="16" dep="prep">recueil</word>
+          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
+          <word id="20" lem="nouveau" postag="ADJ" morpho="g=f|n=p" head="21" dep="mod">nouvelles</word>
+          <word id="21" lem="_" postag="NC" morpho="_" head="19" dep="prep">Tracés</word>
+          <word id="22" lem="de" postag="P+D" morpho="g=m|n=s" head="21" dep="dep">du</word>
+          <word id="23" lem="vertige" postag="NC" morpho="g=m|n=s" head="22" dep="prep">vertige</word>
+          <word id="24" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="13" />
+      <text>Point de vue</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="15" end="969" id="0" />
+      <text id="0">Acceptions
+Un point de vue est l'expression d'une opinion, individuelle ou non, sur un sujet donné.;
+Le point de vue littéraire est considéré comme un aspect (par ailleurs circonscrit à une époque, une société, ou un genre littéraire...) de la relation entre l'auteur, le locuteur et l'écrit. Depuis Gérard Genette, on utilise le mot focalisation dans le même sens.
+Un point de vue ou panorama est un lieu depuis lequel la vue sur le paysage est particulièrement intéressante ou spectaculaire.
+Un point de vue critique est une approche objective et rationnelle au moyen du scepticisme et du questionnement critique. En soulignant la prévalence des faits sur les opinions, il s'oppose aux points de vue individuels et consensuels qui n'utilisent pas la logique, la raison ou la méthode scientifique comme moyen de jugement. Le point de vue critique explore la connaissance plus loin que le simple point de vue cognitif car il remet les choses en question.</text>
+      <span begin="970" end="1077" id="1" />
+      <text id="1">Expressions
+Pour désigner un aspect d'un sujet ou d'une personne : « (Au) point de vue moral, il va bien. »</text>
+      <span begin="1078" end="1295" id="2" />
+      <text id="2">Littérature
+Point de vue est une nouvelle de Isaac Asimov publiée dans le recueil Nous les robots.
+Point de vue est un roman court de Gene Wolfe publié en France en 2004 dans le recueil de nouvelles Tracés du vertige.</text>
+      <span begin="1296" end="1345" id="3" />
+      <text id="3">Presse
+Point de vue est un hebdomadaire français.</text>
+      <span begin="1346" end="1488" id="4" />
+      <text id="4">Cinéma
+Points de vue est un court métrage français (fiction) de 35 mm de Matyas Cophy réalisé en 1999 et produit par Les Films de la Chouette.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="11" />
+      <text>Acceptions</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="12" end="101" id="0" />
+      <text id="0">Un point de vue est l'expression d'une opinion, individuelle ou non, sur un sujet donné.;</text>
+      <span begin="102" end="366" id="1" />
+      <text id="1">Le point de vue littéraire est considéré comme un aspect (par ailleurs circonscrit à une époque, une société, ou un genre littéraire...) de la relation entre l'auteur, le locuteur et l'écrit. Depuis Gérard Genette, on utilise le mot focalisation dans le même sens.</text>
+      <span begin="367" end="494" id="2" />
+      <text id="2">Un point de vue ou panorama est un lieu depuis lequel la vue sur le paysage est particulièrement intéressante ou spectaculaire.</text>
+      <span begin="495" end="955" id="3" />
+      <text id="3">Un point de vue critique est une approche objective et rationnelle au moyen du scepticisme et du questionnement critique. En soulignant la prévalence des faits sur les opinions, il s'oppose aux points de vue individuels et consensuels qui n'utilisent pas la logique, la raison ou la méthode scientifique comme moyen de jugement. Le point de vue critique explore la connaissance plus loin que le simple point de vue cognitif car il remet les choses en question.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="12" />
+      <text>Littérature</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="13" end="99" id="0" />
+      <text id="0">Point de vue est une nouvelle de Isaac Asimov publiée dans le recueil Nous les robots.</text>
+      <span begin="100" end="218" id="1" />
+      <text id="1">Point de vue est un roman court de Gene Wolfe publié en France en 2004 dans le recueil de nouvelles Tracés du vertige.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="13" id="0" />
+      <text id="0">Point de vue</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="15" end="25" id="0" />
+      <text id="0">Acceptions</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="970" end="981" id="0" />
+      <text id="0">Expressions</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="1078" end="1089" id="0" />
+      <text id="0">Littérature</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="1296" end="1302" id="0" />
+      <text id="0">Presse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="1346" end="1352" id="0" />
+      <text id="0">Cinéma</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="12" end="27" id="0" />
+      <text id="0">Un point de vue</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="102" end="128" id="0" />
+      <text id="0">Le point de vue littéraire</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="367" end="395" id="0" />
+      <text id="0">Un point de vue ou panorama</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="495" end="519" id="0" />
+      <text id="0">Un point de vue critique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="11" id="0" />
+      <text id="0">Acceptions</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="30" end="58" id="0" />
+      <text id="0">une nouvelle de Isaac Asimov</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="120" end="145" id="0" />
+      <text id="0">roman court de Gene Wolfe</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="12" id="0" />
+      <text id="0">Littérature</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:43</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="1" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:59</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:21</date>
+      <document>Point_de_vue.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+</root>

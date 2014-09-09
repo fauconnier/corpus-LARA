@@ -1,0 +1,876 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Radio
+Une antenne radioélectrique est un dispositif permettant de recevoir et/ou d'émettre des ondes radio.
+Une antenne-relais est un dispositif de communication, la plus connue étant l'antenne-relais de téléphonie mobile.
+Un directeur ou responsable d'antenne de diffusion est le cadre chargé d'assurer la cohérence éditoriale de la diffusion .</text>
+      <span begin="12" end="357" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Biologie
+Les antennes sont des organes sensoriels (olfactif, tactile…) que portent certaines espèces animales sur la tête, en particulier les antennes de l'insecte.
+Une antenne collectrice est un ensemble de pigments associés à la chlorophylle A, dans la membrane des thylakoïdes.</text>
+      <span begin="358" end="638" />
+    </SE>
+    <comment>Idem (SE : 0)
+#inclusionLexicale#</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Les antennes sont des organes sensoriels (olfactif, tactile…)</text>
+      <span begin="367" end="428" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>Toponymes
+L’Antenne est un affluent de la Charente.
+La vallée de l’Antenne est un site Natura 2000 qui couvre cette rivière.</text>
+      <span begin="639" end="763" />
+    </SE>
+    <comment>NOTSEFINAL</comment>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="radio" postag="NC" morpho="n=s" head="0" dep="_">Radio</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
+          <word id="2" lem="antenne" postag="NC" morpho="g=f|n=s" head="4" dep="suj">antenne</word>
+          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">radioélectrique</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="dispositif" postag="NC" morpho="g=m|n=s" head="4" dep="ats">dispositif</word>
+          <word id="7" lem="permettre" postag="VPR" morpho="t=pst" head="6" dep="mod">permettant</word>
+          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="obj">de</word>
+          <word id="9" lem="recevoir" postag="VINF" morpho="_" head="8" dep="prep">recevoir</word>
+          <word id="10" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="11" lem="/" postag="PONCT" morpho="_" head="10" dep="ponct">/</word>
+          <word id="12" lem="ou" postag="CC" morpho="_" head="10" dep="coord">ou</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep_coord">d'</word>
+          <word id="14" lem="émettre" postag="VINF" morpho="_" head="13" dep="prep">émettre</word>
+          <word id="15" lem="des" postag="DET" morpho="n=p" head="16" dep="det">des</word>
+          <word id="16" lem="onde" postag="NC" morpho="g=f|n=p" head="14" dep="obj">ondes</word>
+          <word id="17" lem="radio" postag="NC" morpho="n=s" head="16" dep="mod">radio</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="3" dep="suj">antenne-relais</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="dispositif" postag="NC" morpho="g=m|n=s" head="3" dep="ats">dispositif</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="communication" postag="NC" morpho="g=f|n=s" head="6" dep="prep">communication</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
+          <word id="10" lem="plus" postag="ADV" morpho="_" head="11" dep="mod">plus</word>
+          <word id="11" lem="connaître" postag="ADJ" morpho="g=f|n=s|t=past" head="5" dep="mod">connue</word>
+          <word id="12" lem="être" postag="VPR" morpho="t=pst" head="5" dep="mod">étant</word>
+          <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
+          <word id="14" lem="_" postag="NC" morpho="_" head="12" dep="ats">antenne-relais</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="téléphonie" postag="NC" morpho="g=f|n=s" head="15" dep="prep">téléphonie</word>
+          <word id="17" lem="mobile" postag="ADJ" morpho="n=s" head="16" dep="mod">mobile</word>
+          <word id="18" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
+          <word id="2" lem="directeur" postag="NC" morpho="g=m|n=s" head="9" dep="suj">directeur</word>
+          <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
+          <word id="4" lem="responsable" postag="ADJ" morpho="n=s" head="3" dep="dep_coord">responsable</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="6" lem="antenne" postag="NC" morpho="g=f|n=s" head="5" dep="prep">antenne</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="diffusion" postag="NC" morpho="g=f|n=s" head="7" dep="prep">diffusion</word>
+          <word id="9" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="10" lem="le" postag="DET" morpho="g=m|n=s" head="11" dep="det">le</word>
+          <word id="11" lem="cadre" postag="NC" morpho="g=m|n=s" head="9" dep="ats">cadre</word>
+          <word id="12" lem="charger" postag="VPP" morpho="g=m|n=s|t=past" head="11" dep="mod">chargé</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="de_obj">d'</word>
+          <word id="14" lem="assurer" postag="VINF" morpho="_" head="13" dep="prep">assurer</word>
+          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+          <word id="16" lem="cohérence" postag="NC" morpho="g=f|n=s" head="14" dep="obj">cohérence</word>
+          <word id="17" lem="éditorial" postag="ADJ" morpho="g=f|n=s" head="16" dep="mod">éditoriale</word>
+          <word id="18" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
+          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
+          <word id="20" lem="diffusion" postag="NC" morpho="g=f|n=s" head="18" dep="prep">diffusion</word>
+          <word id="21" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="biologie" postag="NC" morpho="g=f|n=s" head="0" dep="root">Biologie</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="antenne" postag="NC" morpho="g=f|n=p" head="3" dep="suj">antennes</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
+          <word id="5" lem="organe" postag="NC" morpho="g=m|n=p" head="3" dep="ats">organes</word>
+          <word id="6" lem="sensoriel" postag="ADJ" morpho="g=m|n=p" head="5" dep="mod">sensoriels</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
+          <word id="8" lem="olfactif" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">olfactif</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="5" dep="mod">tactile…</word>
+          <word id="11" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
+          <word id="12" lem="que" postag="PROREL" morpho="_" head="13" dep="obj">que</word>
+          <word id="13" lem="porter" postag="V" morpho="n=p|p=3|t=pst" head="5" dep="mod_rel">portent</word>
+          <word id="14" lem="certaines" postag="DET" morpho="g=f|n=p" head="15" dep="det">certaines</word>
+          <word id="15" lem="espèce" postag="NC" morpho="g=f|n=p" head="13" dep="suj">espèces</word>
+          <word id="16" lem="animal" postag="ADJ" morpho="g=f|n=p" head="15" dep="mod">animales</word>
+          <word id="17" lem="sur" postag="P" morpho="_" head="13" dep="mod">sur</word>
+          <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
+          <word id="19" lem="tête" postag="NC" morpho="g=f|n=s" head="17" dep="prep">tête</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
+          <word id="21" lem="en_particulier" postag="ADV" morpho="_" head="23" dep="mod">en_particulier</word>
+          <word id="22" lem="les" postag="DET" morpho="n=p" head="23" dep="det">les</word>
+          <word id="23" lem="antenne" postag="NC" morpho="g=f|n=p" head="5" dep="mod">antennes</word>
+          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
+          <word id="25" lem="l'" postag="DET" morpho="n=s" head="26" dep="det">l'</word>
+          <word id="26" lem="insecte" postag="NC" morpho="g=m|n=s" head="24" dep="prep">insecte</word>
+          <word id="27" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
+          <word id="2" lem="antenne" postag="NC" morpho="g=f|n=s" head="4" dep="suj">antenne</word>
+          <word id="3" lem="collecteur" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">collectrice</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="ensemble" postag="NC" morpho="g=m|n=s" head="4" dep="ats">ensemble</word>
+          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
+          <word id="8" lem="pigment" postag="NC" morpho="g=m|n=p" head="7" dep="prep">pigments</word>
+          <word id="9" lem="associer" postag="ADJ" morpho="g=m|n=p|t=past" head="8" dep="mod">associés</word>
+          <word id="10" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
+          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
+          <word id="12" lem="chlorophylle" postag="NC" morpho="g=f|n=s" head="10" dep="prep">chlorophylle</word>
+          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">A</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+          <word id="15" lem="dans" postag="P" morpho="_" head="4" dep="mod">dans</word>
+          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
+          <word id="17" lem="membrane" postag="NC" morpho="g=f|n=s" head="15" dep="prep">membrane</word>
+          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
+          <word id="19" lem="_" postag="NC" morpho="_" head="18" dep="prep">thylakoïdes</word>
+          <word id="20" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="antenne" postag="NC" morpho="g=f|n=p" head="3" dep="suj">antennes</word>
+        <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+        <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
+        <word id="5" lem="organe" postag="NC" morpho="g=m|n=p" head="3" dep="ats">organes</word>
+        <word id="6" lem="sensoriel" postag="ADJ" morpho="g=m|n=p" head="5" dep="mod">sensoriels</word>
+        <word id="7" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">iels</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="olfactif" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">olfactif</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="tactile" postag="ADJ" morpho="n=s" head="0" dep="_">tactile</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">e…</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="toponyme" postag="NC" morpho="g=m|n=p" head="0" dep="_">Toponymes</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Antenne</word>
+          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="affluent" postag="NC" morpho="g=m|n=s" head="3" dep="ats">affluent</word>
+          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="Charente" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Charente</word>
+          <word id="9" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="vallée" postag="NC" morpho="g=f|n=s" head="6" dep="suj">vallée</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Antenne</word>
+          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
+          <word id="8" lem="site" postag="NC" morpho="g=m|n=s" head="6" dep="ats">site</word>
+          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Natura</word>
+          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="mod">2000</word>
+          <word id="11" lem="qui" postag="PROREL" morpho="n=s" head="12" dep="suj">qui</word>
+          <word id="12" lem="couvrir" postag="V" morpho="n=s|p=13|t=pst" head="8" dep="mod_rel">couvre</word>
+          <word id="13" lem="cette" postag="DET" morpho="g=f|n=s" head="14" dep="det">cette</word>
+          <word id="14" lem="rivière" postag="NC" morpho="g=f|n=s" head="12" dep="obj">rivière</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="6" />
+      <text>Radio</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="7" end="108" id="0" />
+      <text id="0">Une antenne radioélectrique est un dispositif permettant de recevoir et/ou d'émettre des ondes radio.</text>
+      <span begin="109" end="223" id="1" />
+      <text id="1">Une antenne-relais est un dispositif de communication, la plus connue étant l'antenne-relais de téléphonie mobile.</text>
+      <span begin="224" end="346" id="2" />
+      <text id="2">Un directeur ou responsable d'antenne de diffusion est le cadre chargé d'assurer la cohérence éditoriale de la diffusion .</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="9" />
+      <text>Biologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="10" end="165" id="0" />
+      <text id="0">Les antennes sont des organes sensoriels (olfactif, tactile…) que portent certaines espèces animales sur la tête, en particulier les antennes de l'insecte.</text>
+      <span begin="166" end="281" id="1" />
+      <text id="1">Une antenne collectrice est un ensemble de pigments associés à la chlorophylle A, dans la membrane des thylakoïdes.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="43" />
+      <text>Les antennes sont des organes sensoriels (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="37" end="52" id="0" />
+      <text id="0">iels (olfactif,</text>
+      <span begin="53" end="60" id="1" />
+      <text id="1">tactile</text>
+      <span begin="59" end="62" id="2" />
+      <text id="2">e…)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="10" />
+      <text>Toponymes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="11" end="52" id="0" />
+      <text id="0">L’Antenne est un affluent de la Charente.</text>
+      <span begin="53" end="125" id="1" />
+      <text id="1">La vallée de l’Antenne est un site Natura 2000 qui couvre cette rivière.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="7" end="34" id="0" />
+      <text id="0">Une antenne radioélectrique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="109" end="127" id="0" />
+      <text id="0">Une antenne-relais</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="224" end="261" id="0" />
+      <text id="0">Un directeur ou responsable d'antenne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="6" id="0" />
+      <text id="0">Radio</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="10" end="22" id="0" />
+      <text id="0">Les antennes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="166" end="189" id="0" />
+      <text id="0">Une antenne collectrice</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
+      <span begin="1" end="9" id="0" />
+      <text id="0">Biologie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="23" end="41" id="0" />
+      <text id="0">organes sensoriels</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="43" end="51" id="0" />
+      <text id="0">olfactif</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="53" end="60" id="0" />
+      <text id="0">tactile</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="11" end="21" id="0" />
+      <text id="0">L’Antenne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="53" end="75" id="0" />
+      <text id="0">La vallée de l’Antenne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 1:49</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="1" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:09</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 23:06</date>
+      <document>Antenne.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="1" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

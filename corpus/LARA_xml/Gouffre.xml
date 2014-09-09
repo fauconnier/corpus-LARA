@@ -1,0 +1,1518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Il existe de nombreux synonymes régionaux francophones issus d'une francisation des langues d'oc ou oil notamment : aven, igue, scialet, chourum, abîme, creux, fondry, perte, fosse, chantoir, barrenc, tindoul etc.</text>
+      <span begin="213" end="426" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Au sens figuré, un gouffre désigne un lieu, un phénomène ou une chose qui entraîne la disparition brutale de tout ce qui peut y être précipité ou qui y tomberait. Exemples : « son estomac est un gouffre », « cette maison est un gouffre à fric ! » (familier), ... ainsi que : « une économie au bord du gouffre ».</text>
+      <span begin="500" end="811" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Les gouffres remarquables ou connus.
+Europe
+Le gouffre Mirolda, en haute-Savoie, en France : il atteint les 1733 m.
+Le gouffre Jean-Bernard, en haute-Savoie, en France : il atteint les 1602 m.
+Le gouffre de Padirac, en France : il atteint les 103 m.
+Le gouffre du Lion, en Grèce.
+La grotte Krubera, en Géorgie : il atteint les 2190 m.
+Asie
+Le gouffre de Tian Xing, en Chine : il atteint les −1026 m.
+Afrique
+Le Gouffre Anou Ifflis (−1170 m) en Kabylie, Algérie (le plus profond gouffre d'Afrique et l'un des plus profond au Monde, 47ème mondial exeaquo).
+Section vide à compléter
+Amérique
+Au Mexique, les Cenote sont des gouffres parfois très profonds et remplis d'eau douce ou saumâtre.</text>
+      <span begin="1521" end="2208" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>Europe
+Le gouffre Mirolda, en haute-Savoie, en France : il atteint les 1733 m.
+Le gouffre Jean-Bernard, en haute-Savoie, en France : il atteint les 1602 m.
+Le gouffre de Padirac, en France : il atteint les 103 m.
+Le gouffre du Lion, en Grèce.
+La grotte Krubera, en Géorgie : il atteint les 2190 m.</text>
+      <span begin="1558" end="1855" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="2" dep="suj">Il</word>
+        <word id="2" lem="exister" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">existe</word>
+        <word id="3" lem="de" postag="DET" morpho="n=p" head="5" dep="det">de</word>
+        <word id="4" lem="nombreux" postag="ADJ" morpho="g=m" head="5" dep="mod">nombreux</word>
+        <word id="5" lem="synonyme" postag="NC" morpho="g=m|n=p" head="2" dep="obj">synonymes</word>
+        <word id="6" lem="régional" postag="ADJ" morpho="g=m|n=p" head="5" dep="mod">régionaux</word>
+        <word id="7" lem="francophone" postag="ADJ" morpho="n=p" head="5" dep="mod">francophones</word>
+        <word id="8" lem="issus" postag="NC" morpho="g=m" head="5" dep="mod">issus</word>
+        <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">d'</word>
+        <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
+        <word id="11" lem="francisation" postag="NC" morpho="g=f|n=s" head="9" dep="prep">francisation</word>
+        <word id="12" lem="de" postag="P+D" morpho="n=p" head="11" dep="dep">des</word>
+        <word id="13" lem="langue" postag="NC" morpho="g=f|n=p" head="12" dep="prep">langues</word>
+        <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
+        <word id="15" lem="oc" postag="NC" morpho="g=f|n=s" head="14" dep="prep">oc</word>
+        <word id="16" lem="ou" postag="CC" morpho="_" head="13" dep="coord">ou</word>
+        <word id="17" lem="_" postag="NC" morpho="_" head="16" dep="dep_coord">oil</word>
+        <word id="18" lem="notamment" postag="ADV" morpho="_" head="11" dep="mod">notamment</word>
+        <word id="19" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="aven" postag="NC" morpho="g=m|n=s" head="0" dep="_">aven</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="igue" postag="NC" morpho="g=f|n=s" head="0" dep="_">igue</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">scialet</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">chourum</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="abîme" postag="NC" morpho="g=m|n=s" head="0" dep="_">abîme</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="creux" postag="NC" morpho="g=m" head="0" dep="root">creux</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">fondry</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="perte" postag="NC" morpho="g=f|n=s" head="0" dep="root">perte</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="fosse" postag="NC" morpho="g=f|n=s" head="0" dep="_">fosse</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="9">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">chantoir</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="10">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">barrenc</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="11">
+        <sentence id="1">
+          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">tindoul</word>
+        </sentence>
+      </item>
+      <item id="12">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="root">etc</word>
+          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="à" postag="P+D" morpho="g=m|n=s" head="7" dep="mod">Au</word>
+        <word id="2" lem="sens" postag="NC" morpho="g=m" head="1" dep="prep">sens</word>
+        <word id="3" lem="figurer" postag="ADJ" morpho="g=m|n=s|t=past" head="2" dep="mod">figuré</word>
+        <word id="4" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+        <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+        <word id="6" lem="gouffre" postag="NC" morpho="g=m|n=s" head="7" dep="suj">gouffre</word>
+        <word id="7" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
+        <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
+        <word id="9" lem="lieu" postag="NC" morpho="g=m|n=s" head="7" dep="obj">lieu</word>
+        <word id="10" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+        <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
+        <word id="12" lem="phénomène" postag="NC" morpho="g=m|n=s" head="7" dep="obj">phénomène</word>
+        <word id="13" lem="ou" postag="CC" morpho="_" head="12" dep="coord">ou</word>
+        <word id="14" lem="une" postag="DET" morpho="g=f|n=s" head="15" dep="det">une</word>
+        <word id="15" lem="chose" postag="NC" morpho="g=f|n=s" head="13" dep="dep_coord">chose</word>
+        <word id="16" lem="qui" postag="PROREL" morpho="n=s" head="17" dep="suj">qui</word>
+        <word id="17" lem="entraîner" postag="V" morpho="n=s|p=13|t=pst" head="12" dep="mod_rel">entraîne</word>
+        <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
+        <word id="19" lem="disparition" postag="NC" morpho="g=f|n=s" head="17" dep="obj">disparition</word>
+        <word id="20" lem="brutal" postag="ADJ" morpho="g=f|n=s" head="19" dep="mod">brutale</word>
+        <word id="21" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
+        <word id="22" lem="tout" postag="ADJ" morpho="g=m|n=s" head="23" dep="mod">tout</word>
+        <word id="23" lem="ce" postag="PRO" morpho="_" head="21" dep="prep">ce</word>
+        <word id="24" lem="qui" postag="PROREL" morpho="n=s" head="25" dep="suj">qui</word>
+        <word id="25" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="23" dep="mod_rel">peut</word>
+        <word id="26" lem="y" postag="CLO" morpho="_" head="28" dep="aff">y</word>
+        <word id="27" lem="être" postag="VINF" morpho="_" head="28" dep="aux_pass">être</word>
+        <word id="28" lem="précipiter" postag="VPP" morpho="g=m|n=s|t=past" head="25" dep="obj">précipité</word>
+        <word id="29" lem="ou" postag="CC" morpho="_" head="25" dep="coord">ou</word>
+        <word id="30" lem="qui" postag="PROREL" morpho="n=s" head="32" dep="suj">qui</word>
+        <word id="31" lem="y" postag="CLO" morpho="_" head="32" dep="mod">y</word>
+        <word id="32" lem="tomber" postag="V" morpho="n=s|p=3|t=cond" head="29" dep="dep_coord">tomberait</word>
+        <word id="33" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+      </sentence>
+      <sentence id="2">
+        <word id="1" lem="exemple" postag="NC" morpho="g=m|n=p" head="0" dep="_">Exemples</word>
+        <word id="2" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
+          <word id="2" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="3" dep="det">son</word>
+          <word id="3" lem="estomac" postag="NC" morpho="g=m|n=s" head="4" dep="suj">estomac</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="gouffre" postag="NC" morpho="g=m|n=s" head="4" dep="ats">gouffre</word>
+          <word id="7" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
+          <word id="2" lem="cette" postag="DET" morpho="g=f|n=s" head="3" dep="det">cette</word>
+          <word id="3" lem="maison" postag="NC" morpho="g=f|n=s" head="4" dep="suj">maison</word>
+          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
+          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
+          <word id="6" lem="gouffre" postag="NC" morpho="g=m|n=s" head="4" dep="ats">gouffre</word>
+          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
+          <word id="8" lem="fric" postag="NC" morpho="g=m|n=s" head="7" dep="prep">fric</word>
+          <word id="9" lem="!" postag="PONCT" morpho="_" head="4" dep="ponct">!</word>
+          <word id="10" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
+          <word id="11" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
+          <word id="12" lem="familier" postag="NC" morpho="g=m|n=s" head="4" dep="mod">familier</word>
+          <word id="13" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="ainsi_que" postag="CS" morpho="_" head="0" dep="root">ainsi_que</word>
+          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
+          <word id="3" lem="&quot;" postag="PONCT" morpho="_" head="0" dep="_">"</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="économie" postag="NC" morpho="g=f|n=s" head="0" dep="_">économie</word>
+          <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">au</word>
+          <word id="7" lem="bord" postag="NC" morpho="g=m|n=s" head="6" dep="prep">bord</word>
+          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
+          <word id="9" lem="gouffre" postag="NC" morpho="g=m|n=s" head="8" dep="prep">gouffre</word>
+          <word id="10" lem="&quot;" postag="PONCT" morpho="_" head="5" dep="ponct">"</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=p" head="0" dep="_">gouffres</word>
+        <word id="3" lem="remarquable" postag="ADJ" morpho="n=p" head="2" dep="mod">remarquables</word>
+        <word id="4" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
+        <word id="5" lem="connaître" postag="ADJ" morpho="g=m|n=p|t=past" head="4" dep="dep_coord">connus</word>
+        <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="Europe" postag="NPP" morpho="g=f|n=s" head="0" dep="root">Europe</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="12" dep="suj">gouffre</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Mirolda</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">haute-Savoie</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="8" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="9" lem="France" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">France</word>
+          <word id="10" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
+          <word id="11" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="12" dep="suj">il</word>
+          <word id="12" lem="atteindre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">atteint</word>
+          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+          <word id="14" lem="_" postag="NC" morpho="_" head="12" dep="obj">1733</word>
+          <word id="15" lem="_" postag="ADV" morpho="_" head="12" dep="mod">m</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="12" dep="suj">gouffre</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Jean-Bernard</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">haute-Savoie</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="8" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="9" lem="France" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">France</word>
+          <word id="10" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
+          <word id="11" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="12" dep="suj">il</word>
+          <word id="12" lem="atteindre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">atteint</word>
+          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+          <word id="14" lem="_" postag="NC" morpho="_" head="12" dep="obj">1602</word>
+          <word id="15" lem="_" postag="ADV" morpho="_" head="12" dep="mod">m</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="10" dep="suj">gouffre</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="Padirac" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Padirac</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="7" lem="France" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">France</word>
+          <word id="8" lem=":" postag="PONCT" morpho="_" head="10" dep="ponct">:</word>
+          <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="10" dep="suj">il</word>
+          <word id="10" lem="atteindre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">atteint</word>
+          <word id="11" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="12" lem="#NUM#" postag="ADJ" morpho="n=p" head="13" dep="mod">103</word>
+          <word id="13" lem="_" postag="NC" morpho="_" head="10" dep="obj">m</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="0" dep="_">gouffre</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Lion</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="7" lem="Grèce" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Grèce</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="grotte" postag="NC" morpho="g=f|n=s" head="9" dep="suj">grotte</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Krubera</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="Géorgie" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Géorgie</word>
+          <word id="7" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
+          <word id="8" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="9" dep="suj">il</word>
+          <word id="9" lem="atteindre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">atteint</word>
+          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
+          <word id="11" lem="_" postag="NC" morpho="_" head="9" dep="obj">2190</word>
+          <word id="12" lem="_" postag="ADV" morpho="_" head="9" dep="mod">m</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="Asie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Asie</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="11" dep="suj">gouffre</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Tian</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Xing</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="7" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="8" lem="Chine" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Chine</word>
+          <word id="9" lem=":" postag="PONCT" morpho="_" head="11" dep="ponct">:</word>
+          <word id="10" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="11" dep="suj">il</word>
+          <word id="11" lem="atteindre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">atteint</word>
+          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="13" lem="_" postag="NC" morpho="_" head="11" dep="obj">−</word>
+          <word id="14" lem="_" postag="NC" morpho="_" head="13" dep="mod">1026</word>
+          <word id="15" lem="_" postag="ADV" morpho="_" head="11" dep="mod">m</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="Afrique" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Afrique</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Gouffre</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Anou</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Ifflis</word>
+          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="6" lem="_" postag="NC" morpho="_" head="2" dep="mod">−</word>
+          <word id="7" lem="_" postag="NC" morpho="_" head="6" dep="mod">1170</word>
+          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">m</word>
+          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="10" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Kabylie</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="13" lem="Algérie" postag="NPP" morpho="g=f|n=s" head="2" dep="mod">Algérie</word>
+          <word id="14" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="18" dep="det">le</word>
+          <word id="16" lem="plus" postag="ADV" morpho="_" head="17" dep="mod">plus</word>
+          <word id="17" lem="profond" postag="ADJ" morpho="g=m|n=s" head="18" dep="mod">profond</word>
+          <word id="18" lem="gouffre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">gouffre</word>
+          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">d'</word>
+          <word id="20" lem="Afrique" postag="NPP" morpho="g=f|n=s" head="19" dep="prep">Afrique</word>
+          <word id="21" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
+          <word id="22" lem="l'" postag="DET" morpho="n=s" head="23" dep="det">l'</word>
+          <word id="23" lem="un" postag="PRO" morpho="g=m|n=s" head="21" dep="dep_coord">un</word>
+          <word id="24" lem="de" postag="P+D" morpho="n=p" head="23" dep="dep">des</word>
+          <word id="25" lem="plus" postag="ADV" morpho="_" head="26" dep="mod">plus</word>
+          <word id="26" lem="profond" postag="ADJ" morpho="g=m|n=s" head="24" dep="prep">profond</word>
+          <word id="27" lem="à" postag="P+D" morpho="g=m|n=s" head="26" dep="mod">au</word>
+          <word id="28" lem="_" postag="NPP" morpho="_" head="27" dep="prep">Monde</word>
+          <word id="29" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="30" lem="_" postag="NC" morpho="_" head="2" dep="mod">47ème</word>
+          <word id="31" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="30" dep="mod">mondial</word>
+          <word id="32" lem="_" postag="NPP" morpho="_" head="30" dep="mod">exeaquo</word>
+          <word id="33" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="34" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="Amérique" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Amérique</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="à" postag="P+D" morpho="g=m|n=s" head="6" dep="mod">Au</word>
+          <word id="2" lem="Mexique" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">Mexique</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="6" dep="suj">Cenote</word>
+          <word id="6" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
+          <word id="8" lem="gouffre" postag="NC" morpho="g=m|n=p" head="6" dep="ats">gouffres</word>
+          <word id="9" lem="parfois" postag="ADV" morpho="_" head="11" dep="mod">parfois</word>
+          <word id="10" lem="très" postag="ADV" morpho="_" head="11" dep="mod">très</word>
+          <word id="11" lem="profond" postag="ADJ" morpho="g=m|n=p" head="8" dep="mod">profonds</word>
+          <word id="12" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
+          <word id="13" lem="remplir" postag="VPP" morpho="g=m|n=p|t=past" head="12" dep="dep_coord">remplis</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="de_obj">d'</word>
+          <word id="15" lem="eau" postag="NC" morpho="g=f|n=s" head="14" dep="prep">eau</word>
+          <word id="16" lem="doux" postag="ADJ" morpho="g=f|n=s" head="15" dep="mod">douce</word>
+          <word id="17" lem="ou" postag="CC" morpho="_" head="16" dep="coord">ou</word>
+          <word id="18" lem="saumâtre" postag="ADJ" morpho="n=s" head="17" dep="dep_coord">saumâtre</word>
+          <word id="19" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="Europe" postag="NPP" morpho="g=f|n=s" head="0" dep="root">Europe</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="12" dep="suj">gouffre</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Mirolda</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">haute-Savoie</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="8" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="9" lem="France" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">France</word>
+          <word id="10" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
+          <word id="11" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="12" dep="suj">il</word>
+          <word id="12" lem="atteindre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">atteint</word>
+          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+          <word id="14" lem="_" postag="NC" morpho="_" head="12" dep="obj">1733</word>
+          <word id="15" lem="_" postag="ADV" morpho="_" head="12" dep="mod">m</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="12" dep="suj">gouffre</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Jean-Bernard</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">haute-Savoie</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="8" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="9" lem="France" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">France</word>
+          <word id="10" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
+          <word id="11" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="12" dep="suj">il</word>
+          <word id="12" lem="atteindre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">atteint</word>
+          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
+          <word id="14" lem="_" postag="NC" morpho="_" head="12" dep="obj">1602</word>
+          <word id="15" lem="_" postag="ADV" morpho="_" head="12" dep="mod">m</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="10" dep="suj">gouffre</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+          <word id="4" lem="Padirac" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Padirac</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="7" lem="France" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">France</word>
+          <word id="8" lem=":" postag="PONCT" morpho="_" head="10" dep="ponct">:</word>
+          <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="10" dep="suj">il</word>
+          <word id="10" lem="atteindre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">atteint</word>
+          <word id="11" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
+          <word id="12" lem="#NUM#" postag="ADJ" morpho="n=p" head="13" dep="mod">103</word>
+          <word id="13" lem="_" postag="NC" morpho="_" head="10" dep="obj">m</word>
+          <word id="14" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="0" dep="_">gouffre</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Lion</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="7" lem="Grèce" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Grèce</word>
+          <word id="8" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+          <word id="2" lem="grotte" postag="NC" morpho="g=f|n=s" head="9" dep="suj">grotte</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Krubera</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="6" lem="Géorgie" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Géorgie</word>
+          <word id="7" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
+          <word id="8" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="9" dep="suj">il</word>
+          <word id="9" lem="atteindre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">atteint</word>
+          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
+          <word id="11" lem="_" postag="NC" morpho="_" head="9" dep="obj">2190</word>
+          <word id="12" lem="_" postag="ADV" morpho="_" head="9" dep="mod">m</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="116" />
+      <text>Il existe de nombreux synonymes régionaux francophones issus d'une francisation des langues d'oc ou oil notamment :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="116" end="122" id="0" />
+      <text id="0">aven,</text>
+      <span begin="122" end="128" id="1" />
+      <text id="1">igue,</text>
+      <span begin="129" end="137" id="2" />
+      <text id="2">scialet,</text>
+      <span begin="138" end="146" id="3" />
+      <text id="3">chourum,</text>
+      <span begin="146" end="153" id="4" />
+      <text id="4">abîme,</text>
+      <span begin="153" end="161" id="5" />
+      <text id="5">creux,</text>
+      <span begin="160" end="168" id="6" />
+      <text id="6">fondry,</text>
+      <span begin="168" end="175" id="7" />
+      <text id="7">perte,</text>
+      <span begin="176" end="182" id="8" />
+      <text id="8">fosse,</text>
+      <span begin="182" end="192" id="9" />
+      <text id="9">chantoir,</text>
+      <span begin="193" end="201" id="10" />
+      <text id="10">barrenc,</text>
+      <span begin="202" end="210" id="11" />
+      <text id="11">tindoul</text>
+      <span begin="210" end="214" id="12" />
+      <text id="12">etc.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="175" />
+      <text>Au sens figuré, un gouffre désigne un lieu, un phénomène ou une chose qui entraîne la disparition brutale de tout ce qui peut y être précipité ou qui y tomberait. Exemples :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="175" end="207" id="0" />
+      <text id="0">« son estomac est un gouffre »,</text>
+      <span begin="207" end="259" id="1" />
+      <text id="1">« cette maison est un gouffre à fric ! » (familier),</text>
+      <span begin="260" end="264" id="2" />
+      <text id="2">...</text>
+      <span begin="264" end="312" id="3" />
+      <text id="3">ainsi que : « une économie au bord du gouffre ».</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="37" />
+      <text>Les gouffres remarquables ou connus.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="38" end="336" id="0" />
+      <text id="0">Europe
+Le gouffre Mirolda, en haute-Savoie, en France : il atteint les 1733 m.
+Le gouffre Jean-Bernard, en haute-Savoie, en France : il atteint les 1602 m.
+Le gouffre de Padirac, en France : il atteint les 103 m.
+Le gouffre du Lion, en Grèce.
+La grotte Krubera, en Géorgie : il atteint les 2190 m.</text>
+      <span begin="336" end="400" id="1" />
+      <text id="1">Asie
+Le gouffre de Tian Xing, en Chine : il atteint les −1026 m.</text>
+      <span begin="401" end="555" id="2" />
+      <text id="2">Afrique
+Le Gouffre Anou Ifflis (−1170 m) en Kabylie, Algérie (le plus profond gouffre d'Afrique et l'un des plus profond au Monde, 47ème mondial exeaquo).</text>
+      <span begin="581" end="688" id="3" />
+      <text id="3">Amérique
+Au Mexique, les Cenote sont des gouffres parfois très profonds et remplis d'eau douce ou saumâtre.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="7" />
+      <text>Europe</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="8" end="79" id="0" />
+      <text id="0">Le gouffre Mirolda, en haute-Savoie, en France : il atteint les 1733 m.</text>
+      <span begin="80" end="156" id="1" />
+      <text id="1">Le gouffre Jean-Bernard, en haute-Savoie, en France : il atteint les 1602 m.</text>
+      <span begin="157" end="213" id="2" />
+      <text id="2">Le gouffre de Padirac, en France : il atteint les 103 m.</text>
+      <span begin="214" end="243" id="3" />
+      <text id="3">Le gouffre du Lion, en Grèce.</text>
+      <span begin="244" end="298" id="4" />
+      <text id="4">La grotte Krubera, en Géorgie : il atteint les 2190 m.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="117" end="121" id="0" />
+      <text id="0">aven</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="123" end="127" id="0" />
+      <text id="0">igue</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="129" end="136" id="0" />
+      <text id="0">scialet</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="138" end="145" id="0" />
+      <text id="0">chourum</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="147" end="152" id="0" />
+      <text id="0">abîme</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="5">
+      <span begin="154" end="159" id="0" />
+      <text id="0">creux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="6">
+      <span begin="161" end="167" id="0" />
+      <text id="0">fondry</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="7">
+      <span begin="169" end="174" id="0" />
+      <text id="0">perte</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="8">
+      <span begin="176" end="181" id="0" />
+      <text id="0">fosse</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="9">
+      <span begin="183" end="191" id="0" />
+      <text id="0">chantoir</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="10">
+      <span begin="193" end="200" id="0" />
+      <text id="0">barrenc</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="11">
+      <span begin="202" end="209" id="0" />
+      <text id="0">tindoul</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
+      <span begin="11" end="33" id="0" />
+      <text id="0">de nombreux synonymes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="164" end="172" id="0" />
+      <text id="0">Exemples</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="175" end="205" id="0" />
+      <text id="0">« son estomac est un gouffre »</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="207" end="247" id="0" />
+      <text id="0">« cette maison est un gouffre à fric ! »</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="276" end="311" id="0" />
+      <text id="0">« une économie au bord du gouffre »</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="13" id="0" />
+      <text id="0">Les gouffres</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="45" end="63" id="0" />
+      <text id="0">Le gouffre Mirolda</text>
+      <span begin="117" end="140" id="1" />
+      <text id="1">Le gouffre Jean-Bernard</text>
+      <span begin="194" end="215" id="2" />
+      <text id="2">Le gouffre de Padirac</text>
+      <span begin="251" end="269" id="3" />
+      <text id="3">Le gouffre du Lion</text>
+      <span begin="281" end="298" id="4" />
+      <text id="4">La grotte Krubera</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="341" end="364" id="0" />
+      <text id="0">Le gouffre de Tian Xing</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="409" end="431" id="0" />
+      <text id="0">Le Gouffre Anou Ifflis</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+      <span begin="602" end="612" id="0" />
+      <text id="0">les Cenote</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
+      <span begin="38" end="44" id="0" />
+      <text id="0">Europe</text>
+      <span begin="65" end="80" id="1" />
+      <text id="1">en haute-Savoie</text>
+      <span begin="82" end="91" id="2" />
+      <text id="2">en France</text>
+      <span begin="142" end="157" id="3" />
+      <text id="3">en haute-Savoie</text>
+      <span begin="159" end="168" id="4" />
+      <text id="4">en France</text>
+      <span begin="217" end="226" id="5" />
+      <text id="5">en France</text>
+      <span begin="271" end="279" id="6" />
+      <text id="6">en Grèce</text>
+      <span begin="300" end="310" id="7" />
+      <text id="7">en Géorgie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="item" idItem="1">
+      <span begin="336" end="340" id="0" />
+      <text id="0">Asie</text>
+      <span begin="366" end="374" id="1" />
+      <text id="1">en Chine</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="item" idItem="2">
+      <span begin="401" end="408" id="0" />
+      <text id="0">Afrique</text>
+      <span begin="442" end="452" id="1" />
+      <text id="1">en Kabylie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="item" idItem="3">
+      <span begin="581" end="589" id="0" />
+      <text id="0">Amérique</text>
+      <span begin="590" end="600" id="1" />
+      <text id="1">Au Mexique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="8" end="26" id="0" />
+      <text id="0">Le gouffre Mirolda</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="80" end="103" id="0" />
+      <text id="0">Le gouffre Jean-Bernard</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="157" end="178" id="0" />
+      <text id="0">Le gouffre de Padirac</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="3">
+      <span begin="214" end="232" id="0" />
+      <text id="0">Le gouffre du Lion</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="4">
+      <span begin="244" end="261" id="0" />
+      <text id="0">La grotte Krubera</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+      <span begin="1" end="7" id="0" />
+      <text id="0">Europe</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="0">
+      <span begin="28" end="43" id="0" />
+      <text id="0">en haute-Savoie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="1">
+      <span begin="105" end="120" id="0" />
+      <text id="0">en haute-Savoie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="2">
+      <span begin="179" end="189" id="0" />
+      <text id="0">en France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="3">
+      <span begin="234" end="242" id="0" />
+      <text id="0">en Grèce</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="4">
+      <span begin="263" end="273" id="0" />
+      <text id="0">en Géorgie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 3:04</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="1">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="1" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 2:08</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="1" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 15:33</date>
+      <document>Gouffre.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

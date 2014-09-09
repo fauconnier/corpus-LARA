@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Les Chemins, sentes, piésentes et sentiers sont aussi des éléments importants de la toponymie ; souvent associé à des évocation d'animaux, de lieux, de personnages ou de fonctions (ex ; chemin du val au loup, Chemin du Roy, Chemin du PiedmontSentier littoral, Sentier du cratère Dolomieu, chemin de halage...).</text>
+      <span begin="409" end="719" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Les chemins et le droit
+En Belgique
+En Belgique, pour ce qui concerne le droit de passage, la loi de 1841 sur les chemins vicinaux ne fait pas de distinction entre chemins et sentiers. Le code forestier wallon définit par contre le chemin comme toute « voie ouverte à la circulation du public, en terre ou empierrée, plus large qu’un sentier, qui n’est pas aménagée pour la circulation des véhicules en général ».
+En France
+Réseau routier départemental de FranceLa loi du 21 mai 1836, dite de Thiers-Montalivet, distingue les chemins vicinaux, classés et gérés grâce aux subventions du Conseil général, des chemins ruraux.
+Le décret-loi du 14 juin 1938 définit la catégorie des chemins départementaux, propriété du département et cessant alors d'être à la charge des communes.
+Pour le cartographe, en France, parmi les classes ou types d'un systèmes d'information géographique (SIG), pour la BD TOPO de l'IGN, la rubrique chemin rassemble les « Chemin empierré », « Chemins », « sentiers », « escaliers » et « Piste cyclable ». Dans cette même base les chemins peuvent être associés à des « bacs piéton », « gués » ou « radiers », ou encore à des « ponts » et « tunnels ».
+Définitions (pour l'IGN) :
+les chemins sont « prévus pour la circulation de véhicules ou d’engins d’exploitation. Ils ne sont pas forcément carrossables pour tous les véhicules et par tout temps (voir aussi “route empierrée”) » et peuvent comprendre des allées, laies forestières (Chemin forestier délimitant des parcelles, selon le Larousse, ou « Percée en ligne droite en général non empierrée, pratiquée à travers » selon l'association française de topographie), sentier.
+les sentiers sont des « Chemins étroits ne permettant pas le passage de véhicules. Seuls les principaux sentiers sont inclus (dans la BD TOPO). Passerelles supportant une allée, directement reliés au réseau routier. Les passerelles ont une position par rapport au sol supérieure à 0 ».
+Dans les jardins
+Dans son jardin, on peut ajouter un chemin, par exemple pour le parcourir sans marcher dans de la terre salissante, surtout en cas d'humidité.Un exemple économique est le chemin en pas japonais : quelques petites dalles, sur lesquelles on pose un pied à la fois, légèrement décalées.</text>
+      <span begin="2432" end="4666" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>Définitions (pour l'IGN) :
+les chemins sont « prévus pour la circulation de véhicules ou d’engins d’exploitation. Ils ne sont pas forcément carrossables pour tous les véhicules et par tout temps (voir aussi “route empierrée”) » et peuvent comprendre des allées, laies forestières (Chemin forestier délimitant des parcelles, selon le Larousse, ou « Percée en ligne droite en général non empierrée, pratiquée à travers » selon l'association française de topographie), sentier.
+les sentiers sont des « Chemins étroits ne permettant pas le passage de véhicules. Seuls les principaux sentiers sont inclus (dans la BD TOPO). Passerelles supportant une allée, directement reliés au réseau routier. Les passerelles ont une position par rapport au sol supérieure à 0 ».</text>
+      <span begin="3605" end="4365" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="_" postag="NC" morpho="_" head="9" dep="suj">Chemins</word>
+        <word id="3" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+        <word id="4" lem="sente" postag="NC" morpho="g=f|n=p" head="9" dep="mod">sentes</word>
+        <word id="5" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
+        <word id="6" lem="_" postag="NPP" morpho="_" head="9" dep="suj">piésentes</word>
+        <word id="7" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
+        <word id="8" lem="sentier" postag="NC" morpho="g=m|n=p" head="7" dep="dep_coord">sentiers</word>
+        <word id="9" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+        <word id="10" lem="aussi" postag="ADV" morpho="_" head="9" dep="mod">aussi</word>
+        <word id="11" lem="des" postag="DET" morpho="n=p" head="12" dep="det">des</word>
+        <word id="12" lem="élément" postag="NC" morpho="g=m|n=p" head="9" dep="ats">éléments</word>
+        <word id="13" lem="important" postag="ADJ" morpho="g=m|n=p" head="12" dep="mod">importants</word>
+        <word id="14" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+        <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+        <word id="16" lem="toponymie" postag="NC" morpho="g=f|n=s" head="14" dep="prep">toponymie</word>
+        <word id="17" lem=";" postag="PONCT" morpho="_" head="9" dep="ponct">;</word>
+        <word id="18" lem="souvent" postag="ADV" morpho="_" head="19" dep="mod">souvent</word>
+        <word id="19" lem="associer" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">associé</word>
+        <word id="20" lem="à" postag="P" morpho="_" head="19" dep="a_obj">à</word>
+        <word id="21" lem="des" postag="DET" morpho="n=p" head="22" dep="det">des</word>
+        <word id="22" lem="évocation" postag="NC" morpho="g=f|n=s" head="20" dep="prep">évocation</word>
+        <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep">d'</word>
+        <word id="24" lem="animal" postag="NC" morpho="g=m|n=p" head="23" dep="prep">animaux</word>
+        <word id="25" lem="," postag="PONCT" morpho="_" head="19" dep="ponct">,</word>
+        <word id="26" lem="de" postag="P" morpho="_" head="19" dep="de_obj">de</word>
+        <word id="27" lem="lieu" postag="NC" morpho="g=m|n=p" head="26" dep="prep">lieux</word>
+        <word id="28" lem="," postag="PONCT" morpho="_" head="19" dep="ponct">,</word>
+        <word id="29" lem="de" postag="P" morpho="_" head="19" dep="de_obj">de</word>
+        <word id="30" lem="personnage" postag="NC" morpho="g=m|n=p" head="29" dep="prep">personnages</word>
+        <word id="31" lem="ou" postag="CC" morpho="_" head="29" dep="coord">ou</word>
+        <word id="32" lem="de" postag="P" morpho="_" head="31" dep="dep_coord">de</word>
+        <word id="33" lem="fonction" postag="NC" morpho="g=f|n=p" head="32" dep="prep">fonctions</word>
+        <word id="34" lem="(" postag="PONCT" morpho="_" head="32" dep="ponct">(</word>
+        <word id="35" lem="ex" postag="NC" morpho="_" head="32" dep="prep">ex</word>
+        <word id="36" lem=";" postag="PONCT" morpho="_" head="9" dep="ponct">;</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="chemin" postag="NC" morpho="g=m|n=s" head="0" dep="root">chemin</word>
+          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="3" lem="val" postag="NC" morpho="g=m|n=s" head="2" dep="prep">val</word>
+          <word id="4" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
+          <word id="5" lem="loup" postag="NC" morpho="g=m|n=s" head="4" dep="prep">loup</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="chemin" postag="NC" morpho="g=m|n=s" head="0" dep="_">Chemin</word>
+          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="3" lem="Roy" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Roy</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="chemin" postag="NC" morpho="g=m|n=s" head="0" dep="root">Chemin</word>
+          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">PiedmontSentier</word>
+          <word id="4" lem="littoral" postag="ADJ" morpho="g=m|n=s" head="3" dep="mod">littoral</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
+          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
+          <word id="3" lem="cratère" postag="NC" morpho="g=m|n=s" head="2" dep="prep">cratère</word>
+          <word id="4" lem="Dolomieu" postag="NPP" morpho="g=m|n=s" head="3" dep="mod">Dolomieu</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="chemin" postag="NC" morpho="g=m|n=s" head="0" dep="root">chemin</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="halage" postag="NC" morpho="g=m|n=s" head="2" dep="prep">halage</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="chemin" postag="NC" morpho="g=m|n=p" head="0" dep="_">chemins</word>
+        <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+        <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
+        <word id="5" lem="droit" postag="NC" morpho="g=m|n=s" head="3" dep="dep_coord">droit</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="prep">Belgique</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="en" postag="P" morpho="_" head="22" dep="mod">En</word>
+          <word id="2" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="prep">Belgique</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="4" lem="pour" postag="P" morpho="_" head="22" dep="mod">pour</word>
+          <word id="5" lem="ce" postag="PRO" morpho="_" head="4" dep="prep">ce</word>
+          <word id="6" lem="qui" postag="PROREL" morpho="n=s" head="7" dep="suj">qui</word>
+          <word id="7" lem="concerner" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="mod_rel">concerne</word>
+          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
+          <word id="9" lem="droit" postag="NC" morpho="g=m|n=s" head="7" dep="obj">droit</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
+          <word id="11" lem="passage" postag="NC" morpho="g=m|n=s" head="10" dep="prep">passage</word>
+          <word id="12" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
+          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
+          <word id="14" lem="loi" postag="NC" morpho="g=f|n=s" head="22" dep="suj">loi</word>
+          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
+          <word id="16" lem="_" postag="NC" morpho="_" head="15" dep="prep">1841</word>
+          <word id="17" lem="sur" postag="P" morpho="_" head="14" dep="dep">sur</word>
+          <word id="18" lem="les" postag="DET" morpho="n=p" head="19" dep="det">les</word>
+          <word id="19" lem="chemin" postag="NC" morpho="g=m|n=p" head="17" dep="prep">chemins</word>
+          <word id="20" lem="vicinal" postag="ADJ" morpho="g=m|n=p" head="19" dep="mod">vicinaux</word>
+          <word id="21" lem="ne" postag="ADV" morpho="_" head="22" dep="mod">ne</word>
+          <word id="22" lem="faire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">fait</word>
+          <word id="23" lem="pas" postag="ADV" morpho="_" head="22" dep="mod">pas</word>
+          <word id="24" lem="de" postag="DET" morpho="n=p" head="25" dep="det">de</word>
+          <word id="25" lem="distinction" postag="NC" morpho="g=f|n=s" head="22" dep="obj">distinction</word>
+          <word id="26" lem="entre" postag="P" morpho="_" head="22" dep="mod">entre</word>
+          <word id="27" lem="chemin" postag="NC" morpho="g=m|n=p" head="26" dep="prep">chemins</word>
+          <word id="28" lem="et" postag="CC" morpho="_" head="27" dep="coord">et</word>
+          <word id="29" lem="sentier" postag="NC" morpho="g=m|n=p" head="28" dep="dep_coord">sentiers</word>
+          <word id="30" lem="." postag="PONCT" morpho="_" head="22" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="code" postag="NC" morpho="g=m|n=s" head="5" dep="suj">code</word>
+          <word id="3" lem="forestier" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">forestier</word>
+          <word id="4" lem="wallon" postag="NC" morpho="g=m|n=s" head="2" dep="mod">wallon</word>
+          <word id="5" lem="définir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">définit</word>
+          <word id="6" lem="par_contre" postag="ADV" morpho="_" head="5" dep="mod">par_contre</word>
+          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
+          <word id="8" lem="chemin" postag="NC" morpho="g=m|n=s" head="5" dep="obj">chemin</word>
+          <word id="9" lem="comme" postag="P" morpho="_" head="8" dep="dep">comme</word>
+          <word id="10" lem="tout" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">toute</word>
+          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="12" dep="ponct">"</word>
+          <word id="12" lem="voie" postag="NC" morpho="g=f|n=s" head="9" dep="prep">voie</word>
+          <word id="13" lem="ouvert" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">ouverte</word>
+          <word id="14" lem="à" postag="P" morpho="_" head="12" dep="dep">à</word>
+          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
+          <word id="16" lem="circulation" postag="NC" morpho="g=f|n=s" head="14" dep="prep">circulation</word>
+          <word id="17" lem="de" postag="P+D" morpho="g=m|n=s" head="16" dep="dep">du</word>
+          <word id="18" lem="public" postag="NC" morpho="g=m|n=s" head="17" dep="prep">public</word>
+          <word id="19" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="20" lem="en" postag="P" morpho="_" head="8" dep="dep">en</word>
+          <word id="21" lem="terre" postag="NC" morpho="g=f|n=s" head="20" dep="prep">terre</word>
+          <word id="22" lem="ou" postag="CC" morpho="_" head="8" dep="coord">ou</word>
+          <word id="23" lem="empierrer" postag="VPP" morpho="g=f|n=s|t=past" head="22" dep="dep_coord">empierrée</word>
+          <word id="24" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
+          <word id="25" lem="plus" postag="ADV" morpho="_" head="26" dep="mod">plus</word>
+          <word id="26" lem="large" postag="ADJ" morpho="n=s" head="8" dep="mod">large</word>
+          <word id="27" lem="que" postag="CS" morpho="_" head="26" dep="dep">qu'</word>
+          <word id="28" lem="un" postag="DET" morpho="g=m|n=s" head="29" dep="det">un</word>
+          <word id="29" lem="sentier" postag="NC" morpho="g=m|n=s" head="27" dep="sub">sentier</word>
+          <word id="30" lem="," postag="PONCT" morpho="_" head="29" dep="ponct">,</word>
+          <word id="31" lem="qui" postag="PROREL" morpho="n=s" head="35" dep="suj">qui</word>
+          <word id="32" lem="ne" postag="ADV" morpho="_" head="35" dep="mod">n'</word>
+          <word id="33" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="35" dep="aux_pass">est</word>
+          <word id="34" lem="pas" postag="ADV" morpho="_" head="35" dep="mod">pas</word>
+          <word id="35" lem="aménager" postag="VPP" morpho="g=f|n=s|t=past" head="29" dep="mod_rel">aménagée</word>
+          <word id="36" lem="pour" postag="P" morpho="_" head="35" dep="mod">pour</word>
+          <word id="37" lem="la" postag="DET" morpho="g=f|n=s" head="38" dep="det">la</word>
+          <word id="38" lem="circulation" postag="NC" morpho="g=f|n=s" head="36" dep="prep">circulation</word>
+          <word id="39" lem="de" postag="P+D" morpho="n=p" head="38" dep="dep">des</word>
+          <word id="40" lem="véhicule" postag="NC" morpho="g=m|n=p" head="39" dep="prep">véhicules</word>
+          <word id="41" lem="en_général" postag="ADV" morpho="_" head="40" dep="mod">en_général</word>
+          <word id="42" lem="&quot;" postag="PONCT" morpho="_" head="35" dep="ponct">"</word>
+          <word id="43" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
+          <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="réseau" postag="NC" morpho="g=m|n=s" head="16" dep="suj">Réseau</word>
+          <word id="2" lem="routier" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">routier</word>
+          <word id="3" lem="départemental" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">départemental</word>
+          <word id="4" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">FranceLa</word>
+          <word id="6" lem="loi" postag="NC" morpho="g=f|n=s" head="5" dep="mod">loi</word>
+          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
+          <word id="8" lem="#NUM#" postag="ADJ" morpho="n=p" head="9" dep="mod">21</word>
+          <word id="9" lem="mai" postag="NC" morpho="g=m|n=s" head="7" dep="prep">mai</word>
+          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="mod">1836</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="12" lem="dire" postag="VPP" morpho="g=f|n=s|t=past" head="1" dep="mod">dite</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="de_obj">de</word>
+          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">Thiers-Montalivet</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+          <word id="16" lem="distinguer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">distingue</word>
+          <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
+          <word id="18" lem="chemin" postag="NC" morpho="g=m|n=p" head="16" dep="obj">chemins</word>
+          <word id="19" lem="vicinal" postag="ADJ" morpho="g=m|n=p" head="18" dep="mod">vicinaux</word>
+          <word id="20" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
+          <word id="21" lem="classer" postag="VPP" morpho="g=m|n=p|t=past" head="18" dep="mod">classés</word>
+          <word id="22" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
+          <word id="23" lem="gérer" postag="VPP" morpho="g=m|n=p|t=past" head="22" dep="dep_coord">gérés</word>
+          <word id="24" lem="grâce_à" postag="P+D" morpho="n=p" head="23" dep="mod">grâce_aux</word>
+          <word id="25" lem="subvention" postag="NC" morpho="g=f|n=p" head="24" dep="prep">subventions</word>
+          <word id="26" lem="de" postag="P+D" morpho="g=m|n=s" head="25" dep="dep">du</word>
+          <word id="27" lem="conseil" postag="NC" morpho="g=m|n=s" head="26" dep="prep">Conseil</word>
+          <word id="28" lem="général" postag="ADJ" morpho="g=m|n=s" head="27" dep="mod">général</word>
+          <word id="29" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+          <word id="30" lem="des" postag="DET" morpho="n=p" head="31" dep="det">des</word>
+          <word id="31" lem="chemin" postag="NC" morpho="g=m|n=p" head="16" dep="obj">chemins</word>
+          <word id="32" lem="rural" postag="ADJ" morpho="g=m|n=p" head="31" dep="mod">ruraux</word>
+          <word id="33" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="7" dep="suj">décret-loi</word>
+          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
+          <word id="4" lem="#NUM#" postag="ADJ" morpho="n=p" head="5" dep="mod">14</word>
+          <word id="5" lem="juin" postag="NC" morpho="g=m|n=s" head="3" dep="prep">juin</word>
+          <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="mod">1938</word>
+          <word id="7" lem="définir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">définit</word>
+          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
+          <word id="9" lem="catégorie" postag="NC" morpho="g=f|n=s" head="7" dep="obj">catégorie</word>
+          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
+          <word id="11" lem="chemin" postag="NC" morpho="g=m|n=p" head="10" dep="prep">chemins</word>
+          <word id="12" lem="départemental" postag="ADJ" morpho="g=m|n=p" head="11" dep="mod">départementaux</word>
+          <word id="13" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+          <word id="14" lem="propriété" postag="NC" morpho="g=f|n=s" head="11" dep="mod">propriété</word>
+          <word id="15" lem="de" postag="P+D" morpho="g=m|n=s" head="14" dep="dep">du</word>
+          <word id="16" lem="département" postag="NC" morpho="g=m|n=s" head="15" dep="prep">département</word>
+          <word id="17" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
+          <word id="18" lem="cesser" postag="VPR" morpho="t=pst" head="17" dep="dep_coord">cessant</word>
+          <word id="19" lem="alors" postag="ADV" morpho="_" head="18" dep="mod">alors</word>
+          <word id="20" lem="de" postag="P" morpho="_" head="18" dep="de_obj">d'</word>
+          <word id="21" lem="être" postag="VINF" morpho="_" head="20" dep="prep">être</word>
+          <word id="22" lem="à" postag="P" morpho="_" head="21" dep="mod">à</word>
+          <word id="23" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
+          <word id="24" lem="charge" postag="NC" morpho="g=f|n=s" head="22" dep="prep">charge</word>
+          <word id="25" lem="de" postag="P+D" morpho="n=p" head="24" dep="dep">des</word>
+          <word id="26" lem="commune" postag="NC" morpho="g=f|n=p" head="25" dep="prep">communes</word>
+          <word id="27" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="pour" postag="P" morpho="_" head="34" dep="mod">Pour</word>
+          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
+          <word id="3" lem="cartographe" postag="NC" morpho="n=s" head="1" dep="prep">cartographe</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
+          <word id="5" lem="en" postag="P" morpho="_" head="34" dep="mod">en</word>
+          <word id="6" lem="France" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">France</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
+          <word id="8" lem="parmi" postag="P" morpho="_" head="34" dep="mod">parmi</word>
+          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+          <word id="10" lem="classe" postag="NC" morpho="g=f|n=p" head="8" dep="prep">classes</word>
+          <word id="11" lem="ou" postag="CC" morpho="_" head="10" dep="coord">ou</word>
+          <word id="12" lem="type" postag="NC" morpho="g=m|n=p" head="11" dep="dep_coord">types</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="10" dep="dep">d'</word>
+          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
+          <word id="15" lem="système" postag="NC" morpho="g=m|n=p" head="13" dep="prep">systèmes</word>
+          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">d'</word>
+          <word id="17" lem="information" postag="NC" morpho="g=f|n=s" head="16" dep="prep">information</word>
+          <word id="18" lem="géographique" postag="ADJ" morpho="n=s" head="17" dep="mod">géographique</word>
+          <word id="19" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
+          <word id="20" lem="_" postag="NPP" morpho="_" head="15" dep="mod">SIG</word>
+          <word id="21" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
+          <word id="22" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
+          <word id="23" lem="pour" postag="P" morpho="_" head="34" dep="mod">pour</word>
+          <word id="24" lem="la" postag="DET" morpho="g=f|n=s" head="25" dep="det">la</word>
+          <word id="25" lem="boulevard" postag="NC" morpho="g=m" head="23" dep="prep">BD</word>
+          <word id="26" lem="topo" postag="NC" morpho="g=m|n=s" head="25" dep="mod">TOPO</word>
+          <word id="27" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
+          <word id="28" lem="l'" postag="DET" morpho="n=s" head="29" dep="det">l'</word>
+          <word id="29" lem="_" postag="NPP" morpho="_" head="27" dep="prep">IGN</word>
+          <word id="30" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
+          <word id="31" lem="la" postag="DET" morpho="g=f|n=s" head="32" dep="det">la</word>
+          <word id="32" lem="rubrique" postag="NC" morpho="g=f|n=s" head="34" dep="suj">rubrique</word>
+          <word id="33" lem="chemin" postag="NC" morpho="g=m|n=s" head="32" dep="mod">chemin</word>
+          <word id="34" lem="rassembler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">rassemble</word>
+          <word id="35" lem="les" postag="DET" morpho="n=p" head="37" dep="det">les</word>
+          <word id="36" lem="&quot;" postag="PONCT" morpho="_" head="37" dep="ponct">"</word>
+          <word id="37" lem="chemin" postag="NC" morpho="g=m|n=s" head="34" dep="obj">Chemin</word>
+          <word id="38" lem="empierrer" postag="VPP" morpho="g=m|n=s|t=past" head="37" dep="mod">empierré</word>
+          <word id="39" lem="&quot;" postag="PONCT" morpho="_" head="38" dep="ponct">"</word>
+          <word id="40" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
+          <word id="41" lem="&quot;" postag="PONCT" morpho="_" head="34" dep="ponct">"</word>
+          <word id="42" lem="chemin" postag="NC" morpho="g=m|n=p" head="34" dep="obj">Chemins</word>
+          <word id="43" lem="&quot;" postag="PONCT" morpho="_" head="42" dep="ponct">"</word>
+          <word id="44" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
+          <word id="45" lem="&quot;" postag="PONCT" morpho="_" head="34" dep="ponct">"</word>
+          <word id="46" lem="sentier" postag="NC" morpho="g=m|n=p" head="34" dep="obj">sentiers</word>
+          <word id="47" lem="&quot;" postag="PONCT" morpho="_" head="46" dep="ponct">"</word>
+          <word id="48" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
+          <word id="49" lem="&quot;" postag="PONCT" morpho="_" head="34" dep="ponct">"</word>
+          <word id="50" lem="escalier" postag="NC" morpho="g=m|n=p" head="34" dep="obj">escaliers</word>
+          <word id="51" lem="&quot;" postag="PONCT" morpho="_" head="50" dep="ponct">"</word>
+          <word id="52" lem="et" postag="CC" morpho="_" head="50" dep="coord">et</word>
+          <word id="53" lem="&quot;" postag="PONCT" morpho="_" head="52" dep="ponct">"</word>
+          <word id="54" lem="piste" postag="NC" morpho="g=f|n=s" head="52" dep="dep_coord">Piste</word>
+          <word id="55" lem="cyclable" postag="ADJ" morpho="n=s" head="54" dep="mod">cyclable</word>
+          <word id="56" lem="&quot;" postag="PONCT" morpho="_" head="54" dep="ponct">"</word>
+          <word id="57" lem="." postag="PONCT" morpho="_" head="34" dep="ponct">.</word>
+        </sentence>
+        <sentence id="5">
+          <word id="1" lem="dans" postag="P" morpho="_" head="7" dep="mod">Dans</word>
+          <word id="2" lem="cette" postag="DET" morpho="g=f|n=s" head="4" dep="det">cette</word>
+          <word id="3" lem="même" postag="ADJ" morpho="n=s" head="4" dep="mod">même</word>
+          <word id="4" lem="base" postag="NC" morpho="g=f|n=s" head="1" dep="prep">base</word>
+          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
+          <word id="6" lem="chemin" postag="NC" morpho="g=m|n=p" head="7" dep="suj">chemins</word>
+          <word id="7" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
+          <word id="8" lem="être" postag="VINF" morpho="_" head="9" dep="aux_pass">être</word>
+          <word id="9" lem="associer" postag="VPP" morpho="g=m|n=p|t=past" head="7" dep="obj">associés</word>
+          <word id="10" lem="à" postag="P" morpho="_" head="9" dep="a_obj">à</word>
+          <word id="11" lem="des" postag="DET" morpho="n=p" head="13" dep="det">des</word>
+          <word id="12" lem="&quot;" postag="PONCT" morpho="_" head="13" dep="ponct">"</word>
+          <word id="13" lem="bac" postag="NC" morpho="g=m|n=p" head="10" dep="prep">bacs</word>
+          <word id="14" lem="piéton" postag="NC" morpho="g=m|n=s" head="13" dep="mod">piéton</word>
+          <word id="15" lem="&quot;" postag="PONCT" morpho="_" head="13" dep="ponct">"</word>
+          <word id="16" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="17" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
+          <word id="18" lem="gué" postag="NC" morpho="g=m|n=p" head="7" dep="mod">gués</word>
+          <word id="19" lem="&quot;" postag="PONCT" morpho="_" head="18" dep="ponct">"</word>
+          <word id="20" lem="ou" postag="CC" morpho="_" head="18" dep="coord">ou</word>
+          <word id="21" lem="&quot;" postag="PONCT" morpho="_" head="20" dep="ponct">"</word>
+          <word id="22" lem="_" postag="NC" morpho="_" head="20" dep="dep_coord">radiers</word>
+          <word id="23" lem="&quot;" postag="PONCT" morpho="_" head="22" dep="ponct">"</word>
+          <word id="24" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="25" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
+          <word id="26" lem="encore" postag="ADV" morpho="_" head="25" dep="mod">encore</word>
+          <word id="27" lem="à" postag="P" morpho="_" head="25" dep="dep_coord">à</word>
+          <word id="28" lem="des" postag="DET" morpho="n=p" head="30" dep="det">des</word>
+          <word id="29" lem="&quot;" postag="PONCT" morpho="_" head="30" dep="ponct">"</word>
+          <word id="30" lem="pont" postag="NC" morpho="g=m|n=p" head="27" dep="prep">ponts</word>
+          <word id="31" lem="&quot;" postag="PONCT" morpho="_" head="30" dep="ponct">"</word>
+          <word id="32" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
+          <word id="33" lem="&quot;" postag="PONCT" morpho="_" head="32" dep="ponct">"</word>
+          <word id="34" lem="tunnel" postag="NC" morpho="g=m|n=p" head="32" dep="dep_coord">tunnels</word>
+          <word id="35" lem="&quot;" postag="PONCT" morpho="_" head="32" dep="ponct">"</word>
+          <word id="36" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
+        </sentence>
+        <sentence id="6">
+          <word id="1" lem="définition" postag="NC" morpho="g=f|n=p" head="0" dep="_">Définitions</word>
+          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="3" lem="pour" postag="P" morpho="_" head="1" dep="dep">pour</word>
+          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">IGN</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="7" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+        </sentence>
+        <sentence id="7">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="chemin" postag="NC" morpho="g=m|n=p" head="5" dep="suj">chemins</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="5" dep="aux_pass">sont</word>
+          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="5" dep="ponct">"</word>
+          <word id="5" lem="prévoir" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">prévus</word>
+          <word id="6" lem="pour" postag="P" morpho="_" head="5" dep="mod">pour</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="circulation" postag="NC" morpho="g=f|n=s" head="6" dep="prep">circulation</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="véhicule" postag="NC" morpho="g=m|n=p" head="9" dep="prep">véhicules</word>
+          <word id="11" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep_coord">d'</word>
+          <word id="13" lem="engin" postag="NC" morpho="g=m|n=p" head="12" dep="prep">engins</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
+          <word id="15" lem="exploitation" postag="NC" morpho="g=f|n=s" head="14" dep="prep">exploitation</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+        <sentence id="8">
+          <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="3" dep="suj">Ils</word>
+          <word id="2" lem="ne" postag="ADV" morpho="_" head="3" dep="mod">ne</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="4" lem="pas" postag="ADV" morpho="_" head="3" dep="mod">pas</word>
+          <word id="5" lem="forcément" postag="ADV" morpho="_" head="3" dep="mod">forcément</word>
+          <word id="6" lem="carrossable" postag="ADJ" morpho="n=p" head="3" dep="ats">carrossables</word>
+          <word id="7" lem="pour" postag="P" morpho="_" head="3" dep="mod">pour</word>
+          <word id="8" lem="tout" postag="ADJ" morpho="g=m|n=p" head="10" dep="mod">tous</word>
+          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+          <word id="10" lem="véhicule" postag="NC" morpho="g=m|n=p" head="7" dep="prep">véhicules</word>
+          <word id="11" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+          <word id="12" lem="par" postag="P" morpho="_" head="11" dep="dep_coord">par</word>
+          <word id="13" lem="tout" postag="DET" morpho="g=m|n=s" head="14" dep="det">tout</word>
+          <word id="14" lem="temps" postag="NC" morpho="g=m" head="12" dep="prep">temps</word>
+          <word id="15" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+          <word id="16" lem="voir" postag="VINF" morpho="_" head="3" dep="mod">voir</word>
+          <word id="17" lem="aussi" postag="ADV" morpho="_" head="16" dep="mod">aussi</word>
+          <word id="18" lem="&quot;" postag="PONCT" morpho="_" head="16" dep="ponct">"</word>
+          <word id="19" lem="route" postag="NC" morpho="g=f|n=s" head="16" dep="obj">route</word>
+          <word id="20" lem="empierrer" postag="VPP" morpho="g=f|n=s|t=past" head="19" dep="mod">empierrée</word>
+          <word id="21" lem="&quot;" postag="PONCT" morpho="_" head="16" dep="ponct">"</word>
+          <word id="22" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+          <word id="23" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
+          <word id="24" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+          <word id="25" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="24" dep="dep_coord">peuvent</word>
+          <word id="26" lem="comprendre" postag="VINF" morpho="_" head="25" dep="obj">comprendre</word>
+          <word id="27" lem="des" postag="DET" morpho="n=p" head="28" dep="det">des</word>
+          <word id="28" lem="allée" postag="NC" morpho="g=f|n=p" head="26" dep="obj">allées</word>
+          <word id="29" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="30" lem="laie" postag="NC" morpho="g=f|n=p" head="28" dep="mod">laies</word>
+          <word id="31" lem="forestier" postag="ADJ" morpho="g=f|n=p" head="30" dep="mod">forestières</word>
+          <word id="32" lem="(" postag="PONCT" morpho="_" head="28" dep="ponct">(</word>
+          <word id="33" lem="chemin" postag="NC" morpho="g=m|n=s" head="28" dep="mod">Chemin</word>
+          <word id="34" lem="forestier" postag="ADJ" morpho="g=m|n=s" head="33" dep="mod">forestier</word>
+          <word id="35" lem="délimiter" postag="VPR" morpho="t=pst" head="33" dep="mod">délimitant</word>
+          <word id="36" lem="des" postag="DET" morpho="n=p" head="37" dep="det">des</word>
+          <word id="37" lem="parcelle" postag="NC" morpho="g=f|n=p" head="35" dep="obj">parcelles</word>
+          <word id="38" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="39" lem="selon" postag="P" morpho="_" head="28" dep="dep">selon</word>
+          <word id="40" lem="le" postag="DET" morpho="g=m|n=s" head="41" dep="det">le</word>
+          <word id="41" lem="_" postag="NPP" morpho="_" head="39" dep="prep">Larousse</word>
+          <word id="42" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="43" lem="ou" postag="CC" morpho="_" head="28" dep="coord">ou</word>
+          <word id="44" lem="&quot;" postag="PONCT" morpho="_" head="43" dep="ponct">"</word>
+          <word id="45" lem="percée" postag="NC" morpho="g=f|n=s" head="43" dep="dep_coord">Percée</word>
+          <word id="46" lem="en" postag="P" morpho="_" head="45" dep="dep">en</word>
+          <word id="47" lem="ligne" postag="NC" morpho="g=f|n=s" head="46" dep="prep">ligne</word>
+          <word id="48" lem="droit" postag="ADJ" morpho="g=f|n=s" head="47" dep="mod">droite</word>
+          <word id="49" lem="en_général" postag="ADV" morpho="_" head="43" dep="mod">en_général</word>
+          <word id="50" lem="non" postag="ADV" morpho="_" head="43" dep="mod">non</word>
+          <word id="51" lem="empierrer" postag="VPP" morpho="g=f|n=s|t=past" head="43" dep="dep_coord">empierrée</word>
+          <word id="52" lem="," postag="PONCT" morpho="_" head="43" dep="ponct">,</word>
+          <word id="53" lem="pratiquer" postag="VPP" morpho="g=f|n=s|t=past" head="43" dep="dep_coord">pratiquée</word>
+          <word id="54" lem="à_travers" postag="P" morpho="_" head="53" dep="mod">à_travers</word>
+          <word id="55" lem="&quot;" postag="PONCT" morpho="_" head="53" dep="ponct">"</word>
+          <word id="56" lem="selon" postag="P" morpho="_" head="53" dep="mod">selon</word>
+          <word id="57" lem="l'" postag="DET" morpho="n=s" head="58" dep="det">l'</word>
+          <word id="58" lem="association" postag="NC" morpho="g=f|n=s" head="56" dep="prep">association</word>
+          <word id="59" lem="français" postag="ADJ" morpho="g=f|n=s" head="58" dep="mod">française</word>
+          <word id="60" lem="de" postag="P" morpho="_" head="58" dep="dep">de</word>
+          <word id="61" lem="topographie" postag="NC" morpho="g=f|n=s" head="60" dep="prep">topographie</word>
+          <word id="62" lem=")" postag="PONCT" morpho="_" head="28" dep="ponct">)</word>
+          <word id="63" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="64" lem="sentier" postag="NC" morpho="g=m|n=s" head="28" dep="mod">sentier</word>
+          <word id="65" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="9">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="sentier" postag="NC" morpho="g=m|n=p" head="3" dep="suj">sentiers</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="4" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
+          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="6" dep="ponct">"</word>
+          <word id="6" lem="chemin" postag="NC" morpho="g=m|n=p" head="3" dep="ats">Chemins</word>
+          <word id="7" lem="étroit" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">étroits</word>
+          <word id="8" lem="ne" postag="ADV" morpho="_" head="9" dep="mod">ne</word>
+          <word id="9" lem="permettre" postag="VPR" morpho="t=pst" head="6" dep="mod">permettant</word>
+          <word id="10" lem="pas" postag="ADV" morpho="_" head="9" dep="mod">pas</word>
+          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
+          <word id="12" lem="passage" postag="NC" morpho="g=m|n=s" head="9" dep="obj">passage</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+          <word id="14" lem="véhicule" postag="NC" morpho="g=m|n=p" head="13" dep="prep">véhicules</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="10">
+          <word id="1" lem="seul" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">Seuls</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
+          <word id="3" lem="principal" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">principaux</word>
+          <word id="4" lem="sentier" postag="NC" morpho="g=m|n=p" head="6" dep="suj">sentiers</word>
+          <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="aux_pass">sont</word>
+          <word id="6" lem="inclure" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">inclus</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="8" lem="dans" postag="P" morpho="_" head="6" dep="mod">dans</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
+          <word id="10" lem="boulevard" postag="NC" morpho="g=m" head="8" dep="prep">BD</word>
+          <word id="11" lem="_" postag="ADJ" morpho="_" head="10" dep="mod">TOPO</word>
+          <word id="12" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+        <sentence id="11">
+          <word id="1" lem="passerelle" postag="NC" morpho="g=f|n=p" head="0" dep="_">Passerelles</word>
+          <word id="2" lem="supporter" postag="VPR" morpho="t=pst" head="1" dep="mod">supportant</word>
+          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+          <word id="4" lem="allée" postag="NC" morpho="g=f|n=s" head="2" dep="obj">allée</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="6" lem="directement" postag="ADV" morpho="_" head="7" dep="mod">directement</word>
+          <word id="7" lem="relier" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="mod">reliés</word>
+          <word id="8" lem="à" postag="P+D" morpho="g=m|n=s" head="7" dep="a_obj">au</word>
+          <word id="9" lem="réseau" postag="NC" morpho="g=m|n=s" head="8" dep="prep">réseau</word>
+          <word id="10" lem="routier" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">routier</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="12">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="passerelle" postag="NC" morpho="g=f|n=p" head="3" dep="suj">passerelles</word>
+          <word id="3" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">ont</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="position" postag="NC" morpho="g=f|n=s" head="3" dep="obj">position</word>
+          <word id="6" lem="par_rapport_à" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">par_rapport_au</word>
+          <word id="7" lem="sol" postag="NC" morpho="g=m|n=p" head="6" dep="prep">sol</word>
+          <word id="8" lem="supérieur" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">supérieure</word>
+          <word id="9" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">0</word>
+          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="dans" postag="P" morpho="_" head="0" dep="_">Dans</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
+          <word id="3" lem="jardin" postag="NC" morpho="g=m|n=p" head="1" dep="prep">jardins</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="dans" postag="P" morpho="_" head="6" dep="mod">Dans</word>
+          <word id="2" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="3" dep="det">son</word>
+          <word id="3" lem="jardin" postag="NC" morpho="g=m|n=s" head="1" dep="prep">jardin</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+          <word id="5" lem="on" postag="CLS" morpho="n=s|p=3" head="6" dep="suj">on</word>
+          <word id="6" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+          <word id="7" lem="ajouter" postag="VINF" morpho="_" head="6" dep="obj">ajouter</word>
+          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
+          <word id="9" lem="chemin" postag="NC" morpho="g=m|n=s" head="7" dep="obj">chemin</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
+          <word id="11" lem="par" postag="P" morpho="_" head="7" dep="mod">par</word>
+          <word id="12" lem="exemple" postag="NC" morpho="g=m|n=s" head="11" dep="prep">exemple</word>
+          <word id="13" lem="pour" postag="P" morpho="_" head="7" dep="mod">pour</word>
+          <word id="14" lem="le" postag="CLO" morpho="g=m|n=s|p=3" head="15" dep="obj">le</word>
+          <word id="15" lem="parcourir" postag="VINF" morpho="_" head="13" dep="prep">parcourir</word>
+          <word id="16" lem="sans" postag="P" morpho="_" head="15" dep="mod">sans</word>
+          <word id="17" lem="marcher" postag="VINF" morpho="_" head="16" dep="prep">marcher</word>
+          <word id="18" lem="dans" postag="P" morpho="_" head="17" dep="mod">dans</word>
+          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
+          <word id="20" lem="la" postag="DET" morpho="g=f|n=s" head="21" dep="det">la</word>
+          <word id="21" lem="terre" postag="NC" morpho="g=f|n=s" head="19" dep="prep">terre</word>
+          <word id="22" lem="salissant" postag="ADJ" morpho="g=f|n=s" head="21" dep="mod">salissante</word>
+          <word id="23" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
+          <word id="24" lem="surtout" postag="ADV" morpho="_" head="15" dep="mod">surtout</word>
+          <word id="25" lem="en_cas_de" postag="P" morpho="_" head="15" dep="mod">en_cas_d'</word>
+          <word id="26" lem="_" postag="NC" morpho="_" head="25" dep="prep">humidité.Un</word>
+          <word id="27" lem="exemple" postag="NC" morpho="g=m|n=s" head="26" dep="mod">exemple</word>
+          <word id="28" lem="économique" postag="ADJ" morpho="n=s" head="27" dep="mod">économique</word>
+          <word id="29" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="mod">est</word>
+          <word id="30" lem="le" postag="DET" morpho="g=m|n=s" head="31" dep="det">le</word>
+          <word id="31" lem="chemin" postag="NC" morpho="g=m|n=s" head="29" dep="ats">chemin</word>
+          <word id="32" lem="en" postag="P" morpho="_" head="31" dep="dep">en</word>
+          <word id="33" lem="pas" postag="NC" morpho="g=m" head="32" dep="prep">pas</word>
+          <word id="34" lem="japonais" postag="ADJ" morpho="g=m" head="33" dep="mod">japonais</word>
+          <word id="35" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
+          <word id="36" lem="quelques" postag="DET" morpho="n=p" head="38" dep="det">quelques</word>
+          <word id="37" lem="petit" postag="ADJ" morpho="g=f|n=p" head="38" dep="mod">petites</word>
+          <word id="38" lem="dalle" postag="NC" morpho="g=f|n=p" head="6" dep="mod">dalles</word>
+          <word id="39" lem="," postag="PONCT" morpho="_" head="38" dep="ponct">,</word>
+          <word id="40" lem="sur" postag="P" morpho="_" head="43" dep="mod">sur</word>
+          <word id="41" lem="lequel" postag="PROREL" morpho="g=f|n=p" head="40" dep="prep">lesquelles</word>
+          <word id="42" lem="on" postag="CLS" morpho="n=s|p=3" head="43" dep="suj">on</word>
+          <word id="43" lem="poser" postag="V" morpho="n=s|p=13|t=pst" head="38" dep="mod_rel">pose</word>
+          <word id="44" lem="un" postag="DET" morpho="g=m|n=s" head="45" dep="det">un</word>
+          <word id="45" lem="pied" postag="NC" morpho="n=s" head="43" dep="obj">pied</word>
+          <word id="46" lem="à_la_fois" postag="ADV" morpho="_" head="45" dep="mod">à_la_fois</word>
+          <word id="47" lem="," postag="PONCT" morpho="_" head="45" dep="ponct">,</word>
+          <word id="48" lem="légèrement" postag="ADV" morpho="_" head="49" dep="mod">légèrement</word>
+          <word id="49" lem="décaler" postag="VPP" morpho="g=f|n=p|t=past" head="45" dep="mod">décalées</word>
+          <word id="50" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="définition" postag="NC" morpho="g=f|n=p" head="0" dep="_">Définitions</word>
+        <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+        <word id="3" lem="pour" postag="P" morpho="_" head="1" dep="dep">pour</word>
+        <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
+        <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">IGN</word>
+        <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        <word id="7" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="chemin" postag="NC" morpho="g=m|n=p" head="5" dep="suj">chemins</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="5" dep="aux_pass">sont</word>
+          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="5" dep="ponct">"</word>
+          <word id="5" lem="prévoir" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">prévus</word>
+          <word id="6" lem="pour" postag="P" morpho="_" head="5" dep="mod">pour</word>
+          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
+          <word id="8" lem="circulation" postag="NC" morpho="g=f|n=s" head="6" dep="prep">circulation</word>
+          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
+          <word id="10" lem="véhicule" postag="NC" morpho="g=m|n=p" head="9" dep="prep">véhicules</word>
+          <word id="11" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
+          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep_coord">d'</word>
+          <word id="13" lem="engin" postag="NC" morpho="g=m|n=p" head="12" dep="prep">engins</word>
+          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
+          <word id="15" lem="exploitation" postag="NC" morpho="g=f|n=s" head="14" dep="prep">exploitation</word>
+          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="3" dep="suj">Ils</word>
+          <word id="2" lem="ne" postag="ADV" morpho="_" head="3" dep="mod">ne</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="4" lem="pas" postag="ADV" morpho="_" head="3" dep="mod">pas</word>
+          <word id="5" lem="forcément" postag="ADV" morpho="_" head="3" dep="mod">forcément</word>
+          <word id="6" lem="carrossable" postag="ADJ" morpho="n=p" head="3" dep="ats">carrossables</word>
+          <word id="7" lem="pour" postag="P" morpho="_" head="3" dep="mod">pour</word>
+          <word id="8" lem="tout" postag="ADJ" morpho="g=m|n=p" head="10" dep="mod">tous</word>
+          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
+          <word id="10" lem="véhicule" postag="NC" morpho="g=m|n=p" head="7" dep="prep">véhicules</word>
+          <word id="11" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+          <word id="12" lem="par" postag="P" morpho="_" head="11" dep="dep_coord">par</word>
+          <word id="13" lem="tout" postag="DET" morpho="g=m|n=s" head="14" dep="det">tout</word>
+          <word id="14" lem="temps" postag="NC" morpho="g=m" head="12" dep="prep">temps</word>
+          <word id="15" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
+          <word id="16" lem="voir" postag="VINF" morpho="_" head="3" dep="mod">voir</word>
+          <word id="17" lem="aussi" postag="ADV" morpho="_" head="16" dep="mod">aussi</word>
+          <word id="18" lem="&quot;" postag="PONCT" morpho="_" head="16" dep="ponct">"</word>
+          <word id="19" lem="route" postag="NC" morpho="g=f|n=s" head="16" dep="obj">route</word>
+          <word id="20" lem="empierrer" postag="VPP" morpho="g=f|n=s|t=past" head="19" dep="mod">empierrée</word>
+          <word id="21" lem="&quot;" postag="PONCT" morpho="_" head="16" dep="ponct">"</word>
+          <word id="22" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
+          <word id="23" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
+          <word id="24" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
+          <word id="25" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="24" dep="dep_coord">peuvent</word>
+          <word id="26" lem="comprendre" postag="VINF" morpho="_" head="25" dep="obj">comprendre</word>
+          <word id="27" lem="des" postag="DET" morpho="n=p" head="28" dep="det">des</word>
+          <word id="28" lem="allée" postag="NC" morpho="g=f|n=p" head="26" dep="obj">allées</word>
+          <word id="29" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="30" lem="laie" postag="NC" morpho="g=f|n=p" head="28" dep="mod">laies</word>
+          <word id="31" lem="forestier" postag="ADJ" morpho="g=f|n=p" head="30" dep="mod">forestières</word>
+          <word id="32" lem="(" postag="PONCT" morpho="_" head="28" dep="ponct">(</word>
+          <word id="33" lem="chemin" postag="NC" morpho="g=m|n=s" head="28" dep="mod">Chemin</word>
+          <word id="34" lem="forestier" postag="ADJ" morpho="g=m|n=s" head="33" dep="mod">forestier</word>
+          <word id="35" lem="délimiter" postag="VPR" morpho="t=pst" head="33" dep="mod">délimitant</word>
+          <word id="36" lem="des" postag="DET" morpho="n=p" head="37" dep="det">des</word>
+          <word id="37" lem="parcelle" postag="NC" morpho="g=f|n=p" head="35" dep="obj">parcelles</word>
+          <word id="38" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="39" lem="selon" postag="P" morpho="_" head="28" dep="dep">selon</word>
+          <word id="40" lem="le" postag="DET" morpho="g=m|n=s" head="41" dep="det">le</word>
+          <word id="41" lem="_" postag="NPP" morpho="_" head="39" dep="prep">Larousse</word>
+          <word id="42" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="43" lem="ou" postag="CC" morpho="_" head="28" dep="coord">ou</word>
+          <word id="44" lem="&quot;" postag="PONCT" morpho="_" head="43" dep="ponct">"</word>
+          <word id="45" lem="percée" postag="NC" morpho="g=f|n=s" head="43" dep="dep_coord">Percée</word>
+          <word id="46" lem="en" postag="P" morpho="_" head="45" dep="dep">en</word>
+          <word id="47" lem="ligne" postag="NC" morpho="g=f|n=s" head="46" dep="prep">ligne</word>
+          <word id="48" lem="droit" postag="ADJ" morpho="g=f|n=s" head="47" dep="mod">droite</word>
+          <word id="49" lem="en_général" postag="ADV" morpho="_" head="43" dep="mod">en_général</word>
+          <word id="50" lem="non" postag="ADV" morpho="_" head="43" dep="mod">non</word>
+          <word id="51" lem="empierrer" postag="VPP" morpho="g=f|n=s|t=past" head="43" dep="dep_coord">empierrée</word>
+          <word id="52" lem="," postag="PONCT" morpho="_" head="43" dep="ponct">,</word>
+          <word id="53" lem="pratiquer" postag="VPP" morpho="g=f|n=s|t=past" head="43" dep="dep_coord">pratiquée</word>
+          <word id="54" lem="à_travers" postag="P" morpho="_" head="53" dep="mod">à_travers</word>
+          <word id="55" lem="&quot;" postag="PONCT" morpho="_" head="53" dep="ponct">"</word>
+          <word id="56" lem="selon" postag="P" morpho="_" head="53" dep="mod">selon</word>
+          <word id="57" lem="l'" postag="DET" morpho="n=s" head="58" dep="det">l'</word>
+          <word id="58" lem="association" postag="NC" morpho="g=f|n=s" head="56" dep="prep">association</word>
+          <word id="59" lem="français" postag="ADJ" morpho="g=f|n=s" head="58" dep="mod">française</word>
+          <word id="60" lem="de" postag="P" morpho="_" head="58" dep="dep">de</word>
+          <word id="61" lem="topographie" postag="NC" morpho="g=f|n=s" head="60" dep="prep">topographie</word>
+          <word id="62" lem=")" postag="PONCT" morpho="_" head="28" dep="ponct">)</word>
+          <word id="63" lem="," postag="PONCT" morpho="_" head="28" dep="ponct">,</word>
+          <word id="64" lem="sentier" postag="NC" morpho="g=m|n=s" head="28" dep="mod">sentier</word>
+          <word id="65" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
+          <word id="2" lem="sentier" postag="NC" morpho="g=m|n=p" head="3" dep="suj">sentiers</word>
+          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
+          <word id="4" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
+          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="6" dep="ponct">"</word>
+          <word id="6" lem="chemin" postag="NC" morpho="g=m|n=p" head="3" dep="ats">Chemins</word>
+          <word id="7" lem="étroit" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">étroits</word>
+          <word id="8" lem="ne" postag="ADV" morpho="_" head="9" dep="mod">ne</word>
+          <word id="9" lem="permettre" postag="VPR" morpho="t=pst" head="6" dep="mod">permettant</word>
+          <word id="10" lem="pas" postag="ADV" morpho="_" head="9" dep="mod">pas</word>
+          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
+          <word id="12" lem="passage" postag="NC" morpho="g=m|n=s" head="9" dep="obj">passage</word>
+          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
+          <word id="14" lem="véhicule" postag="NC" morpho="g=m|n=p" head="13" dep="prep">véhicules</word>
+          <word id="15" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="seul" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">Seuls</word>
+          <word id="2" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
+          <word id="3" lem="principal" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">principaux</word>
+          <word id="4" lem="sentier" postag="NC" morpho="g=m|n=p" head="6" dep="suj">sentiers</word>
+          <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="aux_pass">sont</word>
+          <word id="6" lem="inclure" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">inclus</word>
+          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
+          <word id="8" lem="dans" postag="P" morpho="_" head="6" dep="mod">dans</word>
+          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
+          <word id="10" lem="boulevard" postag="NC" morpho="g=m" head="8" dep="prep">BD</word>
+          <word id="11" lem="_" postag="ADJ" morpho="_" head="10" dep="mod">TOPO</word>
+          <word id="12" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
+          <word id="13" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
+        </sentence>
+        <sentence id="3">
+          <word id="1" lem="passerelle" postag="NC" morpho="g=f|n=p" head="0" dep="_">Passerelles</word>
+          <word id="2" lem="supporter" postag="VPR" morpho="t=pst" head="1" dep="mod">supportant</word>
+          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+          <word id="4" lem="allée" postag="NC" morpho="g=f|n=s" head="2" dep="obj">allée</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="6" lem="directement" postag="ADV" morpho="_" head="7" dep="mod">directement</word>
+          <word id="7" lem="relier" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="mod">reliés</word>
+          <word id="8" lem="à" postag="P+D" morpho="g=m|n=s" head="7" dep="a_obj">au</word>
+          <word id="9" lem="réseau" postag="NC" morpho="g=m|n=s" head="8" dep="prep">réseau</word>
+          <word id="10" lem="routier" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">routier</word>
+          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="4">
+          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+          <word id="2" lem="passerelle" postag="NC" morpho="g=f|n=p" head="3" dep="suj">passerelles</word>
+          <word id="3" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">ont</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="position" postag="NC" morpho="g=f|n=s" head="3" dep="obj">position</word>
+          <word id="6" lem="par_rapport_à" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">par_rapport_au</word>
+          <word id="7" lem="sol" postag="NC" morpho="g=m|n=p" head="6" dep="prep">sol</word>
+          <word id="8" lem="supérieur" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">supérieure</word>
+          <word id="9" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
+          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">0</word>
+          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
+          <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="187" />
+      <text>Les Chemins, sentes, piésentes et sentiers sont aussi des éléments importants de la toponymie ; souvent associé à des évocation d'animaux, de lieux, de personnages ou de fonctions (ex ;</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="187" end="209" id="0" />
+      <text id="0">chemin du val au loup,</text>
+      <span begin="210" end="224" id="1" />
+      <text id="1">Chemin du Roy,</text>
+      <span begin="225" end="260" id="2" />
+      <text id="2">Chemin du PiedmontSentier littoral,</text>
+      <span begin="261" end="289" id="3" />
+      <text id="3">Sentier du cratère Dolomieu,</text>
+      <span begin="290" end="306" id="4" />
+      <text id="4">chemin de halage</text>
+      <span begin="306" end="310" id="5" />
+      <text id="5">...)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="24" />
+      <text>Les chemins et le droit</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="25" end="414" id="0" />
+      <text id="0">En Belgique
+En Belgique, pour ce qui concerne le droit de passage, la loi de 1841 sur les chemins vicinaux ne fait pas de distinction entre chemins et sentiers. Le code forestier wallon définit par contre le chemin comme toute « voie ouverte à la circulation du public, en terre ou empierrée, plus large qu’un sentier, qui n’est pas aménagée pour la circulation des véhicules en général ».</text>
+      <span begin="415" end="1934" id="1" />
+      <text id="1">En France
+Réseau routier départemental de FranceLa loi du 21 mai 1836, dite de Thiers-Montalivet, distingue les chemins vicinaux, classés et gérés grâce aux subventions du Conseil général, des chemins ruraux.
+Le décret-loi du 14 juin 1938 définit la catégorie des chemins départementaux, propriété du département et cessant alors d'être à la charge des communes.
+Pour le cartographe, en France, parmi les classes ou types d'un systèmes d'information géographique (SIG), pour la BD TOPO de l'IGN, la rubrique chemin rassemble les « Chemin empierré », « Chemins », « sentiers », « escaliers » et « Piste cyclable ». Dans cette même base les chemins peuvent être associés à des « bacs piéton », « gués » ou « radiers », ou encore à des « ponts » et « tunnels ».
+Définitions (pour l'IGN) :
+les chemins sont « prévus pour la circulation de véhicules ou d’engins d’exploitation. Ils ne sont pas forcément carrossables pour tous les véhicules et par tout temps (voir aussi “route empierrée”) » et peuvent comprendre des allées, laies forestières (Chemin forestier délimitant des parcelles, selon le Larousse, ou « Percée en ligne droite en général non empierrée, pratiquée à travers » selon l'association française de topographie), sentier.
+les sentiers sont des « Chemins étroits ne permettant pas le passage de véhicules. Seuls les principaux sentiers sont inclus (dans la BD TOPO). Passerelles supportant une allée, directement reliés au réseau routier. Les passerelles ont une position par rapport au sol supérieure à 0 ».</text>
+      <span begin="1935" end="2235" id="2" />
+      <text id="2">Dans les jardins
+Dans son jardin, on peut ajouter un chemin, par exemple pour le parcourir sans marcher dans de la terre salissante, surtout en cas d'humidité.Un exemple économique est le chemin en pas japonais : quelques petites dalles, sur lesquelles on pose un pied à la fois, légèrement décalées.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="27" />
+      <text>Définitions (pour l'IGN) :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="28" end="475" id="0" />
+      <text id="0">les chemins sont « prévus pour la circulation de véhicules ou d’engins d’exploitation. Ils ne sont pas forcément carrossables pour tous les véhicules et par tout temps (voir aussi “route empierrée”) » et peuvent comprendre des allées, laies forestières (Chemin forestier délimitant des parcelles, selon le Larousse, ou « Percée en ligne droite en général non empierrée, pratiquée à travers » selon l'association française de topographie), sentier.</text>
+      <span begin="476" end="761" id="1" />
+      <text id="1">les sentiers sont des « Chemins étroits ne permettant pas le passage de véhicules. Seuls les principaux sentiers sont inclus (dans la BD TOPO). Passerelles supportant une allée, directement reliés au réseau routier. Les passerelles ont une position par rapport au sol supérieure à 0 ».</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="12" id="0" />
+      <text id="0">Les Chemins</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="187" end="208" id="0" />
+      <text id="0">chemin du val au loup</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="210" end="223" id="0" />
+      <text id="0">Chemin du Roy</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="225" end="259" id="0" />
+      <text id="0">Chemin du PiedmontSentier littoral</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="261" end="288" id="0" />
+      <text id="0">Sentier du cratère Dolomieu</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
+      <span begin="290" end="306" id="0" />
+      <text id="0">chemin de halage</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="12" id="0" />
+      <text id="0">Définitions</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="28" end="474" id="0" />
+      <text id="0">les chemins sont « prévus pour la circulation de véhicules ou d’engins d’exploitation. Ils ne sont pas forcément carrossables pour tous les véhicules et par tout temps (voir aussi “route empierrée”) » et peuvent comprendre des allées, laies forestières (Chemin forestier délimitant des parcelles, selon le Larousse, ou « Percée en ligne droite en général non empierrée, pratiquée à travers » selon l'association française de topographie), sentier</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="476" end="761" id="0" />
+      <text id="0">les sentiers sont des « Chemins étroits ne permettant pas le passage de véhicules. Seuls les principaux sentiers sont inclus (dans la BD TOPO). Passerelles supportant une allée, directement reliés au réseau routier. Les passerelles ont une position par rapport au sol supérieure à 0 ».</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+      <span begin="14" end="24" id="0" />
+      <text id="0">pour l'IGN</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:28</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="0">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="0" />
+      <verticale value="1" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:40</date>
+      <document>Chemin.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="1" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>

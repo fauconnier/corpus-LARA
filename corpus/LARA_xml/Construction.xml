@@ -1,0 +1,3129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <annotation type="1">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>0</id>
+      <text>Les projets sont cependant généralement conçus et menés par un « maître d'œuvre » (architecte, bureau d'études)</text>
+      <span begin="604" end="715" />
+    </SE>
+    <comment>unknown</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>1</id>
+      <text>Les différents intervenants de la construction sont identifiés dans ce que l'on appelle les « corps d'État » : gros œuvre, couverture, plomberie, électricité, chauffage, peinture, etc. (pour le bâtiment), voirie, éclairage, réseaux d'eau (eau potable, tout-à-l'égout, eaux pluviales), réseaux « secs » (électricité, gaz, téléphone, fibre optique, etc.), signalisation, etc. (pour les travaux publics).</text>
+      <span begin="1233" end="1634" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>2</id>
+      <text>réseaux d'eau (eau potable, tout-à-l'égout, eaux pluviales),</text>
+      <span begin="1457" end="1517" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>3</id>
+      <text>réseaux « secs » (électricité, gaz, téléphone, fibre optique, etc.),</text>
+      <span begin="1518" end="1586" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>4</id>
+      <text>Dans tous les pays, les chantiers de construction ou réhabilitation sont soumis à une réglementation croissante (garantie - par exemple décennale en France -, règles et normes de construction, protection des travailleurs et du public, etc.).</text>
+      <span begin="2471" end="2713" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:02</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>5</id>
+      <text>Le mode de passation des marchés publics est notamment encadré, pour permettre une concurrence libre tout en évitant une distorsion du marché (corruption, etc.)</text>
+      <span begin="2712" end="2873" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>6</id>
+      <text>La réglementation tend aussi à évoluer dans le sens d'une meilleure intégration de l'environnement, en termes de chantier propre et moins nuisant (lutte contre le bruit et la poussière, tri et récupération des déchets, recyclage des matériaux, etc.)</text>
+      <span begin="3525" end="3775" />
+    </SE>
+    <comment>segments</comment>
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>7</id>
+      <text>On peut distinguer cinq types de constructions : résidentielles, commerciales, industrielles, de travaux publics (TP) et institutionnelles.</text>
+      <span begin="4287" end="4426" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>8</id>
+      <text>On peut citer comme exemple de chantiers de travaux publics : routes, autoroutes, voies ferrées, ponts, gazoducs, oléoducs, aménagements urbains (aménagement d'une place, enterrement de lignes électriques et téléphoniques, lignes de tramway, etc.), aménagements portuaires, etc.</text>
+      <span begin="9582" end="9860" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>9</id>
+      <text>aménagements urbains (aménagement d'une place, enterrement de lignes électriques et téléphoniques, lignes de tramway, etc.)</text>
+      <span begin="9706" end="9829" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>10</id>
+      <text>À côté des « grands travaux », il y a aussi de nombreux chantiers de travaux publics de petite taille aussi bien pour les collectivités locales (aménagement d'un passage pour piétons, d'un rond-point, éclairage, etc.)</text>
+      <span begin="10267" end="10485" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="1">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SE>
+      <id>11</id>
+      <text>À côté des « grands travaux », il y a aussi de nombreux chantiers de travaux publics de petite taille aussi bien pour les collectivités locales (aménagement d'un passage pour piétons, d'un rond-point, éclairage, etc.) que pour des particuliers ou des entreprises (revêtement d'une allée, aménagement d'un parking, etc.)</text>
+      <span begin="10267" end="10586" />
+    </SE>
+    <comment />
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="0">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
+        <word id="2" lem="projet" postag="NC" morpho="g=m|n=p" head="6" dep="suj">projets</word>
+        <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="aux_pass">sont</word>
+        <word id="4" lem="cependant" postag="ADV" morpho="_" head="6" dep="mod">cependant</word>
+        <word id="5" lem="généralement" postag="ADV" morpho="_" head="6" dep="mod">généralement</word>
+        <word id="6" lem="concevoir" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">conçus</word>
+        <word id="7" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
+        <word id="8" lem="mener" postag="VPP" morpho="g=m|n=p|t=past" head="7" dep="dep_coord">menés</word>
+        <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
+        <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
+        <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="12" dep="ponct">"</word>
+        <word id="12" lem="maître" postag="NC" morpho="g=m|n=s" head="9" dep="prep">maître</word>
+        <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
+        <word id="14" lem="_" postag="NC" morpho="_" head="13" dep="prep">œuvre</word>
+        <word id="15" lem="&quot;" postag="PONCT" morpho="_" head="12" dep="ponct">"</word>
+        <word id="16" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="0">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="architecte" postag="NC" morpho="n=s" head="0" dep="_">architecte</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="bureau" postag="NC" morpho="g=m|n=s" head="0" dep="_">bureau</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="3" lem="étude" postag="NC" morpho="g=f|n=p" head="2" dep="prep">études</word>
+          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="1">
+      <sentence id="1">
+        <word id="1" lem="les" postag="DET" morpho="n=p" head="3" dep="det">Les</word>
+        <word id="2" lem="différent" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">différents</word>
+        <word id="3" lem="intervenant" postag="NC" morpho="g=m|n=p" head="8" dep="suj">intervenants</word>
+        <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
+        <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
+        <word id="6" lem="construction" postag="NC" morpho="g=f|n=s" head="4" dep="prep">construction</word>
+        <word id="7" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="8" dep="aux_pass">sont</word>
+        <word id="8" lem="identifier" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">identifiés</word>
+        <word id="9" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
+        <word id="10" lem="ce" postag="PRO" morpho="_" head="9" dep="prep">ce</word>
+        <word id="11" lem="que" postag="PROREL" morpho="_" head="13" dep="obj">que</word>
+        <word id="12" lem="l'on" postag="CLS" morpho="n=s|p=3" head="13" dep="suj">l'on</word>
+        <word id="13" lem="appeler" postag="V" morpho="n=s|p=13|t=pst" head="10" dep="mod_rel">appelle</word>
+        <word id="14" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
+        <word id="15" lem="&quot;" postag="PONCT" morpho="_" head="16" dep="ponct">"</word>
+        <word id="16" lem="corps" postag="NC" morpho="g=m" head="13" dep="obj">corps</word>
+        <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">d'</word>
+        <word id="18" lem="État" postag="NC" morpho="g=m|n=s" head="17" dep="prep">État</word>
+        <word id="19" lem="&quot;" postag="PONCT" morpho="_" head="8" dep="ponct">"</word>
+        <word id="20" lem=":" postag="PONCT" morpho="_" head="8" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="1">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="gros" postag="ADJ" morpho="g=m" head="2" dep="mod">gros</word>
+          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">œuvre</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="couverture" postag="NC" morpho="g=f|n=s" head="0" dep="root">couverture</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="plomberie" postag="NC" morpho="g=f|n=s" head="0" dep="_">plomberie</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="électricité" postag="NC" morpho="g=f|n=s" head="0" dep="_">électricité</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="chauffage" postag="NC" morpho="g=m|n=s" head="0" dep="_">chauffage</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="peinture" postag="NC" morpho="g=f|n=s" head="0" dep="_">peinture</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="root">etc</word>
+          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
+          <word id="2" lem="pour" postag="P" morpho="_" head="0" dep="_">pour</word>
+          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
+          <word id="4" lem="bâtiment" postag="NC" morpho="g=m|n=s" head="2" dep="prep">bâtiment</word>
+          <word id="5" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="voirie" postag="NC" morpho="g=f|n=s" head="0" dep="_">voirie</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="éclairage" postag="NC" morpho="g=m|n=s" head="0" dep="_">éclairage</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="9">
+        <sentence id="1">
+          <word id="1" lem="réseau" postag="NC" morpho="g=m|n=p" head="0" dep="_">réseaux</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="3" lem="eau" postag="NC" morpho="g=f|n=s" head="2" dep="prep">eau</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="5" lem="eau" postag="NC" morpho="g=f|n=s" head="1" dep="mod">eau</word>
+          <word id="6" lem="potable" postag="ADJ" morpho="n=s" head="5" dep="mod">potable</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="8" lem="_" postag="ADJ" morpho="_" head="9" dep="mod">tout-à-l'</word>
+          <word id="9" lem="égout" postag="NC" morpho="g=m|n=s" head="1" dep="mod">égout</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="11" lem="eau" postag="NC" morpho="g=f|n=p" head="1" dep="mod">eaux</word>
+          <word id="12" lem="pluvial" postag="ADJ" morpho="g=f|n=p" head="11" dep="mod">pluviales</word>
+          <word id="13" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="10">
+        <sentence id="1">
+          <word id="1" lem="réseau" postag="NC" morpho="g=m|n=p" head="0" dep="root">réseaux</word>
+          <word id="2" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
+          <word id="3" lem="sec" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">secs</word>
+          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
+          <word id="5" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="6" lem="électricité" postag="NC" morpho="g=f|n=s" head="1" dep="mod">électricité</word>
+          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="8" lem="gaz" postag="NC" morpho="g=m" head="1" dep="mod">gaz</word>
+          <word id="9" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="10" lem="téléphone" postag="NC" morpho="g=m|n=s" head="1" dep="mod">téléphone</word>
+          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="12" lem="fibre" postag="NC" morpho="g=f|n=s" head="1" dep="mod">fibre</word>
+          <word id="13" lem="optique" postag="ADJ" morpho="n=s" head="12" dep="mod">optique</word>
+          <word id="14" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="15" lem="_" postag="ADV" morpho="_" head="1" dep="mod">etc.</word>
+          <word id="16" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="17" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="11">
+        <sentence id="1">
+          <word id="1" lem="signalisation" postag="NC" morpho="g=f|n=s" head="0" dep="_">signalisation</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="12">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="root">etc</word>
+          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+        <sentence id="2">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
+          <word id="2" lem="pour" postag="P" morpho="_" head="0" dep="_">pour</word>
+          <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
+          <word id="4" lem="travail" postag="NC" morpho="g=m|n=p" head="2" dep="prep">travaux</word>
+          <word id="5" lem="public" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">publics</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
+          <word id="7" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="2">
+      <sentence id="1">
+        <word id="1" lem="réseau" postag="NC" morpho="g=m|n=p" head="0" dep="_">réseaux</word>
+        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+        <word id="3" lem="eau" postag="NC" morpho="g=f|n=s" head="2" dep="prep">eau</word>
+        <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="2">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="eau" postag="NC" morpho="g=f|n=s" head="0" dep="root">eau</word>
+          <word id="2" lem="potable" postag="ADJ" morpho="n=s" head="1" dep="mod">potable</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">tout-à-l'</word>
+          <word id="2" lem="égout" postag="NC" morpho="g=m|n=s" head="0" dep="_">égout</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="eau" postag="NC" morpho="g=f|n=p" head="0" dep="root">eaux</word>
+          <word id="2" lem="pluvial" postag="ADJ" morpho="g=f|n=p" head="1" dep="mod">pluviales</word>
+          <word id="3" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="3">
+      <sentence id="1">
+        <word id="1" lem="réseau" postag="NC" morpho="g=m|n=p" head="0" dep="root">réseaux</word>
+        <word id="2" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
+        <word id="3" lem="sec" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">secs</word>
+        <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
+        <word id="5" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="3">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="électricité" postag="NC" morpho="g=f|n=s" head="0" dep="_">électricité</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="2" lem="gaz" postag="NC" morpho="g=m" head="0" dep="_">gaz</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="téléphone" postag="NC" morpho="g=m|n=s" head="0" dep="root">téléphone</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="fibre" postag="NC" morpho="g=f|n=s" head="0" dep="root">fibre</word>
+          <word id="2" lem="optique" postag="ADJ" morpho="n=s" head="1" dep="mod">optique</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="mod">etc.</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="4">
+      <sentence id="1">
+        <word id="1" lem="dans" postag="P" morpho="_" head="13" dep="mod">Dans</word>
+        <word id="2" lem="tout" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">tous</word>
+        <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
+        <word id="4" lem="pays" postag="NC" morpho="g=m" head="1" dep="prep">pays</word>
+        <word id="5" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
+        <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
+        <word id="7" lem="chantier" postag="NC" morpho="g=m|n=p" head="13" dep="suj">chantiers</word>
+        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+        <word id="9" lem="construction" postag="NC" morpho="g=f|n=s" head="8" dep="prep">construction</word>
+        <word id="10" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
+        <word id="11" lem="réhabilitation" postag="NC" morpho="g=f|n=s" head="10" dep="dep_coord">réhabilitation</word>
+        <word id="12" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="13" dep="aux_pass">sont</word>
+        <word id="13" lem="soumettre" postag="VPP" morpho="g=m|t=past" head="0" dep="root">soumis</word>
+        <word id="14" lem="à" postag="P" morpho="_" head="13" dep="a_obj">à</word>
+        <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
+        <word id="16" lem="réglementation" postag="NC" morpho="g=f|n=s" head="14" dep="prep">réglementation</word>
+        <word id="17" lem="croissant" postag="ADJ" morpho="g=f|n=s" head="16" dep="mod">croissante</word>
+        <word id="18" lem="(" postag="PONCT" morpho="_" head="16" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="4">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="garantie" postag="NC" morpho="g=f|n=s" head="0" dep="root">garantie</word>
+          <word id="3" lem="-" postag="PONCT" morpho="_" head="2" dep="ponct">-</word>
+          <word id="4" lem="par" postag="P" morpho="_" head="2" dep="dep">par</word>
+          <word id="5" lem="exemple" postag="NC" morpho="g=m|n=s" head="4" dep="prep">exemple</word>
+          <word id="6" lem="décennal" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">décennale</word>
+          <word id="7" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
+          <word id="8" lem="France" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">France</word>
+          <word id="9" lem="-" postag="PONCT" morpho="_" head="2" dep="ponct">-</word>
+          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="règle" postag="NC" morpho="g=f|n=p" head="0" dep="_">règles</word>
+          <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="norme" postag="NC" morpho="g=f|n=p" head="0" dep="root">normes</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="construction" postag="NC" morpho="g=f|n=s" head="2" dep="prep">construction</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="protection" postag="NC" morpho="g=f|n=s" head="0" dep="_">protection</word>
+          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+          <word id="3" lem="travailleur" postag="NC" morpho="g=m|n=p" head="2" dep="prep">travailleurs</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="et" postag="CC" morpho="_" head="0" dep="root">et</word>
+          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep_coord">du</word>
+          <word id="3" lem="public" postag="NC" morpho="g=m|n=s" head="2" dep="prep">public</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="mod_rel">etc.</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="root">)</word>
+          <word id="3" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:02</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="5">
+      <sentence id="1">
+        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
+        <word id="2" lem="mode" postag="NC" morpho="n=s" head="10" dep="suj">mode</word>
+        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
+        <word id="4" lem="passation" postag="NC" morpho="g=f|n=s" head="3" dep="prep">passation</word>
+        <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
+        <word id="6" lem="marché" postag="NC" morpho="g=m|n=p" head="5" dep="prep">marchés</word>
+        <word id="7" lem="public" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">publics</word>
+        <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="aux_tps">est</word>
+        <word id="9" lem="notamment" postag="ADV" morpho="_" head="10" dep="mod">notamment</word>
+        <word id="10" lem="encadrer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">encadré</word>
+        <word id="11" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
+        <word id="12" lem="pour" postag="P" morpho="_" head="10" dep="mod">pour</word>
+        <word id="13" lem="permettre" postag="VINF" morpho="_" head="12" dep="prep">permettre</word>
+        <word id="14" lem="une" postag="DET" morpho="g=f|n=s" head="15" dep="det">une</word>
+        <word id="15" lem="concurrence" postag="NC" morpho="g=f|n=s" head="13" dep="obj">concurrence</word>
+        <word id="16" lem="libre" postag="ADJ" morpho="n=s" head="15" dep="mod">libre</word>
+        <word id="17" lem="tout" postag="ADV" morpho="_" head="18" dep="mod">tout</word>
+        <word id="18" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
+        <word id="19" lem="éviter" postag="VPR" morpho="t=pst" head="18" dep="prep">évitant</word>
+        <word id="20" lem="une" postag="DET" morpho="g=f|n=s" head="21" dep="det">une</word>
+        <word id="21" lem="distorsion" postag="NC" morpho="g=f|n=s" head="19" dep="obj">distorsion</word>
+        <word id="22" lem="de" postag="P+D" morpho="g=m|n=s" head="21" dep="dep">du</word>
+        <word id="23" lem="marché" postag="NC" morpho="g=m|n=s" head="22" dep="prep">marché</word>
+        <word id="24" lem="(" postag="PONCT" morpho="_" head="21" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:02</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="5">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="corruption" postag="NC" morpho="g=f|n=s" head="0" dep="_">corruption</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="6">
+      <sentence id="1">
+        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
+        <word id="2" lem="réglementation" postag="NC" morpho="g=f|n=s" head="3" dep="suj">réglementation</word>
+        <word id="3" lem="tendre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">tend</word>
+        <word id="4" lem="aussi" postag="ADV" morpho="_" head="3" dep="mod">aussi</word>
+        <word id="5" lem="à" postag="P" morpho="_" head="3" dep="a_obj">à</word>
+        <word id="6" lem="évoluer" postag="VINF" morpho="_" head="5" dep="prep">évoluer</word>
+        <word id="7" lem="dans" postag="P" morpho="_" head="6" dep="mod">dans</word>
+        <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
+        <word id="9" lem="sens" postag="NC" morpho="g=m" head="7" dep="prep">sens</word>
+        <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
+        <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="13" dep="det">une</word>
+        <word id="12" lem="meilleur" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">meilleure</word>
+        <word id="13" lem="intégration" postag="NC" morpho="g=f|n=s" head="10" dep="prep">intégration</word>
+        <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
+        <word id="15" lem="l'" postag="DET" morpho="n=s" head="16" dep="det">l'</word>
+        <word id="16" lem="environnement" postag="NC" morpho="g=m|n=s" head="14" dep="prep">environnement</word>
+        <word id="17" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
+        <word id="18" lem="en_termes_de" postag="P" morpho="_" head="6" dep="mod">en_termes_de</word>
+        <word id="19" lem="chantier" postag="NC" morpho="g=m|n=s" head="18" dep="prep">chantier</word>
+        <word id="20" lem="propre" postag="ADJ" morpho="n=s" head="19" dep="mod">propre</word>
+        <word id="21" lem="et" postag="CC" morpho="_" head="20" dep="coord">et</word>
+        <word id="22" lem="moins" postag="ADV" morpho="_" head="23" dep="mod">moins</word>
+        <word id="23" lem="_" postag="ADJ" morpho="_" head="21" dep="dep_coord">nuisant</word>
+        <word id="24" lem="(" postag="PONCT" morpho="_" head="19" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="6">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="lutte" postag="NC" morpho="g=f|n=s" head="0" dep="root">lutte</word>
+          <word id="3" lem="contre" postag="P" morpho="_" head="2" dep="dep">contre</word>
+          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
+          <word id="5" lem="bruit" postag="NC" morpho="g=m|n=s" head="3" dep="prep">bruit</word>
+          <word id="6" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
+          <word id="2" lem="poussière" postag="NC" morpho="g=f|n=s" head="0" dep="_">poussière</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="tri" postag="NC" morpho="g=m|n=s" head="0" dep="_">tri</word>
+          <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="récupération" postag="NC" morpho="g=f|n=s" head="0" dep="_">récupération</word>
+          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+          <word id="3" lem="déchet" postag="NC" morpho="g=m|n=p" head="2" dep="prep">déchets</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="recyclage" postag="NC" morpho="g=m|n=s" head="0" dep="_">recyclage</word>
+          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
+          <word id="3" lem="matériau" postag="NC" morpho="g=m|n=p" head="2" dep="prep">matériaux</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="7">
+      <sentence id="1">
+        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
+        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+        <word id="3" lem="distinguer" postag="VINF" morpho="_" head="2" dep="obj">distinguer</word>
+        <word id="4" lem="deux" postag="ADJ" morpho="n=p" head="5" dep="mod">cinq</word>
+        <word id="5" lem="type" postag="NC" morpho="g=m|n=p" head="3" dep="obj">types</word>
+        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+        <word id="7" lem="construction" postag="NC" morpho="g=f|n=p" head="6" dep="prep">constructions</word>
+        <word id="8" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="7">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
+          <word id="2" lem="résidentiel" postag="ADJ" morpho="g=f|n=p" head="0" dep="_">résidentielles</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="commercial" postag="ADJ" morpho="g=f|n=p" head="0" dep="_">commerciales</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="industriel" postag="ADJ" morpho="g=f|n=p" head="0" dep="_">industrielles</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
+          <word id="2" lem="travail" postag="NC" morpho="g=m|n=p" head="1" dep="prep">travaux</word>
+          <word id="3" lem="public" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">publics</word>
+          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="prep">TP</word>
+          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
+          <word id="7" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="institutionnel" postag="ADJ" morpho="g=f|n=p" head="0" dep="root">institutionnelles</word>
+          <word id="2" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="8">
+      <sentence id="1">
+        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
+        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
+        <word id="3" lem="citer" postag="VINF" morpho="_" head="2" dep="obj">citer</word>
+        <word id="4" lem="comme" postag="P" morpho="_" head="3" dep="mod">comme</word>
+        <word id="5" lem="exemple" postag="NC" morpho="g=m|n=s" head="4" dep="prep">exemple</word>
+        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
+        <word id="7" lem="chantier" postag="NC" morpho="g=m|n=p" head="6" dep="prep">chantiers</word>
+        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
+        <word id="9" lem="travail" postag="NC" morpho="g=m|n=p" head="8" dep="prep">travaux</word>
+        <word id="10" lem="public" postag="ADJ" morpho="g=m|n=p" head="9" dep="mod">publics</word>
+        <word id="11" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="8">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="route" postag="NC" morpho="g=f|n=p" head="0" dep="_">routes</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="autoroute" postag="NC" morpho="g=f|n=p" head="0" dep="_">autoroutes</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="voie" postag="NC" morpho="g=f|n=p" head="0" dep="root">voies</word>
+          <word id="2" lem="ferrer" postag="ADJ" morpho="g=f|n=p|t=past" head="1" dep="mod">ferrées</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="pont" postag="NC" morpho="g=m|n=p" head="0" dep="_">ponts</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="gazoduc" postag="NC" morpho="g=m|n=p" head="0" dep="_">gazoducs</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="5">
+        <sentence id="1">
+          <word id="1" lem="oléoduc" postag="NC" morpho="g=m|n=p" head="0" dep="_">oléoducs</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="6">
+        <sentence id="1">
+          <word id="1" lem="aménagement" postag="NC" morpho="g=m|n=p" head="0" dep="_">aménagements</word>
+          <word id="2" lem="urbain" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">urbains</word>
+          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+          <word id="4" lem="aménagement" postag="NC" morpho="g=m|n=s" head="1" dep="mod">aménagement</word>
+          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
+          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
+          <word id="7" lem="place" postag="NC" morpho="g=f|n=s" head="5" dep="prep">place</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+          <word id="9" lem="enterrement" postag="NC" morpho="g=m|n=s" head="1" dep="mod">enterrement</word>
+          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
+          <word id="11" lem="ligne" postag="NC" morpho="g=f|n=p" head="10" dep="prep">lignes</word>
+          <word id="12" lem="électrique" postag="ADJ" morpho="n=p" head="11" dep="mod">électriques</word>
+          <word id="13" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
+          <word id="14" lem="téléphonique" postag="ADJ" morpho="n=p" head="13" dep="dep_coord">téléphoniques</word>
+          <word id="15" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+          <word id="16" lem="ligne" postag="NC" morpho="g=f|n=p" head="0" dep="_">lignes</word>
+          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
+          <word id="18" lem="tramway" postag="NC" morpho="g=m|n=s" head="17" dep="prep">tramway</word>
+          <word id="19" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
+          <word id="20" lem="_" postag="ADV" morpho="_" head="16" dep="mod">etc.</word>
+          <word id="21" lem=")" postag="PONCT" morpho="_" head="16" dep="ponct">)</word>
+          <word id="22" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="7">
+        <sentence id="1">
+          <word id="1" lem="aménagement" postag="NC" morpho="g=m|n=p" head="0" dep="_">aménagements</word>
+          <word id="2" lem="portuaire" postag="ADJ" morpho="n=p" head="1" dep="mod">portuaires</word>
+          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="8">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="root">etc</word>
+          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="9">
+      <sentence id="1">
+        <word id="1" lem="aménagement" postag="NC" morpho="g=m|n=p" head="0" dep="_">aménagements</word>
+        <word id="2" lem="urbain" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">urbains</word>
+        <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="9">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="aménagement" postag="NC" morpho="g=m|n=s" head="0" dep="root">aménagement</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
+          <word id="4" lem="place" postag="NC" morpho="g=f|n=s" head="2" dep="prep">place</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="enterrement" postag="NC" morpho="g=m|n=s" head="0" dep="_">enterrement</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="ligne" postag="NC" morpho="g=f|n=p" head="2" dep="prep">lignes</word>
+          <word id="4" lem="électrique" postag="ADJ" morpho="n=p" head="3" dep="mod">électriques</word>
+          <word id="5" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="téléphonique" postag="ADJ" morpho="n=p" head="0" dep="_">téléphoniques</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="ligne" postag="NC" morpho="g=f|n=p" head="0" dep="_">lignes</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
+          <word id="3" lem="tramway" postag="NC" morpho="g=m|n=s" head="2" dep="prep">tramway</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="4">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="10">
+      <sentence id="1">
+        <word id="1" lem="à" postag="P" morpho="_" head="11" dep="mod">À</word>
+        <word id="2" lem="côté" postag="NC" morpho="g=m|n=s" head="1" dep="prep">côté</word>
+        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+        <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="6" dep="ponct">"</word>
+        <word id="5" lem="grand" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">grands</word>
+        <word id="6" lem="travail" postag="NC" morpho="g=m|n=p" head="3" dep="prep">travaux</word>
+        <word id="7" lem="&quot;" postag="PONCT" morpho="_" head="6" dep="ponct">"</word>
+        <word id="8" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+        <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="11" dep="suj">il</word>
+        <word id="10" lem="y" postag="CLO" morpho="_" head="11" dep="aff">y</word>
+        <word id="11" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">a</word>
+        <word id="12" lem="aussi" postag="ADV" morpho="_" head="11" dep="mod">aussi</word>
+        <word id="13" lem="de" postag="DET" morpho="n=p" head="15" dep="det">de</word>
+        <word id="14" lem="nombreux" postag="ADJ" morpho="g=m" head="15" dep="mod">nombreux</word>
+        <word id="15" lem="chantier" postag="NC" morpho="g=m|n=p" head="11" dep="obj">chantiers</word>
+        <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
+        <word id="17" lem="travail" postag="NC" morpho="g=m|n=p" head="16" dep="prep">travaux</word>
+        <word id="18" lem="public" postag="ADJ" morpho="g=m|n=p" head="17" dep="mod">publics</word>
+        <word id="19" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
+        <word id="20" lem="petit" postag="ADJ" morpho="g=f|n=s" head="21" dep="mod">petite</word>
+        <word id="21" lem="taille" postag="NC" morpho="g=f|n=s" head="19" dep="prep">taille</word>
+        <word id="22" lem="aussi" postag="ADV" morpho="_" head="23" dep="mod">aussi</word>
+        <word id="23" lem="bien" postag="ADV" morpho="_" head="21" dep="mod">bien</word>
+        <word id="24" lem="pour" postag="P" morpho="_" head="15" dep="dep">pour</word>
+        <word id="25" lem="les" postag="DET" morpho="n=p" head="26" dep="det">les</word>
+        <word id="26" lem="collectivité" postag="NC" morpho="g=f|n=p" head="24" dep="prep">collectivités</word>
+        <word id="27" lem="local" postag="ADJ" morpho="g=f|n=p" head="26" dep="mod">locales</word>
+        <word id="28" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="10">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="aménagement" postag="NC" morpho="g=m|n=s" head="0" dep="root">aménagement</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
+          <word id="5" lem="passage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">passage</word>
+          <word id="6" lem="pour" postag="P" morpho="_" head="5" dep="dep">pour</word>
+          <word id="7" lem="piéton" postag="NC" morpho="g=m|n=p" head="6" dep="prep">piétons</word>
+          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">d'</word>
+          <word id="2" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">un</word>
+          <word id="3" lem="rond-point" postag="NC" morpho="g=m|n=s" head="1" dep="prep">rond-point</word>
+          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="éclairage" postag="NC" morpho="g=m|n=s" head="0" dep="_">éclairage</word>
+          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="3">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer_syntax" idSE="11">
+      <sentence id="1">
+        <word id="1" lem="à" postag="P" morpho="_" head="11" dep="mod">À</word>
+        <word id="2" lem="côté" postag="NC" morpho="g=m|n=s" head="1" dep="prep">côté</word>
+        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
+        <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="6" dep="ponct">"</word>
+        <word id="5" lem="grand" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">grands</word>
+        <word id="6" lem="travail" postag="NC" morpho="g=m|n=p" head="3" dep="prep">travaux</word>
+        <word id="7" lem="&quot;" postag="PONCT" morpho="_" head="6" dep="ponct">"</word>
+        <word id="8" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+        <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="11" dep="suj">il</word>
+        <word id="10" lem="y" postag="CLO" morpho="_" head="11" dep="aff">y</word>
+        <word id="11" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">a</word>
+        <word id="12" lem="aussi" postag="ADV" morpho="_" head="11" dep="mod">aussi</word>
+        <word id="13" lem="de" postag="DET" morpho="n=p" head="15" dep="det">de</word>
+        <word id="14" lem="nombreux" postag="ADJ" morpho="g=m" head="15" dep="mod">nombreux</word>
+        <word id="15" lem="chantier" postag="NC" morpho="g=m|n=p" head="11" dep="obj">chantiers</word>
+        <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
+        <word id="17" lem="travail" postag="NC" morpho="g=m|n=p" head="16" dep="prep">travaux</word>
+        <word id="18" lem="public" postag="ADJ" morpho="g=m|n=p" head="17" dep="mod">publics</word>
+        <word id="19" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
+        <word id="20" lem="petit" postag="ADJ" morpho="g=f|n=s" head="21" dep="mod">petite</word>
+        <word id="21" lem="taille" postag="NC" morpho="g=f|n=s" head="19" dep="prep">taille</word>
+        <word id="22" lem="aussi" postag="ADV" morpho="_" head="23" dep="mod">aussi</word>
+        <word id="23" lem="bien" postag="ADV" morpho="_" head="21" dep="mod">bien</word>
+        <word id="24" lem="pour" postag="P" morpho="_" head="15" dep="dep">pour</word>
+        <word id="25" lem="les" postag="DET" morpho="n=p" head="26" dep="det">les</word>
+        <word id="26" lem="collectivité" postag="NC" morpho="g=f|n=p" head="24" dep="prep">collectivités</word>
+        <word id="27" lem="local" postag="ADJ" morpho="g=f|n=p" head="26" dep="mod">locales</word>
+        <word id="28" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
+        <word id="29" lem="aménagement" postag="NC" morpho="g=m|n=s" head="15" dep="mod">aménagement</word>
+        <word id="30" lem="de" postag="P" morpho="_" head="29" dep="dep">d'</word>
+        <word id="31" lem="un" postag="DET" morpho="g=m|n=s" head="32" dep="det">un</word>
+        <word id="32" lem="passage" postag="NC" morpho="g=m|n=s" head="30" dep="prep">passage</word>
+        <word id="33" lem="pour" postag="P" morpho="_" head="32" dep="dep">pour</word>
+        <word id="34" lem="piéton" postag="NC" morpho="g=m|n=p" head="33" dep="prep">piétons</word>
+        <word id="35" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
+        <word id="36" lem="de" postag="P" morpho="_" head="15" dep="dep">d'</word>
+        <word id="37" lem="un" postag="DET" morpho="g=m|n=s" head="38" dep="det">un</word>
+        <word id="38" lem="rond-point" postag="NC" morpho="g=m|n=s" head="36" dep="prep">rond-point</word>
+        <word id="39" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+        <word id="40" lem="éclairage" postag="NC" morpho="g=m|n=s" head="11" dep="mod">éclairage</word>
+        <word id="41" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
+        <word id="42" lem="_" postag="ADV" morpho="_" head="11" dep="mod">etc.</word>
+        <word id="43" lem=")" postag="PONCT" morpho="_" head="11" dep="ponct">)</word>
+        <word id="44" lem="que" postag="CS" morpho="_" head="11" dep="mod">que</word>
+        <word id="45" lem="pour" postag="P" morpho="_" head="44" dep="sub">pour</word>
+        <word id="46" lem="des" postag="DET" morpho="n=p" head="47" dep="det">des</word>
+        <word id="47" lem="particulier" postag="NC" morpho="g=m|n=p" head="45" dep="prep">particuliers</word>
+        <word id="48" lem="ou" postag="CC" morpho="_" head="47" dep="coord">ou</word>
+        <word id="49" lem="de" postag="P+D" morpho="n=p" head="48" dep="dep_coord">des</word>
+        <word id="50" lem="entreprise" postag="NC" morpho="g=f|n=p" head="49" dep="prep">entreprises</word>
+        <word id="51" lem="(" postag="PONCT" morpho="_" head="47" dep="ponct">(</word>
+      </sentence>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items_syntax" idSE="11">
+      <item id="0">
+        <sentence id="1">
+          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
+          <word id="2" lem="revêtement" postag="NC" morpho="g=m|n=s" head="0" dep="root">revêtement</word>
+          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
+          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
+          <word id="5" lem="allée" postag="NC" morpho="g=f|n=s" head="3" dep="prep">allée</word>
+          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
+        </sentence>
+      </item>
+      <item id="1">
+        <sentence id="1">
+          <word id="1" lem="aménagement" postag="NC" morpho="g=m|n=s" head="0" dep="_">aménagement</word>
+          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
+          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
+          <word id="4" lem="parking" postag="NC" morpho="g=m|n=s" head="2" dep="prep">parking</word>
+          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
+        </sentence>
+      </item>
+      <item id="2">
+        <sentence id="1">
+          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
+          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
+        </sentence>
+      </item>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="0">
+      <span begin="1" end="84" />
+      <text>Les projets sont cependant généralement conçus et menés par un « maître d'œuvre » (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="0">
+      <span begin="84" end="95" id="0" />
+      <text id="0">architecte,</text>
+      <span begin="96" end="112" id="1" />
+      <text id="1">bureau d'études)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="1">
+      <span begin="1" end="111" />
+      <text>Les différents intervenants de la construction sont identifiés dans ce que l'on appelle les « corps d'État » :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="1">
+      <span begin="112" end="123" id="0" />
+      <text id="0">gros œuvre,</text>
+      <span begin="124" end="135" id="1" />
+      <text id="1">couverture,</text>
+      <span begin="136" end="146" id="2" />
+      <text id="2">plomberie,</text>
+      <span begin="146" end="159" id="3" />
+      <text id="3">électricité,</text>
+      <span begin="160" end="170" id="4" />
+      <text id="4">chauffage,</text>
+      <span begin="171" end="181" id="5" />
+      <text id="5">peinture,</text>
+      <span begin="181" end="205" id="6" />
+      <text id="6">etc. (pour le bâtiment),</text>
+      <span begin="206" end="213" id="7" />
+      <text id="7">voirie,</text>
+      <span begin="214" end="224" id="8" />
+      <text id="8">éclairage,</text>
+      <span begin="225" end="286" id="9" />
+      <text id="9">réseaux d'eau (eau potable, tout-à-l'égout, eaux pluviales),</text>
+      <span begin="286" end="354" id="10" />
+      <text id="10">réseaux « secs » (électricité, gaz, téléphone, fibre optique, etc.),</text>
+      <span begin="355" end="369" id="11" />
+      <text id="11">signalisation,</text>
+      <span begin="370" end="402" id="12" />
+      <text id="12">etc. (pour les travaux publics).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="2">
+      <span begin="1" end="16" />
+      <text>réseaux d'eau (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="2">
+      <span begin="16" end="28" id="0" />
+      <text id="0">eau potable,</text>
+      <span begin="29" end="44" id="1" />
+      <text id="1">tout-à-l'égout,</text>
+      <span begin="45" end="61" id="2" />
+      <text id="2">eaux pluviales),</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="3">
+      <span begin="1" end="19" />
+      <text>réseaux « secs » (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="3">
+      <span begin="19" end="31" id="0" />
+      <text id="0">électricité,</text>
+      <span begin="30" end="36" id="1" />
+      <text id="1">, gaz,</text>
+      <span begin="37" end="47" id="2" />
+      <text id="2">téléphone,</text>
+      <span begin="48" end="63" id="3" />
+      <text id="3">fibre optique,</text>
+      <span begin="63" end="69" id="4" />
+      <text id="4">etc.),</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="4">
+      <span begin="1" end="114" />
+      <text>Dans tous les pays, les chantiers de construction ou réhabilitation sont soumis à une réglementation croissante (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="4">
+      <span begin="113" end="160" id="0" />
+      <text id="0">(garantie - par exemple décennale en France -,</text>
+      <span begin="160" end="170" id="1" />
+      <text id="1">règles et</text>
+      <span begin="170" end="193" id="2" />
+      <text id="2">normes de construction,</text>
+      <span begin="194" end="221" id="3" />
+      <text id="3">protection des travailleurs</text>
+      <span begin="222" end="235" id="4" />
+      <text id="4">et du public,</text>
+      <span begin="236" end="242" id="5" />
+      <text id="5">etc.).</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:02</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="5">
+      <span begin="1" end="144" />
+      <text>Le mode de passation des marchés publics est notamment encadré, pour permettre une concurrence libre tout en évitant une distorsion du marché (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:02</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="5">
+      <span begin="144" end="155" id="0" />
+      <text id="0">corruption,</text>
+      <span begin="156" end="161" id="1" />
+      <text id="1">etc.)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="6">
+      <span begin="1" end="148" />
+      <text>La réglementation tend aussi à évoluer dans le sens d'une meilleure intégration de l'environnement, en termes de chantier propre et moins nuisant (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="6">
+      <span begin="146" end="172" id="0" />
+      <text id="0">(lutte contre le bruit et</text>
+      <span begin="172" end="186" id="1" />
+      <text id="1">la poussière,</text>
+      <span begin="187" end="193" id="2" />
+      <text id="2">tri et</text>
+      <span begin="193" end="219" id="3" />
+      <text id="3">récupération des déchets,</text>
+      <span begin="220" end="244" id="4" />
+      <text id="4">recyclage des matériaux,</text>
+      <span begin="245" end="250" id="5" />
+      <text id="5">etc.)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="7">
+      <span begin="1" end="50" />
+      <text>On peut distinguer cinq types de constructions :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="7">
+      <span begin="47" end="66" id="0" />
+      <text id="0">: résidentielles,</text>
+      <span begin="66" end="79" id="1" />
+      <text id="1">commerciales,</text>
+      <span begin="80" end="94" id="2" />
+      <text id="2">industrielles,</text>
+      <span begin="95" end="121" id="3" />
+      <text id="3">de travaux publics (TP) et</text>
+      <span begin="122" end="140" id="4" />
+      <text id="4">institutionnelles.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="8">
+      <span begin="1" end="62" />
+      <text>On peut citer comme exemple de chantiers de travaux publics :</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="8">
+      <span begin="63" end="71" id="0" />
+      <text id="0">routes,</text>
+      <span begin="71" end="83" id="1" />
+      <text id="1">autoroutes,</text>
+      <span begin="83" end="97" id="2" />
+      <text id="2">voies ferrées,</text>
+      <span begin="98" end="105" id="3" />
+      <text id="3">ponts,</text>
+      <span begin="105" end="115" id="4" />
+      <text id="4">gazoducs,</text>
+      <span begin="115" end="125" id="5" />
+      <text id="5">oléoducs,</text>
+      <span begin="125" end="249" id="6" />
+      <text id="6">aménagements urbains (aménagement d'une place, enterrement de lignes électriques et téléphoniques, lignes de tramway, etc.),</text>
+      <span begin="250" end="274" id="7" />
+      <text id="7">aménagements portuaires,</text>
+      <span begin="275" end="279" id="8" />
+      <text id="8">etc.</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="9">
+      <span begin="1" end="23" />
+      <text>aménagements urbains (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="9">
+      <span begin="23" end="47" id="0" />
+      <text id="0">aménagement d'une place,</text>
+      <span begin="48" end="84" id="1" />
+      <text id="1">enterrement de lignes électriques et</text>
+      <span begin="85" end="99" id="2" />
+      <text id="2">téléphoniques,</text>
+      <span begin="100" end="118" id="3" />
+      <text id="3">lignes de tramway,</text>
+      <span begin="119" end="124" id="4" />
+      <text id="4">etc.)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="10">
+      <span begin="1" end="146" />
+      <text>À côté des « grands travaux », il y a aussi de nombreux chantiers de travaux publics de petite taille aussi bien pour les collectivités locales (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="10">
+      <span begin="144" end="184" id="0" />
+      <text id="0">(aménagement d'un passage pour piétons,</text>
+      <span begin="185" end="201" id="1" />
+      <text id="1">d'un rond-point,</text>
+      <span begin="202" end="212" id="2" />
+      <text id="2">éclairage,</text>
+      <span begin="213" end="218" id="3" />
+      <text id="3">etc.)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="primer" idSE="11">
+      <span begin="1" end="265" />
+      <text>À côté des « grands travaux », il y a aussi de nombreux chantiers de travaux publics de petite taille aussi bien pour les collectivités locales (aménagement d'un passage pour piétons, d'un rond-point, éclairage, etc.) que pour des particuliers ou des entreprises (</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="items" idSE="11">
+      <span begin="263" end="289" id="0" />
+      <text id="0">(revêtement d'une allée,</text>
+      <span begin="289" end="314" id="1" />
+      <text id="1">aménagement d'un parking,</text>
+      <span begin="315" end="320" id="2" />
+      <text id="2">etc.)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="66" end="80" id="0" />
+      <text id="0">maître d'œuvre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="84" end="94" id="0" />
+      <text id="0">architecte</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="96" end="111" id="0" />
+      <text id="0">bureau d'études</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="95" end="107" id="0" />
+      <text id="0">corps d'État</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="112" end="122" id="0" />
+      <text id="0">gros œuvre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="124" end="134" id="0" />
+      <text id="0">couverture</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="136" end="145" id="0" />
+      <text id="0">plomberie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="147" end="158" id="0" />
+      <text id="0">électricité</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
+      <span begin="160" end="169" id="0" />
+      <text id="0">chauffage</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="5">
+      <span begin="171" end="179" id="0" />
+      <text id="0">peinture</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="7">
+      <span begin="206" end="212" id="0" />
+      <text id="0">voirie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="8">
+      <span begin="214" end="223" id="0" />
+      <text id="0">éclairage</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="9">
+      <span begin="225" end="238" id="0" />
+      <text id="0">réseaux d'eau</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="10">
+      <span begin="286" end="302" id="0" />
+      <text id="0">réseaux « secs »</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="11">
+      <span begin="355" end="368" id="0" />
+      <text id="0">signalisation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="14" id="0" />
+      <text id="0">réseaux d'eau</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="16" end="27" id="0" />
+      <text id="0">eau potable</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="29" end="43" id="0" />
+      <text id="0">tout-à-l'égout</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="45" end="59" id="0" />
+      <text id="0">eaux pluviales</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="1" end="18" id="0" />
+      <text id="0">réseaux « secs »</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="19" end="30" id="0" />
+      <text id="0">électricité</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="32" end="35" id="0" />
+      <text id="0">gaz</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="37" end="46" id="0" />
+      <text id="0">téléphone</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="3">
+      <span begin="48" end="61" id="0" />
+      <text id="0">fibre optique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+      <span begin="83" end="101" id="0" />
+      <text id="0">une réglementation</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+      <span begin="114" end="122" id="0" />
+      <text id="0">garantie</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+      <span begin="160" end="166" id="0" />
+      <text id="0">règles</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+      <span begin="170" end="192" id="0" />
+      <text id="0">normes de construction</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="4" localisation="item" idItem="3">
+      <span begin="194" end="221" id="0" />
+      <text id="0">protection des travailleurs</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
+      <span begin="69" end="99" id="0" />
+      <text id="0">intégration de l'environnement</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+      <span begin="148" end="169" id="0" />
+      <text id="0">lutte contre le bruit</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="2">
+      <span begin="187" end="190" id="0" />
+      <text id="0">tri</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="6" localisation="item" idItem="4">
+      <span begin="220" end="243" id="0" />
+      <text id="0">recyclage des matériaux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="primer" idItem="-1">
+      <span begin="34" end="48" id="0" />
+      <text id="0">constructions</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="0">
+      <span begin="50" end="64" id="0" />
+      <text id="0">résidentielles</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="1">
+      <span begin="66" end="78" id="0" />
+      <text id="0">commerciales</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="2">
+      <span begin="80" end="93" id="0" />
+      <text id="0">industrielles</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="3">
+      <span begin="95" end="113" id="0" />
+      <text id="0">de travaux publics</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="7" localisation="item" idItem="4">
+      <span begin="122" end="139" id="0" />
+      <text id="0">institutionnelles</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="7" localisation="primer" idItem="-1">
+      <span begin="20" end="33" id="0" />
+      <text id="0">cinq types de</text>
+      <span begin="1" end="19" id="1" />
+      <text id="1">On peut distinguer</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="primer" idItem="-1">
+      <span begin="21" end="60" id="0" />
+      <text id="0">exemple de chantiers de travaux publics</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="0">
+      <span begin="63" end="69" id="0" />
+      <text id="0">routes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="1">
+      <span begin="71" end="81" id="0" />
+      <text id="0">autoroutes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="2">
+      <span begin="83" end="96" id="0" />
+      <text id="0">voies ferrées</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="3">
+      <span begin="98" end="103" id="0" />
+      <text id="0">ponts</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="4">
+      <span begin="105" end="113" id="0" />
+      <text id="0">gazoducs</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="5">
+      <span begin="115" end="123" id="0" />
+      <text id="0">oléoducs</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="6">
+      <span begin="125" end="145" id="0" />
+      <text id="0">aménagements urbains</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="8" localisation="item" idItem="7">
+      <span begin="250" end="273" id="0" />
+      <text id="0">aménagements portuaires</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="9" localisation="primer" idItem="-1">
+      <span begin="1" end="22" id="0" />
+      <text id="0">aménagements urbains</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="9" localisation="item" idItem="0">
+      <span begin="23" end="47" id="0" />
+      <text id="0">aménagement d'une place,</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="9" localisation="item" idItem="1">
+      <span begin="48" end="81" id="0" />
+      <text id="0">enterrement de lignes électriques</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="9" localisation="item" idItem="3">
+      <span begin="100" end="117" id="0" />
+      <text id="0">lignes de tramway</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="10" localisation="primer" idItem="-1">
+      <span begin="57" end="85" id="0" />
+      <text id="0">chantiers de travaux publics</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="10" localisation="item" idItem="0">
+      <span begin="146" end="183" id="0" />
+      <text id="0">aménagement d'un passage pour piétons</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="10" localisation="item" idItem="1">
+      <span begin="185" end="200" id="0" />
+      <text id="0">d'un rond-point</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="10" localisation="item" idItem="2">
+      <span begin="202" end="211" id="0" />
+      <text id="0">éclairage</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="10" localisation="primer" idItem="-1">
+      <span begin="45" end="56" id="0" />
+      <text id="0">de nombreux</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="11" localisation="primer" idItem="-1">
+      <span begin="45" end="85" id="0" />
+      <text id="0">de nombreux chantiers de travaux publics</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="11" localisation="item" idItem="0">
+      <span begin="265" end="287" id="0" />
+      <text id="0">revêtement d'une allée</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="concept" idSE="11" localisation="item" idItem="1">
+      <span begin="289" end="313" id="0" />
+      <text id="0">aménagement d'un parking</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="0">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="0">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="0">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur />
+      <date>11/06/14 2:35</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="0">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="1">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="1">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="1">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:57</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="1">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="2">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="2">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="1" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="3">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="3">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="3">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="3">
+      <visee_ontologique value="1">
+        <isA value="0" />
+        <partOf value="1" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="4">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="4">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="4">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>4</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="4">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:02</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="5">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:02</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="5">
+      <paradigmatique value="0" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:02</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="5">
+      <descriptive value="0" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:02</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="5">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="6">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="6">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="6">
+      <descriptive value="0" />
+      <narrative value="1" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>6</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="6">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="7">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="7">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="7">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>7</id>
+      <auteur>A1</auteur>
+      <date>1/01/14 1:11</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="7">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="8">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="8">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="8">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>8</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:04</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="8">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="9">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="9">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="9">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>9</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="9">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="10">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="1" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="10">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="10">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>10</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:05</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="10">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_visuel" idSE="11">
+      <horizontale value="1" />
+      <verticale value="0" />
+      <navigationnelle value="0" />
+      <hypertextuelle value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_rhetorique" idSE="11">
+      <paradigmatique value="1" />
+      <syntagmatique value="0" />
+      <hybride value="0" />
+      <bivalente value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_intentionnel" idSE="11">
+      <descriptive value="1" />
+      <narrative value="0" />
+      <explicative value="0" />
+      <prescriptive value="0" />
+      <procedurale value="0" />
+      <argumentative value="0" />
+      <intentionnel_autre value="0" />
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>11</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 14:06</date>
+      <document>Construction.html</document>
+    </metadata>
+    <SEval type="axe_semantique" idSE="11">
+      <visee_ontologique value="1">
+        <isA value="1" />
+        <partOf value="0" />
+        <instanceOf value="0" />
+        <ontologique_autre value="0" />
+      </visee_ontologique>
+      <metalinguistique value="0">
+        <hyperonymie value="0" />
+        <meronymie value="0" />
+        <homonymie value="0" />
+        <synonymie value="0" />
+        <multilingue value="0" />
+        <lexical_autre value="0" />
+      </metalinguistique>
+      <semantique_autre value="0" />
+      <contextuelle value="0" />
+    </SEval>
+  </annotation>
+</root>
