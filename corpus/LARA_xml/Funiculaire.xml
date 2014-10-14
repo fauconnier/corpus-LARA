@@ -3,59 +3,12 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
     <SE>
       <id>0</id>
-      <text>La présence d'un câble retour (câble contre-tracteur ou lest)</text>
-      <span begin="3762" end="3823" />
-    </SE>
-    <comment>unknown</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SE>
-      <id>1</id>
-      <text>Chronologie
-Cette chronologie retrace les principaux évènements mondiaux relatifs à l'histoire du funiculaire.
-1515 : le funiculaire primitif du Reisszug est répertorié par Matthäus Lang von Wellenburg ; il dessert la forteresse de Hohensalzburg à Salzbourg et est mu par l'homme ou l'animal.
-XIX
-1808 : ouverture du plan incliné de Birtley-Fell près de Newcastle, funiculaire primitif utilisé pour remonter des chariots de la houillère d'Urpeth.
-1825 : ouverture des plans inclinés funiculaires de Hethereley et Brusselton réalisés sur la ligne de voie ferrée Stockton-Darlington en Angleterre, qui seront les premiers au monde utilisés pour le transport public de passagers.
-1833 : ouverture des plans inclinés funiculaires de Biesse, Neulise et du Buis dans le département de la Loire en France, qui seront les premiers d'Europe continentale utilisés pour le transport public de passagers.
-1834 : l'Allemand Wilhelm Albert invente le câble toronné.
-1845 : ouverture du Prospect park incline railway des chutes du Niagara (États-Unis), premier funiculaire touristique au monde.
-1862 : ouverture du funiculaire urbain de la Rue Terme à la Croix-Rousse à Lyon (France).
-1873 : ouverture de la première ligne de tramway à traction par câble, les Cable Cars de San Francisco.
-1879 : premier funiculaire monovoie avec une première version d'évitement central Abt, grâce à un inversement des boudins des roues sur les véhicules, au Giessbach (Suisse).
-1883 : Premier funiculaire à Valparaíso (Funiculaire Concepción), au Chili.
-1888 : premier funiculaire à traction électrique et premier évitement central Abt avec utilisation de roues sans boudin sur un côté d'essieu pour franchissement du cœur de l'aiguillage au Bürgenstock près de Lucerne.
-1893 : premier funiculaire avec freins à pince agissant directement sur le rail de roulement au Stanserhorn, en Suisse.
-XX
-1935 : ouverture au public du Scenic railway à Katoomba (Australie) avec une pente maximum de 122 %, la plus forte au monde. L'appareil, adapté d'un transporteur industriel, fonctionne désormais en va et vient avec un téléphérique contrepoids.
-1974 : début des funiculaires modernes en tunnel avec l'ouverture du Gletscherbahn 2 à Kaprun (Autriche).
-1991 : ouverture à Barcelone du funiculaire de Montjuïc, possédant le plus gros débit maximum théorique d'exploitation, avec 8000 personnes par heure et par sens de circulation. L'appareil est construit par Waagner-Biró à l'occasion des Jeux olympiques d'été de 1992.
-2000 : accident du funiculaire de Kaprun, 155 morts, 12 survivants.</text>
-      <span begin="7978" end="10528" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
       <text>XIX
 1808 : ouverture du plan incliné de Birtley-Fell près de Newcastle, funiculaire primitif utilisé pour remonter des chariots de la houillère d'Urpeth.
 1825 : ouverture des plans inclinés funiculaires de Hethereley et Brusselton réalisés sur la ligne de voie ferrée Stockton-Darlington en Angleterre, qui seront les premiers au monde utilisés pour le transport public de passagers.
@@ -70,17 +23,17 @@ XX
 1893 : premier funiculaire avec freins à pince agissant directement sur le rail de roulement au Stanserhorn, en Suisse.</text>
       <span begin="8271" end="9838" />
     </SE>
-    <comment />
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
     <SE>
-      <id>3</id>
+      <id>1</id>
       <text>XX
 1935 : ouverture au public du Scenic railway à Katoomba (Australie) avec une pente maximum de 122 %, la plus forte au monde. L'appareil, adapté d'un transporteur industriel, fonctionne désormais en va et vient avec un téléphérique contrepoids.
 1974 : début des funiculaires modernes en tunnel avec l'ouverture du Gletscherbahn 2 à Kaprun (Autriche).
@@ -93,1166 +46,76 @@ XX
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-        <word id="2" lem="présence" postag="NC" morpho="g=f|n=s" head="0" dep="_">présence</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-        <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-        <word id="5" lem="câble" postag="NC" morpho="g=m|n=s" head="3" dep="prep">câble</word>
-        <word id="6" lem="retour" postag="NC" morpho="g=m|n=s" head="5" dep="mod">retour</word>
-        <word id="7" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="câble" postag="NC" morpho="g=m|n=s" head="0" dep="_">câble</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="mod">contre-tracteur</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="lest" postag="NC" morpho="g=m|n=s" head="0" dep="_">lest</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="chronologie" postag="NC" morpho="g=f|n=s" head="0" dep="root">Chronologie</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="cette" postag="DET" morpho="g=f|n=s" head="2" dep="det">Cette</word>
-        <word id="2" lem="chronologie" postag="NC" morpho="g=f|n=s" head="3" dep="suj">chronologie</word>
-        <word id="3" lem="retracer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">retrace</word>
-        <word id="4" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-        <word id="5" lem="principal" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">principaux</word>
-        <word id="6" lem="_" postag="NC" morpho="_" head="3" dep="obj">évènements</word>
-        <word id="7" lem="mondial" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">mondiaux</word>
-        <word id="8" lem="relatif" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">relatifs</word>
-        <word id="9" lem="à" postag="P" morpho="_" head="8" dep="a_obj">à</word>
-        <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-        <word id="11" lem="histoire" postag="NC" morpho="g=f|n=s" head="9" dep="prep">histoire</word>
-        <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
-        <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">funiculair</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="9" dep="mod">1515</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="4" lem="funiculaire" postag="ADJ" morpho="n=s" head="5" dep="mod">funiculaire</word>
-          <word id="5" lem="primitif" postag="NC" morpho="g=f|n=s" head="9" dep="suj">primitif</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Reisszug</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="aux_pass">est</word>
-          <word id="9" lem="répertorier" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">répertorié</word>
-          <word id="10" lem="par" postag="P" morpho="_" head="9" dep="p_obj">par</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Matthäus</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Lang</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="11" dep="mod">von</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Wellenburg</word>
-          <word id="15" lem=";" postag="PONCT" morpho="_" head="9" dep="ponct">;</word>
-          <word id="16" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="17" dep="suj">il</word>
-          <word id="17" lem="desservir" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="mod">dessert</word>
-          <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
-          <word id="19" lem="forteresse" postag="NC" morpho="g=f|n=s" head="17" dep="obj">forteresse</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
-          <word id="21" lem="_" postag="NPP" morpho="_" head="20" dep="prep">Hohensalzburg</word>
-          <word id="22" lem="à" postag="P" morpho="_" head="17" dep="mod">à</word>
-          <word id="23" lem="_" postag="NPP" morpho="_" head="22" dep="prep">Salzbourg</word>
-          <word id="24" lem="et" postag="CC" morpho="_" head="17" dep="coord">et</word>
-          <word id="25" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="26" dep="aux_pass">est</word>
-          <word id="26" lem="_" postag="VPP" morpho="_" head="24" dep="dep_coord">mu</word>
-          <word id="27" lem="par" postag="P" morpho="_" head="26" dep="p_obj">par</word>
-          <word id="28" lem="l'" postag="DET" morpho="n=s" head="29" dep="det">l'</word>
-          <word id="29" lem="homme" postag="NC" morpho="g=m|n=s" head="27" dep="prep">homme</word>
-          <word id="30" lem="ou" postag="CC" morpho="_" head="29" dep="coord">ou</word>
-          <word id="31" lem="l'" postag="DET" morpho="n=s" head="32" dep="det">l'</word>
-          <word id="32" lem="animal" postag="NC" morpho="g=m|n=s" head="30" dep="dep_coord">animal</word>
-          <word id="33" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">XIX</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1808</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="plan" postag="NC" morpho="g=m|n=s" head="4" dep="prep">plan</word>
-          <word id="6" lem="incliner" postag="ADJ" morpho="g=m|n=s|t=past" head="5" dep="mod">incliné</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Birtley-Fell</word>
-          <word id="9" lem="près_de" postag="P" morpho="_" head="3" dep="dep">près_de</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Newcastle</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="funiculaire" postag="ADJ" morpho="n=s" head="13" dep="mod">funiculaire</word>
-          <word id="13" lem="primitif" postag="NC" morpho="g=f|n=s" head="1" dep="mod">primitif</word>
-          <word id="14" lem="utiliser" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">utilisé</word>
-          <word id="15" lem="pour" postag="P" morpho="_" head="14" dep="mod">pour</word>
-          <word id="16" lem="remonter" postag="VINF" morpho="_" head="15" dep="prep">remonter</word>
-          <word id="17" lem="des" postag="DET" morpho="n=p" head="18" dep="det">des</word>
-          <word id="18" lem="chariot" postag="NC" morpho="g=m|n=p" head="16" dep="obj">chariots</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
-          <word id="20" lem="la" postag="DET" morpho="g=f|n=s" head="21" dep="det">la</word>
-          <word id="21" lem="houillère" postag="NC" morpho="g=f|n=s" head="19" dep="prep">houillère</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">d'</word>
-          <word id="23" lem="_" postag="NPP" morpho="_" head="22" dep="prep">Urpeth</word>
-          <word id="24" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1825</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
-          <word id="5" lem="plan" postag="NC" morpho="g=m|n=p" head="4" dep="prep">plans</word>
-          <word id="6" lem="incliner" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="mod">inclinés</word>
-          <word id="7" lem="funiculaire" postag="ADJ" morpho="n=p" head="6" dep="mod">funiculaires</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Hethereley</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="dep_coord">Brusselton</word>
-          <word id="12" lem="réaliser" postag="VPP" morpho="g=m|n=p|t=past" head="11" dep="mod">réalisés</word>
-          <word id="13" lem="sur" postag="P" morpho="_" head="12" dep="mod">sur</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="ligne" postag="NC" morpho="g=f|n=s" head="13" dep="prep">ligne</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="voie" postag="NC" morpho="g=f|n=s" head="16" dep="prep">voie</word>
-          <word id="18" lem="ferrer" postag="ADJ" morpho="g=f|n=s|t=past" head="17" dep="mod">ferrée</word>
-          <word id="19" lem="_" postag="NPP" morpho="_" head="17" dep="mod">Stockton-Darlington</word>
-          <word id="20" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-          <word id="21" lem="Angleterre" postag="NPP" morpho="g=f|n=s" head="20" dep="prep">Angleterre</word>
-          <word id="22" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="23" lem="qui" postag="PROREL" morpho="n=s" head="24" dep="suj">qui</word>
-          <word id="24" lem="être" postag="V" morpho="n=p|p=3|t=fut" head="1" dep="mod">seront</word>
-          <word id="25" lem="les" postag="DET" morpho="n=p" head="26" dep="det">les</word>
-          <word id="26" lem="premier" postag="ADJ" morpho="g=m|n=p" head="24" dep="ats">premiers</word>
-          <word id="27" lem="à" postag="P+D" morpho="g=m|n=s" head="24" dep="mod">au</word>
-          <word id="28" lem="monde" postag="NC" morpho="g=m|n=s" head="27" dep="prep">monde</word>
-          <word id="29" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="28" dep="mod">utilisés</word>
-          <word id="30" lem="pour" postag="P" morpho="_" head="29" dep="mod">pour</word>
-          <word id="31" lem="le" postag="DET" morpho="g=m|n=s" head="32" dep="det">le</word>
-          <word id="32" lem="transport" postag="NC" morpho="g=m|n=s" head="30" dep="prep">transport</word>
-          <word id="33" lem="public" postag="ADJ" morpho="g=m|n=s" head="32" dep="mod">public</word>
-          <word id="34" lem="de" postag="P" morpho="_" head="32" dep="dep">de</word>
-          <word id="35" lem="passager" postag="NC" morpho="g=m|n=p" head="34" dep="prep">passagers</word>
-          <word id="36" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1833</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
-          <word id="5" lem="plan" postag="NC" morpho="g=m|n=p" head="4" dep="prep">plans</word>
-          <word id="6" lem="incliner" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="mod">inclinés</word>
-          <word id="7" lem="funiculaire" postag="ADJ" morpho="n=p" head="6" dep="mod">funiculaires</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Biesse</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="11" lem="Neulise" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Neulise</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="13" lem="de" postag="P+D" morpho="g=m|n=s" head="12" dep="dep_coord">du</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">Buis</word>
-          <word id="15" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="16" lem="le" postag="DET" morpho="g=m|n=s" head="17" dep="det">le</word>
-          <word id="17" lem="département" postag="NC" morpho="g=m|n=s" head="15" dep="prep">département</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="Loire" postag="NPP" morpho="g=f|n=s" head="18" dep="prep">Loire</word>
-          <word id="21" lem="en" postag="P" morpho="_" head="17" dep="dep">en</word>
-          <word id="22" lem="France" postag="NPP" morpho="g=m|n=s" head="21" dep="prep">France</word>
-          <word id="23" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="24" lem="qui" postag="PROREL" morpho="n=s" head="25" dep="suj">qui</word>
-          <word id="25" lem="être" postag="V" morpho="n=p|p=3|t=fut" head="17" dep="mod_rel">seront</word>
-          <word id="26" lem="les" postag="DET" morpho="n=p" head="27" dep="det">les</word>
-          <word id="27" lem="premier" postag="ADJ" morpho="g=m|n=p" head="25" dep="ats">premiers</word>
-          <word id="28" lem="de" postag="P" morpho="_" head="27" dep="mod">d'</word>
-          <word id="29" lem="Europe" postag="NPP" morpho="g=f|n=s" head="28" dep="prep">Europe</word>
-          <word id="30" lem="continental" postag="ADJ" morpho="g=f|n=s" head="29" dep="mod">continentale</word>
-          <word id="31" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="27" dep="mod">utilisés</word>
-          <word id="32" lem="pour" postag="P" morpho="_" head="31" dep="mod">pour</word>
-          <word id="33" lem="le" postag="DET" morpho="g=m|n=s" head="34" dep="det">le</word>
-          <word id="34" lem="transport" postag="NC" morpho="g=m|n=s" head="32" dep="prep">transport</word>
-          <word id="35" lem="public" postag="ADJ" morpho="g=m|n=s" head="34" dep="mod">public</word>
-          <word id="36" lem="de" postag="P" morpho="_" head="34" dep="dep">de</word>
-          <word id="37" lem="passager" postag="NC" morpho="g=m|n=p" head="36" dep="prep">passagers</word>
-          <word id="38" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="_" postag="NC" morpho="_" head="7" dep="mod">1834</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="7" dep="suj">Allemand</word>
-          <word id="5" lem="Wilhelm" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Wilhelm</word>
-          <word id="6" lem="Albert" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Albert</word>
-          <word id="7" lem="inventer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">invente</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="câble" postag="NC" morpho="g=m|n=s" head="7" dep="obj">câble</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">toronné</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1845</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Prospect</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">park</word>
-          <word id="7" lem="incliner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">incline</word>
-          <word id="8" lem="_" postag="VINF" morpho="_" head="7" dep="obj">railway</word>
-          <word id="9" lem="des" postag="DET" morpho="n=p" head="10" dep="det">des</word>
-          <word id="10" lem="chute" postag="NC" morpho="g=f|n=p" head="8" dep="obj">chutes</word>
-          <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="dep">du</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Niagara</word>
-          <word id="13" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="mod">États-Unis</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="17" lem="premier" postag="ADJ" morpho="n=p" head="18" dep="mod">premier</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="12" dep="mod">funiculaire</word>
-          <word id="19" lem="touristique" postag="ADJ" morpho="n=s" head="18" dep="mod">touristique</word>
-          <word id="20" lem="à" postag="P+D" morpho="g=m|n=s" head="18" dep="dep">au</word>
-          <word id="21" lem="monde" postag="NC" morpho="g=m|n=s" head="20" dep="prep">monde</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1862</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="4" dep="prep">funiculaire</word>
-          <word id="6" lem="urbain" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">urbain</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Rue" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Rue</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Terme</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Croix-Rousse</word>
-          <word id="14" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="15" lem="Lyon" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">Lyon</word>
-          <word id="16" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-          <word id="17" lem="France" postag="NPP" morpho="g=m|n=s" head="15" dep="mod">France</word>
-          <word id="18" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1873</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="6" lem="premier" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">première</word>
-          <word id="7" lem="ligne" postag="NC" morpho="g=f|n=s" head="4" dep="prep">ligne</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="tramway" postag="NC" morpho="g=m|n=s" head="8" dep="prep">tramway</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="11" lem="traction" postag="NC" morpho="g=f|n=s" head="10" dep="prep">traction</word>
-          <word id="12" lem="par" postag="P" morpho="_" head="3" dep="dep">par</word>
-          <word id="13" lem="câble" postag="NC" morpho="g=m|n=s" head="12" dep="prep">câble</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
-          <word id="16" lem="_" postag="NC" morpho="_" head="1" dep="mod">Cable</word>
-          <word id="17" lem="Cars" postag="NPP" morpho="g=m|n=s" head="16" dep="mod">Cars</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="19" lem="San" postag="NPP" morpho="n=s" head="18" dep="prep">San</word>
-          <word id="20" lem="Francisco" postag="NPP" morpho="g=m|n=s" head="19" dep="mod">Francisco</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1879</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="premier" postag="ADJ" morpho="n=p" head="4" dep="mod">premier</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">funiculaire</word>
-          <word id="5" lem="_" postag="V" morpho="_" head="0" dep="root">monovoie</word>
-          <word id="6" lem="avec" postag="P" morpho="_" head="5" dep="mod">avec</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="8" lem="premier" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">première</word>
-          <word id="9" lem="version" postag="NC" morpho="g=f|n=s" head="6" dep="prep">version</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="évitement" postag="NC" morpho="g=m|n=s" head="10" dep="prep">évitement</word>
-          <word id="12" lem="central" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">central</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Abt</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="15" lem="grâce_à" postag="P" morpho="_" head="5" dep="mod">grâce_à</word>
-          <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
-          <word id="17" lem="inversement" postag="NC" morpho="g=m|n=s" head="15" dep="prep">inversement</word>
-          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-          <word id="19" lem="boudin" postag="NC" morpho="g=m|n=p" head="18" dep="prep">boudins</word>
-          <word id="20" lem="de" postag="P+D" morpho="n=p" head="19" dep="dep">des</word>
-          <word id="21" lem="roue" postag="NC" morpho="g=f|n=p" head="20" dep="prep">roues</word>
-          <word id="22" lem="sur" postag="P" morpho="_" head="17" dep="dep">sur</word>
-          <word id="23" lem="les" postag="DET" morpho="n=p" head="24" dep="det">les</word>
-          <word id="24" lem="véhicule" postag="NC" morpho="g=m|n=p" head="22" dep="prep">véhicules</word>
-          <word id="25" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="26" lem="à" postag="P+D" morpho="g=m|n=s" head="17" dep="dep">au</word>
-          <word id="27" lem="_" postag="NPP" morpho="_" head="26" dep="prep">Giessbach</word>
-          <word id="28" lem="(" postag="PONCT" morpho="_" head="27" dep="ponct">(</word>
-          <word id="29" lem="suisse" postag="ADJ" morpho="n=s" head="27" dep="mod">Suisse</word>
-          <word id="30" lem=")" postag="PONCT" morpho="_" head="27" dep="ponct">)</word>
-          <word id="31" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1883</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="premier" postag="ADJ" morpho="n=p" head="4" dep="mod">Premier</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">funiculaire</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Valparaíso</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="6" dep="mod">Funiculaire</word>
-          <word id="9" lem="Concepción" postag="NPP" morpho="g=f|n=s" head="8" dep="mod">Concepción</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="13" lem="Chili" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Chili</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1888</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="premier" postag="ADJ" morpho="n=p" head="4" dep="mod">premier</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">funiculaire</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="6" lem="traction" postag="NC" morpho="g=f|n=s" head="5" dep="prep">traction</word>
-          <word id="7" lem="électrique" postag="ADJ" morpho="n=s" head="6" dep="mod">électrique</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="9" lem="premier" postag="ADJ" morpho="n=p" head="10" dep="mod">premier</word>
-          <word id="10" lem="évitement" postag="NC" morpho="g=m|n=s" head="8" dep="dep_coord">évitement</word>
-          <word id="11" lem="central" postag="ADJ" morpho="g=m|n=s" head="10" dep="mod">central</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Abt</word>
-          <word id="13" lem="avec" postag="P" morpho="_" head="4" dep="dep">avec</word>
-          <word id="14" lem="utilisation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">utilisation</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="roue" postag="NC" morpho="g=f|n=p" head="15" dep="prep">roues</word>
-          <word id="17" lem="sans" postag="P" morpho="_" head="16" dep="dep">sans</word>
-          <word id="18" lem="boudin" postag="NC" morpho="g=m|n=s" head="17" dep="prep">boudin</word>
-          <word id="19" lem="sur" postag="P" morpho="_" head="4" dep="dep">sur</word>
-          <word id="20" lem="un" postag="DET" morpho="g=m|n=s" head="21" dep="det">un</word>
-          <word id="21" lem="côté" postag="NC" morpho="g=m|n=s" head="19" dep="prep">côté</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">d'</word>
-          <word id="23" lem="essieu" postag="NC" morpho="g=m|n=s" head="22" dep="prep">essieu</word>
-          <word id="24" lem="pour" postag="P" morpho="_" head="4" dep="dep">pour</word>
-          <word id="25" lem="franchissement" postag="NC" morpho="g=m|n=s" head="24" dep="prep">franchissement</word>
-          <word id="26" lem="de" postag="P+D" morpho="g=m|n=s" head="25" dep="dep">du</word>
-          <word id="27" lem="_" postag="NC" morpho="_" head="26" dep="prep">cœur</word>
-          <word id="28" lem="de" postag="P" morpho="_" head="27" dep="dep">de</word>
-          <word id="29" lem="l'" postag="DET" morpho="n=s" head="30" dep="det">l'</word>
-          <word id="30" lem="aiguillage" postag="NC" morpho="g=m|n=s" head="28" dep="prep">aiguillage</word>
-          <word id="31" lem="à" postag="P+D" morpho="g=m|n=s" head="25" dep="dep">au</word>
-          <word id="32" lem="_" postag="NPP" morpho="_" head="31" dep="prep">Bürgenstock</word>
-          <word id="33" lem="près_de" postag="P" morpho="_" head="4" dep="dep">près_de</word>
-          <word id="34" lem="_" postag="NPP" morpho="_" head="33" dep="prep">Lucerne</word>
-          <word id="35" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="12">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1893</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="premier" postag="ADJ" morpho="n=p" head="4" dep="mod">premier</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">funiculaire</word>
-          <word id="5" lem="avec" postag="P" morpho="_" head="4" dep="dep">avec</word>
-          <word id="6" lem="frein" postag="NC" morpho="g=m|n=p" head="5" dep="prep">freins</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
-          <word id="8" lem="pince" postag="NC" morpho="g=f|n=s" head="7" dep="prep">pince</word>
-          <word id="9" lem="agir" postag="VPR" morpho="t=pst" head="6" dep="mod">agissant</word>
-          <word id="10" lem="directement" postag="ADV" morpho="_" head="9" dep="mod">directement</word>
-          <word id="11" lem="sur" postag="P" morpho="_" head="9" dep="mod">sur</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-          <word id="13" lem="rail" postag="NC" morpho="g=m|n=s" head="11" dep="prep">rail</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="roulement" postag="NC" morpho="g=m|n=s" head="14" dep="prep">roulement</word>
-          <word id="16" lem="à" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">au</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="prep">Stanserhorn</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="19" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="20" lem="Suisse" postag="NPP" morpho="g=f|n=s" head="19" dep="prep">Suisse</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">XX</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1935</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">au</word>
-          <word id="5" lem="public" postag="NC" morpho="g=m|n=s" head="4" dep="prep">public</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Scenic</word>
-          <word id="8" lem="_" postag="V" morpho="_" head="0" dep="root">railway</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="mod">à</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Katoomba</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="10" dep="ponct">(</word>
-          <word id="12" lem="Australie" postag="NPP" morpho="g=f|n=s" head="10" dep="mod">Australie</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
-          <word id="14" lem="avec" postag="P" morpho="_" head="8" dep="mod">avec</word>
-          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
-          <word id="16" lem="pente" postag="NC" morpho="g=f|n=s" head="14" dep="prep">pente</word>
-          <word id="17" lem="maximum" postag="ADJ" morpho="_" head="16" dep="mod">maximum</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="19" lem="#NUM#" postag="DET" morpho="n=p" head="20" dep="det">122</word>
-          <word id="20" lem="%" postag="NC" morpho="g=m" head="18" dep="prep">%</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="22" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
-          <word id="23" lem="plus" postag="ADV" morpho="_" head="24" dep="mod">plus</word>
-          <word id="24" lem="fort" postag="ADJ" morpho="g=f|n=s" head="16" dep="mod">forte</word>
-          <word id="25" lem="à" postag="P+D" morpho="g=m|n=s" head="24" dep="mod">au</word>
-          <word id="26" lem="monde" postag="NC" morpho="g=m|n=s" head="25" dep="prep">monde</word>
-          <word id="27" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="appareil" postag="NC" morpho="g=m|n=s" head="10" dep="suj">appareil</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="adapter" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">adapté</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="de_obj">d'</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="transporteur" postag="NC" morpho="g=m|n=s" head="5" dep="prep">transporteur</word>
-          <word id="8" lem="industriel" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">industriel</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-          <word id="10" lem="fonctionner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">fonctionne</word>
-          <word id="11" lem="désormais" postag="ADV" morpho="_" head="10" dep="mod">désormais</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">va</word>
-          <word id="14" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
-          <word id="15" lem="venir" postag="V" morpho="n=s|p=3|t=pst" head="14" dep="dep_coord">vient</word>
-          <word id="16" lem="avec" postag="P" morpho="_" head="15" dep="mod">avec</word>
-          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
-          <word id="18" lem="téléphérique" postag="NC" morpho="g=m|n=s" head="16" dep="prep">téléphérique</word>
-          <word id="19" lem="contrepoids" postag="NC" morpho="g=m" head="18" dep="mod">contrepoids</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1974</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="début" postag="NC" morpho="g=m|n=s" head="1" dep="mod">début</word>
-          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
-          <word id="5" lem="funiculaire" postag="ADJ" morpho="n=p" head="6" dep="mod">funiculaires</word>
-          <word id="6" lem="moderne" postag="ADJ" morpho="n=p" head="4" dep="prep">modernes</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="3" dep="dep">en</word>
-          <word id="8" lem="tunnel" postag="NC" morpho="g=m|n=s" head="7" dep="prep">tunnel</word>
-          <word id="9" lem="avec" postag="P" morpho="_" head="3" dep="dep">avec</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="ouverture" postag="NC" morpho="g=f|n=s" head="9" dep="prep">ouverture</word>
-          <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">Gletscherbahn</word>
-          <word id="14" lem="#NUM#" postag="ADJ" morpho="n=p" head="13" dep="mod">2</word>
-          <word id="15" lem="à" postag="P" morpho="_" head="11" dep="dep">à</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Kaprun</word>
-          <word id="17" lem="(" postag="PONCT" morpho="_" head="16" dep="ponct">(</word>
-          <word id="18" lem="Autriche" postag="NPP" morpho="g=f|n=s" head="16" dep="mod">Autriche</word>
-          <word id="19" lem=")" postag="PONCT" morpho="_" head="16" dep="ponct">)</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1991</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="5" lem="Barcelone" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Barcelone</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="7" lem="funiculaire" postag="ADJ" morpho="n=s" head="6" dep="prep">funiculaire</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="mod">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Montjuïc</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="11" lem="posséder" postag="VPR" morpho="t=pst" head="1" dep="mod">possédant</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
-          <word id="13" lem="plus" postag="ADV" morpho="_" head="14" dep="mod">plus</word>
-          <word id="14" lem="gros" postag="ADJ" morpho="g=m" head="15" dep="mod">gros</word>
-          <word id="15" lem="débit" postag="NC" morpho="g=m|n=s" head="11" dep="obj">débit</word>
-          <word id="16" lem="maximum" postag="ADJ" morpho="_" head="15" dep="mod">maximum</word>
-          <word id="17" lem="théorique" postag="ADJ" morpho="n=s" head="15" dep="mod">théorique</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="15" dep="dep">d'</word>
-          <word id="19" lem="exploitation" postag="NC" morpho="g=f|n=s" head="18" dep="prep">exploitation</word>
-          <word id="20" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="21" lem="avec" postag="P" morpho="_" head="1" dep="dep">avec</word>
-          <word id="22" lem="#NUM#" postag="DET" morpho="n=p" head="23" dep="det">8000</word>
-          <word id="23" lem="personne" postag="NC" morpho="g=f|n=p" head="21" dep="prep">personnes</word>
-          <word id="24" lem="par" postag="P" morpho="_" head="23" dep="dep">par</word>
-          <word id="25" lem="heure" postag="NC" morpho="g=f|n=s" head="24" dep="prep">heure</word>
-          <word id="26" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
-          <word id="27" lem="par" postag="P" morpho="_" head="26" dep="dep_coord">par</word>
-          <word id="28" lem="sens" postag="NC" morpho="g=m" head="27" dep="prep">sens</word>
-          <word id="29" lem="de" postag="P" morpho="_" head="28" dep="dep">de</word>
-          <word id="30" lem="circulation" postag="NC" morpho="g=f|n=s" head="29" dep="prep">circulation</word>
-          <word id="31" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="appareil" postag="NC" morpho="g=m|n=s" head="4" dep="suj">appareil</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
-          <word id="4" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">construit</word>
-          <word id="5" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Waagner-Biró</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="4" dep="mod">à</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="occasion" postag="NC" morpho="g=f|n=s" head="7" dep="prep">occasion</word>
-          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Jeux</word>
-          <word id="12" lem="olympique" postag="ADJ" morpho="n=p" head="11" dep="mod">olympiques</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="14" lem="été" postag="NC" morpho="g=m|n=s" head="13" dep="prep">été</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="16" lem="_" postag="NC" morpho="_" head="15" dep="prep">1992</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">2000</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="accident" postag="NC" morpho="g=m|n=s" head="1" dep="mod">accident</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="4" dep="prep">funiculaire</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Kaprun</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="#NUM#" postag="DET" morpho="n=p" head="10" dep="det">155</word>
-          <word id="10" lem="mort" postag="NC" morpho="g=f|n=p" head="1" dep="mod">morts</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="#NUM#" postag="DET" morpho="n=p" head="13" dep="det">12</word>
-          <word id="13" lem="survivant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">survivants</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">XIX</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1808</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="plan" postag="NC" morpho="g=m|n=s" head="4" dep="prep">plan</word>
-          <word id="6" lem="incliner" postag="ADJ" morpho="g=m|n=s|t=past" head="5" dep="mod">incliné</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Birtley-Fell</word>
-          <word id="9" lem="près_de" postag="P" morpho="_" head="3" dep="dep">près_de</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Newcastle</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="funiculaire" postag="ADJ" morpho="n=s" head="13" dep="mod">funiculaire</word>
-          <word id="13" lem="primitif" postag="NC" morpho="g=f|n=s" head="1" dep="mod">primitif</word>
-          <word id="14" lem="utiliser" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">utilisé</word>
-          <word id="15" lem="pour" postag="P" morpho="_" head="14" dep="mod">pour</word>
-          <word id="16" lem="remonter" postag="VINF" morpho="_" head="15" dep="prep">remonter</word>
-          <word id="17" lem="des" postag="DET" morpho="n=p" head="18" dep="det">des</word>
-          <word id="18" lem="chariot" postag="NC" morpho="g=m|n=p" head="16" dep="obj">chariots</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
-          <word id="20" lem="la" postag="DET" morpho="g=f|n=s" head="21" dep="det">la</word>
-          <word id="21" lem="houillère" postag="NC" morpho="g=f|n=s" head="19" dep="prep">houillère</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">d'</word>
-          <word id="23" lem="_" postag="NPP" morpho="_" head="22" dep="prep">Urpeth</word>
-          <word id="24" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1825</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
-          <word id="5" lem="plan" postag="NC" morpho="g=m|n=p" head="4" dep="prep">plans</word>
-          <word id="6" lem="incliner" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="mod">inclinés</word>
-          <word id="7" lem="funiculaire" postag="ADJ" morpho="n=p" head="6" dep="mod">funiculaires</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Hethereley</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="dep_coord">Brusselton</word>
-          <word id="12" lem="réaliser" postag="VPP" morpho="g=m|n=p|t=past" head="11" dep="mod">réalisés</word>
-          <word id="13" lem="sur" postag="P" morpho="_" head="12" dep="mod">sur</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="ligne" postag="NC" morpho="g=f|n=s" head="13" dep="prep">ligne</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="voie" postag="NC" morpho="g=f|n=s" head="16" dep="prep">voie</word>
-          <word id="18" lem="ferrer" postag="ADJ" morpho="g=f|n=s|t=past" head="17" dep="mod">ferrée</word>
-          <word id="19" lem="_" postag="NPP" morpho="_" head="17" dep="mod">Stockton-Darlington</word>
-          <word id="20" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-          <word id="21" lem="Angleterre" postag="NPP" morpho="g=f|n=s" head="20" dep="prep">Angleterre</word>
-          <word id="22" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="23" lem="qui" postag="PROREL" morpho="n=s" head="24" dep="suj">qui</word>
-          <word id="24" lem="être" postag="V" morpho="n=p|p=3|t=fut" head="1" dep="mod">seront</word>
-          <word id="25" lem="les" postag="DET" morpho="n=p" head="26" dep="det">les</word>
-          <word id="26" lem="premier" postag="ADJ" morpho="g=m|n=p" head="24" dep="ats">premiers</word>
-          <word id="27" lem="à" postag="P+D" morpho="g=m|n=s" head="24" dep="mod">au</word>
-          <word id="28" lem="monde" postag="NC" morpho="g=m|n=s" head="27" dep="prep">monde</word>
-          <word id="29" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="28" dep="mod">utilisés</word>
-          <word id="30" lem="pour" postag="P" morpho="_" head="29" dep="mod">pour</word>
-          <word id="31" lem="le" postag="DET" morpho="g=m|n=s" head="32" dep="det">le</word>
-          <word id="32" lem="transport" postag="NC" morpho="g=m|n=s" head="30" dep="prep">transport</word>
-          <word id="33" lem="public" postag="ADJ" morpho="g=m|n=s" head="32" dep="mod">public</word>
-          <word id="34" lem="de" postag="P" morpho="_" head="32" dep="dep">de</word>
-          <word id="35" lem="passager" postag="NC" morpho="g=m|n=p" head="34" dep="prep">passagers</word>
-          <word id="36" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1833</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
-          <word id="5" lem="plan" postag="NC" morpho="g=m|n=p" head="4" dep="prep">plans</word>
-          <word id="6" lem="incliner" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="mod">inclinés</word>
-          <word id="7" lem="funiculaire" postag="ADJ" morpho="n=p" head="6" dep="mod">funiculaires</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Biesse</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="11" lem="Neulise" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Neulise</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="13" lem="de" postag="P+D" morpho="g=m|n=s" head="12" dep="dep_coord">du</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">Buis</word>
-          <word id="15" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="16" lem="le" postag="DET" morpho="g=m|n=s" head="17" dep="det">le</word>
-          <word id="17" lem="département" postag="NC" morpho="g=m|n=s" head="15" dep="prep">département</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="Loire" postag="NPP" morpho="g=f|n=s" head="18" dep="prep">Loire</word>
-          <word id="21" lem="en" postag="P" morpho="_" head="17" dep="dep">en</word>
-          <word id="22" lem="France" postag="NPP" morpho="g=m|n=s" head="21" dep="prep">France</word>
-          <word id="23" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="24" lem="qui" postag="PROREL" morpho="n=s" head="25" dep="suj">qui</word>
-          <word id="25" lem="être" postag="V" morpho="n=p|p=3|t=fut" head="17" dep="mod_rel">seront</word>
-          <word id="26" lem="les" postag="DET" morpho="n=p" head="27" dep="det">les</word>
-          <word id="27" lem="premier" postag="ADJ" morpho="g=m|n=p" head="25" dep="ats">premiers</word>
-          <word id="28" lem="de" postag="P" morpho="_" head="27" dep="mod">d'</word>
-          <word id="29" lem="Europe" postag="NPP" morpho="g=f|n=s" head="28" dep="prep">Europe</word>
-          <word id="30" lem="continental" postag="ADJ" morpho="g=f|n=s" head="29" dep="mod">continentale</word>
-          <word id="31" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="27" dep="mod">utilisés</word>
-          <word id="32" lem="pour" postag="P" morpho="_" head="31" dep="mod">pour</word>
-          <word id="33" lem="le" postag="DET" morpho="g=m|n=s" head="34" dep="det">le</word>
-          <word id="34" lem="transport" postag="NC" morpho="g=m|n=s" head="32" dep="prep">transport</word>
-          <word id="35" lem="public" postag="ADJ" morpho="g=m|n=s" head="34" dep="mod">public</word>
-          <word id="36" lem="de" postag="P" morpho="_" head="34" dep="dep">de</word>
-          <word id="37" lem="passager" postag="NC" morpho="g=m|n=p" head="36" dep="prep">passagers</word>
-          <word id="38" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="7" dep="mod">1834</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="7" dep="suj">Allemand</word>
-          <word id="5" lem="Wilhelm" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Wilhelm</word>
-          <word id="6" lem="Albert" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Albert</word>
-          <word id="7" lem="inventer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">invente</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="câble" postag="NC" morpho="g=m|n=s" head="7" dep="obj">câble</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">toronné</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1845</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Prospect</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">park</word>
-          <word id="7" lem="incliner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">incline</word>
-          <word id="8" lem="_" postag="VINF" morpho="_" head="7" dep="obj">railway</word>
-          <word id="9" lem="des" postag="DET" morpho="n=p" head="10" dep="det">des</word>
-          <word id="10" lem="chute" postag="NC" morpho="g=f|n=p" head="8" dep="obj">chutes</word>
-          <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="dep">du</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Niagara</word>
-          <word id="13" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="mod">États-Unis</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="17" lem="premier" postag="ADJ" morpho="n=p" head="18" dep="mod">premier</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="12" dep="mod">funiculaire</word>
-          <word id="19" lem="touristique" postag="ADJ" morpho="n=s" head="18" dep="mod">touristique</word>
-          <word id="20" lem="à" postag="P+D" morpho="g=m|n=s" head="18" dep="dep">au</word>
-          <word id="21" lem="monde" postag="NC" morpho="g=m|n=s" head="20" dep="prep">monde</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1862</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="4" dep="prep">funiculaire</word>
-          <word id="6" lem="urbain" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">urbain</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Rue" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Rue</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Terme</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Croix-Rousse</word>
-          <word id="14" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="15" lem="Lyon" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">Lyon</word>
-          <word id="16" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-          <word id="17" lem="France" postag="NPP" morpho="g=m|n=s" head="15" dep="mod">France</word>
-          <word id="18" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1873</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="6" lem="premier" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">première</word>
-          <word id="7" lem="ligne" postag="NC" morpho="g=f|n=s" head="4" dep="prep">ligne</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="tramway" postag="NC" morpho="g=m|n=s" head="8" dep="prep">tramway</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="11" lem="traction" postag="NC" morpho="g=f|n=s" head="10" dep="prep">traction</word>
-          <word id="12" lem="par" postag="P" morpho="_" head="3" dep="dep">par</word>
-          <word id="13" lem="câble" postag="NC" morpho="g=m|n=s" head="12" dep="prep">câble</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
-          <word id="16" lem="_" postag="NC" morpho="_" head="1" dep="mod">Cable</word>
-          <word id="17" lem="Cars" postag="NPP" morpho="g=m|n=s" head="16" dep="mod">Cars</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="19" lem="San" postag="NPP" morpho="n=s" head="18" dep="prep">San</word>
-          <word id="20" lem="Francisco" postag="NPP" morpho="g=m|n=s" head="19" dep="mod">Francisco</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1879</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="premier" postag="ADJ" morpho="n=p" head="4" dep="mod">premier</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">funiculaire</word>
-          <word id="5" lem="_" postag="V" morpho="_" head="0" dep="root">monovoie</word>
-          <word id="6" lem="avec" postag="P" morpho="_" head="5" dep="mod">avec</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="8" lem="premier" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">première</word>
-          <word id="9" lem="version" postag="NC" morpho="g=f|n=s" head="6" dep="prep">version</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="évitement" postag="NC" morpho="g=m|n=s" head="10" dep="prep">évitement</word>
-          <word id="12" lem="central" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">central</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Abt</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="15" lem="grâce_à" postag="P" morpho="_" head="5" dep="mod">grâce_à</word>
-          <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
-          <word id="17" lem="inversement" postag="NC" morpho="g=m|n=s" head="15" dep="prep">inversement</word>
-          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-          <word id="19" lem="boudin" postag="NC" morpho="g=m|n=p" head="18" dep="prep">boudins</word>
-          <word id="20" lem="de" postag="P+D" morpho="n=p" head="19" dep="dep">des</word>
-          <word id="21" lem="roue" postag="NC" morpho="g=f|n=p" head="20" dep="prep">roues</word>
-          <word id="22" lem="sur" postag="P" morpho="_" head="17" dep="dep">sur</word>
-          <word id="23" lem="les" postag="DET" morpho="n=p" head="24" dep="det">les</word>
-          <word id="24" lem="véhicule" postag="NC" morpho="g=m|n=p" head="22" dep="prep">véhicules</word>
-          <word id="25" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="26" lem="à" postag="P+D" morpho="g=m|n=s" head="17" dep="dep">au</word>
-          <word id="27" lem="_" postag="NPP" morpho="_" head="26" dep="prep">Giessbach</word>
-          <word id="28" lem="(" postag="PONCT" morpho="_" head="27" dep="ponct">(</word>
-          <word id="29" lem="suisse" postag="ADJ" morpho="n=s" head="27" dep="mod">Suisse</word>
-          <word id="30" lem=")" postag="PONCT" morpho="_" head="27" dep="ponct">)</word>
-          <word id="31" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1883</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="premier" postag="ADJ" morpho="n=p" head="4" dep="mod">Premier</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">funiculaire</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Valparaíso</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="6" dep="mod">Funiculaire</word>
-          <word id="9" lem="Concepción" postag="NPP" morpho="g=f|n=s" head="8" dep="mod">Concepción</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="13" lem="Chili" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Chili</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1888</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="premier" postag="ADJ" morpho="n=p" head="4" dep="mod">premier</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">funiculaire</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="6" lem="traction" postag="NC" morpho="g=f|n=s" head="5" dep="prep">traction</word>
-          <word id="7" lem="électrique" postag="ADJ" morpho="n=s" head="6" dep="mod">électrique</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="9" lem="premier" postag="ADJ" morpho="n=p" head="10" dep="mod">premier</word>
-          <word id="10" lem="évitement" postag="NC" morpho="g=m|n=s" head="8" dep="dep_coord">évitement</word>
-          <word id="11" lem="central" postag="ADJ" morpho="g=m|n=s" head="10" dep="mod">central</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Abt</word>
-          <word id="13" lem="avec" postag="P" morpho="_" head="4" dep="dep">avec</word>
-          <word id="14" lem="utilisation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">utilisation</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="roue" postag="NC" morpho="g=f|n=p" head="15" dep="prep">roues</word>
-          <word id="17" lem="sans" postag="P" morpho="_" head="16" dep="dep">sans</word>
-          <word id="18" lem="boudin" postag="NC" morpho="g=m|n=s" head="17" dep="prep">boudin</word>
-          <word id="19" lem="sur" postag="P" morpho="_" head="4" dep="dep">sur</word>
-          <word id="20" lem="un" postag="DET" morpho="g=m|n=s" head="21" dep="det">un</word>
-          <word id="21" lem="côté" postag="NC" morpho="g=m|n=s" head="19" dep="prep">côté</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">d'</word>
-          <word id="23" lem="essieu" postag="NC" morpho="g=m|n=s" head="22" dep="prep">essieu</word>
-          <word id="24" lem="pour" postag="P" morpho="_" head="4" dep="dep">pour</word>
-          <word id="25" lem="franchissement" postag="NC" morpho="g=m|n=s" head="24" dep="prep">franchissement</word>
-          <word id="26" lem="de" postag="P+D" morpho="g=m|n=s" head="25" dep="dep">du</word>
-          <word id="27" lem="_" postag="NC" morpho="_" head="26" dep="prep">cœur</word>
-          <word id="28" lem="de" postag="P" morpho="_" head="27" dep="dep">de</word>
-          <word id="29" lem="l'" postag="DET" morpho="n=s" head="30" dep="det">l'</word>
-          <word id="30" lem="aiguillage" postag="NC" morpho="g=m|n=s" head="28" dep="prep">aiguillage</word>
-          <word id="31" lem="à" postag="P+D" morpho="g=m|n=s" head="25" dep="dep">au</word>
-          <word id="32" lem="_" postag="NPP" morpho="_" head="31" dep="prep">Bürgenstock</word>
-          <word id="33" lem="près_de" postag="P" morpho="_" head="4" dep="dep">près_de</word>
-          <word id="34" lem="_" postag="NPP" morpho="_" head="33" dep="prep">Lucerne</word>
-          <word id="35" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1893</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="premier" postag="ADJ" morpho="n=p" head="4" dep="mod">premier</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">funiculaire</word>
-          <word id="5" lem="avec" postag="P" morpho="_" head="4" dep="dep">avec</word>
-          <word id="6" lem="frein" postag="NC" morpho="g=m|n=p" head="5" dep="prep">freins</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
-          <word id="8" lem="pince" postag="NC" morpho="g=f|n=s" head="7" dep="prep">pince</word>
-          <word id="9" lem="agir" postag="VPR" morpho="t=pst" head="6" dep="mod">agissant</word>
-          <word id="10" lem="directement" postag="ADV" morpho="_" head="9" dep="mod">directement</word>
-          <word id="11" lem="sur" postag="P" morpho="_" head="9" dep="mod">sur</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-          <word id="13" lem="rail" postag="NC" morpho="g=m|n=s" head="11" dep="prep">rail</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="roulement" postag="NC" morpho="g=m|n=s" head="14" dep="prep">roulement</word>
-          <word id="16" lem="à" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">au</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="prep">Stanserhorn</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="19" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="20" lem="Suisse" postag="NPP" morpho="g=f|n=s" head="19" dep="prep">Suisse</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">XX</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1935</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">au</word>
-          <word id="5" lem="public" postag="NC" morpho="g=m|n=s" head="4" dep="prep">public</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Scenic</word>
-          <word id="8" lem="_" postag="V" morpho="_" head="0" dep="root">railway</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="mod">à</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Katoomba</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="10" dep="ponct">(</word>
-          <word id="12" lem="Australie" postag="NPP" morpho="g=f|n=s" head="10" dep="mod">Australie</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
-          <word id="14" lem="avec" postag="P" morpho="_" head="8" dep="mod">avec</word>
-          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
-          <word id="16" lem="pente" postag="NC" morpho="g=f|n=s" head="14" dep="prep">pente</word>
-          <word id="17" lem="maximum" postag="ADJ" morpho="_" head="16" dep="mod">maximum</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="19" lem="#NUM#" postag="DET" morpho="n=p" head="20" dep="det">122</word>
-          <word id="20" lem="%" postag="NC" morpho="g=m" head="18" dep="prep">%</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="22" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
-          <word id="23" lem="plus" postag="ADV" morpho="_" head="24" dep="mod">plus</word>
-          <word id="24" lem="fort" postag="ADJ" morpho="g=f|n=s" head="16" dep="mod">forte</word>
-          <word id="25" lem="à" postag="P+D" morpho="g=m|n=s" head="24" dep="mod">au</word>
-          <word id="26" lem="monde" postag="NC" morpho="g=m|n=s" head="25" dep="prep">monde</word>
-          <word id="27" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="appareil" postag="NC" morpho="g=m|n=s" head="10" dep="suj">appareil</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="adapter" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">adapté</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="de_obj">d'</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="transporteur" postag="NC" morpho="g=m|n=s" head="5" dep="prep">transporteur</word>
-          <word id="8" lem="industriel" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">industriel</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-          <word id="10" lem="fonctionner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">fonctionne</word>
-          <word id="11" lem="désormais" postag="ADV" morpho="_" head="10" dep="mod">désormais</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">va</word>
-          <word id="14" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
-          <word id="15" lem="venir" postag="V" morpho="n=s|p=3|t=pst" head="14" dep="dep_coord">vient</word>
-          <word id="16" lem="avec" postag="P" morpho="_" head="15" dep="mod">avec</word>
-          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
-          <word id="18" lem="téléphérique" postag="NC" morpho="g=m|n=s" head="16" dep="prep">téléphérique</word>
-          <word id="19" lem="contrepoids" postag="NC" morpho="g=m" head="18" dep="mod">contrepoids</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1974</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="début" postag="NC" morpho="g=m|n=s" head="1" dep="mod">début</word>
-          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
-          <word id="5" lem="funiculaire" postag="ADJ" morpho="n=p" head="6" dep="mod">funiculaires</word>
-          <word id="6" lem="moderne" postag="ADJ" morpho="n=p" head="4" dep="prep">modernes</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="3" dep="dep">en</word>
-          <word id="8" lem="tunnel" postag="NC" morpho="g=m|n=s" head="7" dep="prep">tunnel</word>
-          <word id="9" lem="avec" postag="P" morpho="_" head="3" dep="dep">avec</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="ouverture" postag="NC" morpho="g=f|n=s" head="9" dep="prep">ouverture</word>
-          <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">Gletscherbahn</word>
-          <word id="14" lem="#NUM#" postag="ADJ" morpho="n=p" head="13" dep="mod">2</word>
-          <word id="15" lem="à" postag="P" morpho="_" head="11" dep="dep">à</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Kaprun</word>
-          <word id="17" lem="(" postag="PONCT" morpho="_" head="16" dep="ponct">(</word>
-          <word id="18" lem="Autriche" postag="NPP" morpho="g=f|n=s" head="16" dep="mod">Autriche</word>
-          <word id="19" lem=")" postag="PONCT" morpho="_" head="16" dep="ponct">)</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">1991</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="ouverture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ouverture</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="5" lem="Barcelone" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Barcelone</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="7" lem="funiculaire" postag="ADJ" morpho="n=s" head="6" dep="prep">funiculaire</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="mod">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Montjuïc</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="11" lem="posséder" postag="VPR" morpho="t=pst" head="1" dep="mod">possédant</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
-          <word id="13" lem="plus" postag="ADV" morpho="_" head="14" dep="mod">plus</word>
-          <word id="14" lem="gros" postag="ADJ" morpho="g=m" head="15" dep="mod">gros</word>
-          <word id="15" lem="débit" postag="NC" morpho="g=m|n=s" head="11" dep="obj">débit</word>
-          <word id="16" lem="maximum" postag="ADJ" morpho="_" head="15" dep="mod">maximum</word>
-          <word id="17" lem="théorique" postag="ADJ" morpho="n=s" head="15" dep="mod">théorique</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="15" dep="dep">d'</word>
-          <word id="19" lem="exploitation" postag="NC" morpho="g=f|n=s" head="18" dep="prep">exploitation</word>
-          <word id="20" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="21" lem="avec" postag="P" morpho="_" head="1" dep="dep">avec</word>
-          <word id="22" lem="#NUM#" postag="DET" morpho="n=p" head="23" dep="det">8000</word>
-          <word id="23" lem="personne" postag="NC" morpho="g=f|n=p" head="21" dep="prep">personnes</word>
-          <word id="24" lem="par" postag="P" morpho="_" head="23" dep="dep">par</word>
-          <word id="25" lem="heure" postag="NC" morpho="g=f|n=s" head="24" dep="prep">heure</word>
-          <word id="26" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
-          <word id="27" lem="par" postag="P" morpho="_" head="26" dep="dep_coord">par</word>
-          <word id="28" lem="sens" postag="NC" morpho="g=m" head="27" dep="prep">sens</word>
-          <word id="29" lem="de" postag="P" morpho="_" head="28" dep="dep">de</word>
-          <word id="30" lem="circulation" postag="NC" morpho="g=f|n=s" head="29" dep="prep">circulation</word>
-          <word id="31" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="appareil" postag="NC" morpho="g=m|n=s" head="4" dep="suj">appareil</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
-          <word id="4" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">construit</word>
-          <word id="5" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Waagner-Biró</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="4" dep="mod">à</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="occasion" postag="NC" morpho="g=f|n=s" head="7" dep="prep">occasion</word>
-          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Jeux</word>
-          <word id="12" lem="olympique" postag="ADJ" morpho="n=p" head="11" dep="mod">olympiques</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="14" lem="été" postag="NC" morpho="g=m|n=s" head="13" dep="prep">été</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="16" lem="_" postag="NC" morpho="_" head="15" dep="prep">1992</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">2000</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="accident" postag="NC" morpho="g=m|n=s" head="1" dep="mod">accident</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="4" dep="prep">funiculaire</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Kaprun</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="#NUM#" postag="DET" morpho="n=p" head="10" dep="det">155</word>
-          <word id="10" lem="mort" postag="NC" morpho="g=f|n=p" head="1" dep="mod">morts</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="#NUM#" postag="DET" morpho="n=p" head="13" dep="det">12</word>
-          <word id="13" lem="survivant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">survivants</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
-      <span begin="1" end="32" />
-      <text>La présence d'un câble retour (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="items" idSE="0">
-      <span begin="32" end="56" id="0" />
-      <text id="0">câble contre-tracteur ou</text>
-      <span begin="57" end="62" id="1" />
-      <text id="1">lest)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="primer" idSE="1">
-      <span begin="1" end="109" />
-      <text>Chronologie
-Cette chronologie retrace les principaux évènements mondiaux relatifs à l'histoire du funiculair</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="items" idSE="1">
-      <span begin="112" end="293" id="0" />
-      <text id="0">1515 : le funiculaire primitif du Reisszug est répertorié par Matthäus Lang von Wellenburg ; il dessert la forteresse de Hohensalzburg à Salzbourg et est mu par l'homme ou l'animal.</text>
-      <span begin="294" end="1861" id="1" />
-      <text id="1">XIX
-1808 : ouverture du plan incliné de Birtley-Fell près de Newcastle, funiculaire primitif utilisé pour remonter des chariots de la houillère d'Urpeth.
-1825 : ouverture des plans inclinés funiculaires de Hethereley et Brusselton réalisés sur la ligne de voie ferrée Stockton-Darlington en Angleterre, qui seront les premiers au monde utilisés pour le transport public de passagers.
-1833 : ouverture des plans inclinés funiculaires de Biesse, Neulise et du Buis dans le département de la Loire en France, qui seront les premiers d'Europe continentale utilisés pour le transport public de passagers.
-1834 : l'Allemand Wilhelm Albert invente le câble toronné.
-1845 : ouverture du Prospect park incline railway des chutes du Niagara (États-Unis), premier funiculaire touristique au monde.
-1862 : ouverture du funiculaire urbain de la Rue Terme à la Croix-Rousse à Lyon (France).
-1873 : ouverture de la première ligne de tramway à traction par câble, les Cable Cars de San Francisco.
-1879 : premier funiculaire monovoie avec une première version d'évitement central Abt, grâce à un inversement des boudins des roues sur les véhicules, au Giessbach (Suisse).
-1883 : Premier funiculaire à Valparaíso (Funiculaire Concepción), au Chili.
-1888 : premier funiculaire à traction électrique et premier évitement central Abt avec utilisation de roues sans boudin sur un côté d'essieu pour franchissement du cœur de l'aiguillage au Bürgenstock près de Lucerne.
-1893 : premier funiculaire avec freins à pince agissant directement sur le rail de roulement au Stanserhorn, en Suisse.</text>
-      <span begin="1862" end="2550" id="2" />
-      <text id="2">XX
-1935 : ouverture au public du Scenic railway à Katoomba (Australie) avec une pente maximum de 122 %, la plus forte au monde. L'appareil, adapté d'un transporteur industriel, fonctionne désormais en va et vient avec un téléphérique contrepoids.
-1974 : début des funiculaires modernes en tunnel avec l'ouverture du Gletscherbahn 2 à Kaprun (Autriche).
-1991 : ouverture à Barcelone du funiculaire de Montjuïc, possédant le plus gros débit maximum théorique d'exploitation, avec 8000 personnes par heure et par sens de circulation. L'appareil est construit par Waagner-Biró à l'occasion des Jeux olympiques d'été de 1992.
-2000 : accident du funiculaire de Kaprun, 155 morts, 12 survivants.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
       <span begin="1" end="4" />
       <text>XIX</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="items" idSE="2">
+    <SEval type="items" idSE="0">
       <span begin="5" end="154" id="0" />
       <text id="0">1808 : ouverture du plan incliné de Birtley-Fell près de Newcastle, funiculaire primitif utilisé pour remonter des chariots de la houillère d'Urpeth.</text>
       <span begin="155" end="384" id="1" />
@@ -1279,24 +142,24 @@ Cette chronologie retrace les principaux évènements mondiaux relatifs à l'his
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="primer" idSE="3">
+    <SEval type="primer" idSE="1">
       <span begin="1" end="3" />
       <text>XX</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="1">
       <span begin="4" end="247" id="0" />
       <text id="0">1935 : ouverture au public du Scenic railway à Katoomba (Australie) avec une pente maximum de 122 %, la plus forte au monde. L'appareil, adapté d'un transporteur industriel, fonctionne désormais en va et vient avec un téléphérique contrepoids.</text>
       <span begin="248" end="353" id="1" />
@@ -1310,315 +173,203 @@ Cette chronologie retrace les principaux évènements mondiaux relatifs à l'his
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
-      <span begin="15" end="30" id="0" />
-      <text id="0">un câble retour</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="0">
-      <span begin="32" end="53" id="0" />
-      <text id="0">câble contre-tracteur</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="1">
-      <span begin="57" end="61" id="0" />
-      <text id="0">lest</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
-      <span begin="1" end="12" id="0" />
-      <text id="0">Chronologie</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
-      <span begin="112" end="117" id="0" />
-      <text id="0">1515</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
-      <span begin="298" end="303" id="0" />
-      <text id="0">1808</text>
-      <span begin="448" end="452" id="1" />
-      <text id="1">1825</text>
-      <span begin="678" end="682" id="2" />
-      <text id="2">1833</text>
-      <span begin="894" end="898" id="3" />
-      <text id="3">1834</text>
-      <span begin="953" end="957" id="4" />
-      <text id="4">1845</text>
-      <span begin="1081" end="1085" id="5" />
-      <text id="5">1862</text>
-      <span begin="1171" end="1175" id="6" />
-      <text id="6">1873</text>
-      <span begin="1275" end="1279" id="7" />
-      <text id="7">1879</text>
-      <span begin="1449" end="1453" id="8" />
-      <text id="8">1883</text>
-      <span begin="1525" end="1529" id="9" />
-      <text id="9">1888</text>
-      <span begin="1742" end="1746" id="10" />
-      <text id="10">1893</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
-      <span begin="1862" end="1864" id="0" />
-      <text id="0">XX</text>
-      <span begin="1865" end="1869" id="1" />
-      <text id="1">1935</text>
-      <span begin="2109" end="2113" id="2" />
-      <text id="2">1974</text>
-      <span begin="2215" end="2219" id="3" />
-      <text id="3">1991</text>
-      <span begin="2483" end="2487" id="4" />
-      <text id="4">2000</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
       <span begin="1" end="4" id="0" />
       <text id="0">XIX</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
       <span begin="5" end="9" id="0" />
       <text id="0">1808</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="1">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
       <span begin="155" end="159" id="0" />
       <text id="0">1825</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="2">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="2">
       <span begin="385" end="390" id="0" />
       <text id="0">1833</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="3">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="3">
       <span begin="601" end="605" id="0" />
       <text id="0">1834</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="4">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="4">
       <span begin="660" end="664" id="0" />
       <text id="0">1845</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="5">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="5">
       <span begin="788" end="792" id="0" />
       <text id="0">1862</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="6">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="6">
       <span begin="878" end="882" id="0" />
       <text id="0">1873</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="7">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="7">
       <span begin="982" end="987" id="0" />
       <text id="0">1879</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="8">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="8">
       <span begin="1156" end="1160" id="0" />
       <text id="0">1883</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="9">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="9">
       <span begin="1232" end="1236" id="0" />
       <text id="0">1888</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="10">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="10">
       <span begin="1449" end="1453" id="0" />
       <text id="0">1893</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
       <span begin="1" end="3" id="0" />
       <text id="0">XX</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
       <span begin="4" end="8" id="0" />
       <text id="0">1935</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="item" idItem="1">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
       <span begin="248" end="252" id="0" />
       <text id="0">1974</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="item" idItem="2">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
       <span begin="354" end="358" id="0" />
       <text id="0">1991</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="item" idItem="3">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="3">
       <span begin="622" end="626" id="0" />
       <text id="0">2000</text>
     </SEval>
@@ -1626,41 +377,41 @@ Cette chronologie retrace les principaux évènements mondiaux relatifs à l'his
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
-      <horizontale value="1" />
-      <verticale value="0" />
+      <horizontale value="0" />
+      <verticale value="1" />
       <navigationnelle value="0" />
-      <hypertextuelle value="0" />
+      <hypertextuelle value="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
-      <paradigmatique value="1" />
+      <paradigmatique value="0" />
       <syntagmatique value="0" />
       <hybride value="0" />
-      <bivalente value="0" />
+      <bivalente value="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
-      <descriptive value="1" />
-      <narrative value="0" />
+      <descriptive value="0" />
+      <narrative value="1" />
       <explicative value="0" />
       <prescriptive value="0" />
       <procedurale value="0" />
@@ -1671,153 +422,11 @@ Cette chronologie retrace les principaux évènements mondiaux relatifs à l'his
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Funiculaire.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="1">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="1">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="1">
-      <descriptive value="0" />
-      <narrative value="1" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:17</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="1">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="1" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="2">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="0" />
-      <narrative value="1" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
-      <document>Funiculaire.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="2">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />
@@ -1838,12 +447,12 @@ Cette chronologie retrace les principaux évènements mondiaux relatifs à l'his
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="3">
+    <SEval type="axe_visuel" idSE="1">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -1852,12 +461,12 @@ Cette chronologie retrace les principaux évènements mondiaux relatifs à l'his
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="3">
+    <SEval type="axe_rhetorique" idSE="1">
       <paradigmatique value="0" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -1866,12 +475,12 @@ Cette chronologie retrace les principaux évènements mondiaux relatifs à l'his
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="3">
+    <SEval type="axe_intentionnel" idSE="1">
       <descriptive value="0" />
       <narrative value="1" />
       <explicative value="0" />
@@ -1883,12 +492,12 @@ Cette chronologie retrace les principaux évènements mondiaux relatifs à l'his
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:58</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:18</date>
       <document>Funiculaire.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="3">
+    <SEval type="axe_semantique" idSE="1">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />

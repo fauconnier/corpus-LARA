@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -70,13 +70,13 @@ La Porte Sainte Croix (Kruispoort en Néerlandais) à Bruges.
 La Porte de Hal à Bruxelles.</text>
       <span begin="3486" end="4998" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -92,8 +92,8 @@ La Porta Nigra de Trèves, en Allemagne.</text>
   <annotation type="1">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -156,8 +156,8 @@ La Porte Horloge à Vire.</text>
   <annotation type="1">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -173,8 +173,8 @@ La Porte Rivotte.</text>
   <annotation type="1">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -190,8 +190,8 @@ la Tour des Arquets.</text>
   <annotation type="1">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -210,8 +210,8 @@ la Porte de Bourgogne.</text>
   <annotation type="1">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -227,8 +227,8 @@ la porte de Roubaix.</text>
   <annotation type="1">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -245,8 +245,8 @@ la porte d'Aubette</text>
   <annotation type="1">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -266,8 +266,8 @@ la porte Stanislas.</text>
   <annotation type="1">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -282,8 +282,8 @@ la porte Saint-Martin.</text>
   <annotation type="1">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -299,8 +299,8 @@ la porte de Paris.</text>
   <annotation type="1">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SE>
@@ -315,1510 +315,294 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">Portes</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="3" lem="ville" postag="NC" morpho="g=f|n=s" head="2" dep="prep">ville</word>
-        <word id="4" lem="célèbre" postag="ADJ" morpho="n=p" head="1" dep="mod">célèbres</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Allemagne</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Brandebourg" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Brandebourg</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="6" lem="Berlin" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Berlin</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="9" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Allemagne</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Holstentor</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Lübeck</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="7" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Allemagne</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="Porta" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Porta</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Nigra</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Trèves</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="8" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Allemagne</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Arroux</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Autun" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Autun</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="Portes" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Besançon</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Noire</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Taillée</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Rivotte</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Strasbourg" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Strasbourg</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Bitche" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Bitche</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Cambrai" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Cambrai</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Notre-Dame" postag="NPP" morpho="g=f|n=s" head="2" dep="mod">Notre-Dame</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Tour</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Arquets</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="12">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="gallo-romain" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">gallo-romaine</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="5" lem="Langres" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Langres</word>
-        </sentence>
-        <sentence id="13">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Beucheresse</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="5" lem="Laval" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Laval</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="14">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Bordeaux" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Bordeaux</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="15">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Dijeaux</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="16">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="Aquitaine" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Aquitaine</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-        <sentence id="17">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Cailhau" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Cailhau</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="18">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Saint-Eloi" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Eloi</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="dire" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">dite</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="de_obj">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Grosse</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Cloche</word>
-        </sentence>
-        <sentence id="19">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="Monnaie" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Monnaie</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-        <sentence id="20">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Bourgogne" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Bourgogne</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="21">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Lille" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Lille</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="22">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Gand</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="23">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="24">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Roubaix" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Roubaix</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="25">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Manosque" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Manosque</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="26">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="3" dep="prep">Saunerie</word>
-        </sentence>
-        <sentence id="27">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Soubeyran</word>
-        </sentence>
-        <sentence id="28">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Guillempierre</word>
-        </sentence>
-        <sentence id="29">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Aubette</word>
-        </sentence>
-        <sentence id="30">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="Aix" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Aix</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Marseille" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Marseille</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="31">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="5" lem="gros" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">grosse</word>
-          <word id="6" lem="horloge" postag="NC" morpho="g=f|n=s" head="3" dep="prep">horloge</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">La</word>
-          <word id="9" lem="Rochelle" postag="NPP" morpho="g=f|n=s" head="8" dep="mod">Rochelle</word>
-        </sentence>
-        <sentence id="32">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Allemands</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Metz" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Metz</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="33">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Nancy" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Nancy</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="34">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Citadelle</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="35">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Craffe</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="36">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Désilles</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="37">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Saint-Georges" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Georges</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="38">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Saint-Nicolas" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Nicolas</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="39">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Sainte-Catherine" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Sainte-Catherine</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="40">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Stanislas" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Stanislas</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="41">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="Auguste" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Auguste</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="7" lem="Nîmes" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Nîmes</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="42">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="43">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Saint-Denis" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Denis</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="44">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Saint-Martin" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Martin</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="45">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Saint-Joseph" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Joseph</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="5" lem="Pierrevert" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Pierrevert</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="46">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Reims" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Reims</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="47">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Bazée</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="48">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Mars" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Mars</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="6" lem="porter" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="dep_coord">porte</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="mod">de</word>
-          <word id="8" lem="Mars" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Mars</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="49">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="50">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Strasbourg.Lesquelles</word>
-        </sentence>
-        <sentence id="51">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Horloge</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="5" lem="Vire" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Vire</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Belgique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Sainte</word>
-          <word id="4" lem="Croix" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Croix</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Kruispoort</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Néerlandais</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="11" lem="Bruges" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Bruges</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Hal" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Hal</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Bruxelles" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Bruxelles</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Allemagne</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Brandebourg" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Brandebourg</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="6" lem="Berlin" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Berlin</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="9" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Allemagne</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Holstentor</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Lübeck</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="7" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Allemagne</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="Porta" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Porta</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Nigra</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Trèves</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="8" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Allemagne</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Arroux</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Autun" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Autun</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="Portes" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Besançon</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Noire</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Taillée</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Rivotte</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Strasbourg" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Strasbourg</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Bitche" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Bitche</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Cambrai" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Cambrai</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Notre-Dame" postag="NPP" morpho="g=f|n=s" head="2" dep="mod">Notre-Dame</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Tour</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Arquets</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="gallo-romain" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">gallo-romaine</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="5" lem="Langres" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Langres</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Beucheresse</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="5" lem="Laval" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Laval</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Bordeaux" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Bordeaux</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Dijeaux</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="Aquitaine" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Aquitaine</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Cailhau" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Cailhau</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Saint-Eloi" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Eloi</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="dire" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">dite</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="de_obj">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Grosse</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Cloche</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="Monnaie" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Monnaie</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Bourgogne" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Bourgogne</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Lille" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Lille</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Gand</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Roubaix" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Roubaix</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Manosque" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Manosque</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="3" dep="prep">Saunerie</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Soubeyran</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Guillempierre</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Aubette</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="Aix" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Aix</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Marseille" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Marseille</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="5" lem="gros" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">grosse</word>
-          <word id="6" lem="horloge" postag="NC" morpho="g=f|n=s" head="3" dep="prep">horloge</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">La</word>
-          <word id="9" lem="Rochelle" postag="NPP" morpho="g=f|n=s" head="8" dep="mod">Rochelle</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Allemands</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Metz" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Metz</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Nancy" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Nancy</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Citadelle</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Craffe</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Désilles</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Saint-Georges" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Georges</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Saint-Nicolas" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Nicolas</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Sainte-Catherine" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Sainte-Catherine</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Stanislas" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Stanislas</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="13">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="Auguste" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Auguste</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="7" lem="Nîmes" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Nîmes</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="14">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Saint-Denis" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Denis</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Saint-Martin" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Martin</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="15">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Saint-Joseph" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Joseph</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="5" lem="Pierrevert" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Pierrevert</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="16">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Reims" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Reims</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Bazée</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Mars" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Mars</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="6" lem="porter" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="dep_coord">porte</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="mod">de</word>
-          <word id="8" lem="Mars" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Mars</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="17">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Strasbourg.Lesquelles</word>
-        </sentence>
-      </item>
-      <item id="18">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Horloge</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="5" lem="Vire" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Vire</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
+      <item id="13" />
+      <item id="14" />
+      <item id="15" />
+      <item id="16" />
+      <item id="17" />
+      <item id="18" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="Portes" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Portes</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Besançon</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Noire</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Taillée</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Rivotte</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="Cambrai" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Cambrai</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Notre-Dame" postag="NPP" morpho="g=f|n=s" head="2" dep="mod">Notre-Dame</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Tour</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Arquets</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="Bordeaux" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Bordeaux</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="5" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Bordeaux" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Bordeaux</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Dijeaux</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="Aquitaine" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Aquitaine</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Cailhau" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Cailhau</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Saint-Eloi" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Eloi</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="dire" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">dite</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="de_obj">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Grosse</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Cloche</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="Monnaie" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Monnaie</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Bourgogne" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Bourgogne</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="Lille" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Lille</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="6" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Gand</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Roubaix" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Roubaix</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="7">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="Manosque" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Manosque</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="7" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="7">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="3" dep="prep">Saunerie</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Soubeyran</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Guillempierre</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Aubette</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="8">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="Nancy" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Nancy</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="8" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="8">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Citadelle</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Craffe</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Désilles</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Saint-Georges" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Georges</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="Saint-Nicolas" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Nicolas</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Sainte-Catherine" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Sainte-Catherine</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Stanislas" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Stanislas</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="9">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="9" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="9">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Saint-Denis" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Denis</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Saint-Martin" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Martin</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="10">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="porte" postag="NC" morpho="g=f|n=p" head="0" dep="_">portes</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="Reims" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Reims</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="10" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="10">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Bazée</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="Mars" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Mars</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="6" lem="porter" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="dep_coord">porte</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="mod">de</word>
-          <word id="8" lem="Mars" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Mars</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Paris</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="11">
-      <sentence id="1">
-        <word id="1" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Belgique</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="11" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="11">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Sainte</word>
-          <word id="4" lem="Croix" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Croix</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Kruispoort</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Néerlandais</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="11" lem="Bruges" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Bruges</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Sainte</word>
-          <word id="4" lem="Croix" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Croix</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Kruispoort</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Néerlandais</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="11" lem="Bruges" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Bruges</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Hal" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Hal</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="Bruxelles" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Bruxelles</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -1829,8 +613,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -1900,8 +684,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -1912,8 +696,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -1928,8 +712,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -1940,8 +724,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -2019,8 +803,8 @@ la porte de Paris.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -2031,8 +815,8 @@ la porte de Paris.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -2047,8 +831,8 @@ la porte de Paris.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="4">
@@ -2059,8 +843,8 @@ la porte de Paris.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="4">
@@ -2075,8 +859,8 @@ la porte de Paris.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="5">
@@ -2087,8 +871,8 @@ la porte de Paris.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="5">
@@ -2110,8 +894,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="6">
@@ -2122,8 +906,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="6">
@@ -2138,8 +922,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="7">
@@ -2150,8 +934,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="7">
@@ -2168,8 +952,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="8">
@@ -2180,8 +964,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="8">
@@ -2204,8 +988,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="9">
@@ -2216,8 +1000,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="9">
@@ -2230,8 +1014,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="10">
@@ -2242,8 +1026,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="10">
@@ -2258,8 +1042,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="primer" idSE="11">
@@ -2270,8 +1054,8 @@ la Porte Dijeaux ;</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="items" idSE="11">
@@ -2285,8 +1069,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -2296,9 +1080,45 @@ La Porte de Hal à Bruxelles.</text>
   </annotation>
   <annotation type="2">
     <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Porte_de_ville.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="26" end="35" id="0" />
+      <text id="0">Allemagne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Porte_de_ville.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="164" end="170" id="0" />
+      <text id="0">France</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Porte_de_ville.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="1416" end="1424" id="0" />
+      <text id="0">Belgique</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -2309,8 +1129,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -2321,8 +1141,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -2333,8 +1153,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -2345,8 +1165,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
@@ -2357,8 +1177,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
@@ -2369,8 +1189,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
@@ -2381,8 +1201,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -2393,8 +1213,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -2405,8 +1225,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -2417,8 +1237,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="3">
@@ -2429,8 +1249,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="4">
@@ -2441,8 +1261,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="5">
@@ -2453,8 +1273,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="6">
@@ -2465,8 +1285,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="7">
@@ -2477,8 +1297,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="8">
@@ -2489,8 +1309,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="9">
@@ -2501,8 +1321,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="10">
@@ -2513,8 +1333,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="11">
@@ -2525,8 +1345,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="12">
@@ -2537,8 +1357,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="13">
@@ -2549,8 +1369,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="14">
@@ -2561,8 +1381,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="15">
@@ -2573,8 +1393,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="16">
@@ -2585,8 +1405,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="17">
@@ -2597,8 +1417,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="18">
@@ -2609,8 +1429,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
@@ -2621,8 +1441,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
@@ -2633,8 +1453,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="2">
@@ -2645,8 +1465,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="4">
@@ -2657,8 +1477,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="5">
@@ -2669,8 +1489,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="9">
@@ -2681,8 +1501,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="10">
@@ -2693,8 +1513,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="11">
@@ -2705,8 +1525,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="13">
@@ -2717,8 +1537,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="15">
@@ -2729,8 +1549,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="18">
@@ -2741,8 +1561,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
@@ -2753,8 +1573,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -2765,8 +1585,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -2777,8 +1597,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="2">
@@ -2789,8 +1609,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
@@ -2801,8 +1621,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="0">
@@ -2813,8 +1633,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="1">
@@ -2825,8 +1645,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="2">
@@ -2837,8 +1657,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
@@ -2849,8 +1669,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="0">
@@ -2861,8 +1681,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="1">
@@ -2873,8 +1693,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="2">
@@ -2885,8 +1705,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="3">
@@ -2897,8 +1717,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="4">
@@ -2909,8 +1729,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="5">
@@ -2921,8 +1741,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
@@ -2933,8 +1753,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="6" localisation="item" idItem="0">
@@ -2945,8 +1765,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="6" localisation="item" idItem="1">
@@ -2957,8 +1777,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="6" localisation="item" idItem="2">
@@ -2969,8 +1789,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="7" localisation="primer" idItem="-1">
@@ -2981,8 +1801,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="7" localisation="item" idItem="0">
@@ -2993,8 +1813,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="7" localisation="item" idItem="1">
@@ -3005,8 +1825,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="7" localisation="item" idItem="2">
@@ -3017,8 +1837,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="7" localisation="item" idItem="3">
@@ -3029,8 +1849,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="8" localisation="primer" idItem="-1">
@@ -3041,8 +1861,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="8" localisation="item" idItem="0">
@@ -3053,8 +1873,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="8" localisation="item" idItem="1">
@@ -3065,8 +1885,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="8" localisation="item" idItem="2">
@@ -3077,8 +1897,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="8" localisation="item" idItem="3">
@@ -3089,8 +1909,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="8" localisation="item" idItem="4">
@@ -3101,8 +1921,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="8" localisation="item" idItem="5">
@@ -3113,8 +1933,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="8" localisation="item" idItem="6">
@@ -3125,8 +1945,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="9" localisation="primer" idItem="-1">
@@ -3137,8 +1957,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="9" localisation="item" idItem="0">
@@ -3149,8 +1969,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="9" localisation="item" idItem="1">
@@ -3161,8 +1981,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="10" localisation="primer" idItem="-1">
@@ -3173,8 +1993,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="10" localisation="item" idItem="0">
@@ -3185,8 +2005,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="10" localisation="item" idItem="1">
@@ -3197,8 +2017,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="10" localisation="item" idItem="2">
@@ -3209,8 +2029,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="11" localisation="item" idItem="0">
@@ -3221,8 +2041,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="concept" idSE="11" localisation="item" idItem="1">
@@ -3233,8 +2053,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="11" localisation="primer" idItem="-1">
@@ -3245,8 +2065,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="11" localisation="item" idItem="0">
@@ -3257,8 +2077,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="circonstant" idSE="11" localisation="item" idItem="1">
@@ -3269,8 +2089,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -3283,8 +2103,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -3297,8 +2117,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -3314,8 +2134,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:46</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -3340,8 +2160,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -3354,8 +2174,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -3368,8 +2188,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -3385,8 +2205,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:06</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:58</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -3411,8 +2231,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -3425,8 +2245,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -3439,8 +2259,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -3456,8 +2276,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:25</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -3482,8 +2302,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -3496,8 +2316,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -3510,8 +2330,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -3527,8 +2347,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -3553,8 +2373,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -3567,8 +2387,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -3581,8 +2401,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -3598,8 +2418,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
@@ -3624,8 +2444,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="5">
@@ -3638,8 +2458,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="5">
@@ -3652,8 +2472,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="5">
@@ -3669,8 +2489,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="5">
@@ -3695,8 +2515,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="6">
@@ -3709,8 +2529,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="6">
@@ -3723,8 +2543,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="6">
@@ -3740,8 +2560,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="6">
@@ -3766,8 +2586,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="7">
@@ -3780,8 +2600,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="7">
@@ -3794,8 +2614,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="7">
@@ -3811,8 +2631,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="7">
@@ -3837,8 +2657,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="8">
@@ -3851,8 +2671,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="8">
@@ -3865,8 +2685,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="8">
@@ -3882,8 +2702,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>8</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="8">
@@ -3908,8 +2728,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="9">
@@ -3922,8 +2742,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="9">
@@ -3936,8 +2756,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="9">
@@ -3953,8 +2773,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="9">
@@ -3979,8 +2799,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="10">
@@ -3993,8 +2813,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="10">
@@ -4007,8 +2827,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="10">
@@ -4024,8 +2844,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:55</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="10">
@@ -4050,8 +2870,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="11">
@@ -4064,8 +2884,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="11">
@@ -4078,8 +2898,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="11">
@@ -4095,8 +2915,8 @@ La Porte de Hal à Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>11</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:07</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:56</date>
       <document>Porte_de_ville.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="11">

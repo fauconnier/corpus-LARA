@@ -3,111 +3,12 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:22</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SE>
       <id>0</id>
-      <text>Enfin, les adernes ont deux fonctions : poursuivre l’évaporation tout en stockant l’eau nécessaire au remplissage des œillets (elles permettent de réapprovisionner, en eau fortement chargée en sel, les œillets après une journée d’évaporation).</text>
-      <span begin="1818" end="2061" />
-    </SE>
-    <comment>unknown</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SE>
-      <id>1</id>
-      <text>L'évaporation est accélérée par les facteurs suivants (par ordre d'importance) : (1) le vent, (2) une épaisseur d’eau aussi faible que possible, (3) le soleil et (4) la mise en mouvement de l'eau.</text>
-      <span begin="4514" end="4712" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:42</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
-      <text>Principales zones de marais salants
-France
-Marais salants de la côte atlantique (france)
-Ils se caractérisent par une exploitation artisanale non mécanisée avec de faibles volumes de production.
-Marais salants de la presqu'île guérandaise, constitués de deux bassins salicoles :
-Ceux de Guérande comprenant les communes de Guérande, Batz-sur-Mer, Le Croisic, La Turballe ;
-Ceux du Mès englobant les communes de Mesquer, Saint-Molf et Assérac.
-Marais breton (pays de Retz)
-Île de Noirmoutier
-Marais d'Olonne
-Île de Ré
-Île d'Oléron
-Saint-Armel (Golfe du Morbihan)
-Bassin salicole de Carnac
-À titre d'exemple, les marais salants de Guérande, en Loire-Atlantique, produisent en moyenne chaque année près de 10 000 tonnes d'un sel naturellement riche en chlorure de magnésium et oligo-éléments.
-Marais salants de la côte méditerranéenne
-Production souvent fortement mécanisée, avec des volumes très importants.La Compagnie des Salins du midi produit 4 millions de tonnes par an. Le groupe est également le seul producteur européen à mettre en œuvre les 3 technologies de production (solaire, thermique et minière).
-Salin-de-Giraud (en bordure de la Camargue)
-Les Salins-d'Hyères (Hyères)
-Salins d'Aigues-Mortes
-Les Salins de l'Île Saint Martin dans l'Étang de Bages-Sigean
-Marais salants de Porto-Vecchio
-Maroc
-Marais salants d'Oualidia</text>
-      <span begin="5236" end="6567" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 18:35</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SE>
-      <id>3</id>
-      <text>France
-Marais salants de la côte atlantique (france)
-Ils se caractérisent par une exploitation artisanale non mécanisée avec de faibles volumes de production.
-Marais salants de la presqu'île guérandaise, constitués de deux bassins salicoles :
-Ceux de Guérande comprenant les communes de Guérande, Batz-sur-Mer, Le Croisic, La Turballe ;
-Ceux du Mès englobant les communes de Mesquer, Saint-Molf et Assérac.
-Marais breton (pays de Retz)
-Île de Noirmoutier
-Marais d'Olonne
-Île de Ré
-Île d'Oléron
-Saint-Armel (Golfe du Morbihan)
-Bassin salicole de Carnac
-À titre d'exemple, les marais salants de Guérande, en Loire-Atlantique, produisent en moyenne chaque année près de 10 000 tonnes d'un sel naturellement riche en chlorure de magnésium et oligo-éléments.
-Marais salants de la côte méditerranéenne
-Production souvent fortement mécanisée, avec des volumes très importants.La Compagnie des Salins du midi produit 4 millions de tonnes par an. Le groupe est également le seul producteur européen à mettre en œuvre les 3 technologies de production (solaire, thermique et minière).
-Salin-de-Giraud (en bordure de la Camargue)
-Les Salins-d'Hyères (Hyères)
-Salins d'Aigues-Mortes
-Les Salins de l'Île Saint Martin dans l'Étang de Bages-Sigean
-Marais salants de Porto-Vecchio</text>
-      <span begin="5272" end="6536" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SE>
-      <id>4</id>
       <text>Marais salants de la côte atlantique (france)
 Ils se caractérisent par une exploitation artisanale non mécanisée avec de faibles volumes de production.
 Marais salants de la presqu'île guérandaise, constitués de deux bassins salicoles :
@@ -122,17 +23,17 @@ Saint-Armel (Golfe du Morbihan)
 Bassin salicole de Carnac</text>
       <span begin="5279" end="5823" />
     </SE>
-    <comment />
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>5</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SE>
-      <id>5</id>
+      <id>1</id>
       <text>Marais salants de la côte méditerranéenne
 Production souvent fortement mécanisée, avec des volumes très importants.La Compagnie des Salins du midi produit 4 millions de tonnes par an. Le groupe est également le seul producteur européen à mettre en œuvre les 3 technologies de production (solaire, thermique et minière).
 Salin-de-Giraud (en bordure de la Camargue)
@@ -144,1294 +45,66 @@ Marais salants de Porto-Vecchio</text>
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SE>
-      <id>6</id>
-      <text>Le groupe est également le seul producteur européen à mettre en œuvre les 3 technologies de production (solaire, thermique et minière).</text>
-      <span begin="6210" end="6346" />
-    </SE>
-    <comment />
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:22</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="enfin" postag="ADV" morpho="_" head="5" dep="mod">Enfin</word>
-        <word id="2" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-        <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-        <word id="4" lem="_" postag="NC" morpho="_" head="5" dep="suj">adernes</word>
-        <word id="5" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">ont</word>
-        <word id="6" lem="deux" postag="ADJ" morpho="n=p" head="7" dep="mod">deux</word>
-        <word id="7" lem="fonction" postag="NC" morpho="g=f|n=p" head="5" dep="obj">fonctions</word>
-        <word id="8" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 3:22</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="poursuivre" postag="VINF" morpho="_" head="0" dep="_">poursuivre</word>
-          <word id="2" lem="l'" postag="DET" morpho="n=s" head="3" dep="det">l'</word>
-          <word id="3" lem="évaporation" postag="NC" morpho="g=f|n=s" head="1" dep="obj">évaporation</word>
-          <word id="4" lem="tout" postag="ADV" morpho="_" head="0" dep="_">tout</word>
-          <word id="5" lem="en" postag="CLO" morpho="_" head="0" dep="_">en</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="stocker" postag="VPR" morpho="t=pst" head="11" dep="mod">stockant</word>
-          <word id="2" lem="l'" postag="DET" morpho="n=s" head="3" dep="det">l'</word>
-          <word id="3" lem="eau" postag="NC" morpho="g=f|n=s" head="1" dep="obj">eau</word>
-          <word id="4" lem="nécessaire" postag="ADJ" morpho="n=s" head="3" dep="mod">nécessaire</word>
-          <word id="5" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="mod">au</word>
-          <word id="6" lem="remplissage" postag="NC" morpho="g=m|n=s" head="5" dep="prep">remplissage</word>
-          <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="7" dep="prep">œillets</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="10" lem="elles" postag="CLS" morpho="g=f|n=p|p=3" head="11" dep="suj">elles</word>
-          <word id="11" lem="permettre" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">permettent</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="obj">de</word>
-          <word id="13" lem="réapprovisionner" postag="VINF" morpho="_" head="12" dep="prep">réapprovisionner</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="15" lem="en" postag="P" morpho="_" head="13" dep="mod">en</word>
-          <word id="16" lem="eau" postag="NC" morpho="g=f|n=s" head="15" dep="prep">eau</word>
-          <word id="17" lem="fortement" postag="ADV" morpho="_" head="18" dep="mod">fortement</word>
-          <word id="18" lem="charger" postag="VPP" morpho="g=f|n=s|t=past" head="16" dep="mod">chargée</word>
-          <word id="19" lem="en" postag="P" morpho="_" head="18" dep="mod">en</word>
-          <word id="20" lem="sel" postag="NC" morpho="g=m|n=s" head="19" dep="prep">sel</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="22" lem="les" postag="DET" morpho="n=p" head="23" dep="det">les</word>
-          <word id="23" lem="_" postag="NC" morpho="_" head="13" dep="obj">œillets</word>
-          <word id="24" lem="après" postag="P" morpho="_" head="13" dep="mod">après</word>
-          <word id="25" lem="une" postag="DET" morpho="g=f|n=s" head="26" dep="det">une</word>
-          <word id="26" lem="journée" postag="NC" morpho="g=f|n=s" head="24" dep="prep">journée</word>
-          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">d'</word>
-          <word id="28" lem="évaporation" postag="NC" morpho="g=f|n=s" head="27" dep="prep">évaporation</word>
-          <word id="29" lem=")" postag="PONCT" morpho="_" head="13" dep="ponct">)</word>
-          <word id="30" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-        <word id="2" lem="évaporation" postag="NC" morpho="g=f|n=s" head="4" dep="suj">évaporation</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
-        <word id="4" lem="accélérer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">accélérée</word>
-        <word id="5" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
-        <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
-        <word id="7" lem="facteur" postag="NC" morpho="g=m|n=p" head="5" dep="prep">facteurs</word>
-        <word id="8" lem="suivant" postag="ADJ" morpho="g=m|n=p" head="7" dep="mod">suivants</word>
-        <word id="9" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-        <word id="10" lem="par" postag="P" morpho="_" head="4" dep="mod">par</word>
-        <word id="11" lem="ordre" postag="NC" morpho="g=m|n=s" head="10" dep="prep">ordre</word>
-        <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
-        <word id="13" lem="importance" postag="NC" morpho="g=f|n=s" head="12" dep="prep">importance</word>
-        <word id="14" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        <word id="15" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="0" dep="_">1</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
-          <word id="6" lem="vent" postag="NC" morpho="g=m|n=s" head="0" dep="_">vent</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
-          <word id="2" lem="épaisseur" postag="NC" morpho="g=f|n=s" head="0" dep="_">épaisseur</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="eau" postag="NC" morpho="g=f|n=s" head="3" dep="prep">eau</word>
-          <word id="5" lem="aussi" postag="ADV" morpho="_" head="6" dep="mod">aussi</word>
-          <word id="6" lem="faible" postag="ADJ" morpho="n=s" head="2" dep="mod">faible</word>
-          <word id="7" lem="que" postag="CS" morpho="_" head="6" dep="dep">que</word>
-          <word id="8" lem="possible" postag="ADJ" morpho="n=s" head="7" dep="sub">possible</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="soleil" postag="NC" morpho="g=m|n=s" head="0" dep="_">soleil</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="mise" postag="NC" morpho="g=f|n=s" head="0" dep="_">mise</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="4" lem="mouvement" postag="NC" morpho="g=m|n=s" head="3" dep="prep">mouvement</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="eau" postag="NC" morpho="g=f|n=s" head="5" dep="prep">eau</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:42</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="principal" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">Principales</word>
-        <word id="2" lem="zone" postag="NC" morpho="g=f|n=p" head="0" dep="_">zones</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="marais" postag="NC" morpho="g=m" head="3" dep="prep">marais</word>
-        <word id="5" lem="salant" postag="NC" morpho="g=m|n=p" head="4" dep="mod">salants</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:42</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="côte" postag="NC" morpho="g=f|n=s" head="3" dep="prep">côte</word>
-          <word id="6" lem="atlantique" postag="ADJ" morpho="n=s" head="5" dep="mod">atlantique</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="5" dep="mod">france</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="3" dep="suj">Ils</word>
-          <word id="2" lem="se" postag="CLR" morpho="n=p|p=3" head="3" dep="aff">se</word>
-          <word id="3" lem="caractériser" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">caractérisent</word>
-          <word id="4" lem="par" postag="P" morpho="_" head="3" dep="p_obj">par</word>
-          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-          <word id="6" lem="exploitation" postag="NC" morpho="g=f|n=s" head="4" dep="prep">exploitation</word>
-          <word id="7" lem="artisanal" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">artisanale</word>
-          <word id="8" lem="non" postag="ADV" morpho="_" head="9" dep="mod">non</word>
-          <word id="9" lem="mécaniser" postag="VPP" morpho="g=f|n=s|t=past" head="6" dep="mod">mécanisée</word>
-          <word id="10" lem="avec" postag="P" morpho="_" head="9" dep="mod">avec</word>
-          <word id="11" lem="de" postag="DET" morpho="n=p" head="13" dep="det">de</word>
-          <word id="12" lem="faible" postag="ADJ" morpho="n=p" head="13" dep="mod">faibles</word>
-          <word id="13" lem="volume" postag="NC" morpho="g=m|n=p" head="10" dep="prep">volumes</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="production" postag="NC" morpho="g=f|n=s" head="14" dep="prep">production</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="5" lem="_" postag="ADJ" morpho="_" head="6" dep="mod">presqu'</word>
-          <word id="6" lem="île" postag="NC" morpho="g=f|n=s" head="3" dep="prep">île</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">guérandaise</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="9" lem="constituer" postag="VPP" morpho="g=m|n=p|t=past" head="6" dep="mod">constitués</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="de_obj">de</word>
-          <word id="11" lem="deux" postag="NC" morpho="g=m" head="10" dep="prep">deux</word>
-          <word id="12" lem="bassin" postag="NC" morpho="g=m|n=p" head="11" dep="mod">bassins</word>
-          <word id="13" lem="_" postag="ADJ" morpho="_" head="12" dep="mod">salicoles</word>
-          <word id="14" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="ceux" postag="PRO" morpho="g=m|n=p" head="4" dep="suj">Ceux</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Guérande</word>
-          <word id="4" lem="comprendre" postag="VPR" morpho="t=pst" head="0" dep="_">comprenant</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=p" head="4" dep="obj">communes</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Guérande</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="10" lem="Batz-sur-Mer" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Batz-sur-Mer</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="0" dep="_">Le</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Croisic</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="0" dep="_">La</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="mod">Turballe</word>
-          <word id="17" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="ceux" postag="PRO" morpho="g=m|n=p" head="0" dep="_">Ceux</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Mès</word>
-          <word id="4" lem="englober" postag="VPR" morpho="t=pst" head="3" dep="mod">englobant</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=p" head="4" dep="obj">communes</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="Mesquer" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Mesquer</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="10" lem="Saint-Molf" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Molf</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="dep_coord">Assérac</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="breton" postag="NC" morpho="g=f|n=s" head="1" dep="mod">breton</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="pays" postag="NC" morpho="g=m" head="1" dep="mod">pays</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Retz</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Noirmoutier</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Olonne</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Ré</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Oléron</word>
-        </sentence>
-        <sentence id="12">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Saint-Armel</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="golfe" postag="NC" morpho="g=m|n=s" head="1" dep="mod">Golfe</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="Morbihan" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Morbihan</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="13">
-          <word id="1" lem="bassin" postag="NC" morpho="g=m|n=s" head="0" dep="_">Bassin</word>
-          <word id="2" lem="_" postag="ADJ" morpho="_" head="1" dep="mod">salicole</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Carnac" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Carnac</word>
-        </sentence>
-        <sentence id="14">
-          <word id="1" lem="à_titre_de" postag="P" morpho="_" head="13" dep="mod">À_titre_d'</word>
-          <word id="2" lem="exemple" postag="NC" morpho="g=m|n=s" head="1" dep="prep">exemple</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
-          <word id="5" lem="marais" postag="NC" morpho="g=m" head="13" dep="suj">marais</word>
-          <word id="6" lem="salant" postag="NC" morpho="g=m|n=p" head="5" dep="mod">salants</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Guérande</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="10" lem="en" postag="P" morpho="_" head="13" dep="mod">en</word>
-          <word id="11" lem="Loire-Atlantique" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Loire-Atlantique</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="13" lem="produire" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">produisent</word>
-          <word id="14" lem="en_moyenne" postag="ADV" morpho="_" head="13" dep="mod">en_moyenne</word>
-          <word id="15" lem="chaque" postag="DET" morpho="n=s" head="16" dep="det">chaque</word>
-          <word id="16" lem="année" postag="NC" morpho="g=f|n=s" head="0" dep="_">année</word>
-          <word id="17" lem="près_de" postag="P" morpho="_" head="0" dep="_">près_de</word>
-          <word id="18" lem="#NUM#" postag="DET" morpho="n=p" head="19" dep="det">10_000</word>
-          <word id="19" lem="tonne" postag="NC" morpho="g=f|n=p" head="17" dep="prep">tonnes</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
-          <word id="21" lem="un" postag="DET" morpho="g=m|n=s" head="22" dep="det">un</word>
-          <word id="22" lem="sel" postag="NC" morpho="g=m|n=s" head="20" dep="prep">sel</word>
-          <word id="23" lem="naturellement" postag="ADV" morpho="_" head="24" dep="mod">naturellement</word>
-          <word id="24" lem="riche" postag="ADJ" morpho="n=s" head="22" dep="mod">riche</word>
-          <word id="25" lem="en" postag="P" morpho="_" head="24" dep="p_obj">en</word>
-          <word id="26" lem="chlorure" postag="NC" morpho="g=m|n=s" head="25" dep="prep">chlorure</word>
-          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">de</word>
-          <word id="28" lem="magnésium" postag="NC" morpho="g=m|n=s" head="27" dep="prep">magnésium</word>
-          <word id="29" lem="et" postag="CC" morpho="_" head="26" dep="coord">et</word>
-          <word id="30" lem="oligo-élément" postag="NC" morpho="g=m|n=p" head="29" dep="dep_coord">oligo-éléments</word>
-          <word id="31" lem="." postag="PONCT" morpho="_" head="17" dep="ponct">.</word>
-        </sentence>
-        <sentence id="15">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="côte" postag="NC" morpho="g=f|n=s" head="3" dep="prep">côte</word>
-          <word id="6" lem="méditerranéen" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">méditerranéenne</word>
-        </sentence>
-        <sentence id="16">
-          <word id="1" lem="production" postag="NC" morpho="g=f|n=s" head="16" dep="suj">Production</word>
-          <word id="2" lem="souvent" postag="ADV" morpho="_" head="4" dep="mod">souvent</word>
-          <word id="3" lem="fortement" postag="ADV" morpho="_" head="4" dep="mod">fortement</word>
-          <word id="4" lem="mécaniser" postag="VPP" morpho="g=f|n=s|t=past" head="1" dep="mod">mécanisée</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="6" lem="avec" postag="P" morpho="_" head="16" dep="mod">avec</word>
-          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
-          <word id="8" lem="volume" postag="NC" morpho="g=m|n=p" head="6" dep="prep">volumes</word>
-          <word id="9" lem="très" postag="ADV" morpho="_" head="10" dep="mod">très</word>
-          <word id="10" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">importants.La</word>
-          <word id="11" lem="_" postag="NC" morpho="_" head="8" dep="mod">Compagnie</word>
-          <word id="12" lem="de" postag="P+D" morpho="n=p" head="11" dep="dep">des</word>
-          <word id="13" lem="Salins" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Salins</word>
-          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
-          <word id="15" lem="midi" postag="NC" morpho="g=m|n=s" head="14" dep="prep">midi</word>
-          <word id="16" lem="produire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">produit</word>
-          <word id="17" lem="#NUM#" postag="DET" morpho="n=p" head="18" dep="det">4</word>
-          <word id="18" lem="million" postag="NC" morpho="n=p" head="16" dep="obj">millions</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
-          <word id="20" lem="tonne" postag="NC" morpho="g=f|n=p" head="19" dep="prep">tonnes</word>
-          <word id="21" lem="par" postag="P" morpho="_" head="16" dep="mod">par</word>
-          <word id="22" lem="an" postag="NC" morpho="g=m|n=s" head="21" dep="prep">an</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
-        </sentence>
-        <sentence id="17">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="groupe" postag="NC" morpho="g=m|n=s" head="3" dep="suj">groupe</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="également" postag="ADV" morpho="_" head="3" dep="mod">également</word>
-          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="6" lem="seul" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">seul</word>
-          <word id="7" lem="producteur" postag="NC" morpho="g=m|n=s" head="3" dep="ats">producteur</word>
-          <word id="8" lem="européen" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">européen</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
-          <word id="10" lem="mettre" postag="VINF" morpho="_" head="9" dep="prep">mettre</word>
-          <word id="11" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-          <word id="12" lem="_" postag="VINF" morpho="_" head="11" dep="prep">œuvre</word>
-          <word id="13" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-          <word id="14" lem="#NUM#" postag="ADJ" morpho="n=p" head="15" dep="mod">3</word>
-          <word id="15" lem="technologie" postag="NC" morpho="g=f|n=p" head="12" dep="obj">technologies</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="production" postag="NC" morpho="g=f|n=s" head="16" dep="prep">production</word>
-          <word id="18" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-          <word id="19" lem="solaire" postag="NC" morpho="g=m|n=s" head="15" dep="mod">solaire</word>
-          <word id="20" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="21" lem="thermique" postag="ADJ" morpho="n=s" head="15" dep="mod">thermique</word>
-          <word id="22" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
-          <word id="23" lem="minier" postag="ADJ" morpho="g=f|n=s" head="22" dep="dep_coord">minière</word>
-          <word id="24" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
-          <word id="25" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="18">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Salin-de-Giraud</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="4" lem="bordure" postag="NC" morpho="g=f|n=s" head="3" dep="prep">bordure</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Camargue</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="19">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Salins-d'Hyères</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Hyères</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-        <sentence id="20">
-          <word id="1" lem="salin" postag="NC" morpho="g=m|n=p" head="0" dep="_">Salins</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Aigues-Mortes" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Aigues-Mortes</word>
-        </sentence>
-        <sentence id="21">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="Salins" postag="NPP" morpho="g=m|n=s" head="0" dep="root">Salins</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Île</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Saint</word>
-          <word id="7" lem="Martin" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">Martin</word>
-          <word id="8" lem="dans" postag="P" morpho="_" head="2" dep="dep">dans</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="8" dep="prep">Étang</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Bages-Sigean</word>
-        </sentence>
-        <sentence id="22">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Porto-Vecchio" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Porto-Vecchio</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Maroc" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Maroc</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Oualidia</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 18:35</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 18:35</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="côte" postag="NC" morpho="g=f|n=s" head="3" dep="prep">côte</word>
-          <word id="6" lem="atlantique" postag="ADJ" morpho="n=s" head="5" dep="mod">atlantique</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="5" dep="mod">france</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="3" dep="suj">Ils</word>
-          <word id="2" lem="se" postag="CLR" morpho="n=p|p=3" head="3" dep="aff">se</word>
-          <word id="3" lem="caractériser" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">caractérisent</word>
-          <word id="4" lem="par" postag="P" morpho="_" head="3" dep="p_obj">par</word>
-          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-          <word id="6" lem="exploitation" postag="NC" morpho="g=f|n=s" head="4" dep="prep">exploitation</word>
-          <word id="7" lem="artisanal" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">artisanale</word>
-          <word id="8" lem="non" postag="ADV" morpho="_" head="9" dep="mod">non</word>
-          <word id="9" lem="mécaniser" postag="VPP" morpho="g=f|n=s|t=past" head="6" dep="mod">mécanisée</word>
-          <word id="10" lem="avec" postag="P" morpho="_" head="9" dep="mod">avec</word>
-          <word id="11" lem="de" postag="DET" morpho="n=p" head="13" dep="det">de</word>
-          <word id="12" lem="faible" postag="ADJ" morpho="n=p" head="13" dep="mod">faibles</word>
-          <word id="13" lem="volume" postag="NC" morpho="g=m|n=p" head="10" dep="prep">volumes</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="production" postag="NC" morpho="g=f|n=s" head="14" dep="prep">production</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="5" lem="_" postag="ADJ" morpho="_" head="6" dep="mod">presqu'</word>
-          <word id="6" lem="île" postag="NC" morpho="g=f|n=s" head="3" dep="prep">île</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">guérandaise</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="9" lem="constituer" postag="VPP" morpho="g=m|n=p|t=past" head="6" dep="mod">constitués</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="de_obj">de</word>
-          <word id="11" lem="deux" postag="NC" morpho="g=m" head="10" dep="prep">deux</word>
-          <word id="12" lem="bassin" postag="NC" morpho="g=m|n=p" head="11" dep="mod">bassins</word>
-          <word id="13" lem="_" postag="ADJ" morpho="_" head="12" dep="mod">salicoles</word>
-          <word id="14" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="ceux" postag="PRO" morpho="g=m|n=p" head="4" dep="suj">Ceux</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Guérande</word>
-          <word id="4" lem="comprendre" postag="VPR" morpho="t=pst" head="0" dep="_">comprenant</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=p" head="4" dep="obj">communes</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Guérande</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="10" lem="Batz-sur-Mer" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Batz-sur-Mer</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="0" dep="_">Le</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Croisic</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="0" dep="_">La</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="mod">Turballe</word>
-          <word id="17" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="ceux" postag="PRO" morpho="g=m|n=p" head="0" dep="_">Ceux</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Mès</word>
-          <word id="4" lem="englober" postag="VPR" morpho="t=pst" head="3" dep="mod">englobant</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=p" head="4" dep="obj">communes</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="Mesquer" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Mesquer</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="10" lem="Saint-Molf" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Molf</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="dep_coord">Assérac</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="breton" postag="NC" morpho="g=f|n=s" head="1" dep="mod">breton</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="pays" postag="NC" morpho="g=m" head="1" dep="mod">pays</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Retz</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Noirmoutier</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Olonne</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Ré</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Oléron</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Saint-Armel</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="golfe" postag="NC" morpho="g=m|n=s" head="1" dep="mod">Golfe</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="Morbihan" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Morbihan</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="12">
-          <word id="1" lem="bassin" postag="NC" morpho="g=m|n=s" head="0" dep="_">Bassin</word>
-          <word id="2" lem="_" postag="ADJ" morpho="_" head="1" dep="mod">salicole</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Carnac" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Carnac</word>
-        </sentence>
-        <sentence id="13">
-          <word id="1" lem="à_titre_de" postag="P" morpho="_" head="13" dep="mod">À_titre_d'</word>
-          <word id="2" lem="exemple" postag="NC" morpho="g=m|n=s" head="1" dep="prep">exemple</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
-          <word id="5" lem="marais" postag="NC" morpho="g=m" head="13" dep="suj">marais</word>
-          <word id="6" lem="salant" postag="NC" morpho="g=m|n=p" head="5" dep="mod">salants</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Guérande</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="10" lem="en" postag="P" morpho="_" head="13" dep="mod">en</word>
-          <word id="11" lem="Loire-Atlantique" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Loire-Atlantique</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="13" lem="produire" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">produisent</word>
-          <word id="14" lem="en_moyenne" postag="ADV" morpho="_" head="13" dep="mod">en_moyenne</word>
-          <word id="15" lem="chaque" postag="DET" morpho="n=s" head="16" dep="det">chaque</word>
-          <word id="16" lem="année" postag="NC" morpho="g=f|n=s" head="0" dep="_">année</word>
-          <word id="17" lem="près_de" postag="P" morpho="_" head="0" dep="_">près_de</word>
-          <word id="18" lem="#NUM#" postag="DET" morpho="n=p" head="19" dep="det">10_000</word>
-          <word id="19" lem="tonne" postag="NC" morpho="g=f|n=p" head="17" dep="prep">tonnes</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
-          <word id="21" lem="un" postag="DET" morpho="g=m|n=s" head="22" dep="det">un</word>
-          <word id="22" lem="sel" postag="NC" morpho="g=m|n=s" head="20" dep="prep">sel</word>
-          <word id="23" lem="naturellement" postag="ADV" morpho="_" head="24" dep="mod">naturellement</word>
-          <word id="24" lem="riche" postag="ADJ" morpho="n=s" head="22" dep="mod">riche</word>
-          <word id="25" lem="en" postag="P" morpho="_" head="24" dep="p_obj">en</word>
-          <word id="26" lem="chlorure" postag="NC" morpho="g=m|n=s" head="25" dep="prep">chlorure</word>
-          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">de</word>
-          <word id="28" lem="magnésium" postag="NC" morpho="g=m|n=s" head="27" dep="prep">magnésium</word>
-          <word id="29" lem="et" postag="CC" morpho="_" head="26" dep="coord">et</word>
-          <word id="30" lem="oligo-élément" postag="NC" morpho="g=m|n=p" head="29" dep="dep_coord">oligo-éléments</word>
-          <word id="31" lem="." postag="PONCT" morpho="_" head="17" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="côte" postag="NC" morpho="g=f|n=s" head="3" dep="prep">côte</word>
-          <word id="6" lem="méditerranéen" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">méditerranéenne</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="production" postag="NC" morpho="g=f|n=s" head="16" dep="suj">Production</word>
-          <word id="2" lem="souvent" postag="ADV" morpho="_" head="4" dep="mod">souvent</word>
-          <word id="3" lem="fortement" postag="ADV" morpho="_" head="4" dep="mod">fortement</word>
-          <word id="4" lem="mécaniser" postag="VPP" morpho="g=f|n=s|t=past" head="1" dep="mod">mécanisée</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="6" lem="avec" postag="P" morpho="_" head="16" dep="mod">avec</word>
-          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
-          <word id="8" lem="volume" postag="NC" morpho="g=m|n=p" head="6" dep="prep">volumes</word>
-          <word id="9" lem="très" postag="ADV" morpho="_" head="10" dep="mod">très</word>
-          <word id="10" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">importants.La</word>
-          <word id="11" lem="_" postag="NC" morpho="_" head="8" dep="mod">Compagnie</word>
-          <word id="12" lem="de" postag="P+D" morpho="n=p" head="11" dep="dep">des</word>
-          <word id="13" lem="Salins" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Salins</word>
-          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
-          <word id="15" lem="midi" postag="NC" morpho="g=m|n=s" head="14" dep="prep">midi</word>
-          <word id="16" lem="produire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">produit</word>
-          <word id="17" lem="#NUM#" postag="DET" morpho="n=p" head="18" dep="det">4</word>
-          <word id="18" lem="million" postag="NC" morpho="n=p" head="16" dep="obj">millions</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
-          <word id="20" lem="tonne" postag="NC" morpho="g=f|n=p" head="19" dep="prep">tonnes</word>
-          <word id="21" lem="par" postag="P" morpho="_" head="16" dep="mod">par</word>
-          <word id="22" lem="an" postag="NC" morpho="g=m|n=s" head="21" dep="prep">an</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="groupe" postag="NC" morpho="g=m|n=s" head="3" dep="suj">groupe</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="également" postag="ADV" morpho="_" head="3" dep="mod">également</word>
-          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="6" lem="seul" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">seul</word>
-          <word id="7" lem="producteur" postag="NC" morpho="g=m|n=s" head="3" dep="ats">producteur</word>
-          <word id="8" lem="européen" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">européen</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
-          <word id="10" lem="mettre" postag="VINF" morpho="_" head="9" dep="prep">mettre</word>
-          <word id="11" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-          <word id="12" lem="_" postag="VINF" morpho="_" head="11" dep="prep">œuvre</word>
-          <word id="13" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-          <word id="14" lem="#NUM#" postag="ADJ" morpho="n=p" head="15" dep="mod">3</word>
-          <word id="15" lem="technologie" postag="NC" morpho="g=f|n=p" head="12" dep="obj">technologies</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="production" postag="NC" morpho="g=f|n=s" head="16" dep="prep">production</word>
-          <word id="18" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-          <word id="19" lem="solaire" postag="NC" morpho="g=m|n=s" head="15" dep="mod">solaire</word>
-          <word id="20" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="21" lem="thermique" postag="ADJ" morpho="n=s" head="15" dep="mod">thermique</word>
-          <word id="22" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
-          <word id="23" lem="minier" postag="ADJ" morpho="g=f|n=s" head="22" dep="dep_coord">minière</word>
-          <word id="24" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
-          <word id="25" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Salin-de-Giraud</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="4" lem="bordure" postag="NC" morpho="g=f|n=s" head="3" dep="prep">bordure</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Camargue</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Salins-d'Hyères</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Hyères</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="salin" postag="NC" morpho="g=m|n=p" head="0" dep="_">Salins</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Aigues-Mortes" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Aigues-Mortes</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="Salins" postag="NPP" morpho="g=m|n=s" head="0" dep="root">Salins</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Île</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Saint</word>
-          <word id="7" lem="Martin" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">Martin</word>
-          <word id="8" lem="dans" postag="P" morpho="_" head="2" dep="dep">dans</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="8" dep="prep">Étang</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Bages-Sigean</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Porto-Vecchio" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Porto-Vecchio</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-        <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-        <word id="5" lem="côte" postag="NC" morpho="g=f|n=s" head="3" dep="prep">côte</word>
-        <word id="6" lem="atlantique" postag="ADJ" morpho="n=s" head="5" dep="mod">atlantique</word>
-        <word id="7" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-        <word id="8" lem="_" postag="NC" morpho="_" head="5" dep="mod">france</word>
-        <word id="9" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="3" dep="suj">Ils</word>
-        <word id="2" lem="se" postag="CLR" morpho="n=p|p=3" head="3" dep="aff">se</word>
-        <word id="3" lem="caractériser" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">caractérisent</word>
-        <word id="4" lem="par" postag="P" morpho="_" head="3" dep="p_obj">par</word>
-        <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-        <word id="6" lem="exploitation" postag="NC" morpho="g=f|n=s" head="4" dep="prep">exploitation</word>
-        <word id="7" lem="artisanal" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">artisanale</word>
-        <word id="8" lem="non" postag="ADV" morpho="_" head="9" dep="mod">non</word>
-        <word id="9" lem="mécaniser" postag="VPP" morpho="g=f|n=s|t=past" head="6" dep="mod">mécanisée</word>
-        <word id="10" lem="avec" postag="P" morpho="_" head="9" dep="mod">avec</word>
-        <word id="11" lem="de" postag="DET" morpho="n=p" head="13" dep="det">de</word>
-        <word id="12" lem="faible" postag="ADJ" morpho="n=p" head="13" dep="mod">faibles</word>
-        <word id="13" lem="volume" postag="NC" morpho="g=m|n=p" head="10" dep="prep">volumes</word>
-        <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-        <word id="15" lem="production" postag="NC" morpho="g=f|n=s" head="14" dep="prep">production</word>
-        <word id="16" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-      </sentence>
-      <sentence id="3">
-        <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-        <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-        <word id="5" lem="_" postag="ADJ" morpho="_" head="6" dep="mod">presqu'</word>
-        <word id="6" lem="île" postag="NC" morpho="g=f|n=s" head="3" dep="prep">île</word>
-        <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">guérandaise</word>
-        <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-        <word id="9" lem="constituer" postag="VPP" morpho="g=m|n=p|t=past" head="6" dep="mod">constitués</word>
-        <word id="10" lem="de" postag="P" morpho="_" head="9" dep="de_obj">de</word>
-        <word id="11" lem="deux" postag="NC" morpho="g=m" head="10" dep="prep">deux</word>
-        <word id="12" lem="bassin" postag="NC" morpho="g=m|n=p" head="11" dep="mod">bassins</word>
-        <word id="13" lem="_" postag="ADJ" morpho="_" head="12" dep="mod">salicoles</word>
-        <word id="14" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="ceux" postag="PRO" morpho="g=m|n=p" head="4" dep="suj">Ceux</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Guérande</word>
-          <word id="4" lem="comprendre" postag="VPR" morpho="t=pst" head="0" dep="_">comprenant</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=p" head="4" dep="obj">communes</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Guérande</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="10" lem="Batz-sur-Mer" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Batz-sur-Mer</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="0" dep="_">Le</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Croisic</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="0" dep="_">La</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="mod">Turballe</word>
-          <word id="17" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="ceux" postag="PRO" morpho="g=m|n=p" head="0" dep="_">Ceux</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Mès</word>
-          <word id="4" lem="englober" postag="VPR" morpho="t=pst" head="3" dep="mod">englobant</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=p" head="4" dep="obj">communes</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="Mesquer" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Mesquer</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="10" lem="Saint-Molf" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Molf</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="dep_coord">Assérac</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="breton" postag="NC" morpho="g=f|n=s" head="1" dep="mod">breton</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="pays" postag="NC" morpho="g=m" head="1" dep="mod">pays</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Retz</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Noirmoutier</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Noirmoutier</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Olonne</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Ré</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="île" postag="NC" morpho="g=f|n=s" head="0" dep="_">Île</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Oléron</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Saint-Armel</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="golfe" postag="NC" morpho="g=m|n=s" head="1" dep="mod">Golfe</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="Morbihan" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Morbihan</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="bassin" postag="NC" morpho="g=m|n=s" head="0" dep="_">Bassin</word>
-          <word id="2" lem="_" postag="ADJ" morpho="_" head="1" dep="mod">salicole</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Carnac" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Carnac</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-        <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-        <word id="5" lem="côte" postag="NC" morpho="g=f|n=s" head="3" dep="prep">côte</word>
-        <word id="6" lem="méditerranéen" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">méditerranéenne</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="production" postag="NC" morpho="g=f|n=s" head="16" dep="suj">Production</word>
-        <word id="2" lem="souvent" postag="ADV" morpho="_" head="4" dep="mod">souvent</word>
-        <word id="3" lem="fortement" postag="ADV" morpho="_" head="4" dep="mod">fortement</word>
-        <word id="4" lem="mécaniser" postag="VPP" morpho="g=f|n=s|t=past" head="1" dep="mod">mécanisée</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-        <word id="6" lem="avec" postag="P" morpho="_" head="16" dep="mod">avec</word>
-        <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
-        <word id="8" lem="volume" postag="NC" morpho="g=m|n=p" head="6" dep="prep">volumes</word>
-        <word id="9" lem="très" postag="ADV" morpho="_" head="10" dep="mod">très</word>
-        <word id="10" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">importants.La</word>
-        <word id="11" lem="_" postag="NC" morpho="_" head="8" dep="mod">Compagnie</word>
-        <word id="12" lem="de" postag="P+D" morpho="n=p" head="11" dep="dep">des</word>
-        <word id="13" lem="Salins" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Salins</word>
-        <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
-        <word id="15" lem="midi" postag="NC" morpho="g=m|n=s" head="14" dep="prep">midi</word>
-        <word id="16" lem="produire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">produit</word>
-        <word id="17" lem="#NUM#" postag="DET" morpho="n=p" head="18" dep="det">4</word>
-        <word id="18" lem="million" postag="NC" morpho="n=p" head="16" dep="obj">millions</word>
-        <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
-        <word id="20" lem="tonne" postag="NC" morpho="g=f|n=p" head="19" dep="prep">tonnes</word>
-        <word id="21" lem="par" postag="P" morpho="_" head="16" dep="mod">par</word>
-        <word id="22" lem="an" postag="NC" morpho="g=m|n=s" head="21" dep="prep">an</word>
-        <word id="23" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
-      </sentence>
-      <sentence id="3">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="groupe" postag="NC" morpho="g=m|n=s" head="3" dep="suj">groupe</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="4" lem="également" postag="ADV" morpho="_" head="3" dep="mod">également</word>
-        <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-        <word id="6" lem="seul" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">seul</word>
-        <word id="7" lem="producteur" postag="NC" morpho="g=m|n=s" head="3" dep="ats">producteur</word>
-        <word id="8" lem="européen" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">européen</word>
-        <word id="9" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
-        <word id="10" lem="mettre" postag="VINF" morpho="_" head="9" dep="prep">mettre</word>
-        <word id="11" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-        <word id="12" lem="_" postag="VINF" morpho="_" head="11" dep="prep">œuvre</word>
-        <word id="13" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-        <word id="14" lem="#NUM#" postag="ADJ" morpho="n=p" head="15" dep="mod">3</word>
-        <word id="15" lem="technologie" postag="NC" morpho="g=f|n=p" head="12" dep="obj">technologies</word>
-        <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-        <word id="17" lem="production" postag="NC" morpho="g=f|n=s" head="16" dep="prep">production</word>
-        <word id="18" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-        <word id="19" lem="solaire" postag="NC" morpho="g=m|n=s" head="15" dep="mod">solaire</word>
-        <word id="20" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-        <word id="21" lem="thermique" postag="ADJ" morpho="n=s" head="15" dep="mod">thermique</word>
-        <word id="22" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
-        <word id="23" lem="minier" postag="ADJ" morpho="g=f|n=s" head="22" dep="dep_coord">minière</word>
-        <word id="24" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
-        <word id="25" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="2" lem="également" postag="ADV" morpho="_" head="1" dep="mod">également</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="4" lem="seul" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">seul</word>
-          <word id="5" lem="producteur" postag="NC" morpho="g=m|n=s" head="1" dep="ats">producteur</word>
-          <word id="6" lem="européen" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">européen</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
-          <word id="8" lem="mettre" postag="VINF" morpho="_" head="7" dep="prep">mettre</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="8" dep="mod">en</word>
-          <word id="10" lem="_" postag="VINF" morpho="_" head="9" dep="prep">œuvre</word>
-          <word id="11" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
-          <word id="12" lem="#NUM#" postag="ADJ" morpho="n=p" head="13" dep="mod">3</word>
-          <word id="13" lem="technologie" postag="NC" morpho="g=f|n=p" head="10" dep="obj">technologies</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="production" postag="NC" morpho="g=f|n=s" head="14" dep="prep">production</word>
-          <word id="16" lem="(" postag="PONCT" morpho="_" head="13" dep="ponct">(</word>
-          <word id="17" lem="solaire" postag="NC" morpho="g=m|n=s" head="13" dep="mod">solaire</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="19" lem="thermique" postag="ADJ" morpho="n=s" head="13" dep="mod">thermique</word>
-          <word id="20" lem="et" postag="CC" morpho="_" head="19" dep="coord">et</word>
-          <word id="21" lem="minier" postag="ADJ" morpho="g=f|n=s" head="20" dep="dep_coord">minière</word>
-          <word id="22" lem=")" postag="PONCT" morpho="_" head="13" dep="ponct">)</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Salin-de-Giraud</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="4" lem="bordure" postag="NC" morpho="g=f|n=s" head="3" dep="prep">bordure</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Camargue</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Salins-d'Hyères</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Hyères</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="salin" postag="NC" morpho="g=m|n=p" head="0" dep="_">Salins</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Aigues-Mortes" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Aigues-Mortes</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="Salins" postag="NPP" morpho="g=m|n=s" head="0" dep="root">Salins</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Île</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Saint</word>
-          <word id="7" lem="Martin" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">Martin</word>
-          <word id="8" lem="dans" postag="P" morpho="_" head="2" dep="dep">dans</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="8" dep="prep">Étang</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Bages-Sigean</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="marais" postag="NC" morpho="g=m" head="0" dep="_">Marais</word>
-          <word id="2" lem="salant" postag="NC" morpho="g=m|n=p" head="1" dep="mod">salants</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Porto-Vecchio" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Porto-Vecchio</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="groupe" postag="NC" morpho="g=m|n=s" head="3" dep="suj">groupe</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="4" lem="également" postag="ADV" morpho="_" head="3" dep="mod">également</word>
-        <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-        <word id="6" lem="seul" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">seul</word>
-        <word id="7" lem="producteur" postag="NC" morpho="g=m|n=s" head="3" dep="ats">producteur</word>
-        <word id="8" lem="européen" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">européen</word>
-        <word id="9" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
-        <word id="10" lem="mettre" postag="VINF" morpho="_" head="9" dep="prep">mettre</word>
-        <word id="11" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-        <word id="12" lem="_" postag="VINF" morpho="_" head="11" dep="prep">œuvre</word>
-        <word id="13" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-        <word id="14" lem="#NUM#" postag="ADJ" morpho="n=p" head="15" dep="mod">3</word>
-        <word id="15" lem="technologie" postag="NC" morpho="g=f|n=p" head="12" dep="obj">technologies</word>
-        <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-        <word id="17" lem="production" postag="NC" morpho="g=f|n=s" head="16" dep="prep">production</word>
-        <word id="18" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="solaire" postag="ADJ" morpho="n=s" head="0" dep="_">solaire</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="2" lem="thermique" postag="ADJ" morpho="n=s" head="0" dep="_">thermique</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="minier" postag="ADJ" morpho="g=f|n=s" head="0" dep="_">minière</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:22</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
-      <span begin="1" end="41" />
-      <text>Enfin, les adernes ont deux fonctions :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 3:22</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items" idSE="0">
-      <span begin="40" end="74" id="0" />
-      <text id="0">poursuivre l’évaporation tout en</text>
-      <span begin="74" end="244" id="1" />
-      <text id="1">stockant l’eau nécessaire au remplissage des œillets (elles permettent de réapprovisionner, en eau fortement chargée en sel, les œillets après une journée d’évaporation).</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer" idSE="1">
-      <span begin="1" end="82" />
-      <text>L'évaporation est accélérée par les facteurs suivants (par ordre d'importance) :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items" idSE="1">
-      <span begin="80" end="95" id="0" />
-      <text id="0">: (1) le vent,</text>
-      <span begin="95" end="146" id="1" />
-      <text id="1">(2) une épaisseur d’eau aussi faible que possible,</text>
-      <span begin="146" end="162" id="2" />
-      <text id="2">(3) le soleil et</text>
-      <span begin="162" end="197" id="3" />
-      <text id="3">(4) la mise en mouvement de l'eau.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:42</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
-      <span begin="1" end="36" />
-      <text>Principales zones de marais salants</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:42</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="37" end="1300" id="0" />
-      <text id="0">France
-Marais salants de la côte atlantique (france)
-Ils se caractérisent par une exploitation artisanale non mécanisée avec de faibles volumes de production.
-Marais salants de la presqu'île guérandaise, constitués de deux bassins salicoles :
-Ceux de Guérande comprenant les communes de Guérande, Batz-sur-Mer, Le Croisic, La Turballe ;
-Ceux du Mès englobant les communes de Mesquer, Saint-Molf et Assérac.
-Marais breton (pays de Retz)
-Île de Noirmoutier
-Marais d'Olonne
-Île de Ré
-Île d'Oléron
-Saint-Armel (Golfe du Morbihan)
-Bassin salicole de Carnac
-À titre d'exemple, les marais salants de Guérande, en Loire-Atlantique, produisent en moyenne chaque année près de 10 000 tonnes d'un sel naturellement riche en chlorure de magnésium et oligo-éléments.
-Marais salants de la côte méditerranéenne
-Production souvent fortement mécanisée, avec des volumes très importants.La Compagnie des Salins du midi produit 4 millions de tonnes par an. Le groupe est également le seul producteur européen à mettre en œuvre les 3 technologies de production (solaire, thermique et minière).
-Salin-de-Giraud (en bordure de la Camargue)
-Les Salins-d'Hyères (Hyères)
-Salins d'Aigues-Mortes
-Les Salins de l'Île Saint Martin dans l'Étang de Bages-Sigean
-Marais salants de Porto-Vecchio</text>
-      <span begin="1301" end="1332" id="1" />
-      <text id="1">Maroc
-Marais salants d'Oualidia</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 18:35</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer" idSE="3">
-      <span begin="1" end="7" />
-      <text>France</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 18:35</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items" idSE="3">
-      <span begin="8" end="754" id="0" />
-      <text id="0">Marais salants de la côte atlantique (france)
-Ils se caractérisent par une exploitation artisanale non mécanisée avec de faibles volumes de production.
-Marais salants de la presqu'île guérandaise, constitués de deux bassins salicoles :
-Ceux de Guérande comprenant les communes de Guérande, Batz-sur-Mer, Le Croisic, La Turballe ;
-Ceux du Mès englobant les communes de Mesquer, Saint-Molf et Assérac.
-Marais breton (pays de Retz)
-Île de Noirmoutier
-Marais d'Olonne
-Île de Ré
-Île d'Oléron
-Saint-Armel (Golfe du Morbihan)
-Bassin salicole de Carnac
-À titre d'exemple, les marais salants de Guérande, en Loire-Atlantique, produisent en moyenne chaque année près de 10 000 tonnes d'un sel naturellement riche en chlorure de magnésium et oligo-éléments.</text>
-      <span begin="755" end="1264" id="1" />
-      <text id="1">Marais salants de la côte méditerranéenne
-Production souvent fortement mécanisée, avec des volumes très importants.La Compagnie des Salins du midi produit 4 millions de tonnes par an. Le groupe est également le seul producteur européen à mettre en œuvre les 3 technologies de production (solaire, thermique et minière).
-Salin-de-Giraud (en bordure de la Camargue)
-Les Salins-d'Hyères (Hyères)
-Salins d'Aigues-Mortes
-Les Salins de l'Île Saint Martin dans l'Étang de Bages-Sigean
-Marais salants de Porto-Vecchio</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="primer" idSE="4">
       <span begin="1" end="236" />
       <text>Marais salants de la côte atlantique (france)
 Ils se caractérisent par une exploitation artisanale non mécanisée avec de faibles volumes de production.
@@ -1440,12 +113,12 @@ Marais salants de la presqu'île guérandaise, constitués de deux bassins salic
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="items" idSE="4">
+    <SEval type="items" idSE="0">
       <span begin="237" end="330" id="0" />
       <text id="0">Ceux de Guérande comprenant les communes de Guérande, Batz-sur-Mer, Le Croisic, La Turballe ;</text>
       <span begin="331" end="400" id="1" />
@@ -1469,12 +142,12 @@ Marais salants de la presqu'île guérandaise, constitués de deux bassins salic
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="primer" idSE="5">
+    <SEval type="primer" idSE="1">
       <span begin="1" end="320" />
       <text>Marais salants de la côte méditerranéenne
 Production souvent fortement mécanisée, avec des volumes très importants.La Compagnie des Salins du midi produit 4 millions de tonnes par an. Le groupe est également le seul producteur européen à mettre en œuvre les 3 technologies de production (solaire, thermique et minière).</text>
@@ -1482,12 +155,12 @@ Production souvent fortement mécanisée, avec des volumes très importants.La C
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="items" idSE="5">
+    <SEval type="items" idSE="1">
       <span begin="195" end="364" id="0" />
       <text id="0">est également le seul producteur européen à mettre en œuvre les 3 technologies de production (solaire, thermique et minière).
 Salin-de-Giraud (en bordure de la Camargue)</text>
@@ -1503,112 +176,12 @@ Salin-de-Giraud (en bordure de la Camargue)</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="primer" idSE="6">
-      <span begin="1" end="105" />
-      <text>Le groupe est également le seul producteur européen à mettre en œuvre les 3 technologies de production (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="items" idSE="6">
-      <span begin="105" end="114" id="0" />
-      <text id="0">solaire,</text>
-      <span begin="112" end="127" id="1" />
-      <text id="1">, thermique et</text>
-      <span begin="126" end="136" id="2" />
-      <text id="2">minière).</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
-      <span begin="33" end="45" id="0" />
-      <text id="0">les facteurs</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="0">
-      <span begin="86" end="93" id="0" />
-      <text id="0">le vent</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="1">
-      <span begin="99" end="118" id="0" />
-      <text id="0">une épaisseur d’eau</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="2">
-      <span begin="150" end="159" id="0" />
-      <text id="0">le soleil</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="3">
-      <span begin="167" end="196" id="0" />
-      <text id="0">la mise en mouvement de l'eau</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
-      <span begin="46" end="54" id="0" />
-      <text id="0">suivants</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
       <span begin="1" end="15" id="0" />
       <text id="0">Marais salants</text>
       <span begin="153" end="196" id="1" />
@@ -1617,12 +190,12 @@ Salin-de-Giraud (en bordure de la Camargue)</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
       <span begin="401" end="414" id="0" />
       <text id="0">Marais breton</text>
       <span begin="430" end="448" id="1" />
@@ -1631,219 +204,159 @@ Salin-de-Giraud (en bordure de la Camargue)</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="4">
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
       <span begin="449" end="464" id="0" />
       <text id="0">Marais d'Olonne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="5">
+    <SEval type="concept" idSE="0" localisation="item" idItem="5">
       <span begin="465" end="474" id="0" />
       <text id="0">Île de Ré</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="6">
+    <SEval type="concept" idSE="0" localisation="item" idItem="6">
       <span begin="475" end="487" id="0" />
       <text id="0">Île d'Oléron</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="7">
+    <SEval type="concept" idSE="0" localisation="item" idItem="7">
       <span begin="488" end="500" id="0" />
       <text id="0">Saint-Armel</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="8">
+    <SEval type="concept" idSE="0" localisation="item" idItem="8">
       <span begin="520" end="545" id="0" />
       <text id="0">Bassin salicole de Carnac</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
       <span begin="1" end="15" id="0" />
       <text id="0">Marais salants</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="321" end="336" id="0" />
       <text id="0">Salin-de-Giraud</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
       <span begin="365" end="384" id="0" />
       <text id="0">Les Salins-d'Hyères</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="2">
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
       <span begin="394" end="416" id="0" />
       <text id="0">Salins d'Aigues-Mortes</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="3">
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
       <span begin="417" end="449" id="0" />
       <text id="0">Les Salins de l'Île Saint Martin</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="4">
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
       <span begin="479" end="510" id="0" />
       <text id="0">Marais salants de Porto-Vecchio</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
-      <span begin="77" end="103" id="0" />
-      <text id="0">technologies de production</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="0">
-      <span begin="105" end="112" id="0" />
-      <text id="0">solaire</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="1">
-      <span begin="114" end="123" id="0" />
-      <text id="0">thermique</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="2">
-      <span begin="127" end="134" id="0" />
-      <text id="0">minière</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="marq_relation" idSE="6" localisation="primer" idItem="-1">
-      <span begin="75" end="77" id="0" />
-      <text id="0">3</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:22</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
-      <horizontale value="1" />
-      <verticale value="0" />
+      <horizontale value="0" />
+      <verticale value="1" />
       <navigationnelle value="0" />
-      <hypertextuelle value="0" />
+      <hypertextuelle value="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:22</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -1852,12 +365,12 @@ Salin-de-Giraud (en bordure de la Camargue)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:22</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -1869,15 +382,15 @@ Salin-de-Giraud (en bordure de la Camargue)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:22</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
-      <visee_ontologique value="0">
+      <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />
-        <instanceOf value="0" />
+        <instanceOf value="1" />
         <ontologique_autre value="0" />
       </visee_ontologique>
       <metalinguistique value="0">
@@ -1896,21 +409,21 @@ Salin-de-Giraud (en bordure de la Camargue)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
-      <horizontale value="1" />
-      <verticale value="0" />
+      <horizontale value="0" />
+      <verticale value="1" />
       <navigationnelle value="0" />
-      <hypertextuelle value="0" />
+      <hypertextuelle value="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1924,7 +437,7 @@ Salin-de-Giraud (en bordure de la Camargue)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1941,369 +454,14 @@ Salin-de-Giraud (en bordure de la Camargue)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:41</date>
+      <date>3/01/14 18:44</date>
       <document>Marais_salant.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
       <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:42</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="2">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:42</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:42</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:42</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="2">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 18:35</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="3">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 18:35</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="3">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 18:35</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="3">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 18:35</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="3">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="4">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="4">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="4">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:43</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="4">
-      <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />
         <instanceOf value="1" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="5">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="5">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="5">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:44</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="5">
-      <visee_ontologique value="1">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="1" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="6">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="6">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="6">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:45</date>
-      <document>Marais_salant.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="6">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
         <ontologique_autre value="0" />
       </visee_ontologique>
       <metalinguistique value="0">

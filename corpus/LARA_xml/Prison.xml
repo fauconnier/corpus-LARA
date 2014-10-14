@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SE>
@@ -18,7 +18,7 @@ de neutraliser les opposants politiques ;
 d'empêcher des prévenus de prendre la fuite ou de compromettre leur futur procès, on parle alors de détention provisoire.</text>
       <span begin="189" end="790" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
@@ -44,8 +44,8 @@ institutions annexes : il faut une assistance apportée au détenu lors de sa so
   <annotation type="1">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:10</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
       <document>Prison.html</document>
     </metadata>
     <SE>
@@ -56,7 +56,7 @@ ne pas remplir le rôle qui était prévu ;
 avoir des effets secondaires négatifs. La privation de liberté est durement ressentie par les prisonniers et dans certains cas, la prison peut nuire à la capacité de s'autodéterminer donc à la réinsertion du prisonnier.</text>
       <span begin="17029" end="17355" />
     </SE>
-    <comment />
+    <comment>#a pour conséquence#</comment>
   </annotation>
   <annotation type="1">
     <metadata>
@@ -82,158 +82,26 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="fonction" postag="NC" morpho="g=f|n=p" head="5" dep="suj">fonctions</word>
-        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-        <word id="4" lem="prison" postag="NC" morpho="g=f|n=p" head="3" dep="prep">prisons</word>
-        <word id="5" lem="varier" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">varient</word>
-        <word id="6" lem="selon" postag="P" morpho="_" head="5" dep="mod">selon</word>
-        <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
-        <word id="8" lem="époque" postag="NC" morpho="g=f|n=p" head="6" dep="prep">époques</word>
-        <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-        <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-        <word id="11" lem="société" postag="NC" morpho="g=f|n=p" head="9" dep="dep_coord">sociétés</word>
-        <word id="12" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-        <word id="2" lem="plupart" postag="NC" morpho="g=f|n=s" head="8" dep="suj">plupart</word>
-        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-        <word id="4" lem="temps" postag="NC" morpho="g=m" head="3" dep="prep">temps</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="6" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="8" dep="suj">il</word>
-        <word id="7" lem="se" postag="CLR" morpho="p=3" head="8" dep="aff">s'</word>
-        <word id="8" lem="agir" postag="V" morpho="n=s|p=3|t=past" head="0" dep="root">agit</word>
-        <word id="9" lem=":" postag="PONCT" morpho="_" head="8" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="2" lem="punir" postag="VINF" morpho="_" head="1" dep="prep">punir</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="personne" postag="NC" morpho="g=f|n=s" head="2" dep="obj">personne</word>
-          <word id="5" lem="reconnaître" postag="VPP" morpho="g=f|n=s|t=past" head="4" dep="mod">reconnue</word>
-          <word id="6" lem="coupable" postag="ADJ" morpho="n=s" head="5" dep="mod">coupable</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="de_obj">d'</word>
-          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="0" dep="_">une</word>
-          <word id="9" lem="faute_de" postag="P" morpho="_" head="0" dep="_">faute_d'</word>
-          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-          <word id="11" lem="certain" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">certaine</word>
-          <word id="12" lem="gravité" postag="NC" morpho="g=f|n=s" head="9" dep="prep">gravité</word>
-          <word id="13" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="2" lem="protéger" postag="VINF" morpho="_" head="1" dep="prep">protéger</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="société" postag="NC" morpho="g=f|n=s" head="2" dep="obj">société</word>
-          <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-          <word id="6" lem="personne" postag="NC" morpho="g=f|n=p" head="5" dep="prep">personnes</word>
-          <word id="7" lem="dangereux" postag="ADJ" morpho="g=f|n=p" head="6" dep="mod">dangereuses</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="2" lem="décourager" postag="VINF" morpho="_" head="1" dep="prep">décourager</word>
-          <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-          <word id="4" lem="gens" postag="NC" morpho="g=m|n=p" head="2" dep="obj">gens</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="commettre" postag="VINF" morpho="_" head="5" dep="prep">commettre</word>
-          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
-          <word id="8" lem="acte" postag="NC" morpho="g=m|n=p" head="6" dep="obj">actes</word>
-          <word id="9" lem="interdire" postag="VPP" morpho="g=m|n=p|t=past" head="8" dep="mod">interdits</word>
-          <word id="10" lem="par" postag="P" morpho="_" head="9" dep="p_obj">par</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="loi" postag="NC" morpho="g=f|n=s" head="10" dep="prep">loi</word>
-          <word id="13" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">d'</word>
-          <word id="2" lem="obliger" postag="VINF" morpho="_" head="1" dep="prep">obliger</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="détenu" postag="NC" morpho="g=m|n=s" head="2" dep="obj">détenu</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="a_obj">à</word>
-          <word id="6" lem="faire" postag="VINF" morpho="_" head="5" dep="prep">faire</word>
-          <word id="7" lem="pénitence" postag="NC" morpho="g=f|n=s" head="6" dep="obj">pénitence</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="2" dep="mod">en</word>
-          <word id="10" lem="le" postag="CLO" morpho="g=m|n=s|p=3" head="11" dep="obj">le</word>
-          <word id="11" lem="forcer" postag="VPR" morpho="t=pst" head="9" dep="prep">forçant</word>
-          <word id="12" lem="à" postag="P" morpho="_" head="11" dep="a_obj">à</word>
-          <word id="13" lem="poursuivre" postag="VINF" morpho="_" head="12" dep="prep">poursuivre</word>
-          <word id="14" lem="des" postag="DET" morpho="n=p" head="15" dep="det">des</word>
-          <word id="15" lem="étude" postag="NC" morpho="g=f|n=p" head="13" dep="obj">études</word>
-          <word id="16" lem="ou" postag="CC" morpho="_" head="15" dep="coord">ou</word>
-          <word id="17" lem="une" postag="DET" morpho="g=f|n=s" head="18" dep="det">une</word>
-          <word id="18" lem="activité" postag="NC" morpho="g=f|n=s" head="16" dep="dep_coord">activité</word>
-          <word id="19" lem="destiner" postag="VPP" morpho="g=f|n=p|t=past" head="18" dep="mod">destinées</word>
-          <word id="20" lem="à" postag="P" morpho="_" head="19" dep="a_obj">à</word>
-          <word id="21" lem="le" postag="CLO" morpho="g=m|n=s|p=3" head="22" dep="obj">le</word>
-          <word id="22" lem="réinsérer" postag="VINF" morpho="_" head="20" dep="prep">réinsérer</word>
-          <word id="23" lem="ou" postag="CC" morpho="_" head="20" dep="coord">ou</word>
-          <word id="24" lem="le" postag="CLO" morpho="g=m|n=s|p=3" head="25" dep="obj">le</word>
-          <word id="25" lem="réhabiliter" postag="VINF" morpho="_" head="23" dep="dep_coord">réhabiliter</word>
-          <word id="26" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="2" lem="neutraliser" postag="VINF" morpho="_" head="1" dep="prep">neutraliser</word>
-          <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-          <word id="4" lem="opposant" postag="NC" morpho="g=m|n=p" head="2" dep="obj">opposants</word>
-          <word id="5" lem="politique" postag="ADJ" morpho="n=p" head="4" dep="mod">politiques</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="17" dep="mod">d'</word>
-          <word id="2" lem="empêcher" postag="VINF" morpho="_" head="1" dep="prep">empêcher</word>
-          <word id="3" lem="des" postag="DET" morpho="n=p" head="4" dep="det">des</word>
-          <word id="4" lem="prévenu" postag="NC" morpho="g=m|n=p" head="2" dep="obj">prévenus</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="2" dep="mod">de</word>
-          <word id="6" lem="prendre" postag="VINF" morpho="_" head="5" dep="prep">prendre</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="fuite" postag="NC" morpho="g=f|n=s" head="6" dep="obj">fuite</word>
-          <word id="9" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep_coord">de</word>
-          <word id="11" lem="compromettre" postag="VINF" morpho="_" head="10" dep="prep">compromettre</word>
-          <word id="12" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="14" dep="det">leur</word>
-          <word id="13" lem="futur" postag="ADJ" morpho="g=m|n=s" head="14" dep="mod">futur</word>
-          <word id="14" lem="procès" postag="NC" morpho="g=m" head="11" dep="obj">procès</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="16" lem="on" postag="CLS" morpho="n=s|p=3" head="17" dep="suj">on</word>
-          <word id="17" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
-          <word id="18" lem="alors" postag="ADV" morpho="_" head="17" dep="mod">alors</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="17" dep="de_obj">de</word>
-          <word id="20" lem="détention" postag="NC" morpho="g=f|n=s" head="19" dep="prep">détention</word>
-          <word id="21" lem="provisoire" postag="ADJ" morpho="n=s" head="20" dep="mod">provisoire</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="17" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -243,19 +111,7 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
       <date>1/01/13 11:49</date>
       <document>Prison.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-        <word id="2" lem="attribuer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">attribue</word>
-        <word id="3" lem="principalement" postag="ADV" morpho="_" head="2" dep="mod">principalement</word>
-        <word id="4" lem="deux" postag="ADJ" morpho="n=p" head="5" dep="mod">sept</word>
-        <word id="5" lem="principe" postag="NC" morpho="g=m|n=p" head="2" dep="obj">principes</word>
-        <word id="6" lem="à" postag="P" morpho="_" head="2" dep="a_obj">à</word>
-        <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-        <word id="8" lem="prison" postag="NC" morpho="g=f|n=s" head="6" dep="prep">prison</word>
-        <word id="9" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -265,301 +121,35 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
       <document>Prison.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="correction" postag="NC" morpho="g=f|n=s" head="0" dep="root">correction</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="amendement" postag="NC" morpho="g=m|n=s" head="1" dep="mod">amendement</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="remplacement" postag="NC" morpho="g=m|n=s" head="1" dep="mod">remplacement</word>
-          <word id="6" lem="social" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">social</word>
-          <word id="7" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="classification" postag="NC" morpho="g=f|n=s" head="0" dep="root">classification</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="répartition" postag="NC" morpho="g=f|n=s" head="1" dep="mod">répartition</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="3" dep="dep">dans</word>
-          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
-          <word id="6" lem="établissement" postag="NC" morpho="g=m|n=p" head="4" dep="prep">établissements</word>
-          <word id="7" lem="pénitentiaire" postag="ADJ" morpho="n=p" head="6" dep="mod">pénitentiaires</word>
-          <word id="8" lem="selon" postag="P" morpho="_" head="3" dep="dep">selon</word>
-          <word id="9" lem="différent" postag="ADJ" morpho="g=m|n=p" head="10" dep="mod">différents</word>
-          <word id="10" lem="critère" postag="NC" morpho="g=m|n=p" head="8" dep="prep">critères</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="10" dep="ponct">(</word>
-          <word id="12" lem="âge" postag="NC" morpho="g=m|n=s" head="10" dep="mod">âge</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-          <word id="14" lem="sexe" postag="NC" morpho="g=m|n=s" head="10" dep="mod">sexe</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-          <word id="16" lem="gravité" postag="NC" morpho="g=f|n=s" head="10" dep="mod">gravité</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="18" lem="l'" postag="DET" morpho="n=s" head="19" dep="det">l'</word>
-          <word id="19" lem="acte" postag="NC" morpho="g=m|n=s" head="17" dep="prep">acte</word>
-          <word id="20" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-          <word id="21" lem="_" postag="ADV" morpho="_" head="10" dep="mod">etc.</word>
-          <word id="22" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
-          <word id="23" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="modulation" postag="NC" morpho="g=f|n=s" head="9" dep="suj">modulation</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="où" postag="PROREL" morpho="_" head="9" dep="mod">où</word>
-          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="5" lem="déroulement" postag="NC" morpho="g=m|n=s" head="9" dep="suj">déroulement</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="peine" postag="NC" morpho="g=f|n=s" head="6" dep="prep">peine</word>
-          <word id="9" lem="passer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">passe</word>
-          <word id="10" lem="par" postag="P" morpho="_" head="9" dep="p_obj">par</word>
-          <word id="11" lem="différentes" postag="DET" morpho="g=f|n=p" head="12" dep="det">différentes</word>
-          <word id="12" lem="étape" postag="NC" morpho="g=f|n=p" head="10" dep="prep">étapes</word>
-          <word id="13" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
-          <word id="14" lem="privation" postag="NC" morpho="g=f|n=s" head="9" dep="mod">privation</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="liberté" postag="NC" morpho="g=f|n=s" head="15" dep="prep">liberté</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="18" lem="assignation" postag="NC" morpho="g=f|n=s" head="9" dep="mod">assignation</word>
-          <word id="19" lem="à" postag="P" morpho="_" head="18" dep="dep">à</word>
-          <word id="20" lem="résidence" postag="NC" morpho="g=f|n=s" head="19" dep="prep">résidence</word>
-          <word id="21" lem="suivre" postag="VPP" morpho="g=f|n=s|t=past" head="20" dep="mod">suivie</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="de_obj">de</word>
-          <word id="23" lem="libération" postag="NC" morpho="g=f|n=s" head="22" dep="prep">libération</word>
-          <word id="24" lem="conditionnel" postag="ADJ" morpho="g=f|n=s" head="23" dep="mod">conditionnelle</word>
-          <word id="25" lem="avant" postag="P" morpho="_" head="21" dep="mod">avant</word>
-          <word id="26" lem="la" postag="DET" morpho="g=f|n=s" head="27" dep="det">la</word>
-          <word id="27" lem="liberté" postag="NC" morpho="g=f|n=s" head="25" dep="prep">liberté</word>
-          <word id="28" lem=")" postag="PONCT" morpho="_" head="9" dep="ponct">)</word>
-          <word id="29" lem=";" postag="PONCT" morpho="_" head="9" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="travail" postag="NC" morpho="g=m|n=s" head="0" dep="root">travail</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="comme" postag="P" morpho="_" head="1" dep="dep">comme</word>
-          <word id="4" lem="obligation" postag="NC" morpho="g=f|n=s" head="3" dep="prep">obligation</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="6" lem="comme" postag="P" morpho="_" head="5" dep="dep_coord">comme</word>
-          <word id="7" lem="droit" postag="NC" morpho="g=m|n=s" head="6" dep="prep">droit</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="9" lem="tout" postag="ADV" morpho="_" head="10" dep="mod">tout</word>
-          <word id="10" lem="condamner" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">condamné</word>
-          <word id="11" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">a</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-          <word id="13" lem="droit" postag="NC" morpho="g=m|n=s" head="11" dep="obj">droit</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="travailler" postag="VINF" morpho="_" head="14" dep="prep">travailler</word>
-          <word id="16" lem="plus" postag="ADV" morpho="_" head="15" dep="mod">plus</word>
-          <word id="17" lem="que" postag="CS" morpho="_" head="16" dep="dep">que</word>
-          <word id="18" lem="l'" postag="DET" morpho="n=s" head="19" dep="det">l'</word>
-          <word id="19" lem="obligation" postag="NC" morpho="g=f|n=s" head="17" dep="sub">obligation</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
-          <word id="21" lem="travailler" postag="VINF" morpho="_" head="20" dep="prep">travailler</word>
-          <word id="22" lem=")" postag="PONCT" morpho="_" head="11" dep="ponct">)</word>
-          <word id="23" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="24" lem="le" postag="DET" morpho="g=m|n=s" head="25" dep="det">le</word>
-          <word id="25" lem="travail" postag="NC" morpho="g=m|n=s" head="27" dep="suj">travail</word>
-          <word id="26" lem="pénitentiaire" postag="ADJ" morpho="n=s" head="25" dep="mod">pénitentiaire</word>
-          <word id="27" lem="pouvoir" postag="V" morpho="n=s|p=3|t=cond" head="11" dep="mod">pourrait</word>
-          <word id="28" lem="contribuer" postag="VINF" morpho="_" head="27" dep="obj">contribuer</word>
-          <word id="29" lem="à" postag="P" morpho="_" head="28" dep="a_obj">à</word>
-          <word id="30" lem="la" postag="DET" morpho="g=f|n=s" head="31" dep="det">la</word>
-          <word id="31" lem="réinsertion" postag="NC" morpho="g=f|n=s" head="29" dep="prep">réinsertion</word>
-          <word id="32" lem="professionnel" postag="ADJ" morpho="g=f|n=s" head="31" dep="mod">professionnelle</word>
-          <word id="33" lem="de" postag="P+D" morpho="n=p" head="31" dep="dep">des</word>
-          <word id="34" lem="détenu" postag="NC" morpho="g=m|n=p" head="33" dep="prep">détenus</word>
-          <word id="35" lem=";" postag="PONCT" morpho="_" head="11" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="éducation" postag="NC" morpho="g=f|n=s" head="8" dep="mod">éducation</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="8" dep="ponct">:</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="traitement" postag="NC" morpho="g=m|n=s" head="8" dep="suj">traitement</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="condamné" postag="NC" morpho="g=m|n=s" head="5" dep="prep">condamné</word>
-          <word id="8" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">a</word>
-          <word id="9" lem="pour" postag="P" morpho="_" head="8" dep="p_obj">pour</word>
-          <word id="10" lem="but" postag="NC" morpho="g=m|n=s" head="9" dep="prep">but</word>
-          <word id="11" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="12" dep="det">sa</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="8" dep="obj">resocialisation</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Erving</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Goffman</word>
-          <word id="3" lem="prétendre" postag="V" morpho="n=s|p=3|t=fut" head="0" dep="root">prétendra</word>
-          <word id="4" lem="que" postag="CS" morpho="_" head="3" dep="obj">que</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="17" dep="mod">au</word>
-          <word id="7" lem="contraire" postag="NC" morpho="g=m|n=s" head="6" dep="prep">contraire</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="9" lem="ces" postag="DET" morpho="n=p" head="10" dep="det">ces</word>
-          <word id="10" lem="institution" postag="NC" morpho="g=f|n=p" head="17" dep="suj">institutions</word>
-          <word id="11" lem="total" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">totales</word>
-          <word id="12" lem="loin_de" postag="P" morpho="_" head="17" dep="mod">loin_de</word>
-          <word id="13" lem="resocialiser" postag="VINF" morpho="_" head="12" dep="prep">resocialiser</word>
-          <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-          <word id="15" lem="individu" postag="NC" morpho="g=m|n=p" head="13" dep="obj">individus</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="17" lem="pouvoir" postag="V" morpho="n=p|p=3|t=imp" head="4" dep="sub">pouvaient</word>
-          <word id="18" lem="provoquer" postag="VINF" morpho="_" head="17" dep="obj">provoquer</word>
-          <word id="19" lem="chez" postag="P" morpho="_" head="18" dep="mod">chez</word>
-          <word id="20" lem="lui" postag="PRO" morpho="g=m|n=s|p=3" head="19" dep="prep">lui</word>
-          <word id="21" lem="une" postag="DET" morpho="g=f|n=s" head="22" dep="det">une</word>
-          <word id="22" lem="déculturation" postag="NC" morpho="g=f|n=s" head="18" dep="obj">déculturation</word>
-          <word id="23" lem="entraîner" postag="VPR" morpho="t=pst" head="22" dep="mod">entraînant</word>
-          <word id="24" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="25" dep="det">son</word>
-          <word id="25" lem="incapacité" postag="NC" morpho="g=f|n=s" head="23" dep="obj">incapacité</word>
-          <word id="26" lem="à" postag="P" morpho="_" head="25" dep="dep">à</word>
-          <word id="27" lem="se" postag="CLR" morpho="n=p|p=3" head="28" dep="aff">se</word>
-          <word id="28" lem="réadapter" postag="VINF" morpho="_" head="26" dep="prep">réadapter</word>
-          <word id="29" lem="à" postag="P" morpho="_" head="28" dep="a_obj">à</word>
-          <word id="30" lem="la" postag="DET" morpho="g=f|n=s" head="31" dep="det">la</word>
-          <word id="31" lem="société" postag="NC" morpho="g=f|n=s" head="29" dep="prep">société</word>
-          <word id="32" lem="ambiant" postag="ADJ" morpho="g=f|n=s" head="31" dep="mod">ambiante</word>
-          <word id="33" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="contrôle" postag="NC" morpho="g=m|n=s" head="3" dep="mod">contrôle</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-          <word id="3" lem="nécessiter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">nécessite</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="personnel" postag="NC" morpho="g=m|n=s" head="3" dep="obj">personnel</word>
-          <word id="6" lem="spécialiser" postag="ADJ" morpho="g=m|n=s|t=past" head="5" dep="mod">spécialisé</word>
-          <word id="7" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="institution" postag="NC" morpho="g=f|n=p" head="5" dep="mod">institutions</word>
-          <word id="2" lem="annexe" postag="ADJ" morpho="n=p" head="1" dep="mod">annexes</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
-          <word id="4" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="5" dep="suj">il</word>
-          <word id="5" lem="falloir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">faut</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="assistance" postag="NC" morpho="g=f|n=s" head="5" dep="obj">assistance</word>
-          <word id="8" lem="apporter" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">apportée</word>
-          <word id="9" lem="à" postag="P+D" morpho="g=m|n=s" head="8" dep="a_obj">au</word>
-          <word id="10" lem="détenu" postag="NC" morpho="g=m|n=s" head="9" dep="prep">détenu</word>
-          <word id="11" lem="lors_de" postag="P" morpho="_" head="8" dep="mod">lors_de</word>
-          <word id="12" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="13" dep="det">sa</word>
-          <word id="13" lem="sortie" postag="NC" morpho="g=f|n=s" head="11" dep="prep">sortie</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="prison" postag="NC" morpho="g=f|n=s" head="14" dep="prep">prison</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="17" lem="à" postag="P+D" morpho="g=m|n=s" head="8" dep="a_obj">au</word>
-          <word id="18" lem="moment" postag="NC" morpho="g=m|n=s" head="17" dep="prep">moment</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
-          <word id="20" lem="la" postag="DET" morpho="g=f|n=s" head="22" dep="det">la</word>
-          <word id="21" lem="réel" postag="ADJ" morpho="g=f|n=s" head="22" dep="mod">réelle</word>
-          <word id="22" lem="_" postag="NC" morpho="_" head="19" dep="prep">resocialisation</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:10</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
       <document>Prison.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-        <word id="2" lem="peine" postag="NC" morpho="g=f|n=s" head="5" dep="suj">peine</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="prison" postag="NC" morpho="g=f|n=s" head="3" dep="prep">prison</word>
-        <word id="5" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="6" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:10</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="coûter" postag="VINF" morpho="_" head="0" dep="_">coûter</word>
-          <word id="2" lem="cher" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">cher</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="a_obj">à</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="communauté" postag="NC" morpho="g=f|n=s" head="3" dep="prep">communauté</word>
-          <word id="6" lem="national" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">nationale</word>
-          <word id="7" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="ne_pas" postag="ADV" morpho="_" head="2" dep="mod">ne_pas</word>
-          <word id="2" lem="remplir" postag="VINF" morpho="_" head="0" dep="root">remplir</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="rôle" postag="NC" morpho="g=m|n=s" head="2" dep="obj">rôle</word>
-          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="7" dep="suj">qui</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=imp" head="7" dep="aux_pass">était</word>
-          <word id="7" lem="prévoir" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod_rel">prévu</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="avoir" postag="VINF" morpho="_" head="0" dep="_">avoir</word>
-          <word id="2" lem="des" postag="DET" morpho="n=p" head="3" dep="det">des</word>
-          <word id="3" lem="effet" postag="NC" morpho="g=m|n=p" head="1" dep="obj">effets</word>
-          <word id="4" lem="secondaire" postag="ADJ" morpho="n=p" head="3" dep="mod">secondaires</word>
-          <word id="5" lem="négatif" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">négatifs</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="privation" postag="NC" morpho="g=f|n=s" head="7" dep="suj">privation</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="liberté" postag="NC" morpho="g=f|n=s" head="3" dep="prep">liberté</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="aux_pass">est</word>
-          <word id="6" lem="durement" postag="ADV" morpho="_" head="7" dep="mod">durement</word>
-          <word id="7" lem="ressentir" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">ressentie</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
-          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
-          <word id="10" lem="prisonnier" postag="NC" morpho="g=m|n=p" head="8" dep="prep">prisonniers</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-          <word id="12" lem="dans" postag="P" morpho="_" head="11" dep="dep_coord">dans</word>
-          <word id="13" lem="certains" postag="DET" morpho="g=m|n=p" head="14" dep="det">certains</word>
-          <word id="14" lem="cas" postag="NC" morpho="g=m" head="12" dep="prep">cas</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="prison" postag="NC" morpho="g=f|n=s" head="18" dep="suj">prison</word>
-          <word id="18" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="mod">peut</word>
-          <word id="19" lem="nuire" postag="VINF" morpho="_" head="18" dep="obj">nuire</word>
-          <word id="20" lem="à" postag="P" morpho="_" head="19" dep="a_obj">à</word>
-          <word id="21" lem="la" postag="DET" morpho="g=f|n=s" head="22" dep="det">la</word>
-          <word id="22" lem="capacité" postag="NC" morpho="g=f|n=s" head="20" dep="prep">capacité</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep">de</word>
-          <word id="24" lem="se" postag="CLR" morpho="p=3" head="25" dep="aff">s'</word>
-          <word id="25" lem="autodéterminer" postag="VINF" morpho="_" head="23" dep="prep">autodéterminer</word>
-          <word id="26" lem="donc" postag="ADV" morpho="_" head="25" dep="mod">donc</word>
-          <word id="27" lem="à" postag="P" morpho="_" head="25" dep="a_obj">à</word>
-          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
-          <word id="29" lem="réinsertion" postag="NC" morpho="g=f|n=s" head="27" dep="prep">réinsertion</word>
-          <word id="30" lem="de" postag="P+D" morpho="g=m|n=s" head="29" dep="dep">du</word>
-          <word id="31" lem="prisonnier" postag="NC" morpho="g=m|n=s" head="30" dep="prep">prisonnier</word>
-          <word id="32" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -569,34 +159,7 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
       <date>1/01/13 11:51</date>
       <document>Prison.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="pour" postag="P" morpho="_" head="9" dep="mod">Pour</word>
-        <word id="2" lem="ces" postag="DET" morpho="n=p" head="3" dep="det">ces</word>
-        <word id="3" lem="raison" postag="NC" morpho="g=f|n=p" head="1" dep="prep">raisons</word>
-        <word id="4" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-        <word id="6" lem="majorité" postag="NC" morpho="g=f|n=s" head="9" dep="suj">majorité</word>
-        <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
-        <word id="8" lem="démocratie" postag="NC" morpho="g=f|n=p" head="7" dep="prep">démocraties</word>
-        <word id="9" lem="prévoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">prévoient</word>
-        <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
-        <word id="11" lem="condamnation" postag="NC" morpho="g=f|n=p" head="9" dep="obj">condamnations</word>
-        <word id="12" lem="à" postag="P" morpho="_" head="11" dep="dep">à</word>
-        <word id="13" lem="des" postag="DET" morpho="n=p" head="14" dep="det">des</word>
-        <word id="14" lem="peine" postag="NC" morpho="g=f|n=p" head="12" dep="prep">peines</word>
-        <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-        <word id="16" lem="substitution" postag="NC" morpho="g=f|n=s" head="15" dep="prep">substitution</word>
-        <word id="17" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
-        <word id="18" lem="appeler" postag="VPP" morpho="g=f|n=p|t=past" head="14" dep="mod">appelées</word>
-        <word id="19" lem="aussi" postag="ADV" morpho="_" head="18" dep="mod">aussi</word>
-        <word id="20" lem="peine" postag="NC" morpho="g=f|n=p" head="18" dep="mod">peines</word>
-        <word id="21" lem="alternatif" postag="ADJ" morpho="g=f|n=p" head="20" dep="mod">alternatives</word>
-        <word id="22" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
-        <word id="23" lem="comme" postag="P" morpho="_" head="9" dep="mod">comme</word>
-        <word id="24" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -606,206 +169,20 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
       <document>Prison.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="travail" postag="NC" morpho="g=m|n=s" head="0" dep="_">travail</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="intérêt" postag="NC" morpho="g=m|n=s" head="3" dep="prep">intérêt</word>
-          <word id="5" lem="général" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">général</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="7" lem="appeler" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">appelé</word>
-          <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="9" lem="travail" postag="NC" morpho="g=m|n=s" head="7" dep="mod">travail</word>
-          <word id="10" lem="communautaire" postag="ADJ" morpho="n=s" head="9" dep="mod">communautaire</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="7" dep="mod">au</word>
-          <word id="13" lem="Québec" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Québec</word>
-          <word id="14" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="15" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="port" postag="NC" morpho="g=m|n=s" head="0" dep="_">port</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="bracelet" postag="NC" morpho="g=m|n=s" head="3" dep="prep">bracelet</word>
-          <word id="6" lem="électronique" postag="ADJ" morpho="n=s" head="5" dep="mod">électronique</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="surveillance" postag="NC" morpho="g=f|n=s" head="7" dep="prep">surveillance</word>
-          <word id="9" lem="fixe" postag="ADJ" morpho="n=s" head="8" dep="mod">fixe</word>
-          <word id="10" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
-          <word id="11" lem="mobile" postag="ADJ" morpho="n=s" head="10" dep="dep_coord">mobile</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
-          <word id="2" lem="amende" postag="NC" morpho="g=f|n=s" head="12" dep="suj">amende</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="qui" postag="PROREL" morpho="n=s" head="5" dep="suj">qui</word>
-          <word id="5" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="2" dep="mod_rel">peut</word>
-          <word id="6" lem="se" postag="CLR" morpho="p=3" head="7" dep="aff">s'</word>
-          <word id="7" lem="ajouter" postag="VINF" morpho="_" head="5" dep="obj">ajouter</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="7" dep="a_obj">à</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="incarcération" postag="NC" morpho="g=f|n=s" head="8" dep="prep">incarcération</word>
-          <word id="11" lem=";" postag="PONCT" morpho="_" head="12" dep="ponct">;</word>
-          <word id="12" lem="voir" postag="VINF" morpho="_" head="0" dep="root">voir</word>
-          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
-          <word id="14" lem="cas" postag="NC" morpho="g=m" head="12" dep="obj">cas</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="contrainte" postag="NC" morpho="g=f|n=s" head="15" dep="prep">contrainte</word>
-          <word id="17" lem="par" postag="P" morpho="_" head="14" dep="dep">par</word>
-          <word id="18" lem="corps" postag="NC" morpho="g=m" head="17" dep="prep">corps</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="20" lem="allonger" postag="VPR" morpho="t=pst" head="12" dep="mod">allongeant</word>
-          <word id="21" lem="jusqu'à" postag="P" morpho="_" head="20" dep="mod">jusqu'à</word>
-          <word id="22" lem="deux" postag="ADJ" morpho="n=p" head="23" dep="mod">deux</word>
-          <word id="23" lem="mois" postag="NC" morpho="g=m" head="21" dep="prep">mois</word>
-          <word id="24" lem="la" postag="DET" morpho="g=f|n=s" head="25" dep="det">la</word>
-          <word id="25" lem="peine" postag="NC" morpho="g=f|n=s" head="20" dep="obj">peine</word>
-          <word id="26" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
-          <word id="27" lem="prison" postag="NC" morpho="g=f|n=s" head="26" dep="prep">prison</word>
-          <word id="28" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="29" lem="notamment" postag="ADV" morpho="_" head="30" dep="mod">notamment</word>
-          <word id="30" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
-          <word id="31" lem="le" postag="DET" morpho="g=m|n=s" head="32" dep="det">le</word>
-          <word id="32" lem="cas" postag="NC" morpho="g=m" head="30" dep="prep">cas</word>
-          <word id="33" lem="de" postag="P" morpho="_" head="32" dep="dep">de</word>
-          <word id="34" lem="trafic" postag="NC" morpho="g=m|n=s" head="33" dep="prep">trafic</word>
-          <word id="35" lem="de" postag="P" morpho="_" head="34" dep="dep">de</word>
-          <word id="36" lem="stupéfiant" postag="NC" morpho="g=m|n=p" head="35" dep="prep">stupéfiants</word>
-          <word id="37" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="38" lem=";" postag="PONCT" morpho="_" head="12" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="sursis" postag="NC" morpho="g=m" head="12" dep="mod">sursis</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="peine" postag="NC" morpho="g=f|n=s" head="3" dep="prep">peine</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="prison" postag="NC" morpho="g=f|n=s" head="6" dep="prep">prison</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
-          <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="12" dep="suj">il</word>
-          <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="12" dep="aux_pass">est</word>
-          <word id="11" lem="souvent" postag="ADV" morpho="_" head="12" dep="mod">souvent</word>
-          <word id="12" lem="assortir" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">assorti</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="de_obj">d'</word>
-          <word id="14" lem="une" postag="DET" morpho="g=f|n=s" head="15" dep="det">une</word>
-          <word id="15" lem="mise" postag="NC" morpho="g=f|n=s" head="13" dep="prep">mise</word>
-          <word id="16" lem="à" postag="P" morpho="_" head="15" dep="dep">à</word>
-          <word id="17" lem="l'" postag="DET" morpho="n=s" head="18" dep="det">l'</word>
-          <word id="18" lem="épreuve" postag="NC" morpho="g=f|n=s" head="16" dep="prep">épreuve</word>
-          <word id="19" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-          <word id="20" lem="obligation" postag="NC" morpho="g=f|n=s" head="15" dep="mod">obligation</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
-          <word id="22" lem="soin" postag="NC" morpho="g=m|n=p" head="21" dep="prep">soins</word>
-          <word id="23" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="24" lem="de" postag="P" morpho="_" head="12" dep="de_obj">de</word>
-          <word id="25" lem="travail" postag="NC" morpho="g=m|n=s" head="24" dep="prep">travail</word>
-          <word id="26" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="27" lem="de" postag="P" morpho="_" head="12" dep="de_obj">de</word>
-          <word id="28" lem="formation" postag="NC" morpho="g=f|n=s" head="27" dep="prep">formation</word>
-          <word id="29" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="30" lem="de" postag="P" morpho="_" head="12" dep="de_obj">d'</word>
-          <word id="31" lem="indemnisation" postag="NC" morpho="g=f|n=s" head="30" dep="prep">indemnisation</word>
-          <word id="32" lem="de" postag="P+D" morpho="n=p" head="31" dep="dep">des</word>
-          <word id="33" lem="partie" postag="NC" morpho="g=f|n=p" head="32" dep="prep">parties</word>
-          <word id="34" lem="civil" postag="ADJ" morpho="g=f|n=p" head="33" dep="mod">civiles</word>
-          <word id="35" lem="," postag="PONCT" morpho="_" head="33" dep="ponct">,</word>
-          <word id="36" lem="_" postag="ADV" morpho="_" head="33" dep="mod">etc.</word>
-          <word id="37" lem=")" postag="PONCT" morpho="_" head="33" dep="ponct">)</word>
-          <word id="38" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="9" dep="suj">non-respect</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="cette" postag="DET" morpho="g=f|n=s" head="5" dep="det">cette</word>
-          <word id="5" lem="mise" postag="NC" morpho="g=f|n=s" head="3" dep="prep">mise</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="épreuve" postag="NC" morpho="g=f|n=s" head="6" dep="prep">épreuve</word>
-          <word id="9" lem="entraîner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">entraîne</word>
-          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
-          <word id="11" lem="révocation" postag="NC" morpho="g=f|n=s" head="9" dep="obj">révocation</word>
-          <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
-          <word id="13" lem="sursis" postag="NC" morpho="g=m" head="12" dep="prep">sursis</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="condamné" postag="NC" morpho="g=m|n=s" head="3" dep="suj">condamné</word>
-          <word id="3" lem="aller" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">va</word>
-          <word id="4" lem="alors" postag="ADV" morpho="_" head="3" dep="mod">alors</word>
-          <word id="5" lem="purger" postag="VINF" morpho="_" head="3" dep="obj">purger</word>
-          <word id="6" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="7" dep="det">sa</word>
-          <word id="7" lem="peine" postag="NC" morpho="g=f|n=s" head="5" dep="obj">peine</word>
-          <word id="8" lem="ferme" postag="ADJ" morpho="n=s" head="7" dep="mod">ferme</word>
-          <word id="9" lem="dans" postag="P" morpho="_" head="5" dep="mod">dans</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="établissement" postag="NC" morpho="g=m|n=s" head="9" dep="prep">établissement</word>
-          <word id="12" lem="pénitentiaire" postag="ADJ" morpho="n=s" head="11" dep="mod">pénitentiaire</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="à" postag="P" morpho="_" head="4" dep="a_obj">À</word>
-          <word id="2" lem="celle-ci" postag="PRO" morpho="g=f|n=s" head="1" dep="prep">celle-ci</word>
-          <word id="3" lem="se" postag="CLR" morpho="p=3" head="4" dep="aff">s'</word>
-          <word id="4" lem="ajouter" postag="V" morpho="n=s|p=3|t=fut" head="0" dep="root">ajoutera</word>
-          <word id="5" lem="éventuellement" postag="ADV" morpho="_" head="4" dep="mod">éventuellement</word>
-          <word id="6" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="8" dep="det">sa</word>
-          <word id="7" lem="nouveau" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">nouvelle</word>
-          <word id="8" lem="peine" postag="NC" morpho="g=f|n=s" head="4" dep="suj">peine</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="ajournement" postag="NC" morpho="g=m|n=s" head="0" dep="_">ajournement</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="peine" postag="NC" morpho="g=f|n=s" head="3" dep="prep">peine</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="placement" postag="NC" morpho="g=m|n=s" head="0" dep="root">placement</word>
-          <word id="3" lem="extérieur" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">extérieur</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="confiscation" postag="NC" morpho="g=f|n=s" head="6" dep="suj">confiscation</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="objet" postag="NC" morpho="g=m|n=p" head="3" dep="prep">objets</word>
-          <word id="5" lem="avoir" postag="VPR" morpho="t=pst" head="6" dep="aux_tps">ayant</word>
-          <word id="6" lem="permettre" postag="VPP" morpho="g=m|t=past" head="0" dep="root">permis</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="réalisation" postag="NC" morpho="g=f|n=s" head="6" dep="obj">réalisation</word>
-          <word id="9" lem="de" postag="P+D" morpho="n=p" head="8" dep="dep">des</word>
-          <word id="10" lem="infraction" postag="NC" morpho="g=f|n=p" head="9" dep="prep">infractions</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -816,8 +193,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -874,8 +251,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:10</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -886,8 +263,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:10</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -938,8 +315,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -950,8 +327,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -962,8 +339,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -974,8 +351,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -986,8 +363,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -998,8 +375,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -1010,8 +387,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -1022,8 +399,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -1129,6 +506,66 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   </annotation>
   <annotation type="2">
     <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
+      <document>Prison.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="1" end="19" id="0" />
+      <text id="0">La peine de prison</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
+      <document>Prison.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="27" end="65" id="0" />
+      <text id="0">coûter cher à la communauté nationale</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
+      <document>Prison.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="67" end="105" id="0" />
+      <text id="0">ne pas remplir le rôle qui était prévu</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
+      <document>Prison.html</document>
+    </metadata>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="108" end="145" id="0" />
+      <text id="0">avoir des effets secondaires négatifs</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
+      <document>Prison.html</document>
+    </metadata>
+    <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
+      <span begin="20" end="24" id="0" />
+      <text id="0">peut</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:51</date>
@@ -1226,8 +663,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1240,8 +677,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1254,8 +691,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1271,8 +708,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1368,8 +805,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:10</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1382,8 +819,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:10</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1396,8 +833,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:10</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1413,8 +850,8 @@ la confiscation des objets ayant permis la réalisation des infractions.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:10</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 11:50</date>
       <document>Prison.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">

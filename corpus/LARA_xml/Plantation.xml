@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SE>
@@ -15,129 +15,35 @@ Nombre d'esclaves dans le Sud supérieur : 1208758 (29 % de la population totale
 Nombre d'esclaves dans les Etats frontaliers : 432586 (13 % de la population totale).</text>
       <span begin="2176" end="2566" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="en" postag="P" morpho="_" head="9" dep="mod">En</word>
-        <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">1860</word>
-        <word id="3" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-        <word id="5" lem="personne" postag="NC" morpho="g=f|n=s" head="9" dep="suj">personne</word>
-        <word id="6" lem="sur" postag="P" morpho="_" head="5" dep="dep">sur</word>
-        <word id="7" lem="deux" postag="NC" morpho="g=m" head="6" dep="prep">quatre</word>
-        <word id="8" lem="famille" postag="NC" morpho="g=f|n=p" head="7" dep="mod">familles</word>
-        <word id="9" lem="être" postag="V" morpho="n=s|p=3|t=imp" head="0" dep="root">était</word>
-        <word id="10" lem="propriétaire" postag="NC" morpho="n=s" head="9" dep="ats">propriétaire</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">d'</word>
-        <word id="12" lem="esclave" postag="NC" morpho="n=p" head="11" dep="prep">esclaves</word>
-        <word id="13" lem="en" postag="P" morpho="_" head="9" dep="mod">en</word>
-        <word id="14" lem="Virginie" postag="NPP" morpho="g=f|n=s" head="13" dep="prep">Virginie</word>
-        <word id="15" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="chiffre" postag="NC" morpho="g=m|n=p" head="6" dep="suj">chiffres</word>
-        <word id="3" lem="citer" postag="VPP" morpho="g=m|n=p|t=past" head="2" dep="mod">cités</word>
-        <word id="4" lem="ici" postag="ADV" morpho="_" head="3" dep="mod">ici</word>
-        <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="aux_pass">sont</word>
-        <word id="6" lem="tirer" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">tirés</word>
-        <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="de_obj">du</word>
-        <word id="8" lem="recensement" postag="NC" morpho="g=m|n=s" head="7" dep="prep">recensement</word>
-        <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-        <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">1860</word>
-        <word id="11" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="nombre" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nombre</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="esclave" postag="NC" morpho="n=p" head="2" dep="prep">esclaves</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="prep">Sud</word>
-          <word id="7" lem="profond" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">profond</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="9" lem="#NUM#" postag="DET" morpho="n=p" head="12" dep="det">2312352</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="11" lem="#NUM#" postag="DET" morpho="n=p" head="12" dep="det">47</word>
-          <word id="12" lem="%" postag="NC" morpho="g=m" head="0" dep="_">%</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="population" postag="NC" morpho="g=f|n=s" head="13" dep="prep">population</word>
-          <word id="16" lem="total" postag="ADJ" morpho="g=f|n=s" head="15" dep="mod">totale</word>
-          <word id="17" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="nombre" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nombre</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="esclave" postag="NC" morpho="n=p" head="2" dep="prep">esclaves</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="prep">Sud</word>
-          <word id="7" lem="supérieur" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">supérieur</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="9" lem="#NUM#" postag="DET" morpho="n=p" head="12" dep="det">1208758</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="11" lem="#NUM#" postag="DET" morpho="n=p" head="12" dep="det">29</word>
-          <word id="12" lem="%" postag="NC" morpho="g=m" head="0" dep="_">%</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="population" postag="NC" morpho="g=f|n=s" head="13" dep="prep">population</word>
-          <word id="16" lem="total" postag="ADJ" morpho="g=f|n=s" head="15" dep="mod">totale</word>
-          <word id="17" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="nombre" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nombre</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="esclave" postag="NC" morpho="n=p" head="2" dep="prep">esclaves</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="prep">Etats</word>
-          <word id="7" lem="frontalier" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">frontaliers</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="9" lem="#NUM#" postag="DET" morpho="n=p" head="12" dep="det">432586</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="11" lem="#NUM#" postag="DET" morpho="n=p" head="12" dep="det">13</word>
-          <word id="12" lem="%" postag="NC" morpho="g=m" head="0" dep="_">%</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="population" postag="NC" morpho="g=f|n=s" head="13" dep="prep">population</word>
-          <word id="16" lem="total" postag="ADJ" morpho="g=f|n=s" head="15" dep="mod">totale</word>
-          <word id="17" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -148,8 +54,8 @@ Nombre d'esclaves dans les Etats frontaliers : 432586 (13 % de la population tot
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -164,8 +70,8 @@ Nombre d'esclaves dans les Etats frontaliers : 432586 (13 % de la population tot
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
@@ -176,8 +82,8 @@ Nombre d'esclaves dans les Etats frontaliers : 432586 (13 % de la population tot
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
@@ -188,8 +94,8 @@ Nombre d'esclaves dans les Etats frontaliers : 432586 (13 % de la population tot
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="2">
@@ -200,8 +106,8 @@ Nombre d'esclaves dans les Etats frontaliers : 432586 (13 % de la population tot
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -214,8 +120,8 @@ Nombre d'esclaves dans les Etats frontaliers : 432586 (13 % de la population tot
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -228,8 +134,8 @@ Nombre d'esclaves dans les Etats frontaliers : 432586 (13 % de la population tot
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -245,8 +151,8 @@ Nombre d'esclaves dans les Etats frontaliers : 432586 (13 % de la population tot
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plantation.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

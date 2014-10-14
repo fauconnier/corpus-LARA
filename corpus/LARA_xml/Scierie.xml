@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SE>
@@ -15,95 +15,35 @@ une ou plusieurs lignes de sciage assurant la découpe des bois et le tri des pr
 un parc à sciages où sont rangés et entreposés les planches et autres produits.</text>
       <span begin="827" end="1082" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-        <word id="2" lem="scierie" postag="NC" morpho="g=f|n=s" head="3" dep="suj">scierie</word>
-        <word id="3" lem="comprendre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">comprend</word>
-        <word id="4" lem="principalement" postag="ADV" morpho="_" head="3" dep="mod">principalement</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=s" head="0" dep="root">parc</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="grume" postag="NC" morpho="g=f|n=p" head="3" dep="prep">grumes</word>
-          <word id="5" lem="où" postag="PROREL" morpho="_" head="7" dep="mod">où</word>
-          <word id="6" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="7" dep="aux_pass">sont</word>
-          <word id="7" lem="stocker" postag="VPP" morpho="g=m|n=p|t=past" head="2" dep="mod_rel">stockés</word>
-          <word id="8" lem="de" postag="P+D" morpho="n=p" head="7" dep="de_obj">des</word>
-          <word id="9" lem="bois" postag="NC" morpho="g=m" head="8" dep="prep">bois</word>
-          <word id="10" lem="brut" postag="ADJ" morpho="g=m|n=p" head="9" dep="mod">bruts</word>
-          <word id="11" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="0" dep="_">une</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="plusieurs" postag="DET" morpho="n=p" head="4" dep="det">plusieurs</word>
-          <word id="4" lem="ligne" postag="NC" morpho="g=f|n=p" head="2" dep="dep_coord">lignes</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="sciage" postag="NC" morpho="g=m|n=s" head="5" dep="prep">sciage</word>
-          <word id="7" lem="assurer" postag="VPR" morpho="t=pst" head="4" dep="mod">assurant</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="découpe" postag="NC" morpho="g=f|n=s" head="7" dep="obj">découpe</word>
-          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="11" lem="bois" postag="NC" morpho="g=m" head="10" dep="prep">bois</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
-          <word id="14" lem="tri" postag="NC" morpho="g=m|n=s" head="12" dep="dep_coord">tri</word>
-          <word id="15" lem="de" postag="P+D" morpho="n=p" head="14" dep="dep">des</word>
-          <word id="16" lem="produit" postag="NC" morpho="g=m|n=p" head="15" dep="prep">produits</word>
-          <word id="17" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=s" head="0" dep="root">parc</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="sciage" postag="NC" morpho="g=m|n=p" head="3" dep="prep">sciages</word>
-          <word id="5" lem="où" postag="PROREL" morpho="_" head="7" dep="suj">où</word>
-          <word id="6" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="7" dep="aux_pass">sont</word>
-          <word id="7" lem="ranger" postag="VPP" morpho="g=m|n=p|t=past" head="2" dep="mod_rel">rangés</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="9" lem="entreposer" postag="VPP" morpho="g=m|n=p|t=past" head="8" dep="dep_coord">entreposés</word>
-          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-          <word id="11" lem="planche" postag="NC" morpho="g=f|n=p" head="9" dep="mod">planches</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
-          <word id="13" lem="autres" postag="ADJ" morpho="n=p" head="14" dep="mod">autres</word>
-          <word id="14" lem="produit" postag="NC" morpho="g=m|n=p" head="12" dep="dep_coord">produits</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -114,8 +54,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -130,8 +70,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -142,8 +82,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -154,8 +94,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -166,8 +106,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -178,8 +118,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -190,8 +130,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -204,8 +144,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -218,8 +158,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -235,8 +175,8 @@ un parc à sciages où sont rangés et entreposés les planches et autres produi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Scierie.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SE>
@@ -14,13 +14,13 @@ Dion-le-Val  est un village de la commune belge de Chaumont-Gistoux située en
 Houtain-le-Val est une section de la ville belge de Genappe située en Région wallonne.</text>
       <span begin="73" end="263" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SE>
@@ -110,7 +110,7 @@ Le Dormeur du val  est un sonnet en alexandrins d'Arthur Rimbaud.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SE>
@@ -125,8 +125,8 @@ Philippe Val, un chroniqueur français,</text>
   <annotation type="1">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SE>
@@ -142,695 +142,83 @@ Abréviation de la valine, un acide aminé</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Belgique</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Dion-le-Val</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod"> est</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="village" postag="NC" morpho="g=m|n=s" head="1" dep="mod">village</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="commune" postag="NC" morpho="g=f|n=s" head="5" dep="prep">commune</word>
-          <word id="8" lem="belge" postag="ADJ" morpho="n=s" head="7" dep="mod">belge</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Chaumont-Gistoux</word>
-          <word id="11" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">située</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">Région</word>
-          <word id="14" lem="wallon" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">wallonne</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Houtain-le-Val</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="section" postag="NC" morpho="g=f|n=s" head="2" dep="ats">section</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="ville" postag="NC" morpho="g=f|n=s" head="5" dep="prep">ville</word>
-          <word id="8" lem="belge" postag="ADJ" morpho="n=s" head="7" dep="mod">belge</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Genappe</word>
-          <word id="11" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">située</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">Région</word>
-          <word id="14" lem="wallon" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">wallonne</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="abbaye" postag="NC" morpho="g=f|n=s" head="5" dep="suj">Abbaye</word>
-          <word id="2" lem="Notre-Dame" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Notre-Dame</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="4" lem="Val" postag="NPP" morpho="n=s" head="3" dep="prep">Val</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="abbaye" postag="NC" morpho="g=f|n=s" head="5" dep="ats">abbaye</word>
-          <word id="8" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">située</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="a_obj">à</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Mériel</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="5" dep="suj">Abbaye</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Val-Dieu</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="abbaye" postag="NC" morpho="g=f|n=s" head="5" dep="ats">abbaye</word>
-          <word id="8" lem="belge" postag="ADJ" morpho="n=s" head="7" dep="mod">belge</word>
-          <word id="9" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">située</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="9" dep="a_obj">à</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Aubel</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="5" dep="suj">Abbaye</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Val-de-Gif</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
-          <word id="7" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">ancienne</word>
-          <word id="8" lem="abbaye" postag="NC" morpho="g=f|n=s" head="5" dep="ats">abbaye</word>
-          <word id="9" lem="bénédictin" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">bénédictine</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="11" lem="Gif-sur-Yvette" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Gif-sur-Yvette</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Adelans-et-le-Val-de-Bithaine</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Haute-Saône" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Haute-Saône</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="2" dep="suj">Fourneaux-le-Val</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="7" lem="Calvados" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Calvados</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="7" dep="suj">Gare</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="Val" postag="NPP" morpho="n=s" head="3" dep="prep">Val</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Or </word>
-          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="9" lem="gare" postag="NC" morpho="g=f|n=s" head="7" dep="ats">gare</word>
-          <word id="10" lem="ferroviaire" postag="ADJ" morpho="n=s" head="9" dep="mod">ferroviaire</word>
-          <word id="11" lem="français" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">française</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="7" dep="suj">Gare</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="Val" postag="NPP" morpho="n=s" head="3" dep="prep">Val</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="Fontenay" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Fontenay</word>
-          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="9" lem="gare" postag="NC" morpho="g=f|n=s" head="7" dep="ats">gare</word>
-          <word id="10" lem="ferroviaire" postag="ADJ" morpho="n=s" head="9" dep="mod">ferroviaire</word>
-          <word id="11" lem="français" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">française</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Hôpital</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="instruction" postag="NC" morpho="g=f|n=s" head="3" dep="prep">instruction</word>
-          <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-          <word id="6" lem="armée" postag="NC" morpho="g=f|n=p" head="5" dep="prep">armées</word>
-          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="7" dep="prep">Val-de-Grâce</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Val" postag="NPP" morpho="n=s" head="3" dep="suj">Val</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">française</word>
-          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="8" lem="Var" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Var</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Val-d'Ajol</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">française</word>
-          <word id="7" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-          <word id="8" lem="Vosges" postag="NPP" morpho="g=f|n=p" head="7" dep="prep">Vosges</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="4" dep="suj">Val-David</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod"> </word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=s" head="4" dep="ats">commune</word>
-          <word id="7" lem="français" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">française</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="Eure" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Eure</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Val-de-Gouhenans</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">française</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Haute-Saône" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Haute-Saône</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Val-de-Guéblange</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">française</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Moselle</word>
-        </sentence>
-      </item>
-      <item id="13">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Val-de-Meuse" postag="NPP" morpho="g=m|n=s" head="3" dep="suj">Val-de-Meuse</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-          <word id="5" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">ancienne</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Haute-Marne" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Haute-Marne</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="14">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Val-de-Meuse" postag="NPP" morpho="g=m|n=s" head="3" dep="suj">Val-de-Meuse</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-          <word id="5" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">ancienne</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Haute-Marne" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Haute-Marne</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Val-d'Esnoms</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">française</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Haute-Marne" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Haute-Marne</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="15">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Val" postag="NPP" morpho="n=s" head="4" dep="suj">Val</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Fourré</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-          <word id="6" lem="zone" postag="NC" morpho="g=f|n=s" head="4" dep="ats">zone</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
-          <word id="8" lem="urbaniser" postag="VINF" morpho="_" head="7" dep="prep">urbaniser</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="8" dep="mod">en</word>
-          <word id="10" lem="priorité" postag="NC" morpho="g=f|n=s" head="9" dep="prep">priorité</word>
-          <word id="11" lem="sur" postag="P" morpho="_" head="8" dep="mod">sur</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="commune" postag="NC" morpho="g=f|n=s" head="11" dep="prep">commune</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="Mantes-la-Jolie" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">Mantes-la-Jolie</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="16">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Val-Saint-Éloi</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">française</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Haute-Saône" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Haute-Saône</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="17">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Val-Saint-Germain</word>
-          <word id="3" lem="_" postag="V" morpho="_" head="0" dep="root"> est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="obj">commune</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Française</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Essonne" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Essonne</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="18">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Val-Saint-Père</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">française</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Manche" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Manche</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="19">
-        <sentence id="1">
-          <word id="1" lem="Osne-le-Val" postag="NPP" morpho="g=m|n=s" head="2" dep="suj">Osne-le-Val</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Haute-Marne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Haute-Marne</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="20">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Pléneuf-Val-André</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod"> </word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="3" dep="ats">commune</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">française</word>
-          <word id="7" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-          <word id="8" lem="Côtes-d'Armor" postag="NPP" morpho="g=f|n=p" head="7" dep="prep">Côtes-d'Armor</word>
-        </sentence>
-      </item>
-      <item id="21">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Saint-Rémy-du-Val</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Sarthe" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Sarthe</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="22">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Sotteville-sous-le-Val </word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Seine-Maritime" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Seine-Maritime</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="23">
-        <sentence id="1">
-          <word id="1" lem="Tracy-le-Val" postag="NPP" morpho="g=m|n=s" head="2" dep="suj">Tracy-le-Val</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="Oise" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Oise</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="24">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Val-et-Forêt</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="communauté" postag="NC" morpho="g=f|n=s" head="1" dep="mod">communauté</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="agglomération" postag="NC" morpho="g=f|n=p" head="5" dep="prep">agglomérations</word>
-          <word id="7" lem="regrouper" postag="VPR" morpho="t=pst" head="6" dep="mod">regroupant</word>
-          <word id="8" lem="plusieurs" postag="DET" morpho="n=p" head="9" dep="det">plusieurs</word>
-          <word id="9" lem="commune" postag="NC" morpho="g=f|n=p" head="7" dep="obj">communes</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="11" lem="Val-d'Oise" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Val-d'Oise</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="25">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-Joly</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="lac" postag="NC" morpho="g=m|n=s" head="2" dep="ats">lac</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="6" lem="Nord-Pas-de-Calais" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Nord-Pas-de-Calais</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="26">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Bride</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="7" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="4" dep="mod">située</word>
-          <word id="8" lem="dans" postag="P" morpho="_" head="7" dep="mod">dans</word>
-          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-          <word id="10" lem="département" postag="NC" morpho="g=m|n=s" head="8" dep="prep">département</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="11" dep="prep">Moselle</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="27">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Chalvagne</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-          <word id="7" lem="Alpes-de-Haute-Provence" postag="NPP" morpho="g=f|n=p" head="6" dep="prep">Alpes-de-Haute-Provence</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="28">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj"> Val-de-Fier</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="région" postag="NC" morpho="g=f|n=s" head="6" dep="prep">région</word>
-          <word id="9" lem="Rhône-Alpes" postag="NPP" morpho="g=m|n=s" head="8" dep="mod">Rhône-Alpes</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="29">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Val" postag="NPP" morpho="n=s" head="5" dep="suj">Val</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Loire" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Loire</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="région" postag="NC" morpho="g=f|n=s" head="5" dep="ats">région</word>
-          <word id="8" lem="naturel" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">naturelle</word>
-          <word id="9" lem="français" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">française</word>
-          <word id="10" lem="correspondant" postag="NC" morpho="g=m|n=s" head="7" dep="mod">correspondant</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="10" dep="dep">à</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="partie" postag="NC" morpho="g=f|n=s" head="11" dep="prep">partie</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-          <word id="16" lem="vallée" postag="NC" morpho="g=f|n=s" head="14" dep="prep">vallée</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
-          <word id="19" lem="Loire" postag="NPP" morpho="g=f|n=s" head="17" dep="prep">Loire</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="30">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Val-de-Marne‎</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="département" postag="NC" morpho="g=m|n=s" head="3" dep="ats">département</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=m" head="5" dep="mod">français</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="31">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Meuse</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Haute-Marne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Haute-Marne</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="32">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Mercy</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="Yonne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Yonne</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="33">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Reuil</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="Eure" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Eure</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="34">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Roulans</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="mod">ent</word>
-          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="8" lem="Doubs" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Doubs</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="35">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Saâne</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Seine-Maritime" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Seine-Maritime</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="36">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Val" postag="NPP" morpho="n=s" head="5" dep="suj">Val</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Saône</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="région" postag="NC" morpho="g=f|n=s" head="5" dep="ats">région</word>
-          <word id="8" lem="naturel" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">naturelle</word>
-          <word id="9" lem="français" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">française</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="37">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Vesle</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Marne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Marne</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="38">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Vière</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="7" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="4" dep="mod">située</word>
-          <word id="8" lem="dans" postag="P" morpho="_" head="7" dep="mod">dans</word>
-          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-          <word id="10" lem="département" postag="NC" morpho="g=m|n=s" head="8" dep="prep">département</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="Marne" postag="NPP" morpho="g=f|n=s" head="11" dep="prep">Marne</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="39">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Val" postag="NPP" morpho="n=s" head="5" dep="suj">Val</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="Oise" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Oise</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="département" postag="NC" morpho="g=m|n=s" head="5" dep="ats">département</word>
-          <word id="8" lem="français" postag="ADJ" morpho="g=m" head="7" dep="mod">français</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="40">
-        <sentence id="1">
-          <word id="1" lem="val" postag="NC" morpho="g=m|n=s" head="4" dep="suj">Val</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Osne</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="écart" postag="NC" morpho="g=m|n=s" head="4" dep="ats">écart</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="commune" postag="NC" morpho="g=f|n=s" head="7" dep="prep">commune</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="Osne-le-Val" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Osne-le-Val</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="6" dep="dep">en</word>
-          <word id="13" lem="Haute-Marne" postag="NPP" morpho="g=f|n=s" head="12" dep="prep">Haute-Marne</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="41">
-        <sentence id="1">
-          <word id="1" lem="Vyans-le-Val" postag="NPP" morpho="g=m|n=s" head="2" dep="suj">Vyans-le-Val</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Haute-Saône" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Haute-Saône</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
+      <item id="13" />
+      <item id="14" />
+      <item id="15" />
+      <item id="16" />
+      <item id="17" />
+      <item id="18" />
+      <item id="19" />
+      <item id="20" />
+      <item id="21" />
+      <item id="22" />
+      <item id="23" />
+      <item id="24" />
+      <item id="25" />
+      <item id="26" />
+      <item id="27" />
+      <item id="28" />
+      <item id="29" />
+      <item id="30" />
+      <item id="31" />
+      <item id="32" />
+      <item id="33" />
+      <item id="34" />
+      <item id="35" />
+      <item id="36" />
+      <item id="37" />
+      <item id="38" />
+      <item id="39" />
+      <item id="40" />
+      <item id="41" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -840,11 +228,7 @@ Abréviation de la valine, un acide aminé</text>
       <date>1/01/13 18:54</date>
       <document>Val.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="autres" postag="ADJ" morpho="n=p" head="0" dep="_">Autres</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -854,72 +238,10 @@ Abréviation de la valine, un acide aminé</text>
       <document>Val.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Val-Saint-François</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="municipalité" postag="NC" morpho="g=f|n=s" head="3" dep="ats">municipalité</word>
-          <word id="6" lem="régional" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">régionale</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="comté" postag="NC" morpho="g=m|n=s" head="7" dep="prep">comté</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="province" postag="NC" morpho="g=f|n=s" head="9" dep="prep">province</word>
-          <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">du</word>
-          <word id="13" lem="Québec" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Québec</word>
-          <word id="14" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
-          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-          <word id="16" lem="région" postag="NC" morpho="g=f|n=s" head="14" dep="prep">région</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="18" lem="l'" postag="DET" morpho="n=s" head="19" dep="det">l'</word>
-          <word id="19" lem="_" postag="NPP" morpho="_" head="17" dep="prep">Estrie</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="val" postag="NC" morpho="g=m|n=s" head="0" dep="_">Val</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="localité" postag="NC" morpho="g=f|n=s" head="1" dep="mod">localité</word>
-          <word id="4" lem="néerlandais" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">néerlandaise</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="commune" postag="NC" morpho="g=f|n=s" head="5" dep="prep">commune</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Terneuzen</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Vál</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="hongrois" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">hongroise</word>
-          <word id="6" lem="dans" postag="P" morpho="_" head="2" dep="mod">dans</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-          <word id="8" lem="comté" postag="NC" morpho="g=m|n=s" head="6" dep="prep">comté</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Fejér</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">Val-de-Travers</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="ats">commune</word>
-          <word id="5" lem="suisse" postag="ADJ" morpho="n=s" head="4" dep="mod">suisse</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="7" lem="canton" postag="NC" morpho="g=m|n=s" head="6" dep="prep">canton</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Neuchâtel</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -929,11 +251,7 @@ Abréviation de la valine, un acide aminé</text>
       <date>1/01/13 15:44</date>
       <document>Val.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="culture" postag="NC" morpho="g=f|n=s" head="0" dep="_">Culture</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -943,177 +261,58 @@ Abréviation de la valine, un acide aminé</text>
       <document>Val.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Val" postag="NPP" morpho="n=s" head="5" dep="suj">Val</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="enfer" postag="NC" morpho="g=m|n=s" head="3" dep="prep">enfer</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="film" postag="NC" morpho="g=m|n=s" head="5" dep="ats">film</word>
-          <word id="8" lem="français" postag="ADJ" morpho="g=m" head="7" dep="mod">français</word>
-          <word id="9" lem="réaliser" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod">réalisé</word>
-          <word id="10" lem="par" postag="P" morpho="_" head="9" dep="p_obj">par</word>
-          <word id="11" lem="Maurice" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Maurice</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Tourneur</word>
-          <word id="13" lem="en" postag="P" morpho="_" head="9" dep="mod">en</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="13" dep="prep">1943</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="5" dep="suj">Dormeur</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">val </word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="sonnet" postag="NC" morpho="g=m|n=s" head="5" dep="ats">sonnet</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="7" dep="dep">en</word>
-          <word id="9" lem="alexandrin" postag="NC" morpho="g=m|n=p" head="8" dep="prep">alexandrins</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-          <word id="11" lem="Arthur" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Arthur</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Rimbaud</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="personne" postag="NC" morpho="g=f|n=p" head="0" dep="_">Personnes</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="prénom" postag="NC" morpho="g=m|n=s" head="0" dep="_">prénom</word>
-          <word id="3" lem="albanais" postag="ADJ" morpho="g=m" head="2" dep="mod">albanais</word>
-          <word id="4" lem="masculin" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">masculin</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Philippe" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Philippe</word>
-          <word id="2" lem="Val" postag="NPP" morpho="n=s" head="1" dep="mod">Val</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="chroniqueur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">chroniqueur</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=m" head="5" dep="mod">français</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="code" postag="NC" morpho="g=m|n=p" head="0" dep="_">Codes</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="5" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="val" postag="NC" morpho="g=m|n=s" head="2" dep="suj">VAL</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="code" postag="NC" morpho="g=m|n=s" head="2" dep="ats">code</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="6" lem="qui" postag="PROREL" morpho="n=s" head="7" dep="suj">qui</word>
-          <word id="7" lem="signifier" postag="V" morpho="n=s|p=13|t=pst" head="4" dep="mod_rel">signifie</word>
-          <word id="8" lem="Lire" postag="NPP" morpho="g=m|n=s" head="7" dep="obj">Lire</word>
-          <word id="9" lem="vaticane" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">vaticane</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
-          <word id="12" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">ancienne</word>
-          <word id="13" lem="monnaie" postag="NC" morpho="g=f|n=s" head="2" dep="ats">monnaie</word>
-          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
-          <word id="15" lem="Vatican" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">Vatican</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="17" lem="selon" postag="P" morpho="_" head="2" dep="mod">selon</word>
-          <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
-          <word id="19" lem="norme" postag="NC" morpho="g=f|n=s" head="17" dep="prep">norme</word>
-          <word id="20" lem="_" postag="NPP" morpho="_" head="19" dep="mod">ISO</word>
-          <word id="21" lem="_" postag="NC" morpho="_" head="19" dep="mod">4217</word>
-          <word id="22" lem="(" postag="PONCT" morpho="_" head="19" dep="ponct">(</word>
-          <word id="23" lem="liste" postag="NC" morpho="g=f|n=s" head="19" dep="mod">liste</word>
-          <word id="24" lem="de" postag="P+D" morpho="n=p" head="23" dep="dep">des</word>
-          <word id="25" lem="code" postag="NC" morpho="g=m|n=p" head="24" dep="prep">codes</word>
-          <word id="26" lem="de" postag="P+D" morpho="n=p" head="25" dep="dep">des</word>
-          <word id="27" lem="monnaie" postag="NC" morpho="g=f|n=p" head="26" dep="prep">monnaies</word>
-          <word id="28" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="29" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="val" postag="NC" morpho="g=m|n=s" head="0" dep="_">Val</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">nom</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="code" postag="NC" morpho="g=m|n=s" head="5" dep="prep">code</word>
-          <word id="7" lem="allier" postag="ADJ" morpho="g=m|n=s|t=past" head="6" dep="mod">allié</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="avion" postag="NC" morpho="g=m|n=s" head="8" dep="prep">avion</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Aichi</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="mod">D3A</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="abréviation" postag="NC" morpho="g=f|n=s" head="0" dep="_">Abréviation</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="valine" postag="NC" morpho="g=f|n=s" head="2" dep="prep">valine</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="acide" postag="NC" morpho="g=m|n=s" head="0" dep="_">acide</word>
-          <word id="8" lem="aminer" postag="ADJ" morpho="g=m|n=s|t=past" head="7" dep="mod">aminé</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -1124,8 +323,8 @@ Abréviation de la valine, un acide aminé</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -1138,8 +337,8 @@ Abréviation de la valine, un acide aminé</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -1150,8 +349,8 @@ Abréviation de la valine, un acide aminé</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -1302,7 +501,7 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="primer" idSE="4">
@@ -1314,7 +513,7 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="items" idSE="4">
@@ -1327,8 +526,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="primer" idSE="5">
@@ -1339,8 +538,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="items" idSE="5">
@@ -1355,8 +554,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -1367,8 +566,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1379,8 +578,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
@@ -1391,8 +590,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -1403,8 +602,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -1415,8 +614,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -1427,8 +626,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -1439,8 +638,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="4">
@@ -1451,8 +650,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="5">
@@ -1463,8 +662,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="6">
@@ -1475,8 +674,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="7">
@@ -1487,8 +686,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="8">
@@ -1499,8 +698,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="9">
@@ -1511,8 +710,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="10">
@@ -1523,8 +722,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="11">
@@ -1535,8 +734,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="12">
@@ -1547,8 +746,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="13">
@@ -1559,8 +758,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="14">
@@ -1571,8 +770,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="15">
@@ -1583,8 +782,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="16">
@@ -1595,8 +794,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="17">
@@ -1607,8 +806,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="18">
@@ -1619,8 +818,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="19">
@@ -1631,8 +830,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="20">
@@ -1643,8 +842,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="21">
@@ -1655,8 +854,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="22">
@@ -1667,8 +866,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="23">
@@ -1679,8 +878,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="24">
@@ -1691,8 +890,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="25">
@@ -1703,8 +902,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="26">
@@ -1715,8 +914,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="27">
@@ -1727,8 +926,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="28">
@@ -1739,8 +938,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="29">
@@ -1751,8 +950,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="30">
@@ -1763,8 +962,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="31">
@@ -1775,8 +974,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="32">
@@ -1787,8 +986,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="33">
@@ -1799,8 +998,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="34">
@@ -1811,8 +1010,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="35">
@@ -1823,8 +1022,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="36">
@@ -1835,8 +1034,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="37">
@@ -1847,8 +1046,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="38">
@@ -1859,8 +1058,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="39">
@@ -1871,8 +1070,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="40">
@@ -1883,8 +1082,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="41">
@@ -1895,8 +1094,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -1992,7 +1191,7 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="0">
@@ -2004,7 +1203,7 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="1">
@@ -2016,7 +1215,7 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
@@ -2027,32 +1226,32 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="0">
-      <span begin="8" end="11" id="0" />
-      <text id="0">VAL</text>
+      <span begin="19" end="23" id="0" />
+      <text id="0">code</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="1">
-      <span begin="140" end="144" id="0" />
-      <text id="0">Val,</text>
+      <span begin="148" end="186" id="0" />
+      <text id="0">nom de code allié de l'avion Aichi D3A</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="2">
@@ -2063,8 +1262,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -2077,8 +1276,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -2091,8 +1290,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -2108,8 +1307,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -2134,8 +1333,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -2148,8 +1347,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -2162,8 +1361,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -2179,8 +1378,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:32</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:48</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -2348,7 +1547,7 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -2362,7 +1561,7 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -2376,7 +1575,7 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -2393,7 +1592,7 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:49</date>
+      <date>8/01/13 14:49</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
@@ -2418,8 +1617,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="5">
@@ -2432,8 +1631,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="5">
@@ -2446,8 +1645,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="5">
@@ -2463,8 +1662,8 @@ Le Val-d'Esnoms est une commune française de la Haute-Marne.</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:33</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 15:45</date>
       <document>Val.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="5">

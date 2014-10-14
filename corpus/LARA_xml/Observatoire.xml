@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SE>
@@ -26,302 +26,45 @@ Observatoire de l'alimentation (en France par exemple)
 L'attentat de l'Observatoire est un attentat qui aurait été mené contre François Mitterrand en 1959.</text>
       <span begin="3" end="1350" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="observatoire" postag="NC" morpho="g=m|n=s" head="0" dep="root">Observatoire</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="observatoire" postag="NC" morpho="g=m|n=s" head="3" dep="suj">observatoire</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="lieu" postag="NC" morpho="g=m|n=s" head="3" dep="ats">lieu</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="observation" postag="NC" morpho="g=f|n=s" head="6" dep="prep">observation</word>
-          <word id="8" lem="utiliser" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">utilisé</word>
-          <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
-          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-          <word id="11" lem="touriste" postag="NC" morpho="n=p" head="9" dep="prep">touristes</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="11" dep="coord">,</word>
-          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
-          <word id="14" lem="militaire" postag="NC" morpho="g=m|n=p" head="12" dep="dep_coord">militaires</word>
-          <word id="15" lem="ou" postag="CC" morpho="_" head="11" dep="coord">ou</word>
-          <word id="16" lem="les" postag="DET" morpho="n=p" head="17" dep="det">les</word>
-          <word id="17" lem="chasseur" postag="NC" morpho="g=m|n=p" head="15" dep="dep_coord">chasseurs</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="observatoire" postag="NC" morpho="g=m|n=s" head="3" dep="suj">observatoire</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="organisme" postag="NC" morpho="g=m|n=s" head="3" dep="ats">organisme</word>
-          <word id="6" lem="administratif" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">administratif</word>
-          <word id="7" lem="créer" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">créé</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
-          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
-          <word id="10" lem="collectivité" postag="NC" morpho="g=f|n=s" head="8" dep="prep">collectivité</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-          <word id="12" lem="généralement" postag="ADV" morpho="_" head="10" dep="mod">généralement</word>
-          <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
-          <word id="14" lem="État" postag="NC" morpho="g=m|n=s" head="10" dep="mod">État</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="16" lem="pour" postag="P" morpho="_" head="7" dep="mod">pour</word>
-          <word id="17" lem="suivre" postag="VINF" morpho="_" head="16" dep="prep">suivre</word>
-          <word id="18" lem="l'" postag="DET" morpho="n=s" head="19" dep="det">l'</word>
-          <word id="19" lem="évolution" postag="NC" morpho="g=f|n=s" head="17" dep="obj">évolution</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
-          <word id="21" lem="un" postag="DET" morpho="g=m|n=s" head="22" dep="det">un</word>
-          <word id="22" lem="phénomène" postag="NC" morpho="g=m|n=s" head="20" dep="prep">phénomène</word>
-          <word id="23" lem="économique" postag="ADJ" morpho="n=s" head="22" dep="mod">économique</word>
-          <word id="24" lem="ou" postag="CC" morpho="_" head="23" dep="coord">ou</word>
-          <word id="25" lem="social" postag="ADJ" morpho="g=m|n=s" head="24" dep="dep_coord">social</word>
-          <word id="26" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="observatoire" postag="NC" morpho="g=m|n=s" head="4" dep="suj">observatoire</word>
-          <word id="3" lem="astronomique" postag="ADJ" morpho="n=s" head="2" dep="mod">astronomique</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="lieu" postag="NC" morpho="g=m|n=s" head="4" dep="ats">lieu</word>
-          <word id="7" lem="doter" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">doté</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">d'</word>
-          <word id="9" lem="instrument" postag="NC" morpho="g=m|n=p" head="8" dep="prep">instruments</word>
-          <word id="10" lem="scientifique" postag="ADJ" morpho="n=p" head="9" dep="mod">scientifiques</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">destiné</word>
-          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
-          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="13" dep="prep">observationastronomique</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="observatoire" postag="NC" morpho="g=m|n=s" head="4" dep="suj">observatoire</word>
-          <word id="3" lem="météorologique" postag="ADJ" morpho="n=s" head="2" dep="mod">météorologique</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="lieu" postag="NC" morpho="g=m|n=s" head="4" dep="ats">lieu</word>
-          <word id="7" lem="doter" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">doté</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">d'</word>
-          <word id="9" lem="instrument" postag="NC" morpho="g=m|n=p" head="8" dep="prep">instruments</word>
-          <word id="10" lem="scientifique" postag="ADJ" morpho="n=p" head="9" dep="mod">scientifiques</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">destiné</word>
-          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
-          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
-          <word id="15" lem="observation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">observation</word>
-          <word id="16" lem="météorologique" postag="ADJ" morpho="n=s" head="15" dep="mod">météorologique</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="observatoire" postag="NC" morpho="g=m|n=s" head="4" dep="suj">observatoire</word>
-          <word id="3" lem="océanographique" postag="ADJ" morpho="n=s" head="2" dep="mod">océanographique</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="lieu" postag="NC" morpho="g=m|n=s" head="4" dep="ats">lieu</word>
-          <word id="7" lem="doter" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">doté</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">d'</word>
-          <word id="9" lem="instrument" postag="NC" morpho="g=m|n=p" head="8" dep="prep">instruments</word>
-          <word id="10" lem="scientifique" postag="ADJ" morpho="n=p" head="9" dep="mod">scientifiques</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">destiné</word>
-          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
-          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
-          <word id="15" lem="observation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">observation</word>
-          <word id="16" lem="océanographique" postag="ADJ" morpho="n=s" head="15" dep="mod">océanographique</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="observatoire" postag="NC" morpho="g=m|n=s" head="4" dep="suj">observatoire</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">volcanologique</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="lieu" postag="NC" morpho="g=m|n=s" head="4" dep="ats">lieu</word>
-          <word id="7" lem="doter" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">doté</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">d'</word>
-          <word id="9" lem="instrument" postag="NC" morpho="g=m|n=p" head="8" dep="prep">instruments</word>
-          <word id="10" lem="scientifique" postag="ADJ" morpho="n=p" head="9" dep="mod">scientifiques</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">destiné</word>
-          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
-          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
-          <word id="15" lem="observation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">observation</word>
-          <word id="16" lem="_" postag="ADJ" morpho="_" head="15" dep="mod">volcanologique</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="observatoire" postag="NC" morpho="g=m|n=s" head="4" dep="suj">observatoire</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">sous-marin</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="lieu" postag="NC" morpho="g=m|n=s" head="4" dep="ats">lieu</word>
-          <word id="7" lem="public" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">public</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="9" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">destiné</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="9" dep="a_obj">à</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-          <word id="12" lem="observation" postag="NC" morpho="g=f|n=s" head="10" dep="prep">observation</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="biologie" postag="NC" morpho="g=f|n=s" head="13" dep="prep">biologie</word>
-          <word id="16" lem="marin" postag="ADJ" morpho="g=f|n=s" head="15" dep="mod">marine</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="observatoire" postag="NC" morpho="g=m|n=s" head="0" dep="root">observatoire</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
-          <word id="5" lem="environnement" postag="NC" morpho="g=m|n=s" head="3" dep="prep">environnement</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">est</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="lieu" postag="NC" morpho="g=m|n=s" head="6" dep="ats">lieu</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="10" lem="éventuellement" postag="ADV" morpho="_" head="11" dep="mod">éventuellement</word>
-          <word id="11" lem="virtuel" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">virtuel</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="14" lem="centralisation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">centralisation</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">d'</word>
-          <word id="16" lem="indicateur" postag="NC" morpho="g=m|n=p" head="15" dep="prep">indicateurs</word>
-          <word id="17" lem="environnemental" postag="ADJ" morpho="g=m|n=p" head="16" dep="mod">environnementaux</word>
-          <word id="18" lem="à" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">au</word>
-          <word id="19" lem="service" postag="NC" morpho="g=m|n=s" head="18" dep="prep">service</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
-          <word id="21" lem="la" postag="DET" morpho="g=f|n=s" head="22" dep="det">la</word>
-          <word id="22" lem="connaissance" postag="NC" morpho="g=f|n=s" head="20" dep="prep">connaissance</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="20" dep="coord">et</word>
-          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep_coord">de</word>
-          <word id="25" lem="la" postag="DET" morpho="g=f|n=s" head="26" dep="det">la</word>
-          <word id="26" lem="protection" postag="NC" morpho="g=f|n=s" head="24" dep="prep">protection</word>
-          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">de</word>
-          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
-          <word id="29" lem="biodiversité" postag="NC" morpho="g=f|n=s" head="27" dep="prep">biodiversité</word>
-          <word id="30" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="observatoire" postag="NC" morpho="g=m|n=s" head="0" dep="root">Observatoire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="énergie" postag="NC" morpho="g=f|n=s" head="2" dep="prep">énergie</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="observatoire" postag="NC" morpho="g=m|n=s" head="0" dep="root">Observatoire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="industrie" postag="NC" morpho="g=f|n=s" head="2" dep="prep">industrie</word>
-          <word id="5" lem="électrique" postag="ADJ" morpho="n=s" head="4" dep="mod">électrique</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="observatoire" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Observatoire</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="nom" postag="NC" morpho="g=m|n=s" head="2" dep="ats">nom</word>
-          <word id="5" lem="officiel" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">officiel</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="7" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">14e</word>
-          <word id="8" lem="arrondissement" postag="NC" morpho="g=m|n=s" head="6" dep="prep">arrondissement</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Paris" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Paris</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="2" dep="mod">en</word>
-          <word id="13" lem="référence" postag="NC" morpho="g=f|n=s" head="12" dep="prep">référence</word>
-          <word id="14" lem="à" postag="P" morpho="_" head="13" dep="dep">à</word>
-          <word id="15" lem="l'" postag="DET" morpho="n=s" head="16" dep="det">l'</word>
-          <word id="16" lem="_" postag="NC" morpho="_" head="14" dep="prep">Observatoire</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="18" lem="Paris" postag="NPP" morpho="g=m|n=s" head="17" dep="prep">Paris</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="observatoire" postag="NC" morpho="g=m|n=s" head="0" dep="root">Observatoire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="alimentation" postag="NC" morpho="g=f|n=s" head="2" dep="prep">alimentation</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="7" lem="France" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">France</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="1" dep="dep">par</word>
-          <word id="9" lem="exemple" postag="NC" morpho="g=m|n=s" head="8" dep="prep">exemple</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="attentat" postag="NC" morpho="g=m|n=s" head="6" dep="suj">attentat</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Observatoire</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="attentat" postag="NC" morpho="g=m|n=s" head="6" dep="ats">attentat</word>
-          <word id="9" lem="qui" postag="PROREL" morpho="n=s" head="12" dep="suj">qui</word>
-          <word id="10" lem="avoir" postag="V" morpho="n=s|p=3|t=cond" head="12" dep="aux_tps">aurait</word>
-          <word id="11" lem="être" postag="VPP" morpho="t=past" head="12" dep="aux_pass">été</word>
-          <word id="12" lem="mener" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="mod_rel">mené</word>
-          <word id="13" lem="contre" postag="P" morpho="_" head="12" dep="mod">contre</word>
-          <word id="14" lem="François" postag="NPP" morpho="g=m|n=s" head="13" dep="prep">François</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Mitterrand</word>
-          <word id="16" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-          <word id="17" lem="_" postag="NC" morpho="_" head="16" dep="prep">1959</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -332,8 +75,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -368,8 +111,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -380,32 +123,32 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
-      <span begin="15" end="31" id="0" />
-      <text id="0">Un observatoire</text>
+      <span begin="35" end="56" id="0" />
+      <text id="0">un lieu d'observation</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
-      <span begin="117" end="132" id="0" />
-      <text id="0">Un observatoire</text>
+      <span begin="137" end="163" id="0" />
+      <text id="0">un organisme administratif</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -416,8 +159,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -428,8 +171,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -440,8 +183,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -452,8 +195,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -464,8 +207,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="7">
@@ -476,8 +219,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="8">
@@ -488,8 +231,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="9">
@@ -500,8 +243,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="10">
@@ -512,8 +255,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="11">
@@ -524,8 +267,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="12">
@@ -536,8 +279,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -550,8 +293,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -564,8 +307,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -581,8 +324,8 @@ L'attentat de l'Observatoire est un attentat qui aurait été mené contre Fran�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Observatoire.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

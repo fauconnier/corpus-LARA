@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SE>
@@ -18,13 +18,13 @@ un temps de prière, généralement spontanée (une ou plusieurs personnes s'adr
 un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
       <span begin="1606" end="2444" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SE>
@@ -38,7 +38,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SE>
@@ -52,7 +52,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SE>
@@ -66,7 +66,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SE>
@@ -80,7 +80,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SE>
@@ -93,538 +93,145 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="dans" postag="P" morpho="_" head="9" dep="mod">Dans</word>
-        <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-        <word id="3" lem="grand" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">grande</word>
-        <word id="4" lem="diversité" postag="NC" morpho="g=f|n=s" head="1" dep="prep">diversité</word>
-        <word id="5" lem="protestant" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">protestante</word>
-        <word id="6" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-        <word id="8" lem="culte" postag="NC" morpho="g=m|n=s" head="9" dep="suj">culte</word>
-        <word id="9" lem="comprendre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">comprend</word>
-        <word id="10" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="9" dep="mod">d'</word>
-        <word id="12" lem="une" postag="DET" morpho="g=f|n=s" head="13" dep="det">une</word>
-        <word id="13" lem="façon" postag="NC" morpho="g=f|n=s" head="11" dep="prep">façon</word>
-        <word id="14" lem="plus_ou_moins" postag="ADV" morpho="_" head="15" dep="mod">plus_ou_moins</word>
-        <word id="15" lem="planifier" postag="VPP" morpho="g=f|n=s|t=past" head="13" dep="mod">planifiée</word>
-        <word id="16" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="17" lem="certain" postag="PRO" morpho="g=m|n=p" head="9" dep="obj">certains</word>
-        <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-        <word id="19" lem="élément" postag="NC" morpho="g=m|n=p" head="18" dep="prep">éléments</word>
-        <word id="20" lem="suivant" postag="ADJ" morpho="g=m|n=p" head="19" dep="mod">suivants</word>
-        <word id="21" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="22" lem="selon" postag="P" morpho="_" head="9" dep="mod">selon</word>
-        <word id="23" lem="les" postag="DET" morpho="n=p" head="24" dep="det">les</word>
-        <word id="24" lem="_" postag="NC" morpho="_" head="22" dep="prep">Églises</word>
-        <word id="25" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="temps" postag="NC" morpho="g=m" head="0" dep="_">temps</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="accueil" postag="NC" morpho="g=m|n=s" head="3" dep="prep">accueil</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="temps" postag="NC" morpho="g=m" head="0" dep="_">temps</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">reconsécration</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Dieu</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="8" lem="repentance" postag="NC" morpho="g=f|n=s" head="6" dep="mod">repentance</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="10" lem="retour" postag="NC" morpho="g=m|n=s" head="6" dep="mod">retour</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="10" dep="dep">à</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Dieu</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="14" lem="conversion" postag="NC" morpho="g=f|n=s" head="6" dep="mod">conversion</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
-          <word id="16" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="temps" postag="NC" morpho="g=m" head="0" dep="_">temps</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="louange" postag="NC" morpho="g=f|n=s" head="3" dep="prep">louange</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="qui" postag="PROREL" morpho="n=s" head="7" dep="suj">qui</word>
-          <word id="7" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="2" dep="mod_rel">peut</word>
-          <word id="8" lem="prendre" postag="VINF" morpho="_" head="7" dep="obj">prendre</word>
-          <word id="9" lem="plusieurs" postag="DET" morpho="n=p" head="10" dep="det">plusieurs</word>
-          <word id="10" lem="forme" postag="NC" morpho="g=f|n=p" head="8" dep="obj">formes</word>
-          <word id="11" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="12" lem="chant" postag="NC" morpho="g=m|n=p" head="0" dep="_">chants</word>
-          <word id="13" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="14" lem="hymne" postag="NC" morpho="n=p" head="12" dep="mod">Hymnes</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
-          <word id="16" lem="louange" postag="NC" morpho="g=f|n=p" head="15" dep="dep_coord">louanges</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="18" lem="gospel" postag="NC" morpho="g=m|n=s" head="12" dep="mod">gospel</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="20" lem="_" postag="ADV" morpho="_" head="12" dep="mod">etc.</word>
-          <word id="21" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="22" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="23" lem="lecture" postag="NC" morpho="g=f|n=s" head="12" dep="mod">lecture</word>
-          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
-          <word id="25" lem="la" postag="DET" morpho="g=f|n=s" head="26" dep="det">la</word>
-          <word id="26" lem="_" postag="NPP" morpho="_" head="24" dep="prep">Bible</word>
-          <word id="27" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="28" lem="témoignage" postag="NC" morpho="g=m|n=p" head="12" dep="mod">témoignages</word>
-          <word id="29" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="30" lem="_" postag="ADV" morpho="_" head="12" dep="mod">etc.</word>
-          <word id="31" lem=";" postag="PONCT" morpho="_" head="12" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="élément" postag="NC" morpho="g=m|n=s" head="0" dep="_">élément</word>
-          <word id="2" lem="central" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">central</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="4" lem="presque" postag="ADV" morpho="_" head="3" dep="mod">presque</word>
-          <word id="5" lem="toujours" postag="ADV" morpho="_" head="6" dep="mod">toujours</word>
-          <word id="6" lem="présent" postag="ADJ" morpho="g=m|n=s" head="3" dep="dep_coord">présent</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="9" lem="tout" postag="ADJ" morpho="g=m|n=p" head="11" dep="mod">tous</word>
-          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-          <word id="11" lem="courant" postag="NC" morpho="g=m|n=p" head="8" dep="prep">courants</word>
-          <word id="12" lem="protestant" postag="ADJ" morpho="g=m|n=p" head="11" dep="mod">protestants</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="prédication" postag="NC" morpho="g=f|n=s" head="0" dep="_">prédication</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="17" lem="commentaire" postag="NC" morpho="g=m|n=s" head="15" dep="mod">commentaire</word>
-          <word id="18" lem="inspirer" postag="VPP" morpho="g=m|n=s|t=past" head="17" dep="mod">inspiré</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="de_obj">d'</word>
-          <word id="20" lem="un" postag="DET" morpho="g=m|n=s" head="23" dep="det">un</word>
-          <word id="21" lem="ou" postag="CC" morpho="_" head="20" dep="coord">ou</word>
-          <word id="22" lem="plusieurs" postag="DET" morpho="n=p" head="21" dep="dep_coord">plusieurs</word>
-          <word id="23" lem="texte" postag="NC" morpho="g=m|n=p" head="19" dep="prep">textes</word>
-          <word id="24" lem="biblique" postag="ADJ" morpho="n=p" head="23" dep="mod">bibliques</word>
-          <word id="25" lem=";" postag="PONCT" morpho="_" head="15" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="temps" postag="NC" morpho="g=m" head="0" dep="_">temps</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="prière" postag="NC" morpho="g=f|n=s" head="3" dep="prep">prière</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="généralement" postag="ADV" morpho="_" head="7" dep="mod">généralement</word>
-          <word id="7" lem="spontané" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">spontanée</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="14" dep="suj">une</word>
-          <word id="10" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
-          <word id="11" lem="plusieurs" postag="DET" morpho="n=p" head="12" dep="det">plusieurs</word>
-          <word id="12" lem="personne" postag="NC" morpho="g=f|n=p" head="10" dep="dep_coord">personnes</word>
-          <word id="13" lem="se" postag="CLR" morpho="p=3" head="14" dep="aff">s'</word>
-          <word id="14" lem="adresser" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">adressent</word>
-          <word id="15" lem="à" postag="P" morpho="_" head="14" dep="a_obj">à</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Dieu</word>
-          <word id="17" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
-          <word id="18" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
-          <word id="19" lem="les" postag="DET" morpho="n=p" head="20" dep="det">les</word>
-          <word id="20" lem="_" postag="NC" morpho="_" head="18" dep="prep">Églises</word>
-          <word id="21" lem="évangélique" postag="ADJ" morpho="n=p" head="20" dep="mod">évangéliques</word>
-          <word id="22" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-          <word id="23" lem="ou" postag="CC" morpho="_" head="14" dep="coord">ou</word>
-          <word id="24" lem="liturgique" postag="ADJ" morpho="n=s" head="23" dep="dep_coord">liturgique</word>
-          <word id="25" lem="dans" postag="P" morpho="_" head="23" dep="dep_coord">dans</word>
-          <word id="26" lem="les" postag="DET" morpho="n=p" head="27" dep="det">les</word>
-          <word id="27" lem="_" postag="NC" morpho="_" head="25" dep="prep">Églises</word>
-          <word id="28" lem="_" postag="NPP" morpho="_" head="27" dep="mod">luthéro-réformées</word>
-          <word id="29" lem="(" postag="PONCT" morpho="_" head="23" dep="ponct">(</word>
-          <word id="30" lem="un" postag="DET" morpho="g=m|n=s" head="31" dep="det">un</word>
-          <word id="31" lem="officiant" postag="NC" morpho="g=m|n=s" head="23" dep="dep_coord">officiant</word>
-          <word id="32" lem="se" postag="CLR" morpho="p=3" head="33" dep="aff">s'</word>
-          <word id="33" lem="adresser" postag="V" morpho="n=s|p=13|t=pst" head="31" dep="mod_rel">adresse</word>
-          <word id="34" lem="à" postag="P" morpho="_" head="33" dep="a_obj">à</word>
-          <word id="35" lem="_" postag="NPP" morpho="_" head="34" dep="prep">Dieu</word>
-          <word id="36" lem="pour" postag="P" morpho="_" head="33" dep="mod">pour</word>
-          <word id="37" lem="tout" postag="ADJ" morpho="g=f|n=s" head="39" dep="mod">toute</word>
-          <word id="38" lem="la" postag="DET" morpho="g=f|n=s" head="39" dep="det">la</word>
-          <word id="39" lem="communauté" postag="NC" morpho="g=f|n=s" head="36" dep="prep">communauté</word>
-          <word id="40" lem=")" postag="PONCT" morpho="_" head="33" dep="ponct">)</word>
-          <word id="41" lem=";" postag="PONCT" morpho="_" head="14" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="temps" postag="NC" morpho="g=m" head="0" dep="_">temps</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="envoi" postag="NC" morpho="g=m|n=s" head="3" dep="prep">envoi</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="qui" postag="PROREL" morpho="n=s" head="7" dep="suj">qui</word>
-          <word id="7" lem="clôturer" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">clôture</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="temps" postag="NC" morpho="g=m" head="7" dep="obj">temps</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="culte" postag="NC" morpho="g=m|n=s" head="10" dep="prep">culte</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="13" lem="souvent" postag="ADV" morpho="_" head="7" dep="mod">souvent</word>
-          <word id="14" lem="par" postag="P" morpho="_" head="7" dep="mod">par</word>
-          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
-          <word id="16" lem="chant" postag="NC" morpho="g=m|n=s" head="14" dep="prep">chant</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-        <word id="2" lem="temps" postag="NC" morpho="g=m" head="0" dep="_">temps</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">reconsécration</word>
-        <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-        <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Dieu</word>
-        <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="repentance" postag="NC" morpho="g=f|n=s" head="0" dep="root">repentance</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="retour" postag="NC" morpho="g=m|n=s" head="0" dep="_">retour</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Dieu</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="conversion" postag="NC" morpho="g=f|n=s" head="0" dep="_">conversion</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="chant" postag="NC" morpho="g=m|n=p" head="0" dep="_">chants</word>
-        <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="hymne" postag="NC" morpho="n=p" head="0" dep="root">Hymnes</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="louange" postag="NC" morpho="g=f|n=p" head="0" dep="_">louanges</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="gospel" postag="NC" morpho="g=m|n=s" head="0" dep="_">gospel</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="culte" postag="NC" morpho="g=m|n=s" head="6" dep="suj">culte</word>
-        <word id="3" lem="communautaire" postag="ADJ" morpho="n=s" head="2" dep="mod">communautaire</word>
-        <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="aux_pass">est</word>
-        <word id="5" lem="généralement" postag="ADV" morpho="_" head="6" dep="mod">généralement</word>
-        <word id="6" lem="présider" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">présidé</word>
-        <word id="7" lem="par" postag="P" morpho="_" head="6" dep="p_obj">par</word>
-        <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-        <word id="9" lem="ministre" postag="NC" morpho="g=m|n=s" head="7" dep="prep">ministre</word>
-        <word id="10" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="pasteur" postag="NC" morpho="g=m|n=s" head="0" dep="root">pasteur</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="prédicateur" postag="NC" morpho="g=m|n=s" head="0" dep="root">prédicateur</word>
-          <word id="2" lem="laïc" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">laïc</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="dans" postag="P" morpho="_" head="11" dep="mod">Dans</word>
-        <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-        <word id="3" lem="culte" postag="NC" morpho="g=m|n=s" head="1" dep="prep">culte</word>
-        <word id="4" lem="communautaire" postag="ADJ" morpho="n=s" head="3" dep="mod">communautaire</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-        <word id="7" lem="plus_ou_moins" postag="ADV" morpho="_" head="8" dep="mod">plus_ou_moins</word>
-        <word id="8" lem="grand" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">grande</word>
-        <word id="9" lem="place" postag="NC" morpho="g=f|n=s" head="11" dep="suj">place</word>
-        <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="aux_pass">est</word>
-        <word id="11" lem="laisser" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">laissée</word>
-        <word id="12" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="13" lem="selon" postag="P" morpho="_" head="11" dep="mod">selon</word>
-        <word id="14" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
-        <word id="15" lem="divers" postag="ADJ" morpho="g=f|n=p" head="16" dep="mod">diverses</word>
-        <word id="16" lem="théologie" postag="NC" morpho="g=f|n=p" head="13" dep="prep">théologies</word>
-        <word id="17" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="18" lem="à" postag="P" morpho="_" head="11" dep="a_obj">à</word>
-        <word id="19" lem="une" postag="DET" morpho="g=f|n=s" head="20" dep="det">une</word>
-        <word id="20" lem="liturgie" postag="NC" morpho="g=f|n=s" head="18" dep="prep">liturgie</word>
-        <word id="21" lem="plus_ou_moins" postag="ADV" morpho="_" head="22" dep="mod">plus_ou_moins</word>
-        <word id="22" lem="structurer" postag="ADJ" morpho="g=f|n=s|t=past" head="20" dep="mod">structurée</word>
-        <word id="23" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="24" lem="consister" postag="VPR" morpho="t=pst" head="11" dep="mod">consistant</word>
-        <word id="25" lem="en" postag="P" morpho="_" head="24" dep="mod">en</word>
-        <word id="26" lem="prière" postag="NC" morpho="g=f|n=p" head="25" dep="prep">prières</word>
-        <word id="27" lem="liturgique" postag="ADJ" morpho="n=p" head="26" dep="mod">liturgiques</word>
-        <word id="28" lem="ou" postag="CC" morpho="_" head="27" dep="coord">ou</word>
-        <word id="29" lem="spontané" postag="ADJ" morpho="g=f|n=p" head="28" dep="dep_coord">spontanées</word>
-        <word id="30" lem="(" postag="PONCT" morpho="_" head="11" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="louange" postag="NC" morpho="g=f|n=s" head="0" dep="_">louange</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="repentance" postag="NC" morpho="g=f|n=s" head="0" dep="_">repentance</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="intercession" postag="NC" morpho="g=f|n=s" head="0" dep="_">intercession</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="consécration" postag="NC" morpho="g=f|n=s" head="0" dep="_">consécration</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Dieu</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="dans" postag="P" morpho="_" head="11" dep="mod">Dans</word>
-        <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-        <word id="3" lem="culte" postag="NC" morpho="g=m|n=s" head="1" dep="prep">culte</word>
-        <word id="4" lem="communautaire" postag="ADJ" morpho="n=s" head="3" dep="mod">communautaire</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-        <word id="7" lem="plus_ou_moins" postag="ADV" morpho="_" head="8" dep="mod">plus_ou_moins</word>
-        <word id="8" lem="grand" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">grande</word>
-        <word id="9" lem="place" postag="NC" morpho="g=f|n=s" head="11" dep="suj">place</word>
-        <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="aux_pass">est</word>
-        <word id="11" lem="laisser" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">laissée</word>
-        <word id="12" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="13" lem="selon" postag="P" morpho="_" head="11" dep="mod">selon</word>
-        <word id="14" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
-        <word id="15" lem="divers" postag="ADJ" morpho="g=f|n=p" head="16" dep="mod">diverses</word>
-        <word id="16" lem="théologie" postag="NC" morpho="g=f|n=p" head="13" dep="prep">théologies</word>
-        <word id="17" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="18" lem="à" postag="P" morpho="_" head="11" dep="a_obj">à</word>
-        <word id="19" lem="une" postag="DET" morpho="g=f|n=s" head="20" dep="det">une</word>
-        <word id="20" lem="liturgie" postag="NC" morpho="g=f|n=s" head="18" dep="prep">liturgie</word>
-        <word id="21" lem="plus_ou_moins" postag="ADV" morpho="_" head="22" dep="mod">plus_ou_moins</word>
-        <word id="22" lem="structurer" postag="ADJ" morpho="g=f|n=s|t=past" head="20" dep="mod">structurée</word>
-        <word id="23" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="24" lem="consister" postag="VPR" morpho="t=pst" head="11" dep="mod">consistant</word>
-        <word id="25" lem="en" postag="P" morpho="_" head="24" dep="mod">en</word>
-        <word id="26" lem="prière" postag="NC" morpho="g=f|n=p" head="25" dep="prep">prières</word>
-        <word id="27" lem="liturgique" postag="ADJ" morpho="n=p" head="26" dep="mod">liturgiques</word>
-        <word id="28" lem="ou" postag="CC" morpho="_" head="27" dep="coord">ou</word>
-        <word id="29" lem="spontané" postag="ADJ" morpho="g=f|n=p" head="28" dep="dep_coord">spontanées</word>
-        <word id="30" lem="(" postag="PONCT" morpho="_" head="26" dep="ponct">(</word>
-        <word id="31" lem="louange" postag="NC" morpho="g=f|n=s" head="26" dep="mod">louange</word>
-        <word id="32" lem="," postag="PONCT" morpho="_" head="24" dep="ponct">,</word>
-        <word id="33" lem="repentance" postag="NC" morpho="g=f|n=s" head="24" dep="mod">repentance</word>
-        <word id="34" lem="," postag="PONCT" morpho="_" head="24" dep="ponct">,</word>
-        <word id="35" lem="intercession" postag="NC" morpho="g=f|n=s" head="24" dep="mod">intercession</word>
-        <word id="36" lem="," postag="PONCT" morpho="_" head="24" dep="ponct">,</word>
-        <word id="37" lem="consécration" postag="NC" morpho="g=f|n=s" head="24" dep="mod">consécration</word>
-        <word id="38" lem="à" postag="P" morpho="_" head="37" dep="dep">à</word>
-        <word id="39" lem="_" postag="NPP" morpho="_" head="38" dep="prep">Dieu</word>
-        <word id="40" lem=")" postag="PONCT" morpho="_" head="24" dep="ponct">)</word>
-        <word id="41" lem="," postag="PONCT" morpho="_" head="24" dep="ponct">,</word>
-        <word id="42" lem="en" postag="P" morpho="_" head="24" dep="mod">en</word>
-        <word id="43" lem="affirmation" postag="NC" morpho="g=f|n=p" head="42" dep="prep">affirmations</word>
-        <word id="44" lem="de" postag="P" morpho="_" head="43" dep="dep">de</word>
-        <word id="45" lem="foi" postag="NC" morpho="g=f|n=s" head="44" dep="prep">foi</word>
-        <word id="46" lem="(" postag="PONCT" morpho="_" head="43" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="5" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="annonce" postag="NC" morpho="g=f|n=s" head="0" dep="_">annonce</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="grâce" postag="NC" morpho="g=f|n=s" head="2" dep="prep">grâce</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P+D" morpho="g=m|n=s" head="0" dep="_">du</word>
-          <word id="2" lem="pardon" postag="NC" morpho="g=m|n=s" head="1" dep="prep">pardon</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Dieu</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="confession" postag="NC" morpho="g=f|n=s" head="0" dep="_">confession</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="foi" postag="NC" morpho="g=f|n=s" head="2" dep="prep">foi</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="témoignage" postag="NC" morpho="g=m|n=s" head="0" dep="_">témoignage</word>
-          <word id="2" lem="personnel" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">personnel</word>
-          <word id="3" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -635,8 +242,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -657,8 +264,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -669,8 +276,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -686,7 +293,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -698,7 +305,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -716,7 +323,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -728,7 +335,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -742,7 +349,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="primer" idSE="4">
@@ -754,7 +361,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items" idSE="4">
@@ -772,7 +379,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="primer" idSE="5">
@@ -784,7 +391,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="items" idSE="5">
@@ -801,8 +408,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -813,8 +420,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -825,8 +432,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -837,8 +444,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -849,8 +456,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -861,8 +468,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -873,8 +480,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -885,8 +492,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -899,8 +506,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -911,8 +518,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -923,8 +530,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -935,8 +542,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -948,7 +555,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
@@ -960,7 +567,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -972,7 +579,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -984,7 +591,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -996,7 +603,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
@@ -1008,7 +615,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -1020,7 +627,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -1032,7 +639,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
@@ -1044,7 +651,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="0">
@@ -1056,7 +663,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="1">
@@ -1068,7 +675,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="2">
@@ -1080,7 +687,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="3">
@@ -1092,7 +699,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
@@ -1104,7 +711,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="0">
@@ -1116,7 +723,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="1">
@@ -1128,7 +735,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="2">
@@ -1140,7 +747,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="3">
@@ -1151,8 +758,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1165,8 +772,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1179,8 +786,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1196,8 +803,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:37</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1222,8 +829,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1236,8 +843,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1250,8 +857,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1267,8 +874,8 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:19</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:25</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1294,7 +901,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1308,7 +915,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1322,7 +929,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1339,7 +946,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1365,7 +972,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1379,7 +986,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1393,7 +1000,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1410,7 +1017,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -1436,7 +1043,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -1450,7 +1057,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -1464,7 +1071,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -1481,7 +1088,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>3/01/14 14:26</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
@@ -1507,7 +1114,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="5">
@@ -1521,7 +1128,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="5">
@@ -1535,7 +1142,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="5">
@@ -1552,7 +1159,7 @@ un temps d'envoi, qui clôture le temps de culte, souvent par un chant.</text>
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>3/01/14 14:27</date>
       <document>Culte_protestant.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="5">

@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SE>
@@ -12,58 +12,35 @@
       <text>Le mot donjon (ou dongun, doignon, dangon)</text>
       <span begin="345" end="387" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="mot" postag="NC" morpho="g=m|n=s" head="0" dep="_">mot</word>
-        <word id="3" lem="donjon" postag="NC" morpho="g=m|n=s" head="2" dep="mod">donjon</word>
-        <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="ou" postag="CC" morpho="_" head="0" dep="root">ou</word>
-          <word id="2" lem="_" postag="ADV" morpho="_" head="0" dep="_">dongun</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="_">doignon</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">dangon</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -74,8 +51,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -90,8 +67,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -102,8 +79,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -114,8 +91,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -126,8 +103,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -138,8 +115,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -150,8 +127,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -164,8 +141,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -178,8 +155,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -195,8 +172,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Donjon.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

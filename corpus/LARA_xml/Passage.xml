@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SE>
@@ -28,13 +28,13 @@ Passage est le titre d'un roman de science-fiction de Connie Willis.
 Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partage de Lois McMaster Bujold.</text>
       <span begin="3" end="622" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SE>
@@ -50,8 +50,8 @@ Un passage à niveau.</text>
   <annotation type="1">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SE>
@@ -67,328 +67,76 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="passage" postag="NC" morpho="g=m|n=s" head="0" dep="_">Passage</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="passage" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Passage</word>
-        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="3" lem="désigner" postag="VINF" morpho="_" head="2" dep="obj">désigner</word>
-        <word id="4" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">construction-architecture</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="urbanisme" postag="NC" morpho="g=m|n=s" head="0" dep="_">urbanisme</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="voirie" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">voirie</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="passage" postag="NC" morpho="g=m|n=s" head="0" dep="_">passage</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="voie" postag="NC" morpho="g=f|n=s" head="2" dep="mod">voie</word>
-          <word id="6" lem="qui" postag="PROREL" morpho="n=s" head="7" dep="suj">qui</word>
-          <word id="7" lem="servir" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="mod_rel">sert</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">de</word>
-          <word id="9" lem="passage" postag="NC" morpho="g=m|n=s" head="8" dep="prep">passage</word>
-          <word id="10" lem="entre" postag="P" morpho="_" head="7" dep="mod">entre</word>
-          <word id="11" lem="#NUM#" postag="DET" morpho="n=p" head="12" dep="det">2</word>
-          <word id="12" lem="rue" postag="NC" morpho="g=f|n=p" head="10" dep="prep">rues</word>
-          <word id="13" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
-          <word id="14" lem="entre" postag="P" morpho="_" head="13" dep="dep_coord">entre</word>
-          <word id="15" lem="deux" postag="NC" morpho="g=m" head="14" dep="prep">deux</word>
-          <word id="16" lem="bâtiment" postag="NC" morpho="g=m|n=p" head="15" dep="mod">bâtiments</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="passage" postag="NC" morpho="g=m|n=s" head="0" dep="_">passage</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">piéton</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="passage" postag="NC" morpho="g=m|n=s" head="0" dep="root">passage</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="niveau" postag="NC" morpho="g=m|n=s" head="3" dep="prep">niveau</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-          <word id="2" lem="science" postag="NC" morpho="g=f|n=p" head="1" dep="prep">sciences</word>
-          <word id="3" lem="biologique" postag="ADJ" morpho="n=p" head="2" dep="mod">biologiques</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="passage" postag="NC" morpho="g=m|n=s" head="3" dep="suj">passage</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="terme" postag="NC" morpho="g=m|n=s" head="3" dep="ats">terme</word>
-          <word id="6" lem="concerner" postag="VPR" morpho="t=pst" head="5" dep="mod">concernant</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="culture" postag="NC" morpho="g=f|n=s" head="6" dep="obj">culture</word>
-          <word id="9" lem="cellulaire" postag="ADJ" morpho="n=s" head="8" dep="mod">cellulaire</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-          <word id="2" lem="équitation" postag="NC" morpho="g=f|n=s" head="1" dep="prep">équitation</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="passage" postag="NC" morpho="g=m|n=s" head="0" dep="_">passage</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="allure" postag="NC" morpho="g=f|n=s" head="3" dep="dep_coord">allure</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-          <word id="2" lem="musique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">musique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="passage" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Passage</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="artiste" postag="NC" morpho="n=s" head="2" dep="ats">artiste</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="6" lem="label" postag="NC" morpho="g=m|n=s" head="5" dep="prep">label</word>
-          <word id="7" lem="_" postag="ADJ" morpho="_" head="6" dep="mod">anticon</word>
-          <word id="8" lem="_" postag="PONCT" morpho="_" head="2" dep="ponct">..</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-          <word id="2" lem="littérature" postag="NC" morpho="g=f|n=s" head="1" dep="prep">littérature</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="passage" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Passage</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="titre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">titre</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="6" lem="premier" postag="ADJ" morpho="n=p" head="7" dep="mod">premier</word>
-          <word id="7" lem="roman" postag="NC" morpho="g=m|n=s" head="5" dep="prep">roman</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="Renaud" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Renaud</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Camus</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="passage" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Passage</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="titre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">titre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="roman" postag="NC" morpho="g=m|n=s" head="5" dep="prep">roman</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="science-fiction" postag="NC" morpho="g=f|n=s" head="8" dep="prep">science-fiction</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="Connie" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Connie</word>
-          <word id="12" lem="Willis" postag="NPP" morpho="g=m|n=s" head="11" dep="mod">Willis</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="passage" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Passage</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="4" lem="troisième" postag="ADJ" morpho="n=p" head="5" dep="mod">troisième</word>
-          <word id="5" lem="tome" postag="NC" morpho="n=s" head="2" dep="ats">tome</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="tétralogie" postag="NC" morpho="g=f|n=s" head="6" dep="prep">tétralogie</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="fantasy" postag="NC" morpho="g=f|n=s" head="9" dep="prep">fantasy</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Le</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Couteau</word>
-          <word id="13" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">Partage</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="Lois" postag="NPP" morpho="g=f|n=s" head="15" dep="prep">Lois</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="mod">McMaster</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="16" dep="mod">Bujold</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-        <word id="2" lem="_" postag="NC" morpho="_" head="1" dep="prep">construction-architecture</word>
-        <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        <word id="4" lem="urbanisme" postag="NC" morpho="g=m|n=s" head="0" dep="_">urbanisme</word>
-        <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-        <word id="6" lem="voirie" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">voirie</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="passage" postag="NC" morpho="g=m|n=s" head="0" dep="_">passage</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="voie" postag="NC" morpho="g=f|n=s" head="2" dep="mod">voie</word>
-          <word id="6" lem="qui" postag="PROREL" morpho="n=s" head="7" dep="suj">qui</word>
-          <word id="7" lem="servir" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="mod_rel">sert</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">de</word>
-          <word id="9" lem="passage" postag="NC" morpho="g=m|n=s" head="8" dep="prep">passage</word>
-          <word id="10" lem="entre" postag="P" morpho="_" head="7" dep="mod">entre</word>
-          <word id="11" lem="#NUM#" postag="DET" morpho="n=p" head="12" dep="det">2</word>
-          <word id="12" lem="rue" postag="NC" morpho="g=f|n=p" head="10" dep="prep">rues</word>
-          <word id="13" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
-          <word id="14" lem="entre" postag="P" morpho="_" head="13" dep="dep_coord">entre</word>
-          <word id="15" lem="deux" postag="NC" morpho="g=m" head="14" dep="prep">deux</word>
-          <word id="16" lem="bâtiment" postag="NC" morpho="g=m|n=p" head="15" dep="mod">bâtiments</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="passage" postag="NC" morpho="g=m|n=s" head="0" dep="_">passage</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">piéton</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="passage" postag="NC" morpho="g=m|n=s" head="0" dep="root">passage</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="niveau" postag="NC" morpho="g=m|n=s" head="3" dep="prep">niveau</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-        <word id="2" lem="littérature" postag="NC" morpho="g=f|n=s" head="1" dep="prep">littérature</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="passage" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Passage</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="titre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">titre</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="6" lem="premier" postag="ADJ" morpho="n=p" head="7" dep="mod">premier</word>
-          <word id="7" lem="roman" postag="NC" morpho="g=m|n=s" head="5" dep="prep">roman</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="Renaud" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Renaud</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Camus</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="passage" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Passage</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="titre" postag="NC" morpho="g=m|n=s" head="2" dep="ats">titre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="roman" postag="NC" morpho="g=m|n=s" head="5" dep="prep">roman</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="science-fiction" postag="NC" morpho="g=f|n=s" head="8" dep="prep">science-fiction</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="Connie" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Connie</word>
-          <word id="12" lem="Willis" postag="NPP" morpho="g=m|n=s" head="11" dep="mod">Willis</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="passage" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Passage</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="4" lem="troisième" postag="ADJ" morpho="n=p" head="5" dep="mod">troisième</word>
-          <word id="5" lem="tome" postag="NC" morpho="n=s" head="2" dep="ats">tome</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="tétralogie" postag="NC" morpho="g=f|n=s" head="6" dep="prep">tétralogie</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="fantasy" postag="NC" morpho="g=f|n=s" head="9" dep="prep">fantasy</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Le</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Couteau</word>
-          <word id="13" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">Partage</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="Lois" postag="NPP" morpho="g=f|n=s" head="15" dep="prep">Lois</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="mod">McMaster</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="16" dep="mod">Bujold</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -401,8 +149,8 @@ Passage peut désigner :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -430,8 +178,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -442,8 +190,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -458,8 +206,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -470,8 +218,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -486,8 +234,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -498,76 +246,68 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
-      <span begin="84" end="95" id="0" />
-      <text id="0">Un passage,</text>
-      <span begin="163" end="180" id="1" />
-      <text id="1">Un passage piéton</text>
-      <span begin="182" end="201" id="2" />
-      <text id="2">Un passage à niveau</text>
+      <span begin="37" end="83" id="0" />
+      <text id="0">construction-architecture, urbanisme et voirie</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
-      <span begin="227" end="237" id="0" />
-      <text id="0">Un passage</text>
+      <span begin="206" end="226" id="0" />
+      <text id="0">sciences biologiques</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
-      <span begin="300" end="310" id="0" />
-      <text id="0">le passage</text>
+      <span begin="288" end="298" id="0" />
+      <text id="0">équitation</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
-      <span begin="335" end="342" id="0" />
-      <text id="0">Passage</text>
+      <span begin="327" end="334" id="0" />
+      <text id="0">musique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
-      <span begin="392" end="399" id="0" />
-      <text id="0">Passage</text>
-      <span begin="447" end="454" id="1" />
-      <text id="1">Passage</text>
-      <span begin="516" end="523" id="2" />
-      <text id="2">Passage</text>
+      <span begin="380" end="391" id="0" />
+      <text id="0">littérature</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -578,20 +318,20 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
-      <span begin="51" end="61" id="0" />
-      <text id="0">Un passage</text>
+      <span begin="51" end="128" id="0" />
+      <text id="0">Un passage, une voie qui sert de passage entre 2 rues ou entre deux bâtiments</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -602,8 +342,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -614,8 +354,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -626,8 +366,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -638,8 +378,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -650,8 +390,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -662,8 +402,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
@@ -674,8 +414,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -688,8 +428,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -702,8 +442,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -719,8 +459,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:36</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -745,8 +485,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -759,8 +499,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -773,8 +513,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -790,8 +530,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -816,8 +556,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -830,8 +570,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -844,8 +584,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -861,8 +601,8 @@ Passage est le troisième tome de la tétralogie de fantasy Le Couteau du Partag
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:48</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:26</date>
       <document>Passage.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">

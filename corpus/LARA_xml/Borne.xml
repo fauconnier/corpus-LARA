@@ -3,76 +3,12 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
     <SE>
       <id>0</id>
-      <text>Borne
-
-Patronyme
-Nom de famille
-Alain Borne (1915-1962), poète français ;
-Pierre Borne (1944-), scientifique français ;
-Dominique Borne (1939- ), historien et haut fonctionnaire français ;
-Étienne Borne (1907-1993), philosophe et journaliste français ;
-Olivier Borne, (1966-), musicien français ;
-Olivier Borne, (1960-), Scénographe français ;
-François Borne (1968-), auteur-compositeur-interprète français ;
-Guillaume Borne (1988-), joueur de football français ;
-Lucien Borne (1884-1954), homme d'affaires québécois ;
-Geneviève Borne, mannequin et animatrice de télévision québécoise ; * Paul Borne, acteur de doublage français.
-Toponyme
-Nom de lieu
-Borne, commune française de l'Ardèche ;
-Borne, commune française de la Haute-Loire ;
-Borne, commune française de la Drôme ;
-Borne, commune allemande de l'arrondissement du Salzland ;
-Borne, ville hollandaise de la province d'Overijssel ;
-La Grande Borne, cité d'habitat social dans l'Essonne.
-Borne, rivière de la Haute-Savoie
-Borne, rivière de la Haute-Loire
-Borne, rivière de l'Ardèche et de la Lozère.
-Massif des Bornes, massif de la Haute-Savoie.
-Massifs
-Nom commun
-Ameublement
-Une borne est un siège à plusieurs places avec un dossier commun au centre.
-Géographie
-Borne géographique, pierre enchâssée dans le sol pour identifier un lieu (telle une borne géodésique), baliser un trajet ou limiter un territoire (borne frontière) ;
-Borne commémorative, rappelle un événement local (borne des Trois Puissances, borne de la Terre sacrée) ;
-Dans les infrastructures routières, une borne routière donne des indications sur la route et sur les distances. C'est la version moderne de la borne milliaire.
-Histoire
-Borne milliaire, borne de voie romaine.
-Informatique
-Borne Wi-Fi, zone d'accès à une connexion sans fil à un réseau ;
-Borne interactive, équipement informatique donnant accès à certaines ressources logicielles ;
-Borne d'arcade, meuble équipé d'un jeu vidéo payant.
-Mathématiques
-En analyse réelle, une borne est un minorant ou un majorant d'un ensemble de valeurs, d'une fonction ou d'une suite. Les bornes inférieure et supérieure sont respectivement le plus grand minorant et le plus petit majorant lorsqu'ils existent.
-En théorie des ordres et en topologie, la notion d'intervalle borné se généralise en partie bornée.
-Borne FDCR, borne inférieure, en statistiques, sur la variance d'un estimateur sans biais.
-Borne de Gilbert-Varshamov, minoration, en théorie des codes, de la distance minimale des codes.
-Électronique
-Borne d'un dipôle électrique, connexion qui lui permet d'être relié dans un circuit électrique.
-Physique
-Borne de Froissart, limitation sur la section efficace totale de collision entre particules.
-Noms propres
-Borne de Cristal, récompense du milieu professionnel décernée par l'Union Belge des Géomètres-Experts.</text>
-      <span begin="3" end="2800" />
-    </SE>
-    <comment>unknown</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SE>
-      <id>1</id>
       <text>Patronyme
 Nom de famille
 Alain Borne (1915-1962), poète français ;
@@ -87,17 +23,17 @@ Lucien Borne (1884-1954), homme d'affaires québécois ;
 Geneviève Borne, mannequin et animatrice de télévision québécoise ; * Paul Borne, acteur de doublage français.</text>
       <span begin="10" end="632" />
     </SE>
-    <comment>inclusion lexicale</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
     <SE>
-      <id>2</id>
+      <id>1</id>
       <text>Toponyme
 Nom de lieu
 Borne, commune française de l'Ardèche ;
@@ -116,13 +52,13 @@ Massif des Bornes, massif de la Haute-Savoie</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
     <SE>
-      <id>3</id>
+      <id>2</id>
       <text>Géographie
 Borne géographique, pierre enchâssée dans le sol pour identifier un lieu (telle une borne géodésique), baliser un trajet ou limiter un territoire (borne frontière) ;
 Borne commémorative, rappelle un événement local (borne des Trois Puissances, borne de la Terre sacrée) ;
@@ -133,13 +69,13 @@ Dans les infrastructures routières, une borne routière donne des indications s
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
     <SE>
-      <id>4</id>
+      <id>3</id>
       <text>Borne commémorative, rappelle un événement local (borne des Trois Puissances, borne de la Terre sacrée)</text>
       <span begin="1389" end="1492" />
     </SE>
@@ -147,13 +83,13 @@ Dans les infrastructures routières, une borne routière donne des indications s
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
     <SE>
-      <id>5</id>
+      <id>4</id>
       <text>Informatique
 Borne Wi-Fi, zone d'accès à une connexion sans fil à un réseau ;
 Borne interactive, équipement informatique donnant accès à certaines ressources logicielles ;
@@ -164,13 +100,13 @@ Borne d'arcade, meuble équipé d'un jeu vidéo payant.</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
     <SE>
-      <id>6</id>
+      <id>5</id>
       <text>Mathématiques
 En analyse réelle, une borne est un minorant ou un majorant d'un ensemble de valeurs, d'une fonction ou d'une suite. Les bornes inférieure et supérieure sont respectivement le plus grand minorant et le plus petit majorant lorsqu'ils existent.
 En théorie des ordres et en topologie, la notion d'intervalle borné se généralise en partie bornée.
@@ -183,840 +119,60 @@ Borne de Gilbert-Varshamov, minoration, en théorie des codes, de la distance mi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="root">Borne</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="patronyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Patronyme</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nom</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="famille" postag="NC" morpho="g=f|n=s" head="2" dep="prep">famille</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="Alain" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Alain</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1915-1962</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="poète" postag="NC" morpho="n=s" head="1" dep="mod">poète</word>
-          <word id="8" lem="français" postag="ADJ" morpho="g=m" head="7" dep="mod">français</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="pierre" postag="NC" morpho="g=f|n=s" head="0" dep="_">Pierre</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1944-</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="scientifique" postag="ADJ" morpho="n=s" head="8" dep="mod">scientifique</word>
-          <word id="8" lem="français" postag="ADJ" morpho="g=m" head="1" dep="mod">français</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="Dominique" postag="NPP" morpho="n=s" head="0" dep="_">Dominique</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1939-</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="historien" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">historien</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="0" dep="_">et</word>
-          <word id="9" lem="haut" postag="ADJ" morpho="g=m|n=s" head="8" dep="dep_coord">haut</word>
-          <word id="10" lem="fonctionnaire" postag="NC" morpho="n=s" head="8" dep="dep_coord">fonctionnaire</word>
-          <word id="11" lem="français" postag="ADJ" morpho="g=m" head="10" dep="mod">français</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="8" dep="ponct">;</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="Étienne" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Étienne</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1907-1993</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="philosophe" postag="NC" morpho="n=s" head="1" dep="mod">philosophe</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="9" lem="journaliste" postag="NC" morpho="n=s" head="8" dep="dep_coord">journaliste</word>
-          <word id="10" lem="français" postag="ADJ" morpho="g=m" head="7" dep="mod">français</word>
-          <word id="11" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="olivier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Olivier</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1966-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="musicien" postag="NC" morpho="g=m|n=s" head="1" dep="mod">musicien</word>
-          <word id="9" lem="français" postag="ADJ" morpho="g=m" head="8" dep="mod">français</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="olivier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Olivier</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1960-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Scénographe</word>
-          <word id="9" lem="français" postag="NC" morpho="g=m" head="8" dep="mod">français</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="François" postag="NPP" morpho="g=m|n=s" head="0" dep="_">François</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1968-</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="1" dep="mod">auteur-compositeur-interprète</word>
-          <word id="8" lem="français" postag="ADJ" morpho="g=m" head="7" dep="mod">français</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="guillaume" postag="NC" morpho="g=m|n=s" head="0" dep="_">Guillaume</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1988-</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="joueur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">joueur</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="football" postag="NC" morpho="g=m|n=s" head="8" dep="prep">football</word>
-          <word id="10" lem="français" postag="ADJ" morpho="g=m" head="9" dep="mod">français</word>
-          <word id="11" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="Lucien" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Lucien</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1884-1954</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="homme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">homme</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-          <word id="9" lem="affaire" postag="NC" morpho="g=f|n=p" head="8" dep="prep">affaires</word>
-          <word id="10" lem="québécois" postag="ADJ" morpho="g=m" head="7" dep="mod">québécois</word>
-          <word id="11" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="12">
-          <word id="1" lem="Geneviève" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Geneviève</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="mannequin" postag="NC" morpho="g=m|n=s" head="1" dep="mod">mannequin</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="animateur" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">animatrice</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="télévision" postag="NC" morpho="g=f|n=s" head="7" dep="prep">télévision</word>
-          <word id="9" lem="québécois" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">québécoise</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-          <word id="11" lem="*" postag="PONCT" morpho="_" head="0" dep="_">*</word>
-          <word id="12" lem="Paul" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Paul</word>
-          <word id="13" lem="Borne" postag="NPP" morpho="g=m|n=s" head="12" dep="mod">Borne</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="15" lem="acteur" postag="NC" morpho="g=m|n=s" head="12" dep="mod">acteur</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="doublage" postag="NC" morpho="g=m|n=s" head="16" dep="prep">doublage</word>
-          <word id="18" lem="français" postag="ADJ" morpho="g=m" head="17" dep="mod">français</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="toponyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Toponyme</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nom</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="lieu" postag="NC" morpho="g=m|n=s" head="2" dep="prep">lieu</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="commune" postag="NC" morpho="g=f|n=s" head="1" dep="mod">commune</word>
-          <word id="4" lem="français" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">française</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="Ardèche" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Ardèche</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="commune" postag="NC" morpho="g=f|n=s" head="1" dep="mod">commune</word>
-          <word id="4" lem="français" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">française</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="Haute-Loire" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Haute-Loire</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="commune" postag="NC" morpho="g=f|n=s" head="1" dep="mod">commune</word>
-          <word id="4" lem="français" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">française</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="Drôme" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Drôme</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="commune" postag="NC" morpho="g=f|n=s" head="1" dep="mod">commune</word>
-          <word id="4" lem="allemand" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">allemande</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="arrondissement" postag="NC" morpho="g=m|n=s" head="5" dep="prep">arrondissement</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Salzland</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="ville" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ville</word>
-          <word id="4" lem="hollandais" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">hollandaise</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="province" postag="NC" morpho="g=f|n=s" head="5" dep="prep">province</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Overijssel</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Grande</word>
-          <word id="3" lem="Borne" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Borne</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="cité" postag="NC" morpho="g=f|n=s" head="2" dep="mod">cité</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="habitat" postag="NC" morpho="g=m|n=s" head="6" dep="prep">habitat</word>
-          <word id="8" lem="social" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">social</word>
-          <word id="9" lem="dans" postag="P" morpho="_" head="5" dep="dep">dans</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="Essonne" postag="NPP" morpho="g=f|n=s" head="9" dep="prep">Essonne</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="rivière" postag="NC" morpho="g=f|n=s" head="1" dep="mod">rivière</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="Haute-Savoie" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Haute-Savoie</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="rivière" postag="NC" morpho="g=f|n=s" head="1" dep="mod">rivière</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="Haute-Loire" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Haute-Loire</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="rivière" postag="NC" morpho="g=f|n=s" head="1" dep="mod">rivière</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-          <word id="6" lem="Ardèche" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Ardèche</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep_coord">de</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="Lozère" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Lozère</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="12">
-          <word id="1" lem="massif" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">Massif</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="de_obj">des</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Bornes</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="massif" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">massif</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="1" dep="mod">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Haute-Savoie" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Haute-Savoie</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="massif" postag="ADJ" morpho="g=m|n=p" head="0" dep="_">Massifs</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nom</word>
-          <word id="2" lem="commun" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">commun</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="ameublement" postag="NC" morpho="g=m|n=s" head="0" dep="root">Ameublement</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="borne" postag="NC" morpho="g=f|n=s" head="3" dep="suj">borne</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="siège" postag="NC" morpho="g=m|n=s" head="3" dep="ats">siège</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
-          <word id="7" lem="plusieurs" postag="DET" morpho="n=p" head="8" dep="det">plusieurs</word>
-          <word id="8" lem="place" postag="NC" morpho="g=f|n=p" head="6" dep="prep">places</word>
-          <word id="9" lem="avec" postag="P" morpho="_" head="3" dep="mod">avec</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="dossier" postag="NC" morpho="g=m|n=s" head="9" dep="prep">dossier</word>
-          <word id="12" lem="commun" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">commun</word>
-          <word id="13" lem="à" postag="P+D" morpho="g=m|n=s" head="11" dep="dep">au</word>
-          <word id="14" lem="centre" postag="NC" morpho="g=m|n=s" head="13" dep="prep">centre</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="géographie" postag="NC" morpho="g=f|n=s" head="0" dep="_">Géographie</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="root">Borne</word>
-          <word id="2" lem="géographique" postag="ADJ" morpho="n=s" head="1" dep="mod">géographique</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="pierre" postag="NC" morpho="g=f|n=s" head="1" dep="mod">pierre</word>
-          <word id="5" lem="enchâsser" postag="VPP" morpho="g=f|n=s|t=past" head="4" dep="mod">enchâssée</word>
-          <word id="6" lem="dans" postag="P" morpho="_" head="5" dep="mod">dans</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-          <word id="8" lem="sol" postag="NC" morpho="g=m|n=p" head="6" dep="prep">sol</word>
-          <word id="9" lem="pour" postag="P" morpho="_" head="5" dep="mod">pour</word>
-          <word id="10" lem="identifier" postag="VINF" morpho="_" head="9" dep="prep">identifier</word>
-          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="12" lem="lieu" postag="NC" morpho="g=m|n=s" head="10" dep="obj">lieu</word>
-          <word id="13" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="14" lem="tel" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">telle</word>
-          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
-          <word id="16" lem="borne" postag="NC" morpho="g=f|n=s" head="10" dep="obj">borne</word>
-          <word id="17" lem="géodésique" postag="ADJ" morpho="n=s" head="16" dep="mod">géodésique</word>
-          <word id="18" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="20" lem="baliser" postag="VINF" morpho="_" head="1" dep="dep">baliser</word>
-          <word id="21" lem="un" postag="DET" morpho="g=m|n=s" head="22" dep="det">un</word>
-          <word id="22" lem="trajet" postag="NC" morpho="g=m|n=s" head="20" dep="obj">trajet</word>
-          <word id="23" lem="ou" postag="CC" morpho="_" head="20" dep="coord">ou</word>
-          <word id="24" lem="limiter" postag="VINF" morpho="_" head="23" dep="dep_coord">limiter</word>
-          <word id="25" lem="un" postag="DET" morpho="g=m|n=s" head="26" dep="det">un</word>
-          <word id="26" lem="territoire" postag="NC" morpho="g=m|n=s" head="24" dep="obj">territoire</word>
-          <word id="27" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="28" lem="borne" postag="NC" morpho="g=f|n=s" head="1" dep="mod">borne</word>
-          <word id="29" lem="frontière" postag="NC" morpho="g=f|n=s" head="28" dep="mod">frontière</word>
-          <word id="30" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="31" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="4" dep="suj">Borne</word>
-          <word id="2" lem="commémoratif" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">commémorative</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="4" lem="rappeler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">rappelle</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="événement" postag="NC" morpho="g=m|n=s" head="4" dep="obj">événement</word>
-          <word id="7" lem="local" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">local</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="9" lem="borne" postag="NC" morpho="g=f|n=s" head="4" dep="mod">borne</word>
-          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="11" lem="deux" postag="NC" morpho="g=m" head="10" dep="prep">Trois</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Puissances</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="14" lem="borne" postag="NC" morpho="g=f|n=s" head="4" dep="mod">borne</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Terre</word>
-          <word id="18" lem="sacrer" postag="ADJ" morpho="g=f|n=s|t=past" head="17" dep="mod">sacrée</word>
-          <word id="19" lem=")" postag="PONCT" morpho="_" head="17" dep="ponct">)</word>
-          <word id="20" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="dans" postag="P" morpho="_" head="9" dep="mod">Dans</word>
-          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
-          <word id="3" lem="infrastructure" postag="NC" morpho="g=f|n=p" head="1" dep="prep">infrastructures</word>
-          <word id="4" lem="routier" postag="ADJ" morpho="g=f|n=p" head="3" dep="mod">routières</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="borne" postag="NC" morpho="g=f|n=s" head="9" dep="suj">borne</word>
-          <word id="8" lem="routier" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">routière</word>
-          <word id="9" lem="donner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">donne</word>
-          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
-          <word id="11" lem="indication" postag="NC" morpho="g=f|n=p" head="9" dep="obj">indications</word>
-          <word id="12" lem="sur" postag="P" morpho="_" head="11" dep="dep">sur</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="route" postag="NC" morpho="g=f|n=s" head="12" dep="prep">route</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="16" lem="sur" postag="P" morpho="_" head="15" dep="dep_coord">sur</word>
-          <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
-          <word id="18" lem="distance" postag="NC" morpho="g=f|n=p" head="16" dep="prep">distances</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="version" postag="NC" morpho="g=f|n=s" head="2" dep="ats">version</word>
-          <word id="5" lem="moderne" postag="ADJ" morpho="n=s" head="4" dep="mod">moderne</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="borne" postag="NC" morpho="g=f|n=s" head="6" dep="prep">borne</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">milliaire</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="histoire" postag="NC" morpho="g=f|n=s" head="0" dep="root">Histoire</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">milliaire</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="borne" postag="NC" morpho="g=f|n=s" head="1" dep="mod">borne</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="voie" postag="NC" morpho="g=f|n=s" head="5" dep="prep">voie</word>
-          <word id="7" lem="romain" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">romaine</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="informatique" postag="NC" morpho="g=f|n=s" head="0" dep="_">Informatique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Wi-Fi</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="zone" postag="NC" morpho="g=f|n=s" head="1" dep="mod">zone</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="accès" postag="NC" morpho="g=m" head="5" dep="prep">accès</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="9" lem="connexion" postag="NC" morpho="g=f|n=s" head="7" dep="prep">connexion</word>
-          <word id="10" lem="sans" postag="P" morpho="_" head="9" dep="dep">sans</word>
-          <word id="11" lem="fil" postag="NC" morpho="g=m|n=s" head="10" dep="prep">fil</word>
-          <word id="12" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-          <word id="14" lem="réseau" postag="NC" morpho="g=m|n=s" head="12" dep="prep">réseau</word>
-          <word id="15" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="root">Borne</word>
-          <word id="2" lem="interactif" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">interactive</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="équipement" postag="NC" morpho="g=m|n=s" head="1" dep="mod">équipement</word>
-          <word id="5" lem="informatique" postag="ADJ" morpho="n=s" head="4" dep="mod">informatique</word>
-          <word id="6" lem="donner" postag="VPR" morpho="t=pst" head="4" dep="mod">donnant</word>
-          <word id="7" lem="accès" postag="NC" morpho="g=m" head="6" dep="obj">accès</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="6" dep="a_obj">à</word>
-          <word id="9" lem="certaines" postag="DET" morpho="g=f|n=p" head="10" dep="det">certaines</word>
-          <word id="10" lem="ressource" postag="NC" morpho="g=f|n=p" head="8" dep="prep">ressources</word>
-          <word id="11" lem="logiciel" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">logicielles</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="arcade" postag="NC" morpho="g=f|n=s" head="2" dep="prep">arcade</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="meuble" postag="NC" morpho="g=m|n=s" head="1" dep="mod">meuble</word>
-          <word id="6" lem="équiper" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">équipé</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="de_obj">d'</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="jeu" postag="NC" morpho="g=m|n=s" head="7" dep="prep">jeu</word>
-          <word id="10" lem="_" postag="ADJ" morpho="_" head="9" dep="mod">vidéo</word>
-          <word id="11" lem="payant" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">payant</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="mathématique" postag="NC" morpho="g=f|n=p" head="0" dep="root">Mathématiques</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="en" postag="P" morpho="_" head="7" dep="mod">En</word>
-          <word id="2" lem="analyse" postag="NC" morpho="g=f|n=s" head="1" dep="prep">analyse</word>
-          <word id="3" lem="réel" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">réelle</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-          <word id="6" lem="borne" postag="NC" morpho="g=f|n=s" head="7" dep="suj">borne</word>
-          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="minorant" postag="NC" morpho="g=m|n=s" head="7" dep="ats">minorant</word>
-          <word id="10" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
-          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="12" lem="majorant" postag="NC" morpho="g=m|n=s" head="10" dep="dep_coord">majorant</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
-          <word id="15" lem="ensemble" postag="NC" morpho="g=m|n=s" head="13" dep="prep">ensemble</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="valeur" postag="NC" morpho="g=f|n=p" head="16" dep="prep">valeurs</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="20" lem="une" postag="DET" morpho="g=f|n=s" head="21" dep="det">une</word>
-          <word id="21" lem="fonction" postag="NC" morpho="g=f|n=s" head="19" dep="prep">fonction</word>
-          <word id="22" lem="ou" postag="CC" morpho="_" head="19" dep="coord">ou</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep_coord">d'</word>
-          <word id="24" lem="une" postag="DET" morpho="g=f|n=s" head="25" dep="det">une</word>
-          <word id="25" lem="suite" postag="NC" morpho="g=f|n=s" head="23" dep="prep">suite</word>
-          <word id="26" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="borne" postag="NC" morpho="g=f|n=p" head="6" dep="suj">bornes</word>
-          <word id="3" lem="inférieur" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">inférieure</word>
-          <word id="4" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="5" lem="supérieur" postag="ADJ" morpho="g=f|n=s" head="4" dep="dep_coord">supérieure</word>
-          <word id="6" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="7" lem="respectivement" postag="ADV" morpho="_" head="6" dep="mod">respectivement</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="11" dep="det">le</word>
-          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
-          <word id="10" lem="grand" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">grand</word>
-          <word id="11" lem="minorant" postag="NC" morpho="g=m|n=s" head="6" dep="ats">minorant</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
-          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
-          <word id="14" lem="plus" postag="ADV" morpho="_" head="15" dep="mod">plus</word>
-          <word id="15" lem="petit" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">petit</word>
-          <word id="16" lem="majorant" postag="NC" morpho="g=m|n=s" head="12" dep="dep_coord">majorant</word>
-          <word id="17" lem="lorsqu'" postag="CS" morpho="_" head="6" dep="mod">lorsqu'</word>
-          <word id="18" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="19" dep="suj">ils</word>
-          <word id="19" lem="exister" postag="V" morpho="n=p|p=3|t=pst" head="17" dep="sub">existent</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="en" postag="P" morpho="_" head="15" dep="mod">En</word>
-          <word id="2" lem="théorie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">théorie</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="ordre" postag="NC" morpho="g=m|n=p" head="3" dep="prep">ordres</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="5" dep="dep_coord">en</word>
-          <word id="7" lem="topologie" postag="NC" morpho="g=f|n=s" head="6" dep="prep">topologie</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="notion" postag="NC" morpho="g=f|n=s" head="15" dep="suj">notion</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">d'</word>
-          <word id="12" lem="intervalle" postag="NC" morpho="g=m|n=s" head="11" dep="prep">intervalle</word>
-          <word id="13" lem="borner" postag="VPP" morpho="g=m|n=s|t=past" head="12" dep="mod">borné</word>
-          <word id="14" lem="se" postag="CLR" morpho="n=p|p=3" head="15" dep="aff">se</word>
-          <word id="15" lem="généraliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">généralise</word>
-          <word id="16" lem="en_partie" postag="ADV" morpho="_" head="15" dep="mod">en_partie</word>
-          <word id="17" lem="borner" postag="VPP" morpho="g=f|n=s|t=past" head="15" dep="ats">bornée</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="15" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="4" dep="suj">Borne</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">FDCR</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="4" lem="borner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">borne</word>
-          <word id="5" lem="inférieur" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">inférieure</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="4" dep="mod">en</word>
-          <word id="8" lem="statistique" postag="NC" morpho="g=f|n=p" head="7" dep="prep">statistiques</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="10" lem="sur" postag="P" morpho="_" head="4" dep="mod">sur</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="variance" postag="NC" morpho="g=f|n=s" head="10" dep="prep">variance</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
-          <word id="15" lem="estimateur" postag="NC" morpho="g=m|n=s" head="13" dep="prep">estimateur</word>
-          <word id="16" lem="sans" postag="P" morpho="_" head="15" dep="dep">sans</word>
-          <word id="17" lem="biais" postag="NC" morpho="g=m" head="16" dep="prep">biais</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Gilbert-Varshamov</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="minoration" postag="NC" morpho="g=f|n=s" head="1" dep="mod">minoration</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="8" lem="théorie" postag="NC" morpho="g=f|n=s" head="7" dep="prep">théorie</word>
-          <word id="9" lem="de" postag="P+D" morpho="n=p" head="8" dep="dep">des</word>
-          <word id="10" lem="code" postag="NC" morpho="g=m|n=p" head="9" dep="prep">codes</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="distance" postag="NC" morpho="g=f|n=s" head="12" dep="prep">distance</word>
-          <word id="15" lem="minimal" postag="ADJ" morpho="g=f|n=s" head="14" dep="mod">minimale</word>
-          <word id="16" lem="de" postag="P+D" morpho="n=p" head="14" dep="dep">des</word>
-          <word id="17" lem="code" postag="NC" morpho="g=m|n=p" head="16" dep="prep">codes</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="électronique" postag="NC" morpho="g=f|n=s" head="0" dep="root">Électronique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="dipôle" postag="NC" morpho="g=m|n=s" head="2" dep="prep">dipôle</word>
-          <word id="5" lem="électrique" postag="ADJ" morpho="n=s" head="4" dep="mod">électrique</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="connexion" postag="NC" morpho="g=f|n=s" head="1" dep="mod">connexion</word>
-          <word id="8" lem="qui" postag="PROREL" morpho="n=s" head="10" dep="suj">qui</word>
-          <word id="9" lem="lui" postag="CLO" morpho="n=s|p=3" head="10" dep="a_obj">lui</word>
-          <word id="10" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="mod_rel">permet</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="obj">d'</word>
-          <word id="12" lem="être" postag="VINF" morpho="_" head="13" dep="aux_pass">être</word>
-          <word id="13" lem="relier" postag="VPP" morpho="g=m|n=s|t=past" head="11" dep="prep">relié</word>
-          <word id="14" lem="dans" postag="P" morpho="_" head="13" dep="mod">dans</word>
-          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
-          <word id="16" lem="circuit" postag="NC" morpho="g=m|n=s" head="14" dep="prep">circuit</word>
-          <word id="17" lem="électrique" postag="ADJ" morpho="n=s" head="16" dep="mod">électrique</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="physique" postag="ADJ" morpho="n=s" head="0" dep="_">Physique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Froissart</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="limitation" postag="NC" morpho="g=f|n=s" head="1" dep="mod">limitation</word>
-          <word id="6" lem="sur" postag="P" morpho="_" head="5" dep="dep">sur</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="section" postag="NC" morpho="g=f|n=s" head="6" dep="prep">section</word>
-          <word id="9" lem="efficace" postag="ADJ" morpho="n=s" head="8" dep="mod">efficace</word>
-          <word id="10" lem="total" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">totale</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="12" lem="collision" postag="NC" morpho="g=f|n=s" head="11" dep="prep">collision</word>
-          <word id="13" lem="entre" postag="P" morpho="_" head="8" dep="dep">entre</word>
-          <word id="14" lem="particule" postag="NC" morpho="g=f|n=p" head="13" dep="prep">particules</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="nom" postag="NC" morpho="g=m|n=p" head="0" dep="_">Noms</word>
-          <word id="2" lem="propre" postag="ADJ" morpho="n=p" head="1" dep="mod">propres</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Cristal" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Cristal</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="récompense" postag="NC" morpho="g=f|n=s" head="1" dep="mod">récompense</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="milieu" postag="NC" morpho="g=m|n=s" head="6" dep="prep">milieu</word>
-          <word id="8" lem="professionnel" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">professionnel</word>
-          <word id="9" lem="décerner" postag="VPP" morpho="g=f|n=s|t=past" head="5" dep="mod">décernée</word>
-          <word id="10" lem="par" postag="P" morpho="_" head="9" dep="p_obj">par</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="10" dep="prep">Union</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Belge</word>
-          <word id="14" lem="de" postag="P+D" morpho="n=p" head="12" dep="dep">des</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="prep">Géomètres-Experts</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="patronyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Patronyme</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nom</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="3" lem="famille" postag="NC" morpho="g=f|n=s" head="2" dep="prep">famille</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Alain" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Alain</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1915-1962</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="poète" postag="NC" morpho="n=s" head="1" dep="mod">poète</word>
-          <word id="8" lem="français" postag="ADJ" morpho="g=m" head="7" dep="mod">français</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="pierre" postag="NC" morpho="g=f|n=s" head="0" dep="_">Pierre</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1944-</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="scientifique" postag="ADJ" morpho="n=s" head="8" dep="mod">scientifique</word>
-          <word id="8" lem="français" postag="ADJ" morpho="g=m" head="1" dep="mod">français</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="Dominique" postag="NPP" morpho="n=s" head="0" dep="_">Dominique</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1939-</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="historien" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">historien</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="0" dep="_">et</word>
-          <word id="9" lem="haut" postag="ADJ" morpho="g=m|n=s" head="8" dep="dep_coord">haut</word>
-          <word id="10" lem="fonctionnaire" postag="NC" morpho="n=s" head="8" dep="dep_coord">fonctionnaire</word>
-          <word id="11" lem="français" postag="ADJ" morpho="g=m" head="10" dep="mod">français</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="8" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="Étienne" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Étienne</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1907-1993</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="philosophe" postag="NC" morpho="n=s" head="1" dep="mod">philosophe</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="9" lem="journaliste" postag="NC" morpho="n=s" head="8" dep="dep_coord">journaliste</word>
-          <word id="10" lem="français" postag="ADJ" morpho="g=m" head="7" dep="mod">français</word>
-          <word id="11" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="olivier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Olivier</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1966-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="musicien" postag="NC" morpho="g=m|n=s" head="1" dep="mod">musicien</word>
-          <word id="9" lem="français" postag="ADJ" morpho="g=m" head="8" dep="mod">français</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="olivier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Olivier</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1960-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Scénographe</word>
-          <word id="9" lem="français" postag="NC" morpho="g=m" head="8" dep="mod">français</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="François" postag="NPP" morpho="g=m|n=s" head="0" dep="_">François</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1968-</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="1" dep="mod">auteur-compositeur-interprète</word>
-          <word id="8" lem="français" postag="ADJ" morpho="g=m" head="7" dep="mod">français</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="guillaume" postag="NC" morpho="g=m|n=s" head="0" dep="_">Guillaume</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1988-</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="joueur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">joueur</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="football" postag="NC" morpho="g=m|n=s" head="8" dep="prep">football</word>
-          <word id="10" lem="français" postag="ADJ" morpho="g=m" head="9" dep="mod">français</word>
-          <word id="11" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="Lucien" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Lucien</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1884-1954</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="homme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">homme</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-          <word id="9" lem="affaire" postag="NC" morpho="g=f|n=p" head="8" dep="prep">affaires</word>
-          <word id="10" lem="québécois" postag="ADJ" morpho="g=m" head="7" dep="mod">québécois</word>
-          <word id="11" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="Geneviève" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Geneviève</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="mannequin" postag="NC" morpho="g=m|n=s" head="1" dep="mod">mannequin</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="animateur" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">animatrice</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="télévision" postag="NC" morpho="g=f|n=s" head="7" dep="prep">télévision</word>
-          <word id="9" lem="québécois" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">québécoise</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="Paul" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Paul</word>
-          <word id="2" lem="Borne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Borne</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="acteur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">acteur</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="doublage" postag="NC" morpho="g=m|n=s" head="5" dep="prep">doublage</word>
-          <word id="7" lem="français" postag="ADJ" morpho="g=m" head="6" dep="mod">français</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -1026,16 +182,7 @@ Borne de Gilbert-Varshamov, minoration, en théorie des codes, de la distance mi
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="toponyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Toponyme</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nom</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="3" lem="lieu" postag="NC" morpho="g=m|n=s" head="2" dep="prep">lieu</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -1045,608 +192,85 @@ Borne de Gilbert-Varshamov, minoration, en théorie des codes, de la distance mi
       <document>Borne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="commune" postag="NC" morpho="g=f|n=s" head="1" dep="mod">commune</word>
-          <word id="4" lem="français" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">française</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="Ardèche" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Ardèche</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="commune" postag="NC" morpho="g=f|n=s" head="1" dep="mod">commune</word>
-          <word id="4" lem="français" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">française</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="Haute-Loire" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Haute-Loire</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="commune" postag="NC" morpho="g=f|n=s" head="1" dep="mod">commune</word>
-          <word id="4" lem="français" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">française</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="Drôme" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Drôme</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="commune" postag="NC" morpho="g=f|n=s" head="1" dep="mod">commune</word>
-          <word id="4" lem="allemand" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">allemande</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="arrondissement" postag="NC" morpho="g=m|n=s" head="5" dep="prep">arrondissement</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Salzland</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="ville" postag="NC" morpho="g=f|n=s" head="1" dep="mod">ville</word>
-          <word id="4" lem="hollandais" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">hollandaise</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="province" postag="NC" morpho="g=f|n=s" head="5" dep="prep">province</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Overijssel</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Grande</word>
-          <word id="3" lem="Borne" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Borne</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="cité" postag="NC" morpho="g=f|n=s" head="2" dep="mod">cité</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="habitat" postag="NC" morpho="g=m|n=s" head="6" dep="prep">habitat</word>
-          <word id="8" lem="social" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">social</word>
-          <word id="9" lem="dans" postag="P" morpho="_" head="5" dep="dep">dans</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="Essonne" postag="NPP" morpho="g=f|n=s" head="9" dep="prep">Essonne</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="rivière" postag="NC" morpho="g=f|n=s" head="1" dep="mod">rivière</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="Haute-Savoie" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Haute-Savoie</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="rivière" postag="NC" morpho="g=f|n=s" head="1" dep="mod">rivière</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="Haute-Loire" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Haute-Loire</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="rivière" postag="NC" morpho="g=f|n=s" head="1" dep="mod">rivière</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-          <word id="6" lem="Ardèche" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Ardèche</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep_coord">de</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="Lozère" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Lozère</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="massif" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">Massif</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="de_obj">des</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Bornes</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="massif" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">massif</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="1" dep="mod">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Haute-Savoie" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Haute-Savoie</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="géographie" postag="NC" morpho="g=f|n=s" head="0" dep="_">Géographie</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="root">Borne</word>
-          <word id="2" lem="géographique" postag="ADJ" morpho="n=s" head="1" dep="mod">géographique</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="pierre" postag="NC" morpho="g=f|n=s" head="1" dep="mod">pierre</word>
-          <word id="5" lem="enchâsser" postag="VPP" morpho="g=f|n=s|t=past" head="4" dep="mod">enchâssée</word>
-          <word id="6" lem="dans" postag="P" morpho="_" head="5" dep="mod">dans</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-          <word id="8" lem="sol" postag="NC" morpho="g=m|n=p" head="6" dep="prep">sol</word>
-          <word id="9" lem="pour" postag="P" morpho="_" head="5" dep="mod">pour</word>
-          <word id="10" lem="identifier" postag="VINF" morpho="_" head="9" dep="prep">identifier</word>
-          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="12" lem="lieu" postag="NC" morpho="g=m|n=s" head="10" dep="obj">lieu</word>
-          <word id="13" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="14" lem="tel" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">telle</word>
-          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
-          <word id="16" lem="borne" postag="NC" morpho="g=f|n=s" head="10" dep="obj">borne</word>
-          <word id="17" lem="géodésique" postag="ADJ" morpho="n=s" head="16" dep="mod">géodésique</word>
-          <word id="18" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="20" lem="baliser" postag="VINF" morpho="_" head="1" dep="dep">baliser</word>
-          <word id="21" lem="un" postag="DET" morpho="g=m|n=s" head="22" dep="det">un</word>
-          <word id="22" lem="trajet" postag="NC" morpho="g=m|n=s" head="20" dep="obj">trajet</word>
-          <word id="23" lem="ou" postag="CC" morpho="_" head="20" dep="coord">ou</word>
-          <word id="24" lem="limiter" postag="VINF" morpho="_" head="23" dep="dep_coord">limiter</word>
-          <word id="25" lem="un" postag="DET" morpho="g=m|n=s" head="26" dep="det">un</word>
-          <word id="26" lem="territoire" postag="NC" morpho="g=m|n=s" head="24" dep="obj">territoire</word>
-          <word id="27" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="28" lem="borne" postag="NC" morpho="g=f|n=s" head="1" dep="mod">borne</word>
-          <word id="29" lem="frontière" postag="NC" morpho="g=f|n=s" head="28" dep="mod">frontière</word>
-          <word id="30" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="31" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="4" dep="suj">Borne</word>
-          <word id="2" lem="commémoratif" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">commémorative</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="4" lem="rappeler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">rappelle</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="événement" postag="NC" morpho="g=m|n=s" head="4" dep="obj">événement</word>
-          <word id="7" lem="local" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">local</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="9" lem="borne" postag="NC" morpho="g=f|n=s" head="4" dep="mod">borne</word>
-          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="11" lem="deux" postag="NC" morpho="g=m" head="10" dep="prep">Trois</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Puissances</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="14" lem="borne" postag="NC" morpho="g=f|n=s" head="4" dep="mod">borne</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Terre</word>
-          <word id="18" lem="sacrer" postag="ADJ" morpho="g=f|n=s|t=past" head="17" dep="mod">sacrée</word>
-          <word id="19" lem=")" postag="PONCT" morpho="_" head="17" dep="ponct">)</word>
-          <word id="20" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="dans" postag="P" morpho="_" head="9" dep="mod">Dans</word>
-          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
-          <word id="3" lem="infrastructure" postag="NC" morpho="g=f|n=p" head="1" dep="prep">infrastructures</word>
-          <word id="4" lem="routier" postag="ADJ" morpho="g=f|n=p" head="3" dep="mod">routières</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="borne" postag="NC" morpho="g=f|n=s" head="9" dep="suj">borne</word>
-          <word id="8" lem="routier" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">routière</word>
-          <word id="9" lem="donner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">donne</word>
-          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
-          <word id="11" lem="indication" postag="NC" morpho="g=f|n=p" head="9" dep="obj">indications</word>
-          <word id="12" lem="sur" postag="P" morpho="_" head="11" dep="dep">sur</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="route" postag="NC" morpho="g=f|n=s" head="12" dep="prep">route</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="16" lem="sur" postag="P" morpho="_" head="15" dep="dep_coord">sur</word>
-          <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
-          <word id="18" lem="distance" postag="NC" morpho="g=f|n=p" head="16" dep="prep">distances</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="version" postag="NC" morpho="g=f|n=s" head="2" dep="ats">version</word>
-          <word id="5" lem="moderne" postag="ADJ" morpho="n=s" head="4" dep="mod">moderne</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="borne" postag="NC" morpho="g=f|n=s" head="6" dep="prep">borne</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">milliaire</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="4" dep="suj">Borne</word>
-        <word id="2" lem="commémoratif" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">commémorative</word>
-        <word id="3" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="4" lem="rappeler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">rappelle</word>
-        <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-        <word id="6" lem="événement" postag="NC" morpho="g=m|n=s" head="4" dep="obj">événement</word>
-        <word id="7" lem="local" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">local</word>
-        <word id="8" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="root">borne</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="deux" postag="NC" morpho="g=m" head="3" dep="prep">Trois</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Puissances</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">borne</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Terre</word>
-          <word id="5" lem="sacrer" postag="ADJ" morpho="g=f|n=s|t=past" head="4" dep="mod">sacrée</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="informatique" postag="NC" morpho="g=f|n=s" head="0" dep="_">Informatique</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="5" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Wi-Fi</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="zone" postag="NC" morpho="g=f|n=s" head="1" dep="mod">zone</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="accès" postag="NC" morpho="g=m" head="5" dep="prep">accès</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="9" lem="connexion" postag="NC" morpho="g=f|n=s" head="7" dep="prep">connexion</word>
-          <word id="10" lem="sans" postag="P" morpho="_" head="9" dep="dep">sans</word>
-          <word id="11" lem="fil" postag="NC" morpho="g=m|n=s" head="10" dep="prep">fil</word>
-          <word id="12" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-          <word id="14" lem="réseau" postag="NC" morpho="g=m|n=s" head="12" dep="prep">réseau</word>
-          <word id="15" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="root">Borne</word>
-          <word id="2" lem="interactif" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">interactive</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="équipement" postag="NC" morpho="g=m|n=s" head="1" dep="mod">équipement</word>
-          <word id="5" lem="informatique" postag="ADJ" morpho="n=s" head="4" dep="mod">informatique</word>
-          <word id="6" lem="donner" postag="VPR" morpho="t=pst" head="4" dep="mod">donnant</word>
-          <word id="7" lem="accès" postag="NC" morpho="g=m" head="6" dep="obj">accès</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="6" dep="a_obj">à</word>
-          <word id="9" lem="certaines" postag="DET" morpho="g=f|n=p" head="10" dep="det">certaines</word>
-          <word id="10" lem="ressource" postag="NC" morpho="g=f|n=p" head="8" dep="prep">ressources</word>
-          <word id="11" lem="logiciel" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">logicielles</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="arcade" postag="NC" morpho="g=f|n=s" head="2" dep="prep">arcade</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="meuble" postag="NC" morpho="g=m|n=s" head="1" dep="mod">meuble</word>
-          <word id="6" lem="équiper" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">équipé</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="de_obj">d'</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="jeu" postag="NC" morpho="g=m|n=s" head="7" dep="prep">jeu</word>
-          <word id="10" lem="_" postag="ADJ" morpho="_" head="9" dep="mod">vidéo</word>
-          <word id="11" lem="payant" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">payant</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:14</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="mathématique" postag="NC" morpho="g=f|n=p" head="0" dep="root">Mathématiques</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:14</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="7" dep="mod">En</word>
-          <word id="2" lem="analyse" postag="NC" morpho="g=f|n=s" head="1" dep="prep">analyse</word>
-          <word id="3" lem="réel" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">réelle</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-          <word id="6" lem="borne" postag="NC" morpho="g=f|n=s" head="7" dep="suj">borne</word>
-          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="minorant" postag="NC" morpho="g=m|n=s" head="7" dep="ats">minorant</word>
-          <word id="10" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
-          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="12" lem="majorant" postag="NC" morpho="g=m|n=s" head="10" dep="dep_coord">majorant</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
-          <word id="15" lem="ensemble" postag="NC" morpho="g=m|n=s" head="13" dep="prep">ensemble</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="valeur" postag="NC" morpho="g=f|n=p" head="16" dep="prep">valeurs</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="20" lem="une" postag="DET" morpho="g=f|n=s" head="21" dep="det">une</word>
-          <word id="21" lem="fonction" postag="NC" morpho="g=f|n=s" head="19" dep="prep">fonction</word>
-          <word id="22" lem="ou" postag="CC" morpho="_" head="19" dep="coord">ou</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep_coord">d'</word>
-          <word id="24" lem="une" postag="DET" morpho="g=f|n=s" head="25" dep="det">une</word>
-          <word id="25" lem="suite" postag="NC" morpho="g=f|n=s" head="23" dep="prep">suite</word>
-          <word id="26" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="borne" postag="NC" morpho="g=f|n=p" head="6" dep="suj">bornes</word>
-          <word id="3" lem="inférieur" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">inférieure</word>
-          <word id="4" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="5" lem="supérieur" postag="ADJ" morpho="g=f|n=s" head="4" dep="dep_coord">supérieure</word>
-          <word id="6" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="7" lem="respectivement" postag="ADV" morpho="_" head="6" dep="mod">respectivement</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="11" dep="det">le</word>
-          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
-          <word id="10" lem="grand" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">grand</word>
-          <word id="11" lem="minorant" postag="NC" morpho="g=m|n=s" head="6" dep="ats">minorant</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
-          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
-          <word id="14" lem="plus" postag="ADV" morpho="_" head="15" dep="mod">plus</word>
-          <word id="15" lem="petit" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">petit</word>
-          <word id="16" lem="majorant" postag="NC" morpho="g=m|n=s" head="12" dep="dep_coord">majorant</word>
-          <word id="17" lem="lorsqu'" postag="CS" morpho="_" head="6" dep="mod">lorsqu'</word>
-          <word id="18" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="19" dep="suj">ils</word>
-          <word id="19" lem="exister" postag="V" morpho="n=p|p=3|t=pst" head="17" dep="sub">existent</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="15" dep="mod">En</word>
-          <word id="2" lem="théorie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">théorie</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="ordre" postag="NC" morpho="g=m|n=p" head="3" dep="prep">ordres</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="5" dep="dep_coord">en</word>
-          <word id="7" lem="topologie" postag="NC" morpho="g=f|n=s" head="6" dep="prep">topologie</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="notion" postag="NC" morpho="g=f|n=s" head="15" dep="suj">notion</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">d'</word>
-          <word id="12" lem="intervalle" postag="NC" morpho="g=m|n=s" head="11" dep="prep">intervalle</word>
-          <word id="13" lem="borner" postag="VPP" morpho="g=m|n=s|t=past" head="12" dep="mod">borné</word>
-          <word id="14" lem="se" postag="CLR" morpho="n=p|p=3" head="15" dep="aff">se</word>
-          <word id="15" lem="généraliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">généralise</word>
-          <word id="16" lem="en_partie" postag="ADV" morpho="_" head="15" dep="mod">en_partie</word>
-          <word id="17" lem="borner" postag="VPP" morpho="g=f|n=s|t=past" head="15" dep="ats">bornée</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="15" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="4" dep="suj">Borne</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">FDCR</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="4" lem="borner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">borne</word>
-          <word id="5" lem="inférieur" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">inférieure</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="4" dep="mod">en</word>
-          <word id="8" lem="statistique" postag="NC" morpho="g=f|n=p" head="7" dep="prep">statistiques</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="10" lem="sur" postag="P" morpho="_" head="4" dep="mod">sur</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="variance" postag="NC" morpho="g=f|n=s" head="10" dep="prep">variance</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
-          <word id="15" lem="estimateur" postag="NC" morpho="g=m|n=s" head="13" dep="prep">estimateur</word>
-          <word id="16" lem="sans" postag="P" morpho="_" head="15" dep="dep">sans</word>
-          <word id="17" lem="biais" postag="NC" morpho="g=m" head="16" dep="prep">biais</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="borne" postag="NC" morpho="g=f|n=s" head="0" dep="_">Borne</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Gilbert-Varshamov</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="minoration" postag="NC" morpho="g=f|n=s" head="1" dep="mod">minoration</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="8" lem="théorie" postag="NC" morpho="g=f|n=s" head="7" dep="prep">théorie</word>
-          <word id="9" lem="de" postag="P+D" morpho="n=p" head="8" dep="dep">des</word>
-          <word id="10" lem="code" postag="NC" morpho="g=m|n=p" head="9" dep="prep">codes</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="distance" postag="NC" morpho="g=f|n=s" head="12" dep="prep">distance</word>
-          <word id="15" lem="minimal" postag="ADJ" morpho="g=f|n=s" head="14" dep="mod">minimale</word>
-          <word id="16" lem="de" postag="P+D" morpho="n=p" head="14" dep="dep">des</word>
-          <word id="17" lem="code" postag="NC" morpho="g=m|n=p" head="16" dep="prep">codes</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
-      <span begin="1" end="6" />
-      <text>Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="items" idSE="0">
-      <span begin="8" end="630" id="0" />
-      <text id="0">Patronyme
-Nom de famille
-Alain Borne (1915-1962), poète français ;
-Pierre Borne (1944-), scientifique français ;
-Dominique Borne (1939- ), historien et haut fonctionnaire français ;
-Étienne Borne (1907-1993), philosophe et journaliste français ;
-Olivier Borne, (1966-), musicien français ;
-Olivier Borne, (1960-), Scénographe français ;
-François Borne (1968-), auteur-compositeur-interprète français ;
-Guillaume Borne (1988-), joueur de football français ;
-Lucien Borne (1884-1954), homme d'affaires québécois ;
-Geneviève Borne, mannequin et animatrice de télévision québécoise ; * Paul Borne, acteur de doublage français.</text>
-      <span begin="631" end="1101" id="1" />
-      <text id="1">Toponyme
-Nom de lieu
-Borne, commune française de l'Ardèche ;
-Borne, commune française de la Haute-Loire ;
-Borne, commune française de la Drôme ;
-Borne, commune allemande de l'arrondissement du Salzland ;
-Borne, ville hollandaise de la province d'Overijssel ;
-La Grande Borne, cité d'habitat social dans l'Essonne.
-Borne, rivière de la Haute-Savoie
-Borne, rivière de la Haute-Loire
-Borne, rivière de l'Ardèche et de la Lozère.
-Massif des Bornes, massif de la Haute-Savoie</text>
-      <span begin="1103" end="1110" id="2" />
-      <text id="2">Massifs</text>
-      <span begin="1111" end="1121" id="3" />
-      <text id="3">Nom commun</text>
-      <span begin="1122" end="1209" id="4" />
-      <text id="4">Ameublement
-Une borne est un siège à plusieurs places avec un dossier commun au centre.</text>
-      <span begin="1210" end="1652" id="5" />
-      <text id="5">Géographie
-Borne géographique, pierre enchâssée dans le sol pour identifier un lieu (telle une borne géodésique), baliser un trajet ou limiter un territoire (borne frontière) ;
-Borne commémorative, rappelle un événement local (borne des Trois Puissances, borne de la Terre sacrée) ;
-Dans les infrastructures routières, une borne routière donne des indications sur la route et sur les distances. C'est la version moderne de la borne milliaire.</text>
-      <span begin="1653" end="1701" id="6" />
-      <text id="6">Histoire
-Borne milliaire, borne de voie romaine.</text>
-      <span begin="1702" end="1926" id="7" />
-      <text id="7">Informatique
-Borne Wi-Fi, zone d'accès à une connexion sans fil à un réseau ;
-Borne interactive, équipement informatique donnant accès à certaines ressources logicielles ;
-Borne d'arcade, meuble équipé d'un jeu vidéo payant.</text>
-      <span begin="1927" end="2470" id="8" />
-      <text id="8">Mathématiques
-En analyse réelle, une borne est un minorant ou un majorant d'un ensemble de valeurs, d'une fonction ou d'une suite. Les bornes inférieure et supérieure sont respectivement le plus grand minorant et le plus petit majorant lorsqu'ils existent.
-En théorie des ordres et en topologie, la notion d'intervalle borné se généralise en partie bornée.
-Borne FDCR, borne inférieure, en statistiques, sur la variance d'un estimateur sans biais.
-Borne de Gilbert-Varshamov, minoration, en théorie des codes, de la distance minimale des codes</text>
-      <span begin="2472" end="2580" id="9" />
-      <text id="9">Électronique
-Borne d'un dipôle électrique, connexion qui lui permet d'être relié dans un circuit électrique.</text>
-      <span begin="2581" end="2682" id="10" />
-      <text id="10">Physique
-Borne de Froissart, limitation sur la section efficace totale de collision entre particules.</text>
-      <span begin="2683" end="2798" id="11" />
-      <text id="11">Noms propres
-Borne de Cristal, récompense du milieu professionnel décernée par l'Union Belge des Géomètres-Experts.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="primer" idSE="1">
       <span begin="1" end="25" />
       <text>Patronyme
 Nom de famille</text>
@@ -1654,12 +278,12 @@ Nom de famille</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="items" idSE="1">
+    <SEval type="items" idSE="0">
       <span begin="26" end="67" id="0" />
       <text id="0">Alain Borne (1915-1962), poète français ;</text>
       <span begin="68" end="113" id="1" />
@@ -1686,12 +310,12 @@ Nom de famille</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer" idSE="2">
+    <SEval type="primer" idSE="1">
       <span begin="1" end="21" />
       <text>Toponyme
 Nom de lieu</text>
@@ -1699,12 +323,12 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="items" idSE="2">
+    <SEval type="items" idSE="1">
       <span begin="22" end="61" id="0" />
       <text id="0">Borne, commune française de l'Ardèche ;</text>
       <span begin="62" end="106" id="1" />
@@ -1729,24 +353,24 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer" idSE="3">
+    <SEval type="primer" idSE="2">
       <span begin="1" end="11" />
       <text>Géographie</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="2">
       <span begin="12" end="177" id="0" />
       <text id="0">Borne géographique, pierre enchâssée dans le sol pour identifier un lieu (telle une borne géodésique), baliser un trajet ou limiter un territoire (borne frontière) ;</text>
       <span begin="178" end="283" id="1" />
@@ -1757,24 +381,24 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer" idSE="4">
+    <SEval type="primer" idSE="3">
       <span begin="1" end="51" />
       <text>Borne commémorative, rappelle un événement local (</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="items" idSE="4">
+    <SEval type="items" idSE="3">
       <span begin="50" end="78" id="0" />
       <text id="0">(borne des Trois Puissances,</text>
       <span begin="79" end="104" id="1" />
@@ -1783,24 +407,24 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer" idSE="5">
+    <SEval type="primer" idSE="4">
       <span begin="1" end="13" />
       <text>Informatique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="items" idSE="5">
+    <SEval type="items" idSE="4">
       <span begin="14" end="78" id="0" />
       <text id="0">Borne Wi-Fi, zone d'accès à une connexion sans fil à un réseau ;</text>
       <span begin="79" end="172" id="1" />
@@ -1811,24 +435,24 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="primer" idSE="6">
+    <SEval type="primer" idSE="5">
       <span begin="1" end="14" />
       <text>Mathématiques</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="items" idSE="6">
+    <SEval type="items" idSE="5">
       <span begin="15" end="257" id="0" />
       <text id="0">En analyse réelle, une borne est un minorant ou un majorant d'un ensemble de valeurs, d'une fonction ou d'une suite. Les bornes inférieure et supérieure sont respectivement le plus grand minorant et le plus petit majorant lorsqu'ils existent.</text>
       <span begin="258" end="357" id="1" />
@@ -1842,451 +466,265 @@ Nom de lieu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
-      <span begin="1" end="6" id="0" />
-      <text id="0">Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
-      <span begin="33" end="44" id="0" />
-      <text id="0">Alain Borne</text>
-      <span begin="75" end="88" id="1" />
-      <text id="1">Pierre Borne</text>
-      <span begin="121" end="136" id="2" />
-      <text id="2">Dominique Borne</text>
-      <span begin="190" end="203" id="3" />
-      <text id="3">Étienne Borne</text>
-      <span begin="254" end="267" id="4" />
-      <text id="4">Olivier Borne</text>
-      <span begin="298" end="311" id="5" />
-      <text id="5">Olivier Borne</text>
-      <span begin="345" end="359" id="6" />
-      <text id="6">François Borne</text>
-      <span begin="410" end="425" id="7" />
-      <text id="7">Guillaume Borne</text>
-      <span begin="465" end="477" id="8" />
-      <text id="8">Lucien Borne</text>
-      <span begin="520" end="535" id="9" />
-      <text id="9">Geneviève Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="1">
-      <span begin="652" end="657" id="0" />
-      <text id="0">Borne</text>
-      <span begin="692" end="697" id="1" />
-      <text id="1">Borne</text>
-      <span begin="737" end="742" id="2" />
-      <text id="2">Borne</text>
-      <span begin="776" end="781" id="3" />
-      <text id="3">Borne</text>
-      <span begin="835" end="840" id="4" />
-      <text id="4">Borne</text>
-      <span begin="890" end="905" id="5" />
-      <text id="5">La Grande Borne</text>
-      <span begin="945" end="950" id="6" />
-      <text id="6">Borne</text>
-      <span begin="979" end="984" id="7" />
-      <text id="7">Borne</text>
-      <span begin="1012" end="1017" id="8" />
-      <text id="8">Borne</text>
-      <span begin="1057" end="1074" id="9" />
-      <text id="9">Massif des Bornes</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="4">
-      <span begin="1134" end="1143" id="0" />
-      <text id="0">Une borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="5">
-      <span begin="1221" end="1239" id="0" />
-      <text id="0">Borne géographique</text>
-      <span begin="1387" end="1406" id="1" />
-      <text id="1">Borne commémorative</text>
-      <span begin="1529" end="1547" id="2" />
-      <text id="2">une borne routière</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="6">
-      <span begin="1662" end="1677" id="0" />
-      <text id="0">Borne milliaire</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="7">
-      <span begin="1780" end="1797" id="0" />
-      <text id="0">Borne interactive</text>
-      <span begin="1715" end="1726" id="1" />
-      <text id="1">Borne Wi-Fi</text>
-      <span begin="1874" end="1888" id="2" />
-      <text id="2">Borne d'arcade</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="8">
-      <span begin="2284" end="2294" id="0" />
-      <text id="0">Borne FDCR</text>
-      <span begin="1960" end="1969" id="1" />
-      <text id="1">une borne</text>
-      <span begin="2269" end="2282" id="2" />
-      <text id="2">partie bornée</text>
-      <span begin="2375" end="2401" id="3" />
-      <text id="3">Borne de Gilbert-Varshamov</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="9">
-      <span begin="2485" end="2490" id="0" />
-      <text id="0">Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="10">
-      <span begin="2590" end="2608" id="0" />
-      <text id="0">Borne de Froissart</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="11">
-      <span begin="2696" end="2712" id="0" />
-      <text id="0">Borne de Cristal</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
-      <span begin="8" end="17" id="0" />
-      <text id="0">Patronyme</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
-      <span begin="631" end="639" id="0" />
-      <text id="0">Toponyme</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="4">
-      <span begin="1122" end="1133" id="0" />
-      <text id="0">Ameublement</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="5">
-      <span begin="1210" end="1220" id="0" />
-      <text id="0">Géographie</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="6">
-      <span begin="1653" end="1661" id="0" />
-      <text id="0">Histoire</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="7">
-      <span begin="1702" end="1714" id="0" />
-      <text id="0">Informatique</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="8">
-      <span begin="1927" end="1940" id="0" />
-      <text id="0">Mathématiques</text>
-      <span begin="1941" end="1958" id="1" />
-      <text id="1">En analyse réelle</text>
-      <span begin="2184" end="2221" id="2" />
-      <text id="2">En théorie des ordres et en topologie</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="9">
-      <span begin="2472" end="2484" id="0" />
-      <text id="0">Électronique</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="10">
-      <span begin="2581" end="2589" id="0" />
-      <text id="0">Physique</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="item" idItem="11">
-      <span begin="2683" end="2695" id="0" />
-      <text id="0">Noms propres</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="26" end="37" id="0" />
       <text id="0">Alain Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
       <span begin="68" end="81" id="0" />
       <text id="0">Pierre Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
       <span begin="114" end="129" id="0" />
       <text id="0">Dominique Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
       <span begin="183" end="196" id="0" />
       <text id="0">Étienne Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="4">
+    <SEval type="concept" idSE="0" localisation="item" idItem="4">
       <span begin="247" end="260" id="0" />
       <text id="0">Olivier Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="5">
+    <SEval type="concept" idSE="0" localisation="item" idItem="5">
       <span begin="291" end="304" id="0" />
       <text id="0">Olivier Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="6">
+    <SEval type="concept" idSE="0" localisation="item" idItem="6">
       <span begin="338" end="352" id="0" />
       <text id="0">François Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="7">
+    <SEval type="concept" idSE="0" localisation="item" idItem="7">
       <span begin="403" end="418" id="0" />
       <text id="0">Guillaume Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="8">
+    <SEval type="concept" idSE="0" localisation="item" idItem="8">
       <span begin="458" end="470" id="0" />
       <text id="0">Lucien Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="9">
+    <SEval type="concept" idSE="0" localisation="item" idItem="9">
       <span begin="513" end="528" id="0" />
       <text id="0">Geneviève Borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
       <span begin="1" end="10" id="0" />
       <text id="0">Patronyme</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
       <span begin="1" end="9" id="0" />
       <text id="0">Toponyme</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="22" end="27" id="0" />
+      <text id="0">Borne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="62" end="67" id="0" />
+      <text id="0">Borne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
+      <span begin="107" end="112" id="0" />
+      <text id="0">Borne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
+      <span begin="146" end="151" id="0" />
+      <text id="0">Borne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
+      <span begin="205" end="210" id="0" />
+      <text id="0">Borne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="5">
+      <span begin="260" end="275" id="0" />
+      <text id="0">La Grande Borne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="6">
+      <span begin="315" end="320" id="0" />
+      <text id="0">Borne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="7">
+      <span begin="349" end="354" id="0" />
+      <text id="0">Borne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="8">
+      <span begin="382" end="387" id="0" />
+      <text id="0">Borne</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
+      <document>Borne.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="9">
+      <span begin="427" end="444" id="0" />
+      <text id="0">Massif des Bornes</text>
     </SEval>
   </annotation>
   <annotation type="2">
@@ -2297,8 +735,8 @@ Nom de lieu</text>
       <document>Borne.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
-      <span begin="22" end="27" id="0" />
-      <text id="0">Borne</text>
+      <span begin="12" end="30" id="0" />
+      <text id="0">Borne géographique</text>
     </SEval>
   </annotation>
   <annotation type="2">
@@ -2309,8 +747,8 @@ Nom de lieu</text>
       <document>Borne.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
-      <span begin="62" end="67" id="0" />
-      <text id="0">Borne</text>
+      <span begin="178" end="197" id="0" />
+      <text id="0">Borne commémorative</text>
     </SEval>
   </annotation>
   <annotation type="2">
@@ -2321,318 +759,198 @@ Nom de lieu</text>
       <document>Borne.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
-      <span begin="107" end="112" id="0" />
-      <text id="0">Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="3">
-      <span begin="146" end="151" id="0" />
-      <text id="0">Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="4">
-      <span begin="205" end="210" id="0" />
-      <text id="0">Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="5">
-      <span begin="260" end="275" id="0" />
-      <text id="0">La Grande Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="6">
-      <span begin="315" end="320" id="0" />
-      <text id="0">Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="7">
-      <span begin="349" end="354" id="0" />
-      <text id="0">Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="8">
-      <span begin="382" end="387" id="0" />
-      <text id="0">Borne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="9">
-      <span begin="427" end="444" id="0" />
-      <text id="0">Massif des Bornes</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
-      <span begin="12" end="30" id="0" />
-      <text id="0">Borne géographique</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="1">
-      <span begin="178" end="197" id="0" />
-      <text id="0">Borne commémorative</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="2">
       <span begin="320" end="338" id="0" />
       <text id="0">une borne routière</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
       <span begin="1" end="11" id="0" />
       <text id="0">Géographie</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="item" idItem="2">
+    <SEval type="circonstant" idSE="2" localisation="item" idItem="2">
       <span begin="284" end="318" id="0" />
       <text id="0">Dans les infrastructures routières</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
       <span begin="1" end="20" id="0" />
       <text id="0">Borne commémorative</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
       <span begin="51" end="77" id="0" />
       <text id="0">borne des Trois Puissances</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
       <span begin="79" end="103" id="0" />
       <text id="0">borne de la Terre sacrée</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
       <span begin="14" end="25" id="0" />
       <text id="0">Borne Wi-Fi</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
       <span begin="79" end="96" id="0" />
       <text id="0">Borne interactive</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="2">
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
       <span begin="173" end="187" id="0" />
       <text id="0">Borne d'arcade</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="5" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
       <span begin="1" end="13" id="0" />
       <text id="0">Informatique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
       <span begin="34" end="43" id="0" />
       <text id="0">une borne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
       <span begin="343" end="356" id="0" />
       <text id="0">partie bornée</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="2">
+    <SEval type="concept" idSE="5" localisation="item" idItem="2">
       <span begin="358" end="368" id="0" />
       <text id="0">Borne FDCR</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="3">
+    <SEval type="concept" idSE="5" localisation="item" idItem="3">
       <span begin="449" end="475" id="0" />
       <text id="0">Borne de Gilbert-Varshamov</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="5" localisation="primer" idItem="-1">
       <span begin="1" end="14" id="0" />
       <text id="0">Mathématiques</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="5" localisation="item" idItem="0">
       <span begin="15" end="32" id="0" />
       <text id="0">En analyse réelle</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="1">
+    <SEval type="circonstant" idSE="5" localisation="item" idItem="1">
       <span begin="258" end="295" id="0" />
       <text id="0">En théorie des ordres et en topologie</text>
     </SEval>
@@ -2640,8 +958,8 @@ Nom de lieu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -2654,8 +972,8 @@ Nom de lieu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -2668,8 +986,8 @@ Nom de lieu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -2685,8 +1003,8 @@ Nom de lieu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -2711,8 +1029,8 @@ Nom de lieu</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -2725,8 +1043,8 @@ Nom de lieu</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -2739,14 +1057,14 @@ Nom de lieu</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
-      <descriptive value="1" />
+      <descriptive value="0" />
       <narrative value="0" />
-      <explicative value="0" />
+      <explicative value="1" />
       <prescriptive value="0" />
       <procedurale value="0" />
       <argumentative value="0" />
@@ -2756,8 +1074,8 @@ Nom de lieu</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:12</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -2815,9 +1133,9 @@ Nom de lieu</text>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
-      <explicative value="1" />
+      <explicative value="0" />
       <prescriptive value="0" />
       <procedurale value="0" />
       <argumentative value="0" />
@@ -2854,12 +1172,12 @@ Nom de lieu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
-      <horizontale value="0" />
-      <verticale value="1" />
+      <horizontale value="1" />
+      <verticale value="0" />
       <navigationnelle value="0" />
       <hypertextuelle value="1" />
     </SEval>
@@ -2868,7 +1186,7 @@ Nom de lieu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -2882,7 +1200,7 @@ Nom de lieu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -2899,81 +1217,10 @@ Nom de lieu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 18:12</date>
+      <date>4/01/14 21:03</date>
       <document>Borne.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="1">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="1" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="4">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="4">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="4">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:09</date>
-      <document>Borne.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="4">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />
@@ -2994,12 +1241,12 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="5">
+    <SEval type="axe_visuel" idSE="4">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -3008,12 +1255,12 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="5">
+    <SEval type="axe_rhetorique" idSE="4">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -3022,12 +1269,12 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="5">
+    <SEval type="axe_intentionnel" idSE="4">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -3039,12 +1286,12 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:11</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 18:13</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="5">
+    <SEval type="axe_semantique" idSE="4">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />
@@ -3065,12 +1312,12 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="6">
+    <SEval type="axe_visuel" idSE="5">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -3079,12 +1326,12 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="6">
+    <SEval type="axe_rhetorique" idSE="5">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -3093,12 +1340,12 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="6">
+    <SEval type="axe_intentionnel" idSE="5">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -3110,12 +1357,12 @@ Nom de lieu</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 18:14</date>
       <document>Borne.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="6">
+    <SEval type="axe_semantique" idSE="5">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />

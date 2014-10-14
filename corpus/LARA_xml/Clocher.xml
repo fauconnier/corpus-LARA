@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SE>
@@ -12,45 +12,17 @@
       <text>Le clocher peut revêtir des formes très différentes, selon son plan : carré, polygonal, circulaire, parfois simple mur (clocher-mur ou campenard).</text>
       <span begin="721" end="867" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
     <SE>
       <id>1</id>
-      <text>Le clocher peut revêtir des formes très différentes, selon son plan : carré, polygonal, circulaire, parfois simple mur (clocher-mur ou campenard).</text>
-      <span begin="721" end="867" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
-      <text>Il arrive que la flèche d'un clocher ne soit pas droite : on parle alors de clocher tors, hélicoïdal ou vrillé.</text>
-      <span begin="1267" end="1379" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SE>
-      <id>3</id>
       <text>Communes dont le nom comporte le mot « clocher »
 Ailly-le-Haut-Clocher (Somme)
 Ferrières-Haut-Clocher (Eure)
@@ -66,13 +38,13 @@ Saint-Martin-du-Clocher (Charente)</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
     <SE>
-      <id>4</id>
+      <id>2</id>
       <text>Divers
 Huit villes sont surnommées la « ville aux cent clochers ».
 Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sans cloches : jeu de mot traditionnel qui fait croire à celui qui écoute que la cathédrale possède 400 cloches…</text>
@@ -83,366 +55,79 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="clocher" postag="NC" morpho="g=m|n=s" head="3" dep="suj">clocher</word>
-        <word id="3" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="4" lem="revêtir" postag="VINF" morpho="_" head="3" dep="obj">revêtir</word>
-        <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
-        <word id="6" lem="forme" postag="NC" morpho="g=f|n=p" head="4" dep="obj">formes</word>
-        <word id="7" lem="très" postag="ADV" morpho="_" head="8" dep="mod">très</word>
-        <word id="8" lem="différent" postag="ADJ" morpho="g=f|n=p" head="6" dep="mod">différentes</word>
-        <word id="9" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="10" lem="selon" postag="P" morpho="_" head="4" dep="mod">selon</word>
-        <word id="11" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="12" dep="det">son</word>
-        <word id="12" lem="plan" postag="NC" morpho="g=m|n=s" head="10" dep="prep">plan</word>
-        <word id="13" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="2" lem="carrer" postag="ADJ" morpho="g=m|n=s|t=past" head="0" dep="_">carré</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="polygonal" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">polygonal</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="circulaire" postag="NC" morpho="g=f|n=s" head="0" dep="_">circulaire</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="parfois" postag="ADV" morpho="_" head="2" dep="mod">parfois</word>
-          <word id="2" lem="simple" postag="ADJ" morpho="n=s" head="3" dep="mod">simple</word>
-          <word id="3" lem="mur" postag="NC" morpho="g=m|n=s" head="0" dep="_">mur</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="mod">clocher-mur</word>
-          <word id="6" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="dep_coord">campenard</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="clocher" postag="NC" morpho="g=m|n=s" head="3" dep="suj">clocher</word>
-        <word id="3" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="4" lem="revêtir" postag="VINF" morpho="_" head="3" dep="obj">revêtir</word>
-        <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
-        <word id="6" lem="forme" postag="NC" morpho="g=f|n=p" head="4" dep="obj">formes</word>
-        <word id="7" lem="très" postag="ADV" morpho="_" head="8" dep="mod">très</word>
-        <word id="8" lem="différent" postag="ADJ" morpho="g=f|n=p" head="6" dep="mod">différentes</word>
-        <word id="9" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="10" lem="selon" postag="P" morpho="_" head="4" dep="mod">selon</word>
-        <word id="11" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="12" dep="det">son</word>
-        <word id="12" lem="plan" postag="NC" morpho="g=m|n=s" head="10" dep="prep">plan</word>
-        <word id="13" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-        <word id="14" lem="carré" postag="NC" morpho="g=m|n=s" head="0" dep="_">carré</word>
-        <word id="15" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-        <word id="16" lem="polygonal" postag="ADJ" morpho="g=m|n=s" head="14" dep="mod">polygonal</word>
-        <word id="17" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-        <word id="18" lem="circulaire" postag="NC" morpho="g=f|n=s" head="14" dep="mod">circulaire</word>
-        <word id="19" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-        <word id="20" lem="parfois" postag="ADV" morpho="_" head="21" dep="mod">parfois</word>
-        <word id="21" lem="simple" postag="ADJ" morpho="n=s" head="14" dep="mod">simple</word>
-        <word id="22" lem="mur" postag="NC" morpho="g=m|n=s" head="14" dep="mod">mur</word>
-        <word id="23" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">ur</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">clocher-mur</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">campenard</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="2" dep="suj">Il</word>
-        <word id="2" lem="arriver" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">arrive</word>
-        <word id="3" lem="que" postag="CS" morpho="_" head="2" dep="obj">que</word>
-        <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-        <word id="5" lem="flèche" postag="NC" morpho="n=s" head="10" dep="suj">flèche</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-        <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-        <word id="8" lem="clocher" postag="NC" morpho="g=m|n=s" head="6" dep="prep">clocher</word>
-        <word id="9" lem="ne" postag="ADV" morpho="_" head="10" dep="mod">ne</word>
-        <word id="10" lem="être" postag="VS" morpho="n=s|p=3|t=pst" head="3" dep="sub">soit</word>
-        <word id="11" lem="pas" postag="ADV" morpho="_" head="10" dep="mod">pas</word>
-        <word id="12" lem="droit" postag="ADJ" morpho="g=f|n=s" head="10" dep="ats">droite</word>
-        <word id="13" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">on</word>
-          <word id="2" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
-          <word id="3" lem="alors" postag="ADV" morpho="_" head="2" dep="mod">alors</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="de_obj">de</word>
-          <word id="5" lem="clocher" postag="VINF" morpho="_" head="4" dep="prep">clocher</word>
-          <word id="6" lem="tors" postag="NC" morpho="g=m" head="5" dep="obj">tors</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">hélicoïdal</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="ou" postag="CC" morpho="_" head="0" dep="root">ou</word>
-          <word id="2" lem="vriller" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="dep_coord">vrillé</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="commune" postag="NC" morpho="g=f|n=p" head="0" dep="root">Communes</word>
-        <word id="2" lem="dont" postag="PROREL" morpho="_" head="5" dep="de_obj">dont</word>
-        <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-        <word id="4" lem="nom" postag="NC" morpho="g=m|n=s" head="5" dep="suj">nom</word>
-        <word id="5" lem="comporter" postag="V" morpho="n=s|p=13|t=pst" head="1" dep="mod_rel">comporte</word>
-        <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-        <word id="7" lem="mot" postag="NC" morpho="g=m|n=s" head="5" dep="obj">mot</word>
-        <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="5" dep="ponct">"</word>
-        <word id="9" lem="clocher" postag="VINF" morpho="_" head="5" dep="obj">clocher</word>
-        <word id="10" lem="&quot;" postag="PONCT" morpho="_" head="9" dep="ponct">"</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Ailly-le-Haut-Clocher" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Ailly-le-Haut-Clocher</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="somme" postag="NC" morpho="n=s" head="1" dep="mod">Somme</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Ferrières-Haut-Clocher</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Eure" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Eure</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Fexhe-le-Haut-Clocher</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Belgique</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="Hadancourt-le-Haut-Clocher" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Hadancourt-le-Haut-Clocher</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Oise" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Oise</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Haut-Clocher</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Moselle</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Neuvy-Deux-Clochers</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="cher" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">Cher</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Saint-Gervais-les-Trois-Clochers</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="venir" postag="VS" morpho="n=s|p=13|t=pst" head="0" dep="root">Vienne</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Saint-Martin-du-Clocher</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Charente" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Charente</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="divers" postag="ADJ" morpho="g=m" head="0" dep="_">Divers</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="deux" postag="ADJ" morpho="n=p" head="2" dep="mod">Huit</word>
-          <word id="2" lem="ville" postag="NC" morpho="g=f|n=p" head="4" dep="suj">villes</word>
-          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="4" dep="aux_pass">sont</word>
-          <word id="4" lem="surnommer" postag="VPP" morpho="g=f|n=p|t=past" head="0" dep="root">surnommées</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="7" lem="ville" postag="NC" morpho="g=f|n=s" head="4" dep="mod">ville</word>
-          <word id="8" lem="à" postag="P+D" morpho="n=p" head="7" dep="dep">aux</word>
-          <word id="9" lem="deux" postag="NC" morpho="g=m" head="8" dep="prep">cent</word>
-          <word id="10" lem="_" postag="ADJ" morpho="_" head="9" dep="mod">clochers</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="tourner" postag="V" morpho="n=s|p=1|t=past" head="0" dep="root">Tournai</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Belgique</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Hainaut</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="cathédrale" postag="NC" morpho="g=f|n=s" head="10" dep="suj">cathédrale</word>
-          <word id="10" lem="posséder" postag="V" morpho="n=s|p=13|t=pst" head="1" dep="mod">possède</word>
-          <word id="11" lem="deux" postag="ADJ" morpho="n=p" head="12" dep="mod">cinq</word>
-          <word id="12" lem="clocher" postag="NC" morpho="g=m|n=p" head="10" dep="obj">clochers</word>
-          <word id="13" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
-          <word id="14" lem="deux" postag="NC" morpho="g=m" head="13" dep="dep_coord">quatre</word>
-          <word id="15" lem="sans" postag="P" morpho="_" head="14" dep="dep">sans</word>
-          <word id="16" lem="cloche" postag="NC" morpho="g=f|n=p" head="15" dep="prep">cloches</word>
-          <word id="17" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="18" lem="jeu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">jeu</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
-          <word id="20" lem="mot" postag="NC" morpho="g=m|n=s" head="19" dep="prep">mot</word>
-          <word id="21" lem="traditionnel" postag="ADJ" morpho="g=m|n=s" head="20" dep="mod">traditionnel</word>
-          <word id="22" lem="qui" postag="PROREL" morpho="n=s" head="24" dep="suj">qui</word>
-          <word id="23" lem="faire" postag="V" morpho="n=s|p=3|t=pst" head="24" dep="aux_caus">fait</word>
-          <word id="24" lem="croire" postag="VINF" morpho="_" head="18" dep="mod_rel">croire</word>
-          <word id="25" lem="à" postag="P" morpho="_" head="24" dep="a_obj">à</word>
-          <word id="26" lem="celui" postag="PRO" morpho="g=m|n=s" head="25" dep="prep">celui</word>
-          <word id="27" lem="qui" postag="PROREL" morpho="n=s" head="28" dep="suj">qui</word>
-          <word id="28" lem="écouter" postag="V" morpho="n=s|p=13|t=pst" head="26" dep="mod_rel">écoute</word>
-          <word id="29" lem="que" postag="CS" morpho="_" head="28" dep="obj">que</word>
-          <word id="30" lem="la" postag="DET" morpho="g=f|n=s" head="31" dep="det">la</word>
-          <word id="31" lem="cathédrale" postag="NC" morpho="g=f|n=s" head="32" dep="suj">cathédrale</word>
-          <word id="32" lem="posséder" postag="V" morpho="n=s|p=13|t=pst" head="29" dep="sub">possède</word>
-          <word id="33" lem="#NUM#" postag="DET" morpho="n=p" head="34" dep="det">400</word>
-          <word id="34" lem="_" postag="NC" morpho="_" head="32" dep="obj">cloches…</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -453,8 +138,8 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -472,76 +157,22 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
-      <span begin="1" end="121" />
-      <text>Le clocher peut revêtir des formes très différentes, selon son plan : carré, polygonal, circulaire, parfois simple mur (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="items" idSE="1">
-      <span begin="117" end="135" id="0" />
-      <text id="0">ur (clocher-mur ou</text>
-      <span begin="136" end="147" id="1" />
-      <text id="1">campenard).</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
-      <span begin="1" end="58" />
-      <text>Il arrive que la flèche d'un clocher ne soit pas droite :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="59" end="90" id="0" />
-      <text id="0">on parle alors de clocher tors,</text>
-      <span begin="91" end="101" id="1" />
-      <text id="1">hélicoïdal</text>
-      <span begin="102" end="112" id="2" />
-      <text id="2">ou vrillé.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="primer" idSE="3">
       <span begin="1" end="49" />
       <text>Communes dont le nom comporte le mot « clocher »</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="1">
       <span begin="50" end="79" id="0" />
       <text id="0">Ailly-le-Haut-Clocher (Somme)</text>
       <span begin="80" end="109" id="1" />
@@ -562,24 +193,24 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="primer" idSE="4">
+    <SEval type="primer" idSE="2">
       <span begin="1" end="7" />
       <text>Divers</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="items" idSE="4">
+    <SEval type="items" idSE="2">
       <span begin="8" end="67" id="0" />
       <text id="0">Huit villes sont surnommées la « ville aux cent clochers ».</text>
       <span begin="68" end="256" id="1" />
@@ -589,8 +220,8 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -601,8 +232,8 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -613,8 +244,8 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -625,8 +256,8 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -637,8 +268,8 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -648,129 +279,117 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
       <span begin="1" end="9" id="0" />
       <text id="0">Communes</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="50" end="71" id="0" />
       <text id="0">Ailly-le-Haut-Clocher</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
       <span begin="80" end="102" id="0" />
       <text id="0">Ferrières-Haut-Clocher</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
       <span begin="110" end="131" id="0" />
       <text id="0">Fexhe-le-Haut-Clocher</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="3">
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
       <span begin="143" end="169" id="0" />
       <text id="0">Hadancourt-le-Haut-Clocher</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="4">
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
       <span begin="177" end="189" id="0" />
       <text id="0">Haut-Clocher</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="5">
+    <SEval type="concept" idSE="1" localisation="item" idItem="5">
       <span begin="200" end="219" id="0" />
       <text id="0">Neuvy-Deux-Clochers</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="6">
+    <SEval type="concept" idSE="1" localisation="item" idItem="6">
       <span begin="227" end="259" id="0" />
       <text id="0">Saint-Gervais-les-Trois-Clochers</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="7">
+    <SEval type="concept" idSE="1" localisation="item" idItem="7">
       <span begin="269" end="292" id="0" />
       <text id="0">Saint-Martin-du-Clocher</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="marq_relation" idSE="3" localisation="primer" idItem="-1">
-      <span begin="15" end="21" id="0" />
-      <text id="0">le nom</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -783,8 +402,8 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -797,8 +416,8 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -814,8 +433,8 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -841,152 +460,10 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="1">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="1">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="1">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="2">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:47</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="2">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
-      <document>Clocher.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="3">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -995,12 +472,12 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="3">
+    <SEval type="axe_rhetorique" idSE="1">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -1009,12 +486,12 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="3">
+    <SEval type="axe_intentionnel" idSE="1">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -1026,12 +503,12 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="3">
+    <SEval type="axe_semantique" idSE="1">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />
@@ -1052,12 +529,12 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="4">
+    <SEval type="axe_visuel" idSE="2">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -1066,13 +543,13 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="4">
-      <paradigmatique value="0" />
+    <SEval type="axe_rhetorique" idSE="2">
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -1080,14 +557,14 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="4">
-      <descriptive value="0" />
-      <narrative value="0" />
+    <SEval type="axe_intentionnel" idSE="2">
+      <descriptive value="1" />
+      <narrative value="1" />
       <explicative value="0" />
       <prescriptive value="0" />
       <procedurale value="0" />
@@ -1097,12 +574,12 @@ Tournai (Belgique, Hainaut) : la cathédrale possède cinq clochers et quatre sa
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>4/01/14 21:35</date>
       <document>Clocher.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="4">
+    <SEval type="axe_semantique" idSE="2">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />

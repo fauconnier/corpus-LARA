@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SE>
@@ -15,69 +15,35 @@ Conseiller financier
 Facteur (Si le bureau de poste est aussi un centre courrier)</text>
       <span begin="546" end="669" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="métier" postag="NC" morpho="g=m|n=p" head="0" dep="_">métiers</word>
-        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-        <word id="4" lem="bureau" postag="NC" morpho="g=m|n=s" head="3" dep="prep">bureau</word>
-        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-        <word id="6" lem="poste" postag="NC" morpho="n=s" head="5" dep="prep">poste</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="guichetier" postag="NC" morpho="g=m|n=s" head="0" dep="root">Guichetier</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="conseiller" postag="NC" morpho="g=m|n=s" head="0" dep="_">Conseiller</word>
-          <word id="2" lem="financier" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">financier</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="facteur" postag="NC" morpho="g=m|n=s" head="0" dep="_">Facteur</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-          <word id="3" lem="si" postag="CS" morpho="_" head="0" dep="_">Si</word>
-          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="5" lem="bureau" postag="NC" morpho="g=m|n=s" head="8" dep="suj">bureau</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="poste" postag="NC" morpho="n=s" head="6" dep="prep">poste</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="sub">est</word>
-          <word id="9" lem="aussi" postag="ADV" morpho="_" head="8" dep="mod">aussi</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="centre" postag="NC" morpho="g=m|n=s" head="8" dep="ats">centre</word>
-          <word id="12" lem="_" postag="ADJ" morpho="_" head="11" dep="mod">courrier</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -88,8 +54,8 @@ Facteur (Si le bureau de poste est aussi un centre courrier)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -104,8 +70,8 @@ Facteur (Si le bureau de poste est aussi un centre courrier)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -116,8 +82,8 @@ Facteur (Si le bureau de poste est aussi un centre courrier)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -128,8 +94,8 @@ Facteur (Si le bureau de poste est aussi un centre courrier)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -140,8 +106,8 @@ Facteur (Si le bureau de poste est aussi un centre courrier)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -152,8 +118,8 @@ Facteur (Si le bureau de poste est aussi un centre courrier)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -166,8 +132,8 @@ Facteur (Si le bureau de poste est aussi un centre courrier)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -180,8 +146,8 @@ Facteur (Si le bureau de poste est aussi un centre courrier)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -197,8 +163,8 @@ Facteur (Si le bureau de poste est aussi un centre courrier)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Bureau_de_poste.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

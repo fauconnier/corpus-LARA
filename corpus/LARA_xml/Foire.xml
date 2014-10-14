@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SE>
@@ -15,13 +15,13 @@ Une foire est une manifestation festive comprenant des attractions et autres div
 Une foire aux questions, rétroacronymie de l'anglais FAQ (Frequently Asked Questions), aide technique, présentant les question les plus souvent posée, et leurs solutions.</text>
       <span begin="10" end="493" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SE>
@@ -74,7 +74,7 @@ Foire de Savoie</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SE>
@@ -94,685 +94,114 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="2" dep="suj">Foire</word>
-        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="3" lem="faire" postag="VINF" morpho="_" head="2" dep="obj">faire</word>
-        <word id="4" lem="référence" postag="NC" morpho="g=f|n=s" head="3" dep="obj">référence</word>
-        <word id="5" lem="à" postag="P" morpho="_" head="3" dep="mod">à</word>
-        <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="foire" postag="NC" morpho="g=f|n=s" head="3" dep="suj">foire</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="manifestation" postag="NC" morpho="g=f|n=s" head="3" dep="ats">manifestation</word>
-          <word id="6" lem="commercial" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">commerciale</word>
-          <word id="7" lem="se" postag="CLR" morpho="n=p|p=3" head="8" dep="aff">se</word>
-          <word id="8" lem="tenir" postag="VPR" morpho="t=pst" head="5" dep="mod">tenant</word>
-          <word id="9" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
-          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
-          <word id="11" lem="ville" postag="NC" morpho="g=f|n=s" head="9" dep="prep">ville</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-          <word id="14" lem="bourg" postag="NC" morpho="g=m|n=s" head="3" dep="ats">bourg</word>
-          <word id="15" lem="ou" postag="CC" morpho="_" head="14" dep="coord">ou</word>
-          <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
-          <word id="17" lem="village" postag="NC" morpho="g=m|n=s" head="15" dep="dep_coord">village</word>
-          <word id="18" lem="à" postag="P" morpho="_" head="17" dep="dep">à</word>
-          <word id="19" lem="une" postag="DET" morpho="g=f|n=s" head="20" dep="det">une</word>
-          <word id="20" lem="époque" postag="NC" morpho="g=f|n=s" head="18" dep="prep">époque</word>
-          <word id="21" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="22" lem="en" postag="P" morpho="_" head="21" dep="dep_coord">en</word>
-          <word id="23" lem="un" postag="DET" morpho="g=m|n=s" head="24" dep="det">un</word>
-          <word id="24" lem="lieu" postag="NC" morpho="g=m|n=s" head="22" dep="prep">lieu</word>
-          <word id="25" lem="généralement" postag="ADV" morpho="_" head="26" dep="mod">généralement</word>
-          <word id="26" lem="fixe" postag="ADJ" morpho="n=s" head="24" dep="mod">fixe</word>
-          <word id="27" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="foire" postag="NC" morpho="g=f|n=s" head="3" dep="suj">foire</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="manifestation" postag="NC" morpho="g=f|n=s" head="3" dep="ats">manifestation</word>
-          <word id="6" lem="festif" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">festive</word>
-          <word id="7" lem="comprendre" postag="VPR" morpho="t=pst" head="5" dep="mod">comprenant</word>
-          <word id="8" lem="des" postag="DET" morpho="n=p" head="9" dep="det">des</word>
-          <word id="9" lem="attraction" postag="NC" morpho="g=f|n=p" head="7" dep="obj">attractions</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="11" lem="autres" postag="ADJ" morpho="n=p" head="12" dep="mod">autres</word>
-          <word id="12" lem="divertissement" postag="NC" morpho="g=m|n=p" head="10" dep="dep_coord">divertissements</word>
-          <word id="13" lem="tel" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">telle</word>
-          <word id="14" lem="que" postag="CS" morpho="_" head="13" dep="dep">que</word>
-          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-          <word id="16" lem="foire" postag="NC" morpho="g=f|n=s" head="14" dep="sub">foire</word>
-          <word id="17" lem="de" postag="P+D" morpho="g=m|n=s" head="16" dep="dep">du</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="prep">Trône</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="20" lem="voir" postag="VINF" morpho="_" head="3" dep="mod">voir</word>
-          <word id="21" lem="fête" postag="NC" morpho="g=f|n=s" head="20" dep="obj">fête</word>
-          <word id="22" lem="forain" postag="ADJ" morpho="g=f|n=s" head="21" dep="mod">foraine</word>
-          <word id="23" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="root">foire</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="question" postag="NC" morpho="g=f|n=p" head="3" dep="prep">questions</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="2" dep="mod">rétroacronymie</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="anglais" postag="NC" morpho="g=m" head="7" dep="prep">anglais</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">FAQ</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Frequently</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Asked</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Questions</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="17" lem="aide" postag="NC" morpho="n=s" head="2" dep="mod">aide</word>
-          <word id="18" lem="technique" postag="ADJ" morpho="n=s" head="17" dep="mod">technique</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="20" lem="présenter" postag="VPR" morpho="t=pst" head="2" dep="mod">présentant</word>
-          <word id="21" lem="les" postag="DET" morpho="n=p" head="22" dep="det">les</word>
-          <word id="22" lem="question" postag="NC" morpho="g=f|n=s" head="20" dep="obj">question</word>
-          <word id="23" lem="les" postag="DET" morpho="n=p" head="26" dep="det">les</word>
-          <word id="24" lem="plus" postag="ADV" morpho="_" head="25" dep="mod">plus</word>
-          <word id="25" lem="souvent" postag="ADV" morpho="_" head="26" dep="mod">souvent</word>
-          <word id="26" lem="poser" postag="VPP" morpho="g=f|n=s|t=past" head="22" dep="mod">posée</word>
-          <word id="27" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="28" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="29" lem="leurs" postag="DET" morpho="n=p|p=3|poss=p" head="30" dep="det">leurs</word>
-          <word id="30" lem="solution" postag="NC" morpho="g=f|n=p" head="28" dep="dep_coord">solutions</word>
-          <word id="31" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="foire" postag="NC" morpho="g=f|n=p" head="0" dep="root">Foires</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Châlons</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=p" head="0" dep="_">Foires</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Châlus</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=p" head="0" dep="_">Foires</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Champagne" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Champagne</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Trône</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Chaindon</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="européen" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">européenne</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Strasbourg" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Strasbourg</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="international" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">internationale</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="4" lem="art" postag="NC" morpho="g=m|n=s" head="3" dep="prep">art</word>
-          <word id="5" lem="contemporain" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">contemporain</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="1" dep="mod">FIAC</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="10" lem="Paris" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Paris</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="international" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">internationale</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Kinshasa" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Kinshasa</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="international" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">internationale</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="gastronomique" postag="ADJ" morpho="n=s" head="3" dep="dep_coord">gastronomique</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="6" lem="Dijon" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Dijon</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="livre" postag="NC" morpho="n=s" head="2" dep="prep">livre</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Francfort" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Francfort</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="livre" postag="NC" morpho="n=s" head="2" dep="prep">livre</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="jeunesse" postag="NC" morpho="g=f|n=s" head="4" dep="prep">jeunesse</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="7" lem="Bologne" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Bologne</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Paris" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Paris</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="root">Foire</word>
-          <word id="2" lem="à" postag="P+D" morpho="n=p" head="1" dep="dep">aux</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Haricots</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">d'</word>
-          <word id="5" lem="Arpajon" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Arpajon</word>
-        </sentence>
-      </item>
-      <item id="13">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="root">Foire</word>
-          <word id="2" lem="à" postag="P+D" morpho="n=p" head="1" dep="dep">aux</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Bulots</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Pirou" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Pirou</word>
-        </sentence>
-      </item>
-      <item id="14">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Corbeil-Essonnes" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Corbeil-Essonnes</word>
-        </sentence>
-      </item>
-      <item id="15">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="international" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">internationale</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Bordeaux" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Bordeaux</word>
-        </sentence>
-      </item>
-      <item id="16">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Lyon" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Lyon</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="actuellement" postag="ADV" morpho="_" head="6" dep="mod">actuellement</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="0" dep="_">Eurexpo</word>
-        </sentence>
-      </item>
-      <item id="17">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="international" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">internationale</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Marseille" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Marseille</word>
-        </sentence>
-      </item>
-      <item id="18">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Lille" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Lille</word>
-        </sentence>
-      </item>
-      <item id="19">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Genève</word>
-        </sentence>
-      </item>
-      <item id="20">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="international" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">internationale</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Grenoble" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Grenoble</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Alpexpo</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="21">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Guibray</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="_" postag="VS" morpho="_" head="0" dep="_">Falaise</word>
-        </sentence>
-      </item>
-      <item id="22">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Internationale</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Saint-Etienne</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="6" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="7" dep="det">sa</word>
-          <word id="7" lem="région" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">région</word>
-          <word id="8" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Parc-Expo</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">St-Etienne</word>
-        </sentence>
-      </item>
-      <item id="23">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="Madeleine" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Madeleine</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="Beaucaire" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Beaucaire</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="8" lem="Gard" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Gard</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="24">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Bezons" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Bezons</word>
-        </sentence>
-      </item>
-      <item id="25">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="Saint-Luc" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Luc</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Gavray" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Gavray</word>
-        </sentence>
-      </item>
-      <item id="26">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="Saint-Denis" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Denis</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Montilly-sur-Noireau" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Montilly-sur-Noireau</word>
-        </sentence>
-      </item>
-      <item id="27">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Saint-Ours" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Saint-Ours</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="Aoste" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Aoste</word>
-        </sentence>
-      </item>
-      <item id="28">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Midi</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Bruxelles" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Bruxelles</word>
-        </sentence>
-      </item>
-      <item id="29">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Pré</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Rouen" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Rouen</word>
-        </sentence>
-      </item>
-      <item id="30">
-        <sentence id="1">
-          <word id="1" lem="'" postag="PONCT" morpho="_" head="0" dep="_">'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Foire</word>
-          <word id="3" lem="Saint-Martin" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Saint-Martin</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="actuellement" postag="ADV" morpho="_" head="7" dep="mod">actuellement</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="2" dep="mod">Parc</word>
-          <word id="8" lem="de" postag="P+D" morpho="n=p" head="7" dep="dep">des</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="8" dep="prep">Expositions</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Cergy-Pontoise</word>
-        </sentence>
-      </item>
-      <item id="31">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Lendit</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Saint-Denis" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Saint-Denis</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Seine-Saint-Denis</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="32">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="Saint-Laurent" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Laurent</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="dep_coord">Foire</word>
-          <word id="5" lem="Saint-Germain" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Saint-Germain</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="7" lem="Paris" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Paris</word>
-        </sentence>
-      </item>
-      <item id="33">
-        <sentence id="1">
-          <word id="1" lem="salon" postag="NC" morpho="g=m|n=s" head="0" dep="_">Salon</word>
-          <word id="2" lem="international" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">international</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
-          <word id="5" lem="agriculture" postag="NC" morpho="g=f|n=s" head="3" dep="prep">agriculture</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="7" lem="Paris" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Paris</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="10" lem="plus" postag="ADV" morpho="_" head="11" dep="mod">plus</word>
-          <word id="11" lem="important" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">importante</word>
-          <word id="12" lem="foire" postag="NC" morpho="g=f|n=s" head="1" dep="mod">foire</word>
-          <word id="13" lem="agricole" postag="ADJ" morpho="n=s" head="12" dep="mod">agricole</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="15" lem="France" postag="NPP" morpho="g=m|n=s" head="14" dep="prep">France</word>
-        </sentence>
-      </item>
-      <item id="34">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=p" head="0" dep="_">Foires</word>
-          <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="3" lem="marché" postag="NC" morpho="g=m|n=p" head="2" dep="dep_coord">marchés</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Saintonge</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Aunis</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="dep_coord">Angoumois</word>
-        </sentence>
-      </item>
-      <item id="35">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Foirexpo</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Niort" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Niort</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="foire" postag="NC" morpho="g=f|n=s" head="1" dep="mod">foire</word>
-          <word id="7" lem="exposition" postag="NC" morpho="g=f|n=s" head="6" dep="mod">exposition</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="9" lem="Niort" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Niort</word>
-        </sentence>
-      </item>
-      <item id="36">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="national" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">nationale</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="brocante" postag="NC" morpho="g=f|n=s" head="3" dep="prep">brocante</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="7" lem="à" postag="P+D" morpho="n=p" head="6" dep="dep_coord">aux</word>
-          <word id="8" lem="jambon" postag="NC" morpho="g=m|n=p" head="7" dep="prep">jambons</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Chatou" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Chatou</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="10" dep="ponct">(</word>
-          <word id="12" lem="Yvelines" postag="NPP" morpho="g=f|n=p" head="10" dep="mod">Yvelines</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="37">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Beaucroissant" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Beaucroissant</word>
-        </sentence>
-      </item>
-      <item id="38">
-        <sentence id="1">
-          <word id="1" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">Foire</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Savoie" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Savoie</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
+      <item id="13" />
+      <item id="14" />
+      <item id="15" />
+      <item id="16" />
+      <item id="17" />
+      <item id="18" />
+      <item id="19" />
+      <item id="20" />
+      <item id="21" />
+      <item id="22" />
+      <item id="23" />
+      <item id="24" />
+      <item id="25" />
+      <item id="26" />
+      <item id="27" />
+      <item id="28" />
+      <item id="29" />
+      <item id="30" />
+      <item id="31" />
+      <item id="32" />
+      <item id="33" />
+      <item id="34" />
+      <item id="35" />
+      <item id="36" />
+      <item id="37" />
+      <item id="38" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="ouvrage" postag="NC" morpho="g=m|n=p" head="0" dep="root">Ouvrages</word>
-        <word id="2" lem="littéraire" postag="ADJ" morpho="n=p" head="1" dep="mod">littéraires</word>
-        <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        <word id="4" lem="cinématographique" postag="ADJ" morpho="n=p" head="3" dep="dep_coord">cinématographiques</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Foire</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="cancre" postag="NC" morpho="n=p" head="3" dep="prep">cancres</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="2" dep="mod">1962</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="9" lem="roman" postag="NC" morpho="g=m|n=s" head="2" dep="mod">roman</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="Jean-Charles" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Jean-Charles</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Foire</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Vanités</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="4" dep="mod">1846-1847</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="9" lem="roman" postag="NC" morpho="g=m|n=s" head="2" dep="mod">roman</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="William" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">William</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Makepeace</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Thackeray</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Foire</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="femme" postag="NC" morpho="g=f|n=p" head="3" dep="prep">femmes</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="roman" postag="NC" morpho="g=m|n=s" head="2" dep="mod">roman</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="Gilbert" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Gilbert</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Dupé</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="11" lem="_" postag="NC" morpho="_" head="2" dep="mod">1941</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="13" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="14" lem="film" postag="NC" morpho="g=m|n=s" head="13" dep="dep_coord">film</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="_" postag="NC" morpho="_" head="15" dep="prep">1955</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Foire</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="immortel" postag="NC" morpho="g=m|n=p" head="3" dep="prep">immortels</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="bande" postag="NC" morpho="g=f|n=s" head="2" dep="mod">bande</word>
-          <word id="7" lem="dessiner" postag="ADJ" morpho="g=f|n=s|t=past" head="6" dep="mod">dessinée</word>
-          <word id="8" lem="réaliser" postag="VPP" morpho="g=f|n=p|t=past" head="6" dep="mod">réalisées</word>
-          <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Enki</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Bilal</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="14" dep="suj">Foire</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="illusion" postag="NC" morpho="g=f|n=p" head="3" dep="prep">illusions</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="2" dep="mod">State</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Fair</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="10" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="11" dep="prep">1933</word>
-          <word id="13" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="14" lem="voir" postag="VINF" morpho="_" head="0" dep="root">voir</word>
-          <word id="15" lem="aussi" postag="ADV" morpho="_" head="14" dep="mod">aussi</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="obj">La</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="mod">Foire</word>
-          <word id="18" lem="à" postag="P+D" morpho="n=p" head="14" dep="mod">aux</word>
-          <word id="19" lem="illusion" postag="NC" morpho="g=f|n=p" head="18" dep="prep">illusions</word>
-          <word id="20" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
-          <word id="21" lem="homonymie" postag="NC" morpho="g=f|n=s" head="14" dep="mod">homonymie</word>
-          <word id="22" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
-          <word id="23" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Foire</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Guibray</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="pièce" postag="NC" morpho="g=f|n=s" head="2" dep="mod">pièce</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="théâtre" postag="NC" morpho="g=m|n=s" head="7" dep="prep">théâtre</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">1714</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Alain-René</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Lesage</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="foire" postag="NC" morpho="g=f|n=s" head="0" dep="_">foire</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="bidasse" postag="NC" morpho="g=m|n=p" head="3" dep="prep">bidasses</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="2" dep="mod">1975</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="9" lem="roman" postag="NC" morpho="g=m|n=s" head="2" dep="mod">roman</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="Jean-Charles" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Jean-Charles</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Jehanne</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -783,8 +212,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -800,7 +229,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -812,7 +241,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -900,7 +329,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -912,7 +341,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -935,8 +364,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -947,8 +376,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -959,8 +388,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -971,8 +400,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -983,8 +412,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -996,7 +425,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -1008,7 +437,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -1020,7 +449,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -1032,7 +461,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -1044,7 +473,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -1056,7 +485,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="4">
@@ -1068,7 +497,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="5">
@@ -1080,7 +509,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="6">
@@ -1092,7 +521,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="7">
@@ -1104,7 +533,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="8">
@@ -1116,7 +545,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="9">
@@ -1128,7 +557,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="10">
@@ -1140,7 +569,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="11">
@@ -1152,7 +581,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="12">
@@ -1164,7 +593,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="13">
@@ -1176,7 +605,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="14">
@@ -1188,7 +617,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="15">
@@ -1200,7 +629,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="16">
@@ -1212,7 +641,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="17">
@@ -1224,7 +653,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="18">
@@ -1236,7 +665,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="19">
@@ -1248,7 +677,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="20">
@@ -1260,7 +689,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="21">
@@ -1272,7 +701,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="22">
@@ -1284,7 +713,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="23">
@@ -1296,7 +725,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="24">
@@ -1308,7 +737,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="25">
@@ -1320,7 +749,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="26">
@@ -1332,7 +761,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="27">
@@ -1344,7 +773,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="28">
@@ -1356,7 +785,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="29">
@@ -1368,7 +797,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="30">
@@ -1380,7 +809,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="31">
@@ -1392,7 +821,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="32">
@@ -1406,7 +835,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="33">
@@ -1418,7 +847,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="34">
@@ -1430,7 +859,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="35">
@@ -1442,7 +871,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="36">
@@ -1454,7 +883,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="37">
@@ -1466,7 +895,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="38">
@@ -1478,7 +907,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
@@ -1490,7 +919,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -1502,7 +931,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -1514,7 +943,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -1526,7 +955,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="3">
@@ -1538,7 +967,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="4">
@@ -1550,7 +979,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="5">
@@ -1562,7 +991,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="6">
@@ -1573,8 +1002,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1587,8 +1016,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1601,8 +1030,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1618,8 +1047,8 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1645,7 +1074,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1659,7 +1088,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1673,7 +1102,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1690,7 +1119,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:48</date>
+      <date>3/01/14 13:48</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1716,7 +1145,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1730,7 +1159,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1744,7 +1173,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1761,7 +1190,7 @@ La foire aux bidasses (1975), roman de Jean-Charles Jehanne</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:49</date>
+      <date>3/01/14 13:49</date>
       <document>Foire.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">

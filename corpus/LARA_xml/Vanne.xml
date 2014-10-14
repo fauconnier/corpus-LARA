@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SE>
@@ -19,7 +19,7 @@ Opercule, obturateur ou rotor, tels que : boisseau, papillon, guillotine, sphèr
 Volant ou actionneur (actuator en anglais) : élément extérieur à la vanne stricto sensu, qui permet de manœuvrer celle-ci.</text>
       <span begin="683" end="1235" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
@@ -88,7 +88,7 @@ vannes spéciales</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SE>
@@ -102,187 +102,30 @@ corps soudé (entièrement soudé, pour limiter les risques de fuite - applicati
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 15:47</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
-    <SE>
-      <id>5</id>
-      <text>Vue du haut à gauche : robinet 2 voies ;
-vue du haut à droite : robinet 3 voies en « L » ;
-vue du bas à gauche : robinet 3 voies en « T » (pour préciser et distinguer du cas précédent).</text>
-      <span begin="5581" end="5766" />
-    </SE>
-    <comment>mauvaise SE</comment>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
-      <document>Vanne.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="tout" postag="ADJ" morpho="g=f|n=p" head="3" dep="mod">Toutes</word>
-        <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
-        <word id="3" lem="vanne" postag="NC" morpho="g=f|n=p" head="5" dep="suj">vannes</word>
-        <word id="4" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="5" dep="aux_pass">sont</word>
-        <word id="5" lem="constituer" postag="VPP" morpho="g=f|n=p|t=past" head="0" dep="root">constituées</word>
-        <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="de_obj">des</word>
-        <word id="7" lem="différent" postag="ADJ" morpho="g=f|n=p" head="8" dep="mod">différentes</word>
-        <word id="8" lem="partie" postag="NC" morpho="g=f|n=p" head="6" dep="prep">parties</word>
-        <word id="9" lem="fonctionnel" postag="ADJ" morpho="g=f|n=p" head="8" dep="mod">fonctionnelles</word>
-        <word id="10" lem="suivant" postag="ADJ" morpho="g=f|n=p" head="8" dep="mod">suivantes</word>
-        <word id="11" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="corps" postag="NC" morpho="g=m" head="0" dep="_">Corps</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="body" postag="NC" morpho="g=m|n=s" head="1" dep="mod">body</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="3" dep="dep">en</word>
-          <word id="5" lem="anglais" postag="NC" morpho="g=m" head="4" dep="prep">anglais</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="coiffe" postag="NC" morpho="g=f|n=s" head="0" dep="root">Coiffe</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="bonnet" postag="NC" morpho="g=m|n=s" head="2" dep="dep_coord">bonnet</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="bonnet" postag="NC" morpho="g=m|n=s" head="1" dep="mod">bonnet</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-          <word id="7" lem="anglais" postag="NC" morpho="g=m" head="6" dep="dep_coord">anglais</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="voie" postag="NC" morpho="g=f|n=s" head="0" dep="root">Voie</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="passage" postag="NC" morpho="g=m|n=s" head="2" dep="dep_coord">passage</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="port" postag="NC" morpho="g=m|n=s" head="1" dep="mod">port</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
-          <word id="7" lem="anglais" postag="NC" morpho="g=m" head="6" dep="prep">anglais</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="porter" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="_">Portée</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="siège" postag="NC" morpho="g=m|n=s" head="2" dep="dep_coord">siège</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">seat</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="1" dep="mod">en</word>
-          <word id="7" lem="anglais" postag="NC" morpho="g=m" head="6" dep="prep">anglais</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="axe" postag="NC" morpho="g=m|n=s" head="0" dep="root">Axe</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="tige" postag="NC" morpho="g=f|n=s" head="2" dep="dep_coord">tige</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="stem" postag="NC" morpho="g=m|n=s" head="1" dep="mod">stem</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
-          <word id="7" lem="anglais" postag="NC" morpho="g=m" head="6" dep="prep">anglais</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="opercule" postag="NC" morpho="g=m|n=s" head="0" dep="_">Opercule</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="coord">,</word>
-          <word id="3" lem="obturateur" postag="NC" morpho="g=m|n=s" head="2" dep="dep_coord">obturateur</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="5" lem="rotor" postag="NC" morpho="g=m|n=s" head="4" dep="dep_coord">rotor</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="tel" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">tels</word>
-          <word id="8" lem="que" postag="CS" morpho="_" head="7" dep="dep">que</word>
-          <word id="9" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="10" lem="boisseau" postag="NC" morpho="g=m|n=s" head="0" dep="_">boisseau</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="12" lem="papillon" postag="NC" morpho="g=m|n=s" head="0" dep="_">papillon</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="14" lem="guillotine" postag="NC" morpho="g=f|n=s" head="0" dep="_">guillotine</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="16" lem="sphère" postag="NC" morpho="g=f|n=s" head="15" dep="dep_coord">sphère</word>
-          <word id="17" lem="ou" postag="CC" morpho="_" head="14" dep="coord">ou</word>
-          <word id="18" lem="boule" postag="NC" morpho="g=f|n=s" head="17" dep="dep_coord">boule</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="20" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="12" dep="mod">disc</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="rotor" postag="NC" morpho="g=m|n=s" head="2" dep="mod">rotor</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="4" dep="coord">ou</word>
-          <word id="6" lem="valve" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">valve</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="4" dep="mod">member</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="4" dep="dep">en</word>
-          <word id="9" lem="anglais" postag="NC" morpho="g=m" head="8" dep="prep">anglais</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="12" lem="appeler" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">appelé</word>
-          <word id="13" lem="tablier" postag="NC" morpho="g=m|n=s" head="12" dep="mod">tablier</word>
-          <word id="14" lem="lorsque" postag="CS" morpho="_" head="12" dep="mod">lorsque</word>
-          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-          <word id="16" lem="vanne" postag="NC" morpho="g=f|n=s" head="17" dep="suj">vanne</word>
-          <word id="17" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="14" dep="sub">est</word>
-          <word id="18" lem="plat" postag="ADJ" morpho="g=f|n=s" head="17" dep="ats">plate</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="volant" postag="NC" morpho="g=m|n=s" head="0" dep="root">Volant</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="actionneur" postag="NC" morpho="g=m|n=s" head="2" dep="dep_coord">actionneur</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">actuator</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
-          <word id="7" lem="anglais" postag="NC" morpho="g=m" head="6" dep="prep">anglais</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="9" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="10" lem="élément" postag="NC" morpho="g=m|n=s" head="1" dep="mod">élément</word>
-          <word id="11" lem="extérieur" postag="ADJ" morpho="g=m|n=s" head="10" dep="mod">extérieur</word>
-          <word id="12" lem="à" postag="P" morpho="_" head="10" dep="dep">à</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="vanne" postag="NC" morpho="g=f|n=s" head="12" dep="prep">vanne</word>
-          <word id="15" lem="stricto_sensu" postag="ADV" morpho="_" head="14" dep="mod">stricto_sensu</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-          <word id="17" lem="qui" postag="PROREL" morpho="n=s" head="18" dep="suj">qui</word>
-          <word id="18" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="14" dep="mod_rel">permet</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="obj">de</word>
-          <word id="20" lem="_" postag="VINF" morpho="_" head="19" dep="prep">manœuvrer</word>
-          <word id="21" lem="celle-ci" postag="PRO" morpho="g=f|n=s" head="20" dep="obj">celle-ci</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -292,28 +135,7 @@ vue du bas à gauche : robinet 3 voies en « T » (pour préciser et distingue
       <date>1/01/13 18:51</date>
       <document>Vanne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="caractéristique" postag="NC" morpho="g=f|n=p" head="0" dep="root">Caractéristiques</word>
-        <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-        <word id="3" lem="vanne" postag="NC" morpho="g=f|n=p" head="2" dep="prep">vannes</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="pour" postag="P" morpho="_" head="7" dep="mod">pour</word>
-        <word id="2" lem="définir" postag="VINF" morpho="_" head="1" dep="prep">définir</word>
-        <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-        <word id="4" lem="vanne" postag="NC" morpho="g=f|n=s" head="2" dep="obj">vanne</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-        <word id="6" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="7" dep="suj">il</word>
-        <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="8" lem="nécessaire" postag="ADJ" morpho="n=s" head="7" dep="ats">nécessaire</word>
-        <word id="9" lem="de" postag="P" morpho="_" head="7" dep="obj">de</word>
-        <word id="10" lem="connaître" postag="VINF" morpho="_" head="9" dep="prep">connaître</word>
-        <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
-        <word id="12" lem="élément" postag="NC" morpho="g=m|n=p" head="10" dep="obj">éléments</word>
-        <word id="13" lem="suivant" postag="ADJ" morpho="g=m|n=p" head="12" dep="mod">suivants</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -323,109 +145,12 @@ vue du bas à gauche : robinet 3 voies en « T » (pour préciser et distingue
       <document>Vanne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="type" postag="NC" morpho="g=m|n=s" head="0" dep="_">Type</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="vanne" postag="NC" morpho="g=f|n=s" head="2" dep="prep">vanne</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="6" lem="opercule" postag="NC" morpho="g=m|n=s" head="5" dep="prep">opercule</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="9" lem="soupape" postag="NC" morpho="g=f|n=s" head="8" dep="prep">soupape</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="12" lem="papillon" postag="NC" morpho="g=m|n=s" head="11" dep="prep">papillon</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="0" dep="_">etc</word>
-          <word id="15" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="pression" postag="NC" morpho="g=f|n=s" head="0" dep="_">pression</word>
-          <word id="3" lem="nominal" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">nominale</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="5" lem="conception" postag="NC" morpho="g=f|n=s" head="4" dep="prep">conception</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="7" lem="généralement" postag="ADV" morpho="_" head="8" dep="mod">généralement</word>
-          <word id="8" lem="standardiser" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">standardisée</word>
-          <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
-          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
-          <word id="11" lem="norme" postag="NC" morpho="g=f|n=p" head="9" dep="prep">normes</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">-DIN</word>
-          <word id="13" lem="ou" postag="CC" morpho="_" head="12" dep="coord">ou</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="dep_coord">ANSI-</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="11" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="raccordement" postag="NC" morpho="g=m|n=s" head="0" dep="_">raccordement</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="5" lem="visser" postag="VINF" morpho="_" head="4" dep="prep">visser</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="5" dep="mod">à</word>
-          <word id="8" lem="bride" postag="NC" morpho="g=f|n=p" head="7" dep="prep">brides</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="5" dep="a_obj">à</word>
-          <word id="11" lem="souder" postag="VINF" morpho="_" head="10" dep="prep">souder</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="matière" postag="NC" morpho="g=f|n=s" head="0" dep="_">matière</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="en_fonction_de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">en_fonction_du</word>
-          <word id="5" lem="fluide" postag="NC" morpho="g=m|n=s" head="4" dep="prep">fluide</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="7" lem="en_raison_de" postag="P" morpho="_" head="2" dep="dep">en_raison_de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="compatibilité" postag="NC" morpho="g=f|n=s" head="7" dep="prep">compatibilité</word>
-          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="11" lem="matériau" postag="NC" morpho="g=m|n=p" head="10" dep="prep">matériaux</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="actionnement" postag="NC" morpho="g=m|n=s" head="0" dep="_">actionnement</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="manuel" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">manuel</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="7" lem="motoriser" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="dep_coord">motorisé</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="norme" postag="NC" morpho="g=f|n=s" head="0" dep="_">norme</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="construction" postag="NC" morpho="g=f|n=s" head="3" dep="prep">construction</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="qui" postag="PROREL" morpho="n=s" head="7" dep="suj">qui</word>
-          <word id="7" lem="définir" postag="V" morpho="n=s|p=3|t=fut" head="2" dep="mod_rel">définira</word>
-          <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
-          <word id="9" lem="encombrement" postag="NC" morpho="g=m|n=p" head="7" dep="obj">encombrements</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
-          <word id="12" lem="dimensionnement" postag="NC" morpho="g=m|n=s" head="0" dep="_">dimensionnement</word>
-          <word id="13" lem="de" postag="P+D" morpho="n=p" head="12" dep="dep">des</word>
-          <word id="14" lem="bride" postag="NC" morpho="g=f|n=p" head="13" dep="prep">brides</word>
-          <word id="15" lem="éventuel" postag="ADJ" morpho="g=f|n=p" head="14" dep="mod">éventuelles</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -435,23 +160,7 @@ vue du bas à gauche : robinet 3 voies en « T » (pour préciser et distingue
       <date>1/01/13 18:51</date>
       <document>Vanne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="3" lem="ranger" postag="VINF" morpho="_" head="2" dep="obj">ranger</word>
-        <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
-        <word id="5" lem="vanne" postag="NC" morpho="g=f|n=p" head="3" dep="obj">vannes</word>
-        <word id="6" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
-        <word id="7" lem="différentes" postag="DET" morpho="g=f|n=p" head="8" dep="det">différentes</word>
-        <word id="8" lem="catégorie" postag="NC" morpho="g=f|n=p" head="6" dep="prep">catégories</word>
-        <word id="9" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-        <word id="10" lem="selon" postag="P" morpho="_" head="3" dep="mod">selon</word>
-        <word id="11" lem="leurs" postag="DET" morpho="n=p|p=3|poss=p" head="12" dep="det">leurs</word>
-        <word id="12" lem="caractéristique" postag="NC" morpho="g=f|n=p" head="10" dep="prep">caractéristiques</word>
-        <word id="13" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -461,127 +170,10 @@ vue du bas à gauche : robinet 3 voies en « T » (pour préciser et distingue
       <document>Vanne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="par" postag="P" morpho="_" head="0" dep="_">par</word>
-          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
-          <word id="3" lem="taille" postag="NC" morpho="g=f|n=s" head="1" dep="prep">taille</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="5" lem="depuis" postag="P" morpho="_" head="0" dep="_">depuis</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="7" lem="simple" postag="ADJ" morpho="n=s" head="9" dep="mod">simple</word>
-          <word id="8" lem="petit" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">petit</word>
-          <word id="9" lem="robinet" postag="NC" morpho="g=m|n=s" head="5" dep="prep">robinet</word>
-          <word id="10" lem="jusqu'à" postag="P" morpho="_" head="0" dep="_">jusqu'à</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="12" lem="très" postag="ADV" morpho="_" head="13" dep="mod">très</word>
-          <word id="13" lem="gros" postag="ADJ" morpho="g=f|n=s" head="14" dep="mod">grosse</word>
-          <word id="14" lem="vanne" postag="NC" morpho="g=f|n=s" head="10" dep="prep">vanne</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="régulation" postag="NC" morpho="g=f|n=s" head="15" dep="prep">régulation</word>
-          <word id="17" lem="de" postag="P+D" morpho="g=m|n=s" head="16" dep="dep">du</word>
-          <word id="18" lem="débit" postag="NC" morpho="g=m|n=s" head="17" dep="prep">débit</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">d'</word>
-          <word id="20" lem="arrivée" postag="NC" morpho="g=f|n=s" head="19" dep="prep">arrivée</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">d'</word>
-          <word id="22" lem="eau" postag="NC" morpho="g=f|n=s" head="21" dep="prep">eau</word>
-          <word id="23" lem="dans" postag="P" morpho="_" head="20" dep="dep">dans</word>
-          <word id="24" lem="une" postag="DET" morpho="g=f|n=s" head="25" dep="det">une</word>
-          <word id="25" lem="centrale" postag="NC" morpho="g=f|n=s" head="23" dep="prep">centrale</word>
-          <word id="26" lem="hydroélectrique" postag="ADJ" morpho="n=s" head="25" dep="mod">hydroélectrique</word>
-          <word id="27" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="par" postag="P" morpho="_" head="0" dep="_">par</word>
-          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
-          <word id="3" lem="fonction" postag="NC" morpho="g=f|n=s" head="1" dep="prep">fonction</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="5" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="_">vanne</word>
-          <word id="6" lem="régulateur" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">régulatrice</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="débit" postag="NC" morpho="g=m|n=s" head="7" dep="prep">débit</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="10" lem="vanne" postag="NC" morpho="g=f|n=s" head="5" dep="mod">vanne</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="purge" postag="NC" morpho="g=f|n=s" head="11" dep="prep">purge</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="14" lem="vanne" postag="NC" morpho="g=f|n=s" head="5" dep="mod">vanne</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">d'</word>
-          <word id="16" lem="arrêt" postag="NC" morpho="g=m|n=s" head="15" dep="prep">arrêt</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="18" dep="mod_rel">,</word>
-          <word id="18" lem="_" postag="ADV" morpho="_" head="5" dep="mod">etc</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-          <word id="20" lem=";" postag="PONCT" morpho="_" head="5" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="par" postag="P" morpho="_" head="13" dep="mod">par</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="principe" postag="NC" morpho="g=m|n=s" head="1" dep="prep">principe</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">d'</word>
-          <word id="5" lem="obstacle" postag="NC" morpho="g=m|n=s" head="4" dep="prep">obstacle</word>
-          <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">au</word>
-          <word id="7" lem="débit" postag="NC" morpho="g=m|n=s" head="6" dep="prep">débit</word>
-          <word id="8" lem="employer" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod">employé</word>
-          <word id="9" lem=":" postag="PONCT" morpho="_" head="13" dep="ponct">:</word>
-          <word id="10" lem="vanne" postag="NC" morpho="g=f|n=s" head="13" dep="suj">vanne</word>
-          <word id="11" lem="papillon" postag="NC" morpho="g=m|n=s" head="10" dep="mod">papillon</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="13" lem="vanner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">vanne</word>
-          <word id="14" lem="à" postag="P" morpho="_" head="13" dep="mod">à</word>
-          <word id="15" lem="opercule" postag="NC" morpho="g=m|n=s" head="14" dep="prep">opercule</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="17" lem="vanner" postag="V" morpho="n=s|p=13|t=pst" head="13" dep="mod">vanne</word>
-          <word id="18" lem="à" postag="P" morpho="_" head="17" dep="mod">à</word>
-          <word id="19" lem="boisseau" postag="NC" morpho="g=m|n=s" head="18" dep="prep">boisseau</word>
-          <word id="20" lem="conique" postag="ADJ" morpho="n=s" head="19" dep="mod">conique</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="22" lem="vanner" postag="V" morpho="n=s|p=13|t=pst" head="17" dep="mod">vanne</word>
-          <word id="23" lem="à" postag="P" morpho="_" head="22" dep="mod">à</word>
-          <word id="24" lem="boisseau" postag="NC" morpho="g=m|n=s" head="23" dep="prep">boisseau</word>
-          <word id="25" lem="sphérique" postag="ADJ" morpho="n=s" head="24" dep="mod">sphérique</word>
-          <word id="26" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
-          <word id="27" lem="vanner" postag="V" morpho="n=s|p=13|t=pst" head="22" dep="mod">vanne</word>
-          <word id="28" lem="_" postag="ADV" morpho="_" head="27" dep="mod">trois-voies</word>
-          <word id="29" lem="," postag="PONCT" morpho="_" head="27" dep="ponct">,</word>
-          <word id="30" lem="vanne" postag="NC" morpho="g=f|n=s" head="27" dep="mod">vanne</word>
-          <word id="31" lem="guillotine" postag="NC" morpho="g=f|n=s" head="30" dep="mod">guillotine</word>
-          <word id="32" lem="," postag="PONCT" morpho="_" head="27" dep="ponct">,</word>
-          <word id="33" lem="_" postag="ADV" morpho="_" head="27" dep="mod">etc</word>
-          <word id="34" lem="." postag="PONCT" morpho="_" head="13" dep="ponct">.</word>
-          <word id="35" lem=";" postag="PONCT" morpho="_" head="13" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="par" postag="P" morpho="_" head="12" dep="mod">par</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="système" postag="NC" morpho="g=m|n=s" head="1" dep="prep">système</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="commande" postag="NC" morpho="g=f|n=s" head="4" dep="prep">commande</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
-          <word id="7" lem="manuel" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">manuelle</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="9" lem="électrique" postag="ADJ" morpho="n=s" head="8" dep="dep_coord">électrique</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="11" lem="on" postag="CLS" morpho="n=s|p=3" head="12" dep="suj">on</word>
-          <word id="12" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
-          <word id="13" lem="alors" postag="ADV" morpho="_" head="12" dep="mod">alors</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="12" dep="de_obj">d'</word>
-          <word id="15" lem="électrovanne" postag="NC" morpho="g=f|n=s" head="14" dep="prep">électrovanne</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="18" lem="hydraulique" postag="ADJ" morpho="n=s" head="12" dep="mod">hydraulique</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="20" lem="pneumatique" postag="ADJ" morpho="n=s" head="12" dep="mod">pneumatique</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="22" lem="_" postag="ADV" morpho="_" head="12" dep="mod">etc</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -591,18 +183,7 @@ vue du bas à gauche : robinet 3 voies en « T » (pour préciser et distingue
       <date>1/01/13 12:02</date>
       <document>Vanne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="en_particulier" postag="ADV" morpho="_" head="8" dep="mod">En_particulier</word>
-        <word id="2" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="3" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
-        <word id="4" lem="principal" postag="ADJ" morpho="g=m|n=p" head="5" dep="mod">principaux</word>
-        <word id="5" lem="type" postag="NC" morpho="g=m|n=p" head="8" dep="suj">types</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-        <word id="7" lem="vanne" postag="NC" morpho="g=f|n=p" head="6" dep="prep">vannes</word>
-        <word id="8" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -612,284 +193,46 @@ vue du bas à gauche : robinet 3 voies en « T » (pour préciser et distingue
       <document>Vanne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="_">vanne</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="opercule" postag="NC" morpho="g=m|n=s" head="2" dep="prep">opercule</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="4" dep="dep_coord">à</word>
-          <word id="6" lem="passage" postag="NC" morpho="g=m|n=s" head="5" dep="prep">passage</word>
-          <word id="7" lem="direct" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">direct</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="_">vanne</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="clapet" postag="NC" morpho="g=m|n=s" head="2" dep="prep">clapet</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="5" lem="robinet" postag="NC" morpho="g=m|n=s" head="4" dep="dep_coord">robinet</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="7" lem="soupape" postag="NC" morpho="g=f|n=s" head="6" dep="prep">soupape</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="_">vanne</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="boule" postag="NC" morpho="g=f|n=s" head="3" dep="prep">boule</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="dep_coord">à</word>
-          <word id="7" lem="boisseau" postag="NC" morpho="g=m|n=s" head="6" dep="prep">boisseau</word>
-          <word id="8" lem="sphérique" postag="ADJ" morpho="n=s" head="7" dep="mod">sphérique</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="root">vanne</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="boisseau" postag="NC" morpho="g=m|n=s" head="2" dep="prep">boisseau</word>
-          <word id="4" lem="conique" postag="ADJ" morpho="n=s" head="3" dep="mod">conique</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="root">vanne</word>
-          <word id="2" lem="papillon" postag="NC" morpho="g=m|n=s" head="1" dep="mod">papillon</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="root">vanne</word>
-          <word id="2" lem="guillotine" postag="NC" morpho="g=f|n=s" head="1" dep="mod">guillotine</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="root">vanne</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="piston" postag="NC" morpho="g=m|n=s" head="2" dep="prep">piston</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="root">vanne</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="cage" postag="NC" morpho="g=f|n=s" head="2" dep="prep">cage</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="vanne" postag="NC" morpho="g=f|n=s" head="0" dep="root">vanne</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="membrane" postag="NC" morpho="g=f|n=s" head="2" dep="prep">membrane</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="vanne" postag="NC" morpho="g=f|n=p" head="0" dep="_">vannes</word>
-          <word id="2" lem="spécial" postag="ADJ" morpho="g=f|n=p" head="1" dep="mod">spéciales</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="par_ailleurs" postag="ADV" morpho="_" head="9" dep="mod">Par_ailleurs</word>
-        <word id="2" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-        <word id="4" lem="corps" postag="NC" morpho="g=m" head="9" dep="suj">corps</word>
-        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-        <word id="6" lem="vanne" postag="NC" morpho="g=f|n=s" head="5" dep="prep">vanne</word>
-        <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
-        <word id="8" lem="boule" postag="NC" morpho="g=f|n=s" head="7" dep="prep">boule</word>
-        <word id="9" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
-        <word id="10" lem="se" postag="CLR" morpho="n=p|p=3" head="11" dep="aff">se</word>
-        <word id="11" lem="présenter" postag="VINF" morpho="_" head="9" dep="obj">présenter</word>
-        <word id="12" lem="sous" postag="P" morpho="_" head="11" dep="mod">sous</word>
-        <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-        <word id="14" lem="forme" postag="NC" morpho="g=f|n=s" head="12" dep="prep">forme</word>
-        <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="corps" postag="NC" morpho="g=m" head="0" dep="_">corps</word>
-          <word id="2" lem="monobloc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">monobloc</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">1</word>
-          <word id="5" lem="pièce" postag="NC" morpho="g=f|n=s" head="1" dep="mod">pièce</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="corps" postag="NC" morpho="g=m" head="0" dep="_">corps</word>
-          <word id="2" lem="monobloc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">monobloc</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">1</word>
-          <word id="5" lem="pièce" postag="NC" morpho="g=f|n=s" head="1" dep="mod">pièce</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="corps" postag="NC" morpho="g=m" head="0" dep="root">corps</word>
-          <word id="2" lem="#NUM#" postag="ADJ" morpho="n=p" head="1" dep="mod">2</word>
-          <word id="3" lem="pièce" postag="NC" morpho="g=f|n=p" head="1" dep="mod">pièces</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="deux" postag="NC" morpho="g=m" head="1" dep="mod">deux</word>
-          <word id="6" lem="coquille" postag="NC" morpho="g=f|n=p" head="5" dep="mod">coquilles</word>
-          <word id="7" lem="boulonner" postag="VPP" morpho="g=f|n=p|t=past" head="6" dep="mod">boulonnées</word>
-          <word id="8" lem="entre" postag="P" morpho="_" head="7" dep="mod">entre</word>
-          <word id="9" lem="elles" postag="PRO" morpho="g=f|n=p|p=3" head="8" dep="prep">elles</word>
-          <word id="10" lem="enfermer" postag="V" morpho="n=p|p=3|t=pst" head="5" dep="mod_rel">enferment</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="boule" postag="NC" morpho="g=f|n=s" head="10" dep="obj">boule</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="corps" postag="NC" morpho="g=m" head="0" dep="root">corps</word>
-          <word id="2" lem="#NUM#" postag="ADJ" morpho="n=p" head="1" dep="mod">3</word>
-          <word id="3" lem="pièce" postag="NC" morpho="g=f|n=p" head="1" dep="mod">pièces</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="partie" postag="NC" morpho="g=f|n=s" head="9" dep="suj">partie</word>
-          <word id="7" lem="central" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">centrale</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="aux_pass">est</word>
-          <word id="9" lem="serrer" postag="VPP" morpho="g=f|n=s|t=past" head="1" dep="mod">serrée</word>
-          <word id="10" lem="par" postag="P" morpho="_" head="9" dep="p_obj">par</word>
-          <word id="11" lem="des" postag="DET" morpho="n=p" head="12" dep="det">des</word>
-          <word id="12" lem="tirant" postag="NC" morpho="g=m|n=p" head="10" dep="prep">tirants</word>
-          <word id="13" lem="fixer" postag="VPP" morpho="g=m|n=p|t=past" head="12" dep="mod">fixés</word>
-          <word id="14" lem="sur" postag="P" morpho="_" head="13" dep="mod">sur</word>
-          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
-          <word id="16" lem="extrémité" postag="NC" morpho="g=f|n=p" head="14" dep="prep">extrémités</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="corps" postag="NC" morpho="g=m" head="0" dep="_">corps</word>
-          <word id="2" lem="souder" postag="ADJ" morpho="g=m|n=s|t=past" head="1" dep="mod">soudé</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="entièrement" postag="ADV" morpho="_" head="5" dep="mod">entièrement</word>
-          <word id="5" lem="souder" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">soudé</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="pour" postag="P" morpho="_" head="0" dep="_">pour</word>
-          <word id="8" lem="limiter" postag="VINF" morpho="_" head="7" dep="prep">limiter</word>
-          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
-          <word id="10" lem="risque" postag="NC" morpho="g=m|n=p" head="8" dep="obj">risques</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="fuite" postag="NC" morpho="g=f|n=s" head="11" dep="prep">fuite</word>
-          <word id="13" lem="-" postag="PONCT" morpho="_" head="0" dep="_">-</word>
-          <word id="14" lem="application" postag="NC" morpho="g=f|n=p" head="0" dep="_">applications</word>
-          <word id="15" lem="sous" postag="P" morpho="_" head="14" dep="dep">sous</word>
-          <word id="16" lem="marine" postag="NC" morpho="n=p" head="15" dep="prep">marines</word>
-          <word id="17" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 15:47</date>
-      <document>Vanne.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="voir" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="_">Vue</word>
-        <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="de_obj">du</word>
-        <word id="3" lem="haut" postag="NC" morpho="g=m|n=s" head="2" dep="prep">haut</word>
-        <word id="4" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-        <word id="5" lem="gauche" postag="NC" morpho="n=s" head="4" dep="prep">gauche</word>
-        <word id="6" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-        <word id="7" lem="robinet" postag="NC" morpho="g=m|n=s" head="1" dep="mod">robinet</word>
-        <word id="8" lem="#NUM#" postag="ADJ" morpho="n=p" head="7" dep="mod">2</word>
-        <word id="9" lem="voie" postag="NC" morpho="g=f|n=p" head="7" dep="mod">voies</word>
-        <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 15:47</date>
-      <document>Vanne.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="voir" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="_">vue</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="de_obj">du</word>
-          <word id="3" lem="haut" postag="NC" morpho="g=m|n=s" head="2" dep="prep">haut</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="5" lem="droite" postag="NC" morpho="g=f|n=s" head="4" dep="prep">droite</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="7" lem="robinet" postag="NC" morpho="g=m|n=s" head="1" dep="mod">robinet</word>
-          <word id="8" lem="#NUM#" postag="ADJ" morpho="n=p" head="7" dep="mod">3</word>
-          <word id="9" lem="voie" postag="NC" morpho="g=f|n=p" head="7" dep="mod">voies</word>
-          <word id="10" lem="en" postag="P" morpho="_" head="7" dep="dep">en</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="prep">L</word>
-          <word id="13" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-          <word id="14" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="voir" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="_">vue</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="de_obj">du</word>
-          <word id="3" lem="bas" postag="ADJ" morpho="g=m" head="2" dep="prep">bas</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="mod">à</word>
-          <word id="5" lem="gauche" postag="NC" morpho="n=s" head="4" dep="prep">gauche</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="7" lem="robinet" postag="NC" morpho="g=m|n=s" head="1" dep="mod">robinet</word>
-          <word id="8" lem="#NUM#" postag="ADJ" morpho="n=p" head="7" dep="mod">3</word>
-          <word id="9" lem="voie" postag="NC" morpho="g=f|n=p" head="7" dep="mod">voies</word>
-          <word id="10" lem="en" postag="P" morpho="_" head="7" dep="dep">en</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="prep">T</word>
-          <word id="13" lem="&quot;" postag="PONCT" morpho="_" head="12" dep="ponct">"</word>
-          <word id="14" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="15" lem="pour" postag="P" morpho="_" head="7" dep="dep">pour</word>
-          <word id="16" lem="préciser" postag="VINF" morpho="_" head="15" dep="prep">préciser</word>
-          <word id="17" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
-          <word id="18" lem="distinguer" postag="VINF" morpho="_" head="17" dep="dep_coord">distinguer</word>
-          <word id="19" lem="de" postag="P+D" morpho="g=m|n=s" head="18" dep="de_obj">du</word>
-          <word id="20" lem="cas" postag="NC" morpho="g=m" head="19" dep="prep">cas</word>
-          <word id="21" lem="précédent" postag="ADJ" morpho="g=m|n=s" head="20" dep="mod">précédent</word>
-          <word id="22" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -900,8 +243,8 @@ vue du bas à gauche : robinet 3 voies en « T » (pour préciser et distingue
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -1032,7 +375,7 @@ pour définir une vanne, il est nécessaire de connaître les éléments suivant
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="primer" idSE="4">
@@ -1044,7 +387,7 @@ pour définir une vanne, il est nécessaire de connaître les éléments suivant
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="items" idSE="4">
@@ -1061,47 +404,21 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 15:47</date>
-      <document>Vanne.html</document>
-    </metadata>
-    <SEval type="primer" idSE="5">
-      <span begin="1" end="41" />
-      <text>Vue du haut à gauche : robinet 2 voies ;</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 15:47</date>
-      <document>Vanne.html</document>
-    </metadata>
-    <SEval type="items" idSE="5">
-      <span begin="42" end="91" id="0" />
-      <text id="0">vue du haut à droite : robinet 3 voies en « L » ;</text>
-      <span begin="92" end="186" id="1" />
-      <text id="1">vue du bas à gauche : robinet 3 voies en « T » (pour préciser et distinguer du cas précédent).</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
-      <span begin="9" end="19" id="0" />
-      <text id="0">les vannes</text>
+      <span begin="53" end="75" id="0" />
+      <text id="0">parties fonctionnelles</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -1112,8 +429,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1124,8 +441,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -1136,8 +453,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -1148,8 +465,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -1160,8 +477,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -1172,8 +489,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -1184,13 +501,13 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
-      <span begin="20" end="37" id="0" />
-      <text id="0">sont constituées</text>
+      <span begin="76" end="85" id="0" />
+      <text id="0">suivantes</text>
     </SEval>
   </annotation>
   <annotation type="2">
@@ -1497,7 +814,7 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
@@ -1509,7 +826,7 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="0">
@@ -1521,7 +838,7 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="1">
@@ -1533,7 +850,7 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="2">
@@ -1545,7 +862,7 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="3">
@@ -1557,7 +874,7 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
@@ -1568,8 +885,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1582,8 +899,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1596,8 +913,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1613,8 +930,8 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:11</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1853,7 +1170,7 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -1867,7 +1184,7 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -1881,7 +1198,7 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -1898,83 +1215,12 @@ corps 2 pièces (deux coquilles boulonnées entre elles enferment la boule)</tex
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:46</date>
+      <date>8/01/13 15:46</date>
       <document>Vanne.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
       <visee_ontologique value="1">
         <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 15:47</date>
-      <document>Vanne.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="5">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 15:47</date>
-      <document>Vanne.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="5">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 15:47</date>
-      <document>Vanne.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="5">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 15:47</date>
-      <document>Vanne.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="5">
-      <visee_ontologique value="0">
-        <isA value="0" />
         <partOf value="0" />
         <instanceOf value="0" />
         <ontologique_autre value="0" />

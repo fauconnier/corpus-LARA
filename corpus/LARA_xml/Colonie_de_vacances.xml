@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SE>
@@ -24,126 +24,43 @@ Nos jours heureux
 Vive la colo!</text>
       <span begin="1065" end="1366" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="colonie" postag="NC" morpho="g=f|n=p" head="0" dep="_">colonies</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="vacance" postag="NC" morpho="g=f|n=p" head="3" dep="prep">vacances</word>
-        <word id="5" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
-        <word id="6" lem="cinéma" postag="NC" morpho="g=m|n=s" head="5" dep="prep">cinéma</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="Aiguilles" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Aiguilles</word>
-          <word id="3" lem="rouge" postag="ADJ" morpho="n=p" head="2" dep="mod">rouges</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Argent</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="poche" postag="NC" morpho="n=s" head="3" dep="prep">poche</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Classe</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="neige" postag="NC" morpho="g=f|n=s" head="3" dep="prep">neige</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Meilleure</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Façon</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="5" lem="_" postag="I" morpho="_" head="0" dep="_">marcher</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Petit</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Bougnat</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="préparer" postag="V" morpho="n=p|p=2|t=pst" head="0" dep="root">Préparez</word>
-          <word id="2" lem="vos" postag="DET" morpho="n=p|p=2|poss=p" head="3" dep="det">vos</word>
-          <word id="3" lem="mouchoir" postag="NC" morpho="g=m|n=p" head="1" dep="obj">mouchoirs</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="scout" postag="NC" morpho="g=m|n=s" head="0" dep="root">Scout</word>
-          <word id="2" lem="toujours" postag="ADV" morpho="_" head="1" dep="mod">toujours</word>
-          <word id="3" lem="..." postag="PONCT" morpho="_" head="1" dep="ponct">...</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Souffle</word>
-          <word id="3" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">cœur</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Joyeuses</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Colonies</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="5" lem="vacance" postag="NC" morpho="g=f|n=p" head="4" dep="prep">vacances</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="nos" postag="DET" morpho="n=p|p=1|poss=p" head="2" dep="det">Nos</word>
-          <word id="2" lem="jour" postag="NC" morpho="g=m|n=p" head="0" dep="_">jours</word>
-          <word id="3" lem="heureux" postag="ADJ" morpho="g=m" head="2" dep="mod">heureux</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="vif" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">Vive</word>
-          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
-          <word id="3" lem="colonie" postag="NC" morpho="n=s" head="0" dep="root">colo</word>
-          <word id="4" lem="!" postag="PONCT" morpho="_" head="3" dep="ponct">!</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -154,8 +71,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -186,8 +103,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -198,8 +115,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -210,8 +127,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -222,8 +139,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -234,8 +151,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -246,8 +163,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -258,8 +175,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -270,8 +187,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="7">
@@ -282,8 +199,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="8">
@@ -294,8 +211,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="9">
@@ -306,8 +223,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="10">
@@ -318,8 +235,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
@@ -330,8 +247,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -344,8 +261,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -358,8 +275,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -375,8 +292,8 @@ Vive la colo!</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colonie_de_vacances.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

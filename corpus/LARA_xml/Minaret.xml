@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SE>
@@ -15,13 +15,13 @@ sawma'a : « cellule d'ermites »,
 ma'dhana : lieu d'où est lancé l'appel à la prière ou adhan</text>
       <span begin="562" end="733" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SE>
@@ -52,25 +52,11 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 20:02</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
     <SE>
       <id>3</id>
-      <text>Le nombre de minarets par mosquée n'était pas figé : à l'origine, il n'était édifié qu'un seul minaret par édifice, puis le constructeur en érigea plusieurs.</text>
-      <span begin="1439" end="1597" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
-      <document>Minaret.html</document>
-    </metadata>
-    <SE>
-      <id>4</id>
       <text>La Suisse compte quatre mosquées comportant un minaret : la Mahmud-Moschee à Zurich, la mosquée de Genève, une autre à Winterthour et une dernière à Wangen bei Olten.</text>
       <span begin="7136" end="7302" />
     </SE>
@@ -79,160 +65,45 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="origine" postag="NC" morpho="g=f|n=s" head="0" dep="_">Origine</word>
-        <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-        <word id="3" lem="mot" postag="NC" morpho="g=m|n=s" head="2" dep="prep">mot</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">manâra</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
-          <word id="4" lem="phare" postag="NC" morpho="g=m|n=s" head="1" dep="mod">phare</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="dep_coord">tour-vigie</word>
-          <word id="7" lem="pourvoir" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">pourvu</word>
-          <word id="8" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
-          <word id="9" lem="non" postag="ADV" morpho="_" head="8" dep="dep_coord">non</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="7" dep="de_obj">d'</word>
-          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="12" lem="feu" postag="NC" morpho="g=m|n=s" head="10" dep="prep">feu</word>
-          <word id="13" lem="allumer" postag="ADJ" morpho="g=m|n=s|t=past" head="12" dep="mod">allumé</word>
-          <word id="14" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="2" dep="suj">sawma'</word>
-          <word id="2" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">a</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="5" lem="cellule" postag="NC" morpho="g=f|n=s" head="2" dep="obj">cellule</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="ermite" postag="NC" morpho="g=m|n=p" head="6" dep="prep">ermites</word>
-          <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="7" dep="mod">ma'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">dhana</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
-          <word id="4" lem="lieu" postag="NC" morpho="g=m|n=s" head="7" dep="suj">lieu</word>
-          <word id="5" lem="d'où" postag="P" morpho="_" head="7" dep="mod">d'où</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="aux_tps">est</word>
-          <word id="7" lem="lancer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">lancé</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="appel" postag="NC" morpho="g=m|n=s" head="7" dep="obj">appel</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="7" dep="a_obj">à</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="prière" postag="NC" morpho="g=f|n=s" head="10" dep="prep">prière</word>
-          <word id="13" lem="ou" postag="CC" morpho="_" head="12" dep="coord">ou</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="13" dep="dep_coord">adhan</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="deux" postag="ADJ" morpho="n=p" head="2" dep="mod">Trois</word>
-        <word id="2" lem="mot" postag="NC" morpho="g=m|n=p" head="4" dep="suj">mots</word>
-        <word id="3" lem="arabe" postag="ADJ" morpho="n=p" head="2" dep="mod">arabes</word>
-        <word id="4" lem="dériver" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">dérivent</word>
-        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="de_obj">de</word>
-        <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-        <word id="7" lem="même" postag="ADJ" morpho="n=s" head="8" dep="mod">même</word>
-        <word id="8" lem="racine" postag="NC" morpho="g=f|n=s" head="5" dep="prep">racine</word>
-        <word id="9" lem="arabe" postag="ADJ" morpho="n=s" head="8" dep="mod">arabe</word>
-        <word id="10" lem="signifier" postag="VPR" morpho="t=pst" head="4" dep="mod">signifiant</word>
-        <word id="11" lem="annoncer" postag="VINF" morpho="_" head="10" dep="obj">annoncer</word>
-        <word id="12" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="appel" postag="NC" morpho="g=m|n=s" head="0" dep="_">appel</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="prière" postag="NC" morpho="g=f|n=s" head="2" dep="prep">prière</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="6" lem="arabe" postag="NC" morpho="n=s" head="1" dep="mod">arabe</word>
-          <word id="7" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="0" dep="_">أذان</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">['</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">aδān</word>
-          <word id="11" lem="]" postag="PONCT" morpho="_" head="8" dep="ponct">]</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="muezzin" postag="NC" morpho="g=m|n=s" head="0" dep="_">muezzin</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="arabe" postag="NC" morpho="n=s" head="1" dep="mod">arabe</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="0" dep="_">مُؤَذِّن</word>
-          <word id="6" lem="[" postag="PONCT" morpho="_" head="5" dep="ponct">[</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="5" dep="mod">mu'</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">aδδin</word>
-          <word id="9" lem="]" postag="PONCT" morpho="_" head="5" dep="ponct">]</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-          <word id="11" lem="passer" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">passé</word>
-          <word id="12" lem="par" postag="P" morpho="_" head="11" dep="p_obj">par</word>
-          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
-          <word id="14" lem="turc" postag="NC" morpho="g=m|n=s" head="12" dep="prep">turc</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="mod">müezzin</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="minaret" postag="NC" morpho="g=m|n=s" head="0" dep="_">minaret</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="arabe" postag="NC" morpho="n=s" head="1" dep="mod">arabe</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="0" dep="_">مِئْذَنة</word>
-          <word id="6" lem="[" postag="PONCT" morpho="_" head="5" dep="ponct">[</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="5" dep="mod">mi'</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">δana</word>
-          <word id="9" lem="]" postag="PONCT" morpho="_" head="5" dep="ponct">]</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -242,18 +113,7 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
       <date>1/01/13 11:37</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="minaret" postag="NC" morpho="g=m|n=p" head="3" dep="suj">minarets</word>
-        <word id="3" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">ont</word>
-        <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-        <word id="5" lem="forme" postag="NC" morpho="g=f|n=p" head="3" dep="obj">formes</word>
-        <word id="6" lem="très" postag="ADV" morpho="_" head="7" dep="mod">très</word>
-        <word id="7" lem="varier" postag="ADJ" morpho="g=f|n=p|t=past" head="5" dep="mod">variées</word>
-        <word id="8" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -263,172 +123,40 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-          <word id="2" lem="en_général" postag="ADV" morpho="_" head="3" dep="mod">en_général</word>
-          <word id="3" lem="rond" postag="ADJ" morpho="g=m|n=p" head="0" dep="_">ronds</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="carrer" postag="ADJ" morpho="g=m|n=p|t=past" head="0" dep="_">carrés</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="2" lem="spirale" postag="NC" morpho="g=f|n=s" head="1" dep="prep">spirale</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="octogonal" postag="ADJ" morpho="g=m|n=p" head="0" dep="_">octogonaux</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 20:02</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="nombre" postag="NC" morpho="g=m|n=s" head="10" dep="suj">nombre</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="minaret" postag="NC" morpho="g=m|n=p" head="3" dep="prep">minarets</word>
-        <word id="5" lem="par" postag="P" morpho="_" head="2" dep="dep">par</word>
-        <word id="6" lem="mosquée" postag="NC" morpho="g=f|n=s" head="5" dep="prep">mosquée</word>
-        <word id="7" lem="ne" postag="ADV" morpho="_" head="10" dep="mod">n'</word>
-        <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=imp" head="10" dep="aux_pass">était</word>
-        <word id="9" lem="pas" postag="ADV" morpho="_" head="10" dep="mod">pas</word>
-        <word id="10" lem="figer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">figé</word>
-        <word id="11" lem=":" postag="PONCT" morpho="_" head="10" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 20:02</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="à" postag="P" morpho="_" head="8" dep="mod">à</word>
-          <word id="2" lem="l'" postag="DET" morpho="n=s" head="3" dep="det">l'</word>
-          <word id="3" lem="origine" postag="NC" morpho="g=f|n=s" head="1" dep="prep">origine</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="5" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="8" dep="suj">il</word>
-          <word id="6" lem="ne" postag="ADV" morpho="_" head="8" dep="mod">n'</word>
-          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=imp" head="8" dep="aux_tps">était</word>
-          <word id="8" lem="édifier" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">édifié</word>
-          <word id="9" lem="que" postag="ADV" morpho="_" head="8" dep="mod">qu'</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="11" lem="seul" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">seul</word>
-          <word id="12" lem="minaret" postag="NC" morpho="g=m|n=s" head="8" dep="obj">minaret</word>
-          <word id="13" lem="par" postag="P" morpho="_" head="12" dep="dep">par</word>
-          <word id="14" lem="édifice" postag="NC" morpho="g=m|n=s" head="13" dep="prep">édifice</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="puis" postag="CC" morpho="_" head="0" dep="root">puis</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="constructeur" postag="NC" morpho="g=m|n=s" head="5" dep="suj">constructeur</word>
-          <word id="4" lem="en" postag="CLO" morpho="_" head="5" dep="aff">en</word>
-          <word id="5" lem="ériger" postag="V" morpho="n=s|p=3|t=past" head="1" dep="dep_coord">érigea</word>
-          <word id="6" lem="plusieurs" postag="PRO" morpho="g=f|n=p" head="5" dep="obj">plusieurs</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
-      <document>Minaret.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-        <word id="2" lem="Suisse" postag="NPP" morpho="g=f|n=s" head="3" dep="suj">Suisse</word>
-        <word id="3" lem="compter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">compte</word>
-        <word id="4" lem="deux" postag="ADJ" morpho="n=p" head="5" dep="mod">quatre</word>
-        <word id="5" lem="mosquée" postag="NC" morpho="g=f|n=p" head="3" dep="obj">mosquées</word>
-        <word id="6" lem="comporter" postag="VPR" morpho="t=pst" head="5" dep="mod">comportant</word>
-        <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-        <word id="8" lem="minaret" postag="NC" morpho="g=m|n=s" head="6" dep="obj">minaret</word>
-        <word id="9" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
-      <document>Minaret.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Mahmud-Moschee</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Zurich</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="mosquée" postag="NC" morpho="g=f|n=s" head="0" dep="_">mosquée</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Genève</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
-          <word id="2" lem="autre" postag="ADJ" morpho="n=s" head="0" dep="_">autre</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="mod">à</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Winterthour</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
-          <word id="2" lem="dernier" postag="ADJ" morpho="g=f|n=s" head="0" dep="_">dernière</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="mod">à</word>
-          <word id="4" lem="Wangen" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Wangen</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">bei</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Olten</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -439,8 +167,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -455,8 +183,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -467,8 +195,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -514,48 +242,22 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 20:02</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
-      <span begin="1" end="54" />
-      <text>Le nombre de minarets par mosquée n'était pas figé :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:02</date>
-      <document>Minaret.html</document>
-    </metadata>
-    <SEval type="items" idSE="3">
-      <span begin="54" end="116" id="0" />
-      <text id="0">à l'origine, il n'était édifié qu'un seul minaret par édifice,</text>
-      <span begin="117" end="158" id="1" />
-      <text id="1">puis le constructeur en érigea plusieurs.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
-      <document>Minaret.html</document>
-    </metadata>
-    <SEval type="primer" idSE="4">
       <span begin="1" end="57" />
       <text>La Suisse compte quatre mosquées comportant un minaret :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="items" idSE="4">
+    <SEval type="items" idSE="3">
       <span begin="58" end="85" id="0" />
       <text id="0">la Mahmud-Moschee à Zurich,</text>
       <span begin="86" end="107" id="1" />
@@ -569,8 +271,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -581,8 +283,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -593,8 +295,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -605,8 +307,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -617,8 +319,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -629,8 +331,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -641,8 +343,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -653,8 +355,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -724,108 +426,108 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
       <span begin="25" end="56" id="0" />
       <text id="0">mosquées comportant un minaret</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
       <span begin="58" end="75" id="0" />
       <text id="0">la Mahmud-Moschee</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
       <span begin="86" end="106" id="0" />
       <text id="0">la mosquée de Genève</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
       <span begin="108" end="117" id="0" />
       <text id="0">une autre</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="3">
+    <SEval type="concept" idSE="3" localisation="item" idItem="3">
       <span begin="135" end="147" id="0" />
       <text id="0">une dernière</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="4" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="0">
       <span begin="76" end="84" id="0" />
       <text id="0">à Zurich</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="4" localisation="item" idItem="2">
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="2">
       <span begin="117" end="131" id="0" />
       <text id="0">à Winterthour</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="4" localisation="item" idItem="3">
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="3">
       <span begin="150" end="166" id="0" />
       <text id="0">Wangen bei Olten</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="marq_relation" idSE="3" localisation="primer" idItem="-1">
       <span begin="18" end="24" id="0" />
       <text id="0">quatre</text>
     </SEval>
@@ -833,8 +535,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -847,8 +549,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -861,8 +563,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -878,8 +580,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -904,8 +606,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -918,8 +620,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -932,8 +634,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -949,8 +651,8 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:33</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 12:27</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1047,81 +749,10 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 20:02</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:02</date>
-      <document>Minaret.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="3">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:02</date>
-      <document>Minaret.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="3">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:02</date>
-      <document>Minaret.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="3">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
-      <document>Minaret.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="4">
       <horizontale value="1" />
       <verticale value="0" />
       <navigationnelle value="0" />
@@ -1130,12 +761,12 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="4">
+    <SEval type="axe_rhetorique" idSE="3">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -1144,12 +775,12 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="4">
+    <SEval type="axe_intentionnel" idSE="3">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -1161,12 +792,12 @@ minaret (arabe : مِئْذَنة [mi'δana])</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 12:33</date>
+      <date>8/01/13 12:33</date>
       <document>Minaret.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="4">
+    <SEval type="axe_semantique" idSE="3">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />

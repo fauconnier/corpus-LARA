@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SE>
@@ -16,13 +16,13 @@ ponts-aqueducs nécessaires pour franchir des vallons ou des bras de mer en cons
 siphons inversés pour passer des vallons importants avec mise en charge des conduites</text>
       <span begin="275" end="816" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SE>
@@ -36,7 +36,7 @@ siphons inversés pour passer des vallons importants avec mise en charge des con
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SE>
@@ -57,7 +57,7 @@ Aqueduc du Päijänne, Helsinki (1972-1982)</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SE>
@@ -75,465 +75,102 @@ Aqueduc de Zaghwen, Tunis, Tunisie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="d'abord" postag="ADV" morpho="_" head="2" dep="mod">D'abord</word>
-        <word id="2" lem="simple" postag="ADJ" morpho="n=p" head="3" dep="mod">simples</word>
-        <word id="3" lem="conduit" postag="NC" morpho="g=m|n=p" head="0" dep="root">conduits</word>
-        <word id="4" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-        <word id="5" lem="tuyau" postag="NC" morpho="g=m|n=p" head="4" dep="dep_coord">tuyaux</word>
-        <word id="6" lem="permettre" postag="VPR" morpho="t=pst" head="5" dep="mod">permettant</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="obj">d'</word>
-        <word id="8" lem="amener" postag="VINF" morpho="_" head="7" dep="prep">amener</word>
-        <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-        <word id="10" lem="eau" postag="NC" morpho="g=f|n=s" head="8" dep="obj">eau</word>
-        <word id="11" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-        <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
-        <word id="13" lem="aqueduc" postag="NC" morpho="g=m|n=p" head="14" dep="suj">aqueducs</word>
-        <word id="14" lem="aller" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">vont</word>
-        <word id="15" lem="se" postag="CLR" morpho="n=p|p=3" head="16" dep="aff">se</word>
-        <word id="16" lem="développer" postag="VINF" morpho="_" head="14" dep="obj">développer</word>
-        <word id="17" lem="au_fur_et_à_mesure_de" postag="P+D" morpho="n=p" head="16" dep="mod">au_fur_et_à_mesure_des</word>
-        <word id="18" lem="progrès" postag="NC" morpho="g=m" head="17" dep="prep">progrès</word>
-        <word id="19" lem="technique" postag="ADJ" morpho="n=p" head="18" dep="mod">techniques</word>
-        <word id="20" lem="permettre" postag="VPR" morpho="t=pst" head="18" dep="mod">permettant</word>
-        <word id="21" lem="la" postag="DET" morpho="g=f|n=s" head="22" dep="det">la</word>
-        <word id="22" lem="construction" postag="NC" morpho="g=f|n=s" head="20" dep="obj">construction</word>
-        <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep">d'</word>
-        <word id="24" lem="ouvrage" postag="NC" morpho="g=m|n=p" head="23" dep="prep">ouvrages</word>
-        <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">d'</word>
-        <word id="26" lem="art" postag="NC" morpho="g=m|n=s" head="25" dep="prep">art</word>
-        <word id="27" lem=":" postag="PONCT" morpho="_" head="14" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="tunnel" postag="NC" morpho="g=m|n=p" head="0" dep="_">tunnels</word>
-          <word id="2" lem="permettre" postag="VPR" morpho="t=pst" head="1" dep="mod">permettant</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="a_obj">aux</word>
-          <word id="4" lem="canal" postag="NC" morpho="g=m|n=p" head="3" dep="prep">canaux</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="2" dep="obj">de</word>
-          <word id="6" lem="franchir" postag="VINF" morpho="_" head="5" dep="prep">franchir</word>
-          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
-          <word id="8" lem="hauteur" postag="NC" morpho="g=f|n=p" head="6" dep="obj">hauteurs</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="colline" postag="NC" morpho="g=f|n=p" head="9" dep="prep">collines</word>
-          <word id="11" lem="important" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">importantes</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="tranchée" postag="NC" morpho="g=f|n=p" head="0" dep="_">tranchées</word>
-          <word id="2" lem="faire" postag="VPP" morpho="g=f|n=p|t=past" head="1" dep="mod">faites</word>
-          <word id="3" lem="dans" postag="P" morpho="_" head="2" dep="mod">dans</word>
-          <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-          <word id="5" lem="colline" postag="NC" morpho="g=f|n=p" head="3" dep="prep">collines</word>
-          <word id="6" lem="quand" postag="CS" morpho="_" head="2" dep="mod">quand</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="hauteur" postag="NC" morpho="g=f|n=s" head="12" dep="suj">hauteur</word>
-          <word id="9" lem="de" postag="P+D" morpho="n=p" head="8" dep="dep">des</word>
-          <word id="10" lem="colline" postag="NC" morpho="g=f|n=p" head="9" dep="prep">collines</word>
-          <word id="11" lem="ne" postag="ADV" morpho="_" head="12" dep="mod">n'</word>
-          <word id="12" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="sub">est</word>
-          <word id="13" lem="pas" postag="ADV" morpho="_" head="12" dep="mod">pas</word>
-          <word id="14" lem="important" postag="ADJ" morpho="g=f|n=s" head="12" dep="ats">importante</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">ponts-aqueducs</word>
-          <word id="2" lem="nécessaire" postag="ADJ" morpho="n=p" head="1" dep="mod">nécessaires</word>
-          <word id="3" lem="pour" postag="P" morpho="_" head="2" dep="mod">pour</word>
-          <word id="4" lem="franchir" postag="VINF" morpho="_" head="3" dep="prep">franchir</word>
-          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
-          <word id="6" lem="vallon" postag="NC" morpho="g=m|n=p" head="4" dep="obj">vallons</word>
-          <word id="7" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
-          <word id="8" lem="des" postag="DET" morpho="n=p" head="9" dep="det">des</word>
-          <word id="9" lem="bras" postag="NC" morpho="g=m" head="7" dep="dep_coord">bras</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="mer" postag="NC" morpho="g=f|n=s" head="10" dep="prep">mer</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="4" dep="mod">en</word>
-          <word id="13" lem="conserver" postag="VPR" morpho="t=pst" head="12" dep="prep">conservant</word>
-          <word id="14" lem="une" postag="DET" morpho="g=f|n=s" head="15" dep="det">une</word>
-          <word id="15" lem="pente" postag="NC" morpho="g=f|n=s" head="13" dep="obj">pente</word>
-          <word id="16" lem="constant" postag="ADJ" morpho="g=f|n=s" head="15" dep="mod">constante</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="siphon" postag="NC" morpho="g=m|n=p" head="0" dep="_">siphons</word>
-          <word id="2" lem="inverser" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="mod">inversés</word>
-          <word id="3" lem="pour" postag="P" morpho="_" head="2" dep="mod">pour</word>
-          <word id="4" lem="passer" postag="VINF" morpho="_" head="3" dep="prep">passer</word>
-          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
-          <word id="6" lem="vallon" postag="NC" morpho="g=m|n=p" head="4" dep="obj">vallons</word>
-          <word id="7" lem="important" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">importants</word>
-          <word id="8" lem="avec" postag="P" morpho="_" head="4" dep="mod">avec</word>
-          <word id="9" lem="mise" postag="NC" morpho="g=f|n=s" head="8" dep="prep">mise</word>
-          <word id="10" lem="en" postag="P" morpho="_" head="9" dep="dep">en</word>
-          <word id="11" lem="charge" postag="NC" morpho="g=f|n=s" head="10" dep="prep">charge</word>
-          <word id="12" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="13" lem="conduite" postag="NC" morpho="g=f|n=p" head="12" dep="prep">conduites</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-        <word id="2" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">aqueduc</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="Mons" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Mons</word>
-        <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-        <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Fréjus</word>
-        <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        <word id="8" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-        <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-        <word id="10" lem="Var" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Var</word>
-        <word id="11" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        <word id="12" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">r</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">41567</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">m</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="long" postag="ADJ" morpho="g=m|n=s" head="6" dep="prep">long</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">515</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">m</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="dénivelé" postag="NC" morpho="g=m|n=s" head="3" dep="prep">dénivelé</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">300</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">l</word>
-          <word id="3" lem="/" postag="P" morpho="_" head="2" dep="dep">/</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">s</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="aqueduc" postag="NC" morpho="g=m|n=p" head="0" dep="_">aqueducs</word>
-        <word id="3" lem="moderne" postag="ADJ" morpho="n=p" head="2" dep="mod">modernes</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="aqueduc" postag="NC" morpho="g=m|n=p" head="5" dep="suj">aqueducs</word>
-        <word id="3" lem="actuel" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">actuels</word>
-        <word id="4" lem="se" postag="CLR" morpho="p=3" head="5" dep="aff">s'</word>
-        <word id="5" lem="apparenter" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">apparentent</word>
-        <word id="6" lem="plutôt" postag="ADV" morpho="_" head="5" dep="mod">plutôt</word>
-        <word id="7" lem="à" postag="P" morpho="_" head="5" dep="a_obj">à</word>
-        <word id="8" lem="des" postag="DET" morpho="n=p" head="9" dep="det">des</word>
-        <word id="9" lem="pipeline" postag="NC" morpho="g=m|n=p" head="7" dep="prep">pipelines</word>
-        <word id="10" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-        <word id="11" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
-        <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
-        <word id="13" lem="même" postag="ADJ" morpho="n=s" head="14" dep="mod">même</word>
-        <word id="14" lem="modèle" postag="NC" morpho="g=m|n=s" head="11" dep="prep">modèle</word>
-        <word id="15" lem="que" postag="CS" morpho="_" head="14" dep="dep">que</word>
-        <word id="16" lem="les" postag="DET" morpho="n=p" head="17" dep="det">les</word>
-        <word id="17" lem="oléoduc" postag="NC" morpho="g=m|n=p" head="26" dep="suj">oléoducs</word>
-        <word id="18" lem="ou" postag="CC" morpho="_" head="17" dep="coord">ou</word>
-        <word id="19" lem="que" postag="CS" morpho="_" head="18" dep="dep_coord">que</word>
-        <word id="20" lem="les" postag="DET" morpho="n=p" head="21" dep="det">les</word>
-        <word id="21" lem="gazoduc" postag="NC" morpho="g=m|n=p" head="19" dep="sub">gazoducs</word>
-        <word id="22" lem=":" postag="PONCT" morpho="_" head="26" dep="ponct">:</word>
-        <word id="23" lem="l'" postag="DET" morpho="n=s" head="24" dep="det">l'</word>
-        <word id="24" lem="eau" postag="NC" morpho="g=f|n=s" head="26" dep="suj">eau</word>
-        <word id="25" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="26" dep="aux_pass">est</word>
-        <word id="26" lem="mettre" postag="VPP" morpho="g=f|n=s|t=past" head="15" dep="sub">mise</word>
-        <word id="27" lem="en" postag="P" morpho="_" head="26" dep="mod">en</word>
-        <word id="28" lem="surpression" postag="NC" morpho="g=f|n=s" head="27" dep="prep">surpression</word>
-        <word id="29" lem="par" postag="P" morpho="_" head="26" dep="p_obj">par</word>
-        <word id="30" lem="des" postag="DET" morpho="n=p" head="31" dep="det">des</word>
-        <word id="31" lem="pompe" postag="NC" morpho="g=f|n=p" head="29" dep="prep">pompes</word>
-        <word id="32" lem="," postag="PONCT" morpho="_" head="26" dep="ponct">,</word>
-        <word id="33" lem="ce" postag="PRO" morpho="_" head="26" dep="mod">ce</word>
-        <word id="34" lem="qui" postag="PROREL" morpho="n=s" head="36" dep="suj">qui</word>
-        <word id="35" lem="la" postag="CLO" morpho="g=f|n=s|p=3" head="36" dep="obj">la</word>
-        <word id="36" lem="propulser" postag="V" morpho="n=s|p=13|t=pst" head="33" dep="mod_rel">propulse</word>
-        <word id="37" lem="dans" postag="P" morpho="_" head="36" dep="mod">dans</word>
-        <word id="38" lem="la" postag="DET" morpho="g=f|n=s" head="39" dep="det">la</word>
-        <word id="39" lem="conduite" postag="NC" morpho="g=f|n=s" head="37" dep="prep">conduite</word>
-        <word id="40" lem="de" postag="P" morpho="_" head="39" dep="dep">de</word>
-        <word id="41" lem="métal" postag="NC" morpho="g=m|n=s" head="40" dep="prep">métal</word>
-        <word id="42" lem="," postag="PONCT" morpho="_" head="36" dep="ponct">,</word>
-        <word id="43" lem="de" postag="P" morpho="_" head="36" dep="mod">de</word>
-        <word id="44" lem="section" postag="NC" morpho="g=f|n=s" head="43" dep="prep">section</word>
-        <word id="45" lem="circulaire" postag="ADJ" morpho="n=s" head="44" dep="mod">circulaire</word>
-        <word id="46" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-      </sentence>
-      <sentence id="3">
-        <word id="1" lem="ceci" postag="PRO" morpho="g=m|n=s" head="2" dep="suj">Ceci</word>
-        <word id="2" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">permet</word>
-        <word id="3" lem="notamment" postag="ADV" morpho="_" head="2" dep="mod">notamment</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="2" dep="obj">de</word>
-        <word id="5" lem="se" postag="CLR" morpho="p=3" head="6" dep="obj">s'</word>
-        <word id="6" lem="affranchir" postag="VINF" morpho="_" head="4" dep="prep">affranchir</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="de_obj">d'</word>
-        <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-        <word id="9" lem="partie" postag="NC" morpho="g=f|n=s" head="7" dep="prep">partie</word>
-        <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-        <word id="11" lem="accident" postag="NC" morpho="g=m|n=p" head="10" dep="prep">accidents</word>
-        <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-        <word id="13" lem="terrain" postag="NC" morpho="g=m|n=s" head="12" dep="prep">terrain</word>
-        <word id="14" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-        <word id="15" lem="à" postag="P" morpho="_" head="14" dep="dep_coord">à</word>
-        <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
-        <word id="17" lem="occasion" postag="NC" morpho="g=f|n=s" head="15" dep="prep">occasion</word>
-        <word id="18" lem="de" postag="P" morpho="_" head="6" dep="de_obj">d'</word>
-        <word id="19" lem="envoyer" postag="VINF" morpho="_" head="18" dep="prep">envoyer</word>
-        <word id="20" lem="l'" postag="DET" morpho="n=s" head="21" dep="det">l'</word>
-        <word id="21" lem="eau" postag="NC" morpho="g=f|n=s" head="19" dep="obj">eau</word>
-        <word id="22" lem="à" postag="P" morpho="_" head="19" dep="a_obj">à</word>
-        <word id="23" lem="une" postag="DET" morpho="g=f|n=s" head="24" dep="det">une</word>
-        <word id="24" lem="altitude" postag="NC" morpho="g=f|n=s" head="22" dep="prep">altitude</word>
-        <word id="25" lem="supérieur" postag="ADJ" morpho="g=f|n=s" head="24" dep="mod">supérieure</word>
-        <word id="26" lem="à" postag="P" morpho="_" head="25" dep="a_obj">à</word>
-        <word id="27" lem="celle" postag="PRO" morpho="g=f|n=s" head="26" dep="prep">celle</word>
-        <word id="28" lem="où" postag="PROREL" morpho="_" head="31" dep="mod">où</word>
-        <word id="29" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="31" dep="suj">elle</word>
-        <word id="30" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="31" dep="aux_pass">est</word>
-        <word id="31" lem="capter" postag="VPP" morpho="g=f|n=s|t=past" head="27" dep="mod_rel">captée</word>
-        <word id="32" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Minette</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="Rennes" postag="NPP" morpho="g=m|n=s" head="5" dep="dep_coord">Rennes</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="6" dep="mod">1882</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Roquefavour</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Ventabren" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Ventabren</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="5" dep="mod">1842-1847</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="Vanne" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Vanne</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="Paris" postag="NPP" morpho="g=m|n=s" head="5" dep="dep_coord">Paris</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="8" lem="fin" postag="NC" morpho="n=s" head="6" dep="mod">fin</word>
-          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="10" lem="_" postag="ADJ" morpho="_" head="11" dep="mod">XIXe</word>
-          <word id="11" lem="siècle" postag="NC" morpho="g=m|n=s" head="9" dep="prep">siècle</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Avre</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="Paris" postag="NPP" morpho="g=m|n=s" head="5" dep="dep_coord">Paris</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="6" dep="mod">1893</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Los</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Angeles</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Los</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Angeles</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="9" lem="_" postag="ADJ" morpho="_" head="10" dep="mod">XXe</word>
-          <word id="10" lem="siècle" postag="NC" morpho="g=m|n=s" head="6" dep="mod">siècle</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="6" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Päijänne</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Helsinki" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Helsinki</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="5" dep="mod">1972-1982</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="autres" postag="ADJ" morpho="n=p" head="2" dep="mod">Autres</word>
-        <word id="2" lem="aqueduc" postag="NC" morpho="g=m|n=p" head="0" dep="root">aqueducs</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="Paola" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Paola</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="Rome" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rome</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">1605</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Médicis</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="Paris" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Paris</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">1613</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Buc" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Buc</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Buc" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Buc</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="1" dep="mod">1684</word>
-          <word id="8" lem="/" postag="PONCT" morpho="_" head="1" dep="ponct">/</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="1" dep="mod">1686</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Cirta</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Constantine" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Constantine</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="Algérie" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Algérie</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="aqueduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Aqueduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Zaghwen</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Tunis" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Tunis</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="Tunisie" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Tunisie</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -544,8 +181,8 @@ Aqueduc de Zaghwen, Tunis, Tunisie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -563,7 +200,7 @@ Aqueduc de Zaghwen, Tunis, Tunisie</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -575,7 +212,7 @@ Aqueduc de Zaghwen, Tunis, Tunisie</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -591,7 +228,7 @@ Aqueduc de Zaghwen, Tunis, Tunisie</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -604,7 +241,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -626,7 +263,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -638,7 +275,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -657,8 +294,8 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -669,8 +306,8 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -681,8 +318,8 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -693,8 +330,8 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -705,8 +342,8 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -718,7 +355,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -730,7 +367,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -742,7 +379,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -754,7 +391,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -766,7 +403,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -780,7 +417,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
@@ -792,7 +429,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -804,7 +441,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -816,7 +453,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -828,7 +465,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="3">
@@ -840,7 +477,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="4">
@@ -852,7 +489,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="5">
@@ -864,7 +501,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
@@ -876,7 +513,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="1">
@@ -888,7 +525,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="2">
@@ -900,7 +537,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="3">
@@ -912,7 +549,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="4">
@@ -924,7 +561,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="5">
@@ -936,7 +573,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
@@ -948,7 +585,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -960,7 +597,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -972,7 +609,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="2">
@@ -984,7 +621,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="3">
@@ -996,7 +633,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="4">
@@ -1008,7 +645,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="3" localisation="item" idItem="0">
@@ -1020,7 +657,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="3" localisation="item" idItem="1">
@@ -1032,7 +669,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="3" localisation="item" idItem="2">
@@ -1044,7 +681,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="3" localisation="item" idItem="3">
@@ -1058,7 +695,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="circonstant" idSE="3" localisation="item" idItem="4">
@@ -1071,8 +708,8 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1085,8 +722,8 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1099,8 +736,8 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1116,8 +753,8 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:52</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1143,7 +780,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1157,7 +794,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1171,7 +808,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1188,7 +825,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:35</date>
+      <date>3/01/14 14:35</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1214,7 +851,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1228,7 +865,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1242,7 +879,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1259,7 +896,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1285,7 +922,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1299,7 +936,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1313,7 +950,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1330,7 +967,7 @@ Les aqueducs actuels s'apparentent plutôt à des pipelines, sur le même modèl
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:40</date>
+      <date>3/01/14 14:40</date>
       <document>Aqueduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">

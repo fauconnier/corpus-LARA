@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SE>
@@ -15,13 +15,13 @@ Les ouvriers qualifiés travaillant dans un atelier sont traditionnellement appe
 « Gestion d'atelier », « planning d'atelier », « pilotage d'atelier » désignent des méthodes de planification et de gestion de la production à court terme, et à capacité finie. L'allocation des tâches aux ressources se fait en fonction de leur engagement réel et de leur potentiel effectif.</text>
       <span begin="1422" end="2220" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SE>
@@ -49,8 +49,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="1">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SE>
@@ -64,1143 +64,110 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:04</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
     <SE>
       <id>3</id>
-      <text>L'atelier de retouche ou de réparation
-Cet atelier est celui que toute entreprise cherche à faire disparaître. Le zéro défaut est un objectif universel.
-C'est l'atelier où l'on peut faire assez facilement de la perruque.</text>
-      <span begin="3280" end="3500" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:45</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SE>
-      <id>4</id>
-      <text>L'atelier des prototypes, ou d'essais
-Cet atelier est peu accessible, pour des raisons évidentes de secret industriel. Quand il est visité par des clients ou des personnalités, il est généralement réagencé pour la visite.</text>
-      <span begin="3501" end="3722" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:46</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SE>
-      <id>5</id>
-      <text>L'atelier flexible. Il est né dans les années 1970, sous la forme d'ateliers flexibles d'usinage, grâce aux développement concourants des centres d'usinage à commande numérique, des techniques de manutention et de stockage automatisées, de l'identification automatique (étiquettes magnétiques, code à barre) et de l'informatique industrielle.
-Son usage s'est étendu à l'assemblage flexible et à la préparation de commande.</text>
-      <span begin="3723" end="4145" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SE>
-      <id>6</id>
       <text>L'atelier contemporain est en général la pièce de travail d'un artiste, éventuellement aidé par des élèves. C'est ce sens du mot atelier qui s'est exporté dans le monde (atelier en anglais, atolié en japonais).</text>
       <span begin="4191" end="4401" />
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:07</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
-    <SE>
-      <id>7</id>
-      <text>C'est ce sens du mot atelier qui s'est exporté dans le monde (atelier en anglais, atolié en japonais).</text>
-      <span begin="4299" end="4401" />
-    </SE>
-    <comment />
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="atelier" postag="NC" morpho="g=m|n=p" head="4" dep="suj">ateliers</word>
-        <word id="3" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="4" dep="aux_tps">ont</word>
-        <word id="4" lem="créer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">créé</word>
-        <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-        <word id="6" lem="vocabulaire" postag="NC" morpho="g=m|n=s" head="4" dep="obj">vocabulaire</word>
-        <word id="7" lem="spécialiser" postag="ADJ" morpho="g=m|n=s|t=past" head="6" dep="mod">spécialisé</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="maîtrise" postag="NC" morpho="g=f|n=s" head="0" dep="root">Maîtrise</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="atelier" postag="NC" morpho="g=m|n=s" head="2" dep="prep">atelier</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="5" lem="en_dehors_de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">en_dehors_du</word>
-          <word id="6" lem="domaine" postag="NC" morpho="g=m|n=s" head="5" dep="prep">domaine</word>
-          <word id="7" lem="artistique" postag="ADJ" morpho="n=s" head="6" dep="mod">artistique</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="0" dep="_">il</word>
-          <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">est</word>
-          <word id="11" lem="rare" postag="ADJ" morpho="n=s" head="10" dep="ats">rare</word>
-          <word id="12" lem="que" postag="CS" morpho="_" head="10" dep="obj">qu'</word>
-          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-          <word id="14" lem="membre" postag="NC" morpho="g=m|n=s" head="19" dep="suj">membre</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="hiérarchie" postag="NC" morpho="g=f|n=s" head="15" dep="prep">hiérarchie</word>
-          <word id="18" lem="être" postag="VS" morpho="n=s|p=3|t=pst" head="19" dep="aux_pass">soit</word>
-          <word id="19" lem="dénommer" postag="VPP" morpho="g=m|n=s|t=past" head="12" dep="sub">dénommé</word>
-          <word id="20" lem="&quot;" postag="PONCT" morpho="_" head="19" dep="ponct">"</word>
-          <word id="21" lem="maître" postag="NC" morpho="g=m|n=s" head="19" dep="obj">maître</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-          <word id="23" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="4" dep="suj">Il</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
-          <word id="3" lem="généralement" postag="ADV" morpho="_" head="4" dep="mod">généralement</word>
-          <word id="4" lem="appeler" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">appelé</word>
-          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
-          <word id="6" lem="chef" postag="NC" morpho="n=s" head="4" dep="obj">chef</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
-          <word id="8" lem="atelier" postag="NC" morpho="g=m|n=s" head="7" dep="prep">atelier</word>
-          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="2" dep="det">Ses</word>
-          <word id="2" lem="adjoint" postag="NC" morpho="g=m|n=p" head="3" dep="suj">adjoints</word>
-          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="4" lem="cependant" postag="ADV" morpho="_" head="3" dep="mod">cependant</word>
-          <word id="5" lem="des" postag="DET" morpho="n=p" head="7" dep="det">des</word>
-          <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="7" lem="contremaître" postag="NC" morpho="g=m|n=p" head="3" dep="ats">contremaîtres</word>
-          <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="ouvrier" postag="NC" morpho="g=m|n=p" head="10" dep="suj">ouvriers</word>
-          <word id="3" lem="qualifier" postag="ADJ" morpho="g=m|n=p|t=past" head="2" dep="mod">qualifiés</word>
-          <word id="4" lem="travailler" postag="VPR" morpho="t=pst" head="2" dep="mod">travaillant</word>
-          <word id="5" lem="dans" postag="P" morpho="_" head="4" dep="mod">dans</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="atelier" postag="NC" morpho="g=m|n=s" head="5" dep="prep">atelier</word>
-          <word id="8" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="10" dep="aux_pass">sont</word>
-          <word id="9" lem="traditionnellement" postag="ADV" morpho="_" head="10" dep="mod">traditionnellement</word>
-          <word id="10" lem="appeler" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">appelés</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-          <word id="12" lem="compagnon" postag="NC" morpho="g=m|n=p" head="10" dep="ats">compagnons</word>
-          <word id="13" lem="&quot;" postag="PONCT" morpho="_" head="12" dep="ponct">"</word>
-          <word id="14" lem="jusque" postag="ADV" morpho="_" head="12" dep="mod">jusque</word>
-          <word id="15" lem="dans" postag="P" morpho="_" head="10" dep="mod">dans</word>
-          <word id="16" lem="les" postag="DET" morpho="n=p" head="17" dep="det">les</word>
-          <word id="17" lem="année" postag="NC" morpho="g=f|n=p" head="15" dep="prep">années</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="mod">1970</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="dénomination" postag="NC" morpho="g=f|n=s" head="0" dep="_">Dénomination</word>
-          <word id="2" lem="emprunter" postag="VPP" morpho="g=f|n=s|t=past" head="1" dep="mod">empruntée</word>
-          <word id="3" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="a_obj">au</word>
-          <word id="4" lem="compagnonnage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">compagnonnage</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="même_si" postag="CS" morpho="_" head="0" dep="_">même_si</word>
-          <word id="7" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="8" dep="det">leur</word>
-          <word id="8" lem="formation" postag="NC" morpho="g=f|n=s" head="15" dep="suj">formation</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">d'</word>
-          <word id="10" lem="apprenti" postag="NC" morpho="g=m|n=s" head="9" dep="prep">apprenti</word>
-          <word id="11" lem="ne" postag="ADV" morpho="_" head="15" dep="mod">ne</word>
-          <word id="12" lem="se" postag="CLR" morpho="p=3" head="15" dep="aff">s'</word>
-          <word id="13" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="15" dep="aux_tps">est</word>
-          <word id="14" lem="pas" postag="ADV" morpho="_" head="15" dep="mod">pas</word>
-          <word id="15" lem="dérouler" postag="VPP" morpho="g=f|n=s|t=past" head="6" dep="sub">déroulée</word>
-          <word id="16" lem="dans" postag="P" morpho="_" head="15" dep="mod">dans</word>
-          <word id="17" lem="ce" postag="DET" morpho="g=m|n=s" head="18" dep="det">ce</word>
-          <word id="18" lem="contexte" postag="NC" morpho="g=m|n=s" head="16" dep="prep">contexte</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="2" lem="gestion" postag="NC" morpho="g=f|n=s" head="0" dep="root">Gestion</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="atelier" postag="NC" morpho="g=m|n=s" head="3" dep="prep">atelier</word>
-          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="7" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="8" lem="planning" postag="NC" morpho="g=m|n=s" head="2" dep="mod">planning</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">d'</word>
-          <word id="10" lem="atelier" postag="NC" morpho="g=m|n=s" head="9" dep="prep">atelier</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="13" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="14" lem="pilotage" postag="NC" morpho="g=m|n=s" head="2" dep="mod">pilotage</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">d'</word>
-          <word id="16" lem="atelier" postag="NC" morpho="g=m|n=s" head="15" dep="prep">atelier</word>
-          <word id="17" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="18" lem="désigner" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">désignent</word>
-          <word id="19" lem="des" postag="DET" morpho="n=p" head="20" dep="det">des</word>
-          <word id="20" lem="méthode" postag="NC" morpho="g=f|n=p" head="18" dep="obj">méthodes</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
-          <word id="22" lem="planification" postag="NC" morpho="g=f|n=s" head="21" dep="prep">planification</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
-          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep_coord">de</word>
-          <word id="25" lem="gestion" postag="NC" morpho="g=f|n=s" head="24" dep="prep">gestion</word>
-          <word id="26" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
-          <word id="27" lem="la" postag="DET" morpho="g=f|n=s" head="28" dep="det">la</word>
-          <word id="28" lem="production" postag="NC" morpho="g=f|n=s" head="26" dep="prep">production</word>
-          <word id="29" lem="à" postag="P" morpho="_" head="28" dep="dep">à</word>
-          <word id="30" lem="court" postag="ADJ" morpho="g=m|n=s" head="31" dep="mod">court</word>
-          <word id="31" lem="terme" postag="NC" morpho="g=m|n=s" head="29" dep="prep">terme</word>
-          <word id="32" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
-          <word id="33" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
-          <word id="34" lem="à" postag="P" morpho="_" head="33" dep="dep_coord">à</word>
-          <word id="35" lem="capacité" postag="NC" morpho="g=f|n=s" head="34" dep="prep">capacité</word>
-          <word id="36" lem="finir" postag="VPP" morpho="g=f|n=s|t=past" head="35" dep="mod">finie</word>
-          <word id="37" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="allocation" postag="NC" morpho="g=f|n=s" head="8" dep="suj">allocation</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="tâche" postag="NC" morpho="g=f|n=p" head="3" dep="prep">tâches</word>
-          <word id="5" lem="à" postag="P+D" morpho="n=p" head="4" dep="dep">aux</word>
-          <word id="6" lem="ressource" postag="NC" morpho="g=f|n=p" head="5" dep="prep">ressources</word>
-          <word id="7" lem="se" postag="CLR" morpho="n=p|p=3" head="8" dep="aff">se</word>
-          <word id="8" lem="faire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">fait</word>
-          <word id="9" lem="en_fonction_de" postag="P" morpho="_" head="8" dep="mod">en_fonction_de</word>
-          <word id="10" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="11" dep="det">leur</word>
-          <word id="11" lem="engagement" postag="NC" morpho="g=m|n=s" head="9" dep="prep">engagement</word>
-          <word id="12" lem="réel" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">réel</word>
-          <word id="13" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep_coord">de</word>
-          <word id="15" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="16" dep="det">leur</word>
-          <word id="16" lem="potentiel" postag="NC" morpho="g=m|n=s" head="14" dep="prep">potentiel</word>
-          <word id="17" lem="effectif" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">effectif</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="certains" postag="DET" morpho="g=m|n=p" head="2" dep="det">Certains</word>
-        <word id="2" lem="atelier" postag="NC" morpho="g=m|n=p" head="3" dep="suj">ateliers</word>
-        <word id="3" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">ont</word>
-        <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-        <word id="5" lem="spécificité" postag="NC" morpho="g=f|n=p" head="3" dep="obj">spécificités</word>
-        <word id="6" lem="remarquable" postag="ADJ" morpho="n=p" head="5" dep="mod">remarquables</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="montage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">montage</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">d'</word>
-          <word id="7" lem="assemblage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">assemblage</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="atelier" postag="NC" morpho="g=m|n=s" head="2" dep="ats">atelier</word>
-          <word id="5" lem="vers" postag="P" morpho="_" head="2" dep="mod">vers</word>
-          <word id="6" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="5" dep="prep">lequel</word>
-          <word id="7" lem="converger" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="_">convergent</word>
-          <word id="8" lem="tout" postag="ADJ" morpho="g=m|n=p" head="10" dep="mod">tous</word>
-          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
-          <word id="10" lem="composant" postag="NC" morpho="g=m|n=p" head="7" dep="suj">composants</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">d'</word>
-          <word id="12" lem="un" postag="DET" morpho="g=m|n=s" head="13" dep="det">un</word>
-          <word id="13" lem="produit" postag="NC" morpho="g=m|n=s" head="11" dep="prep">produit</word>
-          <word id="14" lem="industriel" postag="ADJ" morpho="g=m|n=s" head="13" dep="mod">industriel</word>
-          <word id="15" lem="complexe" postag="ADJ" morpho="n=s" head="13" dep="mod">complexe</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="disposer" postag="VPR" morpho="t=pst" head="21" dep="mod">Disposant</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="1" dep="mod">aux</word>
-          <word id="4" lem="début" postag="NC" morpho="g=m|n=p" head="3" dep="prep">débuts</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="ère" postag="NC" morpho="g=f|n=s" head="5" dep="prep">ère</word>
-          <word id="8" lem="industriel" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">industrielle</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="1" dep="de_obj">d'</word>
-          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-          <word id="12" lem="main" postag="NC" morpho="g=f|n=s" head="10" dep="prep">main</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="13" dep="prep">œuvre</word>
-          <word id="15" lem="bon" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">bon</word>
-          <word id="16" lem="marché" postag="NC" morpho="g=m|n=s" head="14" dep="mod">marché</word>
-          <word id="17" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
-          <word id="18" lem="abondant" postag="ADJ" morpho="g=f|n=s" head="17" dep="dep_coord">abondante</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="20" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="21" dep="suj">il</word>
-          <word id="21" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="22" lem="l'" postag="DET" morpho="n=s" head="23" dep="det">l'</word>
-          <word id="23" lem="atelier" postag="NC" morpho="g=m|n=s" head="21" dep="ats">atelier</word>
-          <word id="24" lem="de" postag="P+D" morpho="g=m|n=s" head="23" dep="dep">du</word>
-          <word id="25" lem="montage" postag="NC" morpho="g=m|n=s" head="24" dep="prep">montage</word>
-          <word id="26" lem="en" postag="P" morpho="_" head="25" dep="dep">en</word>
-          <word id="27" lem="ligne" postag="NC" morpho="g=f|n=s" head="26" dep="prep">ligne</word>
-          <word id="28" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="29" lem="à" postag="P" morpho="_" head="21" dep="mod">à</word>
-          <word id="30" lem="la" postag="DET" morpho="g=f|n=s" head="31" dep="det">la</word>
-          <word id="31" lem="chaîne" postag="NC" morpho="g=f|n=s" head="29" dep="prep">chaîne</word>
-          <word id="32" lem="," postag="PONCT" morpho="_" head="31" dep="ponct">,</word>
-          <word id="33" lem="où" postag="PROREL" morpho="_" head="38" dep="mod">où</word>
-          <word id="34" lem="chaque" postag="DET" morpho="n=s" head="35" dep="det">chaque</word>
-          <word id="35" lem="opération" postag="NC" morpho="g=f|n=s" head="38" dep="suj">opération</word>
-          <word id="36" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="38" dep="aux_pass">est</word>
-          <word id="37" lem="minutieusement" postag="ADV" morpho="_" head="38" dep="mod">minutieusement</word>
-          <word id="38" lem="découper" postag="VPP" morpho="g=f|n=s|t=past" head="31" dep="mod_rel">découpée</word>
-          <word id="39" lem="de" postag="P" morpho="_" head="38" dep="de_obj">de</word>
-          <word id="40" lem="la" postag="DET" morpho="g=f|n=s" head="41" dep="det">la</word>
-          <word id="41" lem="façon" postag="NC" morpho="g=f|n=s" head="39" dep="prep">façon</word>
-          <word id="42" lem="la" postag="DET" morpho="g=f|n=s" head="44" dep="det">la</word>
-          <word id="43" lem="plus" postag="ADV" morpho="_" head="44" dep="mod">plus</word>
-          <word id="44" lem="précis" postag="ADJ" morpho="g=f|n=s" head="41" dep="mod">précise</word>
-          <word id="45" lem="possible" postag="ADJ" morpho="n=s" head="44" dep="mod">possible</word>
-          <word id="46" lem="afin_que" postag="CS" morpho="_" head="38" dep="mod">afin_que</word>
-          <word id="47" lem="chaque" postag="DET" morpho="n=s" head="48" dep="det">chaque</word>
-          <word id="48" lem="geste" postag="NC" morpho="n=s" head="49" dep="suj">geste</word>
-          <word id="49" lem="être" postag="VS" morpho="n=s|p=3|t=pst" head="46" dep="sub">soit</word>
-          <word id="50" lem="utile" postag="ADJ" morpho="n=s" head="49" dep="ats">utile</word>
-          <word id="51" lem="," postag="PONCT" morpho="_" head="49" dep="ponct">,</word>
-          <word id="52" lem="avec" postag="P" morpho="_" head="49" dep="mod">avec</word>
-          <word id="53" lem="le" postag="DET" morpho="g=m|n=s" head="54" dep="det">le</word>
-          <word id="54" lem="minimum" postag="NC" morpho="g=m|n=s" head="52" dep="prep">minimum</word>
-          <word id="55" lem="de" postag="P" morpho="_" head="54" dep="dep">de</word>
-          <word id="56" lem="temps" postag="NC" morpho="g=m" head="55" dep="prep">temps</word>
-          <word id="57" lem="perdre" postag="ADJ" morpho="g=m|n=s|t=past" head="56" dep="mod">perdu</word>
-          <word id="58" lem="(" postag="PONCT" morpho="_" head="54" dep="ponct">(</word>
-          <word id="59" lem="fordisme" postag="NC" morpho="g=m|n=s" head="54" dep="mod">Fordisme</word>
-          <word id="60" lem=")" postag="PONCT" morpho="_" head="54" dep="ponct">)</word>
-          <word id="61" lem="." postag="PONCT" morpho="_" head="21" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="paradoxalement" postag="ADV" morpho="_" head="4" dep="mod">Paradoxalement</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="3" lem="ce" postag="CLS" morpho="_" head="4" dep="suj">c'</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="6" lem="dernier" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">dernier</word>
-          <word id="7" lem="atelier" postag="NC" morpho="g=m|n=s" head="4" dep="ats">atelier</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="4" dep="mod">à</word>
-          <word id="9" lem="avoir" postag="VINF" morpho="_" head="11" dep="aux_tps">avoir</word>
-          <word id="10" lem="être" postag="VPP" morpho="t=past" head="11" dep="aux_pass">été</word>
-          <word id="11" lem="automatiser" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="prep">automatisé</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="13" lem="ce" postag="CLS" morpho="_" head="14" dep="suj">c'</word>
-          <word id="14" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="mod">est</word>
-          <word id="15" lem="pourtant" postag="ADV" morpho="_" head="14" dep="mod">pourtant</word>
-          <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
-          <word id="17" lem="atelier" postag="NC" morpho="g=m|n=s" head="14" dep="ats">atelier</word>
-          <word id="18" lem="qui" postag="PROREL" morpho="n=s" head="19" dep="suj">qui</word>
-          <word id="19" lem="employer" postag="V" morpho="n=s|p=13|t=pst" head="14" dep="mod_rel">emploie</word>
-          <word id="20" lem="le_plus" postag="ADV" morpho="_" head="0" dep="_">le_plus</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="22" lem="personnel" postag="NC" morpho="g=m|n=s" head="21" dep="prep">personnel</word>
-          <word id="23" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
-          <word id="24" lem="sauf" postag="P" morpho="_" head="22" dep="dep">sauf</word>
-          <word id="25" lem="quand" postag="CS" morpho="_" head="24" dep="prep">quand</word>
-          <word id="26" lem="les" postag="DET" morpho="n=p" head="27" dep="det">les</word>
-          <word id="27" lem="produit" postag="NC" morpho="g=m|n=p" head="30" dep="suj">produits</word>
-          <word id="28" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="30" dep="aux_tps">ont</word>
-          <word id="29" lem="être" postag="VPP" morpho="t=past" head="30" dep="aux_pass">été</word>
-          <word id="30" lem="étudier" postag="VPP" morpho="g=m|n=p|t=past" head="25" dep="sub">étudiés</word>
-          <word id="31" lem="pour" postag="P" morpho="_" head="30" dep="mod">pour</word>
-          <word id="32" lem="un" postag="DET" morpho="g=m|n=s" head="33" dep="det">un</word>
-          <word id="33" lem="montage" postag="NC" morpho="g=m|n=s" head="31" dep="prep">montage</word>
-          <word id="34" lem="automatiser" postag="VPP" morpho="g=m|n=s|t=past" head="33" dep="mod">automatisé</word>
-          <word id="35" lem="." postag="PONCT" morpho="_" head="25" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="4" lem="seul" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">seul</word>
-          <word id="5" lem="atelier" postag="NC" morpho="g=m|n=s" head="2" dep="ats">atelier</word>
-          <word id="6" lem="où" postag="PROREL" morpho="_" head="11" dep="mod">où</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="11" dep="suj">main-d'</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">œuvre</word>
-          <word id="10" lem="ne" postag="ADV" morpho="_" head="11" dep="mod">n'</word>
-          <word id="11" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="mod_rel">a</word>
-          <word id="12" lem="pas" postag="ADV" morpho="_" head="11" dep="mod">pas</word>
-          <word id="13" lem="de" postag="DET" morpho="n=p" head="14" dep="det">de</word>
-          <word id="14" lem="métier" postag="NC" morpho="g=m|n=s" head="11" dep="obj">métier</word>
-          <word id="15" lem="propre" postag="ADJ" morpho="n=s" head="14" dep="mod">propre</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="17" lem="pas" postag="ADV" morpho="_" head="19" dep="mod">pas</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="19" dep="det">de</word>
-          <word id="19" lem="compétence" postag="NC" morpho="g=f|n=s" head="11" dep="obj">compétence</word>
-          <word id="20" lem="particulier" postag="ADJ" morpho="g=f|n=s" head="19" dep="mod">particulière</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="22" lem="sauf" postag="P" morpho="_" head="11" dep="mod">sauf</word>
-          <word id="23" lem="dans" postag="P" morpho="_" head="22" dep="prep">dans</word>
-          <word id="24" lem="certaines" postag="DET" morpho="g=f|n=p" head="25" dep="det">certaines</word>
-          <word id="25" lem="industrie" postag="NC" morpho="g=f|n=p" head="23" dep="prep">industries</word>
-          <word id="26" lem="(" postag="PONCT" morpho="_" head="25" dep="ponct">(</word>
-          <word id="27" lem="_" postag="NPP" morpho="_" head="25" dep="mod">microtechnique</word>
-          <word id="28" lem="," postag="PONCT" morpho="_" head="25" dep="ponct">,</word>
-          <word id="29" lem="_" postag="NPP" morpho="_" head="25" dep="mod">microélectronique</word>
-          <word id="30" lem="," postag="PONCT" morpho="_" head="25" dep="ponct">,</word>
-          <word id="31" lem="biologie" postag="NC" morpho="g=f|n=s" head="25" dep="mod">biologie</word>
-          <word id="32" lem="par" postag="P" morpho="_" head="31" dep="dep">par</word>
-          <word id="33" lem="exemple" postag="NC" morpho="g=m|n=s" head="32" dep="prep">exemple</word>
-          <word id="34" lem=")" postag="PONCT" morpho="_" head="25" dep="ponct">)</word>
-          <word id="35" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="atelier" postag="NC" morpho="g=m|n=s" head="2" dep="ats">atelier</word>
-          <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-          <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="7" lem="ouvrier" postag="NC" morpho="g=m|n=p" head="5" dep="prep">ouvriers</word>
-          <word id="8" lem="spécialiser" postag="ADJ" morpho="g=m|n=p|t=past" head="7" dep="mod">spécialisés</word>
-          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="11" lem="os" postag="NC" morpho="g=m" head="7" dep="mod">OS</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="assemblage" postag="NC" morpho="g=m|n=s" head="3" dep="suj">assemblage</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="3" dep="ats">en</word>
-          <word id="5" lem="train" postag="NC" morpho="g=m|n=s" head="4" dep="prep">train</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="devenir" postag="VINF" morpho="_" head="6" dep="prep">devenir</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="centre" postag="NC" morpho="g=m|n=s" head="7" dep="obj">centre</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="intérêt" postag="NC" morpho="g=m|n=s" head="10" dep="prep">intérêt</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="robotique" postag="NC" morpho="g=f|n=s" head="12" dep="prep">robotique</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="atelier" postag="NC" morpho="g=m|n=s" head="2" dep="ats">atelier</word>
-          <word id="5" lem="où" postag="PROREL" morpho="_" head="8" dep="mod">où</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="modernisation" postag="NC" morpho="g=f|n=s" head="8" dep="suj">modernisation</word>
-          <word id="8" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="mod_rel">a</word>
-          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="0" dep="_">le</word>
-          <word id="10" lem="plus" postag="ADV" morpho="_" head="0" dep="_">plus</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="12" lem="progrès" postag="NC" morpho="g=m" head="11" dep="prep">progrès</word>
-          <word id="13" lem="potentiel" postag="ADJ" morpho="g=m|n=p" head="12" dep="mod">potentiels</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="retouche" postag="NC" morpho="g=f|n=s" head="3" dep="prep">retouche</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">de</word>
-          <word id="7" lem="réparation" postag="NC" morpho="g=f|n=s" head="6" dep="prep">réparation</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="cet" postag="DET" morpho="g=m|n=s" head="2" dep="det">Cet</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="3" dep="suj">atelier</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="celui" postag="PRO" morpho="g=m|n=s" head="3" dep="ats">celui</word>
-          <word id="5" lem="que" postag="PROREL" morpho="_" head="8" dep="obj">que</word>
-          <word id="6" lem="toute" postag="DET" morpho="g=f|n=s" head="7" dep="det">toute</word>
-          <word id="7" lem="entreprise" postag="NC" morpho="g=f|n=s" head="8" dep="suj">entreprise</word>
-          <word id="8" lem="chercher" postag="V" morpho="n=s|p=13|t=pst" head="4" dep="mod_rel">cherche</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="obj">à</word>
-          <word id="10" lem="faire" postag="VINF" morpho="_" head="11" dep="aux_caus">faire</word>
-          <word id="11" lem="disparaître" postag="VINF" morpho="_" head="9" dep="prep">disparaître</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="zéro" postag="NC" morpho="g=m|n=s" head="4" dep="suj">zéro</word>
-          <word id="3" lem="défaut" postag="NC" morpho="g=m|n=s" head="2" dep="mod">défaut</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="objectif" postag="NC" morpho="g=m|n=s" head="4" dep="ats">objectif</word>
-          <word id="7" lem="universel" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">universel</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="atelier" postag="NC" morpho="g=m|n=s" head="2" dep="ats">atelier</word>
-          <word id="5" lem="où" postag="PROREL" morpho="_" head="7" dep="mod">où</word>
-          <word id="6" lem="l'on" postag="CLS" morpho="n=s|p=3" head="7" dep="suj">l'on</word>
-          <word id="7" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="mod_rel">peut</word>
-          <word id="8" lem="faire" postag="VINF" morpho="_" head="7" dep="obj">faire</word>
-          <word id="9" lem="assez" postag="ADV" morpho="_" head="10" dep="mod">assez</word>
-          <word id="10" lem="facilement" postag="ADV" morpho="_" head="8" dep="mod">facilement</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="8" dep="de_obj">de</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="perruque" postag="NC" morpho="g=f|n=s" head="11" dep="prep">perruque</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="prototype" postag="NC" morpho="g=m|n=p" head="3" dep="prep">prototypes</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep_coord">d'</word>
-          <word id="8" lem="essai" postag="NC" morpho="g=m|n=p" head="7" dep="prep">essais</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="cet" postag="DET" morpho="g=m|n=s" head="2" dep="det">Cet</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="3" dep="suj">atelier</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="peu" postag="ADV" morpho="_" head="5" dep="mod">peu</word>
-          <word id="5" lem="accessible" postag="ADJ" morpho="n=s" head="3" dep="ats">accessible</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="7" lem="pour" postag="P" morpho="_" head="3" dep="mod">pour</word>
-          <word id="8" lem="des" postag="DET" morpho="n=p" head="9" dep="det">des</word>
-          <word id="9" lem="raison" postag="NC" morpho="g=f|n=p" head="7" dep="prep">raisons</word>
-          <word id="10" lem="évident" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">évidentes</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="12" lem="secret" postag="NC" morpho="g=m|n=s" head="11" dep="prep">secret</word>
-          <word id="13" lem="industriel" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">industriel</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="quand" postag="CS" morpho="_" head="15" dep="mod">Quand</word>
-          <word id="2" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="4" dep="suj">il</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
-          <word id="4" lem="visiter" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="sub">visité</word>
-          <word id="5" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
-          <word id="6" lem="des" postag="DET" morpho="n=p" head="7" dep="det">des</word>
-          <word id="7" lem="client" postag="NC" morpho="g=m|n=p" head="5" dep="prep">clients</word>
-          <word id="8" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
-          <word id="9" lem="des" postag="DET" morpho="n=p" head="10" dep="det">des</word>
-          <word id="10" lem="personnalité" postag="NC" morpho="g=f|n=p" head="8" dep="dep_coord">personnalités</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="12" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="15" dep="suj">il</word>
-          <word id="13" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="15" dep="aux_pass">est</word>
-          <word id="14" lem="généralement" postag="ADV" morpho="_" head="15" dep="mod">généralement</word>
-          <word id="15" lem="réagencer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">réagencé</word>
-          <word id="16" lem="pour" postag="P" morpho="_" head="15" dep="mod">pour</word>
-          <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
-          <word id="18" lem="visite" postag="NC" morpho="g=f|n=s" head="16" dep="prep">visite</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="15" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="flexible" postag="ADJ" morpho="n=s" head="2" dep="mod">flexible</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="aux_tps">est</word>
-          <word id="3" lem="naître" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">né</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="année" postag="NC" morpho="g=f|n=p" head="4" dep="prep">années</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="6" dep="mod">1970</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="9" lem="sous" postag="P" morpho="_" head="3" dep="mod">sous</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="forme" postag="NC" morpho="g=f|n=s" head="9" dep="prep">forme</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
-          <word id="13" lem="atelier" postag="NC" morpho="g=m|n=p" head="12" dep="prep">ateliers</word>
-          <word id="14" lem="flexible" postag="ADJ" morpho="n=p" head="13" dep="mod">flexibles</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
-          <word id="16" lem="usinage" postag="NC" morpho="g=m|n=s" head="15" dep="prep">usinage</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="18" lem="grâce_à" postag="P+D" morpho="n=p" head="3" dep="mod">grâce_aux</word>
-          <word id="19" lem="développement" postag="NC" morpho="g=m|n=s" head="18" dep="prep">développement</word>
-          <word id="20" lem="concourant" postag="ADJ" morpho="g=m|n=p" head="19" dep="mod">concourants</word>
-          <word id="21" lem="de" postag="P+D" morpho="n=p" head="19" dep="dep">des</word>
-          <word id="22" lem="centre" postag="NC" morpho="g=m|n=p" head="21" dep="prep">centres</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep">d'</word>
-          <word id="24" lem="usinage" postag="NC" morpho="g=m|n=s" head="23" dep="prep">usinage</word>
-          <word id="25" lem="à" postag="P" morpho="_" head="22" dep="dep">à</word>
-          <word id="26" lem="commande" postag="NC" morpho="g=f|n=s" head="25" dep="prep">commande</word>
-          <word id="27" lem="numérique" postag="ADJ" morpho="n=s" head="26" dep="mod">numérique</word>
-          <word id="28" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="29" lem="des" postag="DET" morpho="n=p" head="30" dep="det">des</word>
-          <word id="30" lem="technique" postag="NC" morpho="g=f|n=p" head="3" dep="obj">techniques</word>
-          <word id="31" lem="de" postag="P" morpho="_" head="30" dep="dep">de</word>
-          <word id="32" lem="manutention" postag="NC" morpho="g=f|n=s" head="31" dep="prep">manutention</word>
-          <word id="33" lem="et" postag="CC" morpho="_" head="31" dep="coord">et</word>
-          <word id="34" lem="de" postag="P" morpho="_" head="33" dep="dep_coord">de</word>
-          <word id="35" lem="stockage" postag="NC" morpho="g=m|n=s" head="34" dep="prep">stockage</word>
-          <word id="36" lem="automatiser" postag="ADJ" morpho="g=f|n=p|t=past" head="30" dep="mod">automatisées</word>
-          <word id="37" lem="," postag="PONCT" morpho="_" head="30" dep="ponct">,</word>
-          <word id="38" lem="de" postag="P" morpho="_" head="30" dep="dep">de</word>
-          <word id="39" lem="l'" postag="DET" morpho="n=s" head="40" dep="det">l'</word>
-          <word id="40" lem="identification" postag="NC" morpho="g=f|n=s" head="38" dep="prep">identification</word>
-          <word id="41" lem="automatique" postag="ADJ" morpho="n=s" head="40" dep="mod">automatique</word>
-          <word id="42" lem="(" postag="PONCT" morpho="_" head="40" dep="ponct">(</word>
-          <word id="43" lem="étiquette" postag="NC" morpho="g=f|n=p" head="40" dep="mod">étiquettes</word>
-          <word id="44" lem="magnétique" postag="ADJ" morpho="n=p" head="43" dep="mod">magnétiques</word>
-          <word id="45" lem="," postag="PONCT" morpho="_" head="30" dep="ponct">,</word>
-          <word id="46" lem="code" postag="NC" morpho="g=m|n=s" head="30" dep="mod">code</word>
-          <word id="47" lem="à" postag="P" morpho="_" head="46" dep="dep">à</word>
-          <word id="48" lem="barre" postag="NC" morpho="g=f|n=s" head="47" dep="prep">barre</word>
-          <word id="49" lem=")" postag="PONCT" morpho="_" head="30" dep="ponct">)</word>
-          <word id="50" lem="et" postag="CC" morpho="_" head="30" dep="coord">et</word>
-          <word id="51" lem="de" postag="P" morpho="_" head="50" dep="dep_coord">de</word>
-          <word id="52" lem="l'" postag="DET" morpho="n=s" head="53" dep="det">l'</word>
-          <word id="53" lem="informatique" postag="NC" morpho="g=f|n=s" head="51" dep="prep">informatique</word>
-          <word id="54" lem="industriel" postag="ADJ" morpho="g=f|n=s" head="53" dep="mod">industrielle</word>
-          <word id="55" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="2" dep="det">Son</word>
-          <word id="2" lem="usage" postag="NC" morpho="g=m|n=s" head="5" dep="suj">usage</word>
-          <word id="3" lem="se" postag="CLR" morpho="p=3" head="5" dep="aff">s'</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="aux_tps">est</word>
-          <word id="5" lem="étendre" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">étendu</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="a_obj">à</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="assemblage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">assemblage</word>
-          <word id="9" lem="flexible" postag="ADJ" morpho="n=s" head="8" dep="mod">flexible</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="10" dep="dep_coord">à</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="préparation" postag="NC" morpho="g=f|n=s" head="11" dep="prep">préparation</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="commande" postag="NC" morpho="g=f|n=s" head="14" dep="prep">commande</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-        <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-        <word id="4" lem="seul" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">seul</word>
-        <word id="5" lem="atelier" postag="NC" morpho="g=m|n=s" head="2" dep="ats">atelier</word>
-        <word id="6" lem="où" postag="PROREL" morpho="_" head="11" dep="mod">où</word>
-        <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-        <word id="8" lem="_" postag="NC" morpho="_" head="11" dep="suj">main-d'</word>
-        <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">œuvre</word>
-        <word id="10" lem="ne" postag="ADV" morpho="_" head="11" dep="mod">n'</word>
-        <word id="11" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="mod_rel">a</word>
-        <word id="12" lem="pas" postag="ADV" morpho="_" head="11" dep="mod">pas</word>
-        <word id="13" lem="de" postag="DET" morpho="n=p" head="14" dep="det">de</word>
-        <word id="14" lem="métier" postag="NC" morpho="g=m|n=s" head="11" dep="obj">métier</word>
-        <word id="15" lem="propre" postag="ADJ" morpho="n=s" head="14" dep="mod">propre</word>
-        <word id="16" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="17" lem="pas" postag="ADV" morpho="_" head="19" dep="mod">pas</word>
-        <word id="18" lem="de" postag="P" morpho="_" head="19" dep="det">de</word>
-        <word id="19" lem="compétence" postag="NC" morpho="g=f|n=s" head="11" dep="obj">compétence</word>
-        <word id="20" lem="particulier" postag="ADJ" morpho="g=f|n=s" head="19" dep="mod">particulière</word>
-        <word id="21" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="22" lem="sauf" postag="P" morpho="_" head="11" dep="mod">sauf</word>
-        <word id="23" lem="dans" postag="P" morpho="_" head="22" dep="prep">dans</word>
-        <word id="24" lem="certaines" postag="DET" morpho="g=f|n=p" head="25" dep="det">certaines</word>
-        <word id="25" lem="industrie" postag="NC" morpho="g=f|n=p" head="23" dep="prep">industries</word>
-        <word id="26" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">microtechnique</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">microélectronique</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="biologie" postag="NC" morpho="g=f|n=s" head="0" dep="root">biologie</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="par" postag="P" morpho="_" head="0" dep="_">par</word>
-          <word id="2" lem="exemple" postag="NC" morpho="g=m|n=s" head="1" dep="prep">exemple</word>
-          <word id="3" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:04</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-        <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="retouche" postag="NC" morpho="g=f|n=s" head="3" dep="prep">retouche</word>
-        <word id="5" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">de</word>
-        <word id="7" lem="réparation" postag="NC" morpho="g=f|n=s" head="6" dep="prep">réparation</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:04</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="cet" postag="DET" morpho="g=m|n=s" head="2" dep="det">Cet</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="3" dep="suj">atelier</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="celui" postag="PRO" morpho="g=m|n=s" head="3" dep="ats">celui</word>
-          <word id="5" lem="que" postag="PROREL" morpho="_" head="8" dep="obj">que</word>
-          <word id="6" lem="toute" postag="DET" morpho="g=f|n=s" head="7" dep="det">toute</word>
-          <word id="7" lem="entreprise" postag="NC" morpho="g=f|n=s" head="8" dep="suj">entreprise</word>
-          <word id="8" lem="chercher" postag="V" morpho="n=s|p=13|t=pst" head="4" dep="mod_rel">cherche</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="obj">à</word>
-          <word id="10" lem="faire" postag="VINF" morpho="_" head="11" dep="aux_caus">faire</word>
-          <word id="11" lem="disparaître" postag="VINF" morpho="_" head="9" dep="prep">disparaître</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="zéro" postag="NC" morpho="g=m|n=s" head="4" dep="suj">zéro</word>
-          <word id="3" lem="défaut" postag="NC" morpho="g=m|n=s" head="2" dep="mod">défaut</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="objectif" postag="NC" morpho="g=m|n=s" head="4" dep="ats">objectif</word>
-          <word id="7" lem="universel" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">universel</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="atelier" postag="NC" morpho="g=m|n=s" head="2" dep="ats">atelier</word>
-          <word id="5" lem="où" postag="PROREL" morpho="_" head="7" dep="mod">où</word>
-          <word id="6" lem="l'on" postag="CLS" morpho="n=s|p=3" head="7" dep="suj">l'on</word>
-          <word id="7" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="mod_rel">peut</word>
-          <word id="8" lem="faire" postag="VINF" morpho="_" head="7" dep="obj">faire</word>
-          <word id="9" lem="assez" postag="ADV" morpho="_" head="10" dep="mod">assez</word>
-          <word id="10" lem="facilement" postag="ADV" morpho="_" head="8" dep="mod">facilement</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="8" dep="de_obj">de</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="perruque" postag="NC" morpho="g=f|n=s" head="11" dep="prep">perruque</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:45</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-        <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-        <word id="4" lem="prototype" postag="NC" morpho="g=m|n=p" head="3" dep="prep">prototypes</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        <word id="6" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep_coord">d'</word>
-        <word id="8" lem="essai" postag="NC" morpho="g=m|n=p" head="7" dep="prep">essais</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:45</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="cet" postag="DET" morpho="g=m|n=s" head="2" dep="det">Cet</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="3" dep="suj">atelier</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="peu" postag="ADV" morpho="_" head="5" dep="mod">peu</word>
-          <word id="5" lem="accessible" postag="ADJ" morpho="n=s" head="3" dep="ats">accessible</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="7" lem="pour" postag="P" morpho="_" head="3" dep="mod">pour</word>
-          <word id="8" lem="des" postag="DET" morpho="n=p" head="9" dep="det">des</word>
-          <word id="9" lem="raison" postag="NC" morpho="g=f|n=p" head="7" dep="prep">raisons</word>
-          <word id="10" lem="évident" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">évidentes</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="12" lem="secret" postag="NC" morpho="g=m|n=s" head="11" dep="prep">secret</word>
-          <word id="13" lem="industriel" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">industriel</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="quand" postag="CS" morpho="_" head="15" dep="mod">Quand</word>
-          <word id="2" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="4" dep="suj">il</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
-          <word id="4" lem="visiter" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="sub">visité</word>
-          <word id="5" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
-          <word id="6" lem="des" postag="DET" morpho="n=p" head="7" dep="det">des</word>
-          <word id="7" lem="client" postag="NC" morpho="g=m|n=p" head="5" dep="prep">clients</word>
-          <word id="8" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
-          <word id="9" lem="des" postag="DET" morpho="n=p" head="10" dep="det">des</word>
-          <word id="10" lem="personnalité" postag="NC" morpho="g=f|n=p" head="8" dep="dep_coord">personnalités</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="12" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="15" dep="suj">il</word>
-          <word id="13" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="15" dep="aux_pass">est</word>
-          <word id="14" lem="généralement" postag="ADV" morpho="_" head="15" dep="mod">généralement</word>
-          <word id="15" lem="réagencer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">réagencé</word>
-          <word id="16" lem="pour" postag="P" morpho="_" head="15" dep="mod">pour</word>
-          <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
-          <word id="18" lem="visite" postag="NC" morpho="g=f|n=s" head="16" dep="prep">visite</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="15" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:46</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-        <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-        <word id="3" lem="flexible" postag="ADJ" morpho="n=s" head="2" dep="mod">flexible</word>
-        <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:46</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="aux_tps">est</word>
-          <word id="3" lem="naître" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">né</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="année" postag="NC" morpho="g=f|n=p" head="4" dep="prep">années</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="6" dep="mod">1970</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="9" lem="sous" postag="P" morpho="_" head="3" dep="mod">sous</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="forme" postag="NC" morpho="g=f|n=s" head="9" dep="prep">forme</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
-          <word id="13" lem="atelier" postag="NC" morpho="g=m|n=p" head="12" dep="prep">ateliers</word>
-          <word id="14" lem="flexible" postag="ADJ" morpho="n=p" head="13" dep="mod">flexibles</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
-          <word id="16" lem="usinage" postag="NC" morpho="g=m|n=s" head="15" dep="prep">usinage</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="18" lem="grâce_à" postag="P+D" morpho="n=p" head="3" dep="mod">grâce_aux</word>
-          <word id="19" lem="développement" postag="NC" morpho="g=m|n=s" head="18" dep="prep">développement</word>
-          <word id="20" lem="concourant" postag="ADJ" morpho="g=m|n=p" head="19" dep="mod">concourants</word>
-          <word id="21" lem="de" postag="P+D" morpho="n=p" head="19" dep="dep">des</word>
-          <word id="22" lem="centre" postag="NC" morpho="g=m|n=p" head="21" dep="prep">centres</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep">d'</word>
-          <word id="24" lem="usinage" postag="NC" morpho="g=m|n=s" head="23" dep="prep">usinage</word>
-          <word id="25" lem="à" postag="P" morpho="_" head="22" dep="dep">à</word>
-          <word id="26" lem="commande" postag="NC" morpho="g=f|n=s" head="25" dep="prep">commande</word>
-          <word id="27" lem="numérique" postag="ADJ" morpho="n=s" head="26" dep="mod">numérique</word>
-          <word id="28" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="29" lem="des" postag="DET" morpho="n=p" head="30" dep="det">des</word>
-          <word id="30" lem="technique" postag="NC" morpho="g=f|n=p" head="3" dep="obj">techniques</word>
-          <word id="31" lem="de" postag="P" morpho="_" head="30" dep="dep">de</word>
-          <word id="32" lem="manutention" postag="NC" morpho="g=f|n=s" head="31" dep="prep">manutention</word>
-          <word id="33" lem="et" postag="CC" morpho="_" head="31" dep="coord">et</word>
-          <word id="34" lem="de" postag="P" morpho="_" head="33" dep="dep_coord">de</word>
-          <word id="35" lem="stockage" postag="NC" morpho="g=m|n=s" head="34" dep="prep">stockage</word>
-          <word id="36" lem="automatiser" postag="ADJ" morpho="g=f|n=p|t=past" head="30" dep="mod">automatisées</word>
-          <word id="37" lem="," postag="PONCT" morpho="_" head="30" dep="ponct">,</word>
-          <word id="38" lem="de" postag="P" morpho="_" head="30" dep="dep">de</word>
-          <word id="39" lem="l'" postag="DET" morpho="n=s" head="40" dep="det">l'</word>
-          <word id="40" lem="identification" postag="NC" morpho="g=f|n=s" head="38" dep="prep">identification</word>
-          <word id="41" lem="automatique" postag="ADJ" morpho="n=s" head="40" dep="mod">automatique</word>
-          <word id="42" lem="(" postag="PONCT" morpho="_" head="40" dep="ponct">(</word>
-          <word id="43" lem="étiquette" postag="NC" morpho="g=f|n=p" head="40" dep="mod">étiquettes</word>
-          <word id="44" lem="magnétique" postag="ADJ" morpho="n=p" head="43" dep="mod">magnétiques</word>
-          <word id="45" lem="," postag="PONCT" morpho="_" head="30" dep="ponct">,</word>
-          <word id="46" lem="code" postag="NC" morpho="g=m|n=s" head="30" dep="mod">code</word>
-          <word id="47" lem="à" postag="P" morpho="_" head="46" dep="dep">à</word>
-          <word id="48" lem="barre" postag="NC" morpho="g=f|n=s" head="47" dep="prep">barre</word>
-          <word id="49" lem=")" postag="PONCT" morpho="_" head="30" dep="ponct">)</word>
-          <word id="50" lem="et" postag="CC" morpho="_" head="30" dep="coord">et</word>
-          <word id="51" lem="de" postag="P" morpho="_" head="50" dep="dep_coord">de</word>
-          <word id="52" lem="l'" postag="DET" morpho="n=s" head="53" dep="det">l'</word>
-          <word id="53" lem="informatique" postag="NC" morpho="g=f|n=s" head="51" dep="prep">informatique</word>
-          <word id="54" lem="industriel" postag="ADJ" morpho="g=f|n=s" head="53" dep="mod">industrielle</word>
-          <word id="55" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="2" dep="det">Son</word>
-          <word id="2" lem="usage" postag="NC" morpho="g=m|n=s" head="5" dep="suj">usage</word>
-          <word id="3" lem="se" postag="CLR" morpho="p=3" head="5" dep="aff">s'</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="aux_tps">est</word>
-          <word id="5" lem="étendre" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">étendu</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="a_obj">à</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="assemblage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">assemblage</word>
-          <word id="9" lem="flexible" postag="ADJ" morpho="n=s" head="8" dep="mod">flexible</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="10" dep="dep_coord">à</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="préparation" postag="NC" morpho="g=f|n=s" head="11" dep="prep">préparation</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="commande" postag="NC" morpho="g=f|n=s" head="14" dep="prep">commande</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-        <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="4" dep="suj">atelier</word>
-        <word id="3" lem="contemporain" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">contemporain</word>
-        <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="5" lem="en_général" postag="ADV" morpho="_" head="4" dep="mod">en_général</word>
-        <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-        <word id="7" lem="pièce" postag="NC" morpho="g=f|n=s" head="4" dep="ats">pièce</word>
-        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-        <word id="9" lem="travail" postag="NC" morpho="g=m|n=s" head="8" dep="prep">travail</word>
-        <word id="10" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-        <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-        <word id="12" lem="artiste" postag="NC" morpho="n=s" head="10" dep="prep">artiste</word>
-        <word id="13" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="14" lem="éventuellement" postag="ADV" morpho="_" head="15" dep="mod">éventuellement</word>
-        <word id="15" lem="aider" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">aidé</word>
-        <word id="16" lem="par" postag="P" morpho="_" head="15" dep="p_obj">par</word>
-        <word id="17" lem="des" postag="DET" morpho="n=p" head="18" dep="det">des</word>
-        <word id="18" lem="élève" postag="NC" morpho="n=p" head="16" dep="prep">élèves</word>
-        <word id="19" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-        <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="3" lem="ce" postag="DET" morpho="g=m|n=s" head="4" dep="det">ce</word>
-        <word id="4" lem="sens" postag="NC" morpho="g=m" head="2" dep="ats">sens</word>
-        <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-        <word id="6" lem="mot" postag="NC" morpho="g=m|n=s" head="5" dep="prep">mot</word>
-        <word id="7" lem="atelier" postag="NC" morpho="g=m|n=s" head="6" dep="mod">atelier</word>
-        <word id="8" lem="qui" postag="PROREL" morpho="n=s" head="11" dep="suj">qui</word>
-        <word id="9" lem="se" postag="CLR" morpho="p=3" head="11" dep="aff">s'</word>
-        <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="aux_tps">est</word>
-        <word id="11" lem="exporter" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod_rel">exporté</word>
-        <word id="12" lem="dans" postag="P" morpho="_" head="11" dep="mod">dans</word>
-        <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
-        <word id="14" lem="monde" postag="NC" morpho="g=m|n=s" head="12" dep="prep">monde</word>
-        <word id="15" lem="(" postag="PONCT" morpho="_" head="11" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="root">atelier</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="4" lem="anglais" postag="NC" morpho="g=m" head="3" dep="prep">anglais</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="VPP" morpho="_" head="0" dep="_">atolié</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="mod">en</word>
-          <word id="3" lem="japonais" postag="ADJ" morpho="g=m" head="2" dep="prep">japonais</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:07</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="7">
-      <sentence id="1">
-        <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-        <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="3" lem="ce" postag="DET" morpho="g=m|n=s" head="4" dep="det">ce</word>
-        <word id="4" lem="sens" postag="NC" morpho="g=m" head="2" dep="ats">sens</word>
-        <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-        <word id="6" lem="mot" postag="NC" morpho="g=m|n=s" head="5" dep="prep">mot</word>
-        <word id="7" lem="atelier" postag="NC" morpho="g=m|n=s" head="6" dep="mod">atelier</word>
-        <word id="8" lem="qui" postag="PROREL" morpho="n=s" head="11" dep="suj">qui</word>
-        <word id="9" lem="se" postag="CLR" morpho="p=3" head="11" dep="aff">s'</word>
-        <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="aux_tps">est</word>
-        <word id="11" lem="exporter" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod_rel">exporté</word>
-        <word id="12" lem="dans" postag="P" morpho="_" head="11" dep="mod">dans</word>
-        <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
-        <word id="14" lem="monde" postag="NC" morpho="g=m|n=s" head="12" dep="prep">monde</word>
-        <word id="15" lem="(" postag="PONCT" morpho="_" head="11" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:07</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="7">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="root">atelier</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="4" lem="anglais" postag="NC" morpho="g=m" head="3" dep="prep">anglais</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="VPP" morpho="_" head="0" dep="_">atolié</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="mod">en</word>
-          <word id="3" lem="japonais" postag="ADJ" morpho="g=m" head="2" dep="prep">japonais</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -1211,8 +178,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -1228,7 +195,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -1240,7 +207,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -1268,8 +235,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -1280,8 +247,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -1299,100 +266,22 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:04</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
-      <span begin="1" end="39" />
-      <text>L'atelier de retouche ou de réparation</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:04</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="items" idSE="3">
-      <span begin="40" end="153" id="0" />
-      <text id="0">Cet atelier est celui que toute entreprise cherche à faire disparaître. Le zéro défaut est un objectif universel.</text>
-      <span begin="154" end="221" id="1" />
-      <text id="1">C'est l'atelier où l'on peut faire assez facilement de la perruque.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:45</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="primer" idSE="4">
-      <span begin="1" end="38" />
-      <text>L'atelier des prototypes, ou d'essais</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:45</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="items" idSE="4">
-      <span begin="39" end="118" id="0" />
-      <text id="0">Cet atelier est peu accessible, pour des raisons évidentes de secret industriel</text>
-      <span begin="120" end="222" id="1" />
-      <text id="1">Quand il est visité par des clients ou des personnalités, il est généralement réagencé pour la visite.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:46</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="primer" idSE="5">
-      <span begin="1" end="20" />
-      <text>L'atelier flexible.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:46</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="items" idSE="5">
-      <span begin="21" end="343" id="0" />
-      <text id="0">Il est né dans les années 1970, sous la forme d'ateliers flexibles d'usinage, grâce aux développement concourants des centres d'usinage à commande numérique, des techniques de manutention et de stockage automatisées, de l'identification automatique (étiquettes magnétiques, code à barre) et de l'informatique industrielle.</text>
-      <span begin="344" end="424" id="1" />
-      <text id="1">Son usage s'est étendu à l'assemblage flexible et à la préparation de commande.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="primer" idSE="6">
       <span begin="1" end="171" />
       <text>L'atelier contemporain est en général la pièce de travail d'un artiste, éventuellement aidé par des élèves. C'est ce sens du mot atelier qui s'est exporté dans le monde (</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="items" idSE="6">
+    <SEval type="items" idSE="3">
       <span begin="170" end="191" id="0" />
       <text id="0">(atelier en anglais,</text>
       <span begin="191" end="211" id="1" />
@@ -1401,35 +290,9 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:07</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="primer" idSE="7">
-      <span begin="1" end="63" />
-      <text>C'est ce sens du mot atelier qui s'est exporté dans le monde (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:07</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="items" idSE="7">
-      <span begin="62" end="83" id="0" />
-      <text id="0">(atelier en anglais,</text>
-      <span begin="83" end="103" id="1" />
-      <text id="1">atolié en japonais).</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -1440,8 +303,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -1456,8 +319,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1468,8 +331,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -1485,7 +348,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -1497,7 +360,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -1509,7 +372,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -1521,7 +384,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -1532,8 +395,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
@@ -1544,8 +407,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -1556,8 +419,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -1568,8 +431,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -1579,60 +442,60 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
       <span begin="130" end="138" id="0" />
       <text id="0">atelier</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
       <span begin="171" end="178" id="0" />
       <text id="0">atelier</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
       <span begin="191" end="197" id="0" />
       <text id="0">atolié</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="0">
       <span begin="179" end="189" id="0" />
       <text id="0">en anglais</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="1">
+    <SEval type="circonstant" idSE="3" localisation="item" idItem="1">
       <span begin="198" end="209" id="0" />
       <text id="0">en japonais</text>
     </SEval>
@@ -1640,8 +503,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1654,8 +517,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1668,8 +531,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1685,8 +548,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:56</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1712,7 +575,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1726,7 +589,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1740,7 +603,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1757,7 +620,7 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:36</date>
+      <date>3/01/14 12:36</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1782,8 +645,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1796,8 +659,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1810,8 +673,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1827,8 +690,8 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:39</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 17:03</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1854,237 +717,24 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:04</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
-      <horizontale value="0" />
-      <verticale value="1" />
+      <horizontale value="1" />
+      <verticale value="0" />
       <navigationnelle value="0" />
-      <hypertextuelle value="1" />
+      <hypertextuelle value="0" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:04</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:04</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="3">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:04</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="3">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:45</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="4">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:45</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="4">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:45</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="4">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:45</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="4">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:46</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="5">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:46</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="5">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:46</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="5">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 20:46</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="5">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="6">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="6">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -2093,12 +743,12 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="6">
+    <SEval type="axe_intentionnel" idSE="3">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -2110,12 +760,12 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:39</date>
+      <date>3/01/14 12:39</date>
       <document>Atelier.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="6">
+    <SEval type="axe_semantique" idSE="3">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />
@@ -2128,77 +778,6 @@ Son usage s'est étendu à l'assemblage flexible et à la préparation de comman
         <homonymie value="0" />
         <synonymie value="0" />
         <multilingue value="1" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:07</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="7">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:07</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="7">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:07</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="7">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:07</date>
-      <document>Atelier.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="7">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
         <lexical_autre value="0" />
       </metalinguistique>
       <semantique_autre value="0" />

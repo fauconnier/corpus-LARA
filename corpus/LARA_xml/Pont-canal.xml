@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SE>
@@ -45,546 +45,65 @@ Pont-canal de Troussey, Canal de la Marne au Rhin
 Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
       <span begin="1040" end="3085" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="quelques" postag="DET" morpho="n=p" head="3" dep="det">Quelques</word>
-        <word id="2" lem="grand" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">grands</word>
-        <word id="3" lem="pont" postag="NC" morpho="g=m|n=p" head="0" dep="_">ponts</word>
-        <word id="4" lem="canal" postag="NC" morpho="g=m|n=p" head="3" dep="mod">canaux</word>
-        <word id="5" lem="en" postag="P" morpho="_" head="3" dep="dep">en</word>
-        <word id="6" lem="France" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">France</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Abbécourt</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="Oise" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Oise</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="Aisne" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Aisne</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Agen" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Agen</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="Garonne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Garonne</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">Pont</word>
-          <word id="2" lem="canal" postag="NC" morpho="g=m|n=s" head="1" dep="mod">canal</word>
-          <word id="3" lem="Aisne" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Aisne</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Allenjoie" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Allenjoie</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Montbéliard</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="Haute-Saône" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Haute-Saône</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="12" lem="acier" postag="NC" morpho="g=m|n=s" head="5" dep="mod">acier</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">Pont</word>
-          <word id="2" lem="canal" postag="NC" morpho="g=m|n=s" head="1" dep="mod">canal</word>
-          <word id="3" lem="sur" postag="P" morpho="_" head="1" dep="dep">sur</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Baïse</word>
-          <word id="6" lem="sur" postag="P" morpho="_" head="1" dep="dep">sur</word>
-          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
-          <word id="8" lem="commune" postag="NC" morpho="g=f|n=p" head="6" dep="prep">communes</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Vianne" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Vianne</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep_coord">de</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="prep">Buzet-sur-Baïse</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="15" lem="Canal" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Canal</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="17" lem="Garonne" postag="NPP" morpho="g=f|n=s" head="16" dep="prep">Garonne</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="19" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="0" dep="_">maçonnerie</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Barberey-Saint-Sulpice" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Barberey-Saint-Sulpice</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Haute-Seine</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="10" lem="fonte" postag="NC" morpho="g=f|n=s" head="5" dep="mod">fonte</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Bermont" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Bermont</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Montbéliard</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="Haute-Saône" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Haute-Saône</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="12" lem="acier" postag="NC" morpho="g=m|n=s" head="5" dep="mod">acier</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="6" dep="mod">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Briare" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Briare</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="6" dep="suj">Canal</word>
-          <word id="6" lem="_" postag="V" morpho="_" head="0" dep="root">latéral</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="a_obj">à</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Loire" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Loire</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="11" lem="acier" postag="NC" morpho="g=m|n=s" head="6" dep="mod">acier</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Bologne" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Bologne</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Marne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Marne</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="5" dep="dep">à</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Saône</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="13" lem="acier" postag="NC" morpho="g=m|n=s" head="5" dep="mod">acier</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Bourbince</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="0" dep="_">Rigole</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Arroux</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="11" lem="acier" postag="NC" morpho="g=m|n=s" head="6" dep="mod">acier</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Pont-canal</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Cacor</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="Moissac" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Moissac</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="Canal" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Canal</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="9" lem="Garonne" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Garonne</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="11" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="1" dep="mod">maçonnerie</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="Cesse" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Cesse</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Midi</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="10" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="6" dep="mod">maçonnerie</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="Croix" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Croix</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="Berry" postag="NPP" morpho="n=s" head="7" dep="prep">Berry</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="11" lem="Ainay-le-Vieil" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Ainay-le-Vieil</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="13" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="0" dep="_">maçonnerie</word>
-        </sentence>
-      </item>
-      <item id="13">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="6" dep="mod">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Digoin" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Digoin</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="6" dep="suj">Canal</word>
-          <word id="6" lem="_" postag="V" morpho="_" head="0" dep="root">latéral</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="a_obj">à</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Loire" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Loire</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="11" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="6" dep="mod">maçonnerie</word>
-        </sentence>
-      </item>
-      <item id="14">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Esbly" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Esbly</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="Chalifert" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Chalifert</word>
-        </sentence>
-      </item>
-      <item id="15">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Flavigny-sur-Moselle" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Flavigny-sur-Moselle</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="jonction" postag="NC" morpho="g=f|n=s" head="1" dep="mod">jonction</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="Canal" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Canal</word>
-          <word id="8" lem="de" postag="P+D" morpho="n=p" head="7" dep="dep">des</word>
-          <word id="9" lem="Vosges" postag="NPP" morpho="g=f|n=p" head="8" dep="prep">Vosges</word>
-          <word id="10" lem="avec" postag="P" morpho="_" head="5" dep="dep">avec</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Moselle</word>
-          <word id="13" lem="canaliser" postag="ADJ" morpho="g=f|n=s|t=past" head="12" dep="mod">canalisée</word>
-        </sentence>
-      </item>
-      <item id="16">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Fresquel</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Midi</word>
-        </sentence>
-      </item>
-      <item id="17">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Golbey" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Golbey</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-          <word id="7" lem="Vosges" postag="NPP" morpho="g=f|n=p" head="6" dep="prep">Vosges</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="9" lem="embranchement" postag="NC" morpho="g=m|n=s" head="5" dep="mod">embranchement</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="Epinal" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Epinal</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="18">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="6" dep="mod">Pont-canal</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Guétin</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="6" dep="suj">Canal</word>
-          <word id="6" lem="_" postag="V" morpho="_" head="0" dep="root">latéral</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="a_obj">à</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="Loire" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Loire</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="11" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="6" dep="mod">maçonnerie</word>
-        </sentence>
-      </item>
-      <item id="19">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Herbettes</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Midi</word>
-        </sentence>
-      </item>
-      <item id="20">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Hesse" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Hesse</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Marne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Marne</word>
-          <word id="9" lem="à" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">au</word>
-          <word id="10" lem="Rhin" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Rhin</word>
-          <word id="11" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
-          <word id="12" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="11" dep="prep">Moselle</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="14" lem="acier" postag="NC" morpho="g=m|n=s" head="5" dep="mod">acier</word>
-        </sentence>
-      </item>
-      <item id="21">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">La</word>
-          <word id="4" lem="Madeleine" postag="NPP" morpho="g=f|n=s" head="3" dep="mod">Madeleine</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Laneuveville-devant-Nancy</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="9" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="Marne" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Marne</word>
-          <word id="13" lem="à" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">au</word>
-          <word id="14" lem="Rhin" postag="NPP" morpho="g=m|n=s" head="13" dep="prep">Rhin</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="16" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="9" dep="mod">maçonnerie</word>
-        </sentence>
-      </item>
-      <item id="22">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Liverdun" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Liverdun</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="disparaître" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">disparu</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="Marne" postag="NPP" morpho="g=f|n=s" head="9" dep="prep">Marne</word>
-          <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">au</word>
-          <word id="13" lem="Rhin" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Rhin</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="15" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="8" dep="mod">maçonnerie</word>
-        </sentence>
-      </item>
-      <item id="23">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Moeslains" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Moeslains</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="disparaître" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">disparu</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Wassy" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Wassy</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="8" dep="dep">à</word>
-          <word id="12" lem="Saint-Dizier" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Saint-Dizier</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="14" lem="acier" postag="NC" morpho="g=m|n=s" head="8" dep="mod">acier</word>
-        </sentence>
-      </item>
-      <item id="24">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="Orb" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Orb</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Béziers</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">Midi</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="12" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="8" dep="mod">maçonnerie</word>
-        </sentence>
-      </item>
-      <item id="25">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Pont" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Pont</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Ouche</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="7" lem="Pont-d'Ouche" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Pont-d'Ouche</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="Canal" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Canal</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="11" lem="Bourgogne" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Bourgogne</word>
-        </sentence>
-      </item>
-      <item id="26">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Queugne</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Épineuil-le-Fleuriel</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="Canal" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Canal</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="10" lem="Berry" postag="NPP" morpho="n=s" head="9" dep="prep">Berry</word>
-        </sentence>
-      </item>
-      <item id="27">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="12" dep="mod">Pont-canal</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Répudre</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="12" dep="suj">Canal</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Midi</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="9" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="5" dep="mod">maçonnerie</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="11" lem="ce" postag="CLS" morpho="_" head="12" dep="suj">c'</word>
-          <word id="12" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
-          <word id="14" lem="plus" postag="ADV" morpho="_" head="15" dep="mod">plus</word>
-          <word id="15" lem="ancien" postag="ADJ" morpho="g=m|n=s" head="12" dep="ats">ancien</word>
-          <word id="16" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-          <word id="17" lem="France" postag="NPP" morpho="g=m|n=s" head="16" dep="prep">France</word>
-          <word id="18" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="28">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Sarralbe" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Sarralbe</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-          <word id="7" lem="houillère" postag="NC" morpho="g=f|n=p" head="6" dep="prep">houillères</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="Sarre" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Sarre</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="12" lem="acier" postag="NC" morpho="g=m|n=s" head="5" dep="mod">acier</word>
-        </sentence>
-      </item>
-      <item id="29">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Sart</word>
-        </sentence>
-      </item>
-      <item id="30">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">La</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Tranchasse</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="sur" postag="P" morpho="_" head="0" dep="_">sur</word>
-          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
-          <word id="8" lem="commune" postag="NC" morpho="g=f|n=p" head="6" dep="prep">communes</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Colombiers" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Colombiers</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
-          <word id="12" lem="Ainay-le-Vieil" postag="NPP" morpho="g=m|n=s" head="11" dep="dep_coord">Ainay-le-Vieil</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="14" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="Berry" postag="NPP" morpho="n=s" head="15" dep="prep">Berry</word>
-        </sentence>
-      </item>
-      <item id="31">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Troussey" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Troussey</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="Marne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Marne</word>
-          <word id="9" lem="à" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">au</word>
-          <word id="10" lem="Rhin" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Rhin</word>
-        </sentence>
-      </item>
-      <item id="32">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Pont-canal</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Wolfersdorf" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Wolfersdorf</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="Wolfersdorf" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Wolfersdorf</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="Canal" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Canal</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-          <word id="9" lem="Rhône" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Rhône</word>
-          <word id="10" lem="à" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">au</word>
-          <word id="11" lem="Rhin" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Rhin</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
+      <item id="13" />
+      <item id="14" />
+      <item id="15" />
+      <item id="16" />
+      <item id="17" />
+      <item id="18" />
+      <item id="19" />
+      <item id="20" />
+      <item id="21" />
+      <item id="22" />
+      <item id="23" />
+      <item id="24" />
+      <item id="25" />
+      <item id="26" />
+      <item id="27" />
+      <item id="28" />
+      <item id="29" />
+      <item id="30" />
+      <item id="31" />
+      <item id="32" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -595,8 +114,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -671,8 +190,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -683,8 +202,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -695,8 +214,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -707,8 +226,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -719,8 +238,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -731,8 +250,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -743,8 +262,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -755,8 +274,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -767,8 +286,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="7">
@@ -779,8 +298,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="8">
@@ -791,8 +310,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="9">
@@ -803,8 +322,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="10">
@@ -815,8 +334,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="11">
@@ -827,8 +346,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="12">
@@ -839,8 +358,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="13">
@@ -851,8 +370,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="14">
@@ -863,8 +382,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="15">
@@ -875,8 +394,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="16">
@@ -887,8 +406,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="17">
@@ -899,8 +418,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="18">
@@ -911,8 +430,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="19">
@@ -923,8 +442,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="20">
@@ -935,8 +454,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="21">
@@ -947,8 +466,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="22">
@@ -959,8 +478,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="23">
@@ -971,8 +490,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="24">
@@ -983,8 +502,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="25">
@@ -995,8 +514,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="26">
@@ -1007,8 +526,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="27">
@@ -1019,8 +538,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="28">
@@ -1031,8 +550,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="29">
@@ -1043,8 +562,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="30">
@@ -1055,8 +574,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="31">
@@ -1067,8 +586,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="32">
@@ -1079,8 +598,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
@@ -1091,8 +610,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
@@ -1103,8 +622,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
@@ -1115,8 +634,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="3">
@@ -1127,8 +646,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="4">
@@ -1141,8 +660,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="5">
@@ -1153,8 +672,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="6">
@@ -1165,8 +684,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="7">
@@ -1177,8 +696,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="8">
@@ -1189,8 +708,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="9">
@@ -1201,8 +720,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="10">
@@ -1213,8 +732,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="11">
@@ -1225,8 +744,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="12">
@@ -1237,8 +756,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="13">
@@ -1249,8 +768,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="14">
@@ -1261,8 +780,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="16">
@@ -1273,8 +792,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="17">
@@ -1285,8 +804,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="18">
@@ -1297,8 +816,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="19">
@@ -1309,8 +828,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="20">
@@ -1321,8 +840,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="21">
@@ -1333,8 +852,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="22">
@@ -1345,8 +864,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="23">
@@ -1357,8 +876,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="24">
@@ -1369,8 +888,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="25">
@@ -1381,8 +900,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="26">
@@ -1393,8 +912,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="27">
@@ -1405,8 +924,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="28">
@@ -1417,8 +936,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="30">
@@ -1429,8 +948,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="31">
@@ -1441,8 +960,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="32">
@@ -1453,8 +972,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -1465,8 +984,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1479,8 +998,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1493,8 +1012,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1510,8 +1029,8 @@ Pont-canal de Wolfersdorf à Wolfersdorf, Canal du Rhône au Rhin</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont-canal.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

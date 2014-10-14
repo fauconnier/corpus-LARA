@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SE>
@@ -17,13 +17,13 @@ Les infrastructures portuaires ou aéroportuaires et
 Les sites industriels bruyants.</text>
       <span begin="19" end="477" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:42</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:48</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SE>
@@ -100,326 +100,48 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-        <word id="2" lem="mur" postag="NC" morpho="g=m|n=s" head="10" dep="suj">mur</word>
-        <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">anti-bruit</word>
-        <word id="4" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-        <word id="5" lem="écran" postag="NC" morpho="g=m|n=s" head="4" dep="dep_coord">écran</word>
-        <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="mod">anti-bruit</word>
-        <word id="7" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
-        <word id="8" lem="écran" postag="NC" morpho="g=m|n=s" head="7" dep="dep_coord">écran</word>
-        <word id="9" lem="acoustique" postag="ADJ" morpho="n=s" head="8" dep="mod">acoustique</word>
-        <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-        <word id="12" lem="structure" postag="NC" morpho="g=f|n=s" head="10" dep="ats">structure</word>
-        <word id="13" lem="extérieur" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">extérieure</word>
-        <word id="14" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-        <word id="15" lem="solide" postag="ADJ" morpho="n=s" head="12" dep="mod">solide</word>
-        <word id="16" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-        <word id="17" lem="destiner" postag="VPP" morpho="g=f|n=s|t=past" head="12" dep="mod">destinée</word>
-        <word id="18" lem="à" postag="P" morpho="_" head="17" dep="a_obj">à</word>
-        <word id="19" lem="développer" postag="VINF" morpho="_" head="18" dep="prep">développer</word>
-        <word id="20" lem="un" postag="DET" morpho="g=m|n=s" head="21" dep="det">un</word>
-        <word id="21" lem="effet" postag="NC" morpho="g=m|n=s" head="19" dep="obj">effet</word>
-        <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">d'</word>
-        <word id="23" lem="isolation" postag="NC" morpho="g=f|n=s" head="22" dep="prep">isolation</word>
-        <word id="24" lem="_" postag="ADJ" morpho="_" head="23" dep="mod">phonique</word>
-        <word id="25" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="4" dep="suj">Il</word>
-        <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_tps">est</word>
-        <word id="3" lem="habituellement" postag="ADV" morpho="_" head="4" dep="mod">habituellement</word>
-        <word id="4" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">construit</word>
-        <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
-        <word id="6" lem="long" postag="ADJ" morpho="g=m|n=s" head="4" dep="obj">long</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="mod">d'</word>
-        <word id="8" lem="infrastructure" postag="NC" morpho="g=f|n=p" head="7" dep="prep">infrastructures</word>
-        <word id="9" lem="proche" postag="ADJ" morpho="n=p" head="8" dep="mod">proches</word>
-        <word id="10" lem="de" postag="P" morpho="_" head="8" dep="dep">d'</word>
-        <word id="11" lem="habitation" postag="NC" morpho="g=f|n=p" head="10" dep="prep">habitations</word>
-        <word id="12" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-        <word id="13" lem="source" postag="NC" morpho="g=f|n=p" head="12" dep="dep_coord">sources</word>
-        <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-        <word id="15" lem="nuisance" postag="NC" morpho="g=f|n=p" head="14" dep="prep">nuisances</word>
-        <word id="16" lem="sonore" postag="ADJ" morpho="n=p" head="15" dep="mod">sonores</word>
-        <word id="17" lem="tel" postag="ADJ" morpho="g=f|n=p" head="15" dep="mod">telles</word>
-        <word id="18" lem="que" postag="CS" morpho="_" head="17" dep="dep">que</word>
-        <word id="19" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="3" dep="det">Les</word>
-          <word id="2" lem="grand" postag="ADJ" morpho="g=f|n=p" head="3" dep="mod">grandes</word>
-          <word id="3" lem="route" postag="NC" morpho="g=f|n=p" head="0" dep="_">routes</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="5" lem="voie" postag="NC" morpho="g=f|n=p" head="3" dep="mod">voies</word>
-          <word id="6" lem="périphérique" postag="ADJ" morpho="n=p" head="5" dep="mod">périphériques</word>
-          <word id="7" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="voie" postag="NC" morpho="g=f|n=p" head="0" dep="_">voies</word>
-          <word id="3" lem="ferrer" postag="ADJ" morpho="g=f|n=p|t=past" head="2" dep="mod">ferrées</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="TGV" postag="NC" morpho="g=m" head="2" dep="mod">TGV</word>
-          <word id="6" lem="notamment" postag="ADV" morpho="_" head="5" dep="mod">notamment</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="voie" postag="NC" morpho="g=f|n=p" head="0" dep="_">voies</word>
-          <word id="3" lem="autoroutier" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">autoroutières</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="infrastructure" postag="NC" morpho="g=f|n=p" head="0" dep="_">infrastructures</word>
-          <word id="3" lem="portuaire" postag="ADJ" morpho="n=p" head="2" dep="mod">portuaires</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-          <word id="5" lem="_" postag="ADJ" morpho="_" head="4" dep="dep_coord">aéroportuaires</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="site" postag="NC" morpho="g=m|n=p" head="0" dep="_">sites</word>
-          <word id="3" lem="industriel" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">industriels</word>
-          <word id="4" lem="bruyant" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">bruyants</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:42</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:48</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="histoire" postag="NC" morpho="g=f|n=s" head="0" dep="root">Histoire</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:42</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:48</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="développement" postag="NC" morpho="g=m|n=s" head="12" dep="suj">développement</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="stratégie" postag="NC" morpho="g=f|n=p" head="3" dep="prep">stratégies</word>
-          <word id="5" lem="national" postag="ADJ" morpho="g=f|n=p" head="4" dep="mod">nationales</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="7" lem="coordonner" postag="VPP" morpho="g=f|n=p|t=past" head="6" dep="dep_coord">coordonnées</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="de_obj">de</word>
-          <word id="9" lem="mur" postag="NC" morpho="g=m|n=p" head="8" dep="prep">murs</word>
-          <word id="10" lem="antibruit" postag="ADJ" morpho="_" head="9" dep="mod">antibruit</word>
-          <word id="11" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="12" dep="aux_tps">a</word>
-          <word id="12" lem="débuter" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">débuté</word>
-          <word id="13" lem="à" postag="P+D" morpho="n=p" head="12" dep="mod">aux</word>
-          <word id="14" lem="États-Unis_d'Amérique" postag="NPP" morpho="g=m|n=p" head="13" dep="prep">États-Unis</word>
-          <word id="15" lem="après" postag="P" morpho="_" head="12" dep="mod">après</word>
-          <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
-          <word id="17" lem="apparition" postag="NC" morpho="g=f|n=s" head="15" dep="prep">apparition</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="loi" postag="NC" morpho="g=f|n=p" head="18" dep="prep">lois</word>
-          <word id="20" lem="imposer" postag="VPR" morpho="t=pst" head="17" dep="mod">imposant</word>
-          <word id="21" lem="la" postag="DET" morpho="g=f|n=s" head="22" dep="det">la</word>
-          <word id="22" lem="diminution" postag="NC" morpho="g=f|n=s" head="20" dep="obj">diminution</word>
-          <word id="23" lem="de" postag="P+D" morpho="g=m|n=s" head="22" dep="dep">du</word>
-          <word id="24" lem="bruit" postag="NC" morpho="g=m|n=s" head="23" dep="prep">bruit</word>
-          <word id="25" lem="ambiant" postag="ADJ" morpho="g=m|n=s" head="24" dep="mod">ambiant</word>
-          <word id="26" lem="à" postag="P+D" morpho="g=m|n=s" head="22" dep="dep">au</word>
-          <word id="27" lem="début" postag="NC" morpho="g=m|n=s" head="26" dep="prep">début</word>
-          <word id="28" lem="de" postag="P+D" morpho="n=p" head="27" dep="dep">des</word>
-          <word id="29" lem="année" postag="NC" morpho="g=f|n=p" head="28" dep="prep">années</word>
-          <word id="30" lem="_" postag="NC" morpho="_" head="29" dep="mod">1970</word>
-          <word id="31" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="32" lem="mais" postag="CC" morpho="_" head="12" dep="coord">mais</word>
-          <word id="33" lem="les" postag="DET" morpho="n=p" head="35" dep="det">les</word>
-          <word id="34" lem="premier" postag="ADJ" morpho="g=m|n=p" head="35" dep="mod">premiers</word>
-          <word id="35" lem="mur" postag="NC" morpho="g=m|n=p" head="37" dep="suj">murs</word>
-          <word id="36" lem="_" postag="ADJ" morpho="_" head="35" dep="mod">anti-bruit</word>
-          <word id="37" lem="dater" postag="V" morpho="n=p|p=3|t=pst" head="32" dep="dep_coord">datent</word>
-          <word id="38" lem="des" postag="DET" morpho="n=p" head="39" dep="det">des</word>
-          <word id="39" lem="année" postag="NC" morpho="g=f|n=p" head="37" dep="obj">années</word>
-          <word id="40" lem="_" postag="NC" morpho="_" head="39" dep="mod">1950</word>
-          <word id="41" lem="quand" postag="CS" morpho="_" head="37" dep="mod">quand</word>
-          <word id="42" lem="le" postag="DET" morpho="g=m|n=s" head="43" dep="det">le</word>
-          <word id="43" lem="trafic" postag="NC" morpho="g=m|n=s" head="46" dep="suj">trafic</word>
-          <word id="44" lem="automobile" postag="ADJ" morpho="n=s" head="43" dep="mod">automobile</word>
-          <word id="45" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="46" dep="aux_tps">a</word>
-          <word id="46" lem="commencer" postag="VPP" morpho="g=m|n=s|t=past" head="41" dep="sub">commencé</word>
-          <word id="47" lem="à" postag="P" morpho="_" head="46" dep="obj">à</word>
-          <word id="48" lem="se" postag="CLR" morpho="n=p|p=3" head="49" dep="aff">se</word>
-          <word id="49" lem="généraliser" postag="VINF" morpho="_" head="47" dep="prep">généraliser</word>
-          <word id="50" lem="et" postag="CC" morpho="_" head="46" dep="coord">et</word>
-          <word id="51" lem="devenir" postag="VINF" morpho="_" head="50" dep="dep_coord">devenir</word>
-          <word id="52" lem="important" postag="ADJ" morpho="g=m|n=s" head="51" dep="ats">important</word>
-          <word id="53" lem=";" postag="PONCT" morpho="_" head="46" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="vers" postag="P" morpho="_" head="14" dep="mod">Vers</word>
-          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
-          <word id="3" lem="fin" postag="NC" morpho="n=s" head="1" dep="prep">fin</word>
-          <word id="4" lem="de" postag="P+D" morpho="n=p" head="3" dep="dep">des</word>
-          <word id="5" lem="année" postag="NC" morpho="g=f|n=p" head="4" dep="prep">années</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="mod">1960</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-          <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
-          <word id="9" lem="mathématique" postag="NC" morpho="g=f|n=p" head="14" dep="suj">mathématiques</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
-          <word id="12" lem="modélisation" postag="NC" morpho="g=f|n=p" head="10" dep="dep_coord">modélisations</word>
-          <word id="13" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="14" dep="aux_tps">ont</word>
-          <word id="14" lem="affiner" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">affiné</word>
-          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
-          <word id="16" lem="science" postag="NC" morpho="g=f|n=p" head="14" dep="obj">sciences</word>
-          <word id="17" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
-          <word id="18" lem="technologie" postag="NC" morpho="g=f|n=p" head="17" dep="dep_coord">technologies</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="20" lem="l'" postag="DET" morpho="n=s" head="21" dep="det">l'</word>
-          <word id="21" lem="acoustique" postag="NC" morpho="g=f|n=s" head="19" dep="prep">acoustique</word>
-          <word id="22" lem="permettre" postag="VPR" morpho="t=pst" head="21" dep="mod">permettant</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="obj">de</word>
-          <word id="24" lem="concevoir" postag="VINF" morpho="_" head="23" dep="prep">concevoir</word>
-          <word id="25" lem="des" postag="DET" morpho="n=p" head="26" dep="det">des</word>
-          <word id="26" lem="protection" postag="NC" morpho="g=f|n=p" head="24" dep="obj">protections</word>
-          <word id="27" lem="mieux" postag="ADV" morpho="_" head="28" dep="mod">mieux</word>
-          <word id="28" lem="adapter" postag="ADJ" morpho="g=f|n=p|t=past" head="26" dep="mod">adaptées</word>
-          <word id="29" lem="à" postag="P+D" morpho="n=p" head="24" dep="mod">aux</word>
-          <word id="30" lem="différent" postag="ADJ" morpho="g=f|n=p" head="31" dep="mod">différentes</word>
-          <word id="31" lem="source" postag="NC" morpho="g=f|n=p" head="29" dep="prep">sources</word>
-          <word id="32" lem="de" postag="P" morpho="_" head="31" dep="dep">de</word>
-          <word id="33" lem="bruit" postag="NC" morpho="g=m|n=s" head="32" dep="prep">bruit</word>
-          <word id="34" lem=";" postag="PONCT" morpho="_" head="14" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="dans" postag="P" morpho="_" head="10" dep="mod">Dans</word>
-          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
-          <word id="3" lem="année" postag="NC" morpho="g=f|n=p" head="1" dep="prep">années</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="mod">1990</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
-          <word id="7" lem="mur" postag="NC" morpho="g=m|n=p" head="10" dep="suj">murs</word>
-          <word id="8" lem="se" postag="CLR" morpho="n=p|p=3" head="10" dep="aff">se</word>
-          <word id="9" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="10" dep="aux_tps">sont</word>
-          <word id="10" lem="alléger" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">allégés</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
-          <word id="12" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="14" dep="aux_tps">sont</word>
-          <word id="13" lem="souvent" postag="ADV" morpho="_" head="14" dep="mod">souvent</word>
-          <word id="14" lem="devenir" postag="VPP" morpho="g=m|n=p|t=past" head="11" dep="dep_coord">devenus</word>
-          <word id="15" lem="transparent" postag="ADJ" morpho="g=m|n=s" head="14" dep="ats">transparent</word>
-          <word id="16" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
-          <word id="17" lem="verre" postag="NC" morpho="g=m|n=s" head="14" dep="mod">verre</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-          <word id="19" lem="plexiglas" postag="NC" morpho="g=m" head="14" dep="mod">plexiglas</word>
-          <word id="20" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
-          <word id="21" lem="éventuellement" postag="ADV" morpho="_" head="22" dep="mod">éventuellement</word>
-          <word id="22" lem="colorer" postag="VPP" morpho="g=m|n=p|t=past" head="14" dep="mod">colorés</word>
-          <word id="23" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-          <word id="24" lem="devenir" postag="VPR" morpho="t=pst" head="14" dep="mod">devenant</word>
-          <word id="25" lem="une" postag="DET" morpho="g=f|n=s" head="26" dep="det">une</word>
-          <word id="26" lem="source" postag="NC" morpho="g=f|n=s" head="24" dep="obj">source</word>
-          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">de</word>
-          <word id="28" lem="mortalité" postag="NC" morpho="g=f|n=s" head="27" dep="prep">mortalité</word>
-          <word id="29" lem="pour" postag="P" morpho="_" head="26" dep="dep">pour</word>
-          <word id="30" lem="les" postag="DET" morpho="n=p" head="31" dep="det">les</word>
-          <word id="31" lem="oiseau" postag="NC" morpho="g=m|n=p" head="29" dep="prep">oiseaux</word>
-          <word id="32" lem="qui" postag="PROREL" morpho="n=s" head="34" dep="suj">qui</word>
-          <word id="33" lem="être" postag="V" morpho="n=s|p=3|t=past" head="34" dep="aux_pass">fut</word>
-          <word id="34" lem="solutionner" postag="VPP" morpho="g=f|n=s|t=past" head="31" dep="mod_rel">solutionnée</word>
-          <word id="35" lem="par" postag="P" morpho="_" head="34" dep="p_obj">par</word>
-          <word id="36" lem="l'" postag="DET" morpho="n=s" head="37" dep="det">l'</word>
-          <word id="37" lem="apposition" postag="NC" morpho="g=f|n=s" head="35" dep="prep">apposition</word>
-          <word id="38" lem="de" postag="P" morpho="_" head="37" dep="dep">de</word>
-          <word id="39" lem="silhouette" postag="NC" morpho="g=f|n=p" head="38" dep="prep">silhouettes</word>
-          <word id="40" lem="de" postag="P" morpho="_" head="39" dep="dep">de</word>
-          <word id="41" lem="rapace" postag="NC" morpho="n=p" head="40" dep="prep">rapaces</word>
-          <word id="42" lem="en" postag="P" morpho="_" head="39" dep="dep">en</word>
-          <word id="43" lem="vol" postag="NC" morpho="g=m|n=s" head="42" dep="prep">vol</word>
-          <word id="44" lem="(" postag="PONCT" morpho="_" head="39" dep="ponct">(</word>
-          <word id="45" lem="d'abord" postag="ADV" morpho="_" head="39" dep="mod">d'abord</word>
-          <word id="46" lem="à" postag="P+D" morpho="g=m|n=s" head="39" dep="dep">au</word>
-          <word id="47" lem="Danemark" postag="NPP" morpho="g=m|n=s" head="46" dep="prep">Danemark</word>
-          <word id="48" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
-          <word id="49" lem="puis" postag="CC" morpho="_" head="34" dep="coord">puis</word>
-          <word id="50" lem="dans" postag="P" morpho="_" head="49" dep="dep_coord">dans</word>
-          <word id="51" lem="de" postag="DET" morpho="n=p" head="53" dep="det">d'</word>
-          <word id="52" lem="autres" postag="ADJ" morpho="n=p" head="53" dep="mod">autres</word>
-          <word id="53" lem="pays" postag="NC" morpho="g=m" head="50" dep="prep">pays</word>
-          <word id="54" lem="européen" postag="ADJ" morpho="g=m|n=p" head="53" dep="mod">européens</word>
-          <word id="55" lem=")" postag="PONCT" morpho="_" head="34" dep="ponct">)</word>
-          <word id="56" lem=";" postag="PONCT" morpho="_" head="10" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">Des</word>
-          <word id="2" lem="modèle" postag="NC" morpho="g=m|n=p" head="7" dep="suj">modèles</word>
-          <word id="3" lem="mathématique" postag="ADJ" morpho="n=p" head="2" dep="mod">mathématiques</word>
-          <word id="4" lem="puis" postag="CC" morpho="_" head="3" dep="coord">puis</word>
-          <word id="5" lem="informatique" postag="ADJ" morpho="n=p" head="4" dep="dep_coord">informatiques</word>
-          <word id="6" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="7" dep="aux_tps">ont</word>
-          <word id="7" lem="permettre" postag="VPP" morpho="g=m|t=past" head="0" dep="root">permis</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="obj">de</word>
-          <word id="9" lem="modéliser" postag="VINF" morpho="_" head="8" dep="prep">modéliser</word>
-          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-          <word id="11" lem="émission" postag="NC" morpho="g=f|n=p" head="9" dep="obj">émissions</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="bruit" postag="NC" morpho="g=m|n=p" head="12" dep="prep">bruits</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="15" lem="différent" postag="ADJ" morpho="g=f|n=p" head="16" dep="mod">différentes</word>
-          <word id="16" lem="infrastructure" postag="NC" morpho="g=f|n=p" head="14" dep="prep">infrastructures</word>
-          <word id="17" lem="(" postag="PONCT" morpho="_" head="16" dep="ponct">(</word>
-          <word id="18" lem="dont" postag="PROREL" morpho="_" head="20" dep="de_obj">dont</word>
-          <word id="19" lem="à" postag="P+D" morpho="n=p" head="20" dep="mod">aux</word>
-          <word id="20" lem="user" postag="V" morpho="n=s|p=3|t=past" head="16" dep="mod_rel">USA</word>
-          <word id="21" lem="la" postag="DET" morpho="g=f|n=s" head="22" dep="det">la</word>
-          <word id="22" lem="_" postag="NPP" morpho="_" head="20" dep="suj">Foothill</word>
-          <word id="23" lem="_" postag="NPP" morpho="_" head="22" dep="mod">Expressway</word>
-          <word id="24" lem=")" postag="PONCT" morpho="_" head="16" dep="ponct">)</word>
-          <word id="25" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -429,18 +151,7 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
       <date>1/01/13 13:10</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="3" dep="det">Les</word>
-        <word id="2" lem="meilleur" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">meilleurs</word>
-        <word id="3" lem="modèle" postag="NC" morpho="g=m|n=p" head="4" dep="suj">modèles</word>
-        <word id="4" lem="intégrer" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">intègrent</word>
-        <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-        <word id="6" lem="interaction" postag="NC" morpho="g=f|n=p" head="4" dep="obj">interactions</word>
-        <word id="7" lem="entre" postag="P" morpho="_" head="4" dep="mod">entre</word>
-        <word id="8" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -450,169 +161,13 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="niveau" postag="NC" morpho="g=m|n=p" head="0" dep="_">niveaux</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="bruit" postag="NC" morpho="g=m|n=p" head="3" dep="prep">bruits</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="type" postag="NC" morpho="g=m|n=s" head="0" dep="_">type</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="coord">,</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="vitesse" postag="NC" morpho="g=f|n=s" head="3" dep="dep_coord">vitesse</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-          <word id="8" lem="nombre" postag="NC" morpho="g=m|n=s" head="6" dep="dep_coord">nombre</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="ou" postag="CC" morpho="_" head="8" dep="coord">ou</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="fréquence" postag="NC" morpho="g=f|n=s" head="10" dep="dep_coord">fréquence</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="15" lem="source" postag="NC" morpho="g=f|n=p" head="14" dep="prep">sources</word>
-          <word id="16" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="17" lem="véhicule" postag="NC" morpho="g=m|n=p" head="8" dep="mod">véhicules</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="17" dep="coord">,</word>
-          <word id="19" lem="moteur" postag="NC" morpho="g=m|n=p" head="18" dep="dep_coord">moteurs</word>
-          <word id="20" lem="ou" postag="CC" morpho="_" head="17" dep="coord">ou</word>
-          <word id="21" lem="autres" postag="ADJ" morpho="n=p" head="22" dep="mod">autres</word>
-          <word id="22" lem="bruit" postag="NC" morpho="g=m|n=p" head="20" dep="dep_coord">bruits</word>
-          <word id="23" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="24" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="effet" postag="NC" morpho="g=m|n=s" head="0" dep="_">effet</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">macro-</word>
-          <word id="4" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="5" lem="_" postag="ADJ" morpho="_" head="4" dep="dep_coord">micrométéorologique</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="vent" postag="NC" morpho="g=m|n=s" head="0" dep="_">vent</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="pluie" postag="NC" morpho="g=f|n=s" head="0" dep="_">pluie</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
-          <word id="8" lem="embrun" postag="NC" morpho="g=m|n=p" head="0" dep="_">embruns</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="8" dep="coord">,</word>
-          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-          <word id="11" lem="microclimat" postag="NC" morpho="g=m|n=p" head="9" dep="dep_coord">microclimats</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-          <word id="13" lem="en_particulier" postag="ADV" morpho="_" head="12" dep="mod">en_particulier</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="température" postag="NC" morpho="g=f|n=s" head="12" dep="dep_coord">température</word>
-          <word id="16" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-          <word id="17" lem="l'" postag="DET" morpho="n=s" head="18" dep="det">l'</word>
-          <word id="18" lem="hygrométrie" postag="NC" morpho="g=f|n=s" head="16" dep="dep_coord">hygrométrie</word>
-          <word id="19" lem="influent" postag="ADJ" morpho="g=m|n=s" head="18" dep="mod">influent</word>
-          <word id="20" lem="sur" postag="P" morpho="_" head="18" dep="dep">sur</word>
-          <word id="21" lem="les" postag="DET" morpho="n=p" head="22" dep="det">les</word>
-          <word id="22" lem="performance" postag="NC" morpho="g=f|n=p" head="20" dep="prep">performances</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep">de</word>
-          <word id="24" lem="l'" postag="DET" morpho="n=s" head="25" dep="det">l'</word>
-          <word id="25" lem="air" postag="NC" morpho="g=m|n=s" head="23" dep="prep">air</word>
-          <word id="26" lem="en" postag="P" morpho="_" head="25" dep="dep">en</word>
-          <word id="27" lem="matière" postag="NC" morpho="g=f|n=s" head="26" dep="prep">matière</word>
-          <word id="28" lem="de" postag="P" morpho="_" head="27" dep="dep">de</word>
-          <word id="29" lem="conduction" postag="NC" morpho="g=f|n=s" head="28" dep="prep">conduction</word>
-          <word id="30" lem="de" postag="P+D" morpho="g=m|n=s" head="25" dep="dep">du</word>
-          <word id="31" lem="_" postag="ADJ" morpho="_" head="30" dep="prep">son</word>
-          <word id="32" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="33" lem="des" postag="DET" morpho="n=p" head="34" dep="det">des</word>
-          <word id="34" lem="thermocline" postag="NC" morpho="g=f|n=p" head="0" dep="_">thermoclines</word>
-          <word id="35" lem="être" postag="VPR" morpho="t=pst" head="34" dep="mod">étant</word>
-          <word id="36" lem="notamment" postag="ADV" morpho="_" head="37" dep="mod">notamment</word>
-          <word id="37" lem="source" postag="NC" morpho="g=f|n=p" head="35" dep="ats">sources</word>
-          <word id="38" lem="de" postag="P" morpho="_" head="37" dep="dep">d'</word>
-          <word id="39" lem="hétérogénéité" postag="NC" morpho="g=f|n=s" head="38" dep="prep">hétérogénéité</word>
-          <word id="40" lem="de" postag="P+D" morpho="n=p" head="37" dep="dep">des</word>
-          <word id="41" lem="couche" postag="NC" morpho="g=f|n=p" head="40" dep="prep">couches</word>
-          <word id="42" lem="de" postag="P" morpho="_" head="41" dep="dep">d'</word>
-          <word id="43" lem="air" postag="NC" morpho="g=m|n=s" head="42" dep="prep">air</word>
-          <word id="44" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">mur-antibruit</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="lui-même" postag="PRO" morpho="g=m|n=s|p=3" head="0" dep="_">lui-même</word>
-          <word id="5" lem="source" postag="NC" morpho="g=f|n=s" head="4" dep="mod">source</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="modification" postag="NC" morpho="g=f|n=s" head="6" dep="prep">modification</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-          <word id="9" lem="microclimat" postag="NC" morpho="g=m|n=s" head="8" dep="prep">microclimat</word>
-          <word id="10" lem="sur" postag="P" morpho="_" head="5" dep="dep">sur</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="voie" postag="NC" morpho="g=f|n=s" head="10" dep="prep">voie</word>
-          <word id="13" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="géométrie" postag="NC" morpho="g=f|n=s" head="0" dep="_">géométrie</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="coord">,</word>
-          <word id="4" lem="topographie" postag="NC" morpho="g=f|n=s" head="3" dep="dep_coord">topographie</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="6" lem="rugosité" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">rugosité</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="voie" postag="NC" morpho="g=f|n=s" head="7" dep="prep">voie</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep_coord">de</word>
-          <word id="12" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="13" dep="det">ses</word>
-          <word id="13" lem="abord" postag="NC" morpho="g=m|n=p" head="11" dep="prep">abords</word>
-          <word id="14" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="nature" postag="NC" morpho="g=f|n=s" head="0" dep="_">nature</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="matériau" postag="NC" morpho="g=m|n=p" head="3" dep="prep">matériaux</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="réverbération" postag="NC" morpho="g=f|n=p" head="0" dep="_">réverbérations</word>
-          <word id="3" lem="complexe" postag="ADJ" morpho="n=p" head="2" dep="mod">complexes</word>
-          <word id="4" lem="entre" postag="P" morpho="_" head="2" dep="dep">entre</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">véhicules-murs-voie</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="hauteur" postag="NC" morpho="g=f|n=s" head="0" dep="_">hauteur</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="distance" postag="NC" morpho="g=f|n=s" head="3" dep="dep_coord">distance</word>
-          <word id="6" lem="par_rapport_à" postag="P" morpho="_" head="2" dep="dep">par_rapport_à</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="source" postag="NC" morpho="g=f|n=s" head="6" dep="prep">source</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="bruit" postag="NC" morpho="g=m|n=s" head="9" dep="prep">bruit</word>
-          <word id="11" lem="de" postag="P+D" morpho="n=p" head="10" dep="dep">des</word>
-          <word id="12" lem="habitation" postag="NC" morpho="g=f|n=p" head="11" dep="prep">habitations</word>
-          <word id="13" lem="à" postag="P" morpho="_" head="8" dep="dep">à</word>
-          <word id="14" lem="protéger" postag="VINF" morpho="_" head="13" dep="prep">protéger</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -622,12 +177,7 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
       <date>1/01/13 14:37</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="matériau" postag="NC" morpho="g=m|n=p" head="0" dep="_">Matériaux</word>
-        <word id="2" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="mod">utilisés</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -637,68 +187,13 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="acier" postag="NC" morpho="g=m|n=s" head="0" dep="root">Acier</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="béton" postag="NC" morpho="g=m|n=s" head="0" dep="root">Béton</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="maçonnerie" postag="NC" morpho="g=f|n=p" head="0" dep="_">Maçonneries</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="matériau" postag="NC" morpho="g=m|n=p" head="2" dep="prep">matériaux</word>
-          <word id="4" lem="divers" postag="ADJ" morpho="g=m" head="3" dep="mod">divers</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="6" lem="brique" postag="NC" morpho="g=f|n=p" head="1" dep="mod">briques</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="pierre" postag="NC" morpho="g=f|n=s" head="1" dep="mod">pierre</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="10" lem="_" postag="ADV" morpho="_" head="1" dep="mod">etc.</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="bois" postag="NC" morpho="g=m" head="0" dep="_">Bois</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="fibre" postag="NC" morpho="g=f|n=p" head="1" dep="mod">fibres</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="bois" postag="NC" morpho="g=m" head="4" dep="prep">bois</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="composite" postag="ADJ" morpho="n=p" head="1" dep="mod">composites</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="9" lem="base" postag="NC" morpho="g=f|n=s" head="8" dep="prep">base</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="11" lem="bois" postag="NC" morpho="g=m" head="10" dep="prep">bois</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="plastique" postag="ADJ" morpho="n=s" head="0" dep="_">Plastique</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="verre" postag="NC" morpho="g=m|n=s" head="0" dep="_">verre</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="0" dep="_">plexiglass</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="matériau" postag="NC" morpho="g=m|n=p" head="0" dep="root">Matériaux</word>
-          <word id="2" lem="expansé" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">expansés</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="composite" postag="NC" morpho="g=m|n=p" head="1" dep="mod">composites</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="sphaigne" postag="NC" morpho="g=f|n=s" head="0" dep="root">Sphaigne</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -708,13 +203,7 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
       <date>1/01/13 13:20</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="limite" postag="NC" morpho="g=f|n=p" head="0" dep="root">Limites</word>
-        <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-        <word id="3" lem="critique" postag="NC" morpho="n=p" head="2" dep="dep_coord">critiques</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -724,115 +213,9 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="certains" postag="DET" morpho="g=m|n=p" head="2" dep="det">Certains</word>
-          <word id="2" lem="mur" postag="NC" morpho="g=m|n=p" head="15" dep="suj">murs</word>
-          <word id="3" lem="mal" postag="ADV" morpho="_" head="4" dep="mod">mal</word>
-          <word id="4" lem="concevoir" postag="VPP" morpho="g=m|n=p|t=past" head="2" dep="mod">conçus</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="4" dep="coord">ou</word>
-          <word id="6" lem="concevoir" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="dep_coord">conçus</word>
-          <word id="7" lem="sans_que" postag="CS" morpho="_" head="2" dep="mod">sans_qu'</word>
-          <word id="8" lem="on" postag="CLS" morpho="n=s|p=3" head="10" dep="suj">on</word>
-          <word id="9" lem="avoir" postag="VS" morpho="n=s|p=3|t=pst" head="10" dep="aux_tps">ait</word>
-          <word id="10" lem="anticiper" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="sub">anticipé</word>
-          <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
-          <word id="12" lem="augmentation" postag="NC" morpho="g=f|n=p" head="10" dep="obj">augmentations</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="circulation" postag="NC" morpho="g=f|n=s" head="13" dep="prep">circulation</word>
-          <word id="15" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="16" lem="peu" postag="ADV" morpho="_" head="17" dep="mod">peu</word>
-          <word id="17" lem="efficace" postag="ADJ" morpho="n=p" head="15" dep="ats">efficaces</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="15" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="2" dep="det">Leur</word>
-          <word id="2" lem="impact" postag="NC" morpho="g=m|n=s" head="6" dep="suj">impact</word>
-          <word id="3" lem="esthétique" postag="ADJ" morpho="n=s" head="2" dep="mod">esthétique</word>
-          <word id="4" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="5" lem="_" postag="ADJ" morpho="_" head="4" dep="dep_coord">écopaysager</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="souvent" postag="ADV" morpho="_" head="6" dep="mod">souvent</word>
-          <word id="8" lem="important" postag="ADJ" morpho="g=m|n=s" head="6" dep="ats">important</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="2" dep="suj">Ils</word>
-          <word id="2" lem="exacerber" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">exacerbent</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="fragmentation" postag="NC" morpho="g=f|n=s" head="2" dep="obj">fragmentation</word>
-          <word id="5" lem="_" postag="ADJ" morpho="_" head="4" dep="mod">écopaysagère</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="7" lem="influer" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod">influent</word>
-          <word id="8" lem="parfois" postag="ADV" morpho="_" head="7" dep="mod">parfois</word>
-          <word id="9" lem="sur" postag="P" morpho="_" head="7" dep="p_obj">sur</word>
-          <word id="10" lem="le" postag="DET" morpho="g=m|n=s" head="11" dep="det">le</word>
-          <word id="11" lem="fonctionnement" postag="NC" morpho="g=m|n=s" head="9" dep="prep">fonctionnement</word>
-          <word id="12" lem="hydraulique" postag="ADJ" morpho="n=s" head="11" dep="mod">hydraulique</word>
-          <word id="13" lem="naturel" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">naturel</word>
-          <word id="14" lem="de" postag="P+D" morpho="n=p" head="11" dep="dep">des</word>
-          <word id="15" lem="site" postag="NC" morpho="g=m|n=p" head="14" dep="prep">sites</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="17" lem="mais" postag="CC" morpho="_" head="7" dep="coord">mais</word>
-          <word id="18" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="17" dep="dep_coord">peuvent</word>
-          <word id="19" lem="aussi" postag="ADV" morpho="_" head="18" dep="mod">aussi</word>
-          <word id="20" lem="parfois" postag="ADV" morpho="_" head="21" dep="mod">parfois</word>
-          <word id="21" lem="localement" postag="ADV" morpho="_" head="18" dep="mod">localement</word>
-          <word id="22" lem="diminuer" postag="VINF" morpho="_" head="18" dep="obj">diminuer</word>
-          <word id="23" lem="(" postag="PONCT" morpho="_" head="22" dep="ponct">(</word>
-          <word id="24" lem="ou" postag="CC" morpho="_" head="22" dep="coord">ou</word>
-          <word id="25" lem="plus" postag="ADV" morpho="_" head="26" dep="mod">plus</word>
-          <word id="26" lem="rarement" postag="ADV" morpho="_" head="24" dep="mod">rarement</word>
-          <word id="27" lem="exacerber" postag="VINF" morpho="_" head="24" dep="dep_coord">exacerber</word>
-          <word id="28" lem="," postag="PONCT" morpho="_" head="29" dep="ponct">,</word>
-          <word id="29" lem="quand" postag="CS" morpho="_" head="18" dep="mod">quand</word>
-          <word id="30" lem="des" postag="DET" morpho="n=p" head="31" dep="det">des</word>
-          <word id="31" lem="animal" postag="NC" morpho="g=m|n=p" head="33" dep="suj">animaux</word>
-          <word id="32" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="33" dep="aux_pass">sont</word>
-          <word id="33" lem="piéger" postag="VPP" morpho="g=m|n=p|t=past" head="29" dep="sub">piégés</word>
-          <word id="34" lem="entre" postag="P" morpho="_" head="33" dep="mod">entre</word>
-          <word id="35" lem="deux" postag="NC" morpho="g=m" head="34" dep="prep">deux</word>
-          <word id="36" lem="mur" postag="NC" morpho="g=m|n=p" head="35" dep="mod">murs</word>
-          <word id="37" lem="_" postag="NC" morpho="_" head="35" dep="mod">anti-bruit</word>
-          <word id="38" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="39" lem="le" postag="DET" morpho="g=m|n=s" head="40" dep="det">le</word>
-          <word id="40" lem="phénomène" postag="NC" morpho="g=m|n=s" head="2" dep="obj">phénomène</word>
-          <word id="41" lem="de" postag="P" morpho="_" head="40" dep="dep">de</word>
-          <word id="42" lem="_" postag="NPP" morpho="_" head="41" dep="prep">roadkill</word>
-          <word id="43" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="2" dep="det">Leur</word>
-          <word id="2" lem="coût" postag="NC" morpho="g=m|n=s" head="6" dep="suj">coût</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="entretien" postag="NC" morpho="g=m|n=s" head="3" dep="prep">entretien</word>
-          <word id="5" lem="ne" postag="ADV" morpho="_" head="6" dep="mod">n'</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="pas" postag="ADV" morpho="_" head="6" dep="mod">pas</word>
-          <word id="8" lem="nul" postag="ADJ" morpho="g=m|n=s" head="6" dep="ats">nul</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="2" dep="suj">Ils</word>
-          <word id="2" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="3" lem="souvent" postag="ADV" morpho="_" head="2" dep="mod">souvent</word>
-          <word id="4" lem="tagué" postag="ADJ" morpho="g=m|n=p" head="2" dep="ats">tagués</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="7" lem="salir" postag="VPP" morpho="g=m|n=p|t=past" head="6" dep="dep_coord">salis</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
-          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
-          <word id="10" lem="retombée" postag="NC" morpho="g=f|n=p" head="8" dep="prep">retombées</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="circulation" postag="NC" morpho="g=f|n=s" head="11" dep="prep">circulation</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -850,8 +233,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -862,8 +245,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -882,8 +265,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:42</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:48</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -894,8 +277,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:42</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:48</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -1024,8 +407,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -1036,8 +419,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -1050,8 +433,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1062,8 +445,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -1074,8 +457,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -1086,8 +469,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -1098,8 +481,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -1348,8 +731,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1362,8 +745,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1376,8 +759,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1393,8 +776,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:32</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1419,8 +802,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:42</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:48</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1433,12 +816,12 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:42</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:48</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -1447,8 +830,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:42</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:48</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1464,8 +847,8 @@ Dans la plupart des cas, il y a consensus sur le fait que leur coût est largeme
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:42</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:48</date>
       <document>Mur_anti-bruit.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">

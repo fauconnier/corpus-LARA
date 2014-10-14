@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SE>
@@ -12,122 +12,36 @@
       <text>De plus, une horloge sonnant les heures symbolisait un changement dans le découpage du temps. Auparavant, la journée était rythmée par les cinq prières sonnées par les clochers des églises : matines, nones, vêpres, etc. Le temps que marquaient ces sonneries était un temps divin.</text>
       <span begin="1348" end="1628" />
     </SE>
-    <comment>unknown</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 16:17</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SE>
-      <id>1</id>
-      <text>Beffroi s'écrivait beffroy avant 1465, dérivé de berfroi (vers 1155), lui-même issu du francique bergfridu (Bergfried en allemand contemporain = donjon)</text>
-      <span begin="2929" end="3081" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 10:12</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
-      <text>Le mot aurait donné le moyen haut allemand bërovrit, bërvrit, dont le sens littéral est "préserve la paix"; l'étymologie est à rapprocher de l'allemand bergen « sauver, mettre en sureté »</text>
-      <span begin="3083" end="3270" />
-    </SE>
-    <comment />
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="de_plus" postag="ADV" morpho="_" head="8" dep="mod">De_plus</word>
-        <word id="2" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-        <word id="4" lem="horloge" postag="NC" morpho="g=f|n=s" head="8" dep="suj">horloge</word>
-        <word id="5" lem="sonner" postag="VPR" morpho="t=pst" head="4" dep="mod">sonnant</word>
-        <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
-        <word id="7" lem="heure" postag="NC" morpho="g=f|n=p" head="5" dep="obj">heures</word>
-        <word id="8" lem="symboliser" postag="V" morpho="n=s|p=3|t=imp" head="0" dep="root">symbolisait</word>
-        <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-        <word id="10" lem="changement" postag="NC" morpho="g=m|n=s" head="8" dep="obj">changement</word>
-        <word id="11" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
-        <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-        <word id="13" lem="découpage" postag="NC" morpho="g=m|n=s" head="11" dep="prep">découpage</word>
-        <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
-        <word id="15" lem="temps" postag="NC" morpho="g=m" head="14" dep="prep">temps</word>
-        <word id="16" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="auparavant" postag="ADV" morpho="_" head="6" dep="mod">Auparavant</word>
-        <word id="2" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-        <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-        <word id="4" lem="journée" postag="NC" morpho="g=f|n=s" head="6" dep="suj">journée</word>
-        <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=imp" head="6" dep="aux_pass">était</word>
-        <word id="6" lem="rythmer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">rythmée</word>
-        <word id="7" lem="par" postag="P" morpho="_" head="6" dep="p_obj">par</word>
-        <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
-        <word id="9" lem="deux" postag="NC" morpho="g=m" head="7" dep="prep">cinq</word>
-        <word id="10" lem="_" postag="ADJ" morpho="_" head="9" dep="mod">prières</word>
-        <word id="11" lem="sonner" postag="VPP" morpho="g=f|n=p|t=past" head="9" dep="mod">sonnées</word>
-        <word id="12" lem="par" postag="P" morpho="_" head="11" dep="p_obj">par</word>
-        <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
-        <word id="14" lem="clocher" postag="NC" morpho="g=m|n=p" head="12" dep="prep">clochers</word>
-        <word id="15" lem="de" postag="P+D" morpho="n=p" head="14" dep="dep">des</word>
-        <word id="16" lem="église" postag="NC" morpho="g=f|n=p" head="15" dep="prep">églises</word>
-        <word id="17" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="matines" postag="NC" morpho="g=f|n=p" head="0" dep="_">matines</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="none" postag="NC" morpho="g=f|n=p" head="0" dep="_">nones</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="vêpres" postag="NC" morpho="g=f|n=p" head="0" dep="_">vêpres</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="root">etc</word>
-          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="cloture" idSE="0">
@@ -137,136 +51,9 @@
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 16:17</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="beffroi" postag="NC" morpho="g=m|n=s" head="4" dep="suj">Beffroi</word>
-        <word id="2" lem="se" postag="CLR" morpho="p=3" head="4" dep="aff">s'</word>
-        <word id="3" lem="écrire" postag="V" morpho="n=s|p=3|t=imp" head="4" dep="aux_tps">écrivait</word>
-        <word id="4" lem="_" postag="VPP" morpho="_" head="0" dep="root">beffroy</word>
-        <word id="5" lem="avant" postag="P" morpho="_" head="4" dep="mod">avant</word>
-        <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="prep">1465</word>
-        <word id="7" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="8" lem="dériver" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">dérivé</word>
-        <word id="9" lem="de" postag="P" morpho="_" head="8" dep="de_obj">de</word>
-        <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="prep">berfroi</word>
-        <word id="11" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-        <word id="12" lem="vers" postag="P" morpho="_" head="4" dep="mod">vers</word>
-        <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">1155</word>
-        <word id="14" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        <word id="15" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="16" lem="lui-même" postag="PRO" morpho="g=m|n=s|p=3" head="17" dep="dep">lui-même</word>
-        <word id="17" lem="issir" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">issu</word>
-        <word id="18" lem="de" postag="P+D" morpho="g=m|n=s" head="17" dep="de_obj">du</word>
-        <word id="19" lem="francique" postag="NC" morpho="g=m|n=s" head="18" dep="prep">francique</word>
-        <word id="20" lem="_" postag="NPP" morpho="_" head="19" dep="mod">bergfridu</word>
-        <word id="21" lem="(" postag="PONCT" morpho="_" head="19" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 16:17</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Bergfried</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="allemand" postag="NC" morpho="g=m|n=s" head="2" dep="prep">allemand</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="mod">contemporain</word>
-          <word id="5" lem="_" postag="VPR" morpho="_" head="3" dep="mod">=</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="donjon" postag="NC" morpho="g=m|n=s" head="0" dep="_">donjon</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 10:12</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="mot" postag="NC" morpho="g=m|n=s" head="4" dep="suj">mot</word>
-        <word id="3" lem="avoir" postag="V" morpho="n=s|p=3|t=cond" head="4" dep="aux_tps">aurait</word>
-        <word id="4" lem="donner" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">donné</word>
-        <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
-        <word id="6" lem="moyen" postag="NC" morpho="g=m|n=s" head="4" dep="obj">moyen</word>
-        <word id="7" lem="haut" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">haut</word>
-        <word id="8" lem="allemand" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">allemand</word>
-        <word id="9" lem="_" postag="NPP" morpho="_" head="6" dep="mod">bërovrit</word>
-        <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-        <word id="11" lem="_" postag="NPP" morpho="_" head="6" dep="mod">bërvrit</word>
-        <word id="12" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-        <word id="13" lem="dont" postag="PROREL" morpho="_" head="17" dep="de_obj">dont</word>
-        <word id="14" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
-        <word id="15" lem="sens" postag="NC" morpho="g=m" head="17" dep="suj">sens</word>
-        <word id="16" lem="littéral" postag="ADJ" morpho="g=m|n=s" head="15" dep="mod">littéral</word>
-        <word id="17" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="mod_rel">est</word>
-        <word id="18" lem="&quot;" postag="PONCT" morpho="_" head="17" dep="ponct">"</word>
-        <word id="19" lem="préserver" postag="V" morpho="n=s|p=13|t=pst" head="17" dep="mod">préserve</word>
-        <word id="20" lem="la" postag="DET" morpho="g=f|n=s" head="21" dep="det">la</word>
-        <word id="21" lem="paix" postag="NC" morpho="g=f" head="19" dep="obj">paix</word>
-        <word id="22" lem="&quot;" postag="PONCT" morpho="_" head="19" dep="ponct">"</word>
-        <word id="23" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
-        <word id="24" lem="l'" postag="DET" morpho="n=s" head="25" dep="det">l'</word>
-        <word id="25" lem="étymologie" postag="NC" morpho="g=f|n=s" head="26" dep="suj">étymologie</word>
-        <word id="26" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="mod">est</word>
-        <word id="27" lem="à" postag="P" morpho="_" head="26" dep="ats">à</word>
-        <word id="28" lem="rapprocher" postag="VINF" morpho="_" head="27" dep="prep">rapprocher</word>
-        <word id="29" lem="de" postag="P" morpho="_" head="28" dep="de_obj">de</word>
-        <word id="30" lem="l'" postag="DET" morpho="n=s" head="31" dep="det">l'</word>
-        <word id="31" lem="allemand" postag="NC" morpho="g=m|n=s" head="29" dep="prep">allemand</word>
-        <word id="32" lem="_" postag="NPP" morpho="_" head="31" dep="mod">bergen</word>
-        <word id="33" lem="&quot;" postag="PONCT" morpho="_" head="32" dep="ponct">"</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 10:12</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="sauver" postag="VINF" morpho="_" head="0" dep="root">sauver</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="mettre" postag="VINF" morpho="_" head="0" dep="_">mettre</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="p_obj">en</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">sureté</word>
-          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -277,8 +64,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -295,8 +82,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="cloture" idSE="0">
@@ -306,61 +93,9 @@
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 16:17</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="primer" idSE="1">
-      <span begin="1" end="109" />
-      <text>Beffroi s'écrivait beffroy avant 1465, dérivé de berfroi (vers 1155), lui-même issu du francique bergfridu (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 16:17</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="items" idSE="1">
-      <span begin="109" end="145" id="0" />
-      <text id="0">Bergfried en allemand contemporain =</text>
-      <span begin="146" end="153" id="1" />
-      <text id="1">donjon)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 10:12</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
-      <span begin="1" end="161" />
-      <text>Le mot aurait donné le moyen haut allemand bërovrit, bërvrit, dont le sens littéral est "préserve la paix"; l'étymologie est à rapprocher de l'allemand bergen «</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 10:12</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="162" end="170" id="0" />
-      <text id="0">sauver,</text>
-      <span begin="169" end="188" id="1" />
-      <text id="1">mettre en sureté »</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -371,8 +106,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -383,8 +118,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -395,8 +130,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -407,8 +142,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -421,8 +156,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -435,8 +170,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -452,155 +187,13 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Beffroi.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
       <visee_ontologique value="1">
         <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 16:17</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="1">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 16:17</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="1">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 16:17</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="1">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 16:17</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="1">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 10:12</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="2">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 10:12</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 10:12</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 10:12</date>
-      <document>Beffroi.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="2">
-      <visee_ontologique value="0">
-        <isA value="0" />
         <partOf value="0" />
         <instanceOf value="0" />
         <ontologique_autre value="0" />

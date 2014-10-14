@@ -3,76 +3,26 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
     <SE>
       <id>0</id>
-      <text>Un camp est un endroit aménagé pour le stationnement de groupements civils (camping dans le cas de touristes, groupes de jeunesse)</text>
-      <span begin="9" end="140" />
-    </SE>
-    <comment>unknown</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SE>
-      <id>1</id>
       <text>Un camp est un endroit aménagé pour le stationnement de groupements civils (camping dans le cas de touristes, groupes de jeunesse) ou militaires (base militaire, camp de prisonniers)</text>
       <span begin="9" end="191" />
     </SE>
-    <comment />
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
     <SE>
-      <id>2</id>
-      <text>Les types de camps
-Domaine touristique
-Camping
-Camping sauvage
-Domaine éducatif et social
-Camp scout
-Camp ou Colonie de vacances
-Domaine sportif
-Camp de base (alpinisme)
-Bivouac
-Domaine humanitaire
-Camp de réfugiés
-Domaine militaire
-Camp romain
-Camp militaire
-Champ de manœuvres
-Base militaire
-Domaine carcéral et concentrationnaire
-Camp d'internement, prison,
-Camp de concentration,
-camp d'extermination (destiné à l'assassinat de masse),
-camp de travail (destiné à l'esclavagisme),
-Camp de rééducation, goulag : destiné à reconvertir des opposants politiques, généralement par l'utilisation de la torture et de moyens de pression psychologique.</text>
-      <span begin="372" end="1018" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SE>
-      <id>3</id>
+      <id>1</id>
       <text>Domaine touristique
 Camping
 Camping sauvage</text>
@@ -82,13 +32,13 @@ Camping sauvage</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SE>
-      <id>4</id>
+      <id>2</id>
       <text>Domaine éducatif et social
 Camp scout
 Camp ou Colonie de vacances</text>
@@ -98,13 +48,13 @@ Camp ou Colonie de vacances</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SE>
-      <id>5</id>
+      <id>3</id>
       <text>Domaine sportif
 Camp de base (alpinisme)
 Bivouac</text>
@@ -114,13 +64,13 @@ Bivouac</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SE>
-      <id>6</id>
+      <id>4</id>
       <text>Domaine militaire
 Camp romain
 Camp militaire
@@ -132,13 +82,13 @@ Base militaire</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
     <SE>
-      <id>7</id>
+      <id>5</id>
       <text>Domaine carcéral et concentrationnaire
 Camp d'internement, prison,
 Camp de concentration,
@@ -151,13 +101,13 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>8</id>
+      <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
     <SE>
-      <id>8</id>
+      <id>6</id>
       <text>Culture
 Camp est un style esthétique.
 Camp, est une série télévisée américaine</text>
@@ -167,13 +117,13 @@ Camp, est une série télévisée américaine</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
     <SE>
-      <id>9</id>
+      <id>7</id>
       <text>Patronyme
 Steven Camp (1753-1812), homme politique néerlandais
 Maxime Du Camp (1822-1894), écrivain et un photographe français</text>
@@ -184,720 +134,196 @@ Maxime Du Camp (1822-1894), écrivain et un photographe français</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-        <word id="2" lem="camp" postag="NC" morpho="g=m|n=s" head="3" dep="suj">camp</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-        <word id="5" lem="endroit" postag="NC" morpho="g=m|n=s" head="3" dep="ats">endroit</word>
-        <word id="6" lem="aménager" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">aménagé</word>
-        <word id="7" lem="pour" postag="P" morpho="_" head="6" dep="mod">pour</word>
-        <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-        <word id="9" lem="stationnement" postag="NC" morpho="g=m|n=s" head="7" dep="prep">stationnement</word>
-        <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-        <word id="11" lem="groupement" postag="NC" morpho="g=m|n=p" head="10" dep="prep">groupements</word>
-        <word id="12" lem="civil" postag="ADJ" morpho="g=m|n=p" head="11" dep="mod">civils</word>
-        <word id="13" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="camping" postag="NC" morpho="g=m|n=s" head="0" dep="root">camping</word>
-          <word id="3" lem="dans" postag="P" morpho="_" head="2" dep="dep">dans</word>
-          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="5" lem="cas" postag="NC" morpho="g=m" head="3" dep="prep">cas</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="touriste" postag="NC" morpho="n=p" head="6" dep="prep">touristes</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="groupe" postag="NC" morpho="g=m|n=p" head="0" dep="_">groupes</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="jeunesse" postag="NC" morpho="g=f|n=s" head="2" dep="prep">jeunesse</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-        <word id="2" lem="camp" postag="NC" morpho="g=m|n=s" head="3" dep="suj">camp</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-        <word id="5" lem="endroit" postag="NC" morpho="g=m|n=s" head="3" dep="ats">endroit</word>
-        <word id="6" lem="aménager" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">aménagé</word>
-        <word id="7" lem="pour" postag="P" morpho="_" head="6" dep="mod">pour</word>
-        <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-        <word id="9" lem="stationnement" postag="NC" morpho="g=m|n=s" head="7" dep="prep">stationnement</word>
-        <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-        <word id="11" lem="groupement" postag="NC" morpho="g=m|n=p" head="10" dep="prep">groupements</word>
-        <word id="12" lem="civil" postag="ADJ" morpho="g=m|n=p" head="11" dep="mod">civils</word>
-        <word id="13" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
-        <word id="14" lem="camping" postag="NC" morpho="g=m|n=s" head="9" dep="mod">camping</word>
-        <word id="15" lem="dans" postag="P" morpho="_" head="14" dep="dep">dans</word>
-        <word id="16" lem="le" postag="DET" morpho="g=m|n=s" head="17" dep="det">le</word>
-        <word id="17" lem="cas" postag="NC" morpho="g=m" head="15" dep="prep">cas</word>
-        <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-        <word id="19" lem="touriste" postag="NC" morpho="n=p" head="18" dep="prep">touristes</word>
-        <word id="20" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-        <word id="21" lem="groupe" postag="NC" morpho="g=m|n=p" head="3" dep="mod">groupes</word>
-        <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">de</word>
-        <word id="23" lem="jeunesse" postag="NC" morpho="g=f|n=s" head="22" dep="prep">jeunesse</word>
-        <word id="24" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        <word id="25" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-        <word id="26" lem="militaire" postag="ADJ" morpho="n=p" head="25" dep="dep_coord">militaires</word>
-        <word id="27" lem="(" postag="PONCT" morpho="_" head="25" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="base" postag="NC" morpho="g=f|n=s" head="0" dep="root">base</word>
-          <word id="3" lem="militaire" postag="ADJ" morpho="n=s" head="2" dep="mod">militaire</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="prisonnier" postag="NC" morpho="g=m|n=p" head="2" dep="prep">prisonniers</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="type" postag="NC" morpho="g=m|n=p" head="0" dep="_">types</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="camp" postag="NC" morpho="g=m|n=p" head="3" dep="prep">camps</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="_">Domaine</word>
-          <word id="2" lem="touristique" postag="ADJ" morpho="n=s" head="1" dep="mod">touristique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="camping" postag="NC" morpho="g=m|n=s" head="0" dep="root">Camping</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="camping" postag="NC" morpho="g=m|n=s" head="0" dep="root">Camping</word>
-          <word id="2" lem="sauvage" postag="ADJ" morpho="n=s" head="1" dep="mod">sauvage</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="_">Domaine</word>
-          <word id="2" lem="éducatif" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">éducatif</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="social" postag="ADJ" morpho="g=m|n=s" head="3" dep="dep_coord">social</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="scout" postag="NC" morpho="g=m|n=s" head="1" dep="mod">scout</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="root">Camp</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="dep_coord">Colonie</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="5" lem="vacance" postag="NC" morpho="g=f|n=p" head="4" dep="prep">vacances</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="root">Domaine</word>
-          <word id="2" lem="sportif" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">sportif</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="base" postag="NC" morpho="g=f|n=s" head="2" dep="prep">base</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="alpinisme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">alpinisme</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="bivouac" postag="NC" morpho="g=m|n=s" head="0" dep="root">Bivouac</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="_">Domaine</word>
-          <word id="2" lem="humanitaire" postag="ADJ" morpho="n=s" head="1" dep="mod">humanitaire</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="réfugié" postag="NC" morpho="g=m|n=p" head="2" dep="prep">réfugiés</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="_">Domaine</word>
-          <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="1" dep="mod">militaire</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="romain" postag="NC" morpho="g=m|n=s" head="1" dep="mod">romain</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="1" dep="mod">militaire</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="champ" postag="NC" morpho="g=m|n=s" head="0" dep="_">Champ</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">manœuvres</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="base" postag="NC" morpho="g=f|n=s" head="0" dep="_">Base</word>
-          <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="1" dep="mod">militaire</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="_">Domaine</word>
-          <word id="2" lem="carcéral" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">carcéral</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="concentrationnaire" postag="ADJ" morpho="n=s" head="3" dep="dep_coord">concentrationnaire</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="internement" postag="NC" morpho="g=m|n=s" head="2" dep="prep">internement</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="prison" postag="NC" morpho="g=f|n=s" head="0" dep="_">prison</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="concentration" postag="NC" morpho="g=f|n=s" head="2" dep="prep">concentration</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="extermination" postag="NC" morpho="g=f|n=s" head="2" dep="prep">extermination</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">destiné</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="a_obj">à</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="assassinat" postag="NC" morpho="g=m|n=s" head="6" dep="prep">assassinat</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="masse" postag="NC" morpho="g=f|n=s" head="9" dep="prep">masse</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="travail" postag="NC" morpho="g=m|n=s" head="2" dep="prep">travail</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">destiné</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="a_obj">à</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="esclavagisme" postag="NC" morpho="g=m|n=s" head="6" dep="prep">esclavagisme</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="rééducation" postag="NC" morpho="g=f|n=s" head="2" dep="prep">rééducation</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="goulag" postag="NC" morpho="g=m|n=s" head="0" dep="_">goulag</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
-          <word id="7" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">destiné</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="7" dep="a_obj">à</word>
-          <word id="9" lem="reconvertir" postag="VINF" morpho="_" head="8" dep="prep">reconvertir</word>
-          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
-          <word id="11" lem="opposant" postag="NC" morpho="g=m|n=p" head="9" dep="obj">opposants</word>
-          <word id="12" lem="politique" postag="ADJ" morpho="n=p" head="11" dep="mod">politiques</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="14" lem="généralement" postag="ADV" morpho="_" head="7" dep="mod">généralement</word>
-          <word id="15" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
-          <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
-          <word id="17" lem="utilisation" postag="NC" morpho="g=f|n=s" head="15" dep="prep">utilisation</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="torture" postag="NC" morpho="g=f|n=s" head="18" dep="prep">torture</word>
-          <word id="21" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep_coord">de</word>
-          <word id="23" lem="moyen" postag="NC" morpho="g=m|n=p" head="22" dep="prep">moyens</word>
-          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
-          <word id="25" lem="pression" postag="NC" morpho="g=f|n=s" head="24" dep="prep">pression</word>
-          <word id="26" lem="psychologique" postag="ADJ" morpho="n=s" head="25" dep="mod">psychologique</word>
-          <word id="27" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="_">Domaine</word>
-        <word id="2" lem="touristique" postag="ADJ" morpho="n=s" head="1" dep="mod">touristique</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="camping" postag="NC" morpho="g=m|n=s" head="0" dep="root">Camping</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="camping" postag="NC" morpho="g=m|n=s" head="0" dep="root">Camping</word>
-          <word id="2" lem="sauvage" postag="ADJ" morpho="n=s" head="1" dep="mod">sauvage</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="_">Domaine</word>
-        <word id="2" lem="éducatif" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">éducatif</word>
-        <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        <word id="4" lem="social" postag="ADJ" morpho="g=m|n=s" head="3" dep="dep_coord">social</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="scout" postag="NC" morpho="g=m|n=s" head="1" dep="mod">scout</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="root">Camp</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="dep_coord">Colonie</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="5" lem="vacance" postag="NC" morpho="g=f|n=p" head="4" dep="prep">vacances</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="root">Domaine</word>
-        <word id="2" lem="sportif" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">sportif</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="5" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="base" postag="NC" morpho="g=f|n=s" head="2" dep="prep">base</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="alpinisme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">alpinisme</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="bivouac" postag="NC" morpho="g=m|n=s" head="0" dep="root">Bivouac</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="_">Domaine</word>
-        <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="1" dep="mod">militaire</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="6" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="romain" postag="NC" morpho="g=m|n=s" head="1" dep="mod">romain</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="1" dep="mod">militaire</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="champ" postag="NC" morpho="g=m|n=s" head="0" dep="_">Champ</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">manœuvres</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="base" postag="NC" morpho="g=f|n=s" head="0" dep="_">Base</word>
-          <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="1" dep="mod">militaire</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="7">
-      <sentence id="1">
-        <word id="1" lem="domaine" postag="NC" morpho="g=m|n=s" head="0" dep="_">Domaine</word>
-        <word id="2" lem="carcéral" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">carcéral</word>
-        <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        <word id="4" lem="concentrationnaire" postag="ADJ" morpho="n=s" head="3" dep="dep_coord">concentrationnaire</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="7" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="7">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="internement" postag="NC" morpho="g=m|n=s" head="2" dep="prep">internement</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="prison" postag="NC" morpho="g=f|n=s" head="0" dep="_">prison</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="concentration" postag="NC" morpho="g=f|n=s" head="2" dep="prep">concentration</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="extermination" postag="NC" morpho="g=f|n=s" head="2" dep="prep">extermination</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">destiné</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="a_obj">à</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="assassinat" postag="NC" morpho="g=m|n=s" head="6" dep="prep">assassinat</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="masse" postag="NC" morpho="g=f|n=s" head="9" dep="prep">masse</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="travail" postag="NC" morpho="g=m|n=s" head="2" dep="prep">travail</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">destiné</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="5" dep="a_obj">à</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="esclavagisme" postag="NC" morpho="g=m|n=s" head="6" dep="prep">esclavagisme</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="0" dep="_">Camp</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="rééducation" postag="NC" morpho="g=f|n=s" head="2" dep="prep">rééducation</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="goulag" postag="NC" morpho="g=m|n=s" head="0" dep="_">goulag</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
-          <word id="7" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">destiné</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="7" dep="a_obj">à</word>
-          <word id="9" lem="reconvertir" postag="VINF" morpho="_" head="8" dep="prep">reconvertir</word>
-          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
-          <word id="11" lem="opposant" postag="NC" morpho="g=m|n=p" head="9" dep="obj">opposants</word>
-          <word id="12" lem="politique" postag="ADJ" morpho="n=p" head="11" dep="mod">politiques</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="14" lem="généralement" postag="ADV" morpho="_" head="7" dep="mod">généralement</word>
-          <word id="15" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
-          <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
-          <word id="17" lem="utilisation" postag="NC" morpho="g=f|n=s" head="15" dep="prep">utilisation</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="torture" postag="NC" morpho="g=f|n=s" head="18" dep="prep">torture</word>
-          <word id="21" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep_coord">de</word>
-          <word id="23" lem="moyen" postag="NC" morpho="g=m|n=p" head="22" dep="prep">moyens</word>
-          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
-          <word id="25" lem="pression" postag="NC" morpho="g=f|n=s" head="24" dep="prep">pression</word>
-          <word id="26" lem="psychologique" postag="ADJ" morpho="n=s" head="25" dep="mod">psychologique</word>
-          <word id="27" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="8">
-      <sentence id="1">
-        <word id="1" lem="culture" postag="NC" morpho="g=f|n=s" head="0" dep="_">Culture</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="8">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Camp</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="style" postag="NC" morpho="g=m|n=s" head="2" dep="ats">style</word>
-          <word id="5" lem="esthétique" postag="ADJ" morpho="n=s" head="4" dep="mod">esthétique</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="camp" postag="NC" morpho="g=m|n=s" head="3" dep="suj">Camp</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="série" postag="NC" morpho="g=f|n=s" head="3" dep="ats">série</word>
-          <word id="6" lem="téléviser" postag="ADJ" morpho="g=f|n=s|t=past" head="5" dep="mod">télévisée</word>
-          <word id="7" lem="américain" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">américaine</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="9">
-      <sentence id="1">
-        <word id="1" lem="patronyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Patronyme</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="9">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Steven" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Steven</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Camp</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1753-1812</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="homme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">homme</word>
-          <word id="8" lem="politique" postag="ADJ" morpho="n=s" head="7" dep="mod">politique</word>
-          <word id="9" lem="néerlandais" postag="ADJ" morpho="g=m" head="7" dep="mod">néerlandais</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="maxime" postag="NC" morpho="g=f|n=s" head="0" dep="_">Maxime</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Camp</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1822-1894</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="écrivain" postag="NC" morpho="g=m|n=s" head="7" dep="dep_coord">écrivain</word>
-          <word id="9" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="photographe" postag="NC" morpho="n=s" head="9" dep="dep_coord">photographe</word>
-          <word id="12" lem="français" postag="ADJ" morpho="g=m" head="11" dep="mod">français</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
-      <span begin="1" end="77" />
-      <text>Un camp est un endroit aménagé pour le stationnement de groupements civils (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="items" idSE="0">
-      <span begin="76" end="110" id="0" />
-      <text id="0">(camping dans le cas de touristes,</text>
-      <span begin="111" end="131" id="1" />
-      <text id="1">groupes de jeunesse)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="primer" idSE="1">
       <span begin="1" end="147" />
       <text>Un camp est un endroit aménagé pour le stationnement de groupements civils (camping dans le cas de touristes, groupes de jeunesse) ou militaires (</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="items" idSE="1">
+    <SEval type="items" idSE="0">
       <span begin="146" end="162" id="0" />
       <text id="0">(base militaire,</text>
       <span begin="163" end="183" id="1" />
@@ -906,74 +332,24 @@ Maxime Du Camp (1822-1894), écrivain et un photographe français</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer" idSE="2">
-      <span begin="1" end="19" />
-      <text>Les types de camps</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="20" end="63" id="0" />
-      <text id="0">Domaine touristique
-Camping
-Camping sauvage</text>
-      <span begin="64" end="129" id="1" />
-      <text id="1">Domaine éducatif et social
-Camp scout
-Camp ou Colonie de vacances</text>
-      <span begin="130" end="178" id="2" />
-      <text id="2">Domaine sportif
-Camp de base (alpinisme)
-Bivouac</text>
-      <span begin="179" end="215" id="3" />
-      <text id="3">Domaine humanitaire
-Camp de réfugiés</text>
-      <span begin="216" end="294" id="4" />
-      <text id="4">Domaine militaire
-Camp romain
-Camp militaire
-Champ de manœuvres
-Base militaire</text>
-      <span begin="295" end="647" id="5" />
-      <text id="5">Domaine carcéral et concentrationnaire
-Camp d'internement, prison,
-Camp de concentration,
-camp d'extermination (destiné à l'assassinat de masse),
-camp de travail (destiné à l'esclavagisme),
-Camp de rééducation, goulag : destiné à reconvertir des opposants politiques, généralement par l'utilisation de la torture et de moyens de pression psychologique.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="primer" idSE="3">
+    <SEval type="primer" idSE="1">
       <span begin="1" end="20" />
       <text>Domaine touristique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="1">
       <span begin="21" end="28" id="0" />
       <text id="0">Camping</text>
       <span begin="29" end="44" id="1" />
@@ -982,24 +358,24 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer" idSE="4">
+    <SEval type="primer" idSE="2">
       <span begin="1" end="27" />
       <text>Domaine éducatif et social</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="items" idSE="4">
+    <SEval type="items" idSE="2">
       <span begin="28" end="38" id="0" />
       <text id="0">Camp scout</text>
       <span begin="39" end="66" id="1" />
@@ -1008,24 +384,24 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer" idSE="5">
+    <SEval type="primer" idSE="3">
       <span begin="1" end="16" />
       <text>Domaine sportif</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="items" idSE="5">
+    <SEval type="items" idSE="3">
       <span begin="17" end="41" id="0" />
       <text id="0">Camp de base (alpinisme)</text>
       <span begin="42" end="49" id="1" />
@@ -1034,24 +410,24 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer" idSE="6">
+    <SEval type="primer" idSE="4">
       <span begin="1" end="18" />
       <text>Domaine militaire</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="items" idSE="6">
+    <SEval type="items" idSE="4">
       <span begin="19" end="30" id="0" />
       <text id="0">Camp romain</text>
       <span begin="31" end="45" id="1" />
@@ -1064,24 +440,24 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer" idSE="7">
+    <SEval type="primer" idSE="5">
       <span begin="1" end="39" />
       <text>Domaine carcéral et concentrationnaire</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="items" idSE="7">
+    <SEval type="items" idSE="5">
       <span begin="40" end="67" id="0" />
       <text id="0">Camp d'internement, prison,</text>
       <span begin="68" end="90" id="1" />
@@ -1096,24 +472,24 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer" idSE="8">
+    <SEval type="primer" idSE="6">
       <span begin="1" end="8" />
       <text>Culture</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="items" idSE="8">
+    <SEval type="items" idSE="6">
       <span begin="9" end="38" id="0" />
       <text id="0">Camp est un style esthétique.</text>
       <span begin="39" end="79" id="1" />
@@ -1122,24 +498,24 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="primer" idSE="9">
+    <SEval type="primer" idSE="7">
       <span begin="1" end="10" />
       <text>Patronyme</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="items" idSE="9">
+    <SEval type="items" idSE="7">
       <span begin="11" end="63" id="0" />
       <text id="0">Steven Camp (1753-1812), homme politique néerlandais</text>
       <span begin="64" end="127" id="1" />
@@ -1148,408 +524,216 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
       <span begin="1" end="8" id="0" />
       <text id="0">Un camp</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
       <span begin="147" end="161" id="0" />
       <text id="0">base militaire</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
       <span begin="163" end="182" id="0" />
       <text id="0">camp de prisonniers</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
-      <span begin="14" end="19" id="0" />
-      <text id="0">camps</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
-      <span begin="40" end="47" id="0" />
-      <text id="0">Camping</text>
-      <span begin="48" end="63" id="1" />
-      <text id="1">Camping sauvage</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
-      <span begin="91" end="101" id="0" />
-      <text id="0">Camp scout</text>
-      <span begin="110" end="129" id="1" />
-      <text id="1">Colonie de vacances</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="2">
-      <span begin="146" end="158" id="0" />
-      <text id="0">Camp de base</text>
-      <span begin="171" end="178" id="1" />
-      <text id="1">Bivouac</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="3">
-      <span begin="199" end="215" id="0" />
-      <text id="0">Camp de réfugiés</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="4">
-      <span begin="234" end="245" id="0" />
-      <text id="0">Camp romain</text>
-      <span begin="246" end="260" id="1" />
-      <text id="1">Camp militaire</text>
-      <span begin="261" end="279" id="2" />
-      <text id="2">Champ de manœuvres</text>
-      <span begin="280" end="294" id="3" />
-      <text id="3">Base militaire</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="5">
-      <span begin="334" end="352" id="0" />
-      <text id="0">Camp d'internement</text>
-      <span begin="354" end="360" id="1" />
-      <text id="1">prison</text>
-      <span begin="362" end="383" id="2" />
-      <text id="2">Camp de concentration</text>
-      <span begin="385" end="406" id="3" />
-      <text id="3">camp d'extermination</text>
-      <span begin="441" end="456" id="4" />
-      <text id="4">camp de travail</text>
-      <span begin="485" end="504" id="5" />
-      <text id="5">Camp de rééducation</text>
-      <span begin="506" end="512" id="6" />
-      <text id="6">goulag</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
-      <span begin="20" end="39" id="0" />
-      <text id="0">Domaine touristique</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="1">
-      <span begin="64" end="90" id="0" />
-      <text id="0">Domaine éducatif et social</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="2">
-      <span begin="130" end="145" id="0" />
-      <text id="0">Domaine sportif</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="3">
-      <span begin="179" end="198" id="0" />
-      <text id="0">Domaine humanitaire</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="4">
-      <span begin="216" end="233" id="0" />
-      <text id="0">Domaine militaire</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="5">
-      <span begin="295" end="333" id="0" />
-      <text id="0">Domaine carcéral et concentrationnaire</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
-      <span begin="5" end="13" id="0" />
-      <text id="0">types de</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="21" end="28" id="0" />
       <text id="0">Camping</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
       <span begin="29" end="44" id="0" />
       <text id="0">Camping sauvage</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
       <span begin="1" end="20" id="0" />
       <text id="0">Domaine touristique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
       <span begin="28" end="38" id="0" />
       <text id="0">Camp scout</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
       <span begin="47" end="66" id="0" />
       <text id="0">Colonie de vacances</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
       <span begin="1" end="27" id="0" />
       <text id="0">Domaine éducatif et social</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
       <span begin="17" end="30" id="0" />
       <text id="0">Camp de base</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
       <span begin="42" end="49" id="0" />
       <text id="0">Bivouac</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="5" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
       <span begin="1" end="16" id="0" />
       <text id="0">Domaine sportif</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
       <span begin="19" end="30" id="0" />
       <text id="0">Camp romain</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
       <span begin="31" end="45" id="0" />
       <text id="0">Camp militaire</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="2">
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
       <span begin="46" end="64" id="0" />
       <text id="0">Champ de manœuvres</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="3">
+    <SEval type="concept" idSE="4" localisation="item" idItem="3">
       <span begin="65" end="79" id="0" />
       <text id="0">Base militaire</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
       <span begin="1" end="18" id="0" />
       <text id="0">Domaine militaire</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="0">
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
       <span begin="40" end="58" id="0" />
       <text id="0">Camp d'internement</text>
       <span begin="60" end="66" id="1" />
@@ -1558,48 +742,48 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="1">
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
       <span begin="68" end="89" id="0" />
       <text id="0">Camp de concentration</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="2">
+    <SEval type="concept" idSE="5" localisation="item" idItem="2">
       <span begin="91" end="111" id="0" />
       <text id="0">camp d'extermination</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="3">
+    <SEval type="concept" idSE="5" localisation="item" idItem="3">
       <span begin="147" end="162" id="0" />
       <text id="0">camp de travail</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="4">
+    <SEval type="concept" idSE="5" localisation="item" idItem="4">
       <span begin="191" end="210" id="0" />
       <text id="0">Camp de rééducation</text>
       <span begin="212" end="218" id="1" />
@@ -1608,84 +792,84 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="7" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="5" localisation="primer" idItem="-1">
       <span begin="1" end="39" id="0" />
       <text id="0">Domaine carcéral et concentrationnaire</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="0">
+    <SEval type="concept" idSE="6" localisation="item" idItem="0">
       <span begin="9" end="13" id="0" />
       <text id="0">Camp</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="1">
+    <SEval type="concept" idSE="6" localisation="item" idItem="1">
       <span begin="39" end="43" id="0" />
       <text id="0">Camp</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="8" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="6" localisation="primer" idItem="-1">
       <span begin="1" end="8" id="0" />
       <text id="0">Culture</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="9" localisation="item" idItem="0">
+    <SEval type="concept" idSE="7" localisation="item" idItem="0">
       <span begin="11" end="22" id="0" />
       <text id="0">Steven Camp</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="concept" idSE="9" localisation="item" idItem="1">
+    <SEval type="concept" idSE="7" localisation="item" idItem="1">
       <span begin="64" end="78" id="0" />
       <text id="0">Maxime Du Camp</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="9" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="7" localisation="primer" idItem="-1">
       <span begin="1" end="10" id="0" />
       <text id="0">Patronyme</text>
     </SEval>
@@ -1693,8 +877,8 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1707,12 +891,12 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -1721,12 +905,12 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -1738,13 +922,13 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
-      <visee_ontologique value="0">
-        <isA value="0" />
+      <visee_ontologique value="1">
+        <isA value="1" />
         <partOf value="0" />
         <instanceOf value="0" />
         <ontologique_autre value="0" />
@@ -1765,12 +949,12 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
-      <horizontale value="1" />
-      <verticale value="0" />
+      <horizontale value="0" />
+      <verticale value="1" />
       <navigationnelle value="0" />
       <hypertextuelle value="1" />
     </SEval>
@@ -1779,7 +963,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1793,7 +977,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1810,7 +994,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:02</date>
+      <date>3/01/14 10:05</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1836,7 +1020,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1850,7 +1034,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1864,7 +1048,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1881,7 +1065,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1907,7 +1091,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1921,7 +1105,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1935,7 +1119,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1952,7 +1136,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:05</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -1978,7 +1162,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -1992,7 +1176,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -2006,7 +1190,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -2023,7 +1207,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:06</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
@@ -2049,7 +1233,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="5">
@@ -2063,7 +1247,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="5">
@@ -2077,7 +1261,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="5">
@@ -2094,7 +1278,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>5</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:07</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="5">
@@ -2120,7 +1304,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="6">
@@ -2134,7 +1318,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="6">
@@ -2148,7 +1332,7 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="6">
@@ -2165,152 +1349,10 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:06</date>
+      <date>3/01/14 10:08</date>
       <document>Camp.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="6">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="7">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="7">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="7">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:07</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="7">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="8">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="8">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="8">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 10:08</date>
-      <document>Camp.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="8">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />
@@ -2331,12 +1373,12 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="9">
+    <SEval type="axe_visuel" idSE="7">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -2345,12 +1387,12 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="9">
+    <SEval type="axe_rhetorique" idSE="7">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -2359,12 +1401,12 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="9">
+    <SEval type="axe_intentionnel" idSE="7">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -2376,12 +1418,12 @@ Camp de rééducation, goulag : destiné à reconvertir des opposants politiques
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:17</date>
+      <id>7</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:10</date>
       <document>Camp.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="9">
+    <SEval type="axe_semantique" idSE="7">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />

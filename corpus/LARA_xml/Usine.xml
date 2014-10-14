@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SE>
@@ -14,13 +14,13 @@ les chaînes de montage en ligne,
 le regroupement des postes en ateliers homogènes, c’est-à-dire par métier.</text>
       <span begin="2343" end="2517" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SE>
@@ -43,7 +43,7 @@ les magasins d'en-cours (stock de pièces peintes…)</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SE>
@@ -94,292 +94,72 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="ce" postag="DET" morpho="g=m|n=s" head="2" dep="det">Ce</word>
-        <word id="2" lem="type" postag="NC" morpho="g=m|n=s" head="12" dep="suj">type</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-        <word id="4" lem="organisation" postag="NC" morpho="g=f|n=s" head="3" dep="prep">organisation</word>
-        <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-        <word id="6" lem="travail" postag="NC" morpho="g=m|n=s" head="5" dep="prep">travail</word>
-        <word id="7" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-        <word id="8" lem="taylorisme" postag="NC" morpho="g=m|n=s" head="2" dep="mod">taylorisme</word>
-        <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        <word id="10" lem="se" postag="CLR" morpho="p=3" head="12" dep="aff">s'</word>
-        <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="12" dep="aux_tps">est</word>
-        <word id="12" lem="traduire" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">traduit</word>
-        <word id="13" lem="par" postag="P" morpho="_" head="12" dep="p_obj">par</word>
-        <word id="14" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="chaîne" postag="NC" morpho="g=f|n=p" head="0" dep="_">chaînes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="montage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">montage</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="6" lem="ligne" postag="NC" morpho="g=f|n=s" head="5" dep="prep">ligne</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="regroupement" postag="NC" morpho="g=m|n=s" head="0" dep="_">regroupement</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="poste" postag="NC" morpho="n=p" head="3" dep="prep">postes</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="6" lem="atelier" postag="NC" morpho="g=m|n=p" head="5" dep="prep">ateliers</word>
-          <word id="7" lem="homogène" postag="ADJ" morpho="n=p" head="6" dep="mod">homogènes</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="9" lem="c'est-à-dire" postag="CC" morpho="_" head="2" dep="coord">c'est-à-dire</word>
-          <word id="10" lem="par" postag="P" morpho="_" head="9" dep="dep_coord">par</word>
-          <word id="11" lem="métier" postag="NC" morpho="g=m|n=s" head="10" dep="prep">métier</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="par" postag="P" morpho="_" head="12" dep="mod">Par</word>
-        <word id="2" lem="exemple" postag="NC" morpho="g=m|n=s" head="1" dep="prep">exemple</word>
-        <word id="3" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-        <word id="4" lem="pour" postag="P" morpho="_" head="12" dep="mod">pour</word>
-        <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-        <word id="6" lem="fabrication" postag="NC" morpho="g=f|n=s" head="4" dep="prep">fabrication</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
-        <word id="8" lem="ensemble" postag="NC" morpho="g=m|n=p" head="7" dep="prep">ensembles</word>
-        <word id="9" lem="mécanique" postag="ADJ" morpho="n=p" head="8" dep="mod">mécaniques</word>
-        <word id="10" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-        <word id="11" lem="on" postag="CLS" morpho="n=s|p=3" head="12" dep="suj">on</word>
-        <word id="12" lem="trouver" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">trouve</word>
-        <word id="13" lem="typiquement" postag="ADV" morpho="_" head="12" dep="mod">typiquement</word>
-        <word id="14" lem=":" postag="PONCT" morpho="_" head="12" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="tournage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">tournage</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="7" lem="perçage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">perçage</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="perçage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">perçage</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="7" lem="fraisage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">fraisage</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="10" lem="rabotage" postag="NC" morpho="g=m|n=s" head="9" dep="prep">rabotage</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="débit" postag="NC" morpho="g=m|n=s" head="3" dep="prep">débit</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="7" lem="découpe" postag="NC" morpho="g=f|n=s" head="6" dep="prep">découpe</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="10" lem="emboutissage" postag="NC" morpho="g=m|n=s" head="9" dep="prep">emboutissage</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="13" lem="forge" postag="NC" morpho="g=f|n=s" head="12" dep="prep">forge</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="traitement" postag="NC" morpho="g=m|n=s" head="3" dep="prep">traitement</word>
-          <word id="5" lem="thermique" postag="ADJ" morpho="n=s" head="4" dep="mod">thermique</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="8" lem="peinture" postag="NC" morpho="g=f|n=s" head="7" dep="prep">peinture</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="montage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">montage</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">d'</word>
-          <word id="7" lem="assemblage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">assemblage</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
-          <word id="10" lem="zone" postag="NC" morpho="g=f|n=p" head="0" dep="_">zones</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="prémontage" postag="NC" morpho="g=m|n=s" head="11" dep="prep">prémontage</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="atelier" postag="NC" morpho="g=m|n=s" head="0" dep="_">atelier</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="outillage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">outillage</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="magasin" postag="NC" morpho="g=m|n=s" head="0" dep="_">magasin</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="matière" postag="NC" morpho="g=f|n=p" head="3" dep="prep">matières</word>
-          <word id="5" lem="premier" postag="ADJ" morpho="g=f|n=p" head="4" dep="mod">premières</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="stock" postag="NC" morpho="g=m|n=s" head="0" dep="_">stock</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="produit" postag="NC" morpho="g=m|n=p" head="3" dep="prep">produits</word>
-          <word id="5" lem="fini" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">finis</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="magasin" postag="NC" morpho="g=m|n=p" head="0" dep="_">magasins</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="en-cours" postag="NC" morpho="g=m" head="3" dep="prep">en-cours</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="stock" postag="NC" morpho="g=m|n=s" head="2" dep="mod">stock</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="pièce" postag="NC" morpho="g=f|n=p" head="7" dep="prep">pièces</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">peintes…</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="dans" postag="P" morpho="_" head="0" dep="_">Dans</word>
-        <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
-        <word id="3" lem="domaine" postag="NC" morpho="g=m|n=p" head="1" dep="prep">domaines</word>
-        <word id="4" lem="dire" postag="VPP" morpho="g=m|n=p|t=past" head="3" dep="mod">dits</word>
-        <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
-        <word id="6" lem="improductif" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">improductifs</word>
-        <word id="7" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
-        <word id="8" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        <word id="9" lem="il_y_a" postag="P" morpho="_" head="0" dep="_">il_y_a</word>
-        <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-        <word id="11" lem="découpage" postag="NC" morpho="g=m|n=s" head="9" dep="prep">découpage</word>
-        <word id="12" lem="similaire" postag="ADJ" morpho="n=s" head="11" dep="mod">similaire</word>
-        <word id="13" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="bureau" postag="NC" morpho="g=m|n=s" head="0" dep="_">bureau</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="étude" postag="NC" morpho="g=f|n=p" head="2" dep="prep">études</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="étude" postag="NC" morpho="g=f|n=p" head="1" dep="mod">études</word>
-          <word id="6" lem="produit" postag="NC" morpho="g=m|n=p" head="5" dep="mod">produits</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="étude" postag="NC" morpho="g=f|n=p" head="1" dep="mod">études</word>
-          <word id="9" lem="outillage" postag="NC" morpho="g=m|n=p" head="8" dep="mod">outillages</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="bureau" postag="NC" morpho="g=m|n=s" head="0" dep="_">bureau</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="méthode" postag="NC" morpho="g=f|n=p" head="2" dep="prep">méthodes</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="service" postag="NC" morpho="g=m|n=p" head="0" dep="_">services</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="achat" postag="NC" morpho="g=m|n=p" head="2" dep="prep">achats</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="lancement" postag="NC" morpho="g=m|n=s" head="0" dep="_">lancement</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="ordonnancement" postag="NC" morpho="g=m|n=s" head="0" dep="_">ordonnancement</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="9" lem="magasin" postag="NC" morpho="g=m|n=p" head="0" dep="_">magasins</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="11" lem="manutention" postag="NC" morpho="g=f|n=s" head="0" dep="_">manutention</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="0" dep="_">après-vente…</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -389,17 +169,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
       <date>1/01/13 9:23</date>
       <document>Usine.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="deux" postag="ADJ" morpho="n=p" head="2" dep="mod">Deux</word>
-        <word id="2" lem="événement" postag="NC" morpho="g=m|n=p" head="3" dep="suj">événements</word>
-        <word id="3" lem="aller" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">vont</word>
-        <word id="4" lem="modifier" postag="VINF" morpho="_" head="3" dep="obj">modifier</word>
-        <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-        <word id="6" lem="usine" postag="NC" morpho="g=f|n=s" head="4" dep="obj">usine</word>
-        <word id="7" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -409,34 +179,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
       <document>Usine.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="diversification" postag="NC" morpho="g=f|n=s" head="0" dep="_">diversification</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="demande" postag="NC" morpho="g=f|n=s" head="3" dep="prep">demande</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="invention" postag="NC" morpho="g=f|n=s" head="0" dep="_">invention</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="centre" postag="NC" morpho="g=m|n=s" head="3" dep="prep">centre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="usinage" postag="NC" morpho="g=m|n=s" head="5" dep="prep">usinage</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="machine-outil" postag="NC" morpho="g=f|n=s" head="8" dep="prep">machine-outil</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="10" dep="dep">à</word>
-          <word id="12" lem="commande" postag="NC" morpho="g=f|n=s" head="11" dep="prep">commande</word>
-          <word id="13" lem="numérique" postag="ADJ" morpho="n=s" head="12" dep="mod">numérique</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -446,28 +190,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
       <date>1/01/13 9:26</date>
       <document>Usine.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="3" dep="det">Les</word>
-        <word id="2" lem="différent" postag="ADJ" morpho="g=f|n=p" head="3" dep="mod">différentes</word>
-        <word id="3" lem="organisation" postag="NC" morpho="g=f|n=p" head="4" dep="suj">organisations</word>
-        <word id="4" lem="changer" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">changent</word>
-        <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-        <word id="6" lem="implantation" postag="NC" morpho="g=f|n=s" head="4" dep="obj">implantation</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-        <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-        <word id="9" lem="usine" postag="NC" morpho="g=f|n=s" head="7" dep="prep">usine</word>
-        <word id="10" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-        <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
-        <word id="12" lem="principe" postag="NC" morpho="g=m|n=p" head="10" dep="dep_coord">principes</word>
-        <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-        <word id="14" lem="gestion" postag="NC" morpho="g=f|n=s" head="13" dep="prep">gestion</word>
-        <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-        <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-        <word id="17" lem="production" postag="NC" morpho="g=f|n=s" head="15" dep="prep">production</word>
-        <word id="18" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -477,124 +200,18 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
       <document>Usine.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="création" postag="NC" morpho="g=f|n=s" head="0" dep="root">Création</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="îlot" postag="NC" morpho="g=m|n=p" head="2" dep="prep">îlots</word>
-          <word id="4" lem="_" postag="ADJ" morpho="_" head="3" dep="mod">multi-métiers</word>
-          <word id="5" lem="grâce_à" postag="P" morpho="_" head="0" dep="_">grâce_à</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Technologie</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Groupe</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="7" dep="mod">TGAO</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-          <word id="13" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Group</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Technology</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="mise" postag="NC" morpho="g=f|n=s" head="0" dep="root">Mise</word>
-          <word id="2" lem="en_parallèle" postag="ADV" morpho="_" head="1" dep="mod">en_parallèle</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="ligne" postag="NC" morpho="g=f|n=p" head="3" dep="prep">lignes</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="assemblage" postag="NC" morpho="g=m|n=s" head="5" dep="prep">assemblage</word>
-          <word id="7" lem="spécialiser" postag="ADJ" morpho="g=f|n=p|t=past" head="4" dep="mod">spécialisées</word>
-          <word id="8" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="9" lem="bien" postag="ADV" morpho="_" head="8" dep="mod">bien</word>
-          <word id="10" lem="synchronisation" postag="NC" morpho="g=f|n=s" head="8" dep="dep_coord">synchronisation</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="afin_de" postag="P" morpho="_" head="1" dep="dep">afin_de</word>
-          <word id="13" lem="réduire" postag="VINF" morpho="_" head="12" dep="prep">réduire</word>
-          <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-          <word id="15" lem="stock" postag="NC" morpho="g=m|n=p" head="13" dep="obj">stocks</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">d'</word>
-          <word id="17" lem="_" postag="NC" morpho="_" head="16" dep="prep">en_cours</word>
-          <word id="18" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep_coord">de</word>
-          <word id="20" lem="réduire" postag="VINF" morpho="_" head="19" dep="prep">réduire</word>
-          <word id="21" lem="l'" postag="DET" morpho="n=s" head="22" dep="det">l'</word>
-          <word id="22" lem="encombrement" postag="NC" morpho="g=m|n=s" head="20" dep="obj">encombrement</word>
-          <word id="23" lem="de" postag="P+D" morpho="n=p" head="22" dep="dep">des</word>
-          <word id="24" lem="poste" postag="NC" morpho="n=p" head="23" dep="prep">postes</word>
-          <word id="25" lem="en" postag="P" morpho="_" head="24" dep="dep">en</word>
-          <word id="26" lem="composant" postag="NC" morpho="g=m|n=p" head="25" dep="prep">composants</word>
-          <word id="27" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="sous-traitance" postag="NC" morpho="g=f|n=s" head="0" dep="root">Sous-traitance</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="composant" postag="NC" morpho="g=m|n=p" head="2" dep="prep">composants</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="6" lem="se" postag="CLR" morpho="n=p|p=3" head="7" dep="obj">se</word>
-          <word id="7" lem="concentrer" postag="VPR" morpho="t=pst" head="5" dep="prep">concentrant</word>
-          <word id="8" lem="sur" postag="P" morpho="_" head="7" dep="mod">sur</word>
-          <word id="9" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="10" dep="det">son</word>
-          <word id="10" lem="métier" postag="NC" morpho="g=m|n=s" head="8" dep="prep">métier</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="développement" postag="NC" morpho="g=m|n=s" head="0" dep="_">Développement</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="système" postag="NC" morpho="g=m|n=p" head="2" dep="prep">systèmes</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="manutention" postag="NC" morpho="g=f|n=s" head="4" dep="prep">manutention</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep_coord">de</word>
-          <word id="8" lem="stockage" postag="NC" morpho="g=m|n=s" head="7" dep="prep">stockage</word>
-          <word id="9" lem="automatiser" postag="ADJ" morpho="g=m|n=p|t=past" head="8" dep="mod">automatisés</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="11" lem="flexible" postag="ADJ" morpho="n=p" head="10" dep="dep_coord">flexibles</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="gestion" postag="NC" morpho="g=f|n=s" head="0" dep="_">Gestion</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="production" postag="NC" morpho="g=f|n=s" head="2" dep="prep">production</word>
-          <word id="5" lem="assister" postag="VPP" morpho="g=f|n=s|t=past" head="4" dep="mod">assistée</word>
-          <word id="6" lem="par" postag="P" morpho="_" head="5" dep="p_obj">par</word>
-          <word id="7" lem="ordinateur" postag="NC" morpho="g=m|n=s" head="6" dep="prep">ordinateur</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="10" lem="planifier" postag="VPR" morpho="t=pst" head="9" dep="prep">planifiant</word>
-          <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
-          <word id="12" lem="tâche" postag="NC" morpho="g=f|n=p" head="10" dep="obj">tâches</word>
-          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
-          <word id="14" lem="plus" postag="ADV" morpho="_" head="15" dep="mod">plus</word>
-          <word id="15" lem="précisément" postag="ADV" morpho="_" head="16" dep="mod">précisément</word>
-          <word id="16" lem="possible" postag="ADJ" morpho="n=s" head="12" dep="mod">possible</word>
-          <word id="17" lem="en_fonction_de" postag="P+D" morpho="n=p" head="10" dep="mod">en_fonction_des</word>
-          <word id="18" lem="commande" postag="NC" morpho="g=f|n=p" head="17" dep="prep">commandes</word>
-          <word id="19" lem="et" postag="CC" morpho="_" head="17" dep="coord">et</word>
-          <word id="20" lem="de" postag="P+D" morpho="n=p" head="19" dep="dep_coord">des</word>
-          <word id="21" lem="prévision" postag="NC" morpho="g=f|n=p" head="20" dep="prep">prévisions</word>
-          <word id="22" lem="(" postag="PONCT" morpho="_" head="10" dep="ponct">(</word>
-          <word id="23" lem="_" postag="NPP" morpho="_" head="10" dep="mod">GPAO</word>
-          <word id="24" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
-          <word id="25" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -605,8 +222,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -620,7 +237,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -632,7 +249,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -660,7 +277,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -672,7 +289,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -745,8 +362,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -757,8 +374,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -769,8 +386,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -781,8 +398,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -794,7 +411,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -806,7 +423,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -818,7 +435,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -830,7 +447,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -842,7 +459,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="4">
@@ -854,7 +471,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="5">
@@ -866,7 +483,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="6">
@@ -878,7 +495,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="7">
@@ -890,7 +507,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="8">
@@ -902,7 +519,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -914,7 +531,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -926,7 +543,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -938,7 +555,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -950,7 +567,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
@@ -1069,8 +686,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1083,8 +700,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1097,8 +714,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1114,8 +731,8 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:10</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1141,7 +758,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1155,7 +772,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1169,7 +786,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1186,7 +803,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1212,7 +829,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1226,7 +843,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1240,7 +857,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1257,7 +874,7 @@ Gestion de la production assistée par ordinateur, en planifiant les tâches le 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:43</date>
+      <date>8/01/13 15:43</date>
       <document>Usine.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">

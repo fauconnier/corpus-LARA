@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SE>
@@ -39,355 +39,59 @@ La Pissevache en Valais en Suisse
 la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</text>
       <span begin="1053" end="2247" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="liste" postag="NC" morpho="g=f|n=s" head="0" dep="_">Liste</word>
-        <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-        <word id="3" lem="chute" postag="NC" morpho="g=f|n=p" head="2" dep="prep">chutes</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">d'</word>
-        <word id="5" lem="eau" postag="NC" morpho="g=f|n=s" head="4" dep="prep">eau</word>
-        <word id="6" lem="remarquable" postag="ADJ" morpho="n=p" head="3" dep="mod">remarquables</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="chute" postag="NC" morpho="g=f|n=p" head="0" dep="_">Chutes</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Iguaçu</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="frontière" postag="NC" morpho="g=f|n=s" head="4" dep="prep">frontière</word>
-          <word id="7" lem="entre" postag="P" morpho="_" head="6" dep="dep">entre</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="Brésil" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Brésil</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-          <word id="12" lem="Argentine" postag="NPP" morpho="g=f|n=s" head="10" dep="dep_coord">Argentine</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="chute" postag="NC" morpho="g=f|n=p" head="0" dep="_">Chutes</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Boyoma</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">République</word>
-          <word id="5" lem="démocratique" postag="ADJ" morpho="n=s" head="4" dep="mod">démocratique</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="7" lem="Congo" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Congo</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="chute" postag="NC" morpho="g=f|n=p" head="0" dep="_">Chutes</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Niagara</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="frontière" postag="NC" morpho="g=f|n=s" head="4" dep="prep">frontière</word>
-          <word id="7" lem="entre" postag="P" morpho="_" head="6" dep="dep">entre</word>
-          <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
-          <word id="9" lem="États-Unis_d'Amérique" postag="NPP" morpho="g=m|n=p" head="7" dep="prep">États-Unis</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
-          <word id="12" lem="Canada" postag="NPP" morpho="g=m|n=s" head="10" dep="dep_coord">Canada</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="chute" postag="NC" morpho="g=f|n=p" head="0" dep="_">Chutes</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Lofoï</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="prep">République</word>
-          <word id="7" lem="démocratique" postag="ADJ" morpho="n=s" head="6" dep="mod">démocratique</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="9" lem="Congo" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Congo</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=p" head="0" dep="_">Cascades</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Krimml</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="Autriche" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Autriche</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cascade</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Gavarnie" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Gavarnie</word>
-          <word id="4" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Cirque</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="Gavarnie" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Gavarnie</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="9" lem="France" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">France</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cascade</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Cubsiervès</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="6" lem="France" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">France</word>
-          <word id="7" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Aude" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Aude</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=p" head="0" dep="_">Cascades</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Cirque</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Fer-à-Cheval</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="7" lem="France" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">France</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cascade</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Coo</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Belgique</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Hopetoun</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Falls</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="4" lem="Australie" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Australie</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="chute" postag="NC" morpho="g=f|n=p" head="0" dep="_">Chutes</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Livingstone</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">République</word>
-          <word id="5" lem="démocratique" postag="ADJ" morpho="n=s" head="4" dep="mod">démocratique</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="7" lem="Congo" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Congo</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="chute" postag="NC" morpho="g=f|n=p" head="0" dep="_">Chutes</word>
-          <word id="2" lem="Victoria" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Victoria</word>
-          <word id="3" lem="entre" postag="P" morpho="_" head="1" dep="dep">entre</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="Zambie" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Zambie</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-          <word id="8" lem="Zimbabwe" postag="NPP" morpho="g=m|n=s" head="6" dep="dep_coord">Zimbabwe</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="chute" postag="NC" morpho="g=f|n=s" head="0" dep="_">Chute</word>
-          <word id="2" lem="Montmorency" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Montmorency</word>
-          <word id="3" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="4" lem="Canada" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Canada</word>
-        </sentence>
-      </item>
-      <item id="13">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Dettifoss</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="Islande" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Islande</word>
-        </sentence>
-      </item>
-      <item id="14">
-        <sentence id="1">
-          <word id="1" lem="chute" postag="NC" morpho="g=f|n=p" head="0" dep="_">Chutes</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="Rhin" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Rhin</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Schaffhouse</word>
-        </sentence>
-      </item>
-      <item id="15">
-        <sentence id="1">
-          <word id="1" lem="chute" postag="NC" morpho="g=f|n=s" head="0" dep="_">Chute</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Kabir</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Kouba</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Wendake</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="dep_coord">Loretteville</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-          <word id="9" lem="Québec" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">Québec</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="16">
-        <sentence id="1">
-          <word id="1" lem="saut" postag="NC" morpho="g=m|n=s" head="0" dep="_">Saut</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="Doubs" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Doubs</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="Villers-le-Lac" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Villers-le-Lac</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-          <word id="7" lem="France" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">France</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="17">
-        <sentence id="1">
-          <word id="1" lem="saut" postag="NC" morpho="g=m|n=s" head="0" dep="_">Saut</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Capelan</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">La</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Motte</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-          <word id="8" lem="France" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">France</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="18">
-        <sentence id="1">
-          <word id="1" lem="Sillans-la-Cascade" postag="NPP" morpho="g=m|n=s" head="0" dep="root">Sillans-la-Cascade</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="Var" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Var</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="France" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">France</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="19">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cascade</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Toce</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="Italie" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Italie</word>
-        </sentence>
-      </item>
-      <item id="20">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cascade</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Rouget</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="Haute-Savoie" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Haute-Savoie</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="7" lem="France" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">France</word>
-        </sentence>
-      </item>
-      <item id="21">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=p" head="0" dep="_">Cascades</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Ouzoud</word>
-          <word id="4" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="5" lem="Maroc" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Maroc</word>
-        </sentence>
-      </item>
-      <item id="22">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=p" head="0" dep="_">Cascades</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Kefrida</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Kabylie</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="Algérie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Algérie</word>
-        </sentence>
-      </item>
-      <item id="23">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cascade</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Charabotte</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-          <word id="6" lem="Ain" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Ain</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="0" dep="_">en</word>
-          <word id="8" lem="France" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">France</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="10" lem="sur" postag="P" morpho="_" head="0" dep="_">sur</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="10" dep="prep">Albarine</word>
-        </sentence>
-      </item>
-      <item id="24">
-        <sentence id="1">
-          <word id="1" lem="cascade" postag="NC" morpho="g=f|n=s" head="0" dep="_">Cascade</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Arpenaz</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="Haute-Savoie" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Haute-Savoie</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="7" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">France</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="25">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Pissevache</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Valais</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="6" lem="Suisse" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Suisse</word>
-        </sentence>
-      </item>
-      <item id="26">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Cascade</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="deux" postag="NC" morpho="g=m" head="3" dep="prep">Sept</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Chutes</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="frontière" postag="NC" morpho="g=f|n=s" head="7" dep="prep">frontière</word>
-          <word id="10" lem="entre" postag="P" morpho="_" head="9" dep="dep">entre</word>
-          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
-          <word id="12" lem="Brésil" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Brésil</word>
-          <word id="13" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
-          <word id="14" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
-          <word id="15" lem="Paraguay" postag="NPP" morpho="g=m|n=s" head="13" dep="dep_coord">Paraguay</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
+      <item id="13" />
+      <item id="14" />
+      <item id="15" />
+      <item id="16" />
+      <item id="17" />
+      <item id="18" />
+      <item id="19" />
+      <item id="20" />
+      <item id="21" />
+      <item id="22" />
+      <item id="23" />
+      <item id="24" />
+      <item id="25" />
+      <item id="26" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -398,8 +102,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -462,8 +166,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -474,8 +178,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -486,8 +190,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -498,8 +202,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -510,8 +214,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -522,8 +226,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -534,8 +238,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -546,8 +250,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -558,8 +262,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="7">
@@ -570,8 +274,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="8">
@@ -582,8 +286,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="9">
@@ -594,8 +298,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="10">
@@ -606,8 +310,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="11">
@@ -618,8 +322,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="12">
@@ -630,8 +334,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="13">
@@ -642,8 +346,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="14">
@@ -654,8 +358,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="15">
@@ -666,8 +370,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="16">
@@ -678,8 +382,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="17">
@@ -690,8 +394,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="18">
@@ -702,8 +406,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="19">
@@ -714,8 +418,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="20">
@@ -726,8 +430,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="21">
@@ -738,8 +442,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="22">
@@ -750,8 +454,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="23">
@@ -762,8 +466,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="24">
@@ -774,8 +478,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="25">
@@ -786,8 +490,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="26">
@@ -798,8 +502,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -810,8 +514,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -824,8 +528,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -838,8 +542,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -855,8 +559,8 @@ la Cascade des Sept Chutes, à la frontière entre le Brésil et le Paraguay</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:28</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chute_d'eau.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

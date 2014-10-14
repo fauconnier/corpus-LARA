@@ -3,50 +3,28 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
     <SE>
       <id>0</id>
-      <text>Sécurité
-Il est recommandé de porter le matériel suivant sur un champ de tir :
-Des bouchons ou un casque de protection contre le bruit
-Des lunettes de tir afin de protéger les yeux contre les douilles éjectées.
-Quatre règles de sécurité sont également d'application en tout temps sur un champ de tir :
-Une arme est toujours considérée comme chargée jusqu'à ce que vous soyez personnellement assuré du contraire.
-Le canon ne doit jamais être dirigé vers une cible que l'on ne veut pas détruire.
-L'index ne doit être posé sur la détente que lorsque le dispositif de visée est aligné sur la cible.
-Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il lâche.</text>
-      <span begin="1464" end="2144" />
-    </SE>
-    <comment>unknown</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
-      <document>Champ_de_tir.html</document>
-    </metadata>
-    <SE>
-      <id>1</id>
       <text>Il est recommandé de porter le matériel suivant sur un champ de tir :
 Des bouchons ou un casque de protection contre le bruit
 Des lunettes de tir afin de protéger les yeux contre les douilles éjectées.</text>
       <span begin="1473" end="1674" />
     </SE>
-    <comment />
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
     <SE>
-      <id>2</id>
+      <id>1</id>
       <text>Quatre règles de sécurité sont également d'application en tout temps sur un champ de tir :
 Une arme est toujours considérée comme chargée jusqu'à ce que vous soyez personnellement assuré du contraire.
 Le canon ne doit jamais être dirigé vers une cible que l'on ne veut pas détruire.
@@ -59,416 +37,67 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="sécurité" postag="NC" morpho="g=f|n=s" head="0" dep="_">Sécurité</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="aux_tps">est</word>
-          <word id="3" lem="recommander" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">recommandé</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">de</word>
-          <word id="5" lem="porter" postag="VINF" morpho="_" head="4" dep="prep">porter</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="7" lem="matériel" postag="NC" morpho="g=m|n=s" head="5" dep="obj">matériel</word>
-          <word id="8" lem="suivant" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">suivant</word>
-          <word id="9" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="champ" postag="NC" morpho="g=m|n=s" head="9" dep="prep">champ</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="tir" postag="NC" morpho="g=m|n=s" head="12" dep="prep">tir</word>
-          <word id="14" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">Des</word>
-          <word id="2" lem="bouchon" postag="NC" morpho="g=m|n=p" head="0" dep="root">bouchons</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="casque" postag="NC" morpho="g=m|n=s" head="3" dep="dep_coord">casque</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="protection" postag="NC" morpho="g=f|n=s" head="6" dep="prep">protection</word>
-          <word id="8" lem="contre" postag="P" morpho="_" head="2" dep="dep">contre</word>
-          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-          <word id="10" lem="bruit" postag="NC" morpho="g=m|n=s" head="8" dep="prep">bruit</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">Des</word>
-          <word id="2" lem="lunette" postag="NC" morpho="g=f|n=p" head="0" dep="_">lunettes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="tir" postag="NC" morpho="g=m|n=s" head="3" dep="prep">tir</word>
-          <word id="5" lem="afin_de" postag="P" morpho="_" head="2" dep="dep">afin_de</word>
-          <word id="6" lem="protéger" postag="VINF" morpho="_" head="5" dep="prep">protéger</word>
-          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
-          <word id="8" lem="oeil" postag="NC" morpho="g=m|n=p" head="6" dep="obj">yeux</word>
-          <word id="9" lem="contre" postag="P" morpho="_" head="6" dep="mod">contre</word>
-          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-          <word id="11" lem="douille" postag="NC" morpho="g=f|n=p" head="9" dep="prep">douilles</word>
-          <word id="12" lem="éjecter" postag="VPP" morpho="g=f|n=p|t=past" head="11" dep="mod">éjectées</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="deux" postag="ADJ" morpho="n=p" head="2" dep="mod">Quatre</word>
-          <word id="2" lem="règle" postag="NC" morpho="g=f|n=p" head="5" dep="suj">règles</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="sécurité" postag="NC" morpho="g=f|n=s" head="3" dep="prep">sécurité</word>
-          <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="6" lem="également" postag="ADV" morpho="_" head="5" dep="mod">également</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="ats">d'</word>
-          <word id="8" lem="application" postag="NC" morpho="g=f|n=s" head="7" dep="prep">application</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="5" dep="mod">en</word>
-          <word id="10" lem="tout" postag="DET" morpho="g=m|n=s" head="11" dep="det">tout</word>
-          <word id="11" lem="temps" postag="NC" morpho="g=m" head="9" dep="prep">temps</word>
-          <word id="12" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
-          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-          <word id="14" lem="champ" postag="NC" morpho="g=m|n=s" head="12" dep="prep">champ</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="tir" postag="NC" morpho="g=m|n=s" head="15" dep="prep">tir</word>
-          <word id="17" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="arme" postag="NC" morpho="g=f|n=s" head="5" dep="suj">arme</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="aux_pass">est</word>
-          <word id="4" lem="toujours" postag="ADV" morpho="_" head="5" dep="mod">toujours</word>
-          <word id="5" lem="considérer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">considérée</word>
-          <word id="6" lem="comme" postag="P" morpho="_" head="5" dep="ats">comme</word>
-          <word id="7" lem="charger" postag="VPP" morpho="g=f|n=s|t=past" head="6" dep="prep">chargée</word>
-          <word id="8" lem="jusqu'à_ce_que" postag="CS" morpho="_" head="5" dep="mod">jusqu'à_ce_que</word>
-          <word id="9" lem="vous" postag="CLS" morpho="n=p|p=2" head="12" dep="suj">vous</word>
-          <word id="10" lem="être" postag="VS" morpho="n=p|p=2|t=pst" head="12" dep="aux_pass">soyez</word>
-          <word id="11" lem="personnellement" postag="ADV" morpho="_" head="12" dep="mod">personnellement</word>
-          <word id="12" lem="assurer" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="sub">assuré</word>
-          <word id="13" lem="de" postag="P+D" morpho="g=m|n=s" head="12" dep="de_obj">du</word>
-          <word id="14" lem="contraire" postag="NC" morpho="g=m|n=s" head="13" dep="prep">contraire</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="canon" postag="NC" morpho="g=m|n=s" head="4" dep="suj">canon</word>
-          <word id="3" lem="ne" postag="ADV" morpho="_" head="4" dep="mod">ne</word>
-          <word id="4" lem="devoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">doit</word>
-          <word id="5" lem="jamais" postag="ADV" morpho="_" head="4" dep="mod">jamais</word>
-          <word id="6" lem="être" postag="VINF" morpho="_" head="7" dep="aux_pass">être</word>
-          <word id="7" lem="diriger" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="obj">dirigé</word>
-          <word id="8" lem="vers" postag="P" morpho="_" head="7" dep="mod">vers</word>
-          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
-          <word id="10" lem="cible" postag="NC" morpho="g=f|n=s" head="8" dep="prep">cible</word>
-          <word id="11" lem="que" postag="PROREL" morpho="_" head="14" dep="obj">que</word>
-          <word id="12" lem="l'on" postag="CLS" morpho="n=s|p=3" head="14" dep="suj">l'on</word>
-          <word id="13" lem="ne" postag="ADV" morpho="_" head="14" dep="mod">ne</word>
-          <word id="14" lem="vouloir" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="mod_rel">veut</word>
-          <word id="15" lem="pas" postag="ADV" morpho="_" head="14" dep="mod">pas</word>
-          <word id="16" lem="détruire" postag="VINF" morpho="_" head="14" dep="obj">détruire</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="index" postag="NC" morpho="g=m" head="4" dep="suj">index</word>
-          <word id="3" lem="ne" postag="ADV" morpho="_" head="4" dep="mod">ne</word>
-          <word id="4" lem="devoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">doit</word>
-          <word id="5" lem="être" postag="VINF" morpho="_" head="6" dep="aux_pass">être</word>
-          <word id="6" lem="poser" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="obj">posé</word>
-          <word id="7" lem="sur" postag="P" morpho="_" head="6" dep="mod">sur</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="détente" postag="NC" morpho="g=f|n=s" head="7" dep="prep">détente</word>
-          <word id="10" lem="que" postag="PROREL" morpho="_" head="0" dep="_">que</word>
-          <word id="11" lem="lorsque" postag="CS" morpho="_" head="0" dep="_">lorsque</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-          <word id="13" lem="dispositif" postag="NC" morpho="g=m|n=s" head="17" dep="suj">dispositif</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="visée" postag="NC" morpho="g=f|n=s" head="14" dep="prep">visée</word>
-          <word id="16" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="17" dep="aux_pass">est</word>
-          <word id="17" lem="aligner" postag="VPP" morpho="g=m|n=s|t=past" head="11" dep="sub">aligné</word>
-          <word id="18" lem="sur" postag="P" morpho="_" head="17" dep="p_obj">sur</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="cible" postag="NC" morpho="g=f|n=s" head="18" dep="prep">cible</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="toujours" postag="ADV" morpho="_" head="2" dep="mod">Toujours</word>
-          <word id="2" lem="être" postag="VINF" morpho="_" head="0" dep="root">être</word>
-          <word id="3" lem="sûr" postag="ADJ" morpho="g=m|n=s" head="2" dep="ats">sûr</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="mod">de</word>
-          <word id="5" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="6" dep="det">sa</word>
-          <word id="6" lem="cible" postag="NC" morpho="g=f|n=s" head="4" dep="prep">cible</word>
-          <word id="7" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="tireur" postag="NC" morpho="g=m|n=s" head="10" dep="suj">tireur</word>
-          <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="2" dep="mod">est</word>
-          <word id="11" lem="responsable" postag="ADJ" morpho="n=s" head="10" dep="ats">responsable</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="de_obj">de</word>
-          <word id="13" lem="chaque" postag="DET" morpho="n=s" head="14" dep="det">chaque</word>
-          <word id="14" lem="coup" postag="NC" morpho="g=m|n=s" head="12" dep="prep">coup</word>
-          <word id="15" lem="que" postag="PROREL" morpho="_" head="17" dep="obj">qu'</word>
-          <word id="16" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="17" dep="suj">il</word>
-          <word id="17" lem="lâcher" postag="V" morpho="n=s|p=13|t=pst" head="14" dep="mod_rel">lâche</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-        <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="aux_tps">est</word>
-        <word id="3" lem="recommander" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">recommandé</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">de</word>
-        <word id="5" lem="porter" postag="VINF" morpho="_" head="4" dep="prep">porter</word>
-        <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-        <word id="7" lem="matériel" postag="NC" morpho="g=m|n=s" head="5" dep="obj">matériel</word>
-        <word id="8" lem="suivant" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">suivant</word>
-        <word id="9" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
-        <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-        <word id="11" lem="champ" postag="NC" morpho="g=m|n=s" head="9" dep="prep">champ</word>
-        <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-        <word id="13" lem="tir" postag="NC" morpho="g=m|n=s" head="12" dep="prep">tir</word>
-        <word id="14" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">Des</word>
-          <word id="2" lem="bouchon" postag="NC" morpho="g=m|n=p" head="0" dep="root">bouchons</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="casque" postag="NC" morpho="g=m|n=s" head="3" dep="dep_coord">casque</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="protection" postag="NC" morpho="g=f|n=s" head="6" dep="prep">protection</word>
-          <word id="8" lem="contre" postag="P" morpho="_" head="2" dep="dep">contre</word>
-          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-          <word id="10" lem="bruit" postag="NC" morpho="g=m|n=s" head="8" dep="prep">bruit</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">Des</word>
-          <word id="2" lem="lunette" postag="NC" morpho="g=f|n=p" head="0" dep="_">lunettes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="tir" postag="NC" morpho="g=m|n=s" head="3" dep="prep">tir</word>
-          <word id="5" lem="afin_de" postag="P" morpho="_" head="2" dep="dep">afin_de</word>
-          <word id="6" lem="protéger" postag="VINF" morpho="_" head="5" dep="prep">protéger</word>
-          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
-          <word id="8" lem="oeil" postag="NC" morpho="g=m|n=p" head="6" dep="obj">yeux</word>
-          <word id="9" lem="contre" postag="P" morpho="_" head="6" dep="mod">contre</word>
-          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-          <word id="11" lem="douille" postag="NC" morpho="g=f|n=p" head="9" dep="prep">douilles</word>
-          <word id="12" lem="éjecter" postag="VPP" morpho="g=f|n=p|t=past" head="11" dep="mod">éjectées</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
-      <document>Champ_de_tir.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="deux" postag="ADJ" morpho="n=p" head="2" dep="mod">Quatre</word>
-        <word id="2" lem="règle" postag="NC" morpho="g=f|n=p" head="5" dep="suj">règles</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="sécurité" postag="NC" morpho="g=f|n=s" head="3" dep="prep">sécurité</word>
-        <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-        <word id="6" lem="également" postag="ADV" morpho="_" head="5" dep="mod">également</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="5" dep="ats">d'</word>
-        <word id="8" lem="application" postag="NC" morpho="g=f|n=s" head="7" dep="prep">application</word>
-        <word id="9" lem="en" postag="P" morpho="_" head="5" dep="mod">en</word>
-        <word id="10" lem="tout" postag="DET" morpho="g=m|n=s" head="11" dep="det">tout</word>
-        <word id="11" lem="temps" postag="NC" morpho="g=m" head="9" dep="prep">temps</word>
-        <word id="12" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
-        <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-        <word id="14" lem="champ" postag="NC" morpho="g=m|n=s" head="12" dep="prep">champ</word>
-        <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-        <word id="16" lem="tir" postag="NC" morpho="g=m|n=s" head="15" dep="prep">tir</word>
-        <word id="17" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
-      <document>Champ_de_tir.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="arme" postag="NC" morpho="g=f|n=s" head="5" dep="suj">arme</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="aux_pass">est</word>
-          <word id="4" lem="toujours" postag="ADV" morpho="_" head="5" dep="mod">toujours</word>
-          <word id="5" lem="considérer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">considérée</word>
-          <word id="6" lem="comme" postag="P" morpho="_" head="5" dep="ats">comme</word>
-          <word id="7" lem="charger" postag="VPP" morpho="g=f|n=s|t=past" head="6" dep="prep">chargée</word>
-          <word id="8" lem="jusqu'à_ce_que" postag="CS" morpho="_" head="5" dep="mod">jusqu'à_ce_que</word>
-          <word id="9" lem="vous" postag="CLS" morpho="n=p|p=2" head="12" dep="suj">vous</word>
-          <word id="10" lem="être" postag="VS" morpho="n=p|p=2|t=pst" head="12" dep="aux_pass">soyez</word>
-          <word id="11" lem="personnellement" postag="ADV" morpho="_" head="12" dep="mod">personnellement</word>
-          <word id="12" lem="assurer" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="sub">assuré</word>
-          <word id="13" lem="de" postag="P+D" morpho="g=m|n=s" head="12" dep="de_obj">du</word>
-          <word id="14" lem="contraire" postag="NC" morpho="g=m|n=s" head="13" dep="prep">contraire</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="canon" postag="NC" morpho="g=m|n=s" head="4" dep="suj">canon</word>
-          <word id="3" lem="ne" postag="ADV" morpho="_" head="4" dep="mod">ne</word>
-          <word id="4" lem="devoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">doit</word>
-          <word id="5" lem="jamais" postag="ADV" morpho="_" head="4" dep="mod">jamais</word>
-          <word id="6" lem="être" postag="VINF" morpho="_" head="7" dep="aux_pass">être</word>
-          <word id="7" lem="diriger" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="obj">dirigé</word>
-          <word id="8" lem="vers" postag="P" morpho="_" head="7" dep="mod">vers</word>
-          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
-          <word id="10" lem="cible" postag="NC" morpho="g=f|n=s" head="8" dep="prep">cible</word>
-          <word id="11" lem="que" postag="PROREL" morpho="_" head="14" dep="obj">que</word>
-          <word id="12" lem="l'on" postag="CLS" morpho="n=s|p=3" head="14" dep="suj">l'on</word>
-          <word id="13" lem="ne" postag="ADV" morpho="_" head="14" dep="mod">ne</word>
-          <word id="14" lem="vouloir" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="mod_rel">veut</word>
-          <word id="15" lem="pas" postag="ADV" morpho="_" head="14" dep="mod">pas</word>
-          <word id="16" lem="détruire" postag="VINF" morpho="_" head="14" dep="obj">détruire</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="index" postag="NC" morpho="g=m" head="4" dep="suj">index</word>
-          <word id="3" lem="ne" postag="ADV" morpho="_" head="4" dep="mod">ne</word>
-          <word id="4" lem="devoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">doit</word>
-          <word id="5" lem="être" postag="VINF" morpho="_" head="6" dep="aux_pass">être</word>
-          <word id="6" lem="poser" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="obj">posé</word>
-          <word id="7" lem="sur" postag="P" morpho="_" head="6" dep="mod">sur</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="détente" postag="NC" morpho="g=f|n=s" head="7" dep="prep">détente</word>
-          <word id="10" lem="que" postag="PROREL" morpho="_" head="0" dep="_">que</word>
-          <word id="11" lem="lorsque" postag="CS" morpho="_" head="0" dep="_">lorsque</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-          <word id="13" lem="dispositif" postag="NC" morpho="g=m|n=s" head="17" dep="suj">dispositif</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="visée" postag="NC" morpho="g=f|n=s" head="14" dep="prep">visée</word>
-          <word id="16" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="17" dep="aux_pass">est</word>
-          <word id="17" lem="aligner" postag="VPP" morpho="g=m|n=s|t=past" head="11" dep="sub">aligné</word>
-          <word id="18" lem="sur" postag="P" morpho="_" head="17" dep="p_obj">sur</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="cible" postag="NC" morpho="g=f|n=s" head="18" dep="prep">cible</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="toujours" postag="ADV" morpho="_" head="2" dep="mod">Toujours</word>
-          <word id="2" lem="être" postag="VINF" morpho="_" head="0" dep="root">être</word>
-          <word id="3" lem="sûr" postag="ADJ" morpho="g=m|n=s" head="2" dep="ats">sûr</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="mod">de</word>
-          <word id="5" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="6" dep="det">sa</word>
-          <word id="6" lem="cible" postag="NC" morpho="g=f|n=s" head="4" dep="prep">cible</word>
-          <word id="7" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="tireur" postag="NC" morpho="g=m|n=s" head="10" dep="suj">tireur</word>
-          <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="2" dep="mod">est</word>
-          <word id="11" lem="responsable" postag="ADJ" morpho="n=s" head="10" dep="ats">responsable</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="de_obj">de</word>
-          <word id="13" lem="chaque" postag="DET" morpho="n=s" head="14" dep="det">chaque</word>
-          <word id="14" lem="coup" postag="NC" morpho="g=m|n=s" head="12" dep="prep">coup</word>
-          <word id="15" lem="que" postag="PROREL" morpho="_" head="17" dep="obj">qu'</word>
-          <word id="16" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="17" dep="suj">il</word>
-          <word id="17" lem="lâcher" postag="V" morpho="n=s|p=13|t=pst" head="14" dep="mod_rel">lâche</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
-      <span begin="1" end="9" />
-      <text>Sécurité</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
-      <document>Champ_de_tir.html</document>
-    </metadata>
-    <SEval type="items" idSE="0">
-      <span begin="10" end="211" id="0" />
-      <text id="0">Il est recommandé de porter le matériel suivant sur un champ de tir :
-Des bouchons ou un casque de protection contre le bruit
-Des lunettes de tir afin de protéger les yeux contre les douilles éjectées.</text>
-      <span begin="211" end="681" id="1" />
-      <text id="1">Quatre règles de sécurité sont également d'application en tout temps sur un champ de tir :
-Une arme est toujours considérée comme chargée jusqu'à ce que vous soyez personnellement assuré du contraire.
-Le canon ne doit jamais être dirigé vers une cible que l'on ne veut pas détruire.
-L'index ne doit être posé sur la détente que lorsque le dispositif de visée est aligné sur la cible.
-Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il lâche.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
-      <document>Champ_de_tir.html</document>
-    </metadata>
-    <SEval type="primer" idSE="1">
       <span begin="1" end="70" />
       <text>Il est recommandé de porter le matériel suivant sur un champ de tir :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="items" idSE="1">
+    <SEval type="items" idSE="0">
       <span begin="71" end="126" id="0" />
       <text id="0">Des bouchons ou un casque de protection contre le bruit</text>
       <span begin="127" end="202" id="1" />
@@ -477,24 +106,24 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="primer" idSE="2">
+    <SEval type="primer" idSE="1">
       <span begin="1" end="91" />
       <text>Quatre règles de sécurité sont également d'application en tout temps sur un champ de tir :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="items" idSE="2">
+    <SEval type="items" idSE="1">
       <span begin="92" end="201" id="0" />
       <text id="0">Une arme est toujours considérée comme chargée jusqu'à ce que vous soyez personnellement assuré du contraire.</text>
       <span begin="202" end="283" id="1" />
@@ -507,24 +136,24 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
       <span begin="29" end="40" id="0" />
       <text id="0">le matériel</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
       <span begin="71" end="83" id="0" />
       <text id="0">Des bouchons</text>
       <span begin="87" end="110" id="1" />
@@ -533,108 +162,108 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
       <span begin="127" end="146" id="0" />
       <text id="0">Des lunettes de tir</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
       <span begin="49" end="68" id="0" />
       <text id="0">sur un champ de tir</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
+    <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
       <span begin="41" end="48" id="0" />
       <text id="0">suivant</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
       <span begin="1" end="26" id="0" />
       <text id="0">Quatre règles de sécurité</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="92" end="200" id="0" />
       <text id="0">Une arme est toujours considérée comme chargée jusqu'à ce que vous soyez personnellement assuré du contraire</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
       <span begin="202" end="282" id="0" />
       <text id="0">Le canon ne doit jamais être dirigé vers une cible que l'on ne veut pas détruire</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
       <span begin="284" end="383" id="0" />
       <text id="0">L'index ne doit être posé sur la détente que lorsque le dispositif de visée est aligné sur la cible</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
       <span begin="385" end="469" id="0" />
       <text id="0">Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il lâche</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
       <span begin="70" end="89" id="0" />
       <text id="0">sur un champ de tir</text>
     </SEval>
@@ -642,8 +271,8 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -656,82 +285,11 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
-      <document>Champ_de_tir.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="0">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
-      <document>Champ_de_tir.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="0">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
-      <document>Champ_de_tir.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="1">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
-      <document>Champ_de_tir.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="1">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -740,12 +298,12 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="1">
+    <SEval type="axe_intentionnel" idSE="0">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -757,12 +315,12 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 12:29</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="1">
+    <SEval type="axe_semantique" idSE="0">
       <visee_ontologique value="1">
         <isA value="1" />
         <partOf value="0" />
@@ -783,12 +341,12 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="2">
+    <SEval type="axe_visuel" idSE="1">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -797,12 +355,12 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
+    <SEval type="axe_rhetorique" idSE="1">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -811,12 +369,12 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
+    <SEval type="axe_intentionnel" idSE="1">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -828,12 +386,12 @@ Toujours être sûr de sa cible : le tireur est responsable de chaque coup qu'il
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:48</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 12:30</date>
       <document>Champ_de_tir.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="2">
+    <SEval type="axe_semantique" idSE="1">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />

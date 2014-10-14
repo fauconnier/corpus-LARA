@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SE>
@@ -19,38 +19,17 @@ les parcs scientifiques, qui mélangent sciences et attractions (Océanopolis, C
 les parcs de miniatures, offrant au visiteur des reproductions à l'échelle miniature de bâtiments, de monuments ou de lieux populaires.</text>
       <span begin="136" end="1227" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:21</date>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SE>
       <id>1</id>
-      <text>En Amérique
-Principaux parcs de loisirs aux États-Unis
-Parcs Disney
-Parcs Universal Studios
-Parcs Cedar Fair
-Parcs Six Flags
-Principaux parcs de loisirs au Canada
-La Ronde</text>
-      <span begin="3010" end="3182" />
-    </SE>
-    <comment>on pourrait annoter que Etats-Unis et Canada se trouvent en Amérique ?</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
-      <document>Parc_de_loisirs.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
       <text>Principaux parcs de loisirs aux États-Unis
 Parcs Disney
 Parcs Universal Studios
@@ -63,396 +42,57 @@ Parcs Six Flags</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-        <word id="2" lem="distinguer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">distingue</word>
-        <word id="3" lem="des" postag="DET" morpho="n=p" head="4" dep="det">des</word>
-        <word id="4" lem="type" postag="NC" morpho="g=m|n=p" head="2" dep="obj">types</word>
-        <word id="5" lem="particulier" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">particuliers</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-        <word id="7" lem="parc" postag="NC" morpho="g=m|n=s" head="6" dep="prep">parc</word>
-        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-        <word id="9" lem="loisir" postag="NC" morpho="g=m|n=p" head="8" dep="prep">loisirs</word>
-        <word id="10" lem="qui" postag="PROREL" morpho="n=s" head="11" dep="suj">qui</word>
-        <word id="11" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="4" dep="mod_rel">sont</word>
-        <word id="12" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="loisir" postag="NC" morpho="g=m|n=p" head="3" dep="prep">loisirs</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">d'</word>
-          <word id="7" lem="attraction" postag="NC" morpho="g=f|n=p" head="6" dep="prep">attractions</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="10" lem="modèle" postag="NC" morpho="g=m|n=s" head="9" dep="prep">modèle</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="fête" postag="NC" morpho="g=f|n=p" head="11" dep="prep">fêtes</word>
-          <word id="13" lem="forain" postag="ADJ" morpho="g=f|n=p" head="12" dep="mod">foraines</word>
-          <word id="14" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="15" lem="proposer" postag="VPR" morpho="t=pst" head="2" dep="mod">proposant</word>
-          <word id="16" lem="des" postag="DET" morpho="n=p" head="17" dep="det">des</word>
-          <word id="17" lem="manège" postag="NC" morpho="g=m|n=p" head="15" dep="obj">manèges</word>
-          <word id="18" lem="ou" postag="CC" morpho="_" head="17" dep="coord">ou</word>
-          <word id="19" lem="des" postag="DET" morpho="n=p" head="20" dep="det">des</word>
-          <word id="20" lem="attraction" postag="NC" morpho="g=f|n=p" head="18" dep="dep_coord">attractions</word>
-          <word id="21" lem="qui" postag="PROREL" morpho="n=s" head="22" dep="suj">qui</word>
-          <word id="22" lem="former" postag="V" morpho="n=p|p=3|t=pst" head="17" dep="mod_rel">forment</word>
-          <word id="23" lem="l'" postag="DET" morpho="n=s" head="24" dep="det">l'</word>
-          <word id="24" lem="équivalent" postag="NC" morpho="g=m|n=s" head="22" dep="obj">équivalent</word>
-          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">d'</word>
-          <word id="26" lem="une" postag="DET" morpho="g=f|n=s" head="27" dep="det">une</word>
-          <word id="27" lem="fête" postag="NC" morpho="g=f|n=s" head="25" dep="prep">fête</word>
-          <word id="28" lem="forain" postag="ADJ" morpho="g=f|n=s" head="27" dep="mod">foraine</word>
-          <word id="29" lem="sédentaire" postag="ADJ" morpho="n=s" head="27" dep="mod">sédentaire</word>
-          <word id="30" lem=";" postag="PONCT" morpho="_" head="17" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="12" dep="suj">parcs</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="loisir" postag="NC" morpho="g=m|n=p" head="3" dep="prep">loisirs</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="thème" postag="NC" morpho="g=m|n=p" head="5" dep="prep">thèmes</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="8" lem="où" postag="PROREL" morpho="_" head="12" dep="mod">où</word>
-          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-          <word id="10" lem="visiteur" postag="NC" morpho="g=m|n=s" head="12" dep="suj">visiteur</word>
-          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="12" dep="aux_pass">est</word>
-          <word id="12" lem="immerger" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">immergé</word>
-          <word id="13" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
-          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
-          <word id="15" lem="thème" postag="NC" morpho="g=m|n=s" head="13" dep="prep">thème</word>
-          <word id="16" lem="donner" postag="VPP" morpho="g=m|n=s|t=past" head="15" dep="mod">donné</word>
-          <word id="17" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-          <word id="18" lem="cinéma" postag="NC" morpho="g=m|n=s" head="15" dep="mod">cinéma</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="20" lem="far" postag="NC" morpho="g=m|n=s" head="15" dep="mod">far</word>
-          <word id="21" lem="_" postag="NPP" morpho="_" head="20" dep="mod">west</word>
-          <word id="22" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="23" lem="fantaisie" postag="NC" morpho="g=f|n=s" head="15" dep="mod">fantaisie</word>
-          <word id="24" lem="..." postag="PONCT" morpho="_" head="12" dep="ponct">...</word>
-          <word id="25" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="26" lem="à" postag="P+D" morpho="g=m|n=s" head="12" dep="mod">au</word>
-          <word id="27" lem="moyen" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">moyen</word>
-          <word id="28" lem="notamment" postag="ADV" morpho="_" head="0" dep="_">notamment</word>
-          <word id="29" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="30" lem="décor" postag="NC" morpho="g=m|n=p" head="29" dep="prep">décors</word>
-          <word id="31" lem="," postag="PONCT" morpho="_" head="29" dep="coord">,</word>
-          <word id="32" lem="de" postag="P" morpho="_" head="31" dep="dep_coord">de</word>
-          <word id="33" lem="musique" postag="NC" morpho="g=f|n=s" head="32" dep="prep">musique</word>
-          <word id="34" lem="..." postag="PONCT" morpho="_" head="29" dep="ponct">...</word>
-          <word id="35" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
-          <word id="3" lem="animalier" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">animaliers</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="6" lem="parc" postag="NC" morpho="g=m|n=p" head="5" dep="dep_coord">parcs</word>
-          <word id="7" lem="zoologique" postag="ADJ" morpho="n=p" head="6" dep="mod">zoologiques</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="10" lem="qui" postag="PROREL" morpho="n=s" head="11" dep="suj">qui</word>
-          <word id="11" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">peuvent</word>
-          <word id="12" lem="mélanger" postag="VINF" morpho="_" head="11" dep="obj">mélanger</word>
-          <word id="13" lem="zoo" postag="NC" morpho="g=m|n=s" head="12" dep="obj">zoo</word>
-          <word id="14" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
-          <word id="15" lem="attraction" postag="NC" morpho="g=f|n=p" head="14" dep="dep_coord">attractions</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="17" lem="souvent" postag="ADV" morpho="_" head="2" dep="mod">souvent</word>
-          <word id="18" lem="sur" postag="P" morpho="_" head="2" dep="dep">sur</word>
-          <word id="19" lem="le" postag="DET" morpho="g=m|n=s" head="20" dep="det">le</word>
-          <word id="20" lem="thème" postag="NC" morpho="g=m|n=s" head="18" dep="prep">thème</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
-          <word id="22" lem="la" postag="DET" morpho="g=f|n=s" head="23" dep="det">la</word>
-          <word id="23" lem="nature" postag="NC" morpho="g=f|n=s" head="21" dep="prep">nature</word>
-          <word id="24" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="25" lem="des" postag="DET" morpho="n=p" head="26" dep="det">des</word>
-          <word id="26" lem="animal" postag="NC" morpho="g=m|n=p" head="2" dep="mod">animaux</word>
-          <word id="27" lem="..." postag="PONCT" morpho="_" head="2" dep="ponct">...</word>
-          <word id="28" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
-          <word id="3" lem="aquatique" postag="ADJ" morpho="n=p" head="2" dep="mod">aquatiques</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="ne" postag="ADV" morpho="_" head="6" dep="mod">ne</word>
-          <word id="6" lem="comporter" postag="VPR" morpho="t=pst" head="2" dep="mod">comportant</word>
-          <word id="7" lem="que" postag="ADV" morpho="_" head="6" dep="mod">que</word>
-          <word id="8" lem="des" postag="DET" morpho="n=p" head="9" dep="det">des</word>
-          <word id="9" lem="activité" postag="NC" morpho="g=f|n=p" head="6" dep="obj">activités</word>
-          <word id="10" lem="aquatique" postag="ADJ" morpho="n=p" head="9" dep="mod">aquatiques</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="piscine" postag="NC" morpho="g=f|n=p" head="9" dep="mod">piscines</word>
-          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="dep">à</word>
-          <word id="14" lem="vague" postag="NC" morpho="n=p" head="13" dep="prep">vagues</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="16" lem="piscine" postag="NC" morpho="g=f|n=p" head="9" dep="mod">piscines</word>
-          <word id="17" lem="munir" postag="VPP" morpho="g=f|n=p|t=past" head="16" dep="mod">munies</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="de_obj">de</word>
-          <word id="19" lem="jeu" postag="NC" morpho="g=m|n=p" head="18" dep="prep">jeux</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
-          <word id="21" lem="eau" postag="NC" morpho="g=f|n=p" head="20" dep="prep">eaux</word>
-          <word id="22" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="24" lem="toboggan" postag="NC" morpho="g=m|n=p" head="23" dep="prep">toboggans</word>
-          <word id="25" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="26" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="27" lem="différents" postag="DET" morpho="g=m|n=p" head="28" dep="det">différents</word>
-          <word id="28" lem="bassin" postag="NC" morpho="g=m|n=p" head="26" dep="prep">bassins</word>
-          <word id="29" lem="..." postag="PONCT" morpho="_" head="2" dep="ponct">...</word>
-          <word id="30" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
-          <word id="3" lem="forestier" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">forestiers</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
-          <word id="6" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">peuvent</word>
-          <word id="7" lem="proposer" postag="VINF" morpho="_" head="6" dep="obj">proposer</word>
-          <word id="8" lem="des" postag="DET" morpho="n=p" head="9" dep="det">des</word>
-          <word id="9" lem="activité" postag="NC" morpho="g=f|n=p" head="7" dep="obj">activités</word>
-          <word id="10" lem="acrobatique" postag="ADJ" morpho="n=p" head="9" dep="mod">acrobatiques</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="12" dep="prep">accrobranche</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
-          <word id="18" lem="tyrolienne" postag="NC" morpho="g=f|n=s" head="16" dep="prep">tyrolienne</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="20" lem="des" postag="DET" morpho="n=p" head="21" dep="det">des</word>
-          <word id="21" lem="parcours" postag="NC" morpho="g=m" head="0" dep="_">parcours</word>
-          <word id="22" lem="aventure" postag="NC" morpho="g=f|n=p" head="21" dep="mod">aventures</word>
-          <word id="23" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="24" lem="de" postag="P+D" morpho="g=m|n=s" head="21" dep="dep">du</word>
-          <word id="25" lem="tir" postag="NC" morpho="g=m|n=s" head="24" dep="prep">tir</word>
-          <word id="26" lem="à" postag="P" morpho="_" head="21" dep="dep">à</word>
-          <word id="27" lem="l'" postag="DET" morpho="n=s" head="28" dep="det">l'</word>
-          <word id="28" lem="arc" postag="NC" morpho="g=m|n=s" head="26" dep="prep">arc</word>
-          <word id="29" lem="..." postag="PONCT" morpho="_" head="21" dep="ponct">...</word>
-          <word id="30" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
-          <word id="3" lem="scientifique" postag="ADJ" morpho="n=p" head="2" dep="mod">scientifiques</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
-          <word id="6" lem="mélanger" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">mélangent</word>
-          <word id="7" lem="science" postag="NC" morpho="g=f|n=p" head="6" dep="obj">sciences</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="9" lem="attraction" postag="NC" morpho="g=f|n=p" head="8" dep="dep_coord">attractions</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Océanopolis</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Cité</word>
-          <word id="14" lem="de" postag="P+D" morpho="n=p" head="7" dep="dep">des</word>
-          <word id="15" lem="science" postag="NC" morpho="g=f|n=p" head="14" dep="prep">sciences</word>
-          <word id="16" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep_coord">de</word>
-          <word id="18" lem="l'" postag="DET" morpho="n=s" head="19" dep="det">l'</word>
-          <word id="19" lem="industrie" postag="NC" morpho="g=f|n=s" head="17" dep="prep">industrie</word>
-          <word id="20" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="21" lem="..." postag="PONCT" morpho="_" head="2" dep="ponct">...</word>
-          <word id="22" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="miniature" postag="NC" morpho="g=f|n=p" head="3" dep="prep">miniatures</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="offrir" postag="VPR" morpho="t=pst" head="2" dep="mod">offrant</word>
-          <word id="7" lem="à" postag="P+D" morpho="g=m|n=s" head="6" dep="a_obj">au</word>
-          <word id="8" lem="visiteur" postag="NC" morpho="g=m|n=s" head="7" dep="prep">visiteur</word>
-          <word id="9" lem="de" postag="P+D" morpho="n=p" head="8" dep="dep">des</word>
-          <word id="10" lem="reproduction" postag="NC" morpho="g=f|n=p" head="9" dep="prep">reproductions</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="6" dep="mod">à</word>
-          <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
-          <word id="13" lem="échelle" postag="NC" morpho="g=f|n=s" head="11" dep="prep">échelle</word>
-          <word id="14" lem="miniature" postag="ADJ" morpho="n=s" head="13" dep="mod">miniature</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="16" lem="bâtiment" postag="NC" morpho="g=m|n=p" head="15" dep="prep">bâtiments</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="19" lem="monument" postag="NC" morpho="g=m|n=p" head="18" dep="prep">monuments</word>
-          <word id="20" lem="ou" postag="CC" morpho="_" head="18" dep="coord">ou</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep_coord">de</word>
-          <word id="22" lem="lieu" postag="NC" morpho="g=m|n=p" head="21" dep="prep">lieux</word>
-          <word id="23" lem="populaire" postag="ADJ" morpho="n=p" head="22" dep="mod">populaires</word>
-          <word id="24" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:21</date>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-        <word id="2" lem="Amérique" postag="NPP" morpho="g=f|n=s" head="1" dep="prep">Amérique</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:21</date>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="principal" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">Principaux</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="loisir" postag="NC" morpho="g=m|n=p" head="3" dep="prep">loisirs</word>
-          <word id="5" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="6" lem="États-Unis_d'Amérique" postag="NPP" morpho="g=m|n=p" head="5" dep="prep">États-Unis</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Parcs</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Disney</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Parcs</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Universal</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Studios</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Parcs</word>
-          <word id="2" lem="Cedar" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Cedar</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Fair</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Parcs</word>
-          <word id="2" lem="deux" postag="ADJ" morpho="n=p" head="1" dep="mod">Six</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="1" dep="mod">Flags</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="principal" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">Principaux</word>
-          <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="loisir" postag="NC" morpho="g=m|n=p" head="3" dep="prep">loisirs</word>
-          <word id="5" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
-          <word id="6" lem="Canada" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Canada</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Ronde</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
-      <document>Parc_de_loisirs.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="principal" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">Principaux</word>
-        <word id="2" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">parcs</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="loisir" postag="NC" morpho="g=m|n=p" head="3" dep="prep">loisirs</word>
-        <word id="5" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-        <word id="6" lem="États-Unis_d'Amérique" postag="NPP" morpho="g=m|n=p" head="5" dep="prep">États-Unis</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
-      <document>Parc_de_loisirs.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Parcs</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Disney</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Parcs</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Universal</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Studios</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Parcs</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Universal</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Studios</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Parcs</word>
-          <word id="2" lem="Cedar" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Cedar</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Fair</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="parc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Parcs</word>
-          <word id="2" lem="deux" postag="ADJ" morpho="n=p" head="1" dep="mod">Six</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="1" dep="mod">Flags</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -463,8 +103,8 @@ Parcs Six Flags</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -488,53 +128,22 @@ Parcs Six Flags</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:21</date>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
-      <span begin="1" end="12" />
-      <text>En Amérique</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 13:21</date>
-      <document>Parc_de_loisirs.html</document>
-    </metadata>
-    <SEval type="items" idSE="1">
-      <span begin="13" end="125" id="0" />
-      <text id="0">Principaux parcs de loisirs aux États-Unis
-Parcs Disney
-Parcs Universal Studios
-Parcs Cedar Fair
-Parcs Six Flags</text>
-      <span begin="126" end="173" id="1" />
-      <text id="1">Principaux parcs de loisirs au Canada
-La Ronde</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
-      <document>Parc_de_loisirs.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
       <span begin="1" end="43" />
       <text>Principaux parcs de loisirs aux États-Unis</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="items" idSE="2">
+    <SEval type="items" idSE="1">
       <span begin="44" end="56" id="0" />
       <text id="0">Parcs Disney</text>
       <span begin="57" end="80" id="1" />
@@ -549,8 +158,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -563,8 +172,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -575,8 +184,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -587,8 +196,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -599,8 +208,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -611,8 +220,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -623,8 +232,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -635,8 +244,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -647,8 +256,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -662,72 +271,72 @@ Parcs Cedar Fair</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
       <span begin="1" end="28" id="0" />
       <text id="0">Principaux parcs de loisirs</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="44" end="56" id="0" />
       <text id="0">Parcs Disney</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
       <span begin="57" end="80" id="0" />
       <text id="0">Parcs Universal Studios</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
       <span begin="81" end="97" id="0" />
       <text id="0">Parcs Cedar Fair</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
       <span begin="98" end="113" id="0" />
       <text id="0">Parcs Six Flags</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
       <span begin="29" end="43" id="0" />
       <text id="0">aux États-Unis</text>
     </SEval>
@@ -735,8 +344,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -749,8 +358,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -763,8 +372,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -780,8 +389,8 @@ Parcs Cedar Fair</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:33</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -807,7 +416,7 @@ Parcs Cedar Fair</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:21</date>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -821,81 +430,10 @@ Parcs Cedar Fair</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:21</date>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 13:21</date>
-      <document>Parc_de_loisirs.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="1">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 13:21</date>
-      <document>Parc_de_loisirs.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="1">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
-      <document>Parc_de_loisirs.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="2">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
-      <document>Parc_de_loisirs.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -904,12 +442,12 @@ Parcs Cedar Fair</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
+    <SEval type="axe_intentionnel" idSE="1">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -921,12 +459,12 @@ Parcs Cedar Fair</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:44</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 13:21</date>
       <document>Parc_de_loisirs.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="2">
+    <SEval type="axe_semantique" idSE="1">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />

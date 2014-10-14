@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SE>
@@ -12,7 +12,7 @@
       <text>En revanche, on parlera plutôt de mercenaires lorsque des hommes d'arme agissent au sein d'une unité combattante privée organisée, au service d'un État (on parle aussi d'unité paramilitaire), de terroristes ou de résistants (selon le point de vue et la tournure historique des évènements) lorsque des individus, organisés ou non, agissent de manière violente contre les pouvoirs institués (exemple: branche militaire de l'IRA, résistants FFI, du FLN, etc.).</text>
       <span begin="203" end="660" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
@@ -36,25 +36,11 @@ de personnels enrôlés par l'État par devoir civique, dans le cadre de la cons
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
-      <text>de personnels de carrière (il s'agit en général des cadres, sous-officiers et officiers) ;</text>
-      <span begin="798" end="888" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
       <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
     <SE>
-      <id>3</id>
+      <id>2</id>
       <text>Un militaire peut avoir une activité de terrain, de commandement. En effet, la mise en œuvre d'une armée nécessite une composante logistique et commandement militaire importante. On parle souvent d'échelons : échelon de commandement, échelon logistique, échelon opérationnel.</text>
       <span begin="1789" end="2064" />
     </SE>
@@ -62,13 +48,13 @@ de personnels enrôlés par l'État par devoir civique, dans le cadre de la cons
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
     <SE>
-      <id>4</id>
+      <id>3</id>
       <text>Parmi les emplois opérationnels, on distingue :
 le cavalier : membre de la cavalerie (à cheval autrefois, ce terme désignant aujourd'hui l'arme e)
 le fantassin (soldat à pied) : membre de l'infanterie
@@ -85,156 +71,39 @@ le gendarme, membre de la gendarmerie</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
     <SE>
-      <id>5</id>
+      <id>4</id>
       <text>Le coût global d'un militaire pour l'État qui l'emploie (solde, formation, nourriture, logement, assurance, matériels, retraite, pensions d'invalidité, etc.)</text>
       <span begin="2594" end="2751" />
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:26</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
-    <SE>
-      <id>6</id>
-      <text>Pour le soutien et le fonctionnement de base d'un militaire engagés en opérations extérieures, il faut en moyenne, toujours dans l'Union européenne, 16 militaires et 15 civils à domicile (35 militaires et 15 civils en Allemagne, 8 militaires et 2 civils en France, 9 militaires et 4 civils au Royaume-Uni)..</text>
-      <span begin="4088" end="4395" />
-    </SE>
-    <comment>SE de répartition</comment>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="en_revanche" postag="ADV" morpho="_" head="4" dep="mod">En_revanche</word>
-        <word id="2" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="3" lem="on" postag="CLS" morpho="n=s|p=3" head="4" dep="suj">on</word>
-        <word id="4" lem="parler" postag="V" morpho="n=s|p=3|t=fut" head="0" dep="root">parlera</word>
-        <word id="5" lem="plutôt" postag="ADV" morpho="_" head="4" dep="mod">plutôt</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="4" dep="de_obj">de</word>
-        <word id="7" lem="mercenaire" postag="NC" morpho="n=p" head="6" dep="prep">mercenaires</word>
-        <word id="8" lem="lorsque" postag="CS" morpho="_" head="4" dep="mod">lorsque</word>
-        <word id="9" lem="des" postag="DET" morpho="n=p" head="10" dep="det">des</word>
-        <word id="10" lem="homme" postag="NC" morpho="g=m|n=p" head="13" dep="suj">hommes</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">d'</word>
-        <word id="12" lem="arme" postag="NC" morpho="g=f|n=s" head="11" dep="prep">arme</word>
-        <word id="13" lem="agir" postag="V" morpho="n=p|p=3|t=pst" head="8" dep="sub">agissent</word>
-        <word id="14" lem="à" postag="P+D" morpho="g=m|n=s" head="13" dep="mod">au</word>
-        <word id="15" lem="sein" postag="NC" morpho="g=m|n=s" head="14" dep="prep">sein</word>
-        <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">d'</word>
-        <word id="17" lem="une" postag="DET" morpho="g=f|n=s" head="18" dep="det">une</word>
-        <word id="18" lem="unité" postag="NC" morpho="g=f|n=s" head="16" dep="prep">unité</word>
-        <word id="19" lem="combattant" postag="ADJ" morpho="g=f|n=s" head="18" dep="mod">combattante</word>
-        <word id="20" lem="priver" postag="VPP" morpho="g=f|n=s|t=past" head="18" dep="mod">privée</word>
-        <word id="21" lem="organiser" postag="VPP" morpho="g=f|n=s|t=past" head="18" dep="mod">organisée</word>
-        <word id="22" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-        <word id="23" lem="à" postag="P+D" morpho="g=m|n=s" head="21" dep="a_obj">au</word>
-        <word id="24" lem="service" postag="NC" morpho="g=m|n=s" head="23" dep="prep">service</word>
-        <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">d'</word>
-        <word id="26" lem="un" postag="DET" morpho="g=m|n=s" head="27" dep="det">un</word>
-        <word id="27" lem="État" postag="NC" morpho="g=m|n=s" head="25" dep="prep">État</word>
-        <word id="28" lem="(" postag="PONCT" morpho="_" head="13" dep="ponct">(</word>
-        <word id="29" lem="on" postag="CLS" morpho="n=s|p=3" head="30" dep="suj">on</word>
-        <word id="30" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="13" dep="mod">parle</word>
-        <word id="31" lem="aussi" postag="ADV" morpho="_" head="30" dep="mod">aussi</word>
-        <word id="32" lem="de" postag="P" morpho="_" head="30" dep="de_obj">d'</word>
-        <word id="33" lem="unité" postag="NC" morpho="g=f|n=s" head="32" dep="prep">unité</word>
-        <word id="34" lem="paramilitaire" postag="ADJ" morpho="n=s" head="33" dep="mod">paramilitaire</word>
-        <word id="35" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        <word id="36" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="37" lem="de" postag="P" morpho="_" head="4" dep="mod">de</word>
-        <word id="38" lem="terroriste" postag="NC" morpho="n=p" head="37" dep="prep">terroristes</word>
-        <word id="39" lem="ou" postag="CC" morpho="_" head="37" dep="coord">ou</word>
-        <word id="40" lem="de" postag="P" morpho="_" head="39" dep="dep_coord">de</word>
-        <word id="41" lem="résistant" postag="NC" morpho="g=m|n=p" head="40" dep="prep">résistants</word>
-        <word id="42" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-        <word id="43" lem="selon" postag="P" morpho="_" head="4" dep="mod">selon</word>
-        <word id="44" lem="le" postag="DET" morpho="g=m|n=s" head="45" dep="det">le</word>
-        <word id="45" lem="point" postag="NC" morpho="g=m|n=s" head="43" dep="prep">point</word>
-        <word id="46" lem="de" postag="P" morpho="_" head="45" dep="dep">de</word>
-        <word id="47" lem="vue" postag="NC" morpho="g=f|n=s" head="46" dep="prep">vue</word>
-        <word id="48" lem="et" postag="CC" morpho="_" head="45" dep="coord">et</word>
-        <word id="49" lem="la" postag="DET" morpho="g=f|n=s" head="50" dep="det">la</word>
-        <word id="50" lem="tournure" postag="NC" morpho="g=f|n=s" head="48" dep="dep_coord">tournure</word>
-        <word id="51" lem="historique" postag="ADJ" morpho="n=s" head="50" dep="mod">historique</word>
-        <word id="52" lem="de" postag="P+D" morpho="n=p" head="50" dep="dep">des</word>
-        <word id="53" lem="_" postag="NC" morpho="_" head="52" dep="prep">évènements</word>
-        <word id="54" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        <word id="55" lem="lorsque" postag="CS" morpho="_" head="4" dep="mod">lorsque</word>
-        <word id="56" lem="des" postag="DET" morpho="n=p" head="57" dep="det">des</word>
-        <word id="57" lem="individu" postag="NC" morpho="g=m|n=p" head="63" dep="suj">individus</word>
-        <word id="58" lem="," postag="PONCT" morpho="_" head="57" dep="ponct">,</word>
-        <word id="59" lem="organiser" postag="VPP" morpho="g=m|n=p|t=past" head="57" dep="mod">organisés</word>
-        <word id="60" lem="ou" postag="CC" morpho="_" head="59" dep="coord">ou</word>
-        <word id="61" lem="non" postag="ADV" morpho="_" head="60" dep="dep_coord">non</word>
-        <word id="62" lem="," postag="PONCT" morpho="_" head="63" dep="ponct">,</word>
-        <word id="63" lem="agir" postag="V" morpho="n=p|p=3|t=pst" head="55" dep="sub">agissent</word>
-        <word id="64" lem="de" postag="P" morpho="_" head="63" dep="de_obj">de</word>
-        <word id="65" lem="manière" postag="NC" morpho="g=f|n=s" head="64" dep="prep">manière</word>
-        <word id="66" lem="violent" postag="ADJ" morpho="g=f|n=s" head="65" dep="mod">violente</word>
-        <word id="67" lem="contre" postag="P" morpho="_" head="65" dep="dep">contre</word>
-        <word id="68" lem="les" postag="DET" morpho="n=p" head="69" dep="det">les</word>
-        <word id="69" lem="pouvoir" postag="NC" morpho="g=m|n=p" head="67" dep="prep">pouvoirs</word>
-        <word id="70" lem="instituer" postag="VPP" morpho="g=m|n=p|t=past" head="69" dep="mod">institués</word>
-        <word id="71" lem="(" postag="PONCT" morpho="_" head="65" dep="ponct">(</word>
-        <word id="72" lem="exemple" postag="NC" morpho="g=m|n=s" head="65" dep="mod">exemple</word>
-        <word id="73" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="branche" postag="NC" morpho="g=f|n=s" head="5" dep="suj">branche</word>
-          <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="1" dep="mod">militaire</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="le" postag="CLO" morpho="n=s|p=3" head="5" dep="obj">l'</word>
-          <word id="5" lem="aller" postag="V" morpho="n=s|p=3|t=fut" head="0" dep="root">IRA</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="résistant" postag="NC" morpho="g=m|n=p" head="0" dep="_">résistants</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">FFI</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P+D" morpho="g=m|n=s" head="0" dep="_">du</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="prep">FLN</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="mod_rel">etc.</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="root">)</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -244,16 +113,7 @@ le gendarme, membre de la gendarmerie</text>
       <date>1/01/13 11:41</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="force" postag="NC" morpho="g=f|n=p" head="5" dep="suj">forces</word>
-        <word id="3" lem="militaire" postag="ADJ" morpho="n=p" head="2" dep="mod">militaires</word>
-        <word id="4" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="5" dep="aux_pass">sont</word>
-        <word id="5" lem="constituer" postag="VPP" morpho="g=f|n=p|t=past" head="0" dep="root">constituées</word>
-        <word id="6" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -263,587 +123,95 @@ le gendarme, membre de la gendarmerie</text>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="2" lem="personnel" postag="NC" morpho="g=m|n=p" head="1" dep="prep">personnels</word>
-          <word id="3" lem="sous" postag="P" morpho="_" head="2" dep="dep">sous</word>
-          <word id="4" lem="contrat" postag="NC" morpho="g=m|n=s" head="3" dep="prep">contrat</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="volontaire" postag="ADJ" morpho="n=p" head="0" dep="_">volontaires</word>
-          <word id="7" lem="qui" postag="PROREL" morpho="n=s" head="9" dep="suj">qui</word>
-          <word id="8" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="9" dep="aux_tps">ont</word>
-          <word id="9" lem="choisir" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod_rel">choisi</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="obj">de</word>
-          <word id="11" lem="se" postag="CLR" morpho="p=3" head="12" dep="aff">s'</word>
-          <word id="12" lem="enrôler" postag="VINF" morpho="_" head="10" dep="prep">enrôler</word>
-          <word id="13" lem="pour" postag="P" morpho="_" head="12" dep="mod">pour</word>
-          <word id="14" lem="une" postag="DET" morpho="g=f|n=s" head="15" dep="det">une</word>
-          <word id="15" lem="durée" postag="NC" morpho="g=f|n=s" head="13" dep="prep">durée</word>
-          <word id="16" lem="déterminer" postag="ADJ" morpho="g=f|n=s|t=past" head="15" dep="mod">déterminée</word>
-          <word id="17" lem=";" postag="PONCT" morpho="_" head="6" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="8" dep="mod">de</word>
-          <word id="2" lem="personnel" postag="NC" morpho="g=m|n=p" head="1" dep="prep">personnels</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="carrière" postag="NC" morpho="g=f|n=s" head="3" dep="prep">carrière</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="6" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="8" dep="suj">il</word>
-          <word id="7" lem="se" postag="CLR" morpho="p=3" head="8" dep="aff">s'</word>
-          <word id="8" lem="agir" postag="V" morpho="n=s|p=3|t=past" head="0" dep="root">agit</word>
-          <word id="9" lem="en_général" postag="ADV" morpho="_" head="8" dep="mod">en_général</word>
-          <word id="10" lem="des" postag="DET" morpho="n=p" head="11" dep="det">des</word>
-          <word id="11" lem="cadre" postag="NC" morpho="g=m|n=p" head="8" dep="obj">cadres</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="13" lem="sous-officier" postag="NC" morpho="g=m|n=p" head="8" dep="mod">sous-officiers</word>
-          <word id="14" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
-          <word id="15" lem="officier" postag="NC" morpho="n=p" head="14" dep="dep_coord">officiers</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="17" lem=";" postag="PONCT" morpho="_" head="8" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="2" lem="personnel" postag="NC" morpho="g=m|n=p" head="1" dep="prep">personnels</word>
-          <word id="3" lem="enrôler" postag="VPP" morpho="g=m|n=p|t=past" head="2" dep="mod">enrôlés</word>
-          <word id="4" lem="par" postag="P" morpho="_" head="3" dep="p_obj">par</word>
-          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-          <word id="6" lem="État" postag="NC" morpho="g=m|n=s" head="4" dep="prep">État</word>
-          <word id="7" lem="par" postag="P" morpho="_" head="6" dep="dep">par</word>
-          <word id="8" lem="devoir" postag="NC" morpho="g=m|n=s" head="7" dep="prep">devoir</word>
-          <word id="9" lem="civique" postag="ADJ" morpho="n=s" head="8" dep="mod">civique</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="11" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-          <word id="13" lem="cadre" postag="NC" morpho="g=m|n=s" head="11" dep="prep">cadre</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-          <word id="16" lem="conscription" postag="NC" morpho="g=f|n=s" head="14" dep="prep">conscription</word>
-          <word id="17" lem="(" postag="PONCT" morpho="_" head="16" dep="ponct">(</word>
-          <word id="18" lem="service" postag="NC" morpho="g=m|n=s" head="16" dep="mod">service</word>
-          <word id="19" lem="militaire" postag="ADJ" morpho="n=s" head="18" dep="mod">militaire</word>
-          <word id="20" lem="obligatoire" postag="ADJ" morpho="n=s" head="18" dep="mod">obligatoire</word>
-          <word id="21" lem=")" postag="PONCT" morpho="_" head="16" dep="ponct">)</word>
-          <word id="22" lem=";" postag="PONCT" morpho="_" head="16" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="éventuellement" postag="ADV" morpho="_" head="0" dep="_">éventuellement</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="en_cas_de" postag="P" morpho="_" head="0" dep="_">en_cas_de</word>
-          <word id="4" lem="trouble" postag="NC" morpho="n=p" head="3" dep="prep">troubles</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">de</word>
-          <word id="7" lem="conflit" postag="NC" morpho="g=m|n=s" head="6" dep="prep">conflit</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="10" lem="personnel" postag="NC" morpho="g=m|n=p" head="9" dep="prep">personnels</word>
-          <word id="11" lem="enrôler" postag="VPP" morpho="g=m|n=p|t=past" head="10" dep="mod">enrôlés</word>
-          <word id="12" lem="sous" postag="P" morpho="_" head="11" dep="mod">sous</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="contrainte" postag="NC" morpho="g=f|n=s" head="12" dep="prep">contrainte</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="mobilisation" postag="NC" morpho="g=f|n=s" head="15" dep="prep">mobilisation</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="19" lem="sélectif" postag="ADJ" morpho="g=f|n=s" head="17" dep="mod">sélective</word>
-          <word id="20" lem="ou" postag="CC" morpho="_" head="19" dep="coord">ou</word>
-          <word id="21" lem="général" postag="ADJ" morpho="g=f|n=s" head="20" dep="dep_coord">générale</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
+      <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="de" postag="P" morpho="_" head="8" dep="mod">de</word>
-        <word id="2" lem="personnel" postag="NC" morpho="g=m|n=p" head="1" dep="prep">personnels</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="carrière" postag="NC" morpho="g=f|n=s" head="3" dep="prep">carrière</word>
-        <word id="5" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-        <word id="6" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="8" dep="suj">il</word>
-        <word id="7" lem="se" postag="CLR" morpho="p=3" head="8" dep="aff">s'</word>
-        <word id="8" lem="agir" postag="V" morpho="n=s|p=3|t=past" head="0" dep="root">agit</word>
-        <word id="9" lem="en_général" postag="ADV" morpho="_" head="8" dep="mod">en_général</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
+      <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
-          <word id="2" lem="cadre" postag="NC" morpho="g=m|n=p" head="0" dep="_">cadres</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="sous-officier" postag="NC" morpho="g=m|n=p" head="0" dep="_">sous-officiers</word>
-          <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="officier" postag="NC" morpho="n=p" head="0" dep="_">officiers</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="3" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:43</date>
+      <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">Un</word>
-        <word id="2" lem="militaire" postag="ADJ" morpho="n=s" head="3" dep="suj">militaire</word>
-        <word id="3" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="4" lem="avoir" postag="VINF" morpho="_" head="3" dep="obj">avoir</word>
-        <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-        <word id="6" lem="activité" postag="NC" morpho="g=f|n=s" head="4" dep="obj">activité</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-        <word id="8" lem="terrain" postag="NC" morpho="g=m|n=s" head="7" dep="prep">terrain</word>
-        <word id="9" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="10" lem="de" postag="P" morpho="_" head="4" dep="mod">de</word>
-        <word id="11" lem="commandement" postag="NC" morpho="g=m|n=s" head="10" dep="prep">commandement</word>
-        <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="en_effet" postag="ADV" morpho="_" head="10" dep="mod">En_effet</word>
-        <word id="2" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-        <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-        <word id="4" lem="mise" postag="NC" morpho="g=f|n=s" head="10" dep="suj">mise</word>
-        <word id="5" lem="en" postag="P" morpho="_" head="4" dep="dep">en</word>
-        <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="prep">œuvre</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-        <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-        <word id="9" lem="armée" postag="NC" morpho="g=f|n=s" head="7" dep="prep">armée</word>
-        <word id="10" lem="nécessiter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">nécessite</word>
-        <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="13" dep="det">une</word>
-        <word id="12" lem="composant" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">composante</word>
-        <word id="13" lem="logistique" postag="NC" morpho="g=f|n=s" head="10" dep="obj">logistique</word>
-        <word id="14" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
-        <word id="15" lem="commandement" postag="NC" morpho="g=m|n=s" head="14" dep="dep_coord">commandement</word>
-        <word id="16" lem="militaire" postag="ADJ" morpho="n=s" head="15" dep="mod">militaire</word>
-        <word id="17" lem="important" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">importante</word>
-        <word id="18" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-      </sentence>
-      <sentence id="3">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-        <word id="2" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
-        <word id="3" lem="souvent" postag="ADV" morpho="_" head="2" dep="mod">souvent</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="2" dep="de_obj">d'</word>
-        <word id="5" lem="échelon" postag="NC" morpho="g=m|n=p" head="4" dep="prep">échelons</word>
-        <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:43</date>
+      <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="2" lem="échelon" postag="NC" morpho="g=m|n=s" head="0" dep="_">échelon</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="commandement" postag="NC" morpho="g=m|n=s" head="3" dep="prep">commandement</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="échelon" postag="NC" morpho="g=m|n=s" head="0" dep="root">échelon</word>
-          <word id="2" lem="logistique" postag="ADJ" morpho="n=s" head="1" dep="mod">logistique</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="échelon" postag="NC" morpho="g=m|n=s" head="0" dep="root">échelon</word>
-          <word id="2" lem="opérationnel" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">opérationnel</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:44</date>
+      <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="parmi" postag="P" morpho="_" head="7" dep="mod">Parmi</word>
-        <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
-        <word id="3" lem="emploi" postag="NC" morpho="g=m|n=p" head="1" dep="prep">emplois</word>
-        <word id="4" lem="opérationnel" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">opérationnels</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-        <word id="6" lem="on" postag="CLS" morpho="n=s|p=3" head="7" dep="suj">on</word>
-        <word id="7" lem="distinguer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">distingue</word>
-        <word id="8" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:44</date>
+      <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="cavalier" postag="NC" morpho="g=m|n=s" head="0" dep="_">cavalier</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="membre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">membre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="cavalerie" postag="NC" morpho="g=f|n=s" head="5" dep="prep">cavalerie</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="10" lem="cheval" postag="NC" morpho="g=m|n=s" head="9" dep="prep">cheval</word>
-          <word id="11" lem="autrefois" postag="ADV" morpho="_" head="9" dep="mod">autrefois</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="13" lem="ce" postag="DET" morpho="g=m|n=s" head="14" dep="det">ce</word>
-          <word id="14" lem="terme" postag="NC" morpho="g=m|n=s" head="0" dep="_">terme</word>
-          <word id="15" lem="désigner" postag="VPR" morpho="t=pst" head="14" dep="mod">désignant</word>
-          <word id="16" lem="aujourd'hui" postag="ADV" morpho="_" head="15" dep="mod">aujourd'hui</word>
-          <word id="17" lem="l'" postag="DET" morpho="n=s" head="18" dep="det">l'</word>
-          <word id="18" lem="arme" postag="NC" morpho="g=f|n=s" head="15" dep="obj">arme</word>
-          <word id="19" lem="_" postag="NPP" morpho="_" head="18" dep="mod">e</word>
-          <word id="20" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="fantassin" postag="NC" morpho="g=m|n=s" head="0" dep="_">fantassin</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="soldat" postag="NC" morpho="g=m|n=s" head="2" dep="mod">soldat</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="4" dep="dep">à</word>
-          <word id="6" lem="pied" postag="NC" morpho="n=s" head="5" dep="prep">pied</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="9" lem="membre" postag="NC" morpho="g=m|n=s" head="0" dep="_">membre</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-          <word id="12" lem="infanterie" postag="NC" morpho="g=f|n=s" head="10" dep="prep">infanterie</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="marin" postag="NC" morpho="g=m|n=s" head="0" dep="_">marin</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="membre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">membre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="marine" postag="NC" morpho="n=s" head="5" dep="prep">marine</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="aviateur" postag="NC" morpho="g=m|n=s" head="0" dep="_">aviateur</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="membre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">membre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="armée" postag="NC" morpho="g=f|n=s" head="5" dep="prep">armée</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="air" postag="NC" morpho="g=m|n=s" head="8" dep="prep">air</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="sapeur" postag="NC" morpho="g=m|n=s" head="0" dep="_">sapeur</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="membre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">membre</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="6" lem="génie" postag="NC" morpho="g=m|n=s" head="5" dep="prep">génie</word>
-          <word id="7" lem="militaire" postag="ADJ" morpho="n=s" head="6" dep="mod">militaire</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="artilleur" postag="NC" morpho="g=m|n=s" head="0" dep="_">artilleur</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="membre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">membre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="artillerie" postag="NC" morpho="g=f|n=s" head="5" dep="prep">artillerie</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="transmetteur" postag="NC" morpho="g=m|n=s" head="0" dep="_">transmetteur</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="membre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">membre</word>
-          <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-          <word id="6" lem="transmission" postag="NC" morpho="g=f|n=p" head="5" dep="prep">transmissions</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="8" lem="ex" postag="NC" morpho="_" head="4" dep="mod">ex</word>
-          <word id="9" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-          <word id="10" lem="transmission" postag="NC" morpho="g=f|n=p" head="4" dep="mod">transmissions</word>
-          <word id="11" lem="dans" postag="P" morpho="_" head="4" dep="dep">dans</word>
-          <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
-          <word id="13" lem="armée" postag="NC" morpho="g=f|n=s" head="11" dep="prep">armée</word>
-          <word id="14" lem="français" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">française</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="conducteur" postag="NC" morpho="g=m|n=s" head="0" dep="_">conducteur</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="membre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">membre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="arme" postag="NC" morpho="g=f|n=s" head="5" dep="prep">arme</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="8" dep="prep">Train</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="gendarme" postag="NC" morpho="g=m|n=s" head="0" dep="_">gendarme</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="membre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">membre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="gendarmerie" postag="NC" morpho="g=f|n=s" head="5" dep="prep">gendarmerie</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:46</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="coût" postag="NC" morpho="g=m|n=s" head="0" dep="_">coût</word>
-        <word id="3" lem="global" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">global</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-        <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-        <word id="6" lem="militaire" postag="NC" morpho="g=m|n=s" head="4" dep="prep">militaire</word>
-        <word id="7" lem="pour" postag="P" morpho="_" head="2" dep="dep">pour</word>
-        <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-        <word id="9" lem="État" postag="NC" morpho="g=m|n=s" head="7" dep="prep">État</word>
-        <word id="10" lem="qui" postag="PROREL" morpho="n=s" head="12" dep="suj">qui</word>
-        <word id="11" lem="le" postag="CLO" morpho="n=s|p=3" head="12" dep="obj">l'</word>
-        <word id="12" lem="employer" postag="V" morpho="n=s|p=13|t=pst" head="9" dep="mod_rel">emploie</word>
-        <word id="13" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:46</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="solde" postag="NC" morpho="n=s" head="0" dep="_">solde</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="formation" postag="NC" morpho="g=f|n=s" head="0" dep="_">formation</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="nourriture" postag="NC" morpho="g=f|n=s" head="0" dep="_">nourriture</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="logement" postag="NC" morpho="g=m|n=s" head="0" dep="root">logement</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="assurance" postag="NC" morpho="g=f|n=s" head="0" dep="_">assurance</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="matériel" postag="NC" morpho="g=m|n=p" head="0" dep="_">matériels</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="retraite" postag="NC" morpho="g=f|n=s" head="0" dep="_">retraite</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="pension" postag="NC" morpho="g=f|n=p" head="0" dep="root">pensions</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="invalidité" postag="NC" morpho="g=f|n=s" head="2" dep="prep">invalidité</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:26</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="pour" postag="P" morpho="_" head="18" dep="mod">Pour</word>
-        <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-        <word id="3" lem="soutien" postag="NC" morpho="g=m|n=s" head="1" dep="prep">soutien</word>
-        <word id="4" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-        <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
-        <word id="6" lem="fonctionnement" postag="NC" morpho="g=m|n=s" head="4" dep="dep_coord">fonctionnement</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-        <word id="8" lem="base" postag="NC" morpho="g=f|n=s" head="7" dep="prep">base</word>
-        <word id="9" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
-        <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-        <word id="11" lem="militaire" postag="NC" morpho="g=m|n=s" head="9" dep="prep">militaire</word>
-        <word id="12" lem="engager" postag="VPP" morpho="g=m|n=p|t=past" head="11" dep="mod">engagés</word>
-        <word id="13" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-        <word id="14" lem="opération" postag="NC" morpho="g=f|n=p" head="13" dep="prep">opérations</word>
-        <word id="15" lem="extérieur" postag="ADJ" morpho="g=f|n=p" head="14" dep="mod">extérieures</word>
-        <word id="16" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
-        <word id="17" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="18" dep="suj">il</word>
-        <word id="18" lem="falloir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">faut</word>
-        <word id="19" lem="en_moyenne" postag="ADV" morpho="_" head="18" dep="mod">en_moyenne</word>
-        <word id="20" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
-        <word id="21" lem="toujours" postag="ADV" morpho="_" head="18" dep="mod">toujours</word>
-        <word id="22" lem="dans" postag="P" morpho="_" head="18" dep="mod">dans</word>
-        <word id="23" lem="l'" postag="DET" morpho="n=s" head="24" dep="det">l'</word>
-        <word id="24" lem="_" postag="NC" morpho="_" head="22" dep="prep">Union</word>
-        <word id="25" lem="européen" postag="ADJ" morpho="g=f|n=s" head="24" dep="mod">européenne</word>
-        <word id="26" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
-        <word id="27" lem="#NUM#" postag="DET" morpho="n=p" head="28" dep="det">16</word>
-        <word id="28" lem="militaire" postag="NC" morpho="g=m|n=p" head="18" dep="obj">militaires</word>
-        <word id="29" lem="et" postag="CC" morpho="_" head="28" dep="coord">et</word>
-        <word id="30" lem="#NUM#" postag="DET" morpho="n=p" head="31" dep="det">15</word>
-        <word id="31" lem="civil" postag="NC" morpho="g=f|n=p" head="29" dep="dep_coord">civils</word>
-        <word id="32" lem="à" postag="P" morpho="_" head="31" dep="dep">à</word>
-        <word id="33" lem="domicile" postag="NC" morpho="g=m|n=s" head="32" dep="prep">domicile</word>
-        <word id="34" lem="(" postag="PONCT" morpho="_" head="31" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:26</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">35</word>
-          <word id="2" lem="militaire" postag="NC" morpho="g=m|n=p" head="0" dep="_">militaires</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">15</word>
-          <word id="5" lem="civil" postag="NC" morpho="g=f|n=p" head="3" dep="dep_coord">civils</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="3" dep="dep_coord">en</word>
-          <word id="7" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Allemagne</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">8</word>
-          <word id="2" lem="militaire" postag="NC" morpho="g=m|n=p" head="0" dep="_">militaires</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">2</word>
-          <word id="5" lem="civil" postag="NC" morpho="g=f|n=p" head="3" dep="dep_coord">civils</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="7" lem="France" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">France</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="#NUM#" postag="DET" morpho="n=p" head="2" dep="det">9</word>
-          <word id="2" lem="militaire" postag="NC" morpho="g=m|n=p" head="0" dep="_">militaires</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">4</word>
-          <word id="5" lem="civil" postag="NC" morpho="g=f|n=p" head="3" dep="dep_coord">civils</word>
-          <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
-          <word id="7" lem="Royaume-Uni" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Royaume-Uni</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="9" lem="_" postag="PONCT" morpho="_" head="2" dep="ponct">..</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -854,8 +222,8 @@ le gendarme, membre de la gendarmerie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -903,50 +271,22 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
-      <span begin="1" end="48" />
-      <text>de personnels de carrière (il s'agit en général</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="49" end="60" id="0" />
-      <text id="0">des cadres,</text>
-      <span begin="61" end="78" id="1" />
-      <text id="1">sous-officiers et</text>
-      <span begin="79" end="91" id="2" />
-      <text id="2">officiers) ;</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
       <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="primer" idSE="3">
+    <SEval type="primer" idSE="2">
       <span begin="1" end="210" />
       <text>Un militaire peut avoir une activité de terrain, de commandement. En effet, la mise en œuvre d'une armée nécessite une composante logistique et commandement militaire importante. On parle souvent d'échelons :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="2">
       <span begin="208" end="234" id="0" />
       <text id="0">: échelon de commandement,</text>
       <span begin="235" end="254" id="1" />
@@ -957,24 +297,24 @@ le gendarme, membre de la gendarmerie</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="primer" idSE="4">
+    <SEval type="primer" idSE="3">
       <span begin="1" end="48" />
       <text>Parmi les emplois opérationnels, on distingue :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="items" idSE="4">
+    <SEval type="items" idSE="3">
       <span begin="49" end="147" id="0" />
       <text id="0">le cavalier : membre de la cavalerie (à cheval autrefois, ce terme désignant aujourd'hui l'arme e)</text>
       <span begin="148" end="201" id="1" />
@@ -997,24 +337,24 @@ le gendarme, membre de la gendarmerie</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="primer" idSE="5">
+    <SEval type="primer" idSE="4">
       <span begin="1" end="58" />
       <text>Le coût global d'un militaire pour l'État qui l'emploie (</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="items" idSE="5">
+    <SEval type="items" idSE="4">
       <span begin="58" end="65" id="0" />
       <text id="0">solde,</text>
       <span begin="65" end="75" id="1" />
@@ -1037,37 +377,9 @@ le gendarme, membre de la gendarmerie</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:26</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="primer" idSE="6">
-      <span begin="1" end="189" />
-      <text>Pour le soutien et le fonctionnement de base d'un militaire engagés en opérations extérieures, il faut en moyenne, toujours dans l'Union européenne, 16 militaires et 15 civils à domicile (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:26</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="items" idSE="6">
-      <span begin="189" end="230" id="0" />
-      <text id="0">35 militaires et 15 civils en Allemagne,</text>
-      <span begin="230" end="265" id="1" />
-      <text id="1">8 militaires et 2 civils en France,</text>
-      <span begin="265" end="308" id="2" />
-      <text id="2">9 militaires et 4 civils au Royaume-Uni)..</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -1082,8 +394,8 @@ le gendarme, membre de la gendarmerie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -1094,8 +406,8 @@ le gendarme, membre de la gendarmerie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1106,8 +418,8 @@ le gendarme, membre de la gendarmerie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -1179,334 +491,286 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
-      <span begin="4" end="26" id="0" />
-      <text id="0">personnels de carrière</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
-      <span begin="53" end="59" id="0" />
-      <text id="0">cadres</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
-      <span begin="61" end="75" id="0" />
-      <text id="0">sous-officiers</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="2">
-      <span begin="79" end="89" id="0" />
-      <text id="0">officiers)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
       <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
       <span begin="199" end="207" id="0" />
       <text id="0">échelons</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
       <span begin="209" end="233" id="0" />
       <text id="0">échelon de commandement</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
       <span begin="235" end="253" id="0" />
       <text id="0">échelon logistique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
       <span begin="255" end="276" id="0" />
       <text id="0">échelon opérationnel.</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
       <span begin="7" end="32" id="0" />
       <text id="0">les emplois opérationnels</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
       <span begin="49" end="61" id="0" />
       <text id="0">le cavalier</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
       <span begin="148" end="160" id="0" />
       <text id="0">le fantassin</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
       <span begin="202" end="211" id="0" />
       <text id="0">le marin</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="3">
+    <SEval type="concept" idSE="3" localisation="item" idItem="3">
       <span begin="233" end="244" id="0" />
       <text id="0">l'aviateur</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="4">
+    <SEval type="concept" idSE="3" localisation="item" idItem="4">
       <span begin="273" end="282" id="0" />
       <text id="0">le sapeur</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="5">
+    <SEval type="concept" idSE="3" localisation="item" idItem="5">
       <span begin="310" end="321" id="0" />
       <text id="0">l'artilleur</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="6">
+    <SEval type="concept" idSE="3" localisation="item" idItem="6">
       <span begin="346" end="362" id="0" />
       <text id="0">le transmetteur,</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="7">
+    <SEval type="concept" idSE="3" localisation="item" idItem="7">
       <span begin="431" end="444" id="0" />
       <text id="0">le conducteur</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="8">
+    <SEval type="concept" idSE="3" localisation="item" idItem="8">
       <span begin="472" end="483" id="0" />
       <text id="0">le gendarme</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="marq_relation" idSE="3" localisation="primer" idItem="-1">
       <span begin="33" end="46" id="0" />
       <text id="0">on distingue</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
       <span begin="1" end="43" id="0" />
       <text id="0">Le coût global d'un militaire pour l'État</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
       <span begin="58" end="63" id="0" />
       <text id="0">solde</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
       <span begin="65" end="74" id="0" />
       <text id="0">formation</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="2">
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
       <span begin="76" end="86" id="0" />
       <text id="0">nourriture</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="3">
+    <SEval type="concept" idSE="4" localisation="item" idItem="3">
       <span begin="88" end="96" id="0" />
       <text id="0">logement</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="4">
+    <SEval type="concept" idSE="4" localisation="item" idItem="4">
       <span begin="98" end="108" id="0" />
       <text id="0">assurance,</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="5">
+    <SEval type="concept" idSE="4" localisation="item" idItem="5">
       <span begin="108" end="118" id="0" />
       <text id="0">matériels</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="6">
+    <SEval type="concept" idSE="4" localisation="item" idItem="6">
       <span begin="120" end="128" id="0" />
       <text id="0">retraite</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="7">
+    <SEval type="concept" idSE="4" localisation="item" idItem="7">
       <span begin="130" end="151" id="0" />
       <text id="0">pensions d'invalidité</text>
     </SEval>
@@ -1514,8 +778,8 @@ le gendarme, membre de la gendarmerie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1528,8 +792,8 @@ le gendarme, membre de la gendarmerie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1542,8 +806,8 @@ le gendarme, membre de la gendarmerie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1559,8 +823,8 @@ le gendarme, membre de la gendarmerie</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:26</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1657,7 +921,7 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
+      <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1671,7 +935,7 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
+      <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1685,7 +949,7 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
+      <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1702,7 +966,7 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:42</date>
+      <date>1/01/13 11:43</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1728,12 +992,12 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:43</date>
+      <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
-      <horizontale value="1" />
-      <verticale value="0" />
+      <horizontale value="0" />
+      <verticale value="1" />
       <navigationnelle value="0" />
       <hypertextuelle value="1" />
     </SEval>
@@ -1742,7 +1006,7 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:43</date>
+      <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1756,7 +1020,7 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:43</date>
+      <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1773,7 +1037,7 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:43</date>
+      <date>1/01/13 11:44</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -1799,21 +1063,21 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:44</date>
+      <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
-      <horizontale value="0" />
-      <verticale value="1" />
+      <horizontale value="1" />
+      <verticale value="0" />
       <navigationnelle value="0" />
-      <hypertextuelle value="1" />
+      <hypertextuelle value="0" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:44</date>
+      <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -1827,7 +1091,7 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:44</date>
+      <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -1844,81 +1108,10 @@ le gendarme, membre de la gendarmerie</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 11:44</date>
+      <date>1/01/13 11:46</date>
       <document>Militaire.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:46</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="5">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:46</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="5">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:46</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="5">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:46</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="5">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="1" />
@@ -1934,77 +1127,6 @@ le gendarme, membre de la gendarmerie</text>
         <lexical_autre value="0" />
       </metalinguistique>
       <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:26</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="6">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:26</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="6">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:26</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="6">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 12:26</date>
-      <document>Militaire.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="6">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="1" />
       <contextuelle value="0" />
     </SEval>
   </annotation>

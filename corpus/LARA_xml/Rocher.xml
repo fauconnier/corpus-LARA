@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SE>
@@ -39,13 +39,13 @@ Le Rocher : titre québécois du filmaméricain The Rock
 Le Rocher du crâne : série de bande dessinée</text>
       <span begin="3" end="1454" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SE>
@@ -84,7 +84,7 @@ Rocher du Diamant aux Antilles, près de la Pointe du Diamant</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SE>
@@ -106,7 +106,7 @@ Karole Rocher (1974 - ), actrice française.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SE>
@@ -122,434 +122,46 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="rocher" postag="NC" morpho="g=m|n=s" head="0" dep="root">Rocher</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nom</word>
-          <word id="2" lem="commun" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">commun</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="rocher" postag="NC" morpho="g=m|n=s" head="3" dep="suj">rocher</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="grosse" postag="NC" morpho="g=f|n=s" head="3" dep="ats">grosse</word>
-          <word id="6" lem="pierre" postag="NC" morpho="g=f|n=s" head="5" dep="mod">pierre</word>
-          <word id="7" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="9" lem="gros" postag="ADJ" morpho="g=m" head="10" dep="mod">gros</word>
-          <word id="10" lem="caillou" postag="NC" morpho="g=m|n=s" head="7" dep="dep_coord">caillou</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="rocher" postag="NC" morpho="g=m|n=s" head="3" dep="suj">rocher</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="os" postag="NC" morpho="g=m" head="3" dep="ats">os</word>
-          <word id="6" lem="composer" postag="VPR" morpho="t=pst" head="5" dep="mod">composant</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="structure" postag="NC" morpho="g=f|n=s" head="6" dep="obj">structure</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="os" postag="NC" morpho="g=m" head="9" dep="prep">os</word>
-          <word id="12" lem="temporal" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">temporal</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="rocher" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Rocher</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="aussi" postag="ADV" morpho="_" head="2" dep="mod">aussi</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="nom" postag="NC" morpho="g=m|n=s" head="2" dep="ats">nom</word>
-          <word id="6" lem="vernaculaire" postag="ADJ" morpho="n=s" head="5" dep="mod">vernaculaire</word>
-          <word id="7" lem="synonyme" postag="NC" morpho="g=m|n=s" head="5" dep="mod">synonyme</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="8" dep="ponct">"</word>
-          <word id="10" lem="murex" postag="NC" morpho="g=m" head="8" dep="prep">murex</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-          <word id="12" lem="pour" postag="P" morpho="_" head="2" dep="mod">pour</word>
-          <word id="13" lem="divers" postag="DET" morpho="g=m|n=p" head="14" dep="det">divers</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="12" dep="prep">mollusquesgastéropodes</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="famille" postag="NC" morpho="g=f|n=s" head="15" dep="prep">famille</word>
-          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-          <word id="19" lem="_" postag="NPP" morpho="_" head="18" dep="prep">Muricidae</word>
-          <word id="20" lem="(" postag="PONCT" morpho="_" head="19" dep="ponct">(</word>
-          <word id="21" lem="genre" postag="NC" morpho="g=m|n=s" head="19" dep="mod">genre</word>
-          <word id="22" lem="_" postag="NPP" morpho="_" head="21" dep="mod">Ocenebra</word>
-          <word id="23" lem="notamment" postag="ADV" morpho="_" head="21" dep="mod">notamment</word>
-          <word id="24" lem=")" postag="PONCT" morpho="_" head="19" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="toponyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Toponyme</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="0" dep="root">Rocher</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="0" dep="_">communefrançaise</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="5" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="3" dep="mod">située</word>
-          <word id="6" lem="dans" postag="P" morpho="_" head="5" dep="mod">dans</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-          <word id="8" lem="département" postag="NC" morpho="g=m|n=s" head="6" dep="prep">département</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="Ardèche" postag="NPP" morpho="g=f|n=s" head="9" dep="prep">Ardèche</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Petit-Rocher</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="village" postag="NC" morpho="g=m|n=s" head="1" dep="mod">village</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="comté" postag="NC" morpho="g=m|n=s" head="4" dep="prep">comté</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Gloucester</word>
-          <word id="8" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">au</word>
-          <word id="9" lem="nord" postag="NC" morpho="g=m|n=s" head="8" dep="prep">nord</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="11" lem="Nouveau-Brunswick" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Nouveau-Brunswick</word>
-          <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">au</word>
-          <word id="13" lem="Canada" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Canada</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="2" dep="det">Rocher</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Percé</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="arche" postag="NC" morpho="g=f|n=s" head="2" dep="mod">arche</word>
-          <word id="5" lem="naturel" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">naturelle</word>
-          <word id="6" lem="près_de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">près_du</word>
-          <word id="7" lem="village" postag="NC" morpho="g=m|n=s" head="6" dep="prep">village</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Percé</word>
-          <word id="10" lem="à" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">au</word>
-          <word id="11" lem="Québec" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Québec</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="0" dep="_">Rocher</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="de_obj">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Saint-Guiral</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="5" lem="lieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">lieu</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="pèlerinage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">pèlerinage</word>
-          <word id="8" lem="local" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">local</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="10" lem="situer" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">situé</word>
-          <word id="11" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Cévennes</word>
-          <word id="13" lem="dans" postag="P" morpho="_" head="10" dep="mod">dans</word>
-          <word id="14" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
-          <word id="15" lem="département" postag="NC" morpho="g=m|n=s" head="13" dep="prep">département</word>
-          <word id="16" lem="de" postag="P+D" morpho="g=m|n=s" head="15" dep="dep">du</word>
-          <word id="17" lem="Gard" postag="NPP" morpho="g=m|n=s" head="16" dep="prep">Gard</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="rocher" postag="NC" morpho="g=m|n=p" head="0" dep="_">Rochers</word>
-          <word id="2" lem="Liancourt" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Liancourt</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="4" lem="groupe" postag="NC" morpho="g=m|n=s" head="0" dep="_">groupe</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="îlot" postag="NC" morpho="g=m|n=p" head="5" dep="prep">îlots</word>
-          <word id="7" lem="situer" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">situé</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="7" dep="mod">en</word>
-          <word id="9" lem="mer" postag="NC" morpho="g=f|n=s" head="8" dep="prep">mer</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="de_obj">du</word>
-          <word id="11" lem="Japon" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Japon</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="rocher" postag="NC" morpho="g=m|n=p" head="0" dep="_">Rochers</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Naye</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="5" lem="sommet" postag="NC" morpho="g=m|n=s" head="0" dep="_">sommet</word>
-          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-          <word id="7" lem="Alpes" postag="NPP" morpho="g=f|n=p" head="6" dep="prep">Alpes</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="0" dep="_">Rocher</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="de_obj">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="Lorelei" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Lorelei</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="6" lem="lieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">lieu</word>
-          <word id="7" lem="symbolique" postag="ADJ" morpho="n=s" head="6" dep="mod">symbolique</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
-          <word id="9" lem="Rhin" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Rhin</word>
-          <word id="10" lem="romantique" postag="NC" morpho="n=s" head="9" dep="mod">romantique</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="0" dep="_">Rocher</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="de_obj">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Diamant</word>
-          <word id="4" lem="à" postag="P+D" morpho="n=p" head="1" dep="mod">aux</word>
-          <word id="5" lem="Antilles" postag="NPP" morpho="g=f|n=p" head="4" dep="prep">Antilles</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="près_de" postag="P" morpho="_" head="1" dep="mod">près_de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="7" dep="prep">Pointe</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="11" lem="_" postag="NC" morpho="_" head="10" dep="prep">Diamant</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="patronyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Patronyme</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="Georges" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Georges</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1927</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">1984</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="peintre" postag="NC" morpho="n=s" head="1" dep="mod">peintre</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="Bretagne" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Bretagne</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="Guy" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Guy</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1924</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="professeur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">professeur</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="science" postag="NC" morpho="g=f|n=p" head="9" dep="prep">sciences</word>
-          <word id="11" lem="social" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">sociales</word>
-          <word id="12" lem="québécois" postag="ADJ" morpho="g=m" head="10" dep="mod">québécois</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Jacques</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1957</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="industriel" postag="NC" morpho="g=m|n=s" head="1" dep="mod">industriel</word>
-          <word id="9" lem="français" postag="ADJ" morpho="g=m" head="8" dep="mod">français</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="11" lem="cosmétique" postag="NC" morpho="g=m|n=p" head="10" dep="prep">cosmétiques</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="Maurice" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Maurice</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1918</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">1995</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="peintre" postag="NC" morpho="n=s" head="1" dep="mod">peintre</word>
-          <word id="10" lem="expressionniste" postag="ADJ" morpho="n=s" head="9" dep="mod">expressionniste</word>
-          <word id="11" lem="français" postag="ADJ" morpho="g=m" head="9" dep="mod">français</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="Roger" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Roger</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1920</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">1997</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="ancien" postag="ADJ" morpho="g=m|n=s" head="10" dep="mod">ancien</word>
-          <word id="10" lem="président" postag="NC" morpho="g=m|n=s" head="1" dep="mod">président</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
-          <word id="13" lem="as" postag="NC" morpho="g=m" head="11" dep="prep">AS</word>
-          <word id="14" lem="Saint-Étienne" postag="NPP" morpho="g=m|n=s" head="13" dep="mod">Saint-Étienne</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="Yves" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Yves</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1930</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">2009</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="industriel" postag="NC" morpho="g=m|n=s" head="1" dep="mod">industriel</word>
-          <word id="10" lem="français" postag="ADJ" morpho="g=m" head="9" dep="mod">français</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="12" lem="cosmétique" postag="NC" morpho="g=m|n=p" head="11" dep="prep">cosmétiques</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="Hans" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Hans</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1964</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="architecte" postag="NC" morpho="n=s" head="1" dep="mod">architecte</word>
-          <word id="9" lem="néerlandais" postag="ADJ" morpho="g=m" head="8" dep="mod">néerlandais</word>
-          <word id="10" lem="habitant" postag="NC" morpho="g=m|n=s" head="8" dep="mod">habitant</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="8" dep="dep">à</word>
-          <word id="12" lem="Monaco" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Monaco</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Karole</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1974</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="acteur" postag="NC" morpho="g=f|n=s" head="1" dep="mod">actrice</word>
-          <word id="9" lem="français" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">française</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="art" postag="NC" morpho="g=m|n=s" head="0" dep="root">Art</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="0" dep="root">Rocher</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="maison" postag="NC" morpho="g=f|n=s" head="2" dep="mod">maison</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="édition" postag="NC" morpho="g=f|n=s" head="5" dep="prep">édition</word>
-          <word id="7" lem="français" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">française</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="0" dep="root">Rocher</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="titre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">titre</word>
-          <word id="5" lem="québécois" postag="ADJ" morpho="g=m" head="4" dep="mod">québécois</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="6" dep="prep">filmaméricain</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">The</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Rock</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Rocher</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="crâne" postag="NC" morpho="g=m|n=s" head="3" dep="prep">crâne</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="6" lem="série" postag="NC" morpho="g=f|n=s" head="2" dep="mod">série</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="bande" postag="NC" morpho="g=f|n=s" head="7" dep="prep">bande</word>
-          <word id="9" lem="dessiner" postag="ADJ" morpho="g=f|n=s|t=past" head="8" dep="mod">dessinée</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nom</word>
-        <word id="2" lem="commun" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">commun</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="rocher" postag="NC" morpho="g=m|n=s" head="3" dep="suj">rocher</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="grosse" postag="NC" morpho="g=f|n=s" head="3" dep="ats">grosse</word>
-          <word id="6" lem="pierre" postag="NC" morpho="g=f|n=s" head="5" dep="mod">pierre</word>
-          <word id="7" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="9" lem="gros" postag="ADJ" morpho="g=m" head="10" dep="mod">gros</word>
-          <word id="10" lem="caillou" postag="NC" morpho="g=m|n=s" head="7" dep="dep_coord">caillou</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="rocher" postag="NC" morpho="g=m|n=s" head="3" dep="suj">rocher</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="os" postag="NC" morpho="g=m" head="3" dep="ats">os</word>
-          <word id="6" lem="composer" postag="VPR" morpho="t=pst" head="5" dep="mod">composant</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="structure" postag="NC" morpho="g=f|n=s" head="6" dep="obj">structure</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="os" postag="NC" morpho="g=m" head="9" dep="prep">os</word>
-          <word id="12" lem="temporal" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">temporal</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="rocher" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Rocher</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="aussi" postag="ADV" morpho="_" head="2" dep="mod">aussi</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="nom" postag="NC" morpho="g=m|n=s" head="2" dep="ats">nom</word>
-          <word id="6" lem="vernaculaire" postag="ADJ" morpho="n=s" head="5" dep="mod">vernaculaire</word>
-          <word id="7" lem="synonyme" postag="NC" morpho="g=m|n=s" head="5" dep="mod">synonyme</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="8" dep="ponct">"</word>
-          <word id="10" lem="murex" postag="NC" morpho="g=m" head="8" dep="prep">murex</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-          <word id="12" lem="pour" postag="P" morpho="_" head="2" dep="mod">pour</word>
-          <word id="13" lem="divers" postag="DET" morpho="g=m|n=p" head="14" dep="det">divers</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="12" dep="prep">mollusquesgastéropodes</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="famille" postag="NC" morpho="g=f|n=s" head="15" dep="prep">famille</word>
-          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-          <word id="19" lem="_" postag="NPP" morpho="_" head="18" dep="prep">Muricidae</word>
-          <word id="20" lem="(" postag="PONCT" morpho="_" head="19" dep="ponct">(</word>
-          <word id="21" lem="genre" postag="NC" morpho="g=m|n=s" head="19" dep="mod">genre</word>
-          <word id="22" lem="_" postag="NPP" morpho="_" head="21" dep="mod">Ocenebra</word>
-          <word id="23" lem="notamment" postag="ADV" morpho="_" head="21" dep="mod">notamment</word>
-          <word id="24" lem=")" postag="PONCT" morpho="_" head="19" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -559,11 +171,7 @@ Le Rocher du crâne : série de bande dessinée</text>
       <date>1/01/13 15:11</date>
       <document>Rocher.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="toponyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Toponyme</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -573,352 +181,70 @@ Le Rocher du crâne : série de bande dessinée</text>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="0" dep="root">Rocher</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="0" dep="_">communefrançaise</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="5" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="3" dep="mod">située</word>
-          <word id="6" lem="dans" postag="P" morpho="_" head="5" dep="mod">dans</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-          <word id="8" lem="département" postag="NC" morpho="g=m|n=s" head="6" dep="prep">département</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="Ardèche" postag="NPP" morpho="g=f|n=s" head="9" dep="prep">Ardèche</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Petit-Rocher</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="village" postag="NC" morpho="g=m|n=s" head="1" dep="mod">village</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="comté" postag="NC" morpho="g=m|n=s" head="4" dep="prep">comté</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Gloucester</word>
-          <word id="8" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">au</word>
-          <word id="9" lem="nord" postag="NC" morpho="g=m|n=s" head="8" dep="prep">nord</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="11" lem="Nouveau-Brunswick" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Nouveau-Brunswick</word>
-          <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">au</word>
-          <word id="13" lem="Canada" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Canada</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="2" dep="det">Rocher</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Percé</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="arche" postag="NC" morpho="g=f|n=s" head="2" dep="mod">arche</word>
-          <word id="5" lem="naturel" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">naturelle</word>
-          <word id="6" lem="près_de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">près_du</word>
-          <word id="7" lem="village" postag="NC" morpho="g=m|n=s" head="6" dep="prep">village</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Percé</word>
-          <word id="10" lem="à" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">au</word>
-          <word id="11" lem="Québec" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Québec</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="0" dep="_">Rocher</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="de_obj">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Saint-Guiral</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="5" lem="lieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">lieu</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="pèlerinage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">pèlerinage</word>
-          <word id="8" lem="local" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">local</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="10" lem="situer" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">situé</word>
-          <word id="11" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Cévennes</word>
-          <word id="13" lem="dans" postag="P" morpho="_" head="10" dep="mod">dans</word>
-          <word id="14" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
-          <word id="15" lem="département" postag="NC" morpho="g=m|n=s" head="13" dep="prep">département</word>
-          <word id="16" lem="de" postag="P+D" morpho="g=m|n=s" head="15" dep="dep">du</word>
-          <word id="17" lem="Gard" postag="NPP" morpho="g=m|n=s" head="16" dep="prep">Gard</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="rocher" postag="NC" morpho="g=m|n=p" head="0" dep="_">Rochers</word>
-          <word id="2" lem="Liancourt" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Liancourt</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="4" lem="groupe" postag="NC" morpho="g=m|n=s" head="0" dep="_">groupe</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="îlot" postag="NC" morpho="g=m|n=p" head="5" dep="prep">îlots</word>
-          <word id="7" lem="situer" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">situé</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="7" dep="mod">en</word>
-          <word id="9" lem="mer" postag="NC" morpho="g=f|n=s" head="8" dep="prep">mer</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="de_obj">du</word>
-          <word id="11" lem="Japon" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Japon</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="rocher" postag="NC" morpho="g=m|n=p" head="0" dep="_">Rochers</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Naye</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="5" lem="sommet" postag="NC" morpho="g=m|n=s" head="0" dep="_">sommet</word>
-          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-          <word id="7" lem="Alpes" postag="NPP" morpho="g=f|n=p" head="6" dep="prep">Alpes</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="0" dep="_">Rocher</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="de_obj">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="Lorelei" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Lorelei</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="6" lem="lieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">lieu</word>
-          <word id="7" lem="symbolique" postag="ADJ" morpho="n=s" head="6" dep="mod">symbolique</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
-          <word id="9" lem="Rhin" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Rhin</word>
-          <word id="10" lem="romantique" postag="NC" morpho="n=s" head="9" dep="mod">romantique</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="rocher" postag="VINF" morpho="_" head="0" dep="_">Rocher</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="de_obj">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Diamant</word>
-          <word id="4" lem="à" postag="P+D" morpho="n=p" head="1" dep="mod">aux</word>
-          <word id="5" lem="Antilles" postag="NPP" morpho="g=f|n=p" head="4" dep="prep">Antilles</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="près_de" postag="P" morpho="_" head="1" dep="mod">près_de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="7" dep="prep">Pointe</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="11" lem="_" postag="NC" morpho="_" head="10" dep="prep">Diamant</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="patronyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Patronyme</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Georges" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Georges</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1927</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">1984</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="peintre" postag="NC" morpho="n=s" head="1" dep="mod">peintre</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="Bretagne" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Bretagne</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Guy" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Guy</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1924</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="professeur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">professeur</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="science" postag="NC" morpho="g=f|n=p" head="9" dep="prep">sciences</word>
-          <word id="11" lem="social" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">sociales</word>
-          <word id="12" lem="québécois" postag="ADJ" morpho="g=m" head="10" dep="mod">québécois</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Jacques</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1957</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="industriel" postag="NC" morpho="g=m|n=s" head="1" dep="mod">industriel</word>
-          <word id="9" lem="français" postag="ADJ" morpho="g=m" head="8" dep="mod">français</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="11" lem="cosmétique" postag="NC" morpho="g=m|n=p" head="10" dep="prep">cosmétiques</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="Maurice" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Maurice</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1918</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">1995</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="peintre" postag="NC" morpho="n=s" head="1" dep="mod">peintre</word>
-          <word id="10" lem="expressionniste" postag="ADJ" morpho="n=s" head="9" dep="mod">expressionniste</word>
-          <word id="11" lem="français" postag="ADJ" morpho="g=m" head="9" dep="mod">français</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="Roger" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Roger</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1920</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">1997</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="ancien" postag="ADJ" morpho="g=m|n=s" head="10" dep="mod">ancien</word>
-          <word id="10" lem="président" postag="NC" morpho="g=m|n=s" head="1" dep="mod">président</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
-          <word id="13" lem="as" postag="NC" morpho="g=m" head="11" dep="prep">AS</word>
-          <word id="14" lem="Saint-Étienne" postag="NPP" morpho="g=m|n=s" head="13" dep="mod">Saint-Étienne</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="Yves" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Yves</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1930</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">2009</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="industriel" postag="NC" morpho="g=m|n=s" head="1" dep="mod">industriel</word>
-          <word id="10" lem="français" postag="ADJ" morpho="g=m" head="9" dep="mod">français</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="12" lem="cosmétique" postag="NC" morpho="g=m|n=p" head="11" dep="prep">cosmétiques</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="Hans" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Hans</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1964</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="architecte" postag="NC" morpho="n=s" head="1" dep="mod">architecte</word>
-          <word id="9" lem="néerlandais" postag="ADJ" morpho="g=m" head="8" dep="mod">néerlandais</word>
-          <word id="10" lem="habitant" postag="NC" morpho="g=m|n=s" head="8" dep="mod">habitant</word>
-          <word id="11" lem="à" postag="P" morpho="_" head="8" dep="dep">à</word>
-          <word id="12" lem="Monaco" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Monaco</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Karole</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rocher</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="1" dep="mod">1974</word>
-          <word id="5" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="acteur" postag="NC" morpho="g=f|n=s" head="1" dep="mod">actrice</word>
-          <word id="9" lem="français" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">française</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="art" postag="NC" morpho="g=m|n=s" head="0" dep="root">Art</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="0" dep="root">Rocher</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="maison" postag="NC" morpho="g=f|n=s" head="2" dep="mod">maison</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="édition" postag="NC" morpho="g=f|n=s" head="5" dep="prep">édition</word>
-          <word id="7" lem="français" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">française</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="0" dep="root">Rocher</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="titre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">titre</word>
-          <word id="5" lem="québécois" postag="ADJ" morpho="g=m" head="4" dep="mod">québécois</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="6" dep="prep">filmaméricain</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">The</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Rock</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Rocher" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Rocher</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="crâne" postag="NC" morpho="g=m|n=s" head="3" dep="prep">crâne</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="6" lem="série" postag="NC" morpho="g=f|n=s" head="2" dep="mod">série</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="bande" postag="NC" morpho="g=f|n=s" head="7" dep="prep">bande</word>
-          <word id="9" lem="dessiner" postag="ADJ" morpho="g=f|n=s|t=past" head="8" dep="mod">dessinée</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -929,8 +255,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -970,7 +296,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -982,7 +308,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -1036,7 +362,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -1048,7 +374,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -1074,7 +400,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="primer" idSE="4">
@@ -1086,7 +412,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="items" idSE="4">
@@ -1101,8 +427,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -1113,8 +439,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -1125,8 +451,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1137,8 +463,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -1149,8 +475,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -1162,7 +488,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -1174,7 +500,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -1186,7 +512,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -1198,7 +524,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -1410,7 +736,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -1422,7 +748,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -1434,7 +760,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="2">
@@ -1446,7 +772,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="3">
@@ -1458,7 +784,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="4">
@@ -1470,7 +796,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="5">
@@ -1482,7 +808,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="6">
@@ -1494,7 +820,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="7">
@@ -1506,7 +832,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
@@ -1518,7 +844,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="3" localisation="primer" idItem="-1">
@@ -1530,7 +856,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="0">
@@ -1542,7 +868,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="1">
@@ -1554,7 +880,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="2">
@@ -1566,7 +892,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
@@ -1578,7 +904,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
@@ -1589,8 +915,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1603,8 +929,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1617,8 +943,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1634,8 +960,8 @@ Le Rocher du crâne : série de bande dessinée</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1661,7 +987,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1675,7 +1001,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1689,7 +1015,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1706,7 +1032,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1803,7 +1129,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1817,7 +1143,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1831,7 +1157,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1848,7 +1174,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -1874,7 +1200,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -1888,7 +1214,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -1902,7 +1228,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -1919,7 +1245,7 @@ Le Rocher du crâne : série de bande dessinée</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>8/01/13 14:30</date>
       <document>Rocher.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">

@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SE>
@@ -21,13 +21,13 @@ le Bosquet ;
 la Mare.</text>
       <span begin="1061" end="1451" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SE>
@@ -44,7 +44,7 @@ la Vénerie.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SE>
@@ -67,7 +67,7 @@ Moncourt, nom d'une ancienne paroisse, toponyme médiéval en -court, précédé
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SE>
@@ -85,515 +85,110 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="appellatif" postag="NC" morpho="g=m|n=p" head="0" dep="_">Appellatifs</word>
-        <word id="2" lem="géographique" postag="ADJ" morpho="n=p" head="1" dep="mod">géographiques</word>
-        <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-        <word id="4" lem="topographique" postag="ADJ" morpho="n=p" head="3" dep="dep_coord">topographiques</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="Bel-Air" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Bel-Air</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="coord">,</word>
-          <word id="4" lem="Beausoleil" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Beausoleil</word>
-          <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="_">sont</word>
-          <word id="6" lem="nombreux" postag="ADJ" morpho="g=m" head="5" dep="ats">nombreux</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="5" dep="mod">en</word>
-          <word id="8" lem="métropole" postag="NC" morpho="g=f|n=s" head="7" dep="prep">métropole</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="5" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Bout</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Monde</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Sixt-Fer-à-Cheval</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Clarté</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="5" lem="Perros-Guirec" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Perros-Guirec</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="7" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Oubliette</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="Maine-et-Loire" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Maine-et-Loire</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="Val" postag="NPP" morpho="n=s" head="0" dep="_">Val</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="Puits" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Puits</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="groenendael" postag="NC" morpho="g=m|n=s" head="5" dep="suj">Groenendael</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Belgique</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="5" lem="_" postag="V" morpho="_" head="0" dep="root">appellatif</word>
-          <word id="6" lem="toponymique" postag="ADJ" morpho="n=s" head="7" dep="mod">toponymique</word>
-          <word id="7" lem="flamand" postag="NC" morpho="g=f|n=s" head="5" dep="obj">flamand</word>
-          <word id="8" lem="_" postag="ADJ" morpho="_" head="7" dep="mod">dael</word>
-          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="10" lem="vallée" postag="NC" morpho="g=f|n=s" head="7" dep="mod">vallée</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-          <word id="12" lem="précéder" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">précédé</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="de_obj">de</word>
-          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
-          <word id="15" lem="adjectif" postag="NC" morpho="g=m|n=s" head="13" dep="prep">adjectif</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="couleur" postag="NC" morpho="g=f|n=s" head="16" dep="prep">couleur</word>
-          <word id="18" lem="signifiant" postag="ADJ" morpho="g=m|n=s" head="17" dep="mod">signifiant</word>
-          <word id="19" lem="&quot;" postag="PONCT" morpho="_" head="17" dep="ponct">"</word>
-          <word id="20" lem="vert" postag="ADJ" morpho="g=f|n=s" head="17" dep="mod">verte</word>
-          <word id="21" lem="&quot;" postag="PONCT" morpho="_" head="17" dep="ponct">"</word>
-          <word id="22" lem=";" postag="PONCT" morpho="_" head="5" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="deux" postag="NC" morpho="g=m" head="0" dep="_">Sept</word>
-          <word id="2" lem="Fontaines" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Fontaines</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Belgique</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Bosquet</word>
-          <word id="3" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Mare</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="appellatif" postag="NC" morpho="g=m|n=p" head="0" dep="_">Appellatifs</word>
-        <word id="2" lem="lier" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="mod">liés</word>
-        <word id="3" lem="à" postag="P" morpho="_" head="2" dep="a_obj">à</word>
-        <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-        <word id="5" lem="activité" postag="NC" morpho="g=f|n=s" head="3" dep="prep">activité</word>
-        <word id="6" lem="humain" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">humaine</word>
-        <word id="7" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-        <word id="8" lem="à" postag="P" morpho="_" head="7" dep="dep_coord">à</word>
-        <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-        <word id="10" lem="propriété" postag="NC" morpho="g=f|n=s" head="8" dep="prep">propriété</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Hautes</word>
-          <word id="3" lem="Granges" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Granges</word>
-          <word id="4" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Closeries</word>
-          <word id="3" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Vénerie</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="appellatif" postag="NC" morpho="g=m|n=p" head="0" dep="_">Appellatifs</word>
-        <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-        <word id="3" lem="topographique" postag="ADJ" morpho="n=p" head="1" dep="mod">topographiques</word>
-        <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        <word id="5" lem="floral" postag="ADJ" morpho="g=m|n=p" head="1" dep="mod">floraux</word>
-        <word id="6" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-        <word id="7" lem="type" postag="NC" morpho="g=m|n=s" head="6" dep="dep_coord">type</word>
-        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-        <word id="9" lem="habitat" postag="NC" morpho="g=m|n=s" head="8" dep="prep">habitat</word>
-        <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        <word id="11" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-        <word id="12" lem="nom" postag="NC" morpho="g=m|n=p" head="11" dep="dep_coord">noms</word>
-        <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-        <word id="14" lem="personne" postag="NC" morpho="g=f|n=p" head="13" dep="prep">personnes</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Chez-Billard-Haut</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Charente" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Charente</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Chez</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Gruel</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="9" lem="Charente" postag="NPP" morpho="g=f|n=s" head="6" dep="mod">Charente</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="11" lem="Saint-Martial-de-Mirambeau" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Martial-de-Mirambeau</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Chez-Maurice</word>
-          <word id="15" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Haute-Savoie</word>
-          <word id="17" lem=")" postag="PONCT" morpho="_" head="14" dep="ponct">)</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="20" lem="chez" postag="P" morpho="_" head="19" dep="prep">chez</word>
-          <word id="21" lem="&quot;" postag="PONCT" morpho="_" head="20" dep="ponct">"</word>
-          <word id="22" lem="maison" postag="NC" morpho="g=f|n=s" head="20" dep="prep">maison</word>
-          <word id="23" lem="&quot;" postag="PONCT" morpho="_" head="22" dep="ponct">"</word>
-          <word id="24" lem="(" postag="PONCT" morpho="_" head="22" dep="ponct">(</word>
-          <word id="25" lem="de" postag="P+D" morpho="g=m|n=s" head="22" dep="dep">du</word>
-          <word id="26" lem="latin" postag="NC" morpho="g=m|n=s" head="25" dep="prep">latin</word>
-          <word id="27" lem="_" postag="ADJ" morpho="_" head="26" dep="mod">casa</word>
-          <word id="28" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="29" lem="+" postag="P" morpho="_" head="0" dep="_">+</word>
-          <word id="30" lem="nom" postag="NC" morpho="g=m|n=s" head="29" dep="prep">nom</word>
-          <word id="31" lem="de" postag="P" morpho="_" head="30" dep="dep">de</word>
-          <word id="32" lem="personne" postag="NC" morpho="g=f|n=s" head="31" dep="prep">personne</word>
-          <word id="33" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Girardière</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="nom" postag="NC" morpho="g=m|n=s" head="3" dep="prep">nom</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="famille" postag="NC" morpho="g=f|n=s" head="5" dep="prep">famille</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Girard</word>
-          <word id="8" lem="+" postag="P" morpho="_" head="6" dep="dep">+</word>
-          <word id="9" lem="suffixe" postag="NC" morpho="g=m|n=s" head="8" dep="prep">suffixe</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">-ière</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="12" lem="à_partir_de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">à_partir_du</word>
-          <word id="13" lem="Moyen" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Moyen</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="mod">Âge</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="0" dep="_">Grandes</word>
-          <word id="19" lem="_" postag="NPP" morpho="_" head="18" dep="mod">Châtelaines</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Kertanguy</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Basse-Bretagne</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="7" lem="breton" postag="NC" morpho="g=f|n=s" head="6" dep="prep">breton</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="mod">ker</word>
-          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="10" lem="maison" postag="NC" morpho="g=f|n=s" head="7" dep="mod">maison</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="village" postag="NC" morpho="g=m|n=s" head="1" dep="mod">village</word>
-          <word id="13" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
-          <word id="14" lem="+" postag="P" morpho="_" head="1" dep="dep">+</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="prep">Tanguy</word>
-          <word id="16" lem="nom" postag="NC" morpho="g=m|n=s" head="15" dep="mod">nom</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="18" lem="personne" postag="NC" morpho="g=f|n=s" head="17" dep="prep">personne</word>
-          <word id="19" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Saint-Aubin-des-Chaumes</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="Saint-Brisson" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Brisson</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">etc</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="formation" postag="NC" morpho="g=f|n=p" head="0" dep="root">formations</word>
-          <word id="3" lem="médiéval" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">médiévales</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Saint-</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="7" lem="généralement" postag="ADV" morpho="_" head="2" dep="mod">généralement</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="9" lem="ancien" postag="ADJ" morpho="g=f|n=p" head="10" dep="mod">anciennes</word>
-          <word id="10" lem="paroisse" postag="NC" morpho="g=f|n=p" head="8" dep="prep">paroisses</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Ville</word>
-          <word id="3" lem="Hamon" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Hamon</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="0" dep="_">Ville</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Juhel</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="6" dep="mod">etc</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="formation" postag="NC" morpho="g=f|n=p" head="0" dep="root">formations</word>
-          <word id="3" lem="toponymique" postag="ADJ" morpho="n=p" head="2" dep="mod">toponymiques</word>
-          <word id="4" lem="médiéval" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">médiévales</word>
-          <word id="5" lem="où" postag="PROREL" morpho="_" head="7" dep="mod">où</word>
-          <word id="6" lem="ville" postag="NC" morpho="g=f|n=s" head="7" dep="suj">ville</word>
-          <word id="7" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="2" dep="mod_rel">a</word>
-          <word id="8" lem="encore" postag="ADV" morpho="_" head="7" dep="mod">encore</word>
-          <word id="9" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="10" dep="det">son</word>
-          <word id="10" lem="sens" postag="NC" morpho="g=m" head="7" dep="obj">sens</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="&quot;" postag="PONCT" morpho="_" head="11" dep="ponct">"</word>
-          <word id="13" lem="groupe" postag="NC" morpho="g=m|n=s" head="11" dep="prep">groupe</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
-          <word id="15" lem="habitation" postag="NC" morpho="g=f|n=p" head="14" dep="prep">habitations</word>
-          <word id="16" lem="&quot;" postag="PONCT" morpho="_" head="11" dep="ponct">"</word>
-          <word id="17" lem=")" postag="PONCT" morpho="_" head="11" dep="ponct">)</word>
-          <word id="18" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">_''</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Parc</word>
-          <word id="4" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Princes''</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="Boulogne-Billancourt" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Boulogne-Billancourt</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=s" head="0" dep="_">Carrefour</word>
-          <word id="2" lem="Léonard" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Léonard</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="forêt" postag="NC" morpho="g=f|n=s" head="4" dep="prep">forêt</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Soignes</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-          <word id="10" lem="Bruxelles" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Bruxelles</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="bois" postag="NC" morpho="g=m" head="0" dep="_">Bois</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Joly</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Ile-d'</word>
-          <word id="5" lem="Aix" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Aix</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="7" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="Moncourt" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Moncourt</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="nom" postag="NC" morpho="g=m|n=s" head="1" dep="mod">nom</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">d'</word>
-          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="6" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">ancienne</word>
-          <word id="7" lem="paroisse" postag="NC" morpho="g=f|n=s" head="4" dep="prep">paroisse</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="toponyme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">toponyme</word>
-          <word id="10" lem="médiéval" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">médiéval</word>
-          <word id="11" lem="en" postag="P" morpho="_" head="9" dep="dep">en</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">-court</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="précéder" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">précédé</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="de_obj">d'</word>
-          <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
-          <word id="17" lem="nom" postag="NC" morpho="g=m|n=s" head="15" dep="prep">nom</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="personne" postag="NC" morpho="g=f|n=s" head="18" dep="prep">personne</word>
-          <word id="20" lem="germanique" postag="ADJ" morpho="n=s" head="19" dep="mod">germanique</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="appellation" postag="NC" morpho="g=f|n=p" head="0" dep="root">Appellations</word>
-        <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-        <word id="3" lem="caractère" postag="NC" morpho="g=m|n=s" head="2" dep="prep">caractère</word>
-        <word id="4" lem="anecdotique" postag="ADJ" morpho="n=s" head="3" dep="mod">anecdotique</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        <word id="6" lem="historique" postag="ADJ" morpho="n=s" head="1" dep="mod">historique</word>
-        <word id="7" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
-        <word id="8" lem="mythique" postag="ADJ" morpho="n=s" head="7" dep="dep_coord">mythique</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Camp</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="César" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">César</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Mi-Voie</word>
-          <word id="3" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Saut</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Français</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="7" lem="Duranus" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Duranus</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Ermite</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="2" dep="mod">Belgique</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="6" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Passe-tout-Outre</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="frontière" postag="NC" morpho="g=f|n=s" head="3" dep="prep">frontière</word>
-          <word id="6" lem="franco-belge" postag="ADJ" morpho="n=s" head="5" dep="mod">franco-belge</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Autreppe</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -604,8 +199,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -633,7 +228,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -645,7 +240,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -661,7 +256,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -673,7 +268,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -701,7 +296,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -713,7 +308,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -732,8 +327,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -744,8 +339,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -758,8 +353,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -770,8 +365,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -782,8 +377,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -794,8 +389,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -806,8 +401,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -818,8 +413,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -830,8 +425,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="7">
@@ -842,8 +437,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="8">
@@ -855,7 +450,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -867,7 +462,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -879,7 +474,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -891,7 +486,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -903,7 +498,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
@@ -917,7 +512,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -929,7 +524,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -941,7 +536,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -953,7 +548,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="3">
@@ -965,7 +560,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="4">
@@ -979,7 +574,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="5">
@@ -991,7 +586,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="6">
@@ -1003,7 +598,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="7">
@@ -1015,7 +610,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="8">
@@ -1027,7 +622,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
@@ -1039,7 +634,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -1051,7 +646,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -1063,7 +658,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="2">
@@ -1075,7 +670,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="3">
@@ -1087,7 +682,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="4">
@@ -1098,8 +693,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1112,8 +707,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1126,8 +721,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1143,8 +738,8 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:18</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1170,7 +765,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1184,7 +779,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1198,7 +793,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1215,7 +810,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:47</date>
+      <date>3/01/14 17:47</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1241,7 +836,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1255,7 +850,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1269,7 +864,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1286,7 +881,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:48</date>
+      <date>3/01/14 17:48</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1312,7 +907,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1326,7 +921,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1340,7 +935,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1357,7 +952,7 @@ Passe-tout-Outre, à la frontière franco-belge (Autreppe).</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:49</date>
+      <date>3/01/14 17:49</date>
       <document>Lieu-dit.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">

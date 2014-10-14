@@ -3,804 +3,60 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:19</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
     <SE>
       <id>0</id>
-      <text>Un carrefour routier est au sens propre la zone comprise à l’intérieur du prolongement des bordures (ou, s’il n’y a pas de bordures, des rives)</text>
-      <span begin="14" end="158" />
-    </SE>
-    <comment>unknown</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SE>
-      <id>1</id>
       <text>On distingue deux types de branches :
 L’entrée est la partie de cette branche que parcourt la circulation qui se dirige vers le carrefour.
 La sortie est la partie de cette branche que parcourt la circulation lorsqu’elle quitte le carrefour.</text>
       <span begin="1499" end="1739" />
     </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
-      <text>Carrefours plans
-Carrefour en T
-Il s’agit d’un carrefour à trois branches dont l’une de ces branches est à peu près dans le prolongement d’une autre branche et dont la troisième coupe ce prolongement sous un angle compris entre 75 et 105°.
-Carrefour en Y
-Il s’agit d’un carrefour à trois branches dont l’une de ces branches est dans le prolongement d’une autre et dont la troisième branche coupe ce prolongement sous un angle inférieur à 75° ou supérieur à 105°.
-Carrefour en croix simple
-Il s’agit d’un carrefour à quatre branches dont deux de ces branches sont à peu près dans le prolongement des deux autres branches et pour lequel l’angle de ces prolongements est de 75° ou davantage tout en restant inférieur à 105.
-Carrefour en X
-Il s’agit d’un carrefour à quatre branches dont deux branches sont à peu près dans le prolongement des deux autres, et pour lesquelles l’angle d’intersection de ces deux prolongements est inférieur à 75° ou supérieur à 105°.
-Carrefour à branches multiples
-Un carrefour à branches multiples est un carrefour à cinq branches ou plus.
-Carrefour giratoire
-Un carrefour giratoire est un carrefour à trois branches ou plus dans lequel les courants convergent puis divergent sur une chaussée à sens unique entourant un îlot central ; la circulation sur cette chaussée se fait dans le sens inverse des aiguilles d’une montre (dans les pays où on roule à gauche, la circulation s’effectue dans le sens des aiguilles d’une montre).</text>
-      <span begin="1740" end="3197" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SE>
-      <id>3</id>
-      <text>Carrefours dénivelés
-Un carrefour dénivelé est un ensemble de deux ou plusieurs routes qui se croisent sur des niveaux séparés par le biais d’un ou de plusieurs ouvrages d’art. Cela permet à Ia circulation de chacune de ces routes de couper la circulation de toutes les autres routes sans conflits.
-Échangeur autoroutier
-Un échangeur est un carrefour dénivelé entre deux ou plusieurs autoroutes. On parle de nœud autoroutier pour un échangeur entre plusieurs autoroutes,
-Dans les cas les plus complexes, les chaussées peuvent s’étager sur quatre niveaux différents.Un échangeur peut être complet (bidirectionnel) ou partiel (donnant accès à une seule direction de l’autoroute).
-Diffuseur
-Un diffuseur est un carrefour dénivelé entre une autoroute et le réseau routier.Il peut être complet (s’il permet d’entrer et de sortir de l’autoroute dans les deux sens) ou incomplet. Un demi-diffuseur comporte une entrée et une sortie en sens inverse.</text>
-      <span begin="3198" end="4139" />
-    </SE>
-    <comment />
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:19</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-        <word id="2" lem="carrefour" postag="NC" morpho="g=m|n=s" head="4" dep="suj">carrefour</word>
-        <word id="3" lem="routier" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">routier</word>
-        <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="5" lem="à" postag="P+D" morpho="g=m|n=s" head="4" dep="a_obj">au</word>
-        <word id="6" lem="sens" postag="NC" morpho="g=m" head="5" dep="prep">sens</word>
-        <word id="7" lem="propre" postag="ADJ" morpho="n=s" head="6" dep="mod">propre</word>
-        <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-        <word id="9" lem="zone" postag="NC" morpho="g=f|n=s" head="4" dep="ats">zone</word>
-        <word id="10" lem="comprendre" postag="VPP" morpho="g=f|n=s|t=past" head="9" dep="mod">comprise</word>
-        <word id="11" lem="à" postag="P" morpho="_" head="10" dep="a_obj">à</word>
-        <word id="12" lem="l'" postag="DET" morpho="n=s" head="13" dep="det">l'</word>
-        <word id="13" lem="intérieur" postag="NC" morpho="g=m|n=s" head="11" dep="prep">intérieur</word>
-        <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
-        <word id="15" lem="prolongement" postag="NC" morpho="g=m|n=s" head="14" dep="prep">prolongement</word>
-        <word id="16" lem="de" postag="P+D" morpho="n=p" head="15" dep="dep">des</word>
-        <word id="17" lem="bordure" postag="NC" morpho="g=f|n=p" head="16" dep="prep">bordures</word>
-        <word id="18" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:19</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="ou" postag="CC" morpho="_" head="0" dep="root">ou</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="si" postag="CS" morpho="_" head="0" dep="_">s'</word>
-          <word id="4" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="7" dep="suj">il</word>
-          <word id="5" lem="ne" postag="ADV" morpho="_" head="7" dep="mod">n'</word>
-          <word id="6" lem="y" postag="CLO" morpho="_" head="7" dep="aff">y</word>
-          <word id="7" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="sub">a</word>
-          <word id="8" lem="pas" postag="ADV" morpho="_" head="7" dep="mod">pas</word>
-          <word id="9" lem="de" postag="DET" morpho="n=p" head="10" dep="det">de</word>
-          <word id="10" lem="bordure" postag="NC" morpho="g=f|n=p" head="7" dep="obj">bordures</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
-          <word id="2" lem="rive" postag="NC" morpho="g=f|n=p" head="0" dep="root">rives</word>
-          <word id="3" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-        <word id="2" lem="distinguer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">distingue</word>
-        <word id="3" lem="deux" postag="ADJ" morpho="n=p" head="4" dep="mod">deux</word>
-        <word id="4" lem="type" postag="NC" morpho="g=m|n=p" head="2" dep="obj">types</word>
-        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-        <word id="6" lem="branche" postag="NC" morpho="g=f|n=p" head="5" dep="prep">branches</word>
-        <word id="7" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="entrée" postag="NC" morpho="g=f|n=s" head="3" dep="suj">entrée</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="partie" postag="NC" morpho="g=f|n=s" head="3" dep="ats">partie</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="cette" postag="DET" morpho="g=f|n=s" head="8" dep="det">cette</word>
-          <word id="8" lem="branche" postag="NC" morpho="g=f|n=s" head="6" dep="prep">branche</word>
-          <word id="9" lem="que" postag="PROREL" morpho="_" head="10" dep="obj">que</word>
-          <word id="10" lem="parcourir" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="mod_rel">parcourt</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="circulation" postag="NC" morpho="g=f|n=s" head="10" dep="suj">circulation</word>
-          <word id="13" lem="qui" postag="PROREL" morpho="n=s" head="15" dep="suj">qui</word>
-          <word id="14" lem="se" postag="CLR" morpho="n=p|p=3" head="15" dep="aff">se</word>
-          <word id="15" lem="diriger" postag="V" morpho="n=s|p=13|t=pst" head="12" dep="mod_rel">dirige</word>
-          <word id="16" lem="vers" postag="P" morpho="_" head="15" dep="mod">vers</word>
-          <word id="17" lem="le" postag="DET" morpho="g=m|n=s" head="18" dep="det">le</word>
-          <word id="18" lem="carrefour" postag="NC" morpho="g=m|n=s" head="16" dep="prep">carrefour</word>
-          <word id="19" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="sortie" postag="NC" morpho="g=f|n=s" head="3" dep="suj">sortie</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="partie" postag="NC" morpho="g=f|n=s" head="3" dep="ats">partie</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="cette" postag="DET" morpho="g=f|n=s" head="8" dep="det">cette</word>
-          <word id="8" lem="branche" postag="NC" morpho="g=f|n=s" head="6" dep="prep">branche</word>
-          <word id="9" lem="que" postag="PROREL" morpho="_" head="10" dep="obj">que</word>
-          <word id="10" lem="parcourir" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="mod_rel">parcourt</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="circulation" postag="NC" morpho="g=f|n=s" head="10" dep="suj">circulation</word>
-          <word id="13" lem="lorsqu'" postag="CS" morpho="_" head="3" dep="mod">lorsqu'</word>
-          <word id="14" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="15" dep="suj">elle</word>
-          <word id="15" lem="quitter" postag="V" morpho="n=s|p=13|t=pst" head="13" dep="sub">quitte</word>
-          <word id="16" lem="le" postag="DET" morpho="g=m|n=s" head="17" dep="det">le</word>
-          <word id="17" lem="carrefour" postag="NC" morpho="g=m|n=s" head="15" dep="obj">carrefour</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=p" head="0" dep="_">Carrefours</word>
-        <word id="2" lem="plan" postag="NC" morpho="g=m|n=p" head="1" dep="mod">plans</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=s" head="0" dep="_">Carrefour</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">T</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-          <word id="2" lem="se" postag="CLR" morpho="p=3" head="3" dep="aff">s'</word>
-          <word id="3" lem="agir" postag="V" morpho="n=s|p=3|t=past" head="0" dep="root">agit</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">d'</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="carrefour" postag="NC" morpho="g=m|n=s" head="4" dep="prep">carrefour</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
-          <word id="8" lem="deux" postag="ADJ" morpho="n=p" head="9" dep="mod">trois</word>
-          <word id="9" lem="branche" postag="NC" morpho="g=f|n=p" head="7" dep="prep">branches</word>
-          <word id="10" lem="dont" postag="PROREL" morpho="_" head="16" dep="de_obj">dont</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-          <word id="12" lem="un" postag="PRO" morpho="g=f|n=s" head="16" dep="suj">une</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="ces" postag="DET" morpho="n=p" head="15" dep="det">ces</word>
-          <word id="15" lem="branche" postag="NC" morpho="g=f|n=p" head="13" dep="prep">branches</word>
-          <word id="16" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="mod_rel">est</word>
-          <word id="17" lem="à_peu_près" postag="ADV" morpho="_" head="16" dep="mod">à_peu_près</word>
-          <word id="18" lem="dans" postag="P" morpho="_" head="16" dep="mod">dans</word>
-          <word id="19" lem="le" postag="DET" morpho="g=m|n=s" head="20" dep="det">le</word>
-          <word id="20" lem="prolongement" postag="NC" morpho="g=m|n=s" head="18" dep="prep">prolongement</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">d'</word>
-          <word id="22" lem="une" postag="DET" morpho="g=f|n=s" head="24" dep="det">une</word>
-          <word id="23" lem="autre" postag="ADJ" morpho="n=s" head="24" dep="mod">autre</word>
-          <word id="24" lem="branche" postag="NC" morpho="g=f|n=s" head="21" dep="prep">branche</word>
-          <word id="25" lem="et" postag="CC" morpho="_" head="24" dep="coord">et</word>
-          <word id="26" lem="dont" postag="PROREL" morpho="_" head="0" dep="_">dont</word>
-          <word id="27" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
-          <word id="28" lem="troisième" postag="ADJ" morpho="n=p" head="29" dep="mod">troisième</word>
-          <word id="29" lem="coupe" postag="NC" morpho="g=f|n=s" head="0" dep="_">coupe</word>
-          <word id="30" lem="ce" postag="DET" morpho="g=m|n=s" head="31" dep="det">ce</word>
-          <word id="31" lem="prolongement" postag="NC" morpho="g=m|n=s" head="29" dep="mod">prolongement</word>
-          <word id="32" lem="sous" postag="P" morpho="_" head="31" dep="dep">sous</word>
-          <word id="33" lem="un" postag="DET" morpho="g=m|n=s" head="34" dep="det">un</word>
-          <word id="34" lem="angle" postag="NC" morpho="g=m|n=s" head="32" dep="prep">angle</word>
-          <word id="35" lem="comprendre" postag="VPP" morpho="g=m|t=past" head="34" dep="mod">compris</word>
-          <word id="36" lem="entre" postag="P" morpho="_" head="35" dep="mod">entre</word>
-          <word id="37" lem="#NUM#" postag="DET" morpho="n=p" head="40" dep="det">75</word>
-          <word id="38" lem="et" postag="CC" morpho="_" head="37" dep="coord">et</word>
-          <word id="39" lem="#NUM#" postag="DET" morpho="n=p" head="38" dep="dep_coord">105</word>
-          <word id="40" lem="°" postag="NC" morpho="g=m" head="36" dep="prep">°</word>
-          <word id="41" lem="." postag="PONCT" morpho="_" head="29" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=s" head="0" dep="_">Carrefour</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="Y" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Y</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-          <word id="2" lem="se" postag="CLR" morpho="p=3" head="3" dep="aff">s'</word>
-          <word id="3" lem="agir" postag="V" morpho="n=s|p=3|t=past" head="0" dep="root">agit</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">d'</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="carrefour" postag="NC" morpho="g=m|n=s" head="4" dep="prep">carrefour</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
-          <word id="8" lem="deux" postag="ADJ" morpho="n=p" head="9" dep="mod">trois</word>
-          <word id="9" lem="branche" postag="NC" morpho="g=f|n=p" head="7" dep="prep">branches</word>
-          <word id="10" lem="dont" postag="PROREL" morpho="_" head="16" dep="de_obj">dont</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-          <word id="12" lem="un" postag="PRO" morpho="g=f|n=s" head="16" dep="suj">une</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="ces" postag="DET" morpho="n=p" head="15" dep="det">ces</word>
-          <word id="15" lem="branche" postag="NC" morpho="g=f|n=p" head="13" dep="prep">branches</word>
-          <word id="16" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="mod_rel">est</word>
-          <word id="17" lem="dans" postag="P" morpho="_" head="16" dep="mod">dans</word>
-          <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
-          <word id="19" lem="prolongement" postag="NC" morpho="g=m|n=s" head="17" dep="prep">prolongement</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
-          <word id="21" lem="une" postag="DET" morpho="g=f|n=s" head="22" dep="det">une</word>
-          <word id="22" lem="autre" postag="ADJ" morpho="n=s" head="20" dep="prep">autre</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
-          <word id="24" lem="dont" postag="PROREL" morpho="_" head="28" dep="de_obj">dont</word>
-          <word id="25" lem="la" postag="DET" morpho="g=f|n=s" head="27" dep="det">la</word>
-          <word id="26" lem="troisième" postag="ADJ" morpho="n=p" head="27" dep="mod">troisième</word>
-          <word id="27" lem="branche" postag="NC" morpho="g=f|n=s" head="28" dep="suj">branche</word>
-          <word id="28" lem="couper" postag="V" morpho="n=s|p=13|t=pst" head="23" dep="dep_coord">coupe</word>
-          <word id="29" lem="ce" postag="DET" morpho="g=m|n=s" head="30" dep="det">ce</word>
-          <word id="30" lem="prolongement" postag="NC" morpho="g=m|n=s" head="28" dep="obj">prolongement</word>
-          <word id="31" lem="sous" postag="P" morpho="_" head="28" dep="mod">sous</word>
-          <word id="32" lem="un" postag="DET" morpho="g=m|n=s" head="33" dep="det">un</word>
-          <word id="33" lem="angle" postag="NC" morpho="g=m|n=s" head="31" dep="prep">angle</word>
-          <word id="34" lem="inférieur" postag="ADJ" morpho="g=m|n=s" head="33" dep="mod">inférieur</word>
-          <word id="35" lem="à" postag="P" morpho="_" head="34" dep="a_obj">à</word>
-          <word id="36" lem="#NUM#" postag="DET" morpho="n=p" head="37" dep="det">75</word>
-          <word id="37" lem="°" postag="NC" morpho="g=m" head="35" dep="prep">°</word>
-          <word id="38" lem="ou" postag="CC" morpho="_" head="37" dep="coord">ou</word>
-          <word id="39" lem="supérieur" postag="ADJ" morpho="g=m|n=s" head="38" dep="dep_coord">supérieur</word>
-          <word id="40" lem="à" postag="P" morpho="_" head="39" dep="a_obj">à</word>
-          <word id="41" lem="#NUM#" postag="DET" morpho="n=p" head="42" dep="det">105</word>
-          <word id="42" lem="°" postag="NC" morpho="g=m" head="40" dep="prep">°</word>
-          <word id="43" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=s" head="0" dep="_">Carrefour</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="croix" postag="NC" morpho="g=f" head="2" dep="prep">croix</word>
-          <word id="4" lem="simple" postag="ADJ" morpho="n=s" head="1" dep="mod">simple</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-          <word id="2" lem="se" postag="CLR" morpho="p=3" head="3" dep="aff">s'</word>
-          <word id="3" lem="agir" postag="V" morpho="n=s|p=3|t=past" head="0" dep="root">agit</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">d'</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="carrefour" postag="NC" morpho="g=m|n=s" head="4" dep="prep">carrefour</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
-          <word id="8" lem="deux" postag="ADJ" morpho="n=p" head="9" dep="mod">quatre</word>
-          <word id="9" lem="branche" postag="NC" morpho="g=f|n=p" head="7" dep="prep">branches</word>
-          <word id="10" lem="dont" postag="PROREL" morpho="_" head="15" dep="de_obj">dont</word>
-          <word id="11" lem="deux" postag="NC" morpho="g=m" head="15" dep="suj">deux</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="ces" postag="DET" morpho="n=p" head="14" dep="det">ces</word>
-          <word id="14" lem="branche" postag="NC" morpho="g=f|n=p" head="12" dep="prep">branches</word>
-          <word id="15" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="9" dep="mod_rel">sont</word>
-          <word id="16" lem="à_peu_près" postag="ADV" morpho="_" head="15" dep="mod">à_peu_près</word>
-          <word id="17" lem="dans" postag="P" morpho="_" head="15" dep="mod">dans</word>
-          <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
-          <word id="19" lem="prolongement" postag="NC" morpho="g=m|n=s" head="17" dep="prep">prolongement</word>
-          <word id="20" lem="de" postag="P+D" morpho="n=p" head="19" dep="dep">des</word>
-          <word id="21" lem="deux" postag="NC" morpho="g=m" head="20" dep="prep">deux</word>
-          <word id="22" lem="autres" postag="ADJ" morpho="n=p" head="21" dep="mod">autres</word>
-          <word id="23" lem="branche" postag="NC" morpho="g=f|n=p" head="21" dep="mod">branches</word>
-          <word id="24" lem="et" postag="CC" morpho="_" head="17" dep="coord">et</word>
-          <word id="25" lem="pour" postag="P" morpho="_" head="24" dep="dep_coord">pour</word>
-          <word id="26" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="25" dep="prep">lequel</word>
-          <word id="27" lem="l'" postag="DET" morpho="n=s" head="28" dep="det">l'</word>
-          <word id="28" lem="angle" postag="NC" morpho="g=m|n=s" head="0" dep="_">angle</word>
-          <word id="29" lem="de" postag="P" morpho="_" head="28" dep="dep">de</word>
-          <word id="30" lem="ces" postag="DET" morpho="n=p" head="31" dep="det">ces</word>
-          <word id="31" lem="prolongement" postag="NC" morpho="g=m|n=p" head="29" dep="prep">prolongements</word>
-          <word id="32" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">est</word>
-          <word id="33" lem="de" postag="P" morpho="_" head="32" dep="ats">de</word>
-          <word id="34" lem="#NUM#" postag="DET" morpho="n=p" head="35" dep="det">75</word>
-          <word id="35" lem="°" postag="NC" morpho="g=m" head="33" dep="prep">°</word>
-          <word id="36" lem="ou" postag="CC" morpho="_" head="35" dep="coord">ou</word>
-          <word id="37" lem="davantage" postag="ADV" morpho="_" head="39" dep="mod">davantage</word>
-          <word id="38" lem="tout" postag="ADV" morpho="_" head="39" dep="mod">tout</word>
-          <word id="39" lem="en" postag="P" morpho="_" head="36" dep="dep_coord">en</word>
-          <word id="40" lem="rester" postag="VPR" morpho="t=pst" head="39" dep="prep">restant</word>
-          <word id="41" lem="inférieur" postag="ADJ" morpho="g=m|n=s" head="40" dep="ats">inférieur</word>
-          <word id="42" lem="à" postag="P" morpho="_" head="41" dep="a_obj">à</word>
-          <word id="43" lem="#NUM#" postag="PRO" morpho="n=p" head="42" dep="prep">105</word>
-          <word id="44" lem="." postag="PONCT" morpho="_" head="32" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=s" head="0" dep="_">Carrefour</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">X</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-          <word id="2" lem="se" postag="CLR" morpho="p=3" head="3" dep="aff">s'</word>
-          <word id="3" lem="agir" postag="V" morpho="n=s|p=3|t=past" head="0" dep="root">agit</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">d'</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="carrefour" postag="NC" morpho="g=m|n=s" head="4" dep="prep">carrefour</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
-          <word id="8" lem="deux" postag="ADJ" morpho="n=p" head="9" dep="mod">quatre</word>
-          <word id="9" lem="branche" postag="NC" morpho="g=f|n=p" head="7" dep="prep">branches</word>
-          <word id="10" lem="dont" postag="PROREL" morpho="_" head="13" dep="de_obj">dont</word>
-          <word id="11" lem="deux" postag="ADJ" morpho="n=p" head="12" dep="mod">deux</word>
-          <word id="12" lem="branche" postag="NC" morpho="g=f|n=p" head="13" dep="suj">branches</word>
-          <word id="13" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="mod_rel">sont</word>
-          <word id="14" lem="à_peu_près" postag="ADV" morpho="_" head="13" dep="mod">à_peu_près</word>
-          <word id="15" lem="dans" postag="P" morpho="_" head="13" dep="mod">dans</word>
-          <word id="16" lem="le" postag="DET" morpho="g=m|n=s" head="17" dep="det">le</word>
-          <word id="17" lem="prolongement" postag="NC" morpho="g=m|n=s" head="15" dep="prep">prolongement</word>
-          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-          <word id="19" lem="deux" postag="NC" morpho="g=m" head="18" dep="prep">deux</word>
-          <word id="20" lem="autres" postag="ADJ" morpho="n=p" head="19" dep="mod">autres</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="22" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
-          <word id="23" lem="pour" postag="P" morpho="_" head="33" dep="mod">pour</word>
-          <word id="24" lem="lequel" postag="PROREL" morpho="g=f|n=p" head="23" dep="prep">lesquelles</word>
-          <word id="25" lem="l'" postag="DET" morpho="n=s" head="26" dep="det">l'</word>
-          <word id="26" lem="angle" postag="NC" morpho="g=m|n=s" head="33" dep="suj">angle</word>
-          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">d'</word>
-          <word id="28" lem="intersection" postag="NC" morpho="g=f|n=s" head="27" dep="prep">intersection</word>
-          <word id="29" lem="de" postag="P" morpho="_" head="26" dep="dep">de</word>
-          <word id="30" lem="ces" postag="DET" morpho="n=p" head="31" dep="det">ces</word>
-          <word id="31" lem="deux" postag="NC" morpho="g=m" head="29" dep="prep">deux</word>
-          <word id="32" lem="prolongement" postag="NC" morpho="g=m|n=p" head="31" dep="mod">prolongements</word>
-          <word id="33" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="22" dep="dep_coord">est</word>
-          <word id="34" lem="inférieur" postag="ADJ" morpho="g=m|n=s" head="33" dep="ats">inférieur</word>
-          <word id="35" lem="à" postag="P" morpho="_" head="34" dep="a_obj">à</word>
-          <word id="36" lem="#NUM#" postag="DET" morpho="n=p" head="37" dep="det">75</word>
-          <word id="37" lem="°" postag="NC" morpho="g=m" head="35" dep="prep">°</word>
-          <word id="38" lem="ou" postag="CC" morpho="_" head="37" dep="coord">ou</word>
-          <word id="39" lem="supérieur" postag="ADJ" morpho="g=m|n=s" head="38" dep="dep_coord">supérieur</word>
-          <word id="40" lem="à" postag="P" morpho="_" head="34" dep="a_obj">à</word>
-          <word id="41" lem="#NUM#" postag="DET" morpho="n=p" head="42" dep="det">105</word>
-          <word id="42" lem="°" postag="NC" morpho="g=m" head="40" dep="prep">°</word>
-          <word id="43" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=s" head="0" dep="root">Carrefour</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="branche" postag="NC" morpho="g=f|n=p" head="2" dep="prep">branches</word>
-          <word id="4" lem="multiple" postag="ADJ" morpho="n=p" head="3" dep="mod">multiples</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="carrefour" postag="NC" morpho="g=m|n=s" head="6" dep="suj">carrefour</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="branche" postag="NC" morpho="g=f|n=p" head="3" dep="prep">branches</word>
-          <word id="5" lem="multiple" postag="ADJ" morpho="n=p" head="4" dep="mod">multiples</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="carrefour" postag="NC" morpho="g=m|n=s" head="6" dep="ats">carrefour</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="dep">à</word>
-          <word id="10" lem="deux" postag="ADJ" morpho="n=p" head="11" dep="mod">cinq</word>
-          <word id="11" lem="branche" postag="NC" morpho="g=f|n=p" head="9" dep="prep">branches</word>
-          <word id="12" lem="ou" postag="CC" morpho="_" head="8" dep="coord">ou</word>
-          <word id="13" lem="plus" postag="ADV" morpho="_" head="12" dep="dep_coord">plus</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=s" head="0" dep="_">Carrefour</word>
-          <word id="2" lem="giratoire" postag="ADJ" morpho="n=s" head="1" dep="mod">giratoire</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="carrefour" postag="NC" morpho="g=m|n=s" head="4" dep="suj">carrefour</word>
-          <word id="3" lem="giratoire" postag="ADJ" morpho="n=s" head="2" dep="mod">giratoire</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="carrefour" postag="NC" morpho="g=m|n=s" head="4" dep="ats">carrefour</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="6" dep="dep">à</word>
-          <word id="8" lem="deux" postag="ADJ" morpho="n=p" head="9" dep="mod">trois</word>
-          <word id="9" lem="branche" postag="NC" morpho="g=f|n=p" head="7" dep="prep">branches</word>
-          <word id="10" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
-          <word id="11" lem="plus" postag="ADV" morpho="_" head="36" dep="mod">plus</word>
-          <word id="12" lem="dans" postag="P" morpho="_" head="36" dep="mod">dans</word>
-          <word id="13" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="12" dep="prep">lequel</word>
-          <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-          <word id="15" lem="courant" postag="NC" morpho="g=m|n=p" head="36" dep="suj">courants</word>
-          <word id="16" lem="convergent" postag="ADJ" morpho="g=m|n=s" head="15" dep="mod">convergent</word>
-          <word id="17" lem="puis" postag="CC" morpho="_" head="15" dep="coord">puis</word>
-          <word id="18" lem="divergent" postag="NC" morpho="g=m|n=s" head="17" dep="dep_coord">divergent</word>
-          <word id="19" lem="sur" postag="P" morpho="_" head="15" dep="dep">sur</word>
-          <word id="20" lem="une" postag="DET" morpho="g=f|n=s" head="21" dep="det">une</word>
-          <word id="21" lem="chaussée" postag="NC" morpho="g=f|n=s" head="19" dep="prep">chaussée</word>
-          <word id="22" lem="à" postag="P" morpho="_" head="21" dep="dep">à</word>
-          <word id="23" lem="sens" postag="NC" morpho="g=m" head="22" dep="prep">sens</word>
-          <word id="24" lem="unique" postag="ADJ" morpho="n=s" head="23" dep="mod">unique</word>
-          <word id="25" lem="entourer" postag="VPR" morpho="t=pst" head="23" dep="mod">entourant</word>
-          <word id="26" lem="un" postag="DET" morpho="g=m|n=s" head="27" dep="det">un</word>
-          <word id="27" lem="îlot" postag="NC" morpho="g=m|n=s" head="25" dep="obj">îlot</word>
-          <word id="28" lem="central" postag="ADJ" morpho="g=m|n=s" head="27" dep="mod">central</word>
-          <word id="29" lem=";" postag="PONCT" morpho="_" head="15" dep="ponct">;</word>
-          <word id="30" lem="la" postag="DET" morpho="g=f|n=s" head="31" dep="det">la</word>
-          <word id="31" lem="circulation" postag="NC" morpho="g=f|n=s" head="15" dep="mod">circulation</word>
-          <word id="32" lem="sur" postag="P" morpho="_" head="31" dep="dep">sur</word>
-          <word id="33" lem="cette" postag="DET" morpho="g=f|n=s" head="34" dep="det">cette</word>
-          <word id="34" lem="chaussée" postag="NC" morpho="g=f|n=s" head="32" dep="prep">chaussée</word>
-          <word id="35" lem="se" postag="CLR" morpho="n=p|p=3" head="36" dep="aff">se</word>
-          <word id="36" lem="faire" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="dep_coord">fait</word>
-          <word id="37" lem="dans" postag="P" morpho="_" head="36" dep="mod">dans</word>
-          <word id="38" lem="le" postag="DET" morpho="g=m|n=s" head="39" dep="det">le</word>
-          <word id="39" lem="sens" postag="NC" morpho="g=m" head="37" dep="prep">sens</word>
-          <word id="40" lem="inverse" postag="ADJ" morpho="n=s" head="39" dep="mod">inverse</word>
-          <word id="41" lem="de" postag="P+D" morpho="n=p" head="39" dep="dep">des</word>
-          <word id="42" lem="aiguille" postag="NC" morpho="g=f|n=p" head="41" dep="prep">aiguilles</word>
-          <word id="43" lem="de" postag="P" morpho="_" head="42" dep="dep">d'</word>
-          <word id="44" lem="une" postag="DET" morpho="g=f|n=s" head="45" dep="det">une</word>
-          <word id="45" lem="montre" postag="NC" morpho="g=f|n=s" head="43" dep="prep">montre</word>
-          <word id="46" lem="(" postag="PONCT" morpho="_" head="36" dep="ponct">(</word>
-          <word id="47" lem="dans" postag="P" morpho="_" head="36" dep="mod">dans</word>
-          <word id="48" lem="les" postag="DET" morpho="n=p" head="49" dep="det">les</word>
-          <word id="49" lem="pays" postag="NC" morpho="g=m" head="47" dep="prep">pays</word>
-          <word id="50" lem="où" postag="PROREL" morpho="_" head="52" dep="mod">où</word>
-          <word id="51" lem="on" postag="CLS" morpho="n=s|p=3" head="52" dep="suj">on</word>
-          <word id="52" lem="rouler" postag="V" morpho="n=s|p=13|t=pst" head="49" dep="mod_rel">roule</word>
-          <word id="53" lem="à" postag="P" morpho="_" head="52" dep="mod">à</word>
-          <word id="54" lem="gauche" postag="NC" morpho="n=s" head="53" dep="prep">gauche</word>
-          <word id="55" lem="," postag="PONCT" morpho="_" head="36" dep="ponct">,</word>
-          <word id="56" lem="la" postag="DET" morpho="g=f|n=s" head="57" dep="det">la</word>
-          <word id="57" lem="circulation" postag="NC" morpho="g=f|n=s" head="36" dep="mod">circulation</word>
-          <word id="58" lem="se" postag="CLR" morpho="p=3" head="59" dep="aff">s'</word>
-          <word id="59" lem="effectuer" postag="V" morpho="n=s|p=13|t=pst" head="57" dep="mod_rel">effectue</word>
-          <word id="60" lem="dans" postag="P" morpho="_" head="59" dep="mod">dans</word>
-          <word id="61" lem="le" postag="DET" morpho="g=m|n=s" head="62" dep="det">le</word>
-          <word id="62" lem="sens" postag="NC" morpho="g=m" head="60" dep="prep">sens</word>
-          <word id="63" lem="de" postag="P+D" morpho="n=p" head="62" dep="dep">des</word>
-          <word id="64" lem="aiguille" postag="NC" morpho="g=f|n=p" head="63" dep="prep">aiguilles</word>
-          <word id="65" lem="de" postag="P" morpho="_" head="64" dep="dep">d'</word>
-          <word id="66" lem="une" postag="DET" morpho="g=f|n=s" head="67" dep="det">une</word>
-          <word id="67" lem="montre" postag="NC" morpho="g=f|n=s" head="65" dep="prep">montre</word>
-          <word id="68" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-          <word id="69" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="carrefour" postag="NC" morpho="g=m|n=p" head="0" dep="root">Carrefours</word>
-        <word id="2" lem="dénivelé" postag="NC" morpho="g=m|n=p" head="1" dep="mod">dénivelés</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-        <word id="2" lem="carrefour" postag="NC" morpho="g=m|n=s" head="4" dep="suj">carrefour</word>
-        <word id="3" lem="déniveler" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">dénivelé</word>
-        <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-        <word id="6" lem="ensemble" postag="NC" morpho="g=m|n=s" head="4" dep="ats">ensemble</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-        <word id="8" lem="deux" postag="NC" morpho="g=m" head="7" dep="prep">deux</word>
-        <word id="9" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
-        <word id="10" lem="plusieurs" postag="DET" morpho="n=p" head="11" dep="det">plusieurs</word>
-        <word id="11" lem="route" postag="NC" morpho="g=f|n=p" head="9" dep="dep_coord">routes</word>
-        <word id="12" lem="qui" postag="PROREL" morpho="n=s" head="14" dep="suj">qui</word>
-        <word id="13" lem="se" postag="CLR" morpho="n=p|p=3" head="14" dep="aff">se</word>
-        <word id="14" lem="croiser" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="mod_rel">croisent</word>
-        <word id="15" lem="sur" postag="P" morpho="_" head="14" dep="mod">sur</word>
-        <word id="16" lem="des" postag="DET" morpho="n=p" head="17" dep="det">des</word>
-        <word id="17" lem="niveau" postag="NC" morpho="g=m|n=p" head="15" dep="prep">niveaux</word>
-        <word id="18" lem="séparer" postag="VPP" morpho="g=m|n=p|t=past" head="17" dep="mod">séparés</word>
-        <word id="19" lem="par" postag="P" morpho="_" head="18" dep="p_obj">par</word>
-        <word id="20" lem="le" postag="DET" morpho="g=m|n=s" head="21" dep="det">le</word>
-        <word id="21" lem="biais" postag="NC" morpho="g=m" head="19" dep="prep">biais</word>
-        <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">d'</word>
-        <word id="23" lem="un" postag="DET" morpho="g=m|n=s" head="0" dep="_">un</word>
-        <word id="24" lem="ou" postag="CC" morpho="_" head="23" dep="coord">ou</word>
-        <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep_coord">de</word>
-        <word id="26" lem="plusieurs" postag="DET" morpho="n=p" head="27" dep="det">plusieurs</word>
-        <word id="27" lem="ouvrage" postag="NC" morpho="g=m|n=p" head="25" dep="prep">ouvrages</word>
-        <word id="28" lem="de" postag="P" morpho="_" head="27" dep="dep">d'</word>
-        <word id="29" lem="art" postag="NC" morpho="g=m|n=s" head="28" dep="prep">art</word>
-        <word id="30" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-      </sentence>
-      <sentence id="3">
-        <word id="1" lem="cela" postag="PRO" morpho="g=m|n=s" head="2" dep="suj">Cela</word>
-        <word id="2" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">permet</word>
-        <word id="3" lem="à" postag="P" morpho="_" head="2" dep="a_obj">à</word>
-        <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Ia</word>
-        <word id="5" lem="circulation" postag="NC" morpho="g=f|n=s" head="4" dep="mod">circulation</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-        <word id="7" lem="chacun" postag="PRO" morpho="g=f|n=s" head="6" dep="prep">chacune</word>
-        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-        <word id="9" lem="ces" postag="DET" morpho="n=p" head="10" dep="det">ces</word>
-        <word id="10" lem="route" postag="NC" morpho="g=f|n=p" head="8" dep="prep">routes</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="2" dep="de_obj">de</word>
-        <word id="12" lem="couper" postag="VINF" morpho="_" head="11" dep="prep">couper</word>
-        <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-        <word id="14" lem="circulation" postag="NC" morpho="g=f|n=s" head="12" dep="obj">circulation</word>
-        <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-        <word id="16" lem="tout" postag="ADJ" morpho="g=f|n=p" head="19" dep="mod">toutes</word>
-        <word id="17" lem="les" postag="DET" morpho="n=p" head="19" dep="det">les</word>
-        <word id="18" lem="autres" postag="ADJ" morpho="n=p" head="19" dep="mod">autres</word>
-        <word id="19" lem="route" postag="NC" morpho="g=f|n=p" head="15" dep="prep">routes</word>
-        <word id="20" lem="sans" postag="P" morpho="_" head="19" dep="dep">sans</word>
-        <word id="21" lem="conflit" postag="NC" morpho="g=m|n=p" head="20" dep="prep">conflits</word>
-        <word id="22" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="échangeur" postag="NC" morpho="g=m|n=s" head="0" dep="_">Échangeur</word>
-          <word id="2" lem="autoroutier" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">autoroutier</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="échangeur" postag="NC" morpho="g=m|n=s" head="3" dep="suj">échangeur</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="carrefour" postag="NC" morpho="g=m|n=s" head="3" dep="ats">carrefour</word>
-          <word id="6" lem="déniveler" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">dénivelé</word>
-          <word id="7" lem="entre" postag="P" morpho="_" head="6" dep="mod">entre</word>
-          <word id="8" lem="deux" postag="NC" morpho="g=m" head="7" dep="prep">deux</word>
-          <word id="9" lem="ou" postag="CC" morpho="_" head="8" dep="coord">ou</word>
-          <word id="10" lem="plusieurs" postag="DET" morpho="n=p" head="11" dep="det">plusieurs</word>
-          <word id="11" lem="autoroute" postag="NC" morpho="g=f|n=p" head="9" dep="dep_coord">autoroutes</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-          <word id="2" lem="parler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">parle</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="de_obj">de</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">nœud</word>
-          <word id="5" lem="autoroutier" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">autoroutier</word>
-          <word id="6" lem="pour" postag="P" morpho="_" head="2" dep="mod">pour</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="échangeur" postag="NC" morpho="g=m|n=s" head="6" dep="prep">échangeur</word>
-          <word id="9" lem="entre" postag="P" morpho="_" head="2" dep="mod">entre</word>
-          <word id="10" lem="plusieurs" postag="DET" morpho="n=p" head="11" dep="det">plusieurs</word>
-          <word id="11" lem="autoroute" postag="NC" morpho="g=f|n=p" head="9" dep="prep">autoroutes</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="dans" postag="P" morpho="_" head="10" dep="mod">Dans</word>
-          <word id="2" lem="les" postag="DET" morpho="n=p" head="3" dep="det">les</word>
-          <word id="3" lem="cas" postag="NC" morpho="g=m" head="1" dep="prep">cas</word>
-          <word id="4" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="5" lem="plus" postag="ADV" morpho="_" head="6" dep="mod">plus</word>
-          <word id="6" lem="complexe" postag="ADJ" morpho="n=p" head="3" dep="mod">complexes</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-          <word id="8" lem="les" postag="DET" morpho="n=p" head="9" dep="det">les</word>
-          <word id="9" lem="chaussée" postag="NC" morpho="g=f|n=p" head="10" dep="suj">chaussées</word>
-          <word id="10" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
-          <word id="11" lem="se" postag="CLR" morpho="p=3" head="12" dep="aff">s'</word>
-          <word id="12" lem="étager" postag="VINF" morpho="_" head="10" dep="obj">étager</word>
-          <word id="13" lem="sur" postag="P" morpho="_" head="12" dep="mod">sur</word>
-          <word id="14" lem="deux" postag="ADJ" morpho="n=p" head="15" dep="mod">quatre</word>
-          <word id="15" lem="niveau" postag="NC" morpho="g=m|n=p" head="13" dep="prep">niveaux</word>
-          <word id="16" lem="_" postag="ADJ" morpho="_" head="15" dep="mod">différents.Un</word>
-          <word id="17" lem="échangeur" postag="NC" morpho="g=m|n=s" head="15" dep="mod">échangeur</word>
-          <word id="18" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="mod">peut</word>
-          <word id="19" lem="être" postag="VINF" morpho="_" head="0" dep="_">être</word>
-          <word id="20" lem="complet" postag="ADJ" morpho="g=m|n=s" head="19" dep="ats">complet</word>
-          <word id="21" lem="(" postag="PONCT" morpho="_" head="19" dep="ponct">(</word>
-          <word id="22" lem="_" postag="NC" morpho="_" head="19" dep="mod">bidirectionnel</word>
-          <word id="23" lem=")" postag="PONCT" morpho="_" head="19" dep="ponct">)</word>
-          <word id="24" lem="ou" postag="CC" morpho="_" head="19" dep="coord">ou</word>
-          <word id="25" lem="partiel" postag="ADJ" morpho="g=m|n=s" head="24" dep="dep_coord">partiel</word>
-          <word id="26" lem="(" postag="PONCT" morpho="_" head="24" dep="ponct">(</word>
-          <word id="27" lem="donner" postag="VPR" morpho="t=pst" head="24" dep="dep_coord">donnant</word>
-          <word id="28" lem="accès" postag="NC" morpho="g=m" head="27" dep="obj">accès</word>
-          <word id="29" lem="à" postag="P" morpho="_" head="27" dep="a_obj">à</word>
-          <word id="30" lem="une" postag="DET" morpho="g=f|n=s" head="32" dep="det">une</word>
-          <word id="31" lem="seul" postag="ADJ" morpho="g=f|n=s" head="32" dep="mod">seule</word>
-          <word id="32" lem="direction" postag="NC" morpho="g=f|n=s" head="29" dep="prep">direction</word>
-          <word id="33" lem="de" postag="P" morpho="_" head="32" dep="dep">de</word>
-          <word id="34" lem="l'" postag="DET" morpho="n=s" head="35" dep="det">l'</word>
-          <word id="35" lem="autoroute" postag="NC" morpho="g=f|n=s" head="33" dep="prep">autoroute</word>
-          <word id="36" lem=")" postag="PONCT" morpho="_" head="24" dep="ponct">)</word>
-          <word id="37" lem="." postag="PONCT" morpho="_" head="24" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="diffuseur" postag="NC" morpho="g=m|n=s" head="0" dep="root">Diffuseur</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="diffuseur" postag="NC" morpho="g=m|n=s" head="3" dep="suj">diffuseur</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="carrefour" postag="NC" morpho="g=m|n=s" head="3" dep="ats">carrefour</word>
-          <word id="6" lem="déniveler" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">dénivelé</word>
-          <word id="7" lem="entre" postag="P" morpho="_" head="6" dep="mod">entre</word>
-          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="9" lem="autoroute" postag="NC" morpho="g=f|n=s" head="7" dep="prep">autoroute</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
-          <word id="12" lem="réseau" postag="NC" morpho="g=m|n=s" head="10" dep="dep_coord">réseau</word>
-          <word id="13" lem="_" postag="ADJ" morpho="_" head="12" dep="mod">routier.Il</word>
-          <word id="14" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="mod_rel">peut</word>
-          <word id="15" lem="être" postag="VINF" morpho="_" head="14" dep="obj">être</word>
-          <word id="16" lem="complet" postag="ADJ" morpho="g=m|n=s" head="15" dep="ats">complet</word>
-          <word id="17" lem="(" postag="PONCT" morpho="_" head="14" dep="ponct">(</word>
-          <word id="18" lem="si" postag="CS" morpho="_" head="14" dep="mod">s'</word>
-          <word id="19" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="20" dep="suj">il</word>
-          <word id="20" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="18" dep="sub">permet</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="obj">d'</word>
-          <word id="22" lem="entrer" postag="VINF" morpho="_" head="21" dep="prep">entrer</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
-          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep_coord">de</word>
-          <word id="25" lem="sortir" postag="VINF" morpho="_" head="24" dep="prep">sortir</word>
-          <word id="26" lem="de" postag="P" morpho="_" head="25" dep="de_obj">de</word>
-          <word id="27" lem="l'" postag="DET" morpho="n=s" head="28" dep="det">l'</word>
-          <word id="28" lem="autoroute" postag="NC" morpho="g=f|n=s" head="26" dep="prep">autoroute</word>
-          <word id="29" lem="dans" postag="P" morpho="_" head="25" dep="mod">dans</word>
-          <word id="30" lem="les" postag="DET" morpho="n=p" head="32" dep="det">les</word>
-          <word id="31" lem="deux" postag="ADJ" morpho="n=p" head="32" dep="mod">deux</word>
-          <word id="32" lem="sens" postag="NC" morpho="g=m" head="29" dep="prep">sens</word>
-          <word id="33" lem=")" postag="PONCT" morpho="_" head="25" dep="ponct">)</word>
-          <word id="34" lem="ou" postag="CC" morpho="_" head="25" dep="coord">ou</word>
-          <word id="35" lem="incomplet" postag="ADJ" morpho="g=m|n=s" head="34" dep="dep_coord">incomplet</word>
-          <word id="36" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="3" dep="suj">demi-diffuseur</word>
-          <word id="3" lem="comporter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">comporte</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="entrée" postag="NC" morpho="g=f|n=s" head="3" dep="obj">entrée</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
-          <word id="8" lem="sortie" postag="NC" morpho="g=f|n=s" head="6" dep="dep_coord">sortie</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="8" dep="dep">en</word>
-          <word id="10" lem="sens" postag="NC" morpho="g=m" head="9" dep="prep">sens</word>
-          <word id="11" lem="inverse" postag="ADJ" morpho="n=s" head="10" dep="mod">inverse</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:19</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
-      <span begin="1" end="102" />
-      <text>Un carrefour routier est au sens propre la zone comprise à l’intérieur du prolongement des bordures (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:19</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="items" idSE="0">
-      <span begin="102" end="133" id="0" />
-      <text id="0">ou, s’il n’y a pas de bordures,</text>
-      <span begin="134" end="144" id="1" />
-      <text id="1">des rives)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="primer" idSE="1">
       <span begin="1" end="38" />
       <text>On distingue deux types de branches :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
-    <SEval type="items" idSE="1">
+    <SEval type="items" idSE="0">
       <span begin="39" end="139" id="0" />
       <text id="0">L’entrée est la partie de cette branche que parcourt la circulation qui se dirige vers le carrefour.</text>
       <span begin="140" end="241" id="1" />
@@ -809,118 +65,48 @@ Un diffuseur est un carrefour dénivelé entre une autoroute et le réseau routi
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
-    <SEval type="primer" idSE="2">
-      <span begin="1" end="17" />
-      <text>Carrefours plans</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="18" end="240" id="0" />
-      <text id="0">Carrefour en T
-Il s’agit d’un carrefour à trois branches dont l’une de ces branches est à peu près dans le prolongement d’une autre branche et dont la troisième coupe ce prolongement sous un angle compris entre 75 et 105°.</text>
-      <span begin="241" end="463" id="1" />
-      <text id="1">Carrefour en Y
-Il s’agit d’un carrefour à trois branches dont l’une de ces branches est dans le prolongement d’une autre et dont la troisième branche coupe ce prolongement sous un angle inférieur à 75° ou supérieur à 105°.</text>
-      <span begin="464" end="721" id="2" />
-      <text id="2">Carrefour en croix simple
-Il s’agit d’un carrefour à quatre branches dont deux de ces branches sont à peu près dans le prolongement des deux autres branches et pour lequel l’angle de ces prolongements est de 75° ou davantage tout en restant inférieur à 105.</text>
-      <span begin="722" end="961" id="3" />
-      <text id="3">Carrefour en X
-Il s’agit d’un carrefour à quatre branches dont deux branches sont à peu près dans le prolongement des deux autres, et pour lesquelles l’angle d’intersection de ces deux prolongements est inférieur à 75° ou supérieur à 105°.</text>
-      <span begin="962" end="1068" id="4" />
-      <text id="4">Carrefour à branches multiples
-Un carrefour à branches multiples est un carrefour à cinq branches ou plus.</text>
-      <span begin="1069" end="1458" id="5" />
-      <text id="5">Carrefour giratoire
-Un carrefour giratoire est un carrefour à trois branches ou plus dans lequel les courants convergent puis divergent sur une chaussée à sens unique entourant un îlot central ; la circulation sur cette chaussée se fait dans le sens inverse des aiguilles d’une montre (dans les pays où on roule à gauche, la circulation s’effectue dans le sens des aiguilles d’une montre).</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="primer" idSE="3">
-      <span begin="1" end="299" />
-      <text>Carrefours dénivelés
-Un carrefour dénivelé est un ensemble de deux ou plusieurs routes qui se croisent sur des niveaux séparés par le biais d’un ou de plusieurs ouvrages d’art. Cela permet à Ia circulation de chacune de ces routes de couper la circulation de toutes les autres routes sans conflits.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="items" idSE="3">
-      <span begin="300" end="678" id="0" />
-      <text id="0">Échangeur autoroutier
-Un échangeur est un carrefour dénivelé entre deux ou plusieurs autoroutes. On parle de nœud autoroutier pour un échangeur entre plusieurs autoroutes,
-Dans les cas les plus complexes, les chaussées peuvent s’étager sur quatre niveaux différents.Un échangeur peut être complet (bidirectionnel) ou partiel (donnant accès à une seule direction de l’autoroute).</text>
-      <span begin="679" end="942" id="1" />
-      <text id="1">Diffuseur
-Un diffuseur est un carrefour dénivelé entre une autoroute et le réseau routier.Il peut être complet (s’il permet d’entrer et de sortir de l’autoroute dans les deux sens) ou incomplet. Un demi-diffuseur comporte une entrée et une sortie en sens inverse.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
       <span begin="28" end="36" id="0" />
       <text id="0">branches</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
       <span begin="39" end="47" id="0" />
       <text id="0">L’entrée</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
       <span begin="140" end="149" id="0" />
       <text id="0">La sortie</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
+    <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
       <span begin="1" end="13" id="0" />
       <text id="0">On distingue</text>
       <span begin="14" end="27" id="1" />
@@ -929,134 +115,14 @@ Un diffuseur est un carrefour dénivelé entre une autoroute et le réseau routi
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
-      <span begin="1" end="17" id="0" />
-      <text id="0">Carrefours plans</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
-      <span begin="18" end="32" id="0" />
-      <text id="0">Carrefour en T</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
-      <span begin="241" end="255" id="0" />
-      <text id="0">Carrefour en Y</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="2">
-      <span begin="464" end="489" id="0" />
-      <text id="0">Carrefour en croix simple</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="3">
-      <span begin="722" end="736" id="0" />
-      <text id="0">Carrefour en X</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="4">
-      <span begin="962" end="992" id="0" />
-      <text id="0">Carrefour à branches multiples</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="5">
-      <span begin="1069" end="1088" id="0" />
-      <text id="0">Carrefour giratoire</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
-      <span begin="1" end="21" id="0" />
-      <text id="0">Carrefours dénivelés</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
-      <span begin="300" end="321" id="0" />
-      <text id="0">Échangeur autoroutier</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="1">
-      <span begin="679" end="688" id="0" />
-      <text id="0">Diffuseur</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:19</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
-      <horizontale value="1" />
-      <verticale value="0" />
+      <horizontale value="0" />
+      <verticale value="1" />
       <navigationnelle value="0" />
       <hypertextuelle value="0" />
     </SEval>
@@ -1064,12 +130,12 @@ Un diffuseur est un carrefour dénivelé entre une autoroute et le réseau routi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:19</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -1078,12 +144,12 @@ Un diffuseur est un carrefour dénivelé entre une autoroute et le réseau routi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:19</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -1095,224 +161,11 @@ Un diffuseur est un carrefour dénivelé entre une autoroute et le réseau routi
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:19</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Carrefour.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="1">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="1">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="1">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="1">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="2">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:32</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="2">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="3">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="3">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="3">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 11:33</date>
-      <document>Carrefour.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="3">
       <visee_ontologique value="1">
         <isA value="1" />
         <partOf value="0" />

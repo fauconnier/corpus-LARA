@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Terril.html</document>
     </metadata>
     <SE>
@@ -16,591 +16,36 @@ Que faire des terrils plus ou moins toxiques des anciennes mines d'argent, d'ars
 En Belgique, les terrils des bassins de la Meuse et de la Sambre sont considérés comme faisant partie intégrante du paysage. Ces « montagnes belges » témoignent du riche passé minier du sillon Sambre-et-Meuse. Une demande de classement à la liste du Patrimoine mondial a été déposée à l'UNESCO.</text>
       <span begin="5916" end="8735" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Terril.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="devenir" postag="NC" morpho="g=m|n=s" head="0" dep="_">devenir</word>
-        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-        <word id="4" lem="terril" postag="NC" morpho="g=m|n=p" head="3" dep="prep">terrils</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Terril.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="marque" postag="NC" morpho="g=f|n=p" head="12" dep="mod">Marques</word>
-          <word id="2" lem="imposant" postag="ADJ" morpho="g=f|n=p" head="1" dep="mod">imposantes</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="durable" postag="ADJ" morpho="n=p" head="3" dep="dep_coord">durables</word>
-          <word id="5" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="7" lem="paysage" postag="NC" morpho="g=m|n=s" head="5" dep="prep">paysage</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
-          <word id="10" lem="terril" postag="NC" morpho="g=m|n=p" head="12" dep="suj">terrils</word>
-          <word id="11" lem="minier" postag="ADJ" morpho="g=m|n=p" head="10" dep="mod">miniers</word>
-          <word id="12" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-          <word id="14" lem="enjeu" postag="NC" morpho="g=m|n=s" head="12" dep="ats">enjeu</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="taille" postag="NC" morpho="g=f|n=s" head="15" dep="prep">taille</word>
-          <word id="17" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
-          <word id="18" lem="l'" postag="DET" morpho="n=s" head="19" dep="det">l'</word>
-          <word id="19" lem="aménagement" postag="NC" morpho="g=m|n=s" head="17" dep="prep">aménagement</word>
-          <word id="20" lem="urbain" postag="ADJ" morpho="g=m|n=s" head="19" dep="mod">urbain</word>
-          <word id="21" lem="de" postag="P+D" morpho="n=p" head="19" dep="dep">des</word>
-          <word id="22" lem="ville" postag="NC" morpho="g=f|n=p" head="21" dep="prep">villes</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="22" dep="coord">et</word>
-          <word id="24" lem="région" postag="NC" morpho="g=f|n=p" head="23" dep="dep_coord">régions</word>
-          <word id="25" lem="qui" postag="PROREL" morpho="n=s" head="28" dep="suj">qui</word>
-          <word id="26" lem="les" postag="CLO" morpho="n=p|p=3" head="28" dep="obj">les</word>
-          <word id="27" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="28" dep="aux_tps">ont</word>
-          <word id="28" lem="voir" postag="VPP" morpho="g=m|n=s|t=past" head="24" dep="mod_rel">vu</word>
-          <word id="29" lem="naître" postag="VINF" morpho="_" head="28" dep="obj">naître</word>
-          <word id="30" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="après" postag="P" morpho="_" head="32" dep="mod">Après</word>
-          <word id="2" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">une</word>
-          <word id="3" lem="phase" postag="NC" morpho="g=f|n=s" head="1" dep="prep">phase</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="valorisation" postag="NC" morpho="g=f|n=s" head="4" dep="prep">valorisation</word>
-          <word id="6" lem="commercial" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">commerciale</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="8" lem="exploiter" postag="VPP" morpho="g=m|n=p|t=past" head="3" dep="mod">exploités</word>
-          <word id="9" lem="à" postag="P" morpho="_" head="8" dep="a_obj">à</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="manière" postag="NC" morpho="g=f|n=s" head="9" dep="prep">manière</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
-          <word id="13" lem="une" postag="DET" morpho="g=f|n=s" head="14" dep="det">une</word>
-          <word id="14" lem="carrière" postag="NC" morpho="g=f|n=s" head="12" dep="prep">carrière</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="matériau" postag="NC" morpho="g=m|n=p" head="15" dep="prep">matériaux</word>
-          <word id="17" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="32" dep="ponct">,</word>
-          <word id="19" lem="presque" postag="ADV" morpho="_" head="20" dep="mod">presque</word>
-          <word id="20" lem="systématiquement" postag="ADV" morpho="_" head="32" dep="mod">systématiquement</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="32" dep="ponct">,</word>
-          <word id="22" lem="l'" postag="DET" morpho="n=s" head="23" dep="det">l'</word>
-          <word id="23" lem="idée" postag="NC" morpho="g=f|n=s" head="32" dep="suj">idée</word>
-          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
-          <word id="25" lem="les" postag="CLO" morpho="n=p|p=3" head="26" dep="obj">les</word>
-          <word id="26" lem="supprimer" postag="VINF" morpho="_" head="24" dep="prep">supprimer</word>
-          <word id="27" lem="ne" postag="ADV" morpho="_" head="32" dep="mod">n'</word>
-          <word id="28" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="32" dep="aux_tps">a</word>
-          <word id="29" lem="même" postag="ADV" morpho="_" head="32" dep="mod">même</word>
-          <word id="30" lem="pas" postag="ADV" morpho="_" head="32" dep="mod">pas</word>
-          <word id="31" lem="être" postag="VPP" morpho="t=past" head="32" dep="aux_pass">été</word>
-          <word id="32" lem="discuter" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">discutée</word>
-          <word id="33" lem="." postag="PONCT" morpho="_" head="32" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="opération" postag="NC" morpho="g=f|n=s" head="3" dep="suj">opération</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="inutile" postag="ADJ" morpho="n=s" head="3" dep="ats">inutile</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="6" lem="parfois" postag="ADV" morpho="_" head="7" dep="mod">parfois</word>
-          <word id="7" lem="trop" postag="ADV" morpho="_" head="8" dep="mod">trop</word>
-          <word id="8" lem="coûteux" postag="ADJ" morpho="g=f|n=s" head="5" dep="dep_coord">coûteuse</word>
-          <word id="9" lem="d'une_part" postag="ADV" morpho="_" head="8" dep="mod">d'une_part</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="11" lem="mais" postag="CC" morpho="_" head="3" dep="coord">mais</word>
-          <word id="12" lem="surtout" postag="ADV" morpho="_" head="11" dep="mod">surtout</word>
-          <word id="13" lem="cette" postag="DET" morpho="g=f|n=s" head="14" dep="det">cette</word>
-          <word id="14" lem="idée" postag="NC" morpho="g=f|n=s" head="11" dep="dep_coord">idée</word>
-          <word id="15" lem="heurter" postag="V" morpho="n=s|p=13|t=pst" head="11" dep="dep_coord">heurte</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="sensibilité" postag="NC" morpho="g=f|n=s" head="15" dep="obj">sensibilité</word>
-          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-          <word id="19" lem="habitant" postag="NC" morpho="g=m|n=p" head="18" dep="prep">habitants</word>
-          <word id="20" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="21" lem="attacher" postag="VPP" morpho="g=m|n=p|t=past" head="17" dep="mod">attachés</word>
-          <word id="22" lem="à" postag="P" morpho="_" head="21" dep="a_obj">à</word>
-          <word id="23" lem="cet" postag="DET" morpho="g=m|n=s" head="24" dep="det">cet</word>
-          <word id="24" lem="élément" postag="NC" morpho="g=m|n=s" head="22" dep="prep">élément</word>
-          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">de</word>
-          <word id="26" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="27" dep="det">leur</word>
-          <word id="27" lem="paysage" postag="NC" morpho="g=m|n=s" head="25" dep="prep">paysage</word>
-          <word id="28" lem="et" postag="CC" morpho="_" head="21" dep="coord">et</word>
-          <word id="29" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="28" dep="dep_coord">patrimoine</word>
-          <word id="30" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="question" postag="NC" morpho="g=f|n=s" head="7" dep="suj">question</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="devenir" postag="NC" morpho="g=m|n=s" head="3" dep="prep">devenir</word>
-          <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-          <word id="6" lem="terril" postag="NC" morpho="g=m|n=p" head="5" dep="prep">terrils</word>
-          <word id="7" lem="rester" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">reste</word>
-          <word id="8" lem="poser" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="ats">posée</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="devoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">Doivent</word>
-          <word id="2" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="1" dep="suj">-ils</word>
-          <word id="3" lem="être" postag="VINF" morpho="_" head="4" dep="aux_pass">être</word>
-          <word id="4" lem="protéger" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="obj">protégés</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="6" lem="rester" postag="VINF" morpho="_" head="5" dep="dep_coord">rester</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="6" dep="mod">en</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="état" postag="NC" morpho="g=m|n=s" head="7" dep="prep">état</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="11" lem="mais" postag="CC" morpho="_" head="1" dep="coord">mais</word>
-          <word id="12" lem="une" postag="DET" morpho="g=f|n=s" head="13" dep="det">une</word>
-          <word id="13" lem="végétation" postag="NC" morpho="g=f|n=s" head="15" dep="suj">végétation</word>
-          <word id="14" lem="spontané" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">spontanée</word>
-          <word id="15" lem="tendre" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="dep_coord">tend</word>
-          <word id="16" lem="à" postag="P" morpho="_" head="15" dep="a_obj">à</word>
-          <word id="17" lem="les" postag="CLO" morpho="n=p|p=3" head="18" dep="obj">les</word>
-          <word id="18" lem="recouvrir" postag="VINF" morpho="_" head="16" dep="prep">recouvrir</word>
-          <word id="19" lem=")" postag="PONCT" morpho="_" head="18" dep="ponct">)</word>
-          <word id="20" lem="en_tant_que" postag="P" morpho="_" head="18" dep="mod">en_tant_que</word>
-          <word id="21" lem="témoignage" postag="NC" morpho="g=m|n=p" head="20" dep="prep">témoignages</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">de</word>
-          <word id="23" lem="l'" postag="DET" morpho="n=s" head="24" dep="det">l'</word>
-          <word id="24" lem="histoire" postag="NC" morpho="g=f|n=s" head="22" dep="prep">histoire</word>
-          <word id="25" lem="minier" postag="ADJ" morpho="g=f|n=s" head="24" dep="mod">minière</word>
-          <word id="26" lem="ou" postag="CC" morpho="_" head="15" dep="coord">ou</word>
-          <word id="27" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="26" dep="dep_coord">peuvent</word>
-          <word id="28" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="27" dep="suj">-ils</word>
-          <word id="29" lem="connaître" postag="VINF" morpho="_" head="27" dep="obj">connaître</word>
-          <word id="30" lem="une" postag="DET" morpho="g=f|n=s" head="31" dep="det">une</word>
-          <word id="31" lem="reconversion" postag="NC" morpho="g=f|n=s" head="29" dep="obj">reconversion</word>
-          <word id="32" lem="?" postag="PONCT" morpho="_" head="1" dep="ponct">?</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="diverses" postag="DET" morpho="g=f|n=p" head="2" dep="det">Diverses</word>
-          <word id="2" lem="réponse" postag="NC" morpho="g=f|n=p" head="4" dep="suj">réponses</word>
-          <word id="3" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="4" dep="aux_tps">ont</word>
-          <word id="4" lem="pouvoir" postag="VPP" morpho="t=past" head="0" dep="root">pu</word>
-          <word id="5" lem="être" postag="VINF" morpho="_" head="6" dep="aux_pass">être</word>
-          <word id="6" lem="apporter" postag="VPP" morpho="g=f|n=p|t=past" head="4" dep="obj">apportées</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="6" dep="suj">stériles</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="certaines" postag="DET" morpho="g=f|n=p" head="5" dep="det">certaines</word>
-          <word id="5" lem="mine" postag="NC" morpho="g=f|n=p" head="3" dep="prep">mines</word>
-          <word id="6" lem="contenir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">contiennent</word>
-          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
-          <word id="8" lem="substance" postag="NC" morpho="g=f|n=p" head="6" dep="obj">substances</word>
-          <word id="9" lem="indésirable" postag="ADJ" morpho="n=p" head="8" dep="mod">indésirables</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="11" lem="_" postag="ADJ" morpho="_" head="10" dep="dep_coord">écotoxiques</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">Des</word>
-          <word id="2" lem="mesure" postag="NC" morpho="g=f|n=p" head="19" dep="suj">mesures</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="recherche" postag="NC" morpho="g=f|n=p" head="3" dep="dep_coord">recherches</word>
-          <word id="5" lem="faire" postag="VPP" morpho="g=f|n=p|t=past" head="4" dep="mod">faites</word>
-          <word id="6" lem="sur" postag="P" morpho="_" head="5" dep="mod">sur</word>
-          <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
-          <word id="8" lem="crassier" postag="NC" morpho="g=m|n=p" head="6" dep="prep">crassiers</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="mine" postag="NC" morpho="g=f|n=s" head="9" dep="prep">mine</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
-          <word id="13" lem="uranium" postag="NC" morpho="g=m|n=s" head="12" dep="prep">uranium</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="mod">Ranger</word>
-          <word id="15" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="16" lem="Australie" postag="NPP" morpho="g=f|n=s" head="2" dep="mod">Australie</word>
-          <word id="17" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="18" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="19" dep="aux_tps">ont</word>
-          <word id="19" lem="montrer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">montré</word>
-          <word id="20" lem="que" postag="CS" morpho="_" head="19" dep="obj">que</word>
-          <word id="21" lem="des" postag="DET" morpho="n=p" head="22" dep="det">des</word>
-          <word id="22" lem="terril" postag="NC" morpho="g=m|n=p" head="28" dep="suj">terrils</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="dep">de</word>
-          <word id="24" lem="_" postag="NC" morpho="_" head="23" dep="prep">stériles</word>
-          <word id="25" lem="rocheux" postag="ADJ" morpho="g=f|n=p" head="24" dep="mod">rocheuses</word>
-          <word id="26" lem="non" postag="ADV" morpho="_" head="27" dep="mod">non</word>
-          <word id="27" lem="gérer" postag="VPP" morpho="g=m|n=p|t=past" head="22" dep="mod">gérés</word>
-          <word id="28" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="20" dep="sub">sont</word>
-          <word id="29" lem="#NUM#" postag="DET" morpho="n=p" head="32" dep="det">10</word>
-          <word id="30" lem="à" postag="P" morpho="_" head="29" dep="dep">à</word>
-          <word id="31" lem="#NUM#" postag="DET" morpho="n=p" head="30" dep="prep">100</word>
-          <word id="32" lem="fois" postag="NC" morpho="g=f" head="0" dep="_">fois</word>
-          <word id="33" lem="plus" postag="ADV" morpho="_" head="34" dep="mod">plus</word>
-          <word id="34" lem="sensible" postag="ADJ" morpho="n=p" head="32" dep="mod">sensibles</word>
-          <word id="35" lem="à" postag="P" morpho="_" head="34" dep="a_obj">à</word>
-          <word id="36" lem="l'" postag="DET" morpho="n=s" head="37" dep="det">l'</word>
-          <word id="37" lem="érosion" postag="NC" morpho="g=f|n=s" head="35" dep="prep">érosion</word>
-          <word id="38" lem="que" postag="CS" morpho="_" head="34" dep="dep">que</word>
-          <word id="39" lem="les" postag="DET" morpho="n=p" head="40" dep="det">les</word>
-          <word id="40" lem="versant" postag="NC" morpho="g=m|n=p" head="38" dep="sub">versants</word>
-          <word id="41" lem="adjacent" postag="ADJ" morpho="g=m|n=p" head="40" dep="mod">adjacents</word>
-          <word id="42" lem="naturel" postag="ADJ" morpho="g=m|n=s" head="40" dep="mod">naturel</word>
-          <word id="43" lem="constituer" postag="VPP" morpho="g=m|n=p|t=past" head="40" dep="mod">constitués</word>
-          <word id="44" lem="de" postag="P+D" morpho="g=m|n=s" head="43" dep="de_obj">du</word>
-          <word id="45" lem="même" postag="ADJ" morpho="n=s" head="46" dep="mod">même</word>
-          <word id="46" lem="matériau" postag="NC" morpho="g=m|n=p" head="44" dep="prep">matériaux</word>
-          <word id="47" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="selon" postag="P" morpho="_" head="11" dep="mod">Selon</word>
-          <word id="2" lem="ces" postag="DET" morpho="n=p" head="3" dep="det">ces</word>
-          <word id="3" lem="étude" postag="NC" morpho="g=f|n=p" head="1" dep="prep">études</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="11" dep="ponct">"</word>
-          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
-          <word id="7" lem="matière" postag="NC" morpho="g=f|n=p" head="11" dep="suj">matières</word>
-          <word id="8" lem="limoneux" postag="ADJ" morpho="g=f|n=p" head="7" dep="mod">limoneuses</word>
-          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-          <word id="10" lem="argileux" postag="ADJ" morpho="g=f|n=p" head="9" dep="dep_coord">argileuses</word>
-          <word id="11" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
-          <word id="13" lem="premier" postag="ADJ" morpho="g=f|n=p" head="11" dep="ats">premières</word>
-          <word id="14" lem="à" postag="P" morpho="_" head="13" dep="mod">à</word>
-          <word id="15" lem="être" postag="VINF" morpho="_" head="16" dep="aux_pass">être</word>
-          <word id="16" lem="éroder" postag="VPP" morpho="g=f|n=p|t=past" head="14" dep="prep">érodées</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="18" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
-          <word id="19" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="21" dep="suj">il</word>
-          <word id="20" lem="y" postag="CLO" morpho="_" head="21" dep="aff">y</word>
-          <word id="21" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="18" dep="dep_coord">a</word>
-          <word id="22" lem="de" postag="DET" morpho="n=p" head="24" dep="det">de</word>
-          <word id="23" lem="solide" postag="ADJ" morpho="n=p" head="24" dep="mod">solides</word>
-          <word id="24" lem="preuve" postag="NC" morpho="g=f|n=p" head="21" dep="obj">preuves</word>
-          <word id="25" lem="que" postag="CS" morpho="_" head="24" dep="dep">qu'</word>
-          <word id="26" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="28" dep="suj">il</word>
-          <word id="27" lem="ne" postag="ADV" morpho="_" head="28" dep="mod">n'</word>
-          <word id="28" lem="exister" postag="V" morpho="n=s|p=13|t=pst" head="25" dep="sub">existe</word>
-          <word id="29" lem="pas" postag="ADV" morpho="_" head="28" dep="mod">pas</word>
-          <word id="30" lem="de" postag="DET" morpho="n=p" head="31" dep="det">de</word>
-          <word id="31" lem="seuil" postag="NC" morpho="g=m|n=s" head="28" dep="obj">seuil</word>
-          <word id="32" lem="bas" postag="ADJ" morpho="g=m" head="31" dep="mod">bas</word>
-          <word id="33" lem="en" postag="P" morpho="_" head="31" dep="dep">en</word>
-          <word id="34" lem="dessus" postag="NC" morpho="g=m" head="33" dep="prep">dessus</word>
-          <word id="35" lem="duquel" postag="P+PRO" morpho="g=m|n=s" head="39" dep="mod">duquel</word>
-          <word id="36" lem="l'" postag="DET" morpho="n=s" head="37" dep="det">l'</word>
-          <word id="37" lem="érosion" postag="NC" morpho="g=f|n=s" head="39" dep="suj">érosion</word>
-          <word id="38" lem="ne" postag="ADV" morpho="_" head="39" dep="mod">n'</word>
-          <word id="39" lem="exister" postag="V" morpho="n=s|p=13|t=pst" head="34" dep="mod_rel">existe</word>
-          <word id="40" lem="pas" postag="ADV" morpho="_" head="39" dep="mod">pas</word>
-          <word id="41" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
-          <word id="42" lem="que" postag="CS" morpho="_" head="41" dep="dep_coord">que</word>
-          <word id="43" lem="même" postag="ADV" morpho="_" head="46" dep="mod">même</word>
-          <word id="44" lem="le" postag="DET" morpho="g=m|n=s" head="46" dep="det">le</word>
-          <word id="45" lem="plus" postag="ADV" morpho="_" head="46" dep="mod">plus</word>
-          <word id="46" lem="petit" postag="ADJ" morpho="g=m|n=s" head="56" dep="suj">petit</word>
-          <word id="47" lem="de" postag="P+D" morpho="n=p" head="46" dep="mod">des</word>
-          <word id="48" lem="flux" postag="NC" morpho="g=m" head="47" dep="prep">flux</word>
-          <word id="49" lem="de" postag="P" morpho="_" head="48" dep="dep">d'</word>
-          <word id="50" lem="eau" postag="NC" morpho="g=f|n=s" head="49" dep="prep">eau</word>
-          <word id="51" lem="traverser" postag="VPR" morpho="t=pst" head="48" dep="mod">traversant</word>
-          <word id="52" lem="un" postag="DET" morpho="g=m|n=s" head="53" dep="det">un</word>
-          <word id="53" lem="crassier" postag="NC" morpho="g=m|n=s" head="51" dep="obj">crassier</word>
-          <word id="54" lem="de" postag="P" morpho="_" head="53" dep="dep">de</word>
-          <word id="55" lem="_" postag="NC" morpho="_" head="54" dep="prep">stériles</word>
-          <word id="56" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="42" dep="sub">peut</word>
-          <word id="57" lem="le" postag="CLO" morpho="n=s|p=3" head="58" dep="obj">l'</word>
-          <word id="58" lem="éroder" postag="VINF" morpho="_" head="56" dep="obj">éroder</word>
-          <word id="59" lem="et" postag="CC" morpho="_" head="58" dep="coord">et</word>
-          <word id="60" lem="transporter" postag="VINF" morpho="_" head="59" dep="dep_coord">transporter</word>
-          <word id="61" lem="certains" postag="DET" morpho="g=m|n=p" head="62" dep="det">certains</word>
-          <word id="62" lem="matériau" postag="NC" morpho="g=m|n=p" head="60" dep="obj">matériaux</word>
-          <word id="63" lem="&quot;" postag="PONCT" morpho="_" head="11" dep="ponct">"</word>
-          <word id="64" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="surface" postag="NC" morpho="g=f|n=s" head="15" dep="suj">surface</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">érodable</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="terril" postag="NC" morpho="g=m|n=s" head="4" dep="prep">terril</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="élimination" postag="NC" morpho="g=f|n=s" head="7" dep="dep_coord">élimination</word>
-          <word id="10" lem="préférentiel" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">préférentielle</word>
-          <word id="11" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="12" lem="particule" postag="NC" morpho="g=f|n=p" head="11" dep="prep">particules</word>
-          <word id="13" lem="fin" postag="ADJ" morpho="g=f|n=p" head="12" dep="mod">fines</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="12" dep="mod">limono-argileux</word>
-          <word id="15" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
-          <word id="16" lem="dégrader" postag="VINF" morpho="_" head="15" dep="obj">dégrader</word>
-          <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
-          <word id="18" lem="écosystème" postag="NC" morpho="g=m|n=p" head="16" dep="obj">écosystèmes</word>
-          <word id="19" lem="à_la_fois" postag="ADV" morpho="_" head="18" dep="mod">à_la_fois</word>
-          <word id="20" lem="sur" postag="P" morpho="_" head="18" dep="dep">sur</word>
-          <word id="21" lem="le" postag="DET" morpho="g=m|n=s" head="22" dep="det">le</word>
-          <word id="22" lem="terril" postag="NC" morpho="g=m|n=s" head="20" dep="prep">terril</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="20" dep="coord">et</word>
-          <word id="24" lem="en" postag="P" morpho="_" head="23" dep="dep_coord">en</word>
-          <word id="25" lem="aval" postag="NC" morpho="g=m|n=s" head="24" dep="prep">aval</word>
-          <word id="26" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
-          <word id="27" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="28" dep="det">ses</word>
-          <word id="28" lem="pente" postag="NC" morpho="g=f|n=p" head="26" dep="prep">pentes</word>
-          <word id="29" lem="." postag="PONCT" morpho="_" head="15" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="végétalisation" postag="NC" morpho="g=f|n=s" head="4" dep="suj">végétalisation</word>
-          <word id="3" lem="gérer" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">gérée</word>
-          <word id="4" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-          <word id="5" lem="fortement" postag="ADV" morpho="_" head="4" dep="mod">fortement</word>
-          <word id="6" lem="limiter" postag="VINF" morpho="_" head="4" dep="obj">limiter</word>
-          <word id="7" lem="ces" postag="DET" morpho="n=p" head="8" dep="det">ces</word>
-          <word id="8" lem="risque" postag="NC" morpho="g=m|n=p" head="6" dep="obj">risques</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="que" postag="PROWH" morpho="_" head="2" dep="mod">Que</word>
-          <word id="2" lem="faire" postag="VINF" morpho="_" head="0" dep="root">faire</word>
-          <word id="3" lem="des" postag="DET" morpho="n=p" head="4" dep="det">des</word>
-          <word id="4" lem="terril" postag="NC" morpho="g=m|n=p" head="2" dep="obj">terrils</word>
-          <word id="5" lem="plus_ou_moins" postag="ADV" morpho="_" head="6" dep="mod">plus_ou_moins</word>
-          <word id="6" lem="toxique" postag="ADJ" morpho="n=p" head="4" dep="mod">toxiques</word>
-          <word id="7" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-          <word id="8" lem="ancien" postag="ADJ" morpho="g=f|n=p" head="9" dep="mod">anciennes</word>
-          <word id="9" lem="mine" postag="NC" morpho="g=f|n=p" head="7" dep="prep">mines</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="argent" postag="NC" morpho="g=m|n=s" head="10" dep="prep">argent</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="2" dep="de_obj">d'</word>
-          <word id="14" lem="arsenic" postag="NC" morpho="g=m|n=s" head="13" dep="prep">arsenic</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="2" dep="de_obj">de</word>
-          <word id="17" lem="plomb" postag="NC" morpho="g=m|n=s" head="16" dep="prep">plomb</word>
-          <word id="18" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="19" lem="autres" postag="PRO" morpho="g=f|n=p" head="18" dep="dep_coord">autres</word>
-          <word id="20" lem="?" postag="PONCT" morpho="_" head="2" dep="ponct">?</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ceux-ci" postag="PRO" morpho="g=m|n=p" head="2" dep="suj">Ceux-ci</word>
-          <word id="2" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="3" lem="assez" postag="ADV" morpho="_" head="4" dep="mod">assez</word>
-          <word id="4" lem="fréquent" postag="ADJ" morpho="g=m|n=p" head="2" dep="ats">fréquents</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="2" dep="mod">en</word>
-          <word id="6" lem="France" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">France</word>
-          <word id="7" lem="dans" postag="P" morpho="_" head="2" dep="mod">dans</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="Puy-de-Dôme" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Puy-de-Dôme</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="11" lem="par" postag="P" morpho="_" head="2" dep="mod">par</word>
-          <word id="12" lem="exemple" postag="NC" morpho="g=m|n=s" head="11" dep="prep">exemple</word>
-          <word id="13" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="14" lem="vallée" postag="NC" morpho="g=f|n=s" head="2" dep="mod">vallée</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="15" dep="prep">Sioule</word>
-          <word id="18" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="20" lem="dans" postag="P" morpho="_" head="2" dep="mod">dans</word>
-          <word id="21" lem="le" postag="DET" morpho="g=m|n=s" head="22" dep="det">le</word>
-          <word id="22" lem="Cantal" postag="NPP" morpho="g=m|n=s" head="20" dep="prep">Cantal</word>
-          <word id="23" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="24" lem="par" postag="P" morpho="_" head="2" dep="mod">par</word>
-          <word id="25" lem="exemple" postag="NC" morpho="g=m|n=s" head="24" dep="prep">exemple</word>
-          <word id="26" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="27" lem="terril" postag="NC" morpho="g=m|n=s" head="2" dep="mod">terril</word>
-          <word id="28" lem="de" postag="P" morpho="_" head="27" dep="dep">d'</word>
-          <word id="29" lem="antimoine" postag="NC" morpho="g=m|n=s" head="28" dep="prep">antimoine</word>
-          <word id="30" lem="dans" postag="P" morpho="_" head="2" dep="mod">dans</word>
-          <word id="31" lem="la" postag="DET" morpho="g=f|n=s" head="32" dep="det">la</word>
-          <word id="32" lem="vallée" postag="NC" morpho="g=f|n=s" head="30" dep="prep">vallée</word>
-          <word id="33" lem="de" postag="P+D" morpho="g=m|n=s" head="32" dep="dep">du</word>
-          <word id="34" lem="ruisseau" postag="NC" morpho="g=m|n=s" head="33" dep="prep">ruisseau</word>
-          <word id="35" lem="Bussac" postag="NPP" morpho="g=m|n=s" head="34" dep="mod">Bussac</word>
-          <word id="36" lem="à" postag="P+D" morpho="g=m|n=s" head="32" dep="dep">au</word>
-          <word id="37" lem="nord" postag="NC" morpho="g=m|n=s" head="36" dep="prep">nord</word>
-          <word id="38" lem="de" postag="P" morpho="_" head="37" dep="dep">de</word>
-          <word id="39" lem="Massiac" postag="NPP" morpho="g=m|n=s" head="38" dep="prep">Massiac</word>
-          <word id="40" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="41" lem="longueur" postag="NC" morpho="g=f|n=s" head="2" dep="mod">longueur</word>
-          <word id="42" lem="#NUM#" postag="ADJ" morpho="n=p" head="41" dep="mod">250</word>
-          <word id="43" lem="_" postag="NC" morpho="_" head="41" dep="mod">m</word>
-          <word id="44" lem="à" postag="P" morpho="_" head="41" dep="dep">à</word>
-          <word id="45" lem="flanc" postag="NC" morpho="g=m|n=s" head="44" dep="prep">flanc</word>
-          <word id="46" lem="de" postag="P" morpho="_" head="45" dep="dep">de</word>
-          <word id="47" lem="vallée" postag="NC" morpho="g=f|n=s" head="46" dep="prep">vallée</word>
-          <word id="48" lem="," postag="PONCT" morpho="_" head="47" dep="ponct">,</word>
-          <word id="49" lem="visible" postag="ADJ" morpho="n=s" head="47" dep="mod">visible</word>
-          <word id="50" lem="avec" postag="P" morpho="_" head="49" dep="p_obj">avec</word>
-          <word id="51" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="52" dep="det">sa</word>
-          <word id="52" lem="couleur" postag="NC" morpho="g=f|n=s" head="50" dep="prep">couleur</word>
-          <word id="53" lem="jaune" postag="ADJ" morpho="n=s" head="52" dep="mod">jaune</word>
-          <word id="54" lem="et" postag="CC" morpho="_" head="52" dep="coord">et</word>
-          <word id="55" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="56" dep="det">son</word>
-          <word id="56" lem="absence" postag="NC" morpho="g=f|n=s" head="54" dep="dep_coord">absence</word>
-          <word id="57" lem="de" postag="P" morpho="_" head="56" dep="dep">de</word>
-          <word id="58" lem="végétation" postag="NC" morpho="g=f|n=s" head="57" dep="prep">végétation</word>
-          <word id="59" lem="malgré" postag="P" morpho="_" head="49" dep="mod">malgré</word>
-          <word id="60" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="61" dep="det">son</word>
-          <word id="61" lem="âge" postag="NC" morpho="g=m|n=s" head="59" dep="prep">âge</word>
-          <word id="62" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="63" lem="qui" postag="PROREL" morpho="n=s" head="65" dep="suj">qui</word>
-          <word id="64" lem="se" postag="CLR" morpho="p=3" head="65" dep="aff">s'</word>
-          <word id="65" lem="écouler" postag="V" morpho="n=s|p=13|t=pst" head="62" dep="dep_coord">écoule</word>
-          <word id="66" lem="tranquillement" postag="ADV" morpho="_" head="65" dep="mod">tranquillement</word>
-          <word id="67" lem="dans" postag="P" morpho="_" head="65" dep="mod">dans</word>
-          <word id="68" lem="le" postag="DET" morpho="g=m|n=s" head="69" dep="det">le</word>
-          <word id="69" lem="ruisseau" postag="NC" morpho="g=m|n=s" head="67" dep="prep">ruisseau</word>
-          <word id="70" lem="puis" postag="CC" morpho="_" head="67" dep="coord">puis</word>
-          <word id="71" lem="dans" postag="P" morpho="_" head="70" dep="dep_coord">dans</word>
-          <word id="72" lem="l'" postag="DET" morpho="n=s" head="73" dep="det">l'</word>
-          <word id="73" lem="_" postag="NPP" morpho="_" head="71" dep="prep">Alagnon</word>
-          <word id="74" lem="et" postag="CC" morpho="_" head="73" dep="coord">et</word>
-          <word id="75" lem="l'" postag="DET" morpho="n=s" head="76" dep="det">l'</word>
-          <word id="76" lem="Allier" postag="NPP" morpho="g=m|n=s" head="74" dep="dep_coord">Allier</word>
-          <word id="77" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="78" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="exploitant" postag="NC" morpho="g=m|n=p" head="7" dep="suj">exploitants</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="mine" postag="NC" morpho="g=f|n=p" head="3" dep="prep">mines</word>
-          <word id="5" lem="se" postag="CLR" morpho="n=p|p=3" head="7" dep="aff">se</word>
-          <word id="6" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="7" dep="aux_tps">sont</word>
-          <word id="7" lem="évanouir" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">évanouis</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="État" postag="NC" morpho="g=m|n=s" head="32" dep="suj">État</word>
-          <word id="11" lem="qui" postag="PROREL" morpho="n=s" head="12" dep="suj">qui</word>
-          <word id="12" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="mod_rel">est</word>
-          <word id="13" lem="second" postag="ADJ" morpho="n=p" head="14" dep="mod">second</word>
-          <word id="14" lem="responsable" postag="NC" morpho="n=s" head="12" dep="ats">responsable</word>
-          <word id="15" lem="selon" postag="P" morpho="_" head="12" dep="mod">selon</word>
-          <word id="16" lem="le" postag="DET" morpho="g=m|n=s" head="17" dep="det">le</word>
-          <word id="17" lem="code" postag="NC" morpho="g=m|n=s" head="15" dep="prep">code</word>
-          <word id="18" lem="minier" postag="ADJ" morpho="g=m|n=s" head="17" dep="mod">minier</word>
-          <word id="19" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="20" lem="après" postag="P" morpho="_" head="12" dep="mod">après</word>
-          <word id="21" lem="le" postag="DET" morpho="g=m|n=s" head="22" dep="det">le</word>
-          <word id="22" lem="propriétaire" postag="NC" morpho="n=s" head="20" dep="prep">propriétaire</word>
-          <word id="23" lem="souvent" postag="ADV" morpho="_" head="24" dep="mod">souvent</word>
-          <word id="24" lem="incapable" postag="ADJ" morpho="n=s" head="22" dep="mod">incapable</word>
-          <word id="25" lem="de" postag="P" morpho="_" head="22" dep="dep">de</word>
-          <word id="26" lem="faire" postag="VINF" morpho="_" head="25" dep="prep">faire</word>
-          <word id="27" lem="face" postag="NC" morpho="g=f|n=s" head="26" dep="obj">face</word>
-          <word id="28" lem="à" postag="P+D" morpho="n=p" head="26" dep="a_obj">aux</word>
-          <word id="29" lem="coût" postag="NC" morpho="g=m|n=p" head="28" dep="prep">coûts</word>
-          <word id="30" lem=")" postag="PONCT" morpho="_" head="12" dep="ponct">)</word>
-          <word id="31" lem="," postag="PONCT" morpho="_" head="32" dep="ponct">,</word>
-          <word id="32" lem="faire" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="dep_coord">fait</word>
-          <word id="33" lem="le" postag="DET" morpho="g=m|n=s" head="34" dep="det">le</word>
-          <word id="34" lem="minimum" postag="NC" morpho="g=m|n=s" head="32" dep="obj">minimum</word>
-          <word id="35" lem="sur" postag="P" morpho="_" head="32" dep="mod">sur</word>
-          <word id="36" lem="le" postag="DET" morpho="g=m|n=s" head="37" dep="det">le</word>
-          <word id="37" lem="terrain" postag="NC" morpho="g=m|n=s" head="35" dep="prep">terrain</word>
-          <word id="38" lem="et" postag="CC" morpho="_" head="32" dep="coord">et</word>
-          <word id="39" lem="aller" postag="V" morpho="n=s|p=3|t=pst" head="38" dep="dep_coord">va</word>
-          <word id="40" lem="faire" postag="VINF" morpho="_" head="41" dep="aux_caus">faire</word>
-          <word id="41" lem="disparaître" postag="VINF" morpho="_" head="39" dep="obj">disparaître</word>
-          <word id="42" lem="le" postag="DET" morpho="g=m|n=s" head="43" dep="det">le</word>
-          <word id="43" lem="code" postag="NC" morpho="g=m|n=s" head="41" dep="obj">code</word>
-          <word id="44" lem="minier" postag="ADJ" morpho="g=m|n=s" head="43" dep="mod">minier</word>
-          <word id="45" lem="d'ici" postag="P" morpho="_" head="41" dep="mod">d'ici</word>
-          <word id="46" lem="une" postag="DET" morpho="g=f|n=s" head="47" dep="det">une</word>
-          <word id="47" lem="dizaine" postag="NC" morpho="g=f|n=s" head="45" dep="prep">dizaine</word>
-          <word id="48" lem="de" postag="P" morpho="_" head="47" dep="dep">d'</word>
-          <word id="49" lem="année" postag="NC" morpho="g=f|n=p" head="48" dep="prep">années</word>
-          <word id="50" lem="pour" postag="P" morpho="_" head="41" dep="mod">pour</word>
-          <word id="51" lem="se" postag="CLR" morpho="n=p|p=3" head="52" dep="aff">se</word>
-          <word id="52" lem="désengager" postag="VINF" morpho="_" head="50" dep="prep">désengager</word>
-          <word id="53" lem="de" postag="P" morpho="_" head="52" dep="de_obj">de</word>
-          <word id="54" lem="ce" postag="DET" morpho="g=m|n=s" head="55" dep="det">ce</word>
-          <word id="55" lem="fardeau" postag="NC" morpho="g=m|n=s" head="53" dep="prep">fardeau</word>
-          <word id="56" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="16" dep="mod">En</word>
-          <word id="2" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="prep">Belgique</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="4" lem="les" postag="DET" morpho="n=p" head="5" dep="det">les</word>
-          <word id="5" lem="terril" postag="NC" morpho="g=m|n=p" head="16" dep="suj">terrils</word>
-          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-          <word id="7" lem="bassin" postag="NC" morpho="g=m|n=p" head="6" dep="prep">bassins</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="Meuse" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Meuse</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep_coord">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="prep">Sambre</word>
-          <word id="15" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="16" dep="aux_pass">sont</word>
-          <word id="16" lem="considérer" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">considérés</word>
-          <word id="17" lem="comme" postag="P" morpho="_" head="16" dep="ats">comme</word>
-          <word id="18" lem="faire" postag="VPR" morpho="t=pst" head="17" dep="prep">faisant</word>
-          <word id="19" lem="partie" postag="NC" morpho="g=f|n=s" head="18" dep="obj">partie</word>
-          <word id="20" lem="intégrant" postag="ADJ" morpho="g=f|n=s" head="19" dep="mod">intégrante</word>
-          <word id="21" lem="de" postag="P+D" morpho="g=m|n=s" head="19" dep="dep">du</word>
-          <word id="22" lem="paysage" postag="NC" morpho="g=m|n=s" head="21" dep="prep">paysage</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ces" postag="DET" morpho="n=p" head="3" dep="det">Ces</word>
-          <word id="2" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
-          <word id="3" lem="montagne" postag="NC" morpho="g=f|n=p" head="6" dep="suj">montagnes</word>
-          <word id="4" lem="belge" postag="ADJ" morpho="n=p" head="3" dep="mod">belges</word>
-          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="3" dep="ponct">"</word>
-          <word id="6" lem="témoigner" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">témoignent</word>
-          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="de_obj">du</word>
-          <word id="8" lem="riche" postag="ADJ" morpho="n=s" head="9" dep="mod">riche</word>
-          <word id="9" lem="passé" postag="NC" morpho="g=m|n=s" head="7" dep="prep">passé</word>
-          <word id="10" lem="minier" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">minier</word>
-          <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="12" lem="sillon" postag="NC" morpho="g=m|n=s" head="11" dep="prep">sillon</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Sambre-et-Meuse</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="demande" postag="NC" morpho="g=f|n=s" head="13" dep="suj">demande</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="classement" postag="NC" morpho="g=m|n=s" head="3" dep="prep">classement</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="liste" postag="NC" morpho="g=f|n=s" head="5" dep="prep">liste</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="8" dep="prep">Patrimoine</word>
-          <word id="10" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">mondial</word>
-          <word id="11" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="13" dep="aux_tps">a</word>
-          <word id="12" lem="être" postag="VPP" morpho="t=past" head="13" dep="aux_pass">été</word>
-          <word id="13" lem="déposer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">déposée</word>
-          <word id="14" lem="à" postag="P" morpho="_" head="13" dep="mod">à</word>
-          <word id="15" lem="l'" postag="DET" morpho="n=s" head="16" dep="det">l'</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="prep">UNESCO</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="13" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Terril.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -611,8 +56,8 @@ En Belgique, les terrils des bassins de la Meuse et de la Sambre sont considér�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Terril.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -629,8 +74,8 @@ En Belgique, les terrils des bassins de la Meuse et de la Sambre sont considér�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Terril.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -643,8 +88,8 @@ En Belgique, les terrils des bassins de la Meuse et de la Sambre sont considér�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Terril.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -657,8 +102,8 @@ En Belgique, les terrils des bassins de la Meuse et de la Sambre sont considér�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Terril.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -674,8 +119,8 @@ En Belgique, les terrils des bassins de la Meuse et de la Sambre sont considér�
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:05</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Terril.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

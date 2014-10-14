@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colline.html</document>
     </metadata>
     <SE>
@@ -12,13 +12,13 @@
       <text>C'est pourquoi, il est généralement rendu par l’appellatif toponymique mont, sous forme de préfixe Mont- (ex : Montgommery, Montmartre)</text>
       <span begin="634" end="771" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:51</date>
+      <date>4/01/14 21:37</date>
       <document>Colline.html</document>
     </metadata>
     <SE>
@@ -31,129 +31,50 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colline.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-        <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="3" lem="_" postag="VPP" morpho="_" head="2" dep="ats">pourquoi</word>
-        <word id="4" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="5" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="8" dep="suj">il</word>
-        <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="aux_pass">est</word>
-        <word id="7" lem="généralement" postag="ADV" morpho="_" head="8" dep="mod">généralement</word>
-        <word id="8" lem="rendre" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">rendu</word>
-        <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
-        <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-        <word id="11" lem="appellatif" postag="NC" morpho="g=m|n=s" head="9" dep="prep">appellatif</word>
-        <word id="12" lem="toponymique" postag="ADJ" morpho="n=s" head="11" dep="mod">toponymique</word>
-        <word id="13" lem="mont" postag="NC" morpho="g=m|n=s" head="11" dep="mod">mont</word>
-        <word id="14" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="15" lem="sous_forme_de" postag="P" morpho="_" head="8" dep="mod">sous_forme_de</word>
-        <word id="16" lem="préfixe" postag="NC" morpho="g=m|n=s" head="15" dep="prep">préfixe</word>
-        <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="mod">Mont-</word>
-        <word id="18" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-        <word id="19" lem="ex" postag="NC" morpho="_" head="8" dep="mod">ex</word>
-        <word id="20" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">x</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Montgommery</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Montmartre</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:51</date>
+      <date>4/01/14 21:37</date>
       <document>Colline.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-        <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="3" lem="_" postag="VPP" morpho="_" head="2" dep="ats">pourquoi</word>
-        <word id="4" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="5" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="8" dep="suj">il</word>
-        <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="aux_pass">est</word>
-        <word id="7" lem="généralement" postag="ADV" morpho="_" head="8" dep="mod">généralement</word>
-        <word id="8" lem="rendre" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">rendu</word>
-        <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
-        <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-        <word id="11" lem="appellatif" postag="NC" morpho="g=m|n=s" head="9" dep="prep">appellatif</word>
-        <word id="12" lem="toponymique" postag="ADJ" morpho="n=s" head="11" dep="mod">toponymique</word>
-        <word id="13" lem="mont" postag="NC" morpho="g=m|n=s" head="11" dep="mod">mont</word>
-        <word id="14" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="15" lem="sous_forme_de" postag="P" morpho="_" head="8" dep="mod">sous_forme_de</word>
-        <word id="16" lem="préfixe" postag="NC" morpho="g=m|n=s" head="15" dep="prep">préfixe</word>
-        <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="mod">Mont-</word>
-        <word id="18" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-        <word id="19" lem="ex" postag="NC" morpho="_" head="8" dep="mod">ex</word>
-        <word id="20" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-        <word id="21" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Montgommery</word>
-        <word id="22" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        <word id="23" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Montmartre</word>
-        <word id="24" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        <word id="25" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-        <word id="26" lem="de" postag="P" morpho="_" head="25" dep="dep_coord">de</word>
-        <word id="27" lem="suffixe" postag="NC" morpho="g=m|n=s" head="26" dep="prep">suffixe</word>
-        <word id="28" lem="_" postag="NPP" morpho="_" head="27" dep="mod">-mont</word>
-        <word id="29" lem="(" postag="PONCT" morpho="_" head="27" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:51</date>
+      <date>4/01/14 21:37</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-          <word id="2" lem="Chaumont" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Chaumont</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Caumont" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Caumont</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -164,8 +85,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -179,7 +100,7 @@
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:51</date>
+      <date>4/01/14 21:37</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -191,7 +112,7 @@
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:51</date>
+      <date>4/01/14 21:37</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -204,8 +125,80 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Colline.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="93" end="105" id="0" />
+      <text id="0">réfixe Mont-</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Colline.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="112" end="123" id="0" />
+      <text id="0">Montgommery</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Colline.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="125" end="135" id="0" />
+      <text id="0">Montmartre</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 21:37</date>
+      <document>Colline.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+      <span begin="143" end="156" id="0" />
+      <text id="0">suffixe -mont</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 21:37</date>
+      <document>Colline.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="158" end="166" id="0" />
+      <text id="0">Chaumont</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 21:37</date>
+      <document>Colline.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+      <span begin="168" end="175" id="0" />
+      <text id="0">Caumont</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -218,12 +211,12 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -232,12 +225,12 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -249,8 +242,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -276,7 +269,7 @@
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:51</date>
+      <date>4/01/14 21:37</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -290,11 +283,11 @@
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:51</date>
+      <date>4/01/14 21:37</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -304,11 +297,11 @@
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:51</date>
+      <date>4/01/14 21:37</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -321,7 +314,7 @@
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:51</date>
+      <date>4/01/14 21:37</date>
       <document>Colline.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">

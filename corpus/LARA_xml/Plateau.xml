@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SE>
@@ -16,13 +16,13 @@ Un plateau-repas est un ensemble de mets disposés sur un plateau pour constitue
 Un plateau est un constituant d'une balance, par exemple d'une balance Roberval où l'on dépose la masse à évaluer et les masses marquées.</text>
       <span begin="102" end="518" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SE>
@@ -38,28 +38,11 @@ Un plateau continental désigne le prolongement physique d'un continent sous la 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
-      <text>Mécanique
-Un plateau est une partie d'un dispositif mécanique ayant la forme d'un « disque », ainsi,
-un plateau est une roue dentée solidaire du pédalier d'une bicyclette ;
-un plateau (ou platine) est l'endroit où l'on pose les disques sur un tourne-disque.</text>
-      <span begin="1184" end="1441" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
       <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SE>
-      <id>3</id>
+      <id>2</id>
       <text>Arts, Spectacles et Culture
 Un plateau est un concept des arts du spectacle :
 Un plateau est un « plancher surélevé sur lequel jouent les acteurs et reposent les décors », par extension dans le lexique théâtral, c'est la scène ou la distribution d'un spectacle ;
@@ -77,31 +60,13 @@ Plateau est le nom d'une chanson du groupe Meat Puppets popularisée par l'album
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
     <SE>
-      <id>4</id>
-      <text>Un plateau est un concept des arts du spectacle :
-Un plateau est un « plancher surélevé sur lequel jouent les acteurs et reposent les décors », par extension dans le lexique théâtral, c'est la scène ou la distribution d'un spectacle ;
-Un plateau est le lieu de tournage d'un spectacle enregistré :
-Un plateau de télévision est un local où l'on crée une émission de la télévision.
-Un plateau de cinéma est l'endroit où a lieu le tournage d'un film au cinéma.</text>
-      <span begin="1470" end="1927" />
-    </SE>
-    <comment>mauvaise annotation</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SE>
-      <id>5</id>
+      <id>3</id>
       <text>Un plateau est le lieu de tournage d'un spectacle enregistré :
 Un plateau de télévision est un local où l'on crée une émission de la télévision.
 Un plateau de cinéma est l'endroit où a lieu le tournage d'un film au cinéma.</text>
@@ -111,13 +76,13 @@ Un plateau de cinéma est l'endroit où a lieu le tournage d'un film au cinéma.
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
     <SE>
-      <id>6</id>
+      <id>4</id>
       <text>s 
 Le quartier du Plateau, cité ouvrière dans la périphérie de Caen ;
 le district des Plateaux, district de la province du Bandundu en République démocratique du Congo ;
@@ -135,13 +100,13 @@ Le Plateau Mont-Royal est un quartier et un arrondissement dans la ville de Mont
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
     <SE>
-      <id>7</id>
+      <id>5</id>
       <text>Patronyme
 Nom de famille
 Antoine Plateau (1759-1815) est un peintre belge.
@@ -155,1141 +120,152 @@ Yves Plateau est un dessinateur de bande dessinée belge.</text>
     </SE>
     <comment>#est le patronyme de#</comment>
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
-    <SE>
-      <id>8</id>
-      <text>Joseph Plateau (1801-1883), un mathématicien et physicien belge
-les prix Joseph Plateau, en néerlandais Joseph Plateau prijzen (prix belges de cinéma, du nom du physicien)
-le problème de Plateau est un problème qu'il a posé et qui porte son nom.</text>
-      <span begin="3371" end="3616" />
-    </SE>
-    <comment>#a donné lieu à#</comment>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="cuisine" postag="NC" morpho="g=f|n=s" head="0" dep="root">Cuisine</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-        <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-        <word id="5" lem="ustensile" postag="NC" morpho="g=m|n=s" head="3" dep="ats">ustensile</word>
-        <word id="6" lem="plat" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">plat</word>
-        <word id="7" lem="avec" postag="P" morpho="_" head="5" dep="dep">avec</word>
-        <word id="8" lem="rebord" postag="NC" morpho="g=m|n=s" head="7" dep="prep">rebord</word>
-        <word id="9" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-        <word id="10" lem="parfois" postag="ADV" morpho="_" head="12" dep="mod">parfois</word>
-        <word id="11" lem="des" postag="DET" morpho="n=p" head="12" dep="det">des</word>
-        <word id="12" lem="poignée" postag="NC" morpho="g=f|n=p" head="5" dep="mod">poignées</word>
-        <word id="13" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="servir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">sert</word>
-          <word id="4" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="a_obj">au</word>
-          <word id="5" lem="transport" postag="NC" morpho="g=m|n=s" head="4" dep="prep">transport</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="objet" postag="NC" morpho="g=m|n=p" head="6" dep="prep">objets</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="9" lem="le_plus_souvent" postag="ADV" morpho="_" head="0" dep="_">le_plus_souvent</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="11" lem="vaisselle" postag="NC" morpho="g=f|n=s" head="10" dep="prep">vaisselle</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ça" postag="PRO" morpho="g=f|n=s" head="2" dep="suj">C'</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="outil" postag="NC" morpho="g=m|n=s" head="2" dep="ats">outil</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="6" lem="serveur" postag="NC" morpho="g=m|n=s" head="5" dep="prep">serveur</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="6" dep="dep">en</word>
-          <word id="8" lem="restauration" postag="NC" morpho="g=f|n=s" head="7" dep="prep">restauration</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="3" dep="suj">plateau-repas</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="ensemble" postag="NC" morpho="g=m|n=s" head="3" dep="ats">ensemble</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="mets" postag="NC" morpho="g=m" head="6" dep="prep">mets</word>
-          <word id="8" lem="disposer" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="mod">disposés</word>
-          <word id="9" lem="sur" postag="P" morpho="_" head="8" dep="mod">sur</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="plateau" postag="NC" morpho="g=m|n=s" head="9" dep="prep">plateau</word>
-          <word id="12" lem="pour" postag="P" morpho="_" head="8" dep="mod">pour</word>
-          <word id="13" lem="constituer" postag="VINF" morpho="_" head="12" dep="prep">constituer</word>
-          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
-          <word id="15" lem="repas" postag="NC" morpho="g=m" head="13" dep="obj">repas</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="constituant" postag="NC" morpho="g=m|n=s" head="3" dep="ats">constituant</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
-          <word id="8" lem="balance" postag="NC" morpho="g=f|n=s" head="6" dep="prep">balance</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="10" lem="par" postag="P" morpho="_" head="3" dep="mod">par</word>
-          <word id="11" lem="exemple" postag="NC" morpho="g=m|n=s" head="10" dep="prep">exemple</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
-          <word id="13" lem="une" postag="DET" morpho="g=f|n=s" head="14" dep="det">une</word>
-          <word id="14" lem="balance" postag="NC" morpho="g=f|n=s" head="12" dep="prep">balance</word>
-          <word id="15" lem="Roberval" postag="NPP" morpho="g=m|n=s" head="14" dep="mod">Roberval</word>
-          <word id="16" lem="où" postag="PROREL" morpho="_" head="18" dep="mod">où</word>
-          <word id="17" lem="l'on" postag="CLS" morpho="n=s|p=3" head="18" dep="suj">l'on</word>
-          <word id="18" lem="déposer" postag="V" morpho="n=s|p=13|t=pst" head="14" dep="mod_rel">dépose</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="masse" postag="NC" morpho="g=f|n=s" head="18" dep="obj">masse</word>
-          <word id="21" lem="à" postag="P" morpho="_" head="18" dep="mod">à</word>
-          <word id="22" lem="évaluer" postag="VINF" morpho="_" head="21" dep="prep">évaluer</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
-          <word id="24" lem="les" postag="DET" morpho="n=p" head="25" dep="det">les</word>
-          <word id="25" lem="masse" postag="NC" morpho="g=f|n=p" head="23" dep="dep_coord">masses</word>
-          <word id="26" lem="marquer" postag="VPP" morpho="g=f|n=p|t=past" head="25" dep="mod">marquées</word>
-          <word id="27" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="géographie" postag="NC" morpho="g=f|n=s" head="0" dep="_">Géographie</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="forme" postag="NC" morpho="g=f|n=s" head="3" dep="ats">forme</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="relief" postag="NC" morpho="g=m|n=s" head="6" dep="prep">relief</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
-          <word id="9" lem="géographie" postag="NC" morpho="g=f|n=s" head="8" dep="prep">géographie</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="4" dep="suj">plateau</word>
-          <word id="3" lem="continental" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">continental</word>
-          <word id="4" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
-          <word id="5" lem="le" postag="DET" morpho="g=m|n=s" head="6" dep="det">le</word>
-          <word id="6" lem="prolongement" postag="NC" morpho="g=m|n=s" head="4" dep="obj">prolongement</word>
-          <word id="7" lem="physique" postag="ADJ" morpho="n=s" head="6" dep="mod">physique</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="continent" postag="NC" morpho="g=m|n=s" head="8" dep="prep">continent</word>
-          <word id="11" lem="sous" postag="P" morpho="_" head="4" dep="mod">sous</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="mer" postag="NC" morpho="g=f|n=s" head="11" dep="prep">mer</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="15" lem="d'où" postag="P" morpho="_" head="4" dep="mod">d'où</word>
-          <word id="16" lem="découler" postag="V" morpho="n=p|p=3|t=pst" head="4" dep="mod">découlent</word>
-          <word id="17" lem="des" postag="DET" morpho="n=p" head="18" dep="det">des</word>
-          <word id="18" lem="droit" postag="NC" morpho="g=m|n=p" head="16" dep="obj">droits</word>
-          <word id="19" lem="juridique" postag="ADJ" morpho="n=p" head="18" dep="mod">juridiques</word>
-          <word id="20" lem="en" postag="P" morpho="_" head="18" dep="dep">en</word>
-          <word id="21" lem="droit" postag="NC" morpho="g=m|n=s" head="20" dep="prep">droit</word>
-          <word id="22" lem="international" postag="ADJ" morpho="g=m|n=s" head="21" dep="mod">international</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="mécanique" postag="NC" morpho="g=f|n=s" head="0" dep="_">Mécanique</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-        <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-        <word id="5" lem="partie" postag="NC" morpho="g=f|n=s" head="3" dep="ats">partie</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-        <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-        <word id="8" lem="dispositif" postag="NC" morpho="g=m|n=s" head="6" dep="prep">dispositif</word>
-        <word id="9" lem="mécanique" postag="ADJ" morpho="n=s" head="8" dep="mod">mécanique</word>
-        <word id="10" lem="avoir" postag="VPR" morpho="t=pst" head="8" dep="mod">ayant</word>
-        <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-        <word id="12" lem="forme" postag="NC" morpho="g=f|n=s" head="10" dep="obj">forme</word>
-        <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-        <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
-        <word id="15" lem="&quot;" postag="PONCT" morpho="_" head="16" dep="ponct">"</word>
-        <word id="16" lem="disque" postag="NC" morpho="g=m|n=s" head="13" dep="prep">disque</word>
-        <word id="17" lem="&quot;" postag="PONCT" morpho="_" head="16" dep="ponct">"</word>
-        <word id="18" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-        <word id="19" lem="ainsi" postag="ADV" morpho="_" head="3" dep="mod">ainsi</word>
-        <word id="20" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="roue" postag="NC" morpho="g=f|n=s" head="3" dep="ats">roue</word>
-          <word id="6" lem="denté" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">dentée</word>
-          <word id="7" lem="solidaire" postag="ADJ" morpho="n=s" head="5" dep="mod">solidaire</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="9" lem="pédalier" postag="NC" morpho="g=m|n=s" head="8" dep="prep">pédalier</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-          <word id="12" lem="bicyclette" postag="NC" morpho="g=f|n=s" head="10" dep="prep">bicyclette</word>
-          <word id="13" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="7" dep="suj">plateau</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="5" lem="platine" postag="NC" morpho="n=s" head="4" dep="dep_coord">platine</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="endroit" postag="NC" morpho="g=m|n=s" head="7" dep="ats">endroit</word>
-          <word id="10" lem="où" postag="PROREL" morpho="_" head="12" dep="mod">où</word>
-          <word id="11" lem="l'on" postag="CLS" morpho="n=s|p=3" head="12" dep="suj">l'on</word>
-          <word id="12" lem="poser" postag="V" morpho="n=s|p=13|t=pst" head="9" dep="mod_rel">pose</word>
-          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
-          <word id="14" lem="disque" postag="NC" morpho="g=m|n=p" head="12" dep="obj">disques</word>
-          <word id="15" lem="sur" postag="P" morpho="_" head="12" dep="mod">sur</word>
-          <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
-          <word id="17" lem="tourne-disque" postag="NC" morpho="g=m|n=s" head="15" dep="prep">tourne-disque</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:20</date>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="art" postag="NC" morpho="g=m|n=p" head="0" dep="_">Arts</word>
-        <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="coord">,</word>
-        <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="dep_coord">Spectacles</word>
-        <word id="4" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-        <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="dep_coord">Culture</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:20</date>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="concept" postag="NC" morpho="g=m|n=s" head="3" dep="ats">concept</word>
-          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-          <word id="7" lem="art" postag="NC" morpho="g=m|n=p" head="6" dep="prep">arts</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-          <word id="9" lem="spectacle" postag="NC" morpho="g=m|n=s" head="8" dep="prep">spectacle</word>
-          <word id="10" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="6" dep="ponct">"</word>
-          <word id="6" lem="plancher" postag="NC" morpho="g=m|n=s" head="3" dep="ats">plancher</word>
-          <word id="7" lem="surélever" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">surélevé</word>
-          <word id="8" lem="sur" postag="P" morpho="_" head="7" dep="mod">sur</word>
-          <word id="9" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="8" dep="prep">lequel</word>
-          <word id="10" lem="jouer" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="mod_rel">jouent</word>
-          <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
-          <word id="12" lem="acteur" postag="NC" morpho="g=m|n=p" head="10" dep="obj">acteurs</word>
-          <word id="13" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
-          <word id="14" lem="reposer" postag="V" morpho="n=p|p=3|t=pst" head="13" dep="dep_coord">reposent</word>
-          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
-          <word id="16" lem="décor" postag="NC" morpho="g=m|n=p" head="14" dep="obj">décors</word>
-          <word id="17" lem="&quot;" postag="PONCT" morpho="_" head="16" dep="ponct">"</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-          <word id="19" lem="par" postag="P" morpho="_" head="14" dep="mod">par</word>
-          <word id="20" lem="extension" postag="NC" morpho="g=f|n=s" head="19" dep="prep">extension</word>
-          <word id="21" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
-          <word id="22" lem="le" postag="DET" morpho="g=m|n=s" head="23" dep="det">le</word>
-          <word id="23" lem="lexique" postag="NC" morpho="g=m|n=s" head="21" dep="prep">lexique</word>
-          <word id="24" lem="théâtral" postag="ADJ" morpho="g=m|n=s" head="23" dep="mod">théâtral</word>
-          <word id="25" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="26" lem="ce" postag="CLS" morpho="_" head="27" dep="suj">c'</word>
-          <word id="27" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="mod">est</word>
-          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
-          <word id="29" lem="scène" postag="NC" morpho="g=f|n=s" head="27" dep="ats">scène</word>
-          <word id="30" lem="ou" postag="CC" morpho="_" head="29" dep="coord">ou</word>
-          <word id="31" lem="la" postag="DET" morpho="g=f|n=s" head="32" dep="det">la</word>
-          <word id="32" lem="distribution" postag="NC" morpho="g=f|n=s" head="30" dep="dep_coord">distribution</word>
-          <word id="33" lem="de" postag="P" morpho="_" head="32" dep="dep">d'</word>
-          <word id="34" lem="un" postag="DET" morpho="g=m|n=s" head="35" dep="det">un</word>
-          <word id="35" lem="spectacle" postag="NC" morpho="g=m|n=s" head="33" dep="prep">spectacle</word>
-          <word id="36" lem=";" postag="PONCT" morpho="_" head="27" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="5" lem="lieu" postag="NC" morpho="g=m|n=s" head="3" dep="ats">lieu</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="tournage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">tournage</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="spectacle" postag="NC" morpho="g=m|n=s" head="8" dep="prep">spectacle</word>
-          <word id="11" lem="enregistrer" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">enregistré</word>
-          <word id="12" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="5" dep="suj">plateau</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="télévision" postag="NC" morpho="g=f|n=s" head="3" dep="prep">télévision</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="local" postag="ADJ" morpho="g=m|n=s" head="5" dep="ats">local</word>
-          <word id="8" lem="où" postag="PROREL" morpho="_" head="10" dep="mod">où</word>
-          <word id="9" lem="l'on" postag="CLS" morpho="n=s|p=3" head="10" dep="suj">l'on</word>
-          <word id="10" lem="créer" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="mod">crée</word>
-          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-          <word id="12" lem="émission" postag="NC" morpho="g=f|n=s" head="10" dep="obj">émission</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="télévision" postag="NC" morpho="g=f|n=s" head="13" dep="prep">télévision</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="5" dep="suj">plateau</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="cinéma" postag="NC" morpho="g=m|n=s" head="3" dep="prep">cinéma</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="endroit" postag="NC" morpho="g=m|n=s" head="5" dep="ats">endroit</word>
-          <word id="8" lem="où" postag="PROREL" morpho="_" head="0" dep="_">où</word>
-          <word id="9" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">a</word>
-          <word id="10" lem="lieu" postag="NC" morpho="g=m|n=s" head="9" dep="obj">lieu</word>
-          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
-          <word id="12" lem="tournage" postag="NC" morpho="g=m|n=s" head="9" dep="suj">tournage</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
-          <word id="15" lem="film" postag="NC" morpho="g=m|n=s" head="13" dep="prep">film</word>
-          <word id="16" lem="à" postag="P+D" morpho="g=m|n=s" head="15" dep="dep">au</word>
-          <word id="17" lem="cinéma" postag="NC" morpho="g=m|n=s" head="16" dep="prep">cinéma</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="lieu" postag="NC" morpho="g=m|n=s" head="3" dep="ats">lieu</word>
-          <word id="6" lem="où" postag="PROREL" morpho="_" head="8" dep="mod">où</word>
-          <word id="7" lem="l'on" postag="CLS" morpho="n=s|p=3" head="8" dep="suj">l'on</word>
-          <word id="8" lem="pratiquer" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="mod_rel">pratique</word>
-          <word id="9" lem="des" postag="DET" morpho="n=p" head="10" dep="det">des</word>
-          <word id="10" lem="exercice" postag="NC" morpho="g=m|n=p" head="8" dep="obj">exercices</word>
-          <word id="11" lem="en_plein" postag="P" morpho="_" head="10" dep="dep">en_plein</word>
-          <word id="12" lem="air" postag="NC" morpho="g=m|n=s" head="11" dep="prep">air</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="14" lem="ainsi" postag="ADV" morpho="_" head="8" dep="mod">ainsi</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="épreuve" postag="NC" morpho="g=f|n=s" head="5" dep="suj">épreuve</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="prep">plateau</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="7" lem="premier" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">première</word>
-          <word id="8" lem="partie" postag="NC" morpho="g=f|n=s" head="5" dep="ats">partie</word>
-          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="10" lem="permis" postag="NC" morpho="g=m" head="9" dep="prep">permis</word>
-          <word id="11" lem="moto" postag="NC" morpho="g=f|n=s" head="10" dep="mod">moto</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="root">labret</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="4" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="dep_coord">plateau</word>
-          <word id="5" lem="labial" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">labial</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">est</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
-          <word id="8" lem="ornementation" postag="NC" morpho="g=f|n=s" head="6" dep="ats">ornementation</word>
-          <word id="9" lem="porter" postag="VPP" morpho="g=f|n=s|t=past" head="8" dep="mod">portée</word>
-          <word id="10" lem="sur" postag="P" morpho="_" head="9" dep="mod">sur</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="lèvre" postag="NC" morpho="g=f|n=s" head="10" dep="prep">lèvre</word>
-          <word id="13" lem="inférieur" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">inférieure</word>
-          <word id="14" lem="ou" postag="CC" morpho="_" head="13" dep="coord">ou</word>
-          <word id="15" lem="supérieur" postag="ADJ" morpho="g=f|n=s" head="14" dep="dep_coord">supérieure</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="jeu" postag="NC" morpho="g=m|n=s" head="5" dep="suj">jeu</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="prep">plateau</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="francisation" postag="NC" morpho="g=f|n=s" head="5" dep="ats">francisation</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="anglais" postag="NC" morpho="g=m" head="8" dep="prep">anglais</word>
-          <word id="11" lem="board" postag="NC" morpho="g=m|n=s" head="10" dep="mod">board</word>
-          <word id="12" lem="_" postag="V" morpho="_" head="5" dep="mod">game</word>
-          <word id="13" lem=";" postag="PONCT" morpho="_" head="5" dep="ponct">;</word>
-          <word id="14" lem="ce" postag="CLS" morpho="_" head="15" dep="suj">c'</word>
-          <word id="15" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="mod">est</word>
-          <word id="16" lem="un" postag="DET" morpho="g=m|n=s" head="17" dep="det">un</word>
-          <word id="17" lem="jeu" postag="NC" morpho="g=m|n=s" head="15" dep="ats">jeu</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="société" postag="NC" morpho="g=f|n=s" head="18" dep="prep">société</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="plateau" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Plateau</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="nom" postag="NC" morpho="g=m|n=s" head="2" dep="ats">nom</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="chanson" postag="NC" morpho="g=f|n=s" head="5" dep="prep">chanson</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-          <word id="9" lem="groupe" postag="NC" morpho="g=m|n=s" head="8" dep="prep">groupe</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Meat</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Puppets</word>
-          <word id="12" lem="populariser" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">popularisée</word>
-          <word id="13" lem="par" postag="P" morpho="_" head="12" dep="p_obj">par</word>
-          <word id="14" lem="l'" postag="DET" morpho="n=s" head="15" dep="det">l'</word>
-          <word id="15" lem="album" postag="NC" morpho="g=m|n=s" head="13" dep="prep">album</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="mod">Unplugged</word>
-          <word id="17" lem="_" postag="V" morpho="_" head="22" dep="aux_tps">in</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="obj">New</word>
-          <word id="19" lem="York" postag="NPP" morpho="g=m|n=s" head="18" dep="mod">York</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="17" dep="mod">de</word>
-          <word id="21" lem="Nirvana" postag="NPP" morpho="g=f|n=s" head="20" dep="prep">Nirvana</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-        <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-        <word id="5" lem="concept" postag="NC" morpho="g=m|n=s" head="3" dep="ats">concept</word>
-        <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-        <word id="7" lem="art" postag="NC" morpho="g=m|n=p" head="6" dep="prep">arts</word>
-        <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-        <word id="9" lem="spectacle" postag="NC" morpho="g=m|n=s" head="8" dep="prep">spectacle</word>
-        <word id="10" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="6" dep="ponct">"</word>
-          <word id="6" lem="plancher" postag="NC" morpho="g=m|n=s" head="3" dep="ats">plancher</word>
-          <word id="7" lem="surélever" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">surélevé</word>
-          <word id="8" lem="sur" postag="P" morpho="_" head="7" dep="mod">sur</word>
-          <word id="9" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="8" dep="prep">lequel</word>
-          <word id="10" lem="jouer" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="mod_rel">jouent</word>
-          <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
-          <word id="12" lem="acteur" postag="NC" morpho="g=m|n=p" head="10" dep="obj">acteurs</word>
-          <word id="13" lem="et" postag="CC" morpho="_" head="10" dep="coord">et</word>
-          <word id="14" lem="reposer" postag="V" morpho="n=p|p=3|t=pst" head="13" dep="dep_coord">reposent</word>
-          <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
-          <word id="16" lem="décor" postag="NC" morpho="g=m|n=p" head="14" dep="obj">décors</word>
-          <word id="17" lem="&quot;" postag="PONCT" morpho="_" head="16" dep="ponct">"</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-          <word id="19" lem="par" postag="P" morpho="_" head="14" dep="mod">par</word>
-          <word id="20" lem="extension" postag="NC" morpho="g=f|n=s" head="19" dep="prep">extension</word>
-          <word id="21" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
-          <word id="22" lem="le" postag="DET" morpho="g=m|n=s" head="23" dep="det">le</word>
-          <word id="23" lem="lexique" postag="NC" morpho="g=m|n=s" head="21" dep="prep">lexique</word>
-          <word id="24" lem="théâtral" postag="ADJ" morpho="g=m|n=s" head="23" dep="mod">théâtral</word>
-          <word id="25" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="26" lem="ce" postag="CLS" morpho="_" head="27" dep="suj">c'</word>
-          <word id="27" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="mod">est</word>
-          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
-          <word id="29" lem="scène" postag="NC" morpho="g=f|n=s" head="27" dep="ats">scène</word>
-          <word id="30" lem="ou" postag="CC" morpho="_" head="29" dep="coord">ou</word>
-          <word id="31" lem="la" postag="DET" morpho="g=f|n=s" head="32" dep="det">la</word>
-          <word id="32" lem="distribution" postag="NC" morpho="g=f|n=s" head="30" dep="dep_coord">distribution</word>
-          <word id="33" lem="de" postag="P" morpho="_" head="32" dep="dep">d'</word>
-          <word id="34" lem="un" postag="DET" morpho="g=m|n=s" head="35" dep="det">un</word>
-          <word id="35" lem="spectacle" postag="NC" morpho="g=m|n=s" head="33" dep="prep">spectacle</word>
-          <word id="36" lem=";" postag="PONCT" morpho="_" head="27" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="5" lem="lieu" postag="NC" morpho="g=m|n=s" head="3" dep="ats">lieu</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="tournage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">tournage</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="spectacle" postag="NC" morpho="g=m|n=s" head="8" dep="prep">spectacle</word>
-          <word id="11" lem="enregistrer" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">enregistré</word>
-          <word id="12" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="5" dep="suj">plateau</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="télévision" postag="NC" morpho="g=f|n=s" head="3" dep="prep">télévision</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="local" postag="ADJ" morpho="g=m|n=s" head="5" dep="ats">local</word>
-          <word id="8" lem="où" postag="PROREL" morpho="_" head="10" dep="mod">où</word>
-          <word id="9" lem="l'on" postag="CLS" morpho="n=s|p=3" head="10" dep="suj">l'on</word>
-          <word id="10" lem="créer" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="mod">crée</word>
-          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-          <word id="12" lem="émission" postag="NC" morpho="g=f|n=s" head="10" dep="obj">émission</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="télévision" postag="NC" morpho="g=f|n=s" head="13" dep="prep">télévision</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="5" dep="suj">plateau</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="cinéma" postag="NC" morpho="g=m|n=s" head="3" dep="prep">cinéma</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="endroit" postag="NC" morpho="g=m|n=s" head="5" dep="ats">endroit</word>
-          <word id="8" lem="où" postag="PROREL" morpho="_" head="0" dep="_">où</word>
-          <word id="9" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">a</word>
-          <word id="10" lem="lieu" postag="NC" morpho="g=m|n=s" head="9" dep="obj">lieu</word>
-          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
-          <word id="12" lem="tournage" postag="NC" morpho="g=m|n=s" head="9" dep="suj">tournage</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
-          <word id="15" lem="film" postag="NC" morpho="g=m|n=s" head="13" dep="prep">film</word>
-          <word id="16" lem="à" postag="P+D" morpho="g=m|n=s" head="15" dep="dep">au</word>
-          <word id="17" lem="cinéma" postag="NC" morpho="g=m|n=s" head="16" dep="prep">cinéma</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-        <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">plateau</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-        <word id="5" lem="lieu" postag="NC" morpho="g=m|n=s" head="3" dep="ats">lieu</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-        <word id="7" lem="tournage" postag="NC" morpho="g=m|n=s" head="6" dep="prep">tournage</word>
-        <word id="8" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-        <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-        <word id="10" lem="spectacle" postag="NC" morpho="g=m|n=s" head="8" dep="prep">spectacle</word>
-        <word id="11" lem="enregistrer" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">enregistré</word>
-        <word id="12" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="5" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="5" dep="suj">plateau</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="télévision" postag="NC" morpho="g=f|n=s" head="3" dep="prep">télévision</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="local" postag="ADJ" morpho="g=m|n=s" head="5" dep="ats">local</word>
-          <word id="8" lem="où" postag="PROREL" morpho="_" head="10" dep="mod">où</word>
-          <word id="9" lem="l'on" postag="CLS" morpho="n=s|p=3" head="10" dep="suj">l'on</word>
-          <word id="10" lem="créer" postag="V" morpho="n=s|p=13|t=pst" head="5" dep="mod">crée</word>
-          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-          <word id="12" lem="émission" postag="NC" morpho="g=f|n=s" head="10" dep="obj">émission</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="télévision" postag="NC" morpho="g=f|n=s" head="13" dep="prep">télévision</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="plateau" postag="NC" morpho="g=m|n=s" head="5" dep="suj">plateau</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="cinéma" postag="NC" morpho="g=m|n=s" head="3" dep="prep">cinéma</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="endroit" postag="NC" morpho="g=m|n=s" head="5" dep="ats">endroit</word>
-          <word id="8" lem="où" postag="PROREL" morpho="_" head="0" dep="_">où</word>
-          <word id="9" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">a</word>
-          <word id="10" lem="lieu" postag="NC" morpho="g=m|n=s" head="9" dep="obj">lieu</word>
-          <word id="11" lem="le" postag="DET" morpho="g=m|n=s" head="12" dep="det">le</word>
-          <word id="12" lem="tournage" postag="NC" morpho="g=m|n=s" head="9" dep="suj">tournage</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="14" lem="un" postag="DET" morpho="g=m|n=s" head="15" dep="det">un</word>
-          <word id="15" lem="film" postag="NC" morpho="g=m|n=s" head="13" dep="prep">film</word>
-          <word id="16" lem="à" postag="P+D" morpho="g=m|n=s" head="15" dep="dep">au</word>
-          <word id="17" lem="cinéma" postag="NC" morpho="g=m|n=s" head="16" dep="prep">cinéma</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:32</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">s</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:32</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Plateau</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="cité" postag="NC" morpho="g=f|n=s" head="2" dep="mod">cité</word>
-          <word id="7" lem="ouvrier" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">ouvrière</word>
-          <word id="8" lem="dans" postag="P" morpho="_" head="6" dep="dep">dans</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="périphérie" postag="NC" morpho="g=f|n=s" head="8" dep="prep">périphérie</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="Caen" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Caen</word>
-          <word id="13" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="district" postag="NC" morpho="g=m|n=s" head="0" dep="_">district</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Plateaux</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="district" postag="NC" morpho="g=m|n=s" head="2" dep="mod">district</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="province" postag="NC" morpho="g=f|n=s" head="7" dep="prep">province</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Bandundu</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="6" dep="dep">en</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">République</word>
-          <word id="14" lem="démocratique" postag="ADJ" morpho="n=s" head="13" dep="mod">démocratique</word>
-          <word id="15" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
-          <word id="16" lem="Congo" postag="NPP" morpho="g=m|n=s" head="15" dep="prep">Congo</word>
-          <word id="17" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="région" postag="NC" morpho="g=f|n=s" head="0" dep="_">région</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="3" dep="prep">Plateaux</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="région" postag="NC" morpho="g=f|n=s" head="2" dep="mod">région</word>
-          <word id="7" lem="administratif" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">administrative</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="8" dep="prep">République</word>
-          <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="dep">du</word>
-          <word id="12" lem="Congo" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Congo</word>
-          <word id="13" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="département" postag="NC" morpho="g=m|n=s" head="0" dep="_">département</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Plateau</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="département" postag="NC" morpho="g=m|n=s" head="2" dep="mod">département</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="7" dep="prep">République</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="11" lem="Bénin" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Bénin</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="État" postag="NC" morpho="g=m|n=s" head="0" dep="_">État</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Plateau</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
-          <word id="7" lem="Nigeria" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Nigeria</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Plateau</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="centre" postag="NC" morpho="g=m|n=s" head="2" dep="mod">centre</word>
-          <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
-          <word id="8" lem="affaire" postag="NC" morpho="g=f|n=p" head="7" dep="prep">affaires</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="ville" postag="NC" morpho="g=f|n=s" head="9" dep="prep">ville</word>
-          <word id="12" lem="ivoirien" postag="ADJ" morpho="g=f|n=s" head="11" dep="mod">ivoirienne</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">Abidjan</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Plateau</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="ville" postag="NC" morpho="g=f|n=s" head="6" dep="prep">ville</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Québec" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Québec</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="0" dep="_">au</word>
-          <word id="13" lem="Canada" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Canada</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Dakar-Plateau</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="quartier" postag="NC" morpho="g=m|n=s" head="1" dep="mod">quartier</word>
-          <word id="4" lem="moderne" postag="ADJ" morpho="n=s" head="3" dep="mod">moderne</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="commun" postag="ADJ" morpho="g=f|n=s" head="5" dep="dep_coord">commune</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="capitale" postag="NC" morpho="g=f|n=s" head="7" dep="prep">capitale</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="11" lem="Sénégal" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Sénégal</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="5" dep="suj">Canton</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Plateau</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="division" postag="NC" morpho="g=f|n=s" head="5" dep="ats">division</word>
-          <word id="8" lem="administratif" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">administrative</word>
-          <word id="9" lem="suisse" postag="ADJ" morpho="n=s" head="7" dep="mod">suisse</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="4" dep="suj">Plateau</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Mont-Royal</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="quartier" postag="NC" morpho="g=m|n=s" head="4" dep="ats">quartier</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="arrondissement" postag="NC" morpho="g=m|n=s" head="7" dep="dep_coord">arrondissement</word>
-          <word id="10" lem="dans" postag="P" morpho="_" head="9" dep="dep">dans</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="ville" postag="NC" morpho="g=f|n=s" head="10" dep="prep">ville</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="Montréal" postag="NPP" morpho="g=m|n=s" head="13" dep="prep">Montréal</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="7">
-      <sentence id="1">
-        <word id="1" lem="patronyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Patronyme</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">Nom</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="3" lem="famille" postag="NC" morpho="g=f|n=s" head="2" dep="prep">famille</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="7">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Antoine" postag="NPP" morpho="g=m|n=s" head="6" dep="suj">Antoine</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Plateau</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1759-1815</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="peintre" postag="NC" morpho="n=s" head="6" dep="ats">peintre</word>
-          <word id="9" lem="belge" postag="ADJ" morpho="n=s" head="8" dep="mod">belge</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="joseph" postag="NC" morpho="g=m" head="0" dep="_">Joseph</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Plateau</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">1801-1883</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="mathématicien" postag="NC" morpho="g=m|n=s" head="2" dep="mod">mathématicien</word>
-          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-          <word id="10" lem="physicien" postag="NC" morpho="g=m|n=s" head="9" dep="dep_coord">physicien</word>
-          <word id="11" lem="belge" postag="ADJ" morpho="n=s" head="10" dep="mod">belge</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="prix" postag="NC" morpho="g=m" head="0" dep="_">prix</word>
-          <word id="3" lem="Joseph" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Joseph</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Plateau</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="7" lem="néerlandais" postag="NC" morpho="g=m" head="6" dep="prep">néerlandais</word>
-          <word id="8" lem="Joseph" postag="NPP" morpho="g=m|n=s" head="7" dep="mod">Joseph</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Plateau</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="7" dep="mod">prijzen</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="12" lem="prix" postag="NC" morpho="g=m" head="7" dep="mod">prix</word>
-          <word id="13" lem="belge" postag="ADJ" morpho="n=p" head="12" dep="mod">belges</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="15" lem="cinéma" postag="NC" morpho="g=m|n=s" head="14" dep="prep">cinéma</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="17" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="18" lem="nom" postag="NC" morpho="g=m|n=s" head="17" dep="prep">nom</word>
-          <word id="19" lem="de" postag="P+D" morpho="g=m|n=s" head="18" dep="dep">du</word>
-          <word id="20" lem="physicien" postag="NC" morpho="g=m|n=s" head="19" dep="prep">physicien</word>
-          <word id="21" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="problème" postag="NC" morpho="g=m|n=s" head="5" dep="suj">problème</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Plateau</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="problème" postag="NC" morpho="g=m|n=s" head="5" dep="ats">problème</word>
-          <word id="8" lem="que" postag="PROREL" morpho="_" head="11" dep="obj">qu'</word>
-          <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="11" dep="suj">il</word>
-          <word id="10" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="aux_tps">a</word>
-          <word id="11" lem="poser" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod_rel">posé</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-          <word id="13" lem="qui" postag="PROREL" morpho="n=s" head="14" dep="suj">qui</word>
-          <word id="14" lem="porter" postag="V" morpho="n=s|p=13|t=pst" head="12" dep="dep_coord">porte</word>
-          <word id="15" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="16" dep="det">son</word>
-          <word id="16" lem="nom" postag="NC" morpho="g=m|n=s" head="14" dep="obj">nom</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="Marius" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Marius</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Plateau</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1886-1923</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="militant" postag="NC" morpho="g=m|n=s" head="1" dep="mod">militant</word>
-          <word id="9" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">royaliste</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="10" dep="prep">Action</word>
-          <word id="13" lem="français" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">française</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="pierre" postag="NC" morpho="g=f|n=s" head="6" dep="suj">Pierre</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Plateau</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1924-</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="évêque" postag="NC" morpho="g=m|n=s" head="6" dep="ats">évêque</word>
-          <word id="9" lem="catholique" postag="ADJ" morpho="n=s" head="8" dep="mod">catholique</word>
-          <word id="10" lem="français" postag="ADJ" morpho="g=m" head="8" dep="mod">français</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="Yves" postag="NPP" morpho="g=m|n=s" head="3" dep="suj">Yves</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Plateau</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="dessinateur" postag="NC" morpho="g=m|n=s" head="3" dep="ats">dessinateur</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="bande" postag="NC" morpho="g=f|n=s" head="6" dep="prep">bande</word>
-          <word id="8" lem="dessiner" postag="ADJ" morpho="g=f|n=s|t=past" head="7" dep="mod">dessinée</word>
-          <word id="9" lem="belge" postag="ADJ" morpho="n=s" head="7" dep="mod">belge</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="8">
-      <sentence id="1">
-        <word id="1" lem="joseph" postag="NC" morpho="g=m" head="0" dep="_">Joseph</word>
-        <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Plateau</word>
-        <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-        <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="mod">1801-1883</word>
-        <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-        <word id="8" lem="mathématicien" postag="NC" morpho="g=m|n=s" head="2" dep="mod">mathématicien</word>
-        <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-        <word id="10" lem="physicien" postag="NC" morpho="g=m|n=s" head="9" dep="dep_coord">physicien</word>
-        <word id="11" lem="belge" postag="ADJ" morpho="n=s" head="10" dep="mod">belge</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="8">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="prix" postag="NC" morpho="g=m" head="0" dep="_">prix</word>
-          <word id="3" lem="Joseph" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Joseph</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Plateau</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="7" lem="néerlandais" postag="NC" morpho="g=m" head="6" dep="prep">néerlandais</word>
-          <word id="8" lem="Joseph" postag="NPP" morpho="g=m|n=s" head="7" dep="mod">Joseph</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Plateau</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="7" dep="mod">prijzen</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="12" lem="prix" postag="NC" morpho="g=m" head="7" dep="mod">prix</word>
-          <word id="13" lem="belge" postag="ADJ" morpho="n=p" head="12" dep="mod">belges</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="15" lem="cinéma" postag="NC" morpho="g=m|n=s" head="14" dep="prep">cinéma</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="17" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="18" lem="nom" postag="NC" morpho="g=m|n=s" head="17" dep="prep">nom</word>
-          <word id="19" lem="de" postag="P+D" morpho="g=m|n=s" head="18" dep="dep">du</word>
-          <word id="20" lem="physicien" postag="NC" morpho="g=m|n=s" head="19" dep="prep">physicien</word>
-          <word id="21" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="problème" postag="NC" morpho="g=m|n=s" head="5" dep="suj">problème</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Plateau</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="problème" postag="NC" morpho="g=m|n=s" head="5" dep="ats">problème</word>
-          <word id="8" lem="que" postag="PROREL" morpho="_" head="11" dep="obj">qu'</word>
-          <word id="9" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="11" dep="suj">il</word>
-          <word id="10" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="aux_tps">a</word>
-          <word id="11" lem="poser" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod_rel">posé</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-          <word id="13" lem="qui" postag="PROREL" morpho="n=s" head="14" dep="suj">qui</word>
-          <word id="14" lem="porter" postag="V" morpho="n=s|p=13|t=pst" head="12" dep="dep_coord">porte</word>
-          <word id="15" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="16" dep="det">son</word>
-          <word id="16" lem="nom" postag="NC" morpho="g=m|n=s" head="14" dep="obj">nom</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -1301,8 +277,8 @@ Un plateau est un ustensile plat avec rebord, parfois des poignées :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -1317,8 +293,8 @@ Un plateau est un ustensile plat avec rebord, parfois des poignées :</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -1329,8 +305,8 @@ Un plateau est un ustensile plat avec rebord, parfois des poignées :</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -1344,49 +320,22 @@ Un plateau est un ustensile plat avec rebord, parfois des poignées :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
-      <span begin="1" end="101" />
-      <text>Mécanique
-Un plateau est une partie d'un dispositif mécanique ayant la forme d'un « disque », ainsi,</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="102" end="173" id="0" />
-      <text id="0">un plateau est une roue dentée solidaire du pédalier d'une bicyclette ;</text>
-      <span begin="174" end="258" id="1" />
-      <text id="1">un plateau (ou platine) est l'endroit où l'on pose les disques sur un tourne-disque.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
       <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="primer" idSE="3">
+    <SEval type="primer" idSE="2">
       <span begin="1" end="28" />
       <text>Arts, Spectacles et Culture</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="2">
       <span begin="29" end="486" id="0" />
       <text id="0">Un plateau est un concept des arts du spectacle :
 Un plateau est un « plancher surélevé sur lequel jouent les acteurs et reposent les décors », par extension dans le lexique théâtral, c'est la scène ou la distribution d'un spectacle ;
@@ -1406,52 +355,24 @@ l'épreuve du plateau est la première partie du permis moto.</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="primer" idSE="4">
-      <span begin="1" end="50" />
-      <text>Un plateau est un concept des arts du spectacle :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="items" idSE="4">
-      <span begin="51" end="235" id="0" />
-      <text id="0">Un plateau est un « plancher surélevé sur lequel jouent les acteurs et reposent les décors », par extension dans le lexique théâtral, c'est la scène ou la distribution d'un spectacle ;</text>
-      <span begin="236" end="458" id="1" />
-      <text id="1">Un plateau est le lieu de tournage d'un spectacle enregistré :
-Un plateau de télévision est un local où l'on crée une émission de la télévision.
-Un plateau de cinéma est l'endroit où a lieu le tournage d'un film au cinéma.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="primer" idSE="5">
+    <SEval type="primer" idSE="3">
       <span begin="1" end="63" />
       <text>Un plateau est le lieu de tournage d'un spectacle enregistré :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="items" idSE="5">
+    <SEval type="items" idSE="3">
       <span begin="64" end="145" id="0" />
       <text id="0">Un plateau de télévision est un local où l'on crée une émission de la télévision.</text>
       <span begin="146" end="223" id="1" />
@@ -1460,24 +381,24 @@ Un plateau de cinéma est l'endroit où a lieu le tournage d'un film au cinéma.
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="primer" idSE="6">
+    <SEval type="primer" idSE="4">
       <span begin="1" end="3" />
       <text>s</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="items" idSE="6">
+    <SEval type="items" idSE="4">
       <span begin="4" end="70" id="0" />
       <text id="0">Le quartier du Plateau, cité ouvrière dans la périphérie de Caen ;</text>
       <span begin="71" end="170" id="1" />
@@ -1502,12 +423,12 @@ Un plateau de cinéma est l'endroit où a lieu le tournage d'un film au cinéma.
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="primer" idSE="7">
+    <SEval type="primer" idSE="5">
       <span begin="1" end="25" />
       <text>Patronyme
 Nom de famille</text>
@@ -1515,12 +436,12 @@ Nom de famille</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="items" idSE="7">
+    <SEval type="items" idSE="5">
       <span begin="26" end="75" id="0" />
       <text id="0">Antoine Plateau (1759-1815) est un peintre belge.</text>
       <span begin="76" end="321" id="1" />
@@ -1537,83 +458,57 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="primer" idSE="8">
-      <span begin="1" end="64" />
-      <text>Joseph Plateau (1801-1883), un mathématicien et physicien belge</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="items" idSE="8">
-      <span begin="65" end="172" id="0" />
-      <text id="0">les prix Joseph Plateau, en néerlandais Joseph Plateau prijzen (prix belges de cinéma, du nom du physicien)</text>
-      <span begin="173" end="246" id="1" />
-      <text id="1">le problème de Plateau est un problème qu'il a posé et qui porte son nom.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
-      <span begin="9" end="20" id="0" />
-      <text id="0">Un plateau</text>
+      <span begin="24" end="53" id="0" />
+      <text id="0">un ustensile plat avec rebord</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
-      <span begin="78" end="89" id="0" />
-      <text id="0">Un plateau</text>
+      <span begin="89" end="115" id="0" />
+      <text id="0">sert au transport d'objets</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
-      <span begin="189" end="206" id="0" />
+      <span begin="189" end="205" id="0" />
       <text id="0">Un plateau-repas</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
-      <span begin="280" end="290" id="0" />
-      <text id="0">Un plateau</text>
+      <span begin="295" end="323" id="0" />
+      <text id="0">un constituant d'une balance</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
@@ -1624,32 +519,32 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
-      <span begin="12" end="23" id="0" />
-      <text id="0">Un plateau</text>
+      <span begin="27" end="46" id="0" />
+      <text id="0">une forme de relief</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
-      <span begin="63" end="86" id="0" />
+      <span begin="63" end="85" id="0" />
       <text id="0">Un plateau continental</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -1661,82 +556,10 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
-      <span begin="11" end="22" id="0" />
-      <text id="0">Un plateau</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
-      <span begin="116" end="171" id="0" />
-      <text id="0">une roue dentée solidaire du pédalier d'une bicyclette</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
-      <span begin="202" end="257" id="0" />
-      <text id="0">l'endroit où l'on pose les disques sur un tourne-disque</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
-      <span begin="1" end="10" id="0" />
-      <text id="0">Mécanique</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="marq_relation" idSE="2" localisation="item" idItem="0">
-      <span begin="102" end="112" id="0" />
-      <text id="0">un plateau</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="marq_relation" idSE="2" localisation="item" idItem="1">
-      <span begin="174" end="184" id="0" />
-      <text id="0">un plateau</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
       <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
       <span begin="29" end="39" id="0" />
       <text id="0">Un plateau</text>
       <span begin="94" end="171" id="1" />
@@ -1747,24 +570,24 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
       <span begin="1" end="28" id="0" />
       <text id="0">Arts, Spectacles et Culture</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="3" localisation="item" idItem="0">
+    <SEval type="marq_relation" idSE="2" localisation="item" idItem="0">
       <span begin="79" end="90" id="0" />
       <text id="0">Un plateau</text>
       <span begin="264" end="274" id="1" />
@@ -1773,373 +596,321 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
-      <span begin="236" end="246" id="0" />
-      <text id="0">Un plateau</text>
-      <span begin="299" end="323" id="1" />
-      <text id="1">Un plateau de télévision</text>
-      <span begin="381" end="402" id="2" />
-      <text id="2">Un plateau de cinéma</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
-      <span begin="1" end="12" id="0" />
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+      <span begin="1" end="11" id="0" />
       <text id="0">Un plateau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="0">
-      <span begin="64" end="89" id="0" />
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="64" end="88" id="0" />
       <text id="0">Un plateau de télévision</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
       <span begin="146" end="166" id="0" />
       <text id="0">Un plateau de cinéma</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
       <span begin="4" end="26" id="0" />
       <text id="0">Le quartier du Plateau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
       <span begin="71" end="95" id="0" />
       <text id="0">le district des Plateaux</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="2">
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
       <span begin="171" end="193" id="0" />
       <text id="0">la région des Plateaux</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="3">
+    <SEval type="concept" idSE="4" localisation="item" idItem="3">
       <span begin="245" end="270" id="0" />
       <text id="0">le département du Plateau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="4">
+    <SEval type="concept" idSE="4" localisation="item" idItem="4">
       <span begin="312" end="330" id="0" />
       <text id="0">l'État de Plateau,</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="5">
+    <SEval type="concept" idSE="4" localisation="item" idItem="5">
       <span begin="344" end="366" id="0" />
       <text id="0">le quartier du Plateau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="6">
+    <SEval type="concept" idSE="4" localisation="item" idItem="6">
       <span begin="422" end="444" id="0" />
       <text id="0">le quartier du Plateau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="7">
+    <SEval type="concept" idSE="4" localisation="item" idItem="7">
       <span begin="482" end="496" id="0" />
       <text id="0">Dakar-Plateau,</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="8">
+    <SEval type="concept" idSE="4" localisation="item" idItem="8">
       <span begin="551" end="572" id="0" />
       <text id="0">le Canton du Plateau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="9">
+    <SEval type="concept" idSE="4" localisation="item" idItem="9">
       <span begin="611" end="632" id="0" />
       <text id="0">Le Plateau Mont-Royal</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="0">
       <span begin="42" end="68" id="0" />
       <text id="0">dans la périphérie de Caen</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="1">
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="1">
       <span begin="133" end="168" id="0" />
       <text id="0">en République démocratique du Congo</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="2">
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="2">
       <span begin="223" end="242" id="0" />
       <text id="0">République du Congo</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="3">
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="3">
       <span begin="272" end="309" id="0" />
       <text id="0">département de la République du Bénin</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="4">
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="4">
       <span begin="331" end="342" id="0" />
       <text id="0">au Nigeria</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="5">
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="5">
       <span begin="388" end="420" id="0" />
       <text id="0">de la ville ivoirienne d'Abidjan</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="6">
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="6">
       <span begin="446" end="480" id="0" />
       <text id="0">dans la ville de Québec, au Canada</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="7">
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="7">
       <span begin="525" end="550" id="0" />
       <text id="0">de la capitale du Sénégal</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="6" localisation="item" idItem="9">
+    <SEval type="circonstant" idSE="4" localisation="item" idItem="9">
       <span begin="670" end="695" id="0" />
       <text id="0">dans la ville de Montréal</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="6" localisation="primer" idItem="-1">
+    <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
       <span begin="1" end="3" id="0" />
       <text id="0">s</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="0">
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
       <span begin="26" end="41" id="0" />
       <text id="0">Antoine Plateau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="1">
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
       <span begin="76" end="91" id="0" />
       <text id="0">Joseph Plateau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="7" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="5" localisation="primer" idItem="-1">
       <span begin="1" end="10" id="0" />
       <text id="0">Patronyme</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="8" localisation="primer" idItem="-1">
-      <span begin="1" end="15" id="0" />
-      <text id="0">Joseph Plateau</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="0">
-      <span begin="65" end="88" id="0" />
-      <text id="0">les prix Joseph Plateau</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="1">
-      <span begin="173" end="196" id="0" />
-      <text id="0">le problème de Plateau</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -2152,8 +923,8 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -2166,8 +937,8 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -2183,8 +954,8 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:43</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -2209,8 +980,8 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -2223,8 +994,8 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -2237,8 +1008,8 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -2254,8 +1025,8 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:58</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -2281,7 +1052,7 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -2295,11 +1066,11 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="1" />
+      <paradigmatique value="0" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -2309,7 +1080,7 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -2326,7 +1097,7 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:27</date>
+      <date>1/01/13 14:20</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -2352,7 +1123,7 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:20</date>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -2366,11 +1137,11 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:20</date>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -2380,7 +1151,7 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:20</date>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -2397,7 +1168,7 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:20</date>
+      <date>4/01/14 22:55</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -2416,14 +1187,14 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
         <lexical_autre value="0" />
       </metalinguistique>
       <semantique_autre value="0" />
-      <contextuelle value="1" />
+      <contextuelle value="0" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -2437,7 +1208,7 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -2451,7 +1222,7 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -2468,33 +1239,33 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:30</date>
+      <date>1/01/13 14:32</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
-      <visee_ontologique value="1">
-        <isA value="1" />
+      <visee_ontologique value="0">
+        <isA value="0" />
         <partOf value="0" />
         <instanceOf value="0" />
         <ontologique_autre value="0" />
       </visee_ontologique>
-      <metalinguistique value="0">
+      <metalinguistique value="1">
         <hyperonymie value="0" />
         <meronymie value="0" />
         <homonymie value="0" />
         <synonymie value="0" />
         <multilingue value="0" />
-        <lexical_autre value="0" />
+        <lexical_autre value="1" />
       </metalinguistique>
       <semantique_autre value="0" />
-      <contextuelle value="0" />
+      <contextuelle value="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="5">
@@ -2507,12 +1278,12 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="5">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -2521,12 +1292,12 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="5">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -2538,8 +1309,8 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:59</date>
+      <auteur>Autre</auteur>
+      <date>1/01/13 14:33</date>
       <document>Plateau.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="5">
@@ -2552,77 +1323,6 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
       <metalinguistique value="1">
         <hyperonymie value="0" />
         <meronymie value="0" />
-        <homonymie value="1" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:32</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="6">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:32</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="6">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:32</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="6">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:32</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="6">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="1">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
         <homonymie value="0" />
         <synonymie value="0" />
         <multilingue value="0" />
@@ -2630,148 +1330,6 @@ le problème de Plateau est un problème qu'il a posé et qui porte son nom.</te
       </metalinguistique>
       <semantique_autre value="0" />
       <contextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="7">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="7">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="7">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="7">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="1">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="1" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="8">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="8">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="8">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 14:33</date>
-      <document>Plateau.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="8">
-      <visee_ontologique value="1">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="1" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
     </SEval>
   </annotation>
 </root>

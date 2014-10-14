@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SE>
@@ -12,55 +12,34 @@
       <text>Le mot vient du latin institutum (installations, coutume)</text>
       <span begin="294" end="352" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="mot" postag="NC" morpho="g=m|n=s" head="3" dep="suj">mot</word>
-        <word id="3" lem="venir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">vient</word>
-        <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="de_obj">du</word>
-        <word id="5" lem="latin" postag="NC" morpho="g=m|n=s" head="4" dep="prep">latin</word>
-        <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">institutum</word>
-        <word id="7" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="installation" postag="NC" morpho="g=f|n=p" head="0" dep="root">installations</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="coutume" postag="NC" morpho="g=f|n=s" head="0" dep="root">coutume</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -71,8 +50,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -85,8 +64,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -97,8 +76,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -109,8 +88,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -121,8 +100,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -133,8 +112,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -147,8 +126,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -161,8 +140,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -178,8 +157,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Institut.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

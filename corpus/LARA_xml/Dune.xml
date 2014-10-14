@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SE>
@@ -12,31 +12,17 @@
       <text>Les dunes se forment dans des zones où le sable est abondant et non fixé par la végétation (désert, plage, lit fluvial à l'étiage).</text>
       <span begin="1052" end="1183" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:35</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
     <SE>
       <id>1</id>
-      <text>La mise en place des massifs dunaires et leur évolution sont particulièrement tributaires des conditions climatiques et bien sûr de la disponibilité en matériaux sableux (selon le niveau marin, les courants, etc.)</text>
-      <span begin="2058" end="2271" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
-      <document>Dune.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
       <text>Les paléosols (anciens sols fossilisés) permettent de reconstituer l’histoire de la dune du Pilat (Gironde). On en trouve quatre principaux sur le versant occidental : un ancien podzol (podzosol)et trois paléosols dunaires.</text>
       <span begin="3491" end="3714" />
     </SE>
@@ -44,13 +30,13 @@
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SE>
-      <id>3</id>
+      <id>2</id>
       <text>Types
 Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent être isolées ou alignées.Sur le littoral on distingue : les milieux arrières dunaires et quatre types de dunes littorales « de première ligne » :
 les avant-dunes (foredune en anglais), qui sont des bourrelets plus ou moins fixés par la végétation (oyats par exemples), parallèles au trait de côte et solidaire de la plage, c'est-à-dire échangeant du sable avec elle, dans un même système sédimentaire. Elle est différente d'une ancienne arrière dune en cours d'érosion, et d'une dune formée par du sable venant de terre sur un secteur où une avant-dune active ne pourrait pas se former. En Espagne et en Tunisie, ces avant-dunes sont systématiquement considérées comme faisant partie du domaine public maritime, ce qui facilite leur protection. L'avant-dune se forme à partir de fixation du sable en haut de plage, par des plantes pionnières psammophiles, tolérant les embruns et les UV (par exemple en Europe de l'ouest ; Elymus farctus puis Ammophila arenaria dits Oyats).
@@ -63,13 +49,13 @@ les cordons dunaires artificiels sont construits par l'homme, généralement com
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SE>
-      <id>4</id>
+      <id>3</id>
       <text>Tous ces types de dunes peuvent exister sous trois formes : simple, composée et complexe.</text>
       <span begin="9912" end="10002" />
     </SE>
@@ -78,677 +64,96 @@ les cordons dunaires artificiels sont construits par l'homme, généralement com
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="dune" postag="NC" morpho="g=f|n=p" head="4" dep="suj">dunes</word>
-        <word id="3" lem="se" postag="CLR" morpho="n=p|p=3" head="4" dep="aff">se</word>
-        <word id="4" lem="former" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">forment</word>
-        <word id="5" lem="dans" postag="P" morpho="_" head="4" dep="mod">dans</word>
-        <word id="6" lem="des" postag="DET" morpho="n=p" head="7" dep="det">des</word>
-        <word id="7" lem="zone" postag="NC" morpho="g=f|n=p" head="5" dep="prep">zones</word>
-        <word id="8" lem="où" postag="PROREL" morpho="_" head="11" dep="mod">où</word>
-        <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-        <word id="10" lem="sable" postag="NC" morpho="g=m|n=s" head="11" dep="suj">sable</word>
-        <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="mod_rel">est</word>
-        <word id="12" lem="abondant" postag="ADJ" morpho="g=m|n=s" head="11" dep="ats">abondant</word>
-        <word id="13" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
-        <word id="14" lem="non" postag="ADV" morpho="_" head="15" dep="mod">non</word>
-        <word id="15" lem="fixer" postag="VPP" morpho="g=m|n=s|t=past" head="13" dep="dep_coord">fixé</word>
-        <word id="16" lem="par" postag="P" morpho="_" head="15" dep="p_obj">par</word>
-        <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
-        <word id="18" lem="végétation" postag="NC" morpho="g=f|n=s" head="16" dep="prep">végétation</word>
-        <word id="19" lem="(" postag="PONCT" morpho="_" head="18" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">n</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="désert" postag="NC" morpho="g=m|n=s" head="1" dep="mod">désert</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="plage" postag="NC" morpho="g=f|n=s" head="0" dep="_">plage</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="lit" postag="NC" morpho="g=m|n=s" head="0" dep="_">lit</word>
-          <word id="2" lem="fluvial" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">fluvial</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="4" lem="l'" postag="DET" morpho="n=s" head="5" dep="det">l'</word>
-          <word id="5" lem="étiage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">étiage</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:35</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-        <word id="2" lem="mise" postag="NC" morpho="g=f|n=s" head="11" dep="suj">mise</word>
-        <word id="3" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-        <word id="4" lem="place" postag="NC" morpho="g=f|n=s" head="3" dep="prep">place</word>
-        <word id="5" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-        <word id="6" lem="massif" postag="NC" morpho="g=m|n=p" head="5" dep="prep">massifs</word>
-        <word id="7" lem="_" postag="ADJ" morpho="_" head="6" dep="mod">dunaires</word>
-        <word id="8" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        <word id="9" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="10" dep="det">leur</word>
-        <word id="10" lem="évolution" postag="NC" morpho="g=f|n=s" head="8" dep="dep_coord">évolution</word>
-        <word id="11" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-        <word id="12" lem="particulièrement" postag="ADV" morpho="_" head="13" dep="mod">particulièrement</word>
-        <word id="13" lem="tributaire" postag="ADJ" morpho="n=p" head="11" dep="ats">tributaires</word>
-        <word id="14" lem="de" postag="P+D" morpho="n=p" head="13" dep="de_obj">des</word>
-        <word id="15" lem="condition" postag="NC" morpho="g=f|n=p" head="14" dep="prep">conditions</word>
-        <word id="16" lem="climatique" postag="ADJ" morpho="n=p" head="15" dep="mod">climatiques</word>
-        <word id="17" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
-        <word id="18" lem="bien_sûr" postag="ADV" morpho="_" head="17" dep="mod">bien_sûr</word>
-        <word id="19" lem="de" postag="P" morpho="_" head="17" dep="dep_coord">de</word>
-        <word id="20" lem="la" postag="DET" morpho="g=f|n=s" head="21" dep="det">la</word>
-        <word id="21" lem="disponibilité" postag="NC" morpho="g=f|n=s" head="19" dep="prep">disponibilité</word>
-        <word id="22" lem="en" postag="P" morpho="_" head="21" dep="dep">en</word>
-        <word id="23" lem="matériau" postag="NC" morpho="g=m|n=p" head="22" dep="prep">matériaux</word>
-        <word id="24" lem="sableux" postag="ADJ" morpho="g=m" head="23" dep="mod">sableux</word>
-        <word id="25" lem="(" postag="PONCT" morpho="_" head="21" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:35</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-          <word id="2" lem="selon" postag="P" morpho="_" head="0" dep="_">selon</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="niveau" postag="NC" morpho="g=m|n=s" head="2" dep="prep">niveau</word>
-          <word id="5" lem="marin" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">marin</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="courant" postag="NC" morpho="g=m|n=p" head="0" dep="_">courants</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="paléosol" postag="NC" morpho="g=m|n=p" head="8" dep="suj">paléosols</word>
-        <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-        <word id="4" lem="ancien" postag="ADJ" morpho="g=m|n=p" head="5" dep="mod">anciens</word>
-        <word id="5" lem="sol" postag="NC" morpho="g=m|n=p" head="2" dep="mod">sols</word>
-        <word id="6" lem="fossiliser" postag="VPP" morpho="g=m|n=p|t=past" head="5" dep="mod">fossilisés</word>
-        <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        <word id="8" lem="permettre" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">permettent</word>
-        <word id="9" lem="de" postag="P" morpho="_" head="8" dep="obj">de</word>
-        <word id="10" lem="reconstituer" postag="VINF" morpho="_" head="9" dep="prep">reconstituer</word>
-        <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-        <word id="12" lem="histoire" postag="NC" morpho="g=f|n=s" head="10" dep="obj">histoire</word>
-        <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-        <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-        <word id="15" lem="dune" postag="NC" morpho="g=f|n=s" head="13" dep="prep">dune</word>
-        <word id="16" lem="de" postag="P+D" morpho="g=m|n=s" head="15" dep="dep">du</word>
-        <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="prep">Pilat</word>
-        <word id="18" lem="(" postag="PONCT" morpho="_" head="17" dep="ponct">(</word>
-        <word id="19" lem="girond" postag="ADJ" morpho="g=f|n=s" head="17" dep="mod">Gironde</word>
-        <word id="20" lem=")" postag="PONCT" morpho="_" head="17" dep="ponct">)</word>
-        <word id="21" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="3" dep="suj">On</word>
-        <word id="2" lem="en" postag="CLO" morpho="_" head="3" dep="aff">en</word>
-        <word id="3" lem="trouver" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">trouve</word>
-        <word id="4" lem="deux" postag="NC" morpho="g=m" head="3" dep="obj">quatre</word>
-        <word id="5" lem="principal" postag="ADJ" morpho="g=m|n=p" head="4" dep="mod">principaux</word>
-        <word id="6" lem="sur" postag="P" morpho="_" head="3" dep="mod">sur</word>
-        <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-        <word id="8" lem="versant" postag="NC" morpho="g=m|n=s" head="6" dep="prep">versant</word>
-        <word id="9" lem="occidental" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">occidental</word>
-        <word id="10" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">un</word>
-          <word id="2" lem="ancien" postag="ADJ" morpho="g=m|n=s" head="3" dep="mod">ancien</word>
-          <word id="3" lem="podzol" postag="NC" morpho="g=m|n=s" head="0" dep="_">podzol</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="3" dep="mod">podzosol</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="deux" postag="ADJ" morpho="n=p" head="2" dep="mod">trois</word>
-          <word id="2" lem="paléosol" postag="NC" morpho="g=m|n=p" head="0" dep="root">paléosols</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">dunaires</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="type" postag="NC" morpho="g=m|n=p" head="0" dep="_">Types</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-        <word id="2" lem="dune" postag="NC" morpho="g=f|n=s" head="4" dep="suj">dune</word>
-        <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_pass">est</word>
-        <word id="4" lem="dire" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">dite</word>
-        <word id="5" lem="vif" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">vive</word>
-        <word id="6" lem="quand" postag="CS" morpho="_" head="4" dep="mod">quand</word>
-        <word id="7" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="8" dep="suj">elle</word>
-        <word id="8" lem="continuer" postag="V" morpho="n=s|p=13|t=pst" head="6" dep="sub">continue</word>
-        <word id="9" lem="de" postag="P" morpho="_" head="8" dep="obj">de</word>
-        <word id="10" lem="se" postag="CLR" morpho="n=p|p=3" head="11" dep="aff">se</word>
-        <word id="11" lem="déplacer" postag="VINF" morpho="_" head="9" dep="prep">déplacer</word>
-        <word id="12" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-      </sentence>
-      <sentence id="3">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="dune" postag="NC" morpho="g=f|n=p" head="3" dep="suj">dunes</word>
-        <word id="3" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
-        <word id="4" lem="être" postag="VINF" morpho="_" head="5" dep="aux_pass">être</word>
-        <word id="5" lem="isoler" postag="VPP" morpho="g=f|n=p|t=past" head="3" dep="obj">isolées</word>
-        <word id="6" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-        <word id="7" lem="_" postag="ADV" morpho="_" head="6" dep="mod">alignées.Sur</word>
-        <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-        <word id="9" lem="littoral" postag="NC" morpho="g=m|n=s" head="6" dep="dep_coord">littoral</word>
-        <word id="10" lem="on" postag="CLS" morpho="n=s|p=3" head="11" dep="suj">on</word>
-        <word id="11" lem="distinguer" postag="V" morpho="n=s|p=13|t=pst" head="6" dep="dep_coord">distingue</word>
-        <word id="12" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-        <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
-        <word id="14" lem="milieu" postag="NC" morpho="g=m|n=p" head="0" dep="_">milieux</word>
-        <word id="15" lem="arrière" postag="NC" morpho="n=p" head="14" dep="mod">arrières</word>
-        <word id="16" lem="_" postag="ADJ" morpho="_" head="14" dep="mod">dunaires</word>
-        <word id="17" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
-        <word id="18" lem="deux" postag="ADJ" morpho="n=p" head="17" dep="dep_coord">quatre</word>
-        <word id="19" lem="type" postag="NC" morpho="g=m|n=p" head="14" dep="mod">types</word>
-        <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
-        <word id="21" lem="dune" postag="NC" morpho="g=f|n=p" head="20" dep="prep">dunes</word>
-        <word id="22" lem="littoral" postag="ADJ" morpho="g=f|n=p" head="21" dep="mod">littorales</word>
-        <word id="23" lem="&quot;" postag="PONCT" morpho="_" head="14" dep="ponct">"</word>
-        <word id="24" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-        <word id="25" lem="premier" postag="ADJ" morpho="g=f|n=s" head="26" dep="mod">première</word>
-        <word id="26" lem="ligne" postag="NC" morpho="g=f|n=s" head="24" dep="prep">ligne</word>
-        <word id="27" lem="&quot;" postag="PONCT" morpho="_" head="26" dep="ponct">"</word>
-        <word id="28" lem=":" postag="PONCT" morpho="_" head="14" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">avant-dunes</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="mod">foredune</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="4" dep="dep">en</word>
-          <word id="6" lem="anglais" postag="NC" morpho="g=m" head="5" dep="prep">anglais</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="9" lem="qui" postag="PROREL" morpho="n=s" head="10" dep="suj">qui</word>
-          <word id="10" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">sont</word>
-          <word id="11" lem="des" postag="DET" morpho="n=p" head="12" dep="det">des</word>
-          <word id="12" lem="bourrelet" postag="NC" morpho="g=m|n=p" head="10" dep="ats">bourrelets</word>
-          <word id="13" lem="plus_ou_moins" postag="ADV" morpho="_" head="14" dep="mod">plus_ou_moins</word>
-          <word id="14" lem="fixer" postag="VPP" morpho="g=m|n=p|t=past" head="12" dep="mod">fixés</word>
-          <word id="15" lem="par" postag="P" morpho="_" head="14" dep="p_obj">par</word>
-          <word id="16" lem="la" postag="DET" morpho="g=f|n=s" head="17" dep="det">la</word>
-          <word id="17" lem="végétation" postag="NC" morpho="g=f|n=s" head="15" dep="prep">végétation</word>
-          <word id="18" lem="(" postag="PONCT" morpho="_" head="17" dep="ponct">(</word>
-          <word id="19" lem="oyat" postag="NC" morpho="g=m|n=p" head="17" dep="mod">oyats</word>
-          <word id="20" lem="par" postag="P" morpho="_" head="19" dep="dep">par</word>
-          <word id="21" lem="exemple" postag="NC" morpho="g=m|n=p" head="20" dep="prep">exemples</word>
-          <word id="22" lem=")" postag="PONCT" morpho="_" head="17" dep="ponct">)</word>
-          <word id="23" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="24" lem="parallèle" postag="ADJ" morpho="n=p" head="17" dep="mod">parallèles</word>
-          <word id="25" lem="à" postag="P+D" morpho="g=m|n=s" head="24" dep="a_obj">au</word>
-          <word id="26" lem="trait" postag="NC" morpho="g=m|n=s" head="25" dep="prep">trait</word>
-          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">de</word>
-          <word id="28" lem="côte" postag="NC" morpho="g=f|n=s" head="27" dep="prep">côte</word>
-          <word id="29" lem="et" postag="CC" morpho="_" head="26" dep="coord">et</word>
-          <word id="30" lem="solidaire" postag="ADJ" morpho="n=s" head="29" dep="dep_coord">solidaire</word>
-          <word id="31" lem="de" postag="P" morpho="_" head="26" dep="dep">de</word>
-          <word id="32" lem="la" postag="DET" morpho="g=f|n=s" head="33" dep="det">la</word>
-          <word id="33" lem="plage" postag="NC" morpho="g=f|n=s" head="31" dep="prep">plage</word>
-          <word id="34" lem="," postag="PONCT" morpho="_" head="17" dep="ponct">,</word>
-          <word id="35" lem="c'est-à-dire" postag="CC" morpho="_" head="17" dep="coord">c'est-à-dire</word>
-          <word id="36" lem="échanger" postag="VPR" morpho="t=pst" head="35" dep="dep_coord">échangeant</word>
-          <word id="37" lem="de" postag="P+D" morpho="g=m|n=s" head="36" dep="de_obj">du</word>
-          <word id="38" lem="sable" postag="NC" morpho="g=m|n=s" head="37" dep="prep">sable</word>
-          <word id="39" lem="avec" postag="P" morpho="_" head="36" dep="mod">avec</word>
-          <word id="40" lem="elle" postag="PRO" morpho="g=f|n=s|p=3" head="39" dep="prep">elle</word>
-          <word id="41" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-          <word id="42" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
-          <word id="43" lem="un" postag="DET" morpho="g=m|n=s" head="45" dep="det">un</word>
-          <word id="44" lem="même" postag="ADJ" morpho="n=s" head="45" dep="mod">même</word>
-          <word id="45" lem="système" postag="NC" morpho="g=m|n=s" head="42" dep="prep">système</word>
-          <word id="46" lem="sédimentaire" postag="ADJ" morpho="n=s" head="45" dep="mod">sédimentaire</word>
-          <word id="47" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="2" dep="suj">Elle</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="différent" postag="ADJ" morpho="g=f|n=s" head="2" dep="ats">différente</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="de_obj">d'</word>
-          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="6" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">ancienne</word>
-          <word id="7" lem="arrière" postag="NC" morpho="n=s" head="4" dep="prep">arrière</word>
-          <word id="8" lem="_" postag="ADJ" morpho="_" head="7" dep="mod">dune</word>
-          <word id="9" lem="en_cours_de" postag="P" morpho="_" head="7" dep="dep">en_cours_d'</word>
-          <word id="10" lem="érosion" postag="NC" morpho="g=f|n=s" head="9" dep="prep">érosion</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep_coord">d'</word>
-          <word id="14" lem="une" postag="DET" morpho="g=f|n=s" head="15" dep="det">une</word>
-          <word id="15" lem="dune" postag="NC" morpho="g=f|n=s" head="13" dep="prep">dune</word>
-          <word id="16" lem="former" postag="VPP" morpho="g=f|n=s|t=past" head="15" dep="mod">formée</word>
-          <word id="17" lem="par" postag="P" morpho="_" head="16" dep="p_obj">par</word>
-          <word id="18" lem="du" postag="DET" morpho="g=m|n=s" head="19" dep="det">du</word>
-          <word id="19" lem="sable" postag="NC" morpho="g=m|n=s" head="17" dep="prep">sable</word>
-          <word id="20" lem="venir" postag="VPR" morpho="t=pst" head="19" dep="mod">venant</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="de_obj">de</word>
-          <word id="22" lem="terre" postag="NC" morpho="g=f|n=s" head="21" dep="prep">terre</word>
-          <word id="23" lem="sur" postag="P" morpho="_" head="20" dep="mod">sur</word>
-          <word id="24" lem="un" postag="DET" morpho="g=m|n=s" head="25" dep="det">un</word>
-          <word id="25" lem="secteur" postag="NC" morpho="g=m|n=s" head="23" dep="prep">secteur</word>
-          <word id="26" lem="où" postag="PROREL" morpho="_" head="31" dep="mod">où</word>
-          <word id="27" lem="une" postag="DET" morpho="g=f|n=s" head="28" dep="det">une</word>
-          <word id="28" lem="_" postag="NC" morpho="_" head="31" dep="suj">avant-dune</word>
-          <word id="29" lem="actif" postag="ADJ" morpho="g=f|n=s" head="28" dep="mod">active</word>
-          <word id="30" lem="ne" postag="ADV" morpho="_" head="31" dep="mod">ne</word>
-          <word id="31" lem="pouvoir" postag="V" morpho="n=s|p=3|t=cond" head="25" dep="mod_rel">pourrait</word>
-          <word id="32" lem="pas" postag="ADV" morpho="_" head="31" dep="mod">pas</word>
-          <word id="33" lem="se" postag="CLR" morpho="n=p|p=3" head="34" dep="aff">se</word>
-          <word id="34" lem="former" postag="VINF" morpho="_" head="31" dep="obj">former</word>
-          <word id="35" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="en" postag="P" morpho="_" head="11" dep="mod">En</word>
-          <word id="2" lem="Espagne" postag="NPP" morpho="g=f|n=s" head="1" dep="prep">Espagne</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="3" dep="dep_coord">en</word>
-          <word id="5" lem="Tunisie" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Tunisie</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="7" lem="ces" postag="DET" morpho="n=p" head="8" dep="det">ces</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="11" dep="suj">avant-dunes</word>
-          <word id="9" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="11" dep="aux_pass">sont</word>
-          <word id="10" lem="systématiquement" postag="ADV" morpho="_" head="11" dep="mod">systématiquement</word>
-          <word id="11" lem="considérer" postag="VPP" morpho="g=f|n=p|t=past" head="0" dep="root">considérées</word>
-          <word id="12" lem="comme" postag="P" morpho="_" head="11" dep="mod">comme</word>
-          <word id="13" lem="faire" postag="VPR" morpho="t=pst" head="12" dep="prep">faisant</word>
-          <word id="14" lem="partie" postag="NC" morpho="g=f|n=s" head="13" dep="obj">partie</word>
-          <word id="15" lem="de" postag="P+D" morpho="g=m|n=s" head="14" dep="dep">du</word>
-          <word id="16" lem="domaine" postag="NC" morpho="g=m|n=s" head="15" dep="prep">domaine</word>
-          <word id="17" lem="public" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">public</word>
-          <word id="18" lem="maritime" postag="ADJ" morpho="n=s" head="16" dep="mod">maritime</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="20" lem="ce" postag="PRO" morpho="_" head="11" dep="mod">ce</word>
-          <word id="21" lem="qui" postag="PROREL" morpho="n=s" head="22" dep="suj">qui</word>
-          <word id="22" lem="faciliter" postag="V" morpho="n=s|p=13|t=pst" head="20" dep="mod_rel">facilite</word>
-          <word id="23" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="24" dep="det">leur</word>
-          <word id="24" lem="protection" postag="NC" morpho="g=f|n=s" head="22" dep="obj">protection</word>
-          <word id="25" lem="." postag="PONCT" morpho="_" head="11" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="4" dep="suj">avant-dune</word>
-          <word id="3" lem="se" postag="CLR" morpho="n=p|p=3" head="4" dep="aff">se</word>
-          <word id="4" lem="former" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">forme</word>
-          <word id="5" lem="à_partir_de" postag="P" morpho="_" head="4" dep="mod">à_partir_de</word>
-          <word id="6" lem="fixation" postag="NC" morpho="g=f|n=s" head="5" dep="prep">fixation</word>
-          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep">du</word>
-          <word id="8" lem="sable" postag="NC" morpho="g=m|n=s" head="7" dep="prep">sable</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="8" dep="dep">en</word>
-          <word id="10" lem="haut" postag="NC" morpho="g=m|n=s" head="9" dep="prep">haut</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="plage" postag="NC" morpho="g=f|n=s" head="11" dep="prep">plage</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="14" lem="par" postag="P" morpho="_" head="4" dep="mod">par</word>
-          <word id="15" lem="des" postag="DET" morpho="n=p" head="16" dep="det">des</word>
-          <word id="16" lem="plante" postag="NC" morpho="g=f|n=p" head="14" dep="prep">plantes</word>
-          <word id="17" lem="pionnier" postag="ADJ" morpho="g=f|n=p" head="16" dep="mod">pionnières</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="16" dep="mod">psammophiles</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="20" lem="tolérer" postag="VPR" morpho="t=pst" head="4" dep="mod">tolérant</word>
-          <word id="21" lem="les" postag="DET" morpho="n=p" head="22" dep="det">les</word>
-          <word id="22" lem="embrun" postag="NC" morpho="g=m|n=p" head="20" dep="obj">embruns</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="22" dep="coord">et</word>
-          <word id="24" lem="les" postag="DET" morpho="n=p" head="25" dep="det">les</word>
-          <word id="25" lem="_" postag="NPP" morpho="_" head="23" dep="dep_coord">UV</word>
-          <word id="26" lem="(" postag="PONCT" morpho="_" head="25" dep="ponct">(</word>
-          <word id="27" lem="par" postag="P" morpho="_" head="25" dep="dep">par</word>
-          <word id="28" lem="exemple" postag="NC" morpho="g=m|n=s" head="27" dep="prep">exemple</word>
-          <word id="29" lem="en" postag="P" morpho="_" head="25" dep="dep">en</word>
-          <word id="30" lem="Europe" postag="NPP" morpho="g=f|n=s" head="29" dep="prep">Europe</word>
-          <word id="31" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
-          <word id="32" lem="l'" postag="DET" morpho="n=s" head="33" dep="det">l'</word>
-          <word id="33" lem="ouest" postag="NC" morpho="g=m|n=s" head="31" dep="prep">ouest</word>
-          <word id="34" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
-          <word id="35" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Elymus</word>
-          <word id="36" lem="_" postag="NPP" morpho="_" head="35" dep="mod">farctus</word>
-          <word id="37" lem="puis" postag="CC" morpho="_" head="35" dep="coord">puis</word>
-          <word id="38" lem="_" postag="NPP" morpho="_" head="37" dep="dep_coord">Ammophila</word>
-          <word id="39" lem="_" postag="NC" morpho="_" head="38" dep="mod">arenaria</word>
-          <word id="40" lem="dire" postag="VPP" morpho="g=m|n=p|t=past" head="39" dep="mod">dits</word>
-          <word id="41" lem="_" postag="NPP" morpho="_" head="40" dep="mod">Oyats</word>
-          <word id="42" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-          <word id="43" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="falaise" postag="NC" morpho="g=f|n=p" head="10" dep="suj">falaises</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">dunaires</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="dune" postag="NC" morpho="g=f|n=s" head="2" dep="mod">dune</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">cliff</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
-          <word id="8" lem="anglais" postag="NC" morpho="g=m" head="7" dep="prep">anglais</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="11" lem="plutôt" postag="ADV" morpho="_" head="10" dep="mod">plutôt</word>
-          <word id="12" lem="un" postag="DET" morpho="g=m|n=s" head="13" dep="det">un</word>
-          <word id="13" lem="profil" postag="NC" morpho="g=m|n=s" head="10" dep="ats">profil</word>
-          <word id="14" lem="résulter" postag="VPR" morpho="t=pst" head="13" dep="mod">résultant</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="de_obj">de</word>
-          <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
-          <word id="17" lem="érosion" postag="NC" morpho="g=f|n=s" head="15" dep="prep">érosion</word>
-          <word id="18" lem="marine" postag="NC" morpho="n=s" head="17" dep="mod">marine</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="17" dep="dep">d'</word>
-          <word id="20" lem="une" postag="DET" morpho="g=f|n=s" head="21" dep="det">une</word>
-          <word id="21" lem="dune" postag="NC" morpho="g=f|n=s" head="19" dep="prep">dune</word>
-          <word id="22" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="21" dep="mod">ancienne</word>
-          <word id="23" lem="fixer" postag="VPP" morpho="g=f|n=s|t=past" head="21" dep="mod">fixée</word>
-          <word id="24" lem="par" postag="P" morpho="_" head="23" dep="p_obj">par</word>
-          <word id="25" lem="une" postag="DET" morpho="g=f|n=s" head="26" dep="det">une</word>
-          <word id="26" lem="pelouse" postag="NC" morpho="g=f|n=s" head="24" dep="prep">pelouse</word>
-          <word id="27" lem="ou" postag="CC" morpho="_" head="26" dep="coord">ou</word>
-          <word id="28" lem="un" postag="DET" morpho="g=m|n=s" head="29" dep="det">un</word>
-          <word id="29" lem="boisement" postag="NC" morpho="g=m|n=s" head="27" dep="dep_coord">boisement</word>
-          <word id="30" lem="qui" postag="PROREL" morpho="n=s" head="32" dep="suj">qui</word>
-          <word id="31" lem="avoir" postag="V" morpho="n=p|p=3|t=pst" head="32" dep="aux_tps">ont</word>
-          <word id="32" lem="être" postag="VPP" morpho="t=past" head="26" dep="mod_rel">été</word>
-          <word id="33" lem="à" postag="P" morpho="_" head="32" dep="mod">à</word>
-          <word id="34" lem="l'" postag="DET" morpho="n=s" head="35" dep="det">l'</word>
-          <word id="35" lem="origine" postag="NC" morpho="g=f|n=s" head="33" dep="prep">origine</word>
-          <word id="36" lem="de" postag="P" morpho="_" head="35" dep="dep">de</word>
-          <word id="37" lem="la" postag="DET" morpho="g=f|n=s" head="38" dep="det">la</word>
-          <word id="38" lem="formation" postag="NC" morpho="g=f|n=s" head="36" dep="prep">formation</word>
-          <word id="39" lem="de" postag="P" morpho="_" head="38" dep="dep">d'</word>
-          <word id="40" lem="une" postag="DET" morpho="g=f|n=s" head="41" dep="det">une</word>
-          <word id="41" lem="couche" postag="NC" morpho="g=f|n=s" head="39" dep="prep">couche</word>
-          <word id="42" lem="de" postag="P" morpho="_" head="41" dep="dep">d'</word>
-          <word id="43" lem="humus" postag="NC" morpho="g=m" head="42" dep="prep">humus</word>
-          <word id="44" lem="ou" postag="CC" morpho="_" head="42" dep="coord">ou</word>
-          <word id="45" lem="de" postag="P" morpho="_" head="44" dep="dep_coord">de</word>
-          <word id="46" lem="sol" postag="NC" morpho="g=m|n=p" head="45" dep="prep">sol</word>
-          <word id="47" lem="sableux" postag="ADJ" morpho="g=m" head="46" dep="mod">sableux</word>
-          <word id="48" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="dune" postag="NC" morpho="g=f|n=p" head="10" dep="suj">dunes</word>
-          <word id="3" lem="percher" postag="ADJ" morpho="g=f|n=p|t=past" head="2" dep="mod">perchées</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="2" dep="mod">cliff-top</word>
-          <word id="6" lem="dune" postag="NC" morpho="g=f|n=s" head="5" dep="mod">dune</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="5" dep="dep">en</word>
-          <word id="8" lem="anglais" postag="NC" morpho="g=m" head="7" dep="prep">anglais</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="10" lem="apparaître" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">apparaissent</word>
-          <word id="11" lem="à" postag="P+D" morpho="g=m|n=s" head="10" dep="mod">au</word>
-          <word id="12" lem="sommet" postag="NC" morpho="g=m|n=s" head="11" dep="prep">sommet</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">d'</word>
-          <word id="14" lem="une" postag="DET" morpho="g=f|n=s" head="15" dep="det">une</word>
-          <word id="15" lem="falaise" postag="NC" morpho="g=f|n=s" head="13" dep="prep">falaise</word>
-          <word id="16" lem="vif" postag="ADJ" morpho="g=f|n=s" head="15" dep="mod">vive</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="elles" postag="CLS" morpho="g=f|n=p|p=3" head="3" dep="suj">Elles</word>
-          <word id="2" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="3" dep="aux_pass">sont</word>
-          <word id="3" lem="alimenter" postag="VPP" morpho="g=f|n=p|t=past" head="0" dep="root">alimentées</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="3" dep="mod">en</word>
-          <word id="5" lem="sable" postag="NC" morpho="g=m|n=s" head="4" dep="prep">sable</word>
-          <word id="6" lem="par" postag="P" morpho="_" head="3" dep="p_obj">par</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="8" dep="det">le</word>
-          <word id="8" lem="vent" postag="NC" morpho="g=m|n=s" head="6" dep="prep">vent</word>
-          <word id="9" lem="à_partir_de" postag="P" morpho="_" head="3" dep="mod">à_partir_de</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="estran" postag="NC" morpho="g=m|n=s" head="9" dep="prep">estran</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="13" lem="voire" postag="CC" morpho="_" head="3" dep="coord">voire</word>
-          <word id="14" lem="à_partir_de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep_coord">à_partir_du</word>
-          <word id="15" lem="profil" postag="NC" morpho="g=m|n=s" head="14" dep="prep">profil</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="pente" postag="NC" morpho="g=f|n=s" head="16" dep="prep">pente</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="19" lem="quand" postag="CS" morpho="_" head="3" dep="mod">quand</word>
-          <word id="20" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="22" dep="suj">il</word>
-          <word id="21" lem="se" postag="CLR" morpho="p=3" head="22" dep="aff">s'</word>
-          <word id="22" lem="agir" postag="V" morpho="n=s|p=3|t=past" head="19" dep="sub">agit</word>
-          <word id="23" lem="de" postag="P" morpho="_" head="22" dep="de_obj">d'</word>
-          <word id="24" lem="une" postag="DET" morpho="g=f|n=s" head="25" dep="det">une</word>
-          <word id="25" lem="falaise" postag="NC" morpho="g=f|n=s" head="23" dep="prep">falaise</word>
-          <word id="26" lem="_" postag="ADJ" morpho="_" head="25" dep="mod">dunaire</word>
-          <word id="27" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="cordon" postag="NC" morpho="g=m|n=p" head="6" dep="suj">cordons</word>
-          <word id="3" lem="_" postag="ADJ" morpho="_" head="2" dep="mod">dunaires</word>
-          <word id="4" lem="artificiel" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">artificiels</word>
-          <word id="5" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="6" dep="aux_pass">sont</word>
-          <word id="6" lem="construire" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">construits</word>
-          <word id="7" lem="par" postag="P" morpho="_" head="6" dep="p_obj">par</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="homme" postag="NC" morpho="g=m|n=s" head="7" dep="prep">homme</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="11" lem="généralement" postag="ADV" morpho="_" head="12" dep="mod">généralement</word>
-          <word id="12" lem="comme" postag="P" morpho="_" head="6" dep="mod">comme</word>
-          <word id="13" lem="élément" postag="NC" morpho="g=m|n=s" head="12" dep="prep">élément</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="protection" postag="NC" morpho="g=f|n=s" head="14" dep="prep">protection</word>
-          <word id="16" lem="contre" postag="P" morpho="_" head="13" dep="dep">contre</word>
-          <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
-          <word id="18" lem="mer" postag="NC" morpho="g=f|n=s" head="16" dep="prep">mer</word>
-          <word id="19" lem="ou" postag="CC" morpho="_" head="12" dep="coord">ou</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep_coord">d'</word>
-          <word id="21" lem="une" postag="DET" morpho="g=f|n=s" head="22" dep="det">une</word>
-          <word id="22" lem="zone" postag="NC" morpho="g=f|n=s" head="20" dep="prep">zone</word>
-          <word id="23" lem="cultiver" postag="ADJ" morpho="g=f|n=s|t=past" head="22" dep="mod">cultivée</word>
-          <word id="24" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-          <word id="25" lem="/" postag="PONCT" morpho="_" head="24" dep="ponct">/</word>
-          <word id="26" lem="ou" postag="CC" morpho="_" head="24" dep="coord">ou</word>
-          <word id="27" lem="construire" postag="VPP" morpho="g=f|n=s|t=past" head="26" dep="dep_coord">construite</word>
-          <word id="28" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="2" dep="suj">Ils</word>
-          <word id="2" lem="nécessiter" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">nécessitent</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="entretien" postag="NC" morpho="g=m|n=s" head="2" dep="obj">entretien</word>
-          <word id="5" lem="permanent" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">permanent</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="7" lem="sans" postag="P" morpho="_" head="2" dep="mod">sans</word>
-          <word id="8" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="7" dep="prep">lequel</word>
-          <word id="9" lem="ils" postag="CLS" morpho="g=m|n=p|p=3" head="11" dep="suj">ils</word>
-          <word id="10" lem="se" postag="CLR" morpho="n=p|p=3" head="11" dep="aff">se</word>
-          <word id="11" lem="désintégrer" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod">désintègrent</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="13" lem="quelques" postag="DET" morpho="n=p" head="14" dep="det">quelques</word>
-          <word id="14" lem="décennie" postag="NC" morpho="g=f|n=p" head="12" dep="prep">décennies</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="certains" postag="DET" morpho="g=m|n=p" head="2" dep="det">Certains</word>
-          <word id="2" lem="cordon" postag="NC" morpho="g=m|n=p" head="3" dep="suj">cordons</word>
-          <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-          <word id="4" lem="ainsi" postag="ADV" morpho="_" head="3" dep="mod">ainsi</word>
-          <word id="5" lem="_" postag="ET" morpho="_" head="7" dep="dep">semi-naturels</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="7" lem="ex" postag="NC" morpho="_" head="3" dep="ats">ex</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="3" dep="mod">avant-dunes</word>
-          <word id="10" lem="plus_ou_moins" postag="ADV" morpho="_" head="11" dep="mod">plus_ou_moins</word>
-          <word id="11" lem="dégrader" postag="VPP" morpho="g=f|n=p|t=past" head="9" dep="mod">dégradées</word>
-          <word id="12" lem="rectifier" postag="VPP" morpho="g=f|n=p|t=past" head="9" dep="mod">rectifiées</word>
-          <word id="13" lem="par" postag="P" morpho="_" head="12" dep="p_obj">par</word>
-          <word id="14" lem="des" postag="DET" morpho="n=p" head="15" dep="det">des</word>
-          <word id="15" lem="engin" postag="NC" morpho="g=m|n=p" head="13" dep="prep">engins</word>
-          <word id="16" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
-          <word id="17" lem="fixer" postag="VPP" morpho="g=f|n=p|t=past" head="16" dep="dep_coord">fixées</word>
-          <word id="18" lem="par" postag="P" morpho="_" head="17" dep="p_obj">par</word>
-          <word id="19" lem="des" postag="DET" morpho="n=p" head="20" dep="det">des</word>
-          <word id="20" lem="oyat" postag="NC" morpho="g=m|n=p" head="18" dep="prep">oyats</word>
-          <word id="21" lem="à" postag="P" morpho="_" head="17" dep="a_obj">à</word>
-          <word id="22" lem="Sangatte" postag="NPP" morpho="g=m|n=s" head="21" dep="prep">Sangatte</word>
-          <word id="23" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
-          <word id="24" lem="le" postag="DET" morpho="g=m|n=s" head="25" dep="det">le</word>
-          <word id="25" lem="Nord" postag="NPP" morpho="g=m|n=s" head="23" dep="prep">Nord</word>
-          <word id="26" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
-          <word id="27" lem="la" postag="DET" morpho="g=f|n=s" head="28" dep="det">la</word>
-          <word id="28" lem="_" postag="NPP" morpho="_" head="26" dep="prep">France.</word>
-          <word id="29" lem=")" postag="PONCT" morpho="_" head="25" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
-      <document>Dune.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="tout" postag="ADJ" morpho="g=m|n=p" head="3" dep="mod">Tous</word>
-        <word id="2" lem="ces" postag="DET" morpho="n=p" head="3" dep="det">ces</word>
-        <word id="3" lem="type" postag="NC" morpho="g=m|n=p" head="6" dep="suj">types</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-        <word id="5" lem="dune" postag="NC" morpho="g=f|n=p" head="4" dep="prep">dunes</word>
-        <word id="6" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
-        <word id="7" lem="exister" postag="VINF" morpho="_" head="6" dep="obj">exister</word>
-        <word id="8" lem="sous" postag="P" morpho="_" head="7" dep="mod">sous</word>
-        <word id="9" lem="deux" postag="ADJ" morpho="n=p" head="10" dep="mod">trois</word>
-        <word id="10" lem="forme" postag="NC" morpho="g=f|n=p" head="8" dep="prep">formes</word>
-        <word id="11" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
-      <document>Dune.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="simple" postag="ADJ" morpho="n=s" head="0" dep="_">simple</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="composer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="_">composée</word>
-          <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="complexe" postag="ADJ" morpho="n=s" head="0" dep="root">complexe</word>
-          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -759,8 +164,8 @@ les cordons dunaires artificiels sont construits par l'homme, généralement com
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -776,50 +181,22 @@ les cordons dunaires artificiels sont construits par l'homme, généralement com
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:35</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
-      <span begin="1" end="172" />
-      <text>La mise en place des massifs dunaires et leur évolution sont particulièrement tributaires des conditions climatiques et bien sûr de la disponibilité en matériaux sableux (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:35</date>
-      <document>Dune.html</document>
-    </metadata>
-    <SEval type="items" idSE="1">
-      <span begin="170" end="194" id="0" />
-      <text id="0">(selon le niveau marin,</text>
-      <span begin="195" end="208" id="1" />
-      <text id="1">les courants,</text>
-      <span begin="209" end="214" id="2" />
-      <text id="2">etc.)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
-      <document>Dune.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
       <span begin="1" end="168" />
       <text>Les paléosols (anciens sols fossilisés) permettent de reconstituer l’histoire de la dune du Pilat (Gironde). On en trouve quatre principaux sur le versant occidental :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="items" idSE="2">
+    <SEval type="items" idSE="1">
       <span begin="169" end="198" id="0" />
       <text id="0">un ancien podzol (podzosol)et</text>
       <span begin="199" end="224" id="1" />
@@ -828,12 +205,12 @@ les cordons dunaires artificiels sont construits par l'homme, généralement com
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="primer" idSE="3">
+    <SEval type="primer" idSE="2">
       <span begin="1" end="229" />
       <text>Types
 Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent être isolées ou alignées.Sur le littoral on distingue : les milieux arrières dunaires et quatre types de dunes littorales « de première ligne » :</text>
@@ -841,12 +218,12 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="2">
       <span begin="230" end="1058" id="0" />
       <text id="0">les avant-dunes (foredune en anglais), qui sont des bourrelets plus ou moins fixés par la végétation (oyats par exemples), parallèles au trait de côte et solidaire de la plage, c'est-à-dire échangeant du sable avec elle, dans un même système sédimentaire. Elle est différente d'une ancienne arrière dune en cours d'érosion, et d'une dune formée par du sable venant de terre sur un secteur où une avant-dune active ne pourrait pas se former. En Espagne et en Tunisie, ces avant-dunes sont systématiquement considérées comme faisant partie du domaine public maritime, ce qui facilite leur protection. L'avant-dune se forme à partir de fixation du sable en haut de plage, par des plantes pionnières psammophiles, tolérant les embruns et les UV (par exemple en Europe de l'ouest ; Elymus farctus puis Ammophila arenaria dits Oyats).</text>
       <span begin="1059" end="1293" id="1" />
@@ -859,24 +236,24 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="primer" idSE="4">
+    <SEval type="primer" idSE="3">
       <span begin="1" end="61" />
       <text>Tous ces types de dunes peuvent exister sous trois formes :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="items" idSE="4">
+    <SEval type="items" idSE="3">
       <span begin="61" end="69" id="0" />
       <text id="0">simple,</text>
       <span begin="69" end="80" id="1" />
@@ -888,8 +265,8 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -900,8 +277,8 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -912,8 +289,8 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -924,8 +301,8 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -935,180 +312,180 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
       <span begin="1" end="14" id="0" />
       <text id="0">Les paléosols</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="169" end="185" id="0" />
       <text id="0">un ancien podzol</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
       <span begin="199" end="223" id="0" />
       <text id="0">trois paléosols dunaires</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
       <span begin="123" end="140" id="0" />
       <text id="0">quatre principaux</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
       <span begin="189" end="205" id="0" />
       <text id="0">dunes littorales</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
       <span begin="230" end="245" id="0" />
       <text id="0">les avant-dunes</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
       <span begin="1059" end="1080" id="0" />
       <text id="0">les falaises dunaires</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
       <span begin="1294" end="1312" id="0" />
       <text id="0">les dunes perchées</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="3">
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
       <span begin="1523" end="1555" id="0" />
       <text id="0">les cordons dunaires artificiels</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
       <span begin="173" end="188" id="0" />
       <text id="0">quatre types de</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
       <span begin="19" end="24" id="0" />
       <text id="0">dunes</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
       <span begin="61" end="67" id="0" />
       <text id="0">simple</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
       <span begin="69" end="77" id="0" />
       <text id="0">composée</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
       <span begin="81" end="89" id="0" />
       <text id="0">complexe</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="marq_relation" idSE="3" localisation="primer" idItem="-1">
       <span begin="6" end="18" id="0" />
       <text id="0">ces types de</text>
       <span begin="41" end="58" id="1" />
@@ -1118,8 +495,8 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1132,8 +509,8 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1146,8 +523,8 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1163,8 +540,8 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1190,25 +567,25 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:35</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
       <horizontale value="1" />
       <verticale value="0" />
       <navigationnelle value="0" />
-      <hypertextuelle value="0" />
+      <hypertextuelle value="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:35</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -1218,11 +595,11 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:35</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -1235,12 +612,12 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:35</date>
+      <date>3/01/14 17:37</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
-      <visee_ontologique value="0">
-        <isA value="0" />
+      <visee_ontologique value="1">
+        <isA value="1" />
         <partOf value="0" />
         <instanceOf value="0" />
         <ontologique_autre value="0" />
@@ -1261,12 +638,12 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
-      <horizontale value="1" />
-      <verticale value="0" />
+      <horizontale value="0" />
+      <verticale value="1" />
       <navigationnelle value="0" />
       <hypertextuelle value="1" />
     </SEval>
@@ -1275,7 +652,7 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1289,7 +666,7 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1306,7 +683,7 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:37</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1332,21 +709,21 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
-      <horizontale value="0" />
-      <verticale value="1" />
+      <horizontale value="1" />
+      <verticale value="0" />
       <navigationnelle value="0" />
-      <hypertextuelle value="1" />
+      <hypertextuelle value="0" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1360,7 +737,7 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1377,81 +754,10 @@ Une dune est dite vive quand elle continue de se déplacer. Les dunes peuvent ê
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
+      <date>3/01/14 17:39</date>
       <document>Dune.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
-      <document>Dune.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="4">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
-      <document>Dune.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="4">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
-      <document>Dune.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="4">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 17:39</date>
-      <document>Dune.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="4">
       <visee_ontologique value="1">
         <isA value="1" />
         <partOf value="0" />

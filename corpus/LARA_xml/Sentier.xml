@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
     <SE>
@@ -30,13 +30,13 @@ Autre
 L'affaire du Sentier II, une affaire pénale.</text>
       <span begin="12" end="1080" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SE>
@@ -73,7 +73,7 @@ Sentier chinois, le surnom d'un quartier du 11e arrondissement de Paris, récemm
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SE>
@@ -90,391 +90,48 @@ Les Sentiers de la gloire, un film.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Sentier</word>
-        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="3" lem="faire" postag="VINF" morpho="_" head="2" dep="obj">faire</word>
-        <word id="4" lem="référence" postag="NC" morpho="g=f|n=s" head="3" dep="obj">référence</word>
-        <word id="5" lem="à" postag="P" morpho="_" head="3" dep="mod">à</word>
-        <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="voie" postag="NC" morpho="g=f|n=p" head="0" dep="root">Voies</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="voie" postag="NC" morpho="g=f|n=s" head="0" dep="_">voie</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="communication" postag="NC" morpho="g=f|n=s" head="5" dep="prep">communication</word>
-          <word id="7" lem="étroit" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">étroite</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="9" lem="moins" postag="ADV" morpho="_" head="10" dep="mod">moins</word>
-          <word id="10" lem="large" postag="ADJ" morpho="n=s" head="4" dep="mod">large</word>
-          <word id="11" lem="que" postag="CS" morpho="_" head="10" dep="dep">qu'</word>
-          <word id="12" lem="un" postag="DET" morpho="g=m|n=s" head="13" dep="det">un</word>
-          <word id="13" lem="chemin" postag="NC" morpho="g=m|n=s" head="11" dep="sub">chemin</word>
-          <word id="14" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
-          <word id="15" lem="inaccessible" postag="ADJ" morpho="n=s" head="14" dep="dep_coord">inaccessible</word>
-          <word id="16" lem="à" postag="P+D" morpho="n=p" head="15" dep="a_obj">aux</word>
-          <word id="17" lem="véhicule" postag="NC" morpho="g=m|n=p" head="16" dep="prep">véhicules</word>
-          <word id="18" lem="à" postag="P" morpho="_" head="17" dep="dep">à</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="différence" postag="NC" morpho="g=f|n=s" head="18" dep="prep">différence</word>
-          <word id="21" lem="de" postag="P+D" morpho="n=p" head="20" dep="dep">des</word>
-          <word id="22" lem="chemin" postag="NC" morpho="g=m|n=p" head="21" dep="prep">chemins</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="ce" postag="DET" morpho="g=m|n=s" head="2" dep="det">Ce</word>
-          <word id="2" lem="sens" postag="NC" morpho="g=m" head="4" dep="suj">sens</word>
-          <word id="3" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_tps">a</word>
-          <word id="4" lem="donner" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">donné</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="nom" postag="NC" morpho="g=m|n=p" head="4" dep="obj">noms</word>
-          <word id="7" lem="suivant" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">suivants</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="root">Sentier</word>
-          <word id="2" lem="maritime" postag="ADJ" morpho="n=s" head="1" dep="mod">maritime</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="randonnée" postag="NC" morpho="g=f|n=s" head="2" dep="prep">randonnée</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="grand" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">grande</word>
-          <word id="4" lem="randonnée" postag="NC" morpho="g=f|n=s" head="2" dep="prep">randonnée</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="littoral" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">littoral</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="4" lem="chemin" postag="NC" morpho="g=m|n=s" head="3" dep="dep_coord">chemin</word>
-          <word id="5" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="6" lem="douanier" postag="NC" morpho="g=m|n=p" head="5" dep="prep">douaniers</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">sentier</word>
-          <word id="10" lem="qui" postag="PROREL" morpho="n=s" head="11" dep="suj">qui</word>
-          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="mod_rel">est</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="13" lem="bord" postag="NC" morpho="g=m|n=s" head="12" dep="prep">bord</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="mer" postag="NC" morpho="g=f|n=s" head="14" dep="prep">mer</word>
-          <word id="16" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
-          <word id="17" lem="qui" postag="PROREL" morpho="n=s" head="20" dep="suj">qui</word>
-          <word id="18" lem="en" postag="P" morpho="_" head="20" dep="mod">en</word>
-          <word id="19" lem="principe" postag="NC" morpho="g=m|n=s" head="18" dep="prep">principe</word>
-          <word id="20" lem="relever" postag="V" morpho="n=s|p=13|t=pst" head="16" dep="dep_coord">relève</word>
-          <word id="21" lem="de" postag="P+D" morpho="g=m|n=s" head="20" dep="de_obj">du</word>
-          <word id="22" lem="domaine" postag="NC" morpho="g=m|n=s" head="21" dep="prep">domaine</word>
-          <word id="23" lem="public" postag="ADJ" morpho="g=m|n=s" head="22" dep="mod">public</word>
-          <word id="24" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="toponyme" postag="NC" morpho="g=m|n=p" head="0" dep="_">Toponymes</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Sentier</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="localité" postag="NC" morpho="g=f|n=s" head="2" dep="mod">localité</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="commune" postag="NC" morpho="g=f|n=s" head="6" dep="prep">commune</word>
-          <word id="9" lem="suisse" postag="ADJ" morpho="n=s" head="8" dep="mod">suisse</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Chenit</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="quartier" postag="NC" morpho="g=m|n=s" head="1" dep="mod">quartier</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Paris" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Paris</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
-          <word id="10" lem="parisien" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">parisien</word>
-          <word id="11" lem="spécialiser" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">spécialisé</word>
-          <word id="12" lem="dans" postag="P" morpho="_" head="11" dep="mod">dans</word>
-          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
-          <word id="14" lem="commerce" postag="NC" morpho="g=m|n=s" head="12" dep="prep">commerce</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="textile" postag="NC" morpho="g=m|n=s" head="15" dep="prep">textile</word>
-          <word id="17" lem="en_gros" postag="ADV" morpho="_" head="11" dep="mod">en_gros</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="métro" postag="NC" morpho="g=m|n=s" head="1" dep="mod">métro</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Paris" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Paris</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="9" lem="station" postag="NC" morpho="g=f|n=s" head="0" dep="_">station</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="métro" postag="NC" morpho="g=m|n=s" head="10" dep="prep">métro</word>
-          <word id="12" lem="à" postag="P" morpho="_" head="9" dep="dep">à</word>
-          <word id="13" lem="Paris" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Paris</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="16" dep="mod">Sentier</word>
-          <word id="2" lem="chinois" postag="ADJ" morpho="g=m" head="1" dep="mod">chinois</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="5" lem="surnom" postag="NC" morpho="g=m|n=s" head="16" dep="suj">surnom</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="quartier" postag="NC" morpho="g=m|n=s" head="6" dep="prep">quartier</word>
-          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="10" lem="_" postag="ADJ" morpho="_" head="11" dep="mod">11e</word>
-          <word id="11" lem="arrondissement" postag="NC" morpho="g=m|n=s" head="9" dep="prep">arrondissement</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="Paris" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Paris</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="15" lem="récemment" postag="ADV" morpho="_" head="16" dep="mod">récemment</word>
-          <word id="16" lem="devenir" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">devenu</word>
-          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
-          <word id="18" lem="quartier" postag="NC" morpho="g=m|n=s" head="16" dep="ats">quartier</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
-          <word id="20" lem="commerce" postag="NC" morpho="g=m|n=s" head="19" dep="prep">commerce</word>
-          <word id="21" lem="textile" postag="ADJ" morpho="n=s" head="20" dep="mod">textile</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="sens" postag="NC" morpho="g=m" head="0" dep="_">Sens</word>
-          <word id="2" lem="figurer" postag="ADJ" morpho="g=m|n=s|t=past" head="1" dep="mod">figuré</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="4" lem="dériver" postag="ADJ" morpho="g=m|n=p|t=past" head="3" dep="dep_coord">dérivés</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="cheminement" postag="NC" morpho="g=m|n=s" head="1" dep="mod">cheminement</word>
-          <word id="4" lem="moral" postag="ADJ" morpho="g=m|n=s" head="3" dep="mod">moral</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="8" lem="manière" postag="NC" morpho="g=f|n=s" head="7" dep="prep">manière</word>
-          <word id="9" lem="imager" postag="VPP" morpho="g=f|n=s|t=past" head="8" dep="mod">imagée</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="12" lem="cheminement" postag="NC" morpho="g=m|n=s" head="0" dep="_">cheminement</word>
-          <word id="13" lem="moral" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">moral</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="ce" postag="DET" morpho="g=m|n=s" head="2" dep="det">Ce</word>
-          <word id="2" lem="sens" postag="NC" morpho="g=m" head="4" dep="suj">sens</word>
-          <word id="3" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_tps">a</word>
-          <word id="4" lem="donner" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">donné</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="nom" postag="NC" morpho="g=m|n=p" head="4" dep="obj">noms</word>
-          <word id="7" lem="suivant" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">suivants</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="lumineux" postag="ADJ" morpho="g=m" head="1" dep="mod">lumineux</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="mouvement" postag="NC" morpho="g=m|n=s" head="0" dep="_">mouvement</word>
-          <word id="6" lem="politique" postag="ADJ" morpho="n=s" head="5" dep="mod">politique</word>
-          <word id="7" lem="péruvien" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">péruvien</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Or</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-          <word id="6" lem="univers" postag="NC" morpho="g=m" head="4" dep="prep">univers</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="science-fiction" postag="NC" morpho="g=f|n=s" head="7" dep="prep">science-fiction</word>
-          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">Cycle</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Dune</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Sentiers</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="gloire" postag="NC" morpho="g=f|n=s" head="3" dep="prep">gloire</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="film" postag="NC" morpho="g=m|n=s" head="6" dep="dep_coord">film</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="autre" postag="ADJ" morpho="n=s" head="0" dep="_">Autre</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="affaire" postag="NC" morpho="g=f|n=s" head="0" dep="_">affaire</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Sentier</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">II</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
-          <word id="8" lem="affaire" postag="NC" morpho="g=f|n=s" head="4" dep="mod">affaire</word>
-          <word id="9" lem="pénal" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">pénale</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="voie" postag="NC" morpho="g=f|n=p" head="0" dep="root">Voies</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="voie" postag="NC" morpho="g=f|n=s" head="0" dep="_">voie</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="communication" postag="NC" morpho="g=f|n=s" head="5" dep="prep">communication</word>
-          <word id="7" lem="étroit" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">étroite</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="9" lem="moins" postag="ADV" morpho="_" head="10" dep="mod">moins</word>
-          <word id="10" lem="large" postag="ADJ" morpho="n=s" head="4" dep="mod">large</word>
-          <word id="11" lem="que" postag="CS" morpho="_" head="10" dep="dep">qu'</word>
-          <word id="12" lem="un" postag="DET" morpho="g=m|n=s" head="13" dep="det">un</word>
-          <word id="13" lem="chemin" postag="NC" morpho="g=m|n=s" head="11" dep="sub">chemin</word>
-          <word id="14" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
-          <word id="15" lem="inaccessible" postag="ADJ" morpho="n=s" head="14" dep="dep_coord">inaccessible</word>
-          <word id="16" lem="à" postag="P+D" morpho="n=p" head="15" dep="a_obj">aux</word>
-          <word id="17" lem="véhicule" postag="NC" morpho="g=m|n=p" head="16" dep="prep">véhicules</word>
-          <word id="18" lem="à" postag="P" morpho="_" head="17" dep="dep">à</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="différence" postag="NC" morpho="g=f|n=s" head="18" dep="prep">différence</word>
-          <word id="21" lem="de" postag="P+D" morpho="n=p" head="20" dep="dep">des</word>
-          <word id="22" lem="chemin" postag="NC" morpho="g=m|n=p" head="21" dep="prep">chemins</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="4" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ce" postag="DET" morpho="g=m|n=s" head="2" dep="det">Ce</word>
-          <word id="2" lem="sens" postag="NC" morpho="g=m" head="4" dep="suj">sens</word>
-          <word id="3" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_tps">a</word>
-          <word id="4" lem="donner" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">donné</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="nom" postag="NC" morpho="g=m|n=p" head="4" dep="obj">noms</word>
-          <word id="7" lem="suivant" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">suivants</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="root">Sentier</word>
-          <word id="2" lem="maritime" postag="ADJ" morpho="n=s" head="1" dep="mod">maritime</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="randonnée" postag="NC" morpho="g=f|n=s" head="2" dep="prep">randonnée</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="grand" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">grande</word>
-          <word id="4" lem="randonnée" postag="NC" morpho="g=f|n=s" head="2" dep="prep">randonnée</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="littoral" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">littoral</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="4" lem="chemin" postag="NC" morpho="g=m|n=s" head="3" dep="dep_coord">chemin</word>
-          <word id="5" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="6" lem="douanier" postag="NC" morpho="g=m|n=p" head="5" dep="prep">douaniers</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">sentier</word>
-          <word id="10" lem="qui" postag="PROREL" morpho="n=s" head="11" dep="suj">qui</word>
-          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="mod_rel">est</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="13" lem="bord" postag="NC" morpho="g=m|n=s" head="12" dep="prep">bord</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="mer" postag="NC" morpho="g=f|n=s" head="14" dep="prep">mer</word>
-          <word id="16" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
-          <word id="17" lem="qui" postag="PROREL" morpho="n=s" head="20" dep="suj">qui</word>
-          <word id="18" lem="en" postag="P" morpho="_" head="20" dep="mod">en</word>
-          <word id="19" lem="principe" postag="NC" morpho="g=m|n=s" head="18" dep="prep">principe</word>
-          <word id="20" lem="relever" postag="V" morpho="n=s|p=13|t=pst" head="16" dep="dep_coord">relève</word>
-          <word id="21" lem="de" postag="P+D" morpho="g=m|n=s" head="20" dep="de_obj">du</word>
-          <word id="22" lem="domaine" postag="NC" morpho="g=m|n=s" head="21" dep="prep">domaine</word>
-          <word id="23" lem="public" postag="ADJ" morpho="g=m|n=s" head="22" dep="mod">public</word>
-          <word id="24" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -484,11 +141,7 @@ Les Sentiers de la gloire, un film.</text>
       <date>1/01/13 10:47</date>
       <document>Sentier.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="toponyme" postag="NC" morpho="g=m|n=p" head="0" dep="_">Toponymes</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -498,191 +151,40 @@ Les Sentiers de la gloire, un film.</text>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Sentier</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="localité" postag="NC" morpho="g=f|n=s" head="2" dep="mod">localité</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="commune" postag="NC" morpho="g=f|n=s" head="6" dep="prep">commune</word>
-          <word id="9" lem="suisse" postag="ADJ" morpho="n=s" head="8" dep="mod">suisse</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Chenit</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="quartier" postag="NC" morpho="g=m|n=s" head="1" dep="mod">quartier</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Paris" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Paris</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="quartier" postag="NC" morpho="g=m|n=s" head="0" dep="_">quartier</word>
-          <word id="10" lem="parisien" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">parisien</word>
-          <word id="11" lem="spécialiser" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">spécialisé</word>
-          <word id="12" lem="dans" postag="P" morpho="_" head="11" dep="mod">dans</word>
-          <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
-          <word id="14" lem="commerce" postag="NC" morpho="g=m|n=s" head="12" dep="prep">commerce</word>
-          <word id="15" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="16" lem="textile" postag="NC" morpho="g=m|n=s" head="15" dep="prep">textile</word>
-          <word id="17" lem="en_gros" postag="ADV" morpho="_" head="11" dep="mod">en_gros</word>
-          <word id="18" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="métro" postag="NC" morpho="g=m|n=s" head="1" dep="mod">métro</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Paris" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Paris</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="9" lem="station" postag="NC" morpho="g=f|n=s" head="0" dep="_">station</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="métro" postag="NC" morpho="g=m|n=s" head="10" dep="prep">métro</word>
-          <word id="12" lem="à" postag="P" morpho="_" head="9" dep="dep">à</word>
-          <word id="13" lem="Paris" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Paris</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="16" dep="mod">Sentier</word>
-          <word id="2" lem="chinois" postag="ADJ" morpho="g=m" head="1" dep="mod">chinois</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="5" lem="surnom" postag="NC" morpho="g=m|n=s" head="16" dep="suj">surnom</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="quartier" postag="NC" morpho="g=m|n=s" head="6" dep="prep">quartier</word>
-          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="10" lem="_" postag="ADJ" morpho="_" head="11" dep="mod">11e</word>
-          <word id="11" lem="arrondissement" postag="NC" morpho="g=m|n=s" head="9" dep="prep">arrondissement</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="Paris" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">Paris</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="15" lem="récemment" postag="ADV" morpho="_" head="16" dep="mod">récemment</word>
-          <word id="16" lem="devenir" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">devenu</word>
-          <word id="17" lem="un" postag="DET" morpho="g=m|n=s" head="18" dep="det">un</word>
-          <word id="18" lem="quartier" postag="NC" morpho="g=m|n=s" head="16" dep="ats">quartier</word>
-          <word id="19" lem="de" postag="P" morpho="_" head="18" dep="dep">de</word>
-          <word id="20" lem="commerce" postag="NC" morpho="g=m|n=s" head="19" dep="prep">commerce</word>
-          <word id="21" lem="textile" postag="ADJ" morpho="n=s" head="20" dep="mod">textile</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="sens" postag="NC" morpho="g=m" head="0" dep="_">Sens</word>
-        <word id="2" lem="figurer" postag="ADJ" morpho="g=m|n=s|t=past" head="1" dep="mod">figuré</word>
-        <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        <word id="4" lem="dériver" postag="ADJ" morpho="g=m|n=p|t=past" head="3" dep="dep_coord">dérivés</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="cheminement" postag="NC" morpho="g=m|n=s" head="1" dep="mod">cheminement</word>
-          <word id="4" lem="moral" postag="ADJ" morpho="g=m|n=s" head="3" dep="mod">moral</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="8" lem="manière" postag="NC" morpho="g=f|n=s" head="7" dep="prep">manière</word>
-          <word id="9" lem="imager" postag="VPP" morpho="g=f|n=s|t=past" head="8" dep="mod">imagée</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="12" lem="cheminement" postag="NC" morpho="g=m|n=s" head="0" dep="_">cheminement</word>
-          <word id="13" lem="moral" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">moral</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="12" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ce" postag="DET" morpho="g=m|n=s" head="2" dep="det">Ce</word>
-          <word id="2" lem="sens" postag="NC" morpho="g=m" head="4" dep="suj">sens</word>
-          <word id="3" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="aux_tps">a</word>
-          <word id="4" lem="donner" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">donné</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="nom" postag="NC" morpho="g=m|n=p" head="4" dep="obj">noms</word>
-          <word id="7" lem="suivant" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">suivants</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="lumineux" postag="ADJ" morpho="g=m" head="1" dep="mod">lumineux</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="mouvement" postag="NC" morpho="g=m|n=s" head="0" dep="_">mouvement</word>
-          <word id="6" lem="politique" postag="ADJ" morpho="n=s" head="5" dep="mod">politique</word>
-          <word id="7" lem="péruvien" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">péruvien</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="sentier" postag="NC" morpho="g=m|n=s" head="0" dep="_">Sentier</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Or</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-          <word id="6" lem="univers" postag="NC" morpho="g=m" head="4" dep="prep">univers</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="science-fiction" postag="NC" morpho="g=f|n=s" head="7" dep="prep">science-fiction</word>
-          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">Cycle</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Dune</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Sentiers</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="gloire" postag="NC" morpho="g=f|n=s" head="3" dep="prep">gloire</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="film" postag="NC" morpho="g=m|n=s" head="6" dep="dep_coord">film</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -693,8 +195,8 @@ Les Sentiers de la gloire, un film.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -725,8 +227,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -737,8 +239,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -788,7 +290,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -800,7 +302,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -817,8 +319,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -828,21 +330,69 @@ L'affaire du Sentier II, une affaire pénale.</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="0">
-      <span begin="7" end="14" id="0" />
-      <text id="0">Sentier</text>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="34" end="39" id="0" />
+      <text id="0">Voies</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Sentier.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="394" end="403" id="0" />
+      <text id="0">Toponymes</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Sentier.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="738" end="760" id="0" />
+      <text id="0">Sens figuré et dérivés</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Sentier.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="3">
+      <span begin="1019" end="1024" id="0" />
+      <text id="0">Autre</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
+      <document>Sentier.html</document>
+    </metadata>
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+      <span begin="15" end="49" id="0" />
+      <text id="0">une voie de communication étroite</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -853,8 +403,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -865,8 +415,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -877,8 +427,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="4">
@@ -889,8 +439,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -1010,7 +560,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -1022,7 +572,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -1034,7 +584,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="2">
@@ -1046,7 +596,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="3">
@@ -1058,7 +608,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
@@ -1069,8 +619,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1083,8 +633,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1097,8 +647,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1114,8 +664,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:00</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1140,8 +690,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1154,8 +704,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1168,8 +718,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1185,8 +735,8 @@ L'affaire du Sentier II, une affaire pénale.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:18</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1283,7 +833,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1297,7 +847,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1311,7 +861,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1328,7 +878,7 @@ L'affaire du Sentier II, une affaire pénale.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 14:35</date>
+      <date>8/01/13 14:35</date>
       <document>Sentier.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">

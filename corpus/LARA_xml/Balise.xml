@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SE>
@@ -27,13 +27,13 @@ Loisirs
 Dans le domaine du sport, une balise est un élément de la signalisation qui permet de se repérer. On l'utilise le plus souvent dans les courses d'orientation.</text>
       <span begin="11" end="1457" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SE>
@@ -51,7 +51,7 @@ Dans le domaine routier, une balise est un dispositif implanté pour guider les 
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SE>
@@ -69,7 +69,7 @@ On utilise également des balises satellites pour suivre certains animaux dans l
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SE>
@@ -79,757 +79,103 @@ On utilise également des balises satellites pour suivre certains animaux dans l
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
-    <SE>
-      <id>4</id>
-      <text>Loisirs
-À la télévision, La Balise est un épisode de la série télévisée ''Battlestar Galactica.
-Dans le domaine du sport, une balise est un élément de la signalisation qui permet de se repérer. On l'utilise le plus souvent dans les courses d'orientation.</text>
-      <span begin="1203" end="1457" />
-    </SE>
-    <comment>#inclusionLexicale#</comment>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="mot" postag="NC" morpho="g=m|n=s" head="4" dep="suj">mot</word>
-        <word id="3" lem="balise" postag="NC" morpho="g=f|n=s" head="2" dep="mod">balise</word>
-        <word id="4" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="5" lem="avoir" postag="VINF" morpho="_" head="4" dep="obj">avoir</word>
-        <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-        <word id="7" lem="signification" postag="NC" morpho="g=f|n=s" head="5" dep="obj">signification</word>
-        <word id="8" lem="différent" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">différente</word>
-        <word id="9" lem="selon" postag="P" morpho="_" head="5" dep="mod">selon</word>
-        <word id="10" lem="le" postag="DET" morpho="g=m|n=s" head="11" dep="det">le</word>
-        <word id="11" lem="contexte" postag="NC" morpho="g=m|n=s" head="9" dep="prep">contexte</word>
-        <word id="12" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="botanique" postag="NC" morpho="g=f|n=s" head="0" dep="root">Botanique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="balise" postag="NC" morpho="g=f|n=s" head="3" dep="suj">balise</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-          <word id="5" lem="fruit" postag="NC" morpho="g=m|n=s" head="3" dep="ats">fruit</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="balisier" postag="NC" morpho="g=m|n=s" head="6" dep="prep">balisier</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="transport" postag="NC" morpho="g=m|n=p" head="0" dep="_">Transports</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="dans" postag="P" morpho="_" head="0" dep="_">Dans</word>
-          <word id="2" lem="l'" postag="DET" morpho="n=s" head="3" dep="det">l'</word>
-          <word id="3" lem="aéronautique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">aéronautique</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="balise" postag="NC" morpho="g=f|n=s" head="0" dep="_">balise</word>
-          <word id="7" lem="non" postag="ADV" morpho="_" head="8" dep="mod">non</word>
-          <word id="8" lem="directionnel" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">directionnelle</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="6" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="dans" postag="P" morpho="_" head="8" dep="mod">Dans</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="domaine" postag="NC" morpho="g=m|n=s" head="1" dep="prep">domaine</word>
-          <word id="4" lem="ferroviaire" postag="ADJ" morpho="n=s" head="3" dep="mod">ferroviaire</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="balise" postag="NC" morpho="g=f|n=s" head="8" dep="suj">balise</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="module" postag="NC" morpho="g=m|n=s" head="8" dep="ats">module</word>
-          <word id="11" lem="placer" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">placé</word>
-          <word id="12" lem="dans" postag="P" morpho="_" head="11" dep="mod">dans</word>
-          <word id="13" lem="ou" postag="CC" morpho="_" head="10" dep="coord">ou</word>
-          <word id="14" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
-          <word id="15" lem="long" postag="NC" morpho="g=m|n=s" head="13" dep="dep_coord">long</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
-          <word id="18" lem="voie" postag="NC" morpho="g=f|n=s" head="16" dep="prep">voie</word>
-          <word id="19" lem="émettre" postag="VPR" morpho="t=pst" head="18" dep="mod">émettant</word>
-          <word id="20" lem="des" postag="DET" morpho="n=p" head="21" dep="det">des</word>
-          <word id="21" lem="information" postag="NC" morpho="g=f|n=p" head="19" dep="obj">informations</word>
-          <word id="22" lem="concerner" postag="VPR" morpho="t=pst" head="21" dep="mod">concernant</word>
-          <word id="23" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
-          <word id="24" lem="signalisation" postag="NC" morpho="g=f|n=s" head="22" dep="obj">signalisation</word>
-          <word id="25" lem="destiner" postag="VPP" morpho="g=f|n=p|t=past" head="24" dep="mod">destinées</word>
-          <word id="26" lem="à" postag="P" morpho="_" head="25" dep="a_obj">à</word>
-          <word id="27" lem="un" postag="DET" morpho="g=m|n=s" head="28" dep="det">un</word>
-          <word id="28" lem="équipement" postag="NC" morpho="g=m|n=s" head="26" dep="prep">équipement</word>
-          <word id="29" lem="à" postag="P" morpho="_" head="28" dep="dep">à</word>
-          <word id="30" lem="bord" postag="NC" morpho="g=m|n=s" head="29" dep="prep">bord</word>
-          <word id="31" lem="de" postag="P+D" morpho="g=m|n=s" head="28" dep="dep">du</word>
-          <word id="32" lem="convoi" postag="NC" morpho="g=m|n=s" head="31" dep="prep">convoi</word>
-          <word id="33" lem=";" postag="PONCT" morpho="_" head="8" dep="ponct">;</word>
-          <word id="34" lem="voir" postag="VINF" morpho="_" head="8" dep="mod">voir</word>
-          <word id="35" lem="_" postag="NPP" morpho="_" head="34" dep="obj">KVB</word>
-          <word id="36" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
-          <word id="37" lem="_" postag="NPP" morpho="_" head="34" dep="mod">ETCS</word>
-          <word id="38" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
-          <word id="39" lem="ou" postag="CC" morpho="_" head="34" dep="coord">ou</word>
-          <word id="40" lem="encore" postag="ADV" morpho="_" head="39" dep="mod">encore</word>
-          <word id="41" lem="_" postag="NPP" morpho="_" head="39" dep="dep_coord">TBL</word>
-          <word id="42" lem="(" postag="PONCT" morpho="_" head="41" dep="ponct">(</word>
-          <word id="43" lem="liste" postag="NC" morpho="g=f|n=s" head="41" dep="mod">liste</word>
-          <word id="44" lem="non" postag="ADV" morpho="_" head="45" dep="mod">non</word>
-          <word id="45" lem="exhaustif" postag="ADJ" morpho="g=f|n=s" head="43" dep="mod">exhaustive</word>
-          <word id="46" lem=")" postag="PONCT" morpho="_" head="41" dep="ponct">)</word>
-          <word id="47" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="domaine" postag="NC" morpho="g=m|n=s" head="1" dep="prep">domaine</word>
-          <word id="4" lem="maritime" postag="ADJ" morpho="n=s" head="3" dep="mod">maritime</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="balise" postag="NC" morpho="g=f|n=s" head="8" dep="suj">balise</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="élément" postag="NC" morpho="g=m|n=s" head="8" dep="ats">élément</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="signalisation" postag="NC" morpho="g=f|n=s" head="11" dep="prep">signalisation</word>
-          <word id="14" lem="qui" postag="PROREL" morpho="n=s" head="15" dep="suj">qui</word>
-          <word id="15" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="mod_rel">permet</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="obj">de</word>
-          <word id="17" lem="faciliter" postag="VINF" morpho="_" head="16" dep="prep">faciliter</word>
-          <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
-          <word id="19" lem="navigation" postag="NC" morpho="g=f|n=s" head="17" dep="obj">navigation</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="dans" postag="P" morpho="_" head="8" dep="mod">Dans</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="domaine" postag="NC" morpho="g=m|n=s" head="1" dep="prep">domaine</word>
-          <word id="4" lem="routier" postag="ADJ" morpho="g=m|n=s" head="3" dep="mod">routier</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="balise" postag="NC" morpho="g=f|n=s" head="8" dep="suj">balise</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="dispositif" postag="NC" morpho="g=m|n=s" head="8" dep="ats">dispositif</word>
-          <word id="11" lem="implanter" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">implanté</word>
-          <word id="12" lem="pour" postag="P" morpho="_" head="11" dep="mod">pour</word>
-          <word id="13" lem="guider" postag="VINF" morpho="_" head="12" dep="prep">guider</word>
-          <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-          <word id="15" lem="usager" postag="NC" morpho="g=m|n=p" head="13" dep="obj">usagers</word>
-          <word id="16" lem="ou" postag="CC" morpho="_" head="13" dep="coord">ou</word>
-          <word id="17" lem="leur" postag="CLO" morpho="n=p|p=3" head="18" dep="a_obj">leur</word>
-          <word id="18" lem="signaler" postag="VINF" morpho="_" head="16" dep="dep_coord">signaler</word>
-          <word id="19" lem="un" postag="DET" morpho="g=m|n=s" head="20" dep="det">un</word>
-          <word id="20" lem="risque" postag="NC" morpho="g=m|n=s" head="18" dep="obj">risque</word>
-          <word id="21" lem="particulier" postag="ADJ" morpho="g=m|n=s" head="20" dep="mod">particulier</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="technologie" postag="NC" morpho="g=f|n=p" head="0" dep="root">Technologies</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="information" postag="NC" morpho="g=f|n=s" head="2" dep="prep">information</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="communication" postag="NC" morpho="g=f|n=s" head="6" dep="prep">communication</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
-          <word id="2" lem="informatique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">informatique</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="balise" postag="NC" morpho="g=f|n=s" head="6" dep="suj">balise</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="caractère" postag="NC" morpho="g=m|n=s" head="6" dep="ats">caractère</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="10" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
-          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-          <word id="12" lem="série" postag="NC" morpho="g=f|n=s" head="10" dep="dep_coord">série</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="caractère" postag="NC" morpho="g=m|n=p" head="13" dep="prep">caractères</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="16" lem="utiliser" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">utilisé</word>
-          <word id="17" lem="pour" postag="P" morpho="_" head="16" dep="mod">pour</word>
-          <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
-          <word id="19" lem="structuration" postag="NC" morpho="g=f|n=s" head="17" dep="prep">structuration</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
-          <word id="21" lem="un" postag="DET" morpho="g=m|n=s" head="22" dep="det">un</word>
-          <word id="22" lem="document" postag="NC" morpho="g=m|n=s" head="20" dep="prep">document</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
-          <word id="24" lem="qui" postag="PROREL" morpho="n=s" head="25" dep="suj">qui</word>
-          <word id="25" lem="être" postag="V" morpho="n=s|p=3|t=fut" head="23" dep="dep_coord">sera</word>
-          <word id="26" lem="invisible" postag="ADJ" morpho="n=s" head="25" dep="ats">invisible</word>
-          <word id="27" lem="par" postag="P" morpho="_" head="25" dep="mod">par</word>
-          <word id="28" lem="le" postag="DET" morpho="g=m|n=s" head="29" dep="det">le</word>
-          <word id="29" lem="lecteur" postag="NC" morpho="g=m|n=s" head="27" dep="prep">lecteur</word>
-          <word id="30" lem="final" postag="ADJ" morpho="g=m|n=s" head="29" dep="mod">final</word>
-          <word id="31" lem=";" postag="PONCT" morpho="_" head="6" dep="ponct">;</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="4" dep="suj">Balise</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Argos</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="dispositif" postag="NC" morpho="g=m|n=s" head="4" dep="ats">dispositif</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="sécurité" postag="NC" morpho="g=f|n=s" head="7" dep="prep">sécurité</word>
-          <word id="9" lem="maritime" postag="ADJ" morpho="n=s" head="8" dep="mod">maritime</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="11" lem="repérable" postag="ADJ" morpho="n=s" head="6" dep="mod">repérable</word>
-          <word id="12" lem="par" postag="P" morpho="_" head="4" dep="mod">par</word>
-          <word id="13" lem="des" postag="DET" morpho="n=p" head="14" dep="det">des</word>
-          <word id="14" lem="satellite" postag="NC" morpho="g=m|n=p" head="12" dep="prep">satellites</word>
-          <word id="15" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="4" dep="suj">Balise</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Spot</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="aussi" postag="ADV" morpho="_" head="4" dep="mod">aussi</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="dispositif" postag="NC" morpho="g=m|n=s" head="4" dep="ats">dispositif</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="sécurité" postag="NC" morpho="g=f|n=s" head="8" dep="prep">sécurité</word>
-          <word id="10" lem="permettre" postag="VPR" morpho="t=pst" head="7" dep="mod">permettant</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="obj">d'</word>
-          <word id="12" lem="émettre" postag="VINF" morpho="_" head="11" dep="prep">émettre</word>
-          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-          <word id="14" lem="appel" postag="NC" morpho="g=m|n=s" head="12" dep="obj">appel</word>
-          <word id="15" lem="inclure" postag="VPR" morpho="t=pst" head="14" dep="mod">incluant</word>
-          <word id="16" lem="des" postag="DET" morpho="n=p" head="17" dep="det">des</word>
-          <word id="17" lem="coordonnée" postag="NC" morpho="g=f|n=p" head="15" dep="obj">coordonnées</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="mod">GPS</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-          <word id="2" lem="utiliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">utilise</word>
-          <word id="3" lem="également" postag="ADV" morpho="_" head="2" dep="mod">également</word>
-          <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-          <word id="5" lem="balise" postag="NC" morpho="g=f|n=p" head="2" dep="obj">balises</word>
-          <word id="6" lem="satellite" postag="ADJ" morpho="n=p" head="5" dep="mod">satellites</word>
-          <word id="7" lem="pour" postag="P" morpho="_" head="2" dep="mod">pour</word>
-          <word id="8" lem="suivre" postag="VINF" morpho="_" head="7" dep="prep">suivre</word>
-          <word id="9" lem="certains" postag="DET" morpho="g=m|n=p" head="10" dep="det">certains</word>
-          <word id="10" lem="animal" postag="NC" morpho="g=m|n=p" head="8" dep="obj">animaux</word>
-          <word id="11" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
-          <word id="12" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="13" dep="det">leur</word>
-          <word id="13" lem="migration" postag="NC" morpho="g=f|n=p" head="11" dep="prep">migrations</word>
-          <word id="14" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="8" dep="mod">x</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="17" lem="tortue" postag="NC" morpho="g=f|n=p" head="2" dep="obj">tortues</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="19" lem="baleine" postag="NC" morpho="g=f|n=s" head="2" dep="mod">baleine</word>
-          <word id="20" lem="..." postag="PONCT" morpho="_" head="2" dep="ponct">…</word>
-          <word id="21" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="loisir" postag="NC" morpho="g=m|n=p" head="0" dep="root">Loisirs</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="à" postag="P" morpho="_" head="7" dep="mod">À</word>
-          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
-          <word id="3" lem="télévision" postag="NC" morpho="g=f|n=s" head="1" dep="prep">télévision</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="7" dep="suj">La</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Balise</word>
-          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="épisode" postag="NC" morpho="g=m|n=s" head="7" dep="ats">épisode</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="série" postag="NC" morpho="g=f|n=s" head="10" dep="prep">série</word>
-          <word id="13" lem="téléviser" postag="ADJ" morpho="g=f|n=s|t=past" head="12" dep="mod">télévisée</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="mod">_''</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Battlestar</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Galactica</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="dans" postag="P" morpho="_" head="9" dep="mod">Dans</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="domaine" postag="NC" morpho="g=m|n=s" head="1" dep="prep">domaine</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="sport" postag="NC" morpho="g=m|n=s" head="4" dep="prep">sport</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
-          <word id="8" lem="balise" postag="NC" morpho="g=f|n=s" head="9" dep="suj">balise</word>
-          <word id="9" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="élément" postag="NC" morpho="g=m|n=s" head="9" dep="ats">élément</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="signalisation" postag="NC" morpho="g=f|n=s" head="12" dep="prep">signalisation</word>
-          <word id="15" lem="qui" postag="PROREL" morpho="n=s" head="16" dep="suj">qui</word>
-          <word id="16" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="mod_rel">permet</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="obj">de</word>
-          <word id="18" lem="se" postag="CLR" morpho="n=p|p=3" head="19" dep="aff">se</word>
-          <word id="19" lem="repérer" postag="VINF" morpho="_" head="17" dep="prep">repérer</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="3" dep="suj">On</word>
-          <word id="2" lem="le" postag="CLO" morpho="n=s|p=3" head="3" dep="obj">l'</word>
-          <word id="3" lem="utiliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">utilise</word>
-          <word id="4" lem="le_plus_souvent" postag="ADV" morpho="_" head="3" dep="mod">le_plus_souvent</word>
-          <word id="5" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
-          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
-          <word id="7" lem="course" postag="NC" morpho="g=f|n=p" head="5" dep="prep">courses</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-          <word id="9" lem="orientation" postag="NC" morpho="g=f|n=s" head="8" dep="prep">orientation</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="transport" postag="NC" morpho="g=m|n=p" head="0" dep="_">Transports</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="dans" postag="P" morpho="_" head="0" dep="_">Dans</word>
-          <word id="2" lem="l'" postag="DET" morpho="n=s" head="3" dep="det">l'</word>
-          <word id="3" lem="aéronautique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">aéronautique</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="balise" postag="NC" morpho="g=f|n=s" head="0" dep="_">balise</word>
-          <word id="7" lem="non" postag="ADV" morpho="_" head="8" dep="mod">non</word>
-          <word id="8" lem="directionnel" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">directionnelle</word>
-          <word id="9" lem=";" postag="PONCT" morpho="_" head="6" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="dans" postag="P" morpho="_" head="8" dep="mod">Dans</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="domaine" postag="NC" morpho="g=m|n=s" head="1" dep="prep">domaine</word>
-          <word id="4" lem="ferroviaire" postag="ADJ" morpho="n=s" head="3" dep="mod">ferroviaire</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="balise" postag="NC" morpho="g=f|n=s" head="8" dep="suj">balise</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="module" postag="NC" morpho="g=m|n=s" head="8" dep="ats">module</word>
-          <word id="11" lem="placer" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">placé</word>
-          <word id="12" lem="dans" postag="P" morpho="_" head="11" dep="mod">dans</word>
-          <word id="13" lem="ou" postag="CC" morpho="_" head="10" dep="coord">ou</word>
-          <word id="14" lem="le" postag="DET" morpho="g=m|n=s" head="15" dep="det">le</word>
-          <word id="15" lem="long" postag="NC" morpho="g=m|n=s" head="13" dep="dep_coord">long</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
-          <word id="18" lem="voie" postag="NC" morpho="g=f|n=s" head="16" dep="prep">voie</word>
-          <word id="19" lem="émettre" postag="VPR" morpho="t=pst" head="18" dep="mod">émettant</word>
-          <word id="20" lem="des" postag="DET" morpho="n=p" head="21" dep="det">des</word>
-          <word id="21" lem="information" postag="NC" morpho="g=f|n=p" head="19" dep="obj">informations</word>
-          <word id="22" lem="concerner" postag="VPR" morpho="t=pst" head="21" dep="mod">concernant</word>
-          <word id="23" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
-          <word id="24" lem="signalisation" postag="NC" morpho="g=f|n=s" head="22" dep="obj">signalisation</word>
-          <word id="25" lem="destiner" postag="VPP" morpho="g=f|n=p|t=past" head="24" dep="mod">destinées</word>
-          <word id="26" lem="à" postag="P" morpho="_" head="25" dep="a_obj">à</word>
-          <word id="27" lem="un" postag="DET" morpho="g=m|n=s" head="28" dep="det">un</word>
-          <word id="28" lem="équipement" postag="NC" morpho="g=m|n=s" head="26" dep="prep">équipement</word>
-          <word id="29" lem="à" postag="P" morpho="_" head="28" dep="dep">à</word>
-          <word id="30" lem="bord" postag="NC" morpho="g=m|n=s" head="29" dep="prep">bord</word>
-          <word id="31" lem="de" postag="P+D" morpho="g=m|n=s" head="28" dep="dep">du</word>
-          <word id="32" lem="convoi" postag="NC" morpho="g=m|n=s" head="31" dep="prep">convoi</word>
-          <word id="33" lem=";" postag="PONCT" morpho="_" head="8" dep="ponct">;</word>
-          <word id="34" lem="voir" postag="VINF" morpho="_" head="8" dep="mod">voir</word>
-          <word id="35" lem="_" postag="NPP" morpho="_" head="34" dep="obj">KVB</word>
-          <word id="36" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
-          <word id="37" lem="_" postag="NPP" morpho="_" head="34" dep="mod">ETCS</word>
-          <word id="38" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
-          <word id="39" lem="ou" postag="CC" morpho="_" head="34" dep="coord">ou</word>
-          <word id="40" lem="encore" postag="ADV" morpho="_" head="39" dep="mod">encore</word>
-          <word id="41" lem="_" postag="NPP" morpho="_" head="39" dep="dep_coord">TBL</word>
-          <word id="42" lem="(" postag="PONCT" morpho="_" head="41" dep="ponct">(</word>
-          <word id="43" lem="liste" postag="NC" morpho="g=f|n=s" head="41" dep="mod">liste</word>
-          <word id="44" lem="non" postag="ADV" morpho="_" head="45" dep="mod">non</word>
-          <word id="45" lem="exhaustif" postag="ADJ" morpho="g=f|n=s" head="43" dep="mod">exhaustive</word>
-          <word id="46" lem=")" postag="PONCT" morpho="_" head="41" dep="ponct">)</word>
-          <word id="47" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="domaine" postag="NC" morpho="g=m|n=s" head="1" dep="prep">domaine</word>
-          <word id="4" lem="maritime" postag="ADJ" morpho="n=s" head="3" dep="mod">maritime</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="balise" postag="NC" morpho="g=f|n=s" head="8" dep="suj">balise</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="élément" postag="NC" morpho="g=m|n=s" head="8" dep="ats">élément</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="signalisation" postag="NC" morpho="g=f|n=s" head="11" dep="prep">signalisation</word>
-          <word id="14" lem="qui" postag="PROREL" morpho="n=s" head="15" dep="suj">qui</word>
-          <word id="15" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="10" dep="mod_rel">permet</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="obj">de</word>
-          <word id="17" lem="faciliter" postag="VINF" morpho="_" head="16" dep="prep">faciliter</word>
-          <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
-          <word id="19" lem="navigation" postag="NC" morpho="g=f|n=s" head="17" dep="obj">navigation</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="dans" postag="P" morpho="_" head="8" dep="mod">Dans</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="domaine" postag="NC" morpho="g=m|n=s" head="1" dep="prep">domaine</word>
-          <word id="4" lem="routier" postag="ADJ" morpho="g=m|n=s" head="3" dep="mod">routier</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="balise" postag="NC" morpho="g=f|n=s" head="8" dep="suj">balise</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="dispositif" postag="NC" morpho="g=m|n=s" head="8" dep="ats">dispositif</word>
-          <word id="11" lem="implanter" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">implanté</word>
-          <word id="12" lem="pour" postag="P" morpho="_" head="11" dep="mod">pour</word>
-          <word id="13" lem="guider" postag="VINF" morpho="_" head="12" dep="prep">guider</word>
-          <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-          <word id="15" lem="usager" postag="NC" morpho="g=m|n=p" head="13" dep="obj">usagers</word>
-          <word id="16" lem="ou" postag="CC" morpho="_" head="13" dep="coord">ou</word>
-          <word id="17" lem="leur" postag="CLO" morpho="n=p|p=3" head="18" dep="a_obj">leur</word>
-          <word id="18" lem="signaler" postag="VINF" morpho="_" head="16" dep="dep_coord">signaler</word>
-          <word id="19" lem="un" postag="DET" morpho="g=m|n=s" head="20" dep="det">un</word>
-          <word id="20" lem="risque" postag="NC" morpho="g=m|n=s" head="18" dep="obj">risque</word>
-          <word id="21" lem="particulier" postag="ADJ" morpho="g=m|n=s" head="20" dep="mod">particulier</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="technologie" postag="NC" morpho="g=f|n=p" head="0" dep="root">Technologies</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-        <word id="4" lem="information" postag="NC" morpho="g=f|n=s" head="2" dep="prep">information</word>
-        <word id="5" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">de</word>
-        <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-        <word id="8" lem="communication" postag="NC" morpho="g=f|n=s" head="6" dep="prep">communication</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
-          <word id="2" lem="informatique" postag="NC" morpho="g=f|n=s" head="1" dep="prep">informatique</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="balise" postag="NC" morpho="g=f|n=s" head="6" dep="suj">balise</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="caractère" postag="NC" morpho="g=m|n=s" head="6" dep="ats">caractère</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="10" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
-          <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-          <word id="12" lem="série" postag="NC" morpho="g=f|n=s" head="10" dep="dep_coord">série</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-          <word id="14" lem="caractère" postag="NC" morpho="g=m|n=p" head="13" dep="prep">caractères</word>
-          <word id="15" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="16" lem="utiliser" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">utilisé</word>
-          <word id="17" lem="pour" postag="P" morpho="_" head="16" dep="mod">pour</word>
-          <word id="18" lem="la" postag="DET" morpho="g=f|n=s" head="19" dep="det">la</word>
-          <word id="19" lem="structuration" postag="NC" morpho="g=f|n=s" head="17" dep="prep">structuration</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">d'</word>
-          <word id="21" lem="un" postag="DET" morpho="g=m|n=s" head="22" dep="det">un</word>
-          <word id="22" lem="document" postag="NC" morpho="g=m|n=s" head="20" dep="prep">document</word>
-          <word id="23" lem="et" postag="CC" morpho="_" head="16" dep="coord">et</word>
-          <word id="24" lem="qui" postag="PROREL" morpho="n=s" head="25" dep="suj">qui</word>
-          <word id="25" lem="être" postag="V" morpho="n=s|p=3|t=fut" head="23" dep="dep_coord">sera</word>
-          <word id="26" lem="invisible" postag="ADJ" morpho="n=s" head="25" dep="ats">invisible</word>
-          <word id="27" lem="par" postag="P" morpho="_" head="25" dep="mod">par</word>
-          <word id="28" lem="le" postag="DET" morpho="g=m|n=s" head="29" dep="det">le</word>
-          <word id="29" lem="lecteur" postag="NC" morpho="g=m|n=s" head="27" dep="prep">lecteur</word>
-          <word id="30" lem="final" postag="ADJ" morpho="g=m|n=s" head="29" dep="mod">final</word>
-          <word id="31" lem=";" postag="PONCT" morpho="_" head="6" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="4" dep="suj">Balise</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Argos</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="6" lem="dispositif" postag="NC" morpho="g=m|n=s" head="4" dep="ats">dispositif</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="sécurité" postag="NC" morpho="g=f|n=s" head="7" dep="prep">sécurité</word>
-          <word id="9" lem="maritime" postag="ADJ" morpho="n=s" head="8" dep="mod">maritime</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="11" lem="repérable" postag="ADJ" morpho="n=s" head="6" dep="mod">repérable</word>
-          <word id="12" lem="par" postag="P" morpho="_" head="4" dep="mod">par</word>
-          <word id="13" lem="des" postag="DET" morpho="n=p" head="14" dep="det">des</word>
-          <word id="14" lem="satellite" postag="NC" morpho="g=m|n=p" head="12" dep="prep">satellites</word>
-          <word id="15" lem=";" postag="PONCT" morpho="_" head="4" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="4" dep="suj">Balise</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Spot</word>
-          <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="5" lem="aussi" postag="ADV" morpho="_" head="4" dep="mod">aussi</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="dispositif" postag="NC" morpho="g=m|n=s" head="4" dep="ats">dispositif</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="sécurité" postag="NC" morpho="g=f|n=s" head="8" dep="prep">sécurité</word>
-          <word id="10" lem="permettre" postag="VPR" morpho="t=pst" head="7" dep="mod">permettant</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="obj">d'</word>
-          <word id="12" lem="émettre" postag="VINF" morpho="_" head="11" dep="prep">émettre</word>
-          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-          <word id="14" lem="appel" postag="NC" morpho="g=m|n=s" head="12" dep="obj">appel</word>
-          <word id="15" lem="inclure" postag="VPR" morpho="t=pst" head="14" dep="mod">incluant</word>
-          <word id="16" lem="des" postag="DET" morpho="n=p" head="17" dep="det">des</word>
-          <word id="17" lem="coordonnée" postag="NC" morpho="g=f|n=p" head="15" dep="obj">coordonnées</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="mod">GPS</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-          <word id="2" lem="utiliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">utilise</word>
-          <word id="3" lem="également" postag="ADV" morpho="_" head="2" dep="mod">également</word>
-          <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-          <word id="5" lem="balise" postag="NC" morpho="g=f|n=p" head="2" dep="obj">balises</word>
-          <word id="6" lem="satellite" postag="ADJ" morpho="n=p" head="5" dep="mod">satellites</word>
-          <word id="7" lem="pour" postag="P" morpho="_" head="2" dep="mod">pour</word>
-          <word id="8" lem="suivre" postag="VINF" morpho="_" head="7" dep="prep">suivre</word>
-          <word id="9" lem="certains" postag="DET" morpho="g=m|n=p" head="10" dep="det">certains</word>
-          <word id="10" lem="animal" postag="NC" morpho="g=m|n=p" head="8" dep="obj">animaux</word>
-          <word id="11" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
-          <word id="12" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="13" dep="det">leur</word>
-          <word id="13" lem="migration" postag="NC" morpho="g=f|n=p" head="11" dep="prep">migrations</word>
-          <word id="14" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="8" dep="mod">x</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="17" lem="tortue" postag="NC" morpho="g=f|n=p" head="2" dep="obj">tortues</word>
-          <word id="18" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="19" lem="baleine" postag="NC" morpho="g=f|n=s" head="2" dep="mod">baleine</word>
-          <word id="20" lem="..." postag="PONCT" morpho="_" head="2" dep="ponct">…</word>
-          <word id="21" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-        <word id="2" lem="utiliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">utilise</word>
-        <word id="3" lem="également" postag="ADV" morpho="_" head="2" dep="mod">également</word>
-        <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-        <word id="5" lem="balise" postag="NC" morpho="g=f|n=p" head="2" dep="obj">balises</word>
-        <word id="6" lem="satellite" postag="ADJ" morpho="n=p" head="5" dep="mod">satellites</word>
-        <word id="7" lem="pour" postag="P" morpho="_" head="2" dep="mod">pour</word>
-        <word id="8" lem="suivre" postag="VINF" morpho="_" head="7" dep="prep">suivre</word>
-        <word id="9" lem="certains" postag="DET" morpho="g=m|n=p" head="10" dep="det">certains</word>
-        <word id="10" lem="animal" postag="NC" morpho="g=m|n=p" head="8" dep="obj">animaux</word>
-        <word id="11" lem="dans" postag="P" morpho="_" head="8" dep="mod">dans</word>
-        <word id="12" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="13" dep="det">leur</word>
-        <word id="13" lem="migration" postag="NC" morpho="g=f|n=p" head="11" dep="prep">migrations</word>
-        <word id="14" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">s</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">x</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="tortue" postag="NC" morpho="g=f|n=p" head="0" dep="_">tortues</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="baleine" postag="NC" morpho="g=f|n=s" head="0" dep="root">baleine</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">…</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="loisir" postag="NC" morpho="g=m|n=p" head="0" dep="root">Loisirs</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="à" postag="P" morpho="_" head="7" dep="mod">À</word>
-          <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
-          <word id="3" lem="télévision" postag="NC" morpho="g=f|n=s" head="1" dep="prep">télévision</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="7" dep="suj">La</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Balise</word>
-          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="épisode" postag="NC" morpho="g=m|n=s" head="7" dep="ats">épisode</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="série" postag="NC" morpho="g=f|n=s" head="10" dep="prep">série</word>
-          <word id="13" lem="téléviser" postag="ADJ" morpho="g=f|n=s|t=past" head="12" dep="mod">télévisée</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="mod">_''</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Battlestar</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="12" dep="mod">Galactica</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="7" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="dans" postag="P" morpho="_" head="9" dep="mod">Dans</word>
-          <word id="2" lem="le" postag="DET" morpho="g=m|n=s" head="3" dep="det">le</word>
-          <word id="3" lem="domaine" postag="NC" morpho="g=m|n=s" head="1" dep="prep">domaine</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="5" lem="sport" postag="NC" morpho="g=m|n=s" head="4" dep="prep">sport</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
-          <word id="8" lem="balise" postag="NC" morpho="g=f|n=s" head="9" dep="suj">balise</word>
-          <word id="9" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="élément" postag="NC" morpho="g=m|n=s" head="9" dep="ats">élément</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="signalisation" postag="NC" morpho="g=f|n=s" head="12" dep="prep">signalisation</word>
-          <word id="15" lem="qui" postag="PROREL" morpho="n=s" head="16" dep="suj">qui</word>
-          <word id="16" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="11" dep="mod_rel">permet</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="obj">de</word>
-          <word id="18" lem="se" postag="CLR" morpho="n=p|p=3" head="19" dep="aff">se</word>
-          <word id="19" lem="repérer" postag="VINF" morpho="_" head="17" dep="prep">repérer</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="3" dep="suj">On</word>
-          <word id="2" lem="le" postag="CLO" morpho="n=s|p=3" head="3" dep="obj">l'</word>
-          <word id="3" lem="utiliser" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">utilise</word>
-          <word id="4" lem="le_plus_souvent" postag="ADV" morpho="_" head="3" dep="mod">le_plus_souvent</word>
-          <word id="5" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
-          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
-          <word id="7" lem="course" postag="NC" morpho="g=f|n=p" head="5" dep="prep">courses</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-          <word id="9" lem="orientation" postag="NC" morpho="g=f|n=s" head="8" dep="prep">orientation</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -840,8 +186,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -870,7 +216,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -882,7 +228,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -900,7 +246,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -912,7 +258,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -930,7 +276,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -942,7 +288,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -958,35 +304,9 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="primer" idSE="4">
-      <span begin="1" end="8" />
-      <text>Loisirs</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="items" idSE="4">
-      <span begin="9" end="96" id="0" />
-      <text id="0">À la télévision, La Balise est un épisode de la série télévisée ''Battlestar Galactica.</text>
-      <span begin="97" end="255" id="1" />
-      <text id="1">Dans le domaine du sport, une balise est un élément de la signalisation qui permet de se repérer. On l'utilise le plus souvent dans les courses d'orientation.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -997,8 +317,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1015,8 +335,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -1033,8 +353,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -1047,8 +367,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
@@ -1059,8 +379,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
@@ -1079,8 +399,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="2">
@@ -1093,8 +413,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="3">
@@ -1110,7 +430,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -1122,7 +442,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -1134,7 +454,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -1146,7 +466,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -1158,7 +478,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -1170,7 +490,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
@@ -1182,7 +502,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
@@ -1194,7 +514,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
@@ -1206,7 +526,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="item" idItem="3">
@@ -1218,7 +538,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -1230,7 +550,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -1242,7 +562,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -1254,7 +574,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="3">
@@ -1266,7 +586,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
@@ -1278,7 +598,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
@@ -1290,7 +610,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
@@ -1302,7 +622,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -1314,7 +634,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -1326,7 +646,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="2">
@@ -1336,69 +656,9 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
-      <span begin="26" end="35" id="0" />
-      <text id="0">La Balise</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
-      <span begin="123" end="133" id="0" />
-      <text id="0">une balise</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
-      <span begin="1" end="8" id="0" />
-      <text id="0">Loisirs</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="4" localisation="item" idItem="0">
-      <span begin="9" end="24" id="0" />
-      <text id="0">À la télévision</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="4" localisation="item" idItem="1">
-      <span begin="97" end="121" id="0" />
-      <text id="0">Dans le domaine du sport</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1411,8 +671,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1425,8 +685,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1442,8 +702,8 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1469,7 +729,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1483,7 +743,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1497,7 +757,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1514,7 +774,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:53</date>
+      <date>3/01/14 13:53</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1540,7 +800,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1554,7 +814,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1568,7 +828,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1585,7 +845,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
+      <date>3/01/14 13:56</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1611,7 +871,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1625,7 +885,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1639,7 +899,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1656,7 +916,7 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:55</date>
+      <date>3/01/14 13:55</date>
       <document>Balise.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -1670,77 +930,6 @@ Dans le domaine du sport, une balise est un élément de la signalisation qui pe
         <hyperonymie value="0" />
         <meronymie value="0" />
         <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="4">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="4">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="4">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:56</date>
-      <document>Balise.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="4">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="1">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="1" />
         <synonymie value="0" />
         <multilingue value="0" />
         <lexical_autre value="0" />

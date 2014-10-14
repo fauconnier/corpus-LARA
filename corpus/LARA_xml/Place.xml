@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SE>
@@ -17,13 +17,13 @@ Place : concentration de personnes (d'après l'United States Census Bureau)
 Placé : commune française du département de la Mayenne</text>
       <span begin="10" end="313" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SE>
@@ -39,464 +39,60 @@ Michael C. Place : graphiste anglais (né en 1969)</text>
     </SE>
     <comment>#est le patronyme de#</comment>
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
-    <SE>
-      <id>2</id>
-      <text>Titre d'œuvre
-La Place : roman d’Annie Ernaux
-Ma place au soleil : comédie dramatique française d'Éric de Montalier sortie le 14 mars 2007
-Melrose Place : feuilleton télévisé américain créé par Darren Star
-Place 54 : troisième album du groupe de rap nantais Hocus Pocus (2007)
-Place au rythme (« Babes in Arms » en anglais) : comédie musicale américaine de 1937 adapté en 1939 comme film musical
-Place aux jeunes (ou « Au crépuscule de la vie », « Make Way for Tomorrow ») : film américain réalisé par Leo McCarey, sorti en 1937
-Place Vendôme : film français réalisé par Nicole Garcia, sorti en 1998
-There's a Place : chanson des Beatles écrite et chantée par John Lennon et Paul McCartney
-Une place au soleil (« A Place in the Sun ») : film américain réalisé par George Stevens, sorti en 1951</text>
-      <span begin="704" end="1497" />
-    </SE>
-    <comment />
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="root">Place</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="root">Place</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="espace" postag="NC" morpho="n=s" head="1" dep="mod">espace</word>
-          <word id="4" lem="public" postag="ADJ" morpho="g=m|n=s" head="3" dep="mod">public</word>
-          <word id="5" lem="non" postag="ADV" morpho="_" head="6" dep="mod">non</word>
-          <word id="6" lem="bâtir" postag="VPP" morpho="g=m|n=s|t=past" head="3" dep="mod">bâti</word>
-          <word id="7" lem="desservir" postag="VPP" morpho="g=m|n=s|t=past" head="3" dep="mod">desservi</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
-          <word id="9" lem="des" postag="DET" morpho="n=p" head="10" dep="det">des</word>
-          <word id="10" lem="voie" postag="NC" morpho="g=f|n=p" head="8" dep="prep">voies</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="circulation" postag="NC" morpho="g=f|n=s" head="11" dep="prep">circulation</word>
-          <word id="13" lem="urbain" postag="ADJ" morpho="g=f|n=s" head="12" dep="mod">urbaine</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="root">Place</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="forteresse" postag="NC" morpho="g=f|n=s" head="1" dep="mod">forteresse</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-          <word id="5" lem="place" postag="NC" morpho="g=f|n=s" head="4" dep="dep_coord">place</word>
-          <word id="6" lem="fort" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">forte</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="root">Place</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="bien" postag="ADV" morpho="_" head="4" dep="mod">bien</word>
-          <word id="4" lem="immatériel" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">immatériel</word>
-          <word id="5" lem="assurer" postag="VPR" morpho="t=pst" head="1" dep="mod">assurant</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="accès" postag="NC" morpho="g=m" head="5" dep="obj">accès</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
-          <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-          <word id="10" lem="spectacle" postag="NC" morpho="g=m|n=s" head="8" dep="prep">spectacle</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="root">Place</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="concentration" postag="NC" morpho="g=f|n=s" head="1" dep="mod">concentration</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="personne" postag="NC" morpho="g=f|n=p" head="4" dep="prep">personnes</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="7" lem="d'après" postag="P" morpho="_" head="1" dep="dep">d'après</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="prep">United</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">States</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Census</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Bureau</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="9" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="placer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="_">Placé</word>
-          <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="3" lem="commune" postag="NC" morpho="g=f|n=s" head="0" dep="_">commune</word>
-          <word id="4" lem="français" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">française</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-          <word id="6" lem="département" postag="NC" morpho="g=m|n=s" head="5" dep="prep">département</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="0" dep="_">la</word>
-          <word id="9" lem="_" postag="VS" morpho="_" head="0" dep="_">Mayenne</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="patronyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Patronyme</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Charles-Philippe</word>
-          <word id="2" lem="Place" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Place</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="4" lem="évêque" postag="NC" morpho="g=m|n=s" head="1" dep="mod">évêque</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="puis" postag="CC" morpho="_" head="1" dep="coord">puis</word>
-          <word id="7" lem="archevêque" postag="NC" morpho="g=m|n=s" head="6" dep="dep_coord">archevêque</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="9" lem="cardinal" postag="NC" morpho="g=m|n=s" head="8" dep="dep_coord">cardinal</word>
-          <word id="10" lem="français" postag="ADJ" morpho="g=m" head="9" dep="mod">français</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1814-1893</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="François" postag="NPP" morpho="g=m|n=s" head="0" dep="_">François</word>
-          <word id="2" lem="Place" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Place</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="4" lem="illustrateur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">illustrateur</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=m" head="4" dep="mod">français</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="7" lem="naître" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">né</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="7" dep="mod">en</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="8" dep="prep">1957</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="gille" postag="NC" morpho="g=m|n=p" head="0" dep="_">Gilles</word>
-          <word id="2" lem="Place" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Place</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="4" lem="photographe" postag="NC" morpho="n=s" head="1" dep="mod">photographe</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=m" head="4" dep="mod">français</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="7" lem="naître" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">né</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="7" dep="mod">en</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="8" dep="prep">1968</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Jean-Vincent</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Placé</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="4" lem="homme" postag="NC" morpho="g=m|n=s" head="1" dep="mod">homme</word>
-          <word id="5" lem="politique" postag="ADJ" morpho="n=s" head="4" dep="mod">politique</word>
-          <word id="6" lem="français" postag="ADJ" morpho="g=m" head="4" dep="mod">français</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="8" lem="naître" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">né</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="8" dep="mod">en</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">1968</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="Mary" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Mary</word>
-          <word id="2" lem="Kay" postag="NPP" morpho="n=s" head="1" dep="mod">Kay</word>
-          <word id="3" lem="Place" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Place</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="5" lem="acteur" postag="NC" morpho="g=f|n=s" head="1" dep="mod">actrice</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="réalisateur" postag="NC" morpho="g=f|n=s" head="1" dep="mod">réalisatrice</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="9" lem="scénariste" postag="NC" morpho="n=s" head="8" dep="dep_coord">scénariste</word>
-          <word id="10" lem="américain" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">américaine</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="12" lem="naître" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">née</word>
-          <word id="13" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="13" dep="prep">1947</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="Michael" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Michael</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">C.</word>
-          <word id="3" lem="Place" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Place</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="5" lem="graphiste" postag="NC" morpho="n=s" head="1" dep="mod">graphiste</word>
-          <word id="6" lem="anglais" postag="ADJ" morpho="g=m" head="5" dep="mod">anglais</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-          <word id="8" lem="naître" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">né</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="8" dep="mod">en</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">1969</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="titre" postag="NC" morpho="g=m|n=s" head="0" dep="_">Titre</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-        <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">œuvre</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="Place" postag="NPP" morpho="g=m|n=s" head="0" dep="root">Place</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="roman" postag="NC" morpho="g=m|n=s" head="2" dep="mod">roman</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="Annie" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Annie</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Ernaux</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="ma" postag="DET" morpho="g=f|n=s|p=1|poss=s" head="2" dep="det">Ma</word>
-          <word id="2" lem="place" postag="NC" morpho="g=f|n=s" head="13" dep="suj">place</word>
-          <word id="3" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
-          <word id="4" lem="soleil" postag="NC" morpho="g=m|n=s" head="3" dep="prep">soleil</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="6" lem="comédie" postag="NC" morpho="g=f|n=s" head="2" dep="mod">comédie</word>
-          <word id="7" lem="dramatique" postag="ADJ" morpho="n=s" head="6" dep="mod">dramatique</word>
-          <word id="8" lem="français" postag="ADJ" morpho="g=f|n=s" head="6" dep="mod">française</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
-          <word id="10" lem="Éric" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Éric</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Montalier</word>
-          <word id="13" lem="_" postag="V" morpho="_" head="0" dep="root">sortie</word>
-          <word id="14" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
-          <word id="15" lem="#NUM#" postag="ADJ" morpho="n=p" head="16" dep="mod">14</word>
-          <word id="16" lem="mars" postag="NC" morpho="g=m" head="13" dep="obj">mars</word>
-          <word id="17" lem="_" postag="NC" morpho="_" head="16" dep="mod">2007</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Melrose</word>
-          <word id="2" lem="Place" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Place</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="4" lem="feuilleton" postag="NC" morpho="g=m|n=s" head="1" dep="mod">feuilleton</word>
-          <word id="5" lem="téléviser" postag="ADJ" morpho="g=m|n=s|t=past" head="4" dep="mod">télévisé</word>
-          <word id="6" lem="américain" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">américain</word>
-          <word id="7" lem="créer" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">créé</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
-          <word id="9" lem="Darren" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Darren</word>
-          <word id="10" lem="Star" postag="NPP" morpho="g=f|n=s" head="9" dep="mod">Star</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="root">Place</word>
-          <word id="2" lem="#NUM#" postag="DET" morpho="n=p" head="1" dep="det">54</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="4" lem="troisième" postag="ADJ" morpho="n=p" head="5" dep="mod">troisième</word>
-          <word id="5" lem="album" postag="NC" morpho="g=m|n=s" head="1" dep="mod">album</word>
-          <word id="6" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="7" lem="groupe" postag="NC" morpho="g=m|n=s" head="6" dep="prep">groupe</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="rap" postag="NC" morpho="g=m|n=s" head="8" dep="prep">rap</word>
-          <word id="10" lem="_" postag="ADJ" morpho="_" head="7" dep="mod">nantais</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Hocus</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Pocus</word>
-          <word id="13" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="7" dep="mod">2007</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="_">Place</word>
-          <word id="2" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="3" lem="rythme" postag="NC" morpho="g=m|n=s" head="2" dep="prep">rythme</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-          <word id="5" lem="&quot;" postag="PONCT" morpho="_" head="0" dep="_">"</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="0" dep="_">Babes</word>
-          <word id="7" lem="_" postag="V" morpho="_" head="0" dep="_">in</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="obj">Arms</word>
-          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="10" lem="en" postag="P" morpho="_" head="7" dep="mod">en</word>
-          <word id="11" lem="anglais" postag="NC" morpho="g=m" head="10" dep="prep">anglais</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-          <word id="13" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
-          <word id="14" lem="comédie" postag="NC" morpho="g=f|n=s" head="0" dep="_">comédie</word>
-          <word id="15" lem="musical" postag="ADJ" morpho="g=f|n=s" head="14" dep="mod">musicale</word>
-          <word id="16" lem="américain" postag="ADJ" morpho="g=f|n=s" head="14" dep="mod">américaine</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="14" dep="dep">de</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1937</word>
-          <word id="19" lem="adapter" postag="VPP" morpho="g=m|n=s|t=past" head="14" dep="mod">adapté</word>
-          <word id="20" lem="en" postag="P" morpho="_" head="19" dep="mod">en</word>
-          <word id="21" lem="_" postag="NC" morpho="_" head="20" dep="prep">1939</word>
-          <word id="22" lem="comme" postag="P" morpho="_" head="19" dep="mod">comme</word>
-          <word id="23" lem="film" postag="NC" morpho="g=m|n=s" head="22" dep="prep">film</word>
-          <word id="24" lem="musical" postag="ADJ" morpho="g=m|n=s" head="23" dep="mod">musical</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="_">Place</word>
-          <word id="2" lem="à" postag="P+D" morpho="n=p" head="1" dep="dep">aux</word>
-          <word id="3" lem="jeune" postag="NC" morpho="n=p" head="2" dep="prep">jeunes</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="5" dep="ponct">"</word>
-          <word id="7" lem="à" postag="P+D" morpho="g=m|n=s" head="5" dep="dep_coord">Au</word>
-          <word id="8" lem="crépuscule" postag="NC" morpho="g=m|n=s" head="7" dep="prep">crépuscule</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="vie" postag="NC" morpho="g=f|n=s" head="9" dep="prep">vie</word>
-          <word id="12" lem="&quot;" postag="PONCT" morpho="_" head="5" dep="ponct">"</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="14" lem="&quot;" postag="PONCT" morpho="_" head="0" dep="_">"</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="0" dep="_">Make</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="15" dep="mod">Way</word>
-          <word id="17" lem="for" postag="NC" morpho="g=m|n=s" head="15" dep="mod">for</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="mod">Tomorrow</word>
-          <word id="19" lem="&quot;" postag="PONCT" morpho="_" head="15" dep="ponct">"</word>
-          <word id="20" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
-          <word id="21" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="22" lem="film" postag="NC" morpho="g=m|n=s" head="0" dep="_">film</word>
-          <word id="23" lem="américain" postag="ADJ" morpho="g=m|n=s" head="22" dep="mod">américain</word>
-          <word id="24" lem="réaliser" postag="VPP" morpho="g=m|n=s|t=past" head="22" dep="mod">réalisé</word>
-          <word id="25" lem="par" postag="P" morpho="_" head="24" dep="p_obj">par</word>
-          <word id="26" lem="Leo" postag="NPP" morpho="g=m|n=s" head="25" dep="prep">Leo</word>
-          <word id="27" lem="_" postag="NPP" morpho="_" head="26" dep="mod">McCarey</word>
-          <word id="28" lem="," postag="PONCT" morpho="_" head="22" dep="ponct">,</word>
-          <word id="29" lem="sortir" postag="VPP" morpho="g=m|n=s|t=past" head="22" dep="mod">sorti</word>
-          <word id="30" lem="en" postag="P" morpho="_" head="29" dep="mod">en</word>
-          <word id="31" lem="_" postag="NC" morpho="_" head="30" dep="prep">1937</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="_">Place</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Vendôme</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="4" lem="film" postag="NC" morpho="g=m|n=s" head="0" dep="_">film</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=m" head="4" dep="mod">français</word>
-          <word id="6" lem="réaliser" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">réalisé</word>
-          <word id="7" lem="par" postag="P" morpho="_" head="6" dep="p_obj">par</word>
-          <word id="8" lem="Nicole" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Nicole</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Garcia</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="11" lem="sortir" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">sorti</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="12" dep="prep">1998</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">There'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">s</word>
-          <word id="3" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">a</word>
-          <word id="4" lem="Place" postag="NPP" morpho="g=m|n=s" head="3" dep="obj">Place</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-          <word id="6" lem="chanson" postag="NC" morpho="g=f|n=s" head="3" dep="mod">chanson</word>
-          <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Beatles</word>
-          <word id="9" lem="écrire" postag="ADJ" morpho="g=f|n=s|t=past" head="8" dep="mod">écrite</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="11" lem="chanter" postag="VPP" morpho="g=f|n=s|t=past" head="10" dep="dep_coord">chantée</word>
-          <word id="12" lem="par" postag="P" morpho="_" head="11" dep="p_obj">par</word>
-          <word id="13" lem="John" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">John</word>
-          <word id="14" lem="Lennon" postag="NPP" morpho="g=m|n=s" head="13" dep="mod">Lennon</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
-          <word id="16" lem="Paul" postag="NPP" morpho="g=m|n=s" head="15" dep="dep_coord">Paul</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="mod">McCartney</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="place" postag="NC" morpho="g=f|n=s" head="0" dep="root">place</word>
-          <word id="3" lem="à" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">au</word>
-          <word id="4" lem="soleil" postag="NC" morpho="g=m|n=s" head="3" dep="prep">soleil</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="7" lem="à" postag="P" morpho="_" head="2" dep="dep">A</word>
-          <word id="8" lem="Place" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Place</word>
-          <word id="9" lem="_" postag="V" morpho="_" head="0" dep="_">in</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">the</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Sun</word>
-          <word id="12" lem="&quot;" postag="PONCT" morpho="_" head="10" dep="ponct">"</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
-          <word id="14" lem=":" postag="PONCT" morpho="_" head="10" dep="ponct">:</word>
-          <word id="15" lem="film" postag="NC" morpho="g=m|n=s" head="10" dep="mod">film</word>
-          <word id="16" lem="américain" postag="ADJ" morpho="g=m|n=s" head="15" dep="mod">américain</word>
-          <word id="17" lem="réaliser" postag="VPP" morpho="g=m|n=s|t=past" head="15" dep="mod">réalisé</word>
-          <word id="18" lem="par" postag="P" morpho="_" head="17" dep="p_obj">par</word>
-          <word id="19" lem="George" postag="NPP" morpho="g=m|n=s" head="18" dep="prep">George</word>
-          <word id="20" lem="_" postag="NPP" morpho="_" head="19" dep="mod">Stevens</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="15" dep="ponct">,</word>
-          <word id="22" lem="sortir" postag="VPP" morpho="g=m|n=s|t=past" head="15" dep="mod">sorti</word>
-          <word id="23" lem="en" postag="P" morpho="_" head="22" dep="mod">en</word>
-          <word id="24" lem="_" postag="NC" morpho="_" head="23" dep="prep">1951</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -507,8 +103,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -528,7 +124,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -540,7 +136,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -560,49 +156,9 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
-      <span begin="1" end="14" />
-      <text>Titre d'œuvre</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="15" end="46" id="0" />
-      <text id="0">La Place : roman d’Annie Ernaux</text>
-      <span begin="47" end="139" id="1" />
-      <text id="1">Ma place au soleil : comédie dramatique française d'Éric de Montalier sortie le 14 mars 2007</text>
-      <span begin="140" end="206" id="2" />
-      <text id="2">Melrose Place : feuilleton télévisé américain créé par Darren Star</text>
-      <span begin="207" end="277" id="3" />
-      <text id="3">Place 54 : troisième album du groupe de rap nantais Hocus Pocus (2007)</text>
-      <span begin="278" end="396" id="4" />
-      <text id="4">Place au rythme (« Babes in Arms » en anglais) : comédie musicale américaine de 1937 adapté en 1939 comme film musical</text>
-      <span begin="397" end="529" id="5" />
-      <text id="5">Place aux jeunes (ou « Au crépuscule de la vie », « Make Way for Tomorrow ») : film américain réalisé par Leo McCarey, sorti en 1937</text>
-      <span begin="530" end="600" id="6" />
-      <text id="6">Place Vendôme : film français réalisé par Nicole Garcia, sorti en 1998</text>
-      <span begin="601" end="690" id="7" />
-      <text id="7">There's a Place : chanson des Beatles écrite et chantée par John Lennon et Paul McCartney</text>
-      <span begin="691" end="794" id="8" />
-      <text id="8">Une place au soleil (« A Place in the Sun ») : film américain réalisé par George Stevens, sorti en 1951</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -613,8 +169,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -625,8 +181,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -637,8 +193,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -649,8 +205,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -661,8 +217,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -673,8 +229,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="item" idItem="0">
@@ -685,8 +241,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="item" idItem="1">
@@ -697,8 +253,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="item" idItem="2">
@@ -709,8 +265,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="item" idItem="3">
@@ -721,8 +277,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="item" idItem="4">
@@ -734,7 +290,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -746,7 +302,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -758,7 +314,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -770,7 +326,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -782,7 +338,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="4">
@@ -794,7 +350,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="5">
@@ -806,7 +362,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -816,129 +372,9 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
-      <span begin="8" end="14" id="0" />
-      <text id="0">'œuvre</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
-      <span begin="15" end="23" id="0" />
-      <text id="0">La Place</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
-      <span begin="47" end="66" id="0" />
-      <text id="0">Ma place au soleil</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="2">
-      <span begin="140" end="153" id="0" />
-      <text id="0">Melrose Place</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="3">
-      <span begin="207" end="216" id="0" />
-      <text id="0">Place 54</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="4">
-      <span begin="278" end="293" id="0" />
-      <text id="0">Place au rythme</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="5">
-      <span begin="397" end="413" id="0" />
-      <text id="0">Place aux jeunes</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="6">
-      <span begin="530" end="543" id="0" />
-      <text id="0">Place Vendôme</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="7">
-      <span begin="601" end="617" id="0" />
-      <text id="0">There's a Place</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="8">
-      <span begin="691" end="712" id="0" />
-      <text id="0">Une place au soleil (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -951,8 +387,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -965,8 +401,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -982,8 +418,8 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:42</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1009,7 +445,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1023,7 +459,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1037,7 +473,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1054,7 +490,7 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 13:50</date>
+      <date>8/01/13 13:50</date>
       <document>Place.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1074,77 +510,6 @@ Une place au soleil (« A Place in the Sun ») : film américain réalisé par G
       </metalinguistique>
       <semantique_autre value="0" />
       <contextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="2">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 11:20</date>
-      <document>Place.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="2">
-      <visee_ontologique value="1">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="1" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
     </SEval>
   </annotation>
 </root>

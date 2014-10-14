@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SE>
@@ -15,43 +15,17 @@ Une halle à marchandises est un bâtiment d'une gare.
 Une halle est un atelier où l'on fond le verre.</text>
       <span begin="10" end="179" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SE>
       <id>1</id>
-      <text>Toponyme
-France
-Marché couvert à Colmar dans le Haut-Rhin.
-Allemagne
-Halle sur la Saale, en Saxe-Anhalt.
-Halle en Rhénanie-du-Nord-Westphalie.
-L'Open de Halle est un tournoi de tennis qui se tient dans cette ville.
-Belgique
-Halle, nom néerlandais de la ville néerlandophone belge de Hal, dans la province du Brabant flamand
-La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.
-Halle est une section de la commune belge de Zoersel
-Pays-Bas
-Halle, village de la commune de Bronckhorst, dans la province du Gueldre.</text>
-      <span begin="180" end="702" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
       <text>Allemagne
 Halle sur la Saale, en Saxe-Anhalt.
 Halle en Rhénanie-du-Nord-Westphalie.
@@ -62,13 +36,13 @@ L'Open de Halle est un tournoi de tennis qui se tient dans cette ville.</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SE>
-      <id>3</id>
+      <id>2</id>
       <text>Belgique
 Halle, nom néerlandais de la ville néerlandophone belge de Hal, dans la province du Brabant flamand
 La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.
@@ -79,13 +53,13 @@ Halle est une section de la commune belge de Zoersel</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SE>
-      <id>4</id>
+      <id>3</id>
       <text>Patronyme
 Johann Samuel Halle (1727-1810), naturaliste allemand.
 Louis Halle (1910-1998), politologue américain.
@@ -98,444 +72,95 @@ Halle, surnom de Carlos Gonzalez Santamaria, origamiste espagnol.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="bâtiment" postag="NC" morpho="g=m|n=s" head="0" dep="_">Bâtiment</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="halle" postag="NC" morpho="g=f|n=s" head="3" dep="suj">halle</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="lieu" postag="NC" morpho="g=m|n=s" head="3" dep="ats">lieu</word>
-          <word id="6" lem="public" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">public</word>
-          <word id="7" lem="couvrir" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">couvert</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="9" lem="où" postag="PROREL" morpho="_" head="11" dep="mod">où</word>
-          <word id="10" lem="se" postag="CLR" morpho="n=p|p=3" head="11" dep="aff">se</word>
-          <word id="11" lem="tenir" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="mod_rel">tient</word>
-          <word id="12" lem="un" postag="DET" morpho="g=m|n=s" head="13" dep="det">un</word>
-          <word id="13" lem="marché" postag="NC" morpho="g=m|n=s" head="11" dep="suj">marché</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="halle" postag="NC" morpho="g=f|n=s" head="0" dep="root">halle</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="marchandise" postag="NC" morpho="g=f|n=p" head="3" dep="prep">marchandises</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="bâtiment" postag="NC" morpho="g=m|n=s" head="5" dep="ats">bâtiment</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
-          <word id="10" lem="gare" postag="NC" morpho="g=f|n=s" head="8" dep="prep">gare</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="halle" postag="NC" morpho="g=f|n=s" head="3" dep="suj">halle</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="atelier" postag="NC" morpho="g=m|n=s" head="3" dep="ats">atelier</word>
-          <word id="6" lem="où" postag="PROREL" morpho="_" head="8" dep="mod">où</word>
-          <word id="7" lem="l'on" postag="CLS" morpho="n=s|p=3" head="8" dep="suj">l'on</word>
-          <word id="8" lem="fondre" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="mod_rel">fond</word>
-          <word id="9" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-          <word id="10" lem="verre" postag="NC" morpho="g=m|n=s" head="8" dep="obj">verre</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="toponyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Toponyme</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="marché" postag="NC" morpho="g=m|n=s" head="0" dep="_">Marché</word>
-          <word id="2" lem="couvrir" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">couvert</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="a_obj">à</word>
-          <word id="4" lem="Colmar" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Colmar</word>
-          <word id="5" lem="dans" postag="P" morpho="_" head="2" dep="mod">dans</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="7" lem="Haut-Rhin" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Haut-Rhin</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Allemagne</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Halle</word>
-          <word id="2" lem="sur" postag="P" morpho="_" head="1" dep="dep">sur</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Saale</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="7" lem="Saxe-Anhalt" postag="NPP" morpho="n=s" head="6" dep="prep">Saxe-Anhalt</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Halle</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="Rhénanie-du-Nord-Westphalie" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Rhénanie-du-Nord-Westphalie</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="5" dep="suj">Open</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Halle" postag="NPP" morpho="n=s" head="3" dep="prep">Halle</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="tournoi" postag="NC" morpho="g=m|n=s" head="5" dep="ats">tournoi</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="tennis" postag="NC" morpho="g=m" head="8" dep="prep">tennis</word>
-          <word id="10" lem="qui" postag="PROREL" morpho="n=s" head="12" dep="suj">qui</word>
-          <word id="11" lem="se" postag="CLR" morpho="n=p|p=3" head="12" dep="aff">se</word>
-          <word id="12" lem="tenir" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="mod_rel">tient</word>
-          <word id="13" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
-          <word id="14" lem="cette" postag="DET" morpho="g=f|n=s" head="15" dep="det">cette</word>
-          <word id="15" lem="ville" postag="NC" morpho="g=f|n=s" head="13" dep="prep">ville</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Belgique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Halle</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="nom" postag="NC" morpho="g=m|n=s" head="1" dep="mod">nom</word>
-          <word id="4" lem="néerlandais" postag="ADJ" morpho="g=m" head="3" dep="mod">néerlandais</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="ville" postag="NC" morpho="g=f|n=s" head="5" dep="prep">ville</word>
-          <word id="8" lem="_" postag="ADJ" morpho="_" head="7" dep="mod">néerlandophone</word>
-          <word id="9" lem="belge" postag="ADJ" morpho="n=s" head="7" dep="mod">belge</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="11" lem="Hal" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Hal</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="13" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="province" postag="NC" morpho="g=f|n=s" head="13" dep="prep">province</word>
-          <word id="16" lem="de" postag="P+D" morpho="g=m|n=s" head="15" dep="dep">du</word>
-          <word id="17" lem="_" postag="NC" morpho="_" head="16" dep="prep">Brabant</word>
-          <word id="18" lem="flamand" postag="ADJ" morpho="g=m|n=s" head="17" dep="mod">flamand</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Hal" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Hal</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="vestige" postag="NC" morpho="g=m|n=s" head="2" dep="mod">vestige</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="enceinte" postag="NC" morpho="g=f|n=s" head="7" dep="prep">enceinte</word>
-          <word id="10" lem="médiéval" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">médiévale</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="12" lem="Bruxelles" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Bruxelles</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="2" dep="suj">Halle</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="section" postag="NC" morpho="g=f|n=s" head="2" dep="ats">section</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="commune" postag="NC" morpho="g=f|n=s" head="5" dep="prep">commune</word>
-          <word id="8" lem="belge" postag="ADJ" morpho="n=s" head="7" dep="mod">belge</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">Zoersel</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Pays-Bas</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Halle</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="village" postag="NC" morpho="g=m|n=s" head="1" dep="mod">village</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=s" head="4" dep="prep">commune</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="7" dep="prep">Bronckhorst</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="10" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="province" postag="NC" morpho="g=f|n=s" head="10" dep="prep">province</word>
-          <word id="13" lem="de" postag="P+D" morpho="g=m|n=s" head="12" dep="dep">du</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="13" dep="prep">Gueldre</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Allemagne</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Halle</word>
-          <word id="2" lem="sur" postag="P" morpho="_" head="1" dep="dep">sur</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Saale</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="7" lem="Saxe-Anhalt" postag="NPP" morpho="n=s" head="6" dep="prep">Saxe-Anhalt</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Halle</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="Rhénanie-du-Nord-Westphalie" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Rhénanie-du-Nord-Westphalie</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="5" dep="suj">Open</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Halle" postag="NPP" morpho="n=s" head="3" dep="prep">Halle</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="tournoi" postag="NC" morpho="g=m|n=s" head="5" dep="ats">tournoi</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="tennis" postag="NC" morpho="g=m" head="8" dep="prep">tennis</word>
-          <word id="10" lem="qui" postag="PROREL" morpho="n=s" head="12" dep="suj">qui</word>
-          <word id="11" lem="se" postag="CLR" morpho="n=p|p=3" head="12" dep="aff">se</word>
-          <word id="12" lem="tenir" postag="V" morpho="n=s|p=3|t=pst" head="7" dep="mod_rel">tient</word>
-          <word id="13" lem="dans" postag="P" morpho="_" head="12" dep="mod">dans</word>
-          <word id="14" lem="cette" postag="DET" morpho="g=f|n=s" head="15" dep="det">cette</word>
-          <word id="15" lem="ville" postag="NC" morpho="g=f|n=s" head="13" dep="prep">ville</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Belgique</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Halle</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="nom" postag="NC" morpho="g=m|n=s" head="1" dep="mod">nom</word>
-          <word id="4" lem="néerlandais" postag="ADJ" morpho="g=m" head="3" dep="mod">néerlandais</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="ville" postag="NC" morpho="g=f|n=s" head="5" dep="prep">ville</word>
-          <word id="8" lem="_" postag="ADJ" morpho="_" head="7" dep="mod">néerlandophone</word>
-          <word id="9" lem="belge" postag="ADJ" morpho="n=s" head="7" dep="mod">belge</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="11" lem="Hal" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Hal</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="13" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="province" postag="NC" morpho="g=f|n=s" head="13" dep="prep">province</word>
-          <word id="16" lem="de" postag="P+D" morpho="g=m|n=s" head="15" dep="dep">du</word>
-          <word id="17" lem="_" postag="NC" morpho="_" head="16" dep="prep">Brabant</word>
-          <word id="18" lem="flamand" postag="ADJ" morpho="g=m|n=s" head="17" dep="mod">flamand</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="porte" postag="NC" morpho="g=f|n=s" head="0" dep="_">porte</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Hal" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Hal</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="vestige" postag="NC" morpho="g=m|n=s" head="2" dep="mod">vestige</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="enceinte" postag="NC" morpho="g=f|n=s" head="7" dep="prep">enceinte</word>
-          <word id="10" lem="médiéval" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">médiévale</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="12" lem="Bruxelles" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Bruxelles</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="2" dep="suj">Halle</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="section" postag="NC" morpho="g=f|n=s" head="2" dep="ats">section</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="commune" postag="NC" morpho="g=f|n=s" head="5" dep="prep">commune</word>
-          <word id="8" lem="belge" postag="ADJ" morpho="n=s" head="7" dep="mod">belge</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="10" lem="_" postag="NC" morpho="_" head="9" dep="prep">Zoersel</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="patronyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Patronyme</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Johann" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Johann</word>
-          <word id="2" lem="Samuel" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Samuel</word>
-          <word id="3" lem="Halle" postag="NPP" morpho="n=s" head="1" dep="mod">Halle</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1727-1810</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="naturaliste" postag="NC" morpho="n=s" head="1" dep="mod">naturaliste</word>
-          <word id="9" lem="allemand" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">allemand</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="louis" postag="NC" morpho="g=m" head="0" dep="_">Louis</word>
-          <word id="2" lem="Halle" postag="NPP" morpho="n=s" head="1" dep="mod">Halle</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1910-1998</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="politologue" postag="NC" morpho="n=s" head="1" dep="mod">politologue</word>
-          <word id="8" lem="américain" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">américain</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Thore</word>
-          <word id="2" lem="Gustaf" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Gustaf</word>
-          <word id="3" lem="Halle" postag="NPP" morpho="n=s" head="1" dep="mod">Halle</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="1" dep="mod">1884-1964</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="botaniste" postag="NC" morpho="n=s" head="1" dep="mod">botaniste</word>
-          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-          <word id="10" lem="géologue" postag="NC" morpho="n=s" head="9" dep="dep_coord">géologue</word>
-          <word id="11" lem="suédois" postag="ADJ" morpho="g=m" head="8" dep="mod">suédois</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="halle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Halle</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="surnom" postag="NC" morpho="g=m|n=s" head="1" dep="mod">surnom</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Carlos" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Carlos</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Gonzalez</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="5" dep="mod">Santamaria</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="1" dep="mod">origamiste</word>
-          <word id="10" lem="espagnol" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">espagnol</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -546,8 +171,8 @@ Halle, surnom de Carlos Gonzalez Santamaria, origamiste espagnol.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -562,61 +187,23 @@ Halle, surnom de Carlos Gonzalez Santamaria, origamiste espagnol.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
-      <span begin="1" end="9" />
-      <text>Toponyme</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="items" idSE="1">
-      <span begin="10" end="59" id="0" />
-      <text id="0">France
-Marché couvert à Colmar dans le Haut-Rhin.</text>
-      <span begin="60" end="215" id="1" />
-      <text id="1">Allemagne
-Halle sur la Saale, en Saxe-Anhalt.
-Halle en Rhénanie-du-Nord-Westphalie.
-L'Open de Halle est un tournoi de tennis qui se tient dans cette ville.</text>
-      <span begin="216" end="440" id="2" />
-      <text id="2">Belgique
-Halle, nom néerlandais de la ville néerlandophone belge de Hal, dans la province du Brabant flamand
-La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.
-Halle est une section de la commune belge de Zoersel</text>
-      <span begin="441" end="523" id="3" />
-      <text id="3">Pays-Bas
-Halle, village de la commune de Bronckhorst, dans la province du Gueldre.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
       <span begin="2" end="11" />
       <text>Allemagne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="items" idSE="2">
+    <SEval type="items" idSE="1">
       <span begin="12" end="47" id="0" />
       <text id="0">Halle sur la Saale, en Saxe-Anhalt.</text>
       <span begin="48" end="157" id="1" />
@@ -626,24 +213,24 @@ L'Open de Halle est un tournoi de tennis qui se tient dans cette ville.</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="primer" idSE="3">
+    <SEval type="primer" idSE="2">
       <span begin="1" end="9" />
       <text>Belgique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="2">
       <span begin="10" end="172" id="0" />
       <text id="0">Halle, nom néerlandais de la ville néerlandophone belge de Hal, dans la province du Brabant flamand
 La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
@@ -653,24 +240,24 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="primer" idSE="4">
+    <SEval type="primer" idSE="3">
       <span begin="1" end="10" />
       <text>Patronyme</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="items" idSE="4">
+    <SEval type="items" idSE="3">
       <span begin="11" end="64" id="0" />
       <text id="0">Johann Samuel Halle (1727-1810), naturaliste allemand</text>
       <span begin="66" end="113" id="1" />
@@ -684,8 +271,20 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Halle.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="1" end="9" id="0" />
+      <text id="0">Bâtiment</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -696,8 +295,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -708,8 +307,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -719,309 +318,177 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
-      <span begin="1" end="9" id="0" />
-      <text id="0">Bâtiment</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
-      <span begin="1" end="9" id="0" />
-      <text id="0">Toponyme</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
-      <span begin="17" end="31" id="0" />
-      <text id="0">Marché couvert</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="1">
-      <span begin="70" end="75" id="0" />
-      <text id="0">Halle</text>
-      <span begin="106" end="111" id="1" />
-      <text id="1">Halle</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="2">
-      <span begin="225" end="230" id="0" />
-      <text id="0">Halle</text>
-      <span begin="388" end="393" id="1" />
-      <text id="1">Halle</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="3">
-      <span begin="450" end="455" id="0" />
-      <text id="0">Halle</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
-      <span begin="10" end="16" id="0" />
-      <text id="0">France</text>
-      <span begin="32" end="41" id="1" />
-      <text id="1">à Colmar</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
-      <span begin="60" end="69" id="0" />
-      <text id="0">Allemagne</text>
-      <span begin="89" end="104" id="1" />
-      <text id="1">en Saxe-Anhalt</text>
-      <span begin="112" end="142" id="2" />
-      <text id="2">en Rhénanie-du-Nord-Westphalie</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
-      <span begin="216" end="224" id="0" />
-      <text id="0">Belgique</text>
-      <span begin="289" end="324" id="1" />
-      <text id="1">dans la province du Brabant flamand</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="1" localisation="item" idItem="3">
-      <span begin="441" end="449" id="0" />
-      <text id="0">Pays-Bas</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
       <span begin="12" end="17" id="0" />
       <text id="0">Halle</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
       <span begin="48" end="53" id="0" />
       <text id="0">Halle</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
       <span begin="2" end="11" id="0" />
       <text id="0">Allemagne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
       <span begin="32" end="46" id="0" />
       <text id="0">en Saxe-Anhalt</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="1">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
       <span begin="54" end="84" id="0" />
       <text id="0">en Rhénanie-du-Nord-Westphalie</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
       <span begin="10" end="15" id="0" />
       <text id="0">Halle</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
       <span begin="173" end="178" id="0" />
       <text id="0">Halle</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
       <span begin="1" end="9" id="0" />
       <text id="0">Belgique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
       <span begin="74" end="110" id="0" />
       <text id="0">dans la province du Brabant flamand</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
-      <span begin="11" end="30" id="0" />
-      <text id="0">Johann Samuel Halle</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
-      <span begin="66" end="78" id="0" />
-      <text id="0">Louis Halle</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="2">
-      <span begin="114" end="132" id="0" />
-      <text id="0">Thore Gustaf Halle</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="3">
-      <span begin="177" end="182" id="0" />
-      <text id="0">Halle</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
       <span begin="1" end="10" id="0" />
       <text id="0">Patronyme</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
+      <document>Halle.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+      <span begin="11" end="30" id="0" />
+      <text id="0">Johann Samuel Halle</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
+      <document>Halle.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+      <span begin="66" end="78" id="0" />
+      <text id="0">Louis Halle</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
+      <document>Halle.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+      <span begin="114" end="132" id="0" />
+      <text id="0">Thore Gustaf Halle</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
+      <document>Halle.html</document>
+    </metadata>
+    <SEval type="concept" idSE="3" localisation="item" idItem="3">
+      <span begin="177" end="182" id="0" />
+      <text id="0">Halle</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1034,8 +501,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1048,8 +515,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1065,8 +532,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:06</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1091,8 +558,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1105,8 +572,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1119,8 +586,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1136,8 +603,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1162,8 +629,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1176,8 +643,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1190,8 +657,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1207,8 +674,8 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:11</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1234,7 +701,7 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1248,7 +715,7 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1262,7 +729,7 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1279,81 +746,10 @@ La porte de Hal, vestige de l'enceinte médiévale de Bruxelles.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:06</date>
+      <date>3/01/14 16:06</date>
       <document>Halle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="1">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="1" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="4">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="4">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="4">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:12</date>
-      <document>Halle.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="4">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />

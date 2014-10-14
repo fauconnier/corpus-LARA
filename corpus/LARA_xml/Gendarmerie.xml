@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SE>
@@ -12,31 +12,17 @@
       <text>À la fin du XIIe, la « Maison du Roi » de France était dirigée par quatre grands officiers : le Sénéchal, à la tête de l'armée et de la justice ; le Chambrier, gardien de la chambre du roi ; le Chancelier, secrétaire et gardien du sceau royal et enfin le Connétable qui dirigeait les écuries, secondé par les maréchaux.</text>
       <span begin="465" end="784" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SE>
       <id>1</id>
-      <text>Par rapport aux forces de police civile, les gendarmeries disposent en plus de capacités militaires (par exemple, des blindés de transport de troupes ou des blindés lourds avec des canons de 90 mm)</text>
-      <span begin="5101" end="5299" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SE>
-      <id>2</id>
       <text>Sociologie de la gendarmerie
 La sociologie des gendarmeries est une branche de la sociologie de la police. Elle étudie les caractéristiques organisationnelles et fonctionnelles des institutions gendarmiques et leur intervention dans la mise en œuvre des politiques publiques de sécurité. En France, les premiers travaux en ce domaine datent du début des années 1980, mais cette étude s'est particulièrement développée avec les travaux de François Dieu, dans le cadre du Centre d'Études et de Recherches sur la Police de l'Institut d'Études Politiques de Toulouse.
 Bibliographie :
@@ -51,846 +37,60 @@ Rumin S. Les effets de la périurbanuisation sur la gendarmerie française, in C
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:20</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
-    <SE>
-      <id>3</id>
-      <text>La sociologie des gendarmeries est une branche de la sociologie de la police. Elle étudie les caractéristiques organisationnelles et fonctionnelles des institutions gendarmiques et leur intervention dans la mise en œuvre des politiques publiques de sécurité. En France, les premiers travaux en ce domaine datent du début des années 1980, mais cette étude s'est particulièrement développée avec les travaux de François Dieu, dans le cadre du Centre d'Études et de Recherches sur la Police de l'Institut d'Études Politiques de Toulouse.
-Bibliographie :
-H. Lafont, P. Meyer, Le nouvel ordre gendarmique, Seuiil, 1980;
-F. Dieu, Gendarmerie et modernité, Éditions Montchrestien, 1994;
-F. Dieu, La gendarmerie. Secrets d'un corps, Éditions Complexe, 2002;C
-F. Dieu, P. Mignon, Sécurité et proximité. La mission de surveillance générale de la gendarmerie, L'Harmattan, Collection « Sécurité et société », 2001.
-A. Lignereux, « La Paix des Champs - Gendarmerie et société dans la Sarthe (1800-1914) », in: Revue Historique et Archéologique du Maine, Le Mans, 2006, p.133-168 (ill.; tableaux et graphiques).
-J.L Loubet del Bayle, Police et politique. une approche sociologique, L'Harmattan, 2006
-Rumin S. Les effets de la périurbanuisation sur la gendarmerie française, in CEDREA - les cahiers des dynamiques sociales et de la recherche-action, 2003, http://www.cedrea.net/Les-effets-de-la-periurbanisation</text>
-      <span begin="8219" end="9616" />
-    </SE>
-    <comment />
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="à" postag="P" morpho="_" head="16" dep="mod">À</word>
-        <word id="2" lem="la" postag="DET" morpho="g=f|n=s" head="3" dep="det">la</word>
-        <word id="3" lem="fin" postag="NC" morpho="n=s" head="1" dep="prep">fin</word>
-        <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">du</word>
-        <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">XIIe</word>
-        <word id="6" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-        <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-        <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="9" dep="ponct">"</word>
-        <word id="9" lem="maison" postag="NC" morpho="g=f|n=s" head="16" dep="suj">Maison</word>
-        <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-        <word id="11" lem="Roi" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Roi</word>
-        <word id="12" lem="&quot;" postag="PONCT" morpho="_" head="9" dep="ponct">"</word>
-        <word id="13" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-        <word id="14" lem="France" postag="NPP" morpho="g=m|n=s" head="13" dep="prep">France</word>
-        <word id="15" lem="être" postag="V" morpho="n=s|p=3|t=imp" head="16" dep="aux_pass">était</word>
-        <word id="16" lem="diriger" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">dirigée</word>
-        <word id="17" lem="par" postag="P" morpho="_" head="16" dep="p_obj">par</word>
-        <word id="18" lem="deux" postag="NC" morpho="g=m" head="17" dep="prep">quatre</word>
-        <word id="19" lem="grand" postag="ADJ" morpho="g=m|n=p" head="18" dep="mod">grands</word>
-        <word id="20" lem="officier" postag="NC" morpho="n=p" head="18" dep="mod">officiers</word>
-        <word id="21" lem=":" postag="PONCT" morpho="_" head="16" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Sénéchal</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="tête" postag="NC" morpho="g=f|n=s" head="4" dep="prep">tête</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="armée" postag="NC" morpho="g=f|n=s" head="7" dep="prep">armée</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep_coord">de</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="justice" postag="NC" morpho="g=f|n=s" head="11" dep="prep">justice</word>
-          <word id="14" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chambrier</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="gardien" postag="NC" morpho="g=m|n=s" head="2" dep="mod">gardien</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="chambre" postag="NC" morpho="g=f|n=s" head="5" dep="prep">chambre</word>
-          <word id="8" lem="de" postag="P+D" morpho="g=m|n=s" head="7" dep="dep">du</word>
-          <word id="9" lem="roi" postag="NC" morpho="g=m|n=s" head="8" dep="prep">roi</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chancelier</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="secrétaire" postag="NC" morpho="n=s" head="2" dep="mod">secrétaire</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="gardien" postag="NC" morpho="g=m|n=s" head="5" dep="dep_coord">gardien</word>
-          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="8" lem="sceau" postag="NC" morpho="g=m|n=s" head="7" dep="prep">sceau</word>
-          <word id="9" lem="royal" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">royal</word>
-          <word id="10" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="11" lem="enfin" postag="ADV" morpho="_" head="10" dep="mod">enfin</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Connétable</word>
-          <word id="3" lem="qui" postag="PROREL" morpho="n=s" head="4" dep="suj">qui</word>
-          <word id="4" lem="diriger" postag="V" morpho="n=s|p=3|t=imp" head="2" dep="mod_rel">dirigeait</word>
-          <word id="5" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-          <word id="6" lem="écurie" postag="NC" morpho="g=f|n=p" head="4" dep="obj">écuries</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="8" lem="seconder" postag="VPP" morpho="g=m|n=s|t=past" head="6" dep="mod">secondé</word>
-          <word id="9" lem="par" postag="P" morpho="_" head="8" dep="p_obj">par</word>
-          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-          <word id="11" lem="maréchal" postag="NC" morpho="g=m|n=p" head="9" dep="prep">maréchaux</word>
-          <word id="12" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="par_rapport_à" postag="P+D" morpho="n=p" head="9" dep="mod">Par_rapport_aux</word>
-        <word id="2" lem="force" postag="NC" morpho="g=f|n=p" head="1" dep="prep">forces</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="police" postag="NC" morpho="g=f|n=s" head="3" dep="prep">police</word>
-        <word id="5" lem="civil" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">civile</word>
-        <word id="6" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
-        <word id="8" lem="gendarmerie" postag="NC" morpho="g=f|n=p" head="9" dep="suj">gendarmeries</word>
-        <word id="9" lem="disposer" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">disposent</word>
-        <word id="10" lem="en_plus_de" postag="P" morpho="_" head="9" dep="mod">en_plus_de</word>
-        <word id="11" lem="capacité" postag="NC" morpho="g=f|n=p" head="10" dep="prep">capacités</word>
-        <word id="12" lem="militaire" postag="ADJ" morpho="n=p" head="11" dep="mod">militaires</word>
-        <word id="13" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="par" postag="P" morpho="_" head="0" dep="_">par</word>
-          <word id="2" lem="exemple" postag="NC" morpho="g=m|n=s" head="1" dep="prep">exemple</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-          <word id="5" lem="blindé" postag="NC" morpho="g=m|n=p" head="0" dep="_">blindés</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="transport" postag="NC" morpho="g=m|n=s" head="6" dep="prep">transport</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="troupe" postag="NC" morpho="g=f|n=p" head="8" dep="prep">troupes</word>
-          <word id="10" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
-          <word id="2" lem="blindé" postag="NC" morpho="g=m|n=p" head="0" dep="_">blindés</word>
-          <word id="3" lem="lourd" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">lourds</word>
-          <word id="4" lem="avec" postag="P" morpho="_" head="2" dep="dep">avec</word>
-          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
-          <word id="6" lem="canon" postag="NC" morpho="g=m|n=p" head="4" dep="prep">canons</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="#NUM#" postag="DET" morpho="n=p" head="9" dep="det">90</word>
-          <word id="9" lem="millimètre" postag="NC" morpho="g=m" head="7" dep="prep">mm</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="sociologie" postag="NC" morpho="g=f|n=s" head="0" dep="_">Sociologie</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-        <word id="4" lem="gendarmerie" postag="NC" morpho="g=f|n=s" head="2" dep="prep">gendarmerie</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-        <word id="2" lem="sociologie" postag="NC" morpho="g=f|n=s" head="5" dep="suj">sociologie</word>
-        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-        <word id="4" lem="gendarmerie" postag="NC" morpho="g=f|n=p" head="3" dep="prep">gendarmeries</word>
-        <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-        <word id="7" lem="branche" postag="NC" morpho="g=f|n=s" head="5" dep="ats">branche</word>
-        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-        <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-        <word id="10" lem="sociologie" postag="NC" morpho="g=f|n=s" head="8" dep="prep">sociologie</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-        <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-        <word id="13" lem="police" postag="NC" morpho="g=f|n=s" head="11" dep="prep">police</word>
-        <word id="14" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-      </sentence>
-      <sentence id="3">
-        <word id="1" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="2" dep="suj">Elle</word>
-        <word id="2" lem="étudier" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">étudie</word>
-        <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-        <word id="4" lem="caractéristique" postag="NC" morpho="g=f|n=p" head="2" dep="obj">caractéristiques</word>
-        <word id="5" lem="organisationnel" postag="ADJ" morpho="g=f|n=p" head="4" dep="mod">organisationnelles</word>
-        <word id="6" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-        <word id="7" lem="fonctionnel" postag="ADJ" morpho="g=f|n=p" head="6" dep="dep_coord">fonctionnelles</word>
-        <word id="8" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-        <word id="9" lem="institution" postag="NC" morpho="g=f|n=p" head="8" dep="prep">institutions</word>
-        <word id="10" lem="_" postag="ADJ" morpho="_" head="9" dep="mod">gendarmiques</word>
-        <word id="11" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-        <word id="12" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="13" dep="det">leur</word>
-        <word id="13" lem="intervention" postag="NC" morpho="g=f|n=s" head="11" dep="dep_coord">intervention</word>
-        <word id="14" lem="dans" postag="P" morpho="_" head="13" dep="dep">dans</word>
-        <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-        <word id="16" lem="mise" postag="NC" morpho="g=f|n=s" head="14" dep="prep">mise</word>
-        <word id="17" lem="en" postag="P" morpho="_" head="16" dep="dep">en</word>
-        <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">œuvre</word>
-        <word id="19" lem="de" postag="P+D" morpho="n=p" head="16" dep="dep">des</word>
-        <word id="20" lem="politique" postag="NC" morpho="g=f|n=p" head="19" dep="prep">politiques</word>
-        <word id="21" lem="public" postag="ADJ" morpho="g=f|n=p" head="20" dep="mod">publiques</word>
-        <word id="22" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
-        <word id="23" lem="sécurité" postag="NC" morpho="g=f|n=s" head="22" dep="prep">sécurité</word>
-        <word id="24" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-      </sentence>
-      <sentence id="4">
-        <word id="1" lem="en" postag="P" morpho="_" head="10" dep="mod">En</word>
-        <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
-        <word id="3" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-        <word id="4" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-        <word id="5" lem="premier" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">premiers</word>
-        <word id="6" lem="travail" postag="NC" morpho="g=m|n=p" head="10" dep="suj">travaux</word>
-        <word id="7" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-        <word id="8" lem="ce" postag="DET" morpho="g=m|n=s" head="9" dep="det">ce</word>
-        <word id="9" lem="domaine" postag="NC" morpho="g=m|n=s" head="7" dep="prep">domaine</word>
-        <word id="10" lem="dater" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">datent</word>
-        <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="de_obj">du</word>
-        <word id="12" lem="début" postag="NC" morpho="g=m|n=s" head="11" dep="prep">début</word>
-        <word id="13" lem="de" postag="P+D" morpho="n=p" head="12" dep="dep">des</word>
-        <word id="14" lem="année" postag="NC" morpho="g=f|n=p" head="13" dep="prep">années</word>
-        <word id="15" lem="_" postag="NC" morpho="_" head="14" dep="mod">1980</word>
-        <word id="16" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-        <word id="17" lem="mais" postag="CC" morpho="_" head="10" dep="coord">mais</word>
-        <word id="18" lem="cette" postag="DET" morpho="g=f|n=s" head="19" dep="det">cette</word>
-        <word id="19" lem="étude" postag="NC" morpho="g=f|n=s" head="23" dep="suj">étude</word>
-        <word id="20" lem="se" postag="CLR" morpho="p=3" head="23" dep="aff">s'</word>
-        <word id="21" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="23" dep="aux_tps">est</word>
-        <word id="22" lem="particulièrement" postag="ADV" morpho="_" head="23" dep="mod">particulièrement</word>
-        <word id="23" lem="développer" postag="VPP" morpho="g=f|n=s|t=past" head="17" dep="dep_coord">développée</word>
-        <word id="24" lem="avec" postag="P" morpho="_" head="23" dep="mod">avec</word>
-        <word id="25" lem="les" postag="DET" morpho="n=p" head="26" dep="det">les</word>
-        <word id="26" lem="travail" postag="NC" morpho="g=m|n=p" head="24" dep="prep">travaux</word>
-        <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">de</word>
-        <word id="28" lem="François" postag="NPP" morpho="g=m|n=s" head="27" dep="prep">François</word>
-        <word id="29" lem="_" postag="NPP" morpho="_" head="28" dep="mod">Dieu</word>
-        <word id="30" lem="," postag="PONCT" morpho="_" head="23" dep="ponct">,</word>
-        <word id="31" lem="dans" postag="P" morpho="_" head="23" dep="mod">dans</word>
-        <word id="32" lem="le" postag="DET" morpho="g=m|n=s" head="33" dep="det">le</word>
-        <word id="33" lem="cadre" postag="NC" morpho="g=m|n=s" head="31" dep="prep">cadre</word>
-        <word id="34" lem="de" postag="P+D" morpho="g=m|n=s" head="33" dep="dep">du</word>
-        <word id="35" lem="Centre" postag="NPP" morpho="g=m|n=s" head="34" dep="prep">Centre</word>
-        <word id="36" lem="de" postag="P" morpho="_" head="35" dep="dep">d'</word>
-        <word id="37" lem="_" postag="NPP" morpho="_" head="36" dep="prep">Études</word>
-        <word id="38" lem="et" postag="CC" morpho="_" head="36" dep="coord">et</word>
-        <word id="39" lem="de" postag="P" morpho="_" head="38" dep="dep_coord">de</word>
-        <word id="40" lem="_" postag="NPP" morpho="_" head="39" dep="prep">Recherches</word>
-        <word id="41" lem="sur" postag="P" morpho="_" head="33" dep="dep">sur</word>
-        <word id="42" lem="la" postag="DET" morpho="g=f|n=s" head="43" dep="det">la</word>
-        <word id="43" lem="_" postag="NPP" morpho="_" head="41" dep="prep">Police</word>
-        <word id="44" lem="de" postag="P" morpho="_" head="43" dep="dep">de</word>
-        <word id="45" lem="l'" postag="DET" morpho="n=s" head="46" dep="det">l'</word>
-        <word id="46" lem="_" postag="NC" morpho="_" head="44" dep="prep">Institut</word>
-        <word id="47" lem="de" postag="P" morpho="_" head="46" dep="dep">d'</word>
-        <word id="48" lem="_" postag="NC" morpho="_" head="47" dep="prep">Études</word>
-        <word id="49" lem="_" postag="NPP" morpho="_" head="48" dep="mod">Politiques</word>
-        <word id="50" lem="de" postag="P" morpho="_" head="46" dep="dep">de</word>
-        <word id="51" lem="Toulouse" postag="NPP" morpho="g=m|n=s" head="50" dep="prep">Toulouse</word>
-        <word id="52" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-      </sentence>
-      <sentence id="5">
-        <word id="1" lem="bibliographie" postag="NC" morpho="g=f|n=s" head="0" dep="root">Bibliographie</word>
-        <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">H.</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Lafont</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="page" postag="NC" morpho="g=f" head="1" dep="mod">P.</word>
-          <word id="5" lem="Meyer" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Meyer</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="1" dep="mod">Le</word>
-          <word id="8" lem="nouveau" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">nouvel</word>
-          <word id="9" lem="ordre" postag="NC" morpho="g=m|n=s" head="7" dep="mod">ordre</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">gendarmique</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Seuiil</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="1" dep="mod">1980</word>
-          <word id="15" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">F.</word>
-          <word id="2" lem="dieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">Dieu</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="0" dep="_">Gendarmerie</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="modernité" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">modernité</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="4" dep="mod">Éditions</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Montchrestien</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="11" lem="_" postag="NC" morpho="_" head="4" dep="mod">1994</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">F.</word>
-          <word id="2" lem="dieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">Dieu</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="0" dep="_">La</word>
-          <word id="5" lem="gendarmerie" postag="NC" morpho="g=f|n=s" head="4" dep="mod">gendarmerie</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="secret" postag="NC" morpho="g=m|n=p" head="0" dep="root">Secrets</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="corps" postag="NC" morpho="g=m" head="2" dep="prep">corps</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">Éditions</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Complexe</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="1" dep="mod">2002</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-          <word id="11" lem="_" postag="NC" morpho="_" head="1" dep="mod">C</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">F.</word>
-          <word id="2" lem="dieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">Dieu</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="page" postag="NC" morpho="g=f" head="0" dep="_">P.</word>
-          <word id="5" lem="Mignon" postag="NPP" morpho="g=f|n=s" head="4" dep="mod">Mignon</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="0" dep="_">Sécurité</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="9" lem="proximité" postag="NC" morpho="g=f|n=s" head="8" dep="dep_coord">proximité</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="mission" postag="NC" morpho="g=f|n=s" head="0" dep="_">mission</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="surveillance" postag="NC" morpho="g=f|n=s" head="3" dep="prep">surveillance</word>
-          <word id="5" lem="général" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">générale</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="gendarmerie" postag="NC" morpho="g=f|n=s" head="6" dep="prep">gendarmerie</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">L'</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Harmattan</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Collection</word>
-          <word id="14" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="15" lem="sécurité" postag="NC" morpho="g=f|n=s" head="2" dep="mod">Sécurité</word>
-          <word id="16" lem="et" postag="CC" morpho="_" head="15" dep="coord">et</word>
-          <word id="17" lem="société" postag="NC" morpho="g=f|n=s" head="16" dep="dep_coord">société</word>
-          <word id="18" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="20" lem="_" postag="NC" morpho="_" head="19" dep="dep_coord">2001</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="21" dep="suj">A.</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Lignereux</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="21" dep="ponct">"</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">La</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="21" dep="suj">Paix</word>
-          <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
-          <word id="8" lem="Champs" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Champs</word>
-          <word id="9" lem="-" postag="PONCT" morpho="_" head="8" dep="ponct">-</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Gendarmerie</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-          <word id="12" lem="société" postag="NC" morpho="g=f|n=s" head="11" dep="dep_coord">société</word>
-          <word id="13" lem="dans" postag="P" morpho="_" head="6" dep="dep">dans</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="Sarthe" postag="NPP" morpho="g=f|n=s" head="13" dep="prep">Sarthe</word>
-          <word id="16" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="15" dep="mod">1800-1914</word>
-          <word id="18" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
-          <word id="19" lem="&quot;" postag="PONCT" morpho="_" head="21" dep="ponct">"</word>
-          <word id="20" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="21" lem="_" postag="V" morpho="_" head="0" dep="root">in</word>
-          <word id="22" lem=":" postag="PONCT" morpho="_" head="21" dep="ponct">:</word>
-          <word id="23" lem="revue" postag="NC" morpho="g=f|n=s" head="21" dep="mod">Revue</word>
-          <word id="24" lem="_" postag="NPP" morpho="_" head="23" dep="mod">Historique</word>
-          <word id="25" lem="et" postag="CC" morpho="_" head="24" dep="coord">et</word>
-          <word id="26" lem="_" postag="NPP" morpho="_" head="25" dep="dep_coord">Archéologique</word>
-          <word id="27" lem="de" postag="P+D" morpho="g=m|n=s" head="23" dep="dep">du</word>
-          <word id="28" lem="Maine" postag="NPP" morpho="g=m|n=s" head="27" dep="prep">Maine</word>
-          <word id="29" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="30" lem="_" postag="NPP" morpho="_" head="21" dep="mod">Le</word>
-          <word id="31" lem="_" postag="NPP" morpho="_" head="30" dep="mod">Mans</word>
-          <word id="32" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="33" lem="_" postag="NC" morpho="_" head="21" dep="mod">2006</word>
-          <word id="34" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="35" lem="_" postag="NC" morpho="_" head="21" dep="mod">p.133</word>
-          <word id="36" lem="#NUM#" postag="ADJ" morpho="n=p" head="35" dep="mod">-168</word>
-          <word id="37" lem="(" postag="PONCT" morpho="_" head="35" dep="ponct">(</word>
-          <word id="38" lem="_" postag="NPP" morpho="_" head="35" dep="mod">ill</word>
-          <word id="39" lem="." postag="PONCT" morpho="_" head="21" dep="ponct">.</word>
-          <word id="40" lem=";" postag="PONCT" morpho="_" head="21" dep="ponct">;</word>
-          <word id="41" lem="tableau" postag="NC" morpho="g=m|n=p" head="21" dep="mod">tableaux</word>
-          <word id="42" lem="et" postag="CC" morpho="_" head="41" dep="coord">et</word>
-          <word id="43" lem="graphique" postag="NC" morpho="n=p" head="42" dep="dep_coord">graphiques</word>
-          <word id="44" lem=")" postag="PONCT" morpho="_" head="21" dep="ponct">)</word>
-          <word id="45" lem="." postag="PONCT" morpho="_" head="21" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">J.L</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Loubet</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">del</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Bayle</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="dep_coord">Police</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="8" lem="politique" postag="ADJ" morpho="n=s" head="7" dep="dep_coord">politique</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
-          <word id="2" lem="approche" postag="NC" morpho="g=f|n=s" head="0" dep="_">approche</word>
-          <word id="3" lem="sociologique" postag="ADJ" morpho="n=s" head="2" dep="mod">sociologique</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">L'</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Harmattan</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="2" dep="mod">2006</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Rumin</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">S.</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Les</word>
-          <word id="4" lem="effet" postag="NC" morpho="g=m|n=p" head="1" dep="mod">effets</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="5" dep="prep">périurbanuisation</word>
-          <word id="8" lem="sur" postag="P" morpho="_" head="4" dep="dep">sur</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="gendarmerie" postag="NC" morpho="g=f|n=s" head="8" dep="prep">gendarmerie</word>
-          <word id="11" lem="français" postag="ADJ" morpho="g=f|n=s" head="10" dep="mod">française</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="13" lem="in" postag="ADJ" morpho="_" head="14" dep="mod">in</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="1" dep="mod">CEDREA</word>
-          <word id="15" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="16" lem="les" postag="DET" morpho="n=p" head="17" dep="det">les</word>
-          <word id="17" lem="cahier" postag="NC" morpho="g=m|n=p" head="1" dep="mod">cahiers</word>
-          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-          <word id="19" lem="dynamique" postag="NC" morpho="g=f|n=p" head="18" dep="prep">dynamiques</word>
-          <word id="20" lem="social" postag="ADJ" morpho="g=f|n=p" head="19" dep="mod">sociales</word>
-          <word id="21" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep_coord">de</word>
-          <word id="23" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
-          <word id="24" lem="_" postag="NC" morpho="_" head="22" dep="prep">recherche-action</word>
-          <word id="25" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="26" lem="_" postag="NC" morpho="_" head="1" dep="mod">2003</word>
-          <word id="27" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="28" lem="_" postag="NPP" morpho="_" head="1" dep="mod">http://www.cedrea.net/Les-effets-de-la-periurbanisation</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:20</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-        <word id="2" lem="sociologie" postag="NC" morpho="g=f|n=s" head="5" dep="suj">sociologie</word>
-        <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-        <word id="4" lem="gendarmerie" postag="NC" morpho="g=f|n=p" head="3" dep="prep">gendarmeries</word>
-        <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-        <word id="7" lem="branche" postag="NC" morpho="g=f|n=s" head="5" dep="ats">branche</word>
-        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-        <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-        <word id="10" lem="sociologie" postag="NC" morpho="g=f|n=s" head="8" dep="prep">sociologie</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-        <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-        <word id="13" lem="police" postag="NC" morpho="g=f|n=s" head="11" dep="prep">police</word>
-        <word id="14" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="2" dep="suj">Elle</word>
-        <word id="2" lem="étudier" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">étudie</word>
-        <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-        <word id="4" lem="caractéristique" postag="NC" morpho="g=f|n=p" head="2" dep="obj">caractéristiques</word>
-        <word id="5" lem="organisationnel" postag="ADJ" morpho="g=f|n=p" head="4" dep="mod">organisationnelles</word>
-        <word id="6" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-        <word id="7" lem="fonctionnel" postag="ADJ" morpho="g=f|n=p" head="6" dep="dep_coord">fonctionnelles</word>
-        <word id="8" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-        <word id="9" lem="institution" postag="NC" morpho="g=f|n=p" head="8" dep="prep">institutions</word>
-        <word id="10" lem="_" postag="ADJ" morpho="_" head="9" dep="mod">gendarmiques</word>
-        <word id="11" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-        <word id="12" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="13" dep="det">leur</word>
-        <word id="13" lem="intervention" postag="NC" morpho="g=f|n=s" head="11" dep="dep_coord">intervention</word>
-        <word id="14" lem="dans" postag="P" morpho="_" head="13" dep="dep">dans</word>
-        <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-        <word id="16" lem="mise" postag="NC" morpho="g=f|n=s" head="14" dep="prep">mise</word>
-        <word id="17" lem="en" postag="P" morpho="_" head="16" dep="dep">en</word>
-        <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">œuvre</word>
-        <word id="19" lem="de" postag="P+D" morpho="n=p" head="16" dep="dep">des</word>
-        <word id="20" lem="politique" postag="NC" morpho="g=f|n=p" head="19" dep="prep">politiques</word>
-        <word id="21" lem="public" postag="ADJ" morpho="g=f|n=p" head="20" dep="mod">publiques</word>
-        <word id="22" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
-        <word id="23" lem="sécurité" postag="NC" morpho="g=f|n=s" head="22" dep="prep">sécurité</word>
-        <word id="24" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-      </sentence>
-      <sentence id="3">
-        <word id="1" lem="en" postag="P" morpho="_" head="10" dep="mod">En</word>
-        <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
-        <word id="3" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-        <word id="4" lem="les" postag="DET" morpho="n=p" head="6" dep="det">les</word>
-        <word id="5" lem="premier" postag="ADJ" morpho="g=m|n=p" head="6" dep="mod">premiers</word>
-        <word id="6" lem="travail" postag="NC" morpho="g=m|n=p" head="10" dep="suj">travaux</word>
-        <word id="7" lem="en" postag="P" morpho="_" head="10" dep="mod">en</word>
-        <word id="8" lem="ce" postag="DET" morpho="g=m|n=s" head="9" dep="det">ce</word>
-        <word id="9" lem="domaine" postag="NC" morpho="g=m|n=s" head="7" dep="prep">domaine</word>
-        <word id="10" lem="dater" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">datent</word>
-        <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="de_obj">du</word>
-        <word id="12" lem="début" postag="NC" morpho="g=m|n=s" head="11" dep="prep">début</word>
-        <word id="13" lem="de" postag="P+D" morpho="n=p" head="12" dep="dep">des</word>
-        <word id="14" lem="année" postag="NC" morpho="g=f|n=p" head="13" dep="prep">années</word>
-        <word id="15" lem="_" postag="NC" morpho="_" head="14" dep="mod">1980</word>
-        <word id="16" lem="," postag="PONCT" morpho="_" head="10" dep="ponct">,</word>
-        <word id="17" lem="mais" postag="CC" morpho="_" head="10" dep="coord">mais</word>
-        <word id="18" lem="cette" postag="DET" morpho="g=f|n=s" head="19" dep="det">cette</word>
-        <word id="19" lem="étude" postag="NC" morpho="g=f|n=s" head="23" dep="suj">étude</word>
-        <word id="20" lem="se" postag="CLR" morpho="p=3" head="23" dep="aff">s'</word>
-        <word id="21" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="23" dep="aux_tps">est</word>
-        <word id="22" lem="particulièrement" postag="ADV" morpho="_" head="23" dep="mod">particulièrement</word>
-        <word id="23" lem="développer" postag="VPP" morpho="g=f|n=s|t=past" head="17" dep="dep_coord">développée</word>
-        <word id="24" lem="avec" postag="P" morpho="_" head="23" dep="mod">avec</word>
-        <word id="25" lem="les" postag="DET" morpho="n=p" head="26" dep="det">les</word>
-        <word id="26" lem="travail" postag="NC" morpho="g=m|n=p" head="24" dep="prep">travaux</word>
-        <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep">de</word>
-        <word id="28" lem="François" postag="NPP" morpho="g=m|n=s" head="27" dep="prep">François</word>
-        <word id="29" lem="_" postag="NPP" morpho="_" head="28" dep="mod">Dieu</word>
-        <word id="30" lem="," postag="PONCT" morpho="_" head="23" dep="ponct">,</word>
-        <word id="31" lem="dans" postag="P" morpho="_" head="23" dep="mod">dans</word>
-        <word id="32" lem="le" postag="DET" morpho="g=m|n=s" head="33" dep="det">le</word>
-        <word id="33" lem="cadre" postag="NC" morpho="g=m|n=s" head="31" dep="prep">cadre</word>
-        <word id="34" lem="de" postag="P+D" morpho="g=m|n=s" head="33" dep="dep">du</word>
-        <word id="35" lem="Centre" postag="NPP" morpho="g=m|n=s" head="34" dep="prep">Centre</word>
-        <word id="36" lem="de" postag="P" morpho="_" head="35" dep="dep">d'</word>
-        <word id="37" lem="_" postag="NPP" morpho="_" head="36" dep="prep">Études</word>
-        <word id="38" lem="et" postag="CC" morpho="_" head="36" dep="coord">et</word>
-        <word id="39" lem="de" postag="P" morpho="_" head="38" dep="dep_coord">de</word>
-        <word id="40" lem="_" postag="NPP" morpho="_" head="39" dep="prep">Recherches</word>
-        <word id="41" lem="sur" postag="P" morpho="_" head="33" dep="dep">sur</word>
-        <word id="42" lem="la" postag="DET" morpho="g=f|n=s" head="43" dep="det">la</word>
-        <word id="43" lem="_" postag="NPP" morpho="_" head="41" dep="prep">Police</word>
-        <word id="44" lem="de" postag="P" morpho="_" head="43" dep="dep">de</word>
-        <word id="45" lem="l'" postag="DET" morpho="n=s" head="46" dep="det">l'</word>
-        <word id="46" lem="_" postag="NC" morpho="_" head="44" dep="prep">Institut</word>
-        <word id="47" lem="de" postag="P" morpho="_" head="46" dep="dep">d'</word>
-        <word id="48" lem="_" postag="NC" morpho="_" head="47" dep="prep">Études</word>
-        <word id="49" lem="_" postag="NPP" morpho="_" head="48" dep="mod">Politiques</word>
-        <word id="50" lem="de" postag="P" morpho="_" head="46" dep="dep">de</word>
-        <word id="51" lem="Toulouse" postag="NPP" morpho="g=m|n=s" head="50" dep="prep">Toulouse</word>
-        <word id="52" lem="." postag="PONCT" morpho="_" head="10" dep="ponct">.</word>
-      </sentence>
-      <sentence id="4">
-        <word id="1" lem="bibliographie" postag="NC" morpho="g=f|n=s" head="0" dep="root">Bibliographie</word>
-        <word id="2" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:20</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">H.</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Lafont</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="page" postag="NC" morpho="g=f" head="1" dep="mod">P.</word>
-          <word id="5" lem="Meyer" postag="NPP" morpho="g=m|n=s" head="4" dep="mod">Meyer</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="1" dep="mod">Le</word>
-          <word id="8" lem="nouveau" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">nouvel</word>
-          <word id="9" lem="ordre" postag="NC" morpho="g=m|n=s" head="7" dep="mod">ordre</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">gendarmique</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Seuiil</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="1" dep="mod">1980</word>
-          <word id="15" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">F.</word>
-          <word id="2" lem="dieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">Dieu</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="0" dep="_">Gendarmerie</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="modernité" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">modernité</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="4" dep="mod">Éditions</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Montchrestien</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-          <word id="11" lem="_" postag="NC" morpho="_" head="4" dep="mod">1994</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">F.</word>
-          <word id="2" lem="dieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">Dieu</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="0" dep="_">La</word>
-          <word id="5" lem="gendarmerie" postag="NC" morpho="g=f|n=s" head="4" dep="mod">gendarmerie</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="secret" postag="NC" morpho="g=m|n=p" head="0" dep="root">Secrets</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="corps" postag="NC" morpho="g=m" head="2" dep="prep">corps</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="1" dep="mod">Éditions</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Complexe</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="1" dep="mod">2002</word>
-          <word id="10" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-          <word id="11" lem="_" postag="NC" morpho="_" head="1" dep="mod">C</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">F.</word>
-          <word id="2" lem="dieu" postag="NC" morpho="g=m|n=s" head="1" dep="mod">Dieu</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="4" lem="page" postag="NC" morpho="g=f" head="0" dep="_">P.</word>
-          <word id="5" lem="Mignon" postag="NPP" morpho="g=f|n=s" head="4" dep="mod">Mignon</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="0" dep="_">Sécurité</word>
-          <word id="8" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="9" lem="proximité" postag="NC" morpho="g=f|n=s" head="8" dep="dep_coord">proximité</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="mission" postag="NC" morpho="g=f|n=s" head="0" dep="_">mission</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="surveillance" postag="NC" morpho="g=f|n=s" head="3" dep="prep">surveillance</word>
-          <word id="5" lem="général" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">générale</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="gendarmerie" postag="NC" morpho="g=f|n=s" head="6" dep="prep">gendarmerie</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">L'</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Harmattan</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Collection</word>
-          <word id="14" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="15" lem="sécurité" postag="NC" morpho="g=f|n=s" head="2" dep="mod">Sécurité</word>
-          <word id="16" lem="et" postag="CC" morpho="_" head="15" dep="coord">et</word>
-          <word id="17" lem="société" postag="NC" morpho="g=f|n=s" head="16" dep="dep_coord">société</word>
-          <word id="18" lem="&quot;" postag="PONCT" morpho="_" head="2" dep="ponct">"</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="20" lem="_" postag="NC" morpho="_" head="19" dep="dep_coord">2001</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="21" dep="suj">A.</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Lignereux</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="&quot;" postag="PONCT" morpho="_" head="21" dep="ponct">"</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">La</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="21" dep="suj">Paix</word>
-          <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
-          <word id="8" lem="Champs" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Champs</word>
-          <word id="9" lem="-" postag="PONCT" morpho="_" head="8" dep="ponct">-</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Gendarmerie</word>
-          <word id="11" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-          <word id="12" lem="société" postag="NC" morpho="g=f|n=s" head="11" dep="dep_coord">société</word>
-          <word id="13" lem="dans" postag="P" morpho="_" head="6" dep="dep">dans</word>
-          <word id="14" lem="la" postag="DET" morpho="g=f|n=s" head="15" dep="det">la</word>
-          <word id="15" lem="Sarthe" postag="NPP" morpho="g=f|n=s" head="13" dep="prep">Sarthe</word>
-          <word id="16" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="15" dep="mod">1800-1914</word>
-          <word id="18" lem=")" postag="PONCT" morpho="_" head="15" dep="ponct">)</word>
-          <word id="19" lem="&quot;" postag="PONCT" morpho="_" head="21" dep="ponct">"</word>
-          <word id="20" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="21" lem="_" postag="V" morpho="_" head="0" dep="root">in</word>
-          <word id="22" lem=":" postag="PONCT" morpho="_" head="21" dep="ponct">:</word>
-          <word id="23" lem="revue" postag="NC" morpho="g=f|n=s" head="21" dep="mod">Revue</word>
-          <word id="24" lem="_" postag="NPP" morpho="_" head="23" dep="mod">Historique</word>
-          <word id="25" lem="et" postag="CC" morpho="_" head="24" dep="coord">et</word>
-          <word id="26" lem="_" postag="NPP" morpho="_" head="25" dep="dep_coord">Archéologique</word>
-          <word id="27" lem="de" postag="P+D" morpho="g=m|n=s" head="23" dep="dep">du</word>
-          <word id="28" lem="Maine" postag="NPP" morpho="g=m|n=s" head="27" dep="prep">Maine</word>
-          <word id="29" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="30" lem="_" postag="NPP" morpho="_" head="21" dep="mod">Le</word>
-          <word id="31" lem="_" postag="NPP" morpho="_" head="30" dep="mod">Mans</word>
-          <word id="32" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="33" lem="_" postag="NC" morpho="_" head="21" dep="mod">2006</word>
-          <word id="34" lem="," postag="PONCT" morpho="_" head="21" dep="ponct">,</word>
-          <word id="35" lem="_" postag="NC" morpho="_" head="21" dep="mod">p.133</word>
-          <word id="36" lem="#NUM#" postag="ADJ" morpho="n=p" head="35" dep="mod">-168</word>
-          <word id="37" lem="(" postag="PONCT" morpho="_" head="35" dep="ponct">(</word>
-          <word id="38" lem="_" postag="NPP" morpho="_" head="35" dep="mod">ill</word>
-          <word id="39" lem="." postag="PONCT" morpho="_" head="21" dep="ponct">.</word>
-          <word id="40" lem=";" postag="PONCT" morpho="_" head="21" dep="ponct">;</word>
-          <word id="41" lem="tableau" postag="NC" morpho="g=m|n=p" head="21" dep="mod">tableaux</word>
-          <word id="42" lem="et" postag="CC" morpho="_" head="41" dep="coord">et</word>
-          <word id="43" lem="graphique" postag="NC" morpho="n=p" head="42" dep="dep_coord">graphiques</word>
-          <word id="44" lem=")" postag="PONCT" morpho="_" head="21" dep="ponct">)</word>
-          <word id="45" lem="." postag="PONCT" morpho="_" head="21" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">J.L</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Loubet</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">del</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Bayle</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="dep_coord">Police</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="8" lem="politique" postag="ADJ" morpho="n=s" head="7" dep="dep_coord">politique</word>
-          <word id="9" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">une</word>
-          <word id="2" lem="approche" postag="NC" morpho="g=f|n=s" head="0" dep="_">approche</word>
-          <word id="3" lem="sociologique" postag="ADJ" morpho="n=s" head="2" dep="mod">sociologique</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">L'</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Harmattan</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="2" dep="mod">2006</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Rumin</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">S.</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Les</word>
-          <word id="4" lem="effet" postag="NC" morpho="g=m|n=p" head="1" dep="mod">effets</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="5" dep="prep">périurbanuisation</word>
-          <word id="8" lem="sur" postag="P" morpho="_" head="4" dep="dep">sur</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="gendarmerie" postag="NC" morpho="g=f|n=s" head="8" dep="prep">gendarmerie</word>
-          <word id="11" lem="français" postag="ADJ" morpho="g=f|n=s" head="10" dep="mod">française</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="13" lem="in" postag="ADJ" morpho="_" head="14" dep="mod">in</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="1" dep="mod">CEDREA</word>
-          <word id="15" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="16" lem="les" postag="DET" morpho="n=p" head="17" dep="det">les</word>
-          <word id="17" lem="cahier" postag="NC" morpho="g=m|n=p" head="1" dep="mod">cahiers</word>
-          <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-          <word id="19" lem="dynamique" postag="NC" morpho="g=f|n=p" head="18" dep="prep">dynamiques</word>
-          <word id="20" lem="social" postag="ADJ" morpho="g=f|n=p" head="19" dep="mod">sociales</word>
-          <word id="21" lem="et" postag="CC" morpho="_" head="18" dep="coord">et</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep_coord">de</word>
-          <word id="23" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
-          <word id="24" lem="_" postag="NC" morpho="_" head="22" dep="prep">recherche-action</word>
-          <word id="25" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="26" lem="_" postag="NC" morpho="_" head="1" dep="mod">2003</word>
-          <word id="27" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="28" lem="_" postag="NPP" morpho="_" head="1" dep="mod">http://www.cedrea.net/Les-effets-de-la-periurbanisation</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -901,8 +101,8 @@ Rumin S. Les effets de la périurbanuisation sur la gendarmerie française, in C
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -920,36 +120,10 @@ Rumin S. Les effets de la périurbanuisation sur la gendarmerie française, in C
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
-      <span begin="1" end="102" />
-      <text>Par rapport aux forces de police civile, les gendarmeries disposent en plus de capacités militaires (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="items" idSE="1">
-      <span begin="102" end="153" id="0" />
-      <text id="0">par exemple, des blindés de transport de troupes ou</text>
-      <span begin="154" end="198" id="1" />
-      <text id="1">des blindés lourds avec des canons de 90 mm)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
       <span begin="1" end="580" />
       <text>Sociologie de la gendarmerie
 La sociologie des gendarmeries est une branche de la sociologie de la police. Elle étudie les caractéristiques organisationnelles et fonctionnelles des institutions gendarmiques et leur intervention dans la mise en œuvre des politiques publiques de sécurité. En France, les premiers travaux en ce domaine datent du début des années 1980, mais cette étude s'est particulièrement développée avec les travaux de François Dieu, dans le cadre du Centre d'Études et de Recherches sur la Police de l'Institut d'Études Politiques de Toulouse.
@@ -958,12 +132,12 @@ Bibliographie :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
-    <SEval type="items" idSE="2">
+    <SEval type="items" idSE="1">
       <span begin="581" end="644" id="0" />
       <text id="0">H. Lafont, P. Meyer, Le nouvel ordre gendarmique, Seuiil, 1980;</text>
       <span begin="645" end="709" id="1" />
@@ -982,46 +156,9 @@ Bibliographie :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:20</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="primer" idSE="3">
-      <span begin="1" end="552" />
-      <text>La sociologie des gendarmeries est une branche de la sociologie de la police. Elle étudie les caractéristiques organisationnelles et fonctionnelles des institutions gendarmiques et leur intervention dans la mise en œuvre des politiques publiques de sécurité. En France, les premiers travaux en ce domaine datent du début des années 1980, mais cette étude s'est particulièrement développée avec les travaux de François Dieu, dans le cadre du Centre d'Études et de Recherches sur la Police de l'Institut d'Études Politiques de Toulouse.
-Bibliographie :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:20</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="items" idSE="3">
-      <span begin="552" end="615" id="0" />
-      <text id="0">H. Lafont, P. Meyer, Le nouvel ordre gendarmique, Seuiil, 1980;</text>
-      <span begin="616" end="680" id="1" />
-      <text id="1">F. Dieu, Gendarmerie et modernité, Éditions Montchrestien, 1994;</text>
-      <span begin="681" end="751" id="2" />
-      <text id="2">F. Dieu, La gendarmerie. Secrets d'un corps, Éditions Complexe, 2002;C</text>
-      <span begin="752" end="904" id="3" />
-      <text id="3">F. Dieu, P. Mignon, Sécurité et proximité. La mission de surveillance générale de la gendarmerie, L'Harmattan, Collection « Sécurité et société », 2001.</text>
-      <span begin="905" end="1099" id="4" />
-      <text id="4">A. Lignereux, « La Paix des Champs - Gendarmerie et société dans la Sarthe (1800-1914) », in: Revue Historique et Archéologique du Maine, Le Mans, 2006, p.133-168 (ill.; tableaux et graphiques).</text>
-      <span begin="1100" end="1187" id="5" />
-      <text id="5">J.L Loubet del Bayle, Police et politique. une approche sociologique, L'Harmattan, 2006</text>
-      <span begin="1188" end="1398" id="6" />
-      <text id="6">Rumin S. Les effets de la périurbanuisation sur la gendarmerie française, in CEDREA - les cahiers des dynamiques sociales et de la recherche-action, 2003, http://www.cedrea.net/Les-effets-de-la-periurbanisation</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -1032,8 +169,8 @@ Bibliographie :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -1044,8 +181,8 @@ Bibliographie :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1056,8 +193,8 @@ Bibliographie :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -1068,8 +205,8 @@ Bibliographie :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -1080,8 +217,8 @@ Bibliographie :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -1093,46 +230,10 @@ Bibliographie :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
-      <span begin="80" end="100" id="0" />
-      <text id="0">capacités militaires</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="0">
-      <span begin="115" end="150" id="0" />
-      <text id="0">des blindés de transport de troupes</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="1">
-      <span begin="154" end="172" id="0" />
-      <text id="0">des blindés lourds</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
       <span begin="565" end="578" id="0" />
       <text id="0">Bibliographie</text>
     </SEval>
@@ -1140,8 +241,8 @@ Bibliographie :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1154,8 +255,8 @@ Bibliographie :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1168,8 +269,8 @@ Bibliographie :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1185,8 +286,8 @@ Bibliographie :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1212,21 +313,21 @@ Bibliographie :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
-      <horizontale value="1" />
-      <verticale value="0" />
+      <horizontale value="0" />
+      <verticale value="1" />
       <navigationnelle value="0" />
-      <hypertextuelle value="0" />
+      <hypertextuelle value="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1240,7 +341,7 @@ Bibliographie :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1257,81 +358,10 @@ Bibliographie :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:32</date>
+      <date>3/01/14 14:34</date>
       <document>Gendarmerie.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="2">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:34</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="2">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />
@@ -1347,77 +377,6 @@ Bibliographie :</text>
         <lexical_autre value="0" />
       </metalinguistique>
       <semantique_autre value="1" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:20</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="3">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:20</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="3">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:20</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="3">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:20</date>
-      <document>Gendarmerie.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="3">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
       <contextuelle value="0" />
     </SEval>
   </annotation>

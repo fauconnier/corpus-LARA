@@ -3,94 +3,28 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
     <SE>
       <id>0</id>
-      <text>Quelques viaducs importants
-Algérie
-Pont de Sidi Rached, Constantine
-Viaduc de Ain Chriki, Lakhdaria
-Allemagne
-Viaduc d'Altenbeken.
-Brésil
-Viaduc Silvestre da Estrada de Ferro do Corcovado, Rio de Janeiro, 1884
-Canada
-Tracel de Cap-Rouge
-États-Unis
-Pont de Kinzua
-France
-Viaduc de Barentin construit entre 1844 et 1847 sur la ligne Rouen-Le Havre
-Viaduc de Bréhec (1918), Plouézec (Côtes-d'Armor), viaduc ferroviaire détruit en 1972
-Viaduc de Calix (1974), Caen (Calvados), viaduc routier
-Viaduc de Caroual (1913), Erquy (Côtes-d'Armor), viaduc ferroviaire fermé en 1948
-Viaduc de Chaumont (1856), Chaumont (Haute-Marne), viaduc ferroviaire et piétionnier
-Viaduc de Chalifert (1993), Coupvray (Seine-et-Marne), viaduc ferroviaire long de 1175 mètres
-Viaduc de ChabenetIndre, viaduc ferroviaire enjambant la Bouzanne.
-Viaduc de Douvenant (1905) Langueux (Côtes-d'Armor), ancienne voie ferroviaire fermée
-Viaduc d'Eauplet (1915) Sotteville-lès-Rouen (Seine-Maritime), viaduc ferroviaire
-Viaduc des Fades, viaduc ferroviaire le plus haut de France et troisième plus haut du monde
-Viaduc de Garabit, viaduc ferroviaire construit par Gustave Eiffel
-Viaduc de Gennevilliers
-Viaduc de Jaulny (2005), le plus haut viaduc de la LGV Est Européenne.
-Viaduc de Meaux (2006), Quincy-Voisins et Villenoy (Seine-et-Marne), viaduc autoroutier de 1200 m
-Viaduc de Meudon, dans les Hauts-de-Seine, premier viaduc ferroviaire réalisé en France et construit sur le chemin de fer reliant la gare de Paris-Montparnasse à la gare de Versailles.
-Viaduc de Millau, viaduc autoroutier, le plus haut du monde
-Viaduc de Mirville, Seine-Maritime, viaduc ferroviaire
-Viaducs de Morez, série de viaducs ferroviaires
-Viaduc de Morlaix, Finistère, viaduc ferroviaire
-Viaduc de Nantua (Ain)
-Viaduc de la Moselle (2005), plus long viaduc de la LGV Est Européenne avec 1510 m
-Viaduc du Pays de Tulle, deuxième viaduc de France (150 m de haut)
-Viaduc des Ponts-Neufs de Hillion
-Viaduc de Rocherolles
-Viaduc de la Roizonne, dernier grand pont en maçonnerie construit en France (1926)
-Viaduc de la Recoumène
-Viaduc de Venaus
-Viaduc du Viaur
-Italie
-Viaduc Bisantis, pont traversant la vallée de la Fiumarella près de Catanzaro, en Calabre
-Monténégro
-Viaduc de Mala-Rijeka, viaduc ferroviaire, un des plus hauts du monde
-Royaume-Uni
-Viaduc de Glenfinnan en Écosse
-Suisse
-Viaduc de l'Allondon (1857)
-Viaduc de Chillon (1966-1969)
-Viaduc du Day (1867-1870)
-Viaduc de la Jonction (1945)
-Viaduc de Landwasser, viaduc ferroviaire.</text>
-      <span begin="2834" end="5319" />
-    </SE>
-    <comment>unknown</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SE>
-      <id>1</id>
       <text>Algérie
 Pont de Sidi Rached, Constantine
 Viaduc de Ain Chriki, Lakhdaria</text>
       <span begin="2862" end="2934" />
     </SE>
-    <comment />
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SE>
-      <id>2</id>
+      <id>1</id>
       <text>France
 Viaduc de Barentin construit entre 1844 et 1847 sur la ligne Rouen-Le Havre
 Viaduc de Bréhec (1918), Plouézec (Côtes-d'Armor), viaduc ferroviaire détruit en 1972
@@ -126,13 +60,13 @@ Viaduc du Viaur</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SE>
-      <id>3</id>
+      <id>2</id>
       <text>Suisse
 Viaduc de l'Allondon (1857)
 Viaduc de Chillon (1966-1969)
@@ -146,1325 +80,115 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="quelques" postag="DET" morpho="n=p" head="2" dep="det">Quelques</word>
-        <word id="2" lem="viaduc" postag="NC" morpho="g=m|n=p" head="0" dep="_">viaducs</word>
-        <word id="3" lem="important" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">importants</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Algérie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Algérie</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">Pont</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Sidi</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Rached</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="Constantine" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Constantine</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Ain" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Ain</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Chriki</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="0" dep="_">Lakhdaria</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Allemagne</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Altenbeken</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="brésil" postag="NC" morpho="g=m|n=s" head="0" dep="root">Brésil</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="Silvestre" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Silvestre</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">da</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Estrada</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Ferro</word>
-          <word id="7" lem="do" postag="NC" morpho="g=m" head="6" dep="mod">do</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Corcovado</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="10" lem="Rio" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Rio</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Janeiro</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="1" dep="mod">1884</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="canada" postag="NC" morpho="g=f" head="0" dep="_">Canada</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Tracel</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Cap-Rouge</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">États-Unis</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">Pont</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Kinzua</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Barentin" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Barentin</word>
-          <word id="4" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">construit</word>
-          <word id="5" lem="entre" postag="P" morpho="_" head="4" dep="mod">entre</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="prep">1844</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="7" dep="dep_coord">1847</word>
-          <word id="9" lem="sur" postag="P" morpho="_" head="4" dep="mod">sur</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="ligne" postag="NC" morpho="g=f|n=s" head="9" dep="prep">ligne</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Rouen-Le</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Havre</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Bréhec</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1918</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Plouézec</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Côtes-d'</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Armor</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="15" lem="ferroviaire" postag="ADJ" morpho="n=s" head="14" dep="mod">ferroviaire</word>
-          <word id="16" lem="détruire" postag="VPP" morpho="g=m|n=s|t=past" head="14" dep="mod">détruit</word>
-          <word id="17" lem="en" postag="P" morpho="_" head="16" dep="mod">en</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1972</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Calix" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Calix</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1974</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="Caen" postag="NPP" morpho="g=m|n=s" head="7" dep="dep_coord">Caen</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="calvados" postag="NC" morpho="g=m" head="8" dep="mod">Calvados</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="13" lem="viaduc" postag="NC" morpho="g=m|n=s" head="8" dep="mod">viaduc</word>
-          <word id="14" lem="routier" postag="ADJ" morpho="g=m|n=s" head="13" dep="mod">routier</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Caroual" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Caroual</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1913</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="Erquy" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Erquy</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Côtes-d'</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Armor</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="15" lem="ferroviaire" postag="ADJ" morpho="n=s" head="14" dep="mod">ferroviaire</word>
-          <word id="16" lem="fermer" postag="VPP" morpho="g=m|n=s|t=past" head="14" dep="mod">fermé</word>
-          <word id="17" lem="en" postag="P" morpho="_" head="16" dep="mod">en</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1948</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Chaumont" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Chaumont</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1856</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="Chaumont" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Chaumont</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Haute-Marne</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="13" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="14" lem="ferroviaire" postag="ADJ" morpho="n=s" head="13" dep="mod">ferroviaire</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
-          <word id="16" lem="_" postag="ADJ" morpho="_" head="15" dep="dep_coord">piétionnier</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Chalifert" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Chalifert</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1993</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="Coupvray" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Coupvray</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Seine-et-Marne</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="13" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="14" lem="ferroviaire" postag="ADJ" morpho="n=s" head="13" dep="mod">ferroviaire</word>
-          <word id="15" lem="long" postag="ADJ" morpho="g=m|n=s" head="13" dep="mod">long</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="17" lem="#NUM#" postag="DET" morpho="n=p" head="18" dep="det">1175</word>
-          <word id="18" lem="mètre" postag="NC" morpho="g=m|n=p" head="16" dep="prep">mètres</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">ChabenetIndre</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="ferroviaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ferroviaire</word>
-          <word id="7" lem="enjamber" postag="VPR" morpho="t=pst" head="5" dep="mod">enjambant</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="obj">Bouzanne</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Douvenant</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1905</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="Langueux" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Langueux</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Côtes-d'</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Armor</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="13" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="14" dep="mod">ancienne</word>
-          <word id="14" lem="voie" postag="NC" morpho="g=f|n=s" head="7" dep="mod">voie</word>
-          <word id="15" lem="ferroviaire" postag="ADJ" morpho="n=s" head="14" dep="mod">ferroviaire</word>
-          <word id="16" lem="fermer" postag="ADJ" morpho="g=f|n=s|t=past" head="14" dep="mod">fermée</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Eauplet</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1915</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="0" dep="_">Sotteville-lès-Rouen</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Seine-Maritime</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="12" lem="viaduc" postag="NC" morpho="g=m|n=s" head="7" dep="mod">viaduc</word>
-          <word id="13" lem="ferroviaire" postag="ADJ" morpho="n=s" head="12" dep="mod">ferroviaire</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Fades</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="ferroviaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ferroviaire</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="8" lem="plus" postag="ADV" morpho="_" head="9" dep="mod">plus</word>
-          <word id="9" lem="haut" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">haut</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="mod">de</word>
-          <word id="11" lem="France" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">France</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="13" lem="troisième" postag="ADJ" morpho="n=p" head="12" dep="dep_coord">troisième</word>
-          <word id="14" lem="plus" postag="ADV" morpho="_" head="15" dep="mod">plus</word>
-          <word id="15" lem="haut" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">haut</word>
-          <word id="16" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="17" lem="monde" postag="NC" morpho="g=m|n=s" head="16" dep="prep">monde</word>
-        </sentence>
-        <sentence id="12">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Garabit" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Garabit</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="ferroviaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ferroviaire</word>
-          <word id="7" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">construit</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
-          <word id="9" lem="Gustave" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Gustave</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Eiffel</word>
-        </sentence>
-        <sentence id="13">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Gennevilliers" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Gennevilliers</word>
-        </sentence>
-        <sentence id="14">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Jaulny" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Jaulny</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">2005</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="11" dep="det">le</word>
-          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
-          <word id="10" lem="haut" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">haut</word>
-          <word id="11" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="prep">LGV</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Est</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Européenne</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="15">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Meaux" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Meaux</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">2006</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="Quincy-Voisins" postag="NPP" morpho="g=m|n=s" head="7" dep="dep_coord">Quincy-Voisins</word>
-          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-          <word id="10" lem="Villenoy" postag="NPP" morpho="g=m|n=s" head="9" dep="dep_coord">Villenoy</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Seine-et-Marne</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="15" lem="viaduc" postag="NC" morpho="g=m|n=s" head="8" dep="mod">viaduc</word>
-          <word id="16" lem="autoroutier" postag="ADJ" morpho="g=m|n=s" head="15" dep="mod">autoroutier</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1200</word>
-          <word id="19" lem="_" postag="NC" morpho="_" head="18" dep="mod">m</word>
-        </sentence>
-        <sentence id="16">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Meudon" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Meudon</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
-          <word id="7" lem="Hauts-de-Seine" postag="NPP" morpho="g=m|n=p" head="5" dep="prep">Hauts-de-Seine</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="9" lem="premier" postag="ADJ" morpho="n=p" head="10" dep="mod">premier</word>
-          <word id="10" lem="viaduc" postag="NC" morpho="g=m|n=s" head="7" dep="mod">viaduc</word>
-          <word id="11" lem="ferroviaire" postag="ADJ" morpho="n=s" head="10" dep="mod">ferroviaire</word>
-          <word id="12" lem="réaliser" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">réalisé</word>
-          <word id="13" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-          <word id="14" lem="France" postag="NPP" morpho="g=m|n=s" head="13" dep="prep">France</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
-          <word id="16" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="15" dep="dep_coord">construit</word>
-          <word id="17" lem="sur" postag="P" morpho="_" head="16" dep="mod">sur</word>
-          <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
-          <word id="19" lem="chemin" postag="NC" morpho="g=m|n=s" head="17" dep="prep">chemin</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
-          <word id="21" lem="fer" postag="NC" morpho="g=m|n=s" head="20" dep="prep">fer</word>
-          <word id="22" lem="relier" postag="VPR" morpho="t=pst" head="19" dep="mod">reliant</word>
-          <word id="23" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
-          <word id="24" lem="gare" postag="NC" morpho="g=f|n=s" head="22" dep="obj">gare</word>
-          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">de</word>
-          <word id="26" lem="_" postag="NPP" morpho="_" head="25" dep="prep">Paris-Montparnasse</word>
-          <word id="27" lem="à" postag="P" morpho="_" head="22" dep="a_obj">à</word>
-          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
-          <word id="29" lem="gare" postag="NC" morpho="g=f|n=s" head="27" dep="prep">gare</word>
-          <word id="30" lem="de" postag="P" morpho="_" head="29" dep="dep">de</word>
-          <word id="31" lem="Versailles" postag="NPP" morpho="g=m|n=s" head="30" dep="prep">Versailles</word>
-          <word id="32" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="17">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Millau" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Millau</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="autoroutier" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">autoroutier</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
-          <word id="10" lem="haut" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">haut</word>
-          <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="mod">du</word>
-          <word id="12" lem="monde" postag="NC" morpho="g=m|n=s" head="11" dep="prep">monde</word>
-        </sentence>
-        <sentence id="18">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Mirville" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Mirville</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Seine-Maritime" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Seine-Maritime</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="8" lem="ferroviaire" postag="ADJ" morpho="n=s" head="7" dep="mod">ferroviaire</word>
-        </sentence>
-        <sentence id="19">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Viaducs</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Morez" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Morez</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="série" postag="NC" morpho="g=f|n=s" head="1" dep="mod">série</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="viaduc" postag="NC" morpho="g=m|n=p" head="6" dep="prep">viaducs</word>
-          <word id="8" lem="ferroviaire" postag="ADJ" morpho="n=p" head="7" dep="mod">ferroviaires</word>
-        </sentence>
-        <sentence id="20">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Morlaix" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Morlaix</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Finistère" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Finistère</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="8" lem="ferroviaire" postag="ADJ" morpho="n=s" head="7" dep="mod">ferroviaire</word>
-        </sentence>
-        <sentence id="21">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Nantua" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Nantua</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="5" lem="Ain" postag="NPP" morpho="g=m|n=s" head="3" dep="mod">Ain</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        </sentence>
-        <sentence id="22">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Moselle</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="mod">2005</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
-          <word id="10" lem="long" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">long</word>
-          <word id="11" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="prep">LGV</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Est</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Européenne</word>
-          <word id="17" lem="avec" postag="P" morpho="_" head="1" dep="dep">avec</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1510</word>
-          <word id="19" lem="_" postag="NC" morpho="_" head="18" dep="mod">m</word>
-        </sentence>
-        <sentence id="23">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Pays</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Tulle" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Tulle</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="deuxième" postag="ADJ" morpho="n=p" head="8" dep="mod">deuxième</word>
-          <word id="8" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="France" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">France</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="12" lem="#NUM#" postag="DET" morpho="n=p" head="13" dep="det">150</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="8" dep="mod">m</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="haut" postag="NC" morpho="g=m|n=s" head="14" dep="prep">haut</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-        </sentence>
-        <sentence id="24">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Ponts-Neufs</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Hillion" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Hillion</word>
-        </sentence>
-        <sentence id="25">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Rocherolles</word>
-        </sentence>
-        <sentence id="26">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Roizonne</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="dernier" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">dernier</word>
-          <word id="7" lem="grand" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">grand</word>
-          <word id="8" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">pont</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="8" dep="dep">en</word>
-          <word id="10" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="9" dep="prep">maçonnerie</word>
-          <word id="11" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="mod">construit</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="13" lem="France" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">France</word>
-          <word id="14" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="15" lem="_" postag="NC" morpho="_" head="8" dep="mod">1926</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-        </sentence>
-        <sentence id="27">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="prep">Recoumène</word>
-        </sentence>
-        <sentence id="28">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Venaus</word>
-        </sentence>
-        <sentence id="29">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Viaur</word>
-        </sentence>
-        <sentence id="30">
-          <word id="1" lem="Italie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Italie</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="Italie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Italie</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Bisantis</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="pont" postag="NC" morpho="g=m|n=s" head="1" dep="mod">pont</word>
-          <word id="5" lem="traverser" postag="VPR" morpho="t=pst" head="1" dep="mod">traversant</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="vallée" postag="NC" morpho="g=f|n=s" head="5" dep="obj">vallée</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Fiumarella</word>
-          <word id="11" lem="près_de" postag="P" morpho="_" head="5" dep="mod">près_de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Catanzaro</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="15" lem="_" postag="NC" morpho="_" head="14" dep="prep">Calabre</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Monténégro</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Mala-Rijeka</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="ferroviaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ferroviaire</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-          <word id="8" lem="un" postag="PRO" morpho="g=m|n=s" head="5" dep="mod">un</word>
-          <word id="9" lem="de" postag="P+D" morpho="n=p" head="8" dep="dep">des</word>
-          <word id="10" lem="plus" postag="ADV" morpho="_" head="11" dep="mod">plus</word>
-          <word id="11" lem="haut" postag="ADJ" morpho="g=m|n=p" head="9" dep="prep">hauts</word>
-          <word id="12" lem="de" postag="P+D" morpho="g=m|n=s" head="11" dep="mod">du</word>
-          <word id="13" lem="monde" postag="NC" morpho="g=m|n=s" head="12" dep="prep">monde</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Royaume-Uni</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Glenfinnan</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="Écosse" postag="NPP" morpho="g=f|n=s" head="4" dep="prep">Écosse</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="suisse" postag="ADJ" morpho="n=s" head="0" dep="_">Suisse</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Allondon</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="mod">1857</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Chillon</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="mod">1966-1969</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Day</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="mod">1867-1870</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Jonction</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="mod">1945</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Landwasser</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="ferroviaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ferroviaire</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="Algérie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Algérie</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">Pont</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Sidi</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Rached</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="Constantine" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Constantine</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Ain" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Ain</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">Chriki</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="0" dep="_">Lakhdaria</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
+      <item id="13" />
+      <item id="14" />
+      <item id="15" />
+      <item id="16" />
+      <item id="17" />
+      <item id="18" />
+      <item id="19" />
+      <item id="20" />
+      <item id="21" />
+      <item id="22" />
+      <item id="23" />
+      <item id="24" />
+      <item id="25" />
+      <item id="26" />
+      <item id="27" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Barentin" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Barentin</word>
-          <word id="4" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">construit</word>
-          <word id="5" lem="entre" postag="P" morpho="_" head="4" dep="mod">entre</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="prep">1844</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="6" dep="coord">et</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="7" dep="dep_coord">1847</word>
-          <word id="9" lem="sur" postag="P" morpho="_" head="4" dep="mod">sur</word>
-          <word id="10" lem="la" postag="DET" morpho="g=f|n=s" head="11" dep="det">la</word>
-          <word id="11" lem="ligne" postag="NC" morpho="g=f|n=s" head="9" dep="prep">ligne</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Rouen-Le</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Havre</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Bréhec</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1918</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Plouézec</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Côtes-d'</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Armor</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="15" lem="ferroviaire" postag="ADJ" morpho="n=s" head="14" dep="mod">ferroviaire</word>
-          <word id="16" lem="détruire" postag="VPP" morpho="g=m|n=s|t=past" head="14" dep="mod">détruit</word>
-          <word id="17" lem="en" postag="P" morpho="_" head="16" dep="mod">en</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1972</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Calix" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Calix</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1974</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="Caen" postag="NPP" morpho="g=m|n=s" head="7" dep="dep_coord">Caen</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="calvados" postag="NC" morpho="g=m" head="8" dep="mod">Calvados</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="13" lem="viaduc" postag="NC" morpho="g=m|n=s" head="8" dep="mod">viaduc</word>
-          <word id="14" lem="routier" postag="ADJ" morpho="g=m|n=s" head="13" dep="mod">routier</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Caroual" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Caroual</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1913</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="Erquy" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Erquy</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Côtes-d'</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Armor</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="14" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="15" lem="ferroviaire" postag="ADJ" morpho="n=s" head="14" dep="mod">ferroviaire</word>
-          <word id="16" lem="fermer" postag="VPP" morpho="g=m|n=s|t=past" head="14" dep="mod">fermé</word>
-          <word id="17" lem="en" postag="P" morpho="_" head="16" dep="mod">en</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1948</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Chaumont" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Chaumont</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1856</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="Chaumont" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Chaumont</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Haute-Marne</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="13" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="14" lem="ferroviaire" postag="ADJ" morpho="n=s" head="13" dep="mod">ferroviaire</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
-          <word id="16" lem="_" postag="ADJ" morpho="_" head="15" dep="dep_coord">piétionnier</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Chalifert" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Chalifert</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1993</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="Coupvray" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Coupvray</word>
-          <word id="9" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Seine-et-Marne</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="13" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="14" lem="ferroviaire" postag="ADJ" morpho="n=s" head="13" dep="mod">ferroviaire</word>
-          <word id="15" lem="long" postag="ADJ" morpho="g=m|n=s" head="13" dep="mod">long</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="17" lem="#NUM#" postag="DET" morpho="n=p" head="18" dep="det">1175</word>
-          <word id="18" lem="mètre" postag="NC" morpho="g=m|n=p" head="16" dep="prep">mètres</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">ChabenetIndre</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="ferroviaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ferroviaire</word>
-          <word id="7" lem="enjamber" postag="VPR" morpho="t=pst" head="5" dep="mod">enjambant</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="obj">Bouzanne</word>
-          <word id="10" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Douvenant</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1905</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="Langueux" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Langueux</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Côtes-d'</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Armor</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="13" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="14" dep="mod">ancienne</word>
-          <word id="14" lem="voie" postag="NC" morpho="g=f|n=s" head="7" dep="mod">voie</word>
-          <word id="15" lem="ferroviaire" postag="ADJ" morpho="n=s" head="14" dep="mod">ferroviaire</word>
-          <word id="16" lem="fermer" postag="ADJ" morpho="g=f|n=s|t=past" head="14" dep="mod">fermée</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Eauplet</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">1915</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="0" dep="_">Sotteville-lès-Rouen</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="7" dep="ponct">(</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="7" dep="mod">Seine-Maritime</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="7" dep="ponct">)</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="12" lem="viaduc" postag="NC" morpho="g=m|n=s" head="7" dep="mod">viaduc</word>
-          <word id="13" lem="ferroviaire" postag="ADJ" morpho="n=s" head="12" dep="mod">ferroviaire</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Fades</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="ferroviaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ferroviaire</word>
-          <word id="7" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="8" lem="plus" postag="ADV" morpho="_" head="9" dep="mod">plus</word>
-          <word id="9" lem="haut" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">haut</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="mod">de</word>
-          <word id="11" lem="France" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">France</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="9" dep="coord">et</word>
-          <word id="13" lem="troisième" postag="ADJ" morpho="n=p" head="12" dep="dep_coord">troisième</word>
-          <word id="14" lem="plus" postag="ADV" morpho="_" head="15" dep="mod">plus</word>
-          <word id="15" lem="haut" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">haut</word>
-          <word id="16" lem="de" postag="P+D" morpho="g=m|n=s" head="5" dep="dep">du</word>
-          <word id="17" lem="monde" postag="NC" morpho="g=m|n=s" head="16" dep="prep">monde</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Garabit" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Garabit</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="ferroviaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ferroviaire</word>
-          <word id="7" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">construit</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="p_obj">par</word>
-          <word id="9" lem="Gustave" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Gustave</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Eiffel</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Gennevilliers" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Gennevilliers</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Jaulny" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Jaulny</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">2005</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="11" dep="det">le</word>
-          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
-          <word id="10" lem="haut" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">haut</word>
-          <word id="11" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="prep">LGV</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Est</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Européenne</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="13">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Meaux" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Meaux</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="1" dep="mod">2006</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="Quincy-Voisins" postag="NPP" morpho="g=m|n=s" head="7" dep="dep_coord">Quincy-Voisins</word>
-          <word id="9" lem="et" postag="CC" morpho="_" head="8" dep="coord">et</word>
-          <word id="10" lem="Villenoy" postag="NPP" morpho="g=m|n=s" head="9" dep="dep_coord">Villenoy</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Seine-et-Marne</word>
-          <word id="13" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="15" lem="viaduc" postag="NC" morpho="g=m|n=s" head="8" dep="mod">viaduc</word>
-          <word id="16" lem="autoroutier" postag="ADJ" morpho="g=m|n=s" head="15" dep="mod">autoroutier</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1200</word>
-          <word id="19" lem="_" postag="NC" morpho="_" head="18" dep="mod">m</word>
-        </sentence>
-      </item>
-      <item id="14">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Meudon" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Meudon</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
-          <word id="7" lem="Hauts-de-Seine" postag="NPP" morpho="g=m|n=p" head="5" dep="prep">Hauts-de-Seine</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="9" lem="premier" postag="ADJ" morpho="n=p" head="10" dep="mod">premier</word>
-          <word id="10" lem="viaduc" postag="NC" morpho="g=m|n=s" head="7" dep="mod">viaduc</word>
-          <word id="11" lem="ferroviaire" postag="ADJ" morpho="n=s" head="10" dep="mod">ferroviaire</word>
-          <word id="12" lem="réaliser" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">réalisé</word>
-          <word id="13" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-          <word id="14" lem="France" postag="NPP" morpho="g=m|n=s" head="13" dep="prep">France</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="12" dep="coord">et</word>
-          <word id="16" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="15" dep="dep_coord">construit</word>
-          <word id="17" lem="sur" postag="P" morpho="_" head="16" dep="mod">sur</word>
-          <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
-          <word id="19" lem="chemin" postag="NC" morpho="g=m|n=s" head="17" dep="prep">chemin</word>
-          <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
-          <word id="21" lem="fer" postag="NC" morpho="g=m|n=s" head="20" dep="prep">fer</word>
-          <word id="22" lem="relier" postag="VPR" morpho="t=pst" head="19" dep="mod">reliant</word>
-          <word id="23" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
-          <word id="24" lem="gare" postag="NC" morpho="g=f|n=s" head="22" dep="obj">gare</word>
-          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">de</word>
-          <word id="26" lem="_" postag="NPP" morpho="_" head="25" dep="prep">Paris-Montparnasse</word>
-          <word id="27" lem="à" postag="P" morpho="_" head="22" dep="a_obj">à</word>
-          <word id="28" lem="la" postag="DET" morpho="g=f|n=s" head="29" dep="det">la</word>
-          <word id="29" lem="gare" postag="NC" morpho="g=f|n=s" head="27" dep="prep">gare</word>
-          <word id="30" lem="de" postag="P" morpho="_" head="29" dep="dep">de</word>
-          <word id="31" lem="Versailles" postag="NPP" morpho="g=m|n=s" head="30" dep="prep">Versailles</word>
-          <word id="32" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="15">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Millau" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Millau</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="autoroutier" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">autoroutier</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
-          <word id="10" lem="haut" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">haut</word>
-          <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="mod">du</word>
-          <word id="12" lem="monde" postag="NC" morpho="g=m|n=s" head="11" dep="prep">monde</word>
-        </sentence>
-      </item>
-      <item id="16">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Mirville" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Mirville</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Seine-Maritime" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Seine-Maritime</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="8" lem="ferroviaire" postag="ADJ" morpho="n=s" head="7" dep="mod">ferroviaire</word>
-        </sentence>
-      </item>
-      <item id="17">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=p" head="0" dep="_">Viaducs</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Morez" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Morez</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="série" postag="NC" morpho="g=f|n=s" head="1" dep="mod">série</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="viaduc" postag="NC" morpho="g=m|n=p" head="6" dep="prep">viaducs</word>
-          <word id="8" lem="ferroviaire" postag="ADJ" morpho="n=p" head="7" dep="mod">ferroviaires</word>
-        </sentence>
-      </item>
-      <item id="18">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Morlaix" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Morlaix</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Finistère" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Finistère</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="8" lem="ferroviaire" postag="ADJ" morpho="n=s" head="7" dep="mod">ferroviaire</word>
-        </sentence>
-      </item>
-      <item id="19">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Nantua" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Nantua</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="5" lem="Ain" postag="NPP" morpho="g=m|n=s" head="3" dep="mod">Ain</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="20">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Moselle</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="mod">2005</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="plus" postag="ADV" morpho="_" head="10" dep="mod">plus</word>
-          <word id="10" lem="long" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">long</word>
-          <word id="11" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="la" postag="DET" morpho="g=f|n=s" head="14" dep="det">la</word>
-          <word id="14" lem="_" postag="NPP" morpho="_" head="12" dep="prep">LGV</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Est</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="mod">Européenne</word>
-          <word id="17" lem="avec" postag="P" morpho="_" head="1" dep="dep">avec</word>
-          <word id="18" lem="_" postag="NC" morpho="_" head="17" dep="prep">1510</word>
-          <word id="19" lem="_" postag="NC" morpho="_" head="18" dep="mod">m</word>
-        </sentence>
-      </item>
-      <item id="21">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Pays</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Tulle" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Tulle</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="deuxième" postag="ADJ" morpho="n=p" head="8" dep="mod">deuxième</word>
-          <word id="8" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="France" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">France</word>
-          <word id="11" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="12" lem="#NUM#" postag="DET" morpho="n=p" head="13" dep="det">150</word>
-          <word id="13" lem="_" postag="NC" morpho="_" head="8" dep="mod">m</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="haut" postag="NC" morpho="g=m|n=s" head="14" dep="prep">haut</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="22">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Ponts-Neufs</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="Hillion" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Hillion</word>
-        </sentence>
-      </item>
-      <item id="23">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Rocherolles</word>
-        </sentence>
-      </item>
-      <item id="24">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Roizonne</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="dernier" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">dernier</word>
-          <word id="7" lem="grand" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">grand</word>
-          <word id="8" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">pont</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="8" dep="dep">en</word>
-          <word id="10" lem="maçonnerie" postag="NC" morpho="g=f|n=s" head="9" dep="prep">maçonnerie</word>
-          <word id="11" lem="construire" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="mod">construit</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="13" lem="France" postag="NPP" morpho="g=m|n=s" head="12" dep="prep">France</word>
-          <word id="14" lem="(" postag="PONCT" morpho="_" head="8" dep="ponct">(</word>
-          <word id="15" lem="_" postag="NC" morpho="_" head="8" dep="mod">1926</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="8" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="25">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="prep">Recoumène</word>
-        </sentence>
-      </item>
-      <item id="26">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Venaus</word>
-        </sentence>
-      </item>
-      <item id="27">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Viaur</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="suisse" postag="ADJ" morpho="n=s" head="0" dep="_">Suisse</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Allondon</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="mod">1857</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Chillon</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="mod">1966-1969</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Day</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="mod">1867-1870</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Jonction</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="mod">1945</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Jonction</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="4" dep="mod">1945</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="viaduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">Viaduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Landwasser</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="viaduc" postag="NC" morpho="g=m|n=s" head="1" dep="mod">viaduc</word>
-          <word id="6" lem="ferroviaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ferroviaire</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
-      <span begin="1" end="28" />
-      <text>Quelques viaducs importants</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="items" idSE="0">
-      <span begin="29" end="102" id="0" />
-      <text id="0">Algérie
-Pont de Sidi Rached, Constantine
-Viaduc de Ain Chriki, Lakhdaria</text>
-      <span begin="102" end="132" id="1" />
-      <text id="1">Allemagne
-Viaduc d'Altenbeken.</text>
-      <span begin="133" end="211" id="2" />
-      <text id="2">Brésil
-Viaduc Silvestre da Estrada de Ferro do Corcovado, Rio de Janeiro, 1884</text>
-      <span begin="212" end="238" id="3" />
-      <text id="3">Canada
-Tracel de Cap-Rouge</text>
-      <span begin="239" end="264" id="4" />
-      <text id="4">États-Unis
-Pont de Kinzua</text>
-      <span begin="265" end="2109" id="5" />
-      <text id="5">France
-Viaduc de Barentin construit entre 1844 et 1847 sur la ligne Rouen-Le Havre
-Viaduc de Bréhec (1918), Plouézec (Côtes-d'Armor), viaduc ferroviaire détruit en 1972
-Viaduc de Calix (1974), Caen (Calvados), viaduc routier
-Viaduc de Caroual (1913), Erquy (Côtes-d'Armor), viaduc ferroviaire fermé en 1948
-Viaduc de Chaumont (1856), Chaumont (Haute-Marne), viaduc ferroviaire et piétionnier
-Viaduc de Chalifert (1993), Coupvray (Seine-et-Marne), viaduc ferroviaire long de 1175 mètres
-Viaduc de ChabenetIndre, viaduc ferroviaire enjambant la Bouzanne.
-Viaduc de Douvenant (1905) Langueux (Côtes-d'Armor), ancienne voie ferroviaire fermée
-Viaduc d'Eauplet (1915) Sotteville-lès-Rouen (Seine-Maritime), viaduc ferroviaire
-Viaduc des Fades, viaduc ferroviaire le plus haut de France et troisième plus haut du monde
-Viaduc de Garabit, viaduc ferroviaire construit par Gustave Eiffel
-Viaduc de Gennevilliers
-Viaduc de Jaulny (2005), le plus haut viaduc de la LGV Est Européenne.
-Viaduc de Meaux (2006), Quincy-Voisins et Villenoy (Seine-et-Marne), viaduc autoroutier de 1200 m
-Viaduc de Meudon, dans les Hauts-de-Seine, premier viaduc ferroviaire réalisé en France et construit sur le chemin de fer reliant la gare de Paris-Montparnasse à la gare de Versailles.
-Viaduc de Millau, viaduc autoroutier, le plus haut du monde
-Viaduc de Mirville, Seine-Maritime, viaduc ferroviaire
-Viaducs de Morez, série de viaducs ferroviaires
-Viaduc de Morlaix, Finistère, viaduc ferroviaire
-Viaduc de Nantua (Ain)
-Viaduc de la Moselle (2005), plus long viaduc de la LGV Est Européenne avec 1510 m
-Viaduc du Pays de Tulle, deuxième viaduc de France (150 m de haut)
-Viaduc des Ponts-Neufs de Hillion
-Viaduc de Rocherolles
-Viaduc de la Roizonne, dernier grand pont en maçonnerie construit en France (1926)
-Viaduc de la Recoumène
-Viaduc de Venaus
-Viaduc du Viaur
-Italie</text>
-      <span begin="2103" end="2199" id="6" />
-      <text id="6">Italie
-Viaduc Bisantis, pont traversant la vallée de la Fiumarella près de Catanzaro, en Calabre</text>
-      <span begin="2200" end="2280" id="7" />
-      <text id="7">Monténégro
-Viaduc de Mala-Rijeka, viaduc ferroviaire, un des plus hauts du monde</text>
-      <span begin="2281" end="2323" id="8" />
-      <text id="8">Royaume-Uni
-Viaduc de Glenfinnan en Écosse</text>
-      <span begin="2324" end="2485" id="9" />
-      <text id="9">Suisse
-Viaduc de l'Allondon (1857)
-Viaduc de Chillon (1966-1969)
-Viaduc du Day (1867-1870)
-Viaduc de la Jonction (1945)
-Viaduc de Landwasser, viaduc ferroviaire.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="primer" idSE="1">
       <span begin="1" end="8" />
       <text>Algérie</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="items" idSE="1">
+    <SEval type="items" idSE="0">
       <span begin="9" end="41" id="0" />
       <text id="0">Pont de Sidi Rached, Constantine</text>
       <span begin="42" end="73" id="1" />
@@ -1473,24 +197,24 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="primer" idSE="2">
+    <SEval type="primer" idSE="1">
       <span begin="1" end="7" />
       <text>France</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="items" idSE="2">
+    <SEval type="items" idSE="1">
       <span begin="8" end="83" id="0" />
       <text id="0">Viaduc de Barentin construit entre 1844 et 1847 sur la ligne Rouen-Le Havre</text>
       <span begin="84" end="169" id="1" />
@@ -1551,24 +275,24 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="primer" idSE="3">
+    <SEval type="primer" idSE="2">
       <span begin="1" end="7" />
       <text>Suisse</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="2">
       <span begin="8" end="35" id="0" />
       <text id="0">Viaduc de l'Allondon (1857)</text>
       <span begin="36" end="65" id="1" />
@@ -1585,747 +309,623 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
-      <span begin="10" end="28" id="0" />
-      <text id="0">viaducs importants</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
-      <span begin="29" end="36" id="0" />
-      <text id="0">Algérie</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="1">
-      <span begin="102" end="111" id="0" />
-      <text id="0">Allemagne</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="2">
-      <span begin="133" end="139" id="0" />
-      <text id="0">Brésil</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="3">
-      <span begin="212" end="218" id="0" />
-      <text id="0">Canada</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="4">
-      <span begin="239" end="249" id="0" />
-      <text id="0">États-Unis</text>
-      <span begin="239" end="249" id="1" />
-      <text id="1">États-Unis</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="5">
-      <span begin="265" end="271" id="0" />
-      <text id="0">France</text>
-      <span begin="2103" end="2109" id="1" />
-      <text id="1">Italie</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="7">
-      <span begin="2200" end="2210" id="0" />
-      <text id="0">Monténégro</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="8">
-      <span begin="2281" end="2292" id="0" />
-      <text id="0">Royaume-Uni</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="0" localisation="item" idItem="9">
-      <span begin="2324" end="2330" id="0" />
-      <text id="0">Suisse</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="9" end="28" id="0" />
       <text id="0">Pont de Sidi Rached</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
       <span begin="42" end="63" id="0" />
       <text id="0">Viaduc de Ain Chriki,</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
       <span begin="1" end="8" id="0" />
       <text id="0">Algérie</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
       <span begin="30" end="41" id="0" />
       <text id="0">Constantine</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
+    <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
       <span begin="63" end="73" id="0" />
       <text id="0">Lakhdaria</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="8" end="27" id="0" />
       <text id="0">Viaduc de Barentin</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
       <span begin="84" end="100" id="0" />
       <text id="0">Viaduc de Bréhec</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+    <SEval type="concept" idSE="1" localisation="item" idItem="2">
       <span begin="170" end="185" id="0" />
       <text id="0">Viaduc de Calix</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="3">
+    <SEval type="concept" idSE="1" localisation="item" idItem="3">
       <span begin="226" end="243" id="0" />
       <text id="0">Viaduc de Caroual</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="4">
+    <SEval type="concept" idSE="1" localisation="item" idItem="4">
       <span begin="308" end="326" id="0" />
       <text id="0">Viaduc de Chaumont</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="5">
+    <SEval type="concept" idSE="1" localisation="item" idItem="5">
       <span begin="393" end="413" id="0" />
       <text id="0">Viaduc de Chalifert</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="6">
+    <SEval type="concept" idSE="1" localisation="item" idItem="6">
       <span begin="487" end="510" id="0" />
       <text id="0">Viaduc de ChabenetIndre</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="7">
+    <SEval type="concept" idSE="1" localisation="item" idItem="7">
       <span begin="554" end="572" id="0" />
       <text id="0">Viaduc de Douvenan</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="8">
+    <SEval type="concept" idSE="1" localisation="item" idItem="8">
       <span begin="640" end="656" id="0" />
       <text id="0">Viaduc d'Eauplet</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="9">
+    <SEval type="concept" idSE="1" localisation="item" idItem="9">
       <span begin="722" end="738" id="0" />
       <text id="0">Viaduc des Fades</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="10">
+    <SEval type="concept" idSE="1" localisation="item" idItem="10">
       <span begin="814" end="831" id="0" />
       <text id="0">Viaduc de Garabit</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="11">
+    <SEval type="concept" idSE="1" localisation="item" idItem="11">
       <span begin="881" end="904" id="0" />
       <text id="0">Viaduc de Gennevilliers</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="12">
+    <SEval type="concept" idSE="1" localisation="item" idItem="12">
       <span begin="905" end="922" id="0" />
       <text id="0">Viaduc de Jaulny</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="13">
+    <SEval type="concept" idSE="1" localisation="item" idItem="13">
       <span begin="976" end="991" id="0" />
       <text id="0">Viaduc de Meaux</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="14">
+    <SEval type="concept" idSE="1" localisation="item" idItem="14">
       <span begin="1074" end="1090" id="0" />
       <text id="0">Viaduc de Meudon</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="15">
+    <SEval type="concept" idSE="1" localisation="item" idItem="15">
       <span begin="1259" end="1275" id="0" />
       <text id="0">Viaduc de Millau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="16">
+    <SEval type="concept" idSE="1" localisation="item" idItem="16">
       <span begin="1319" end="1337" id="0" />
       <text id="0">Viaduc de Mirville</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="17">
+    <SEval type="concept" idSE="1" localisation="item" idItem="17">
       <span begin="1374" end="1390" id="0" />
       <text id="0">Viaducs de Morez</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="18">
+    <SEval type="concept" idSE="1" localisation="item" idItem="18">
       <span begin="1422" end="1439" id="0" />
       <text id="0">Viaduc de Morlaix</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="19">
+    <SEval type="concept" idSE="1" localisation="item" idItem="19">
       <span begin="1471" end="1487" id="0" />
       <text id="0">Viaduc de Nantua</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="20">
+    <SEval type="concept" idSE="1" localisation="item" idItem="20">
       <span begin="1494" end="1514" id="0" />
       <text id="0">Viaduc de la Moselle</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="21">
+    <SEval type="concept" idSE="1" localisation="item" idItem="21">
       <span begin="1577" end="1600" id="0" />
       <text id="0">Viaduc du Pays de Tulle</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="22">
+    <SEval type="concept" idSE="1" localisation="item" idItem="22">
       <span begin="1644" end="1677" id="0" />
       <text id="0">Viaduc des Ponts-Neufs de Hillion</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="23">
+    <SEval type="concept" idSE="1" localisation="item" idItem="23">
       <span begin="1678" end="1699" id="0" />
       <text id="0">Viaduc de Rocherolles</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="24">
+    <SEval type="concept" idSE="1" localisation="item" idItem="24">
       <span begin="1700" end="1721" id="0" />
       <text id="0">Viaduc de la Roizonne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="25">
+    <SEval type="concept" idSE="1" localisation="item" idItem="25">
       <span begin="1783" end="1805" id="0" />
       <text id="0">Viaduc de la Recoumène</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="26">
+    <SEval type="concept" idSE="1" localisation="item" idItem="26">
       <span begin="1806" end="1822" id="0" />
       <text id="0">Viaduc de Venaus</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="27">
+    <SEval type="concept" idSE="1" localisation="item" idItem="27">
       <span begin="1823" end="1838" id="0" />
       <text id="0">Viaduc du Viaur</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
       <span begin="1" end="7" id="0" />
       <text id="0">France</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="1">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
       <span begin="109" end="133" id="0" />
       <text id="0">Plouézec (Côtes-d'Armor)</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="2">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
       <span begin="194" end="209" id="0" />
       <text id="0">Caen (Calvados)</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="3">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="3">
       <span begin="252" end="273" id="0" />
       <text id="0">Erquy (Côtes-d'Armor)</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="4">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="4">
       <span begin="335" end="357" id="0" />
       <text id="0">Chaumont (Haute-Marne)</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="5">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="5">
       <span begin="421" end="446" id="0" />
       <text id="0">Coupvray (Seine-et-Marne)</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="7">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="7">
       <span begin="581" end="605" id="0" />
       <text id="0">Langueux (Côtes-d'Armor)</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="8">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="8">
       <span begin="664" end="701" id="0" />
       <text id="0">Sotteville-lès-Rouen (Seine-Maritime)</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="13">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="13">
       <span begin="1000" end="1043" id="0" />
       <text id="0">Quincy-Voisins et Villenoy (Seine-et-Marne)</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="14">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="14">
       <span begin="1091" end="1115" id="0" />
       <text id="0">dans les Hauts-de-Seine</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="16">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="16">
       <span begin="1339" end="1353" id="0" />
       <text id="0">Seine-Maritime</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="18">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="18">
       <span begin="1441" end="1450" id="0" />
       <text id="0">Finistère</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
+      <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="19">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="19">
       <span begin="1489" end="1492" id="0" />
       <text id="0">Ain</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
       <span begin="8" end="28" id="0" />
       <text id="0">Viaduc de l'Allondon</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="1">
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
       <span begin="36" end="53" id="0" />
       <text id="0">Viaduc de Chillon</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="2">
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
       <span begin="66" end="79" id="0" />
       <text id="0">Viaduc du Day</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="3">
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
       <span begin="92" end="113" id="0" />
       <text id="0">Viaduc de la Jonction</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="4">
+    <SEval type="concept" idSE="2" localisation="item" idItem="4">
       <span begin="121" end="141" id="0" />
       <text id="0">Viaduc de Landwasser</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
       <span begin="1" end="7" id="0" />
       <text id="0">Suisse</text>
     </SEval>
@@ -2333,8 +933,8 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -2347,8 +947,8 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -2361,8 +961,8 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -2378,16 +978,16 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:12</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="1" />
+        <instanceOf value="1" />
+        <ontologique_autre value="0" />
       </visee_ontologique>
       <metalinguistique value="0">
         <hyperonymie value="0" />
@@ -2398,14 +998,14 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
         <lexical_autre value="0" />
       </metalinguistique>
       <semantique_autre value="0" />
-      <contextuelle value="0" />
+      <contextuelle value="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -2418,8 +1018,8 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -2432,8 +1032,8 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -2449,8 +1049,8 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -2476,7 +1076,7 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -2490,7 +1090,7 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -2504,7 +1104,7 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -2521,81 +1121,10 @@ Viaduc de Landwasser, viaduc ferroviaire.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 15:48</date>
+      <date>8/01/13 15:48</date>
       <document>Viaduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
-      <visee_ontologique value="1">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="1" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="3">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="3">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="3">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:34</date>
-      <document>Viaduc.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="3">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />

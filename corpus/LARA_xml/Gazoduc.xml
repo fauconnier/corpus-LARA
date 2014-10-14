@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SE>
@@ -15,13 +15,13 @@ gazoduc de transport ou de transit, acheminant sous haute pression le gaz trait�
 gazoducs de distribution, répartissant le gaz à basse pression au plus près des consommateurs domestiques ou des petites industries.</text>
       <span begin="901" end="1423" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SE>
@@ -35,7 +35,7 @@ gazoducs de distribution, répartissant le gaz à basse pression au plus près d
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SE>
@@ -49,7 +49,7 @@ gazoducs de distribution, répartissant le gaz à basse pression au plus près d
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SE>
@@ -66,7 +66,7 @@ des postes de livraison qui assurent la livraison du gaz naturel chez les gros i
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SE>
@@ -76,682 +76,125 @@ des postes de livraison qui assurent la livraison du gaz naturel chez les gros i
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
-    <SE>
-      <id>5</id>
-      <text>S'y ajoute le réseau offshore et un réseau d'environ 10000 km consacré au transport d'autres gaz que le gaz naturel (plus de 150 produits dangereux peuvent y circuler dont :&lt;list type="bullet"&gt;&lt;listitem&gt;Éthylène (dominant)&lt;/listitem&gt;&lt;listitem&gt;Propylène (dominant) &lt;/listitem&gt;&lt;listitem&gt;Chlore,&lt;/listitem&gt;&lt;listitem&gt;Ammoniac, &lt;/listitem&gt;&lt;listitem&gt;Hydrogène, &lt;/listitem&gt;&lt;listitem&gt;Oxygène, &lt;/listitem&gt;&lt;listitem&gt;Butadiène&lt;/listitem&gt;&lt;listitem&gt;Styrène.&lt;/listitem&gt;&lt;/list&gt;&lt;paragraph&gt;etc.&lt;/paragraph&gt;La consommation de gaz a été en 2004 d'environ 458,3 milliards de m3 (augmentation de 3.3 % par rapport à 2003. Un règlement européen de 2013 fait une priorité de l’interconnexion transfrontalière des réseaux énergétiques européens, dont le réseau gazier.
-Éthylène (dominant)
-Propylène (dominant)
-Chlore,
-Ammoniac,
-Hydrogène,
-Oxygène,
-Butadiène
-Styrène.
-etc.</text>
-      <span begin="3963" end="4810" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SE>
-      <id>6</id>
-      <text>La fourniture de gaz est assurée par une quarantaine de fournisseurs (expéditeurs ou traders)</text>
-      <span begin="5480" end="5573" />
-    </SE>
-    <comment />
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="selon" postag="P" morpho="_" head="9" dep="mod">Selon</word>
-        <word id="2" lem="leur" postag="DET" morpho="n=s|p=3|poss=p" head="3" dep="det">leur</word>
-        <word id="3" lem="nature" postag="NC" morpho="g=f|n=s" head="1" dep="prep">nature</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">d'</word>
-        <word id="5" lem="usage" postag="NC" morpho="g=m|n=s" head="4" dep="prep">usage</word>
-        <word id="6" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="7" lem="les" postag="DET" morpho="n=p" head="8" dep="det">les</word>
-        <word id="8" lem="gazoduc" postag="NC" morpho="g=m|n=p" head="9" dep="suj">gazoducs</word>
-        <word id="9" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
-        <word id="10" lem="être" postag="VINF" morpho="_" head="11" dep="aux_pass">être</word>
-        <word id="11" lem="classer" postag="VPP" morpho="g=m|n=p|t=past" head="9" dep="obj">classés</word>
-        <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-        <word id="13" lem="deux" postag="NC" morpho="g=m" head="12" dep="prep">trois</word>
-        <word id="14" lem="famille" postag="NC" morpho="g=f|n=p" head="13" dep="mod">familles</word>
-        <word id="15" lem="principal" postag="ADJ" morpho="g=f|n=p" head="14" dep="mod">principales</word>
-        <word id="16" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="gazoduc" postag="NC" morpho="g=m|n=p" head="0" dep="_">gazoducs</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="collecte" postag="NC" morpho="g=f|n=s" head="2" dep="prep">collecte</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="ramener" postag="VPR" morpho="t=pst" head="1" dep="mod">ramenant</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="7" lem="gaz" postag="NC" morpho="g=m" head="5" dep="obj">gaz</word>
-          <word id="8" lem="sortir" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod">sorti</word>
-          <word id="9" lem="de" postag="P+D" morpho="n=p" head="8" dep="de_obj">des</word>
-          <word id="10" lem="gisement" postag="NC" morpho="g=m|n=p" head="9" dep="prep">gisements</word>
-          <word id="11" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
-          <word id="12" lem="des" postag="DET" morpho="n=p" head="13" dep="det">des</word>
-          <word id="13" lem="stockage" postag="NC" morpho="g=m|n=p" head="11" dep="dep_coord">stockages</word>
-          <word id="14" lem="souterrain" postag="ADJ" morpho="g=m|n=p" head="13" dep="mod">souterrains</word>
-          <word id="15" lem="vers" postag="P" morpho="_" head="13" dep="dep">vers</word>
-          <word id="16" lem="des" postag="DET" morpho="n=p" head="17" dep="det">des</word>
-          <word id="17" lem="site" postag="NC" morpho="g=m|n=p" head="15" dep="prep">sites</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="traitement" postag="NC" morpho="g=m|n=s" head="18" dep="prep">traitement</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="gazoduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">gazoduc</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="transport" postag="NC" morpho="g=m|n=s" head="2" dep="prep">transport</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep_coord">de</word>
-          <word id="6" lem="transit" postag="NC" morpho="g=m|n=s" head="5" dep="prep">transit</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="acheminer" postag="VPR" morpho="t=pst" head="1" dep="mod">acheminant</word>
-          <word id="9" lem="sous" postag="P" morpho="_" head="8" dep="mod">sous</word>
-          <word id="10" lem="haut" postag="ADJ" morpho="g=f|n=s" head="11" dep="mod">haute</word>
-          <word id="11" lem="pression" postag="NC" morpho="g=f|n=s" head="9" dep="prep">pression</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-          <word id="13" lem="gaz" postag="NC" morpho="g=m" head="8" dep="obj">gaz</word>
-          <word id="14" lem="traiter" postag="VPP" morpho="g=m|n=s|t=past" head="13" dep="mod">traité</word>
-          <word id="15" lem="(" postag="PONCT" morpho="_" head="13" dep="ponct">(</word>
-          <word id="16" lem="déshydrater" postag="VPP" morpho="g=m|n=s|t=past" head="13" dep="mod">déshydraté</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="18" lem="désulfurer" postag="VPP" morpho="g=m|n=s|t=past" head="13" dep="mod">désulfuré</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="20" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
-          <word id="21" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-          <word id="22" lem="à" postag="P+D" morpho="n=p" head="0" dep="_">aux</word>
-          <word id="23" lem="porte" postag="NC" morpho="g=f|n=p" head="22" dep="prep">portes</word>
-          <word id="24" lem="de" postag="P+D" morpho="n=p" head="23" dep="dep">des</word>
-          <word id="25" lem="zone" postag="NC" morpho="g=f|n=p" head="24" dep="prep">zones</word>
-          <word id="26" lem="urbain" postag="ADJ" morpho="g=f|n=p" head="25" dep="mod">urbaines</word>
-          <word id="27" lem="ou" postag="CC" morpho="_" head="22" dep="coord">ou</word>
-          <word id="28" lem="de" postag="P+D" morpho="n=p" head="27" dep="dep_coord">des</word>
-          <word id="29" lem="site" postag="NC" morpho="g=m|n=p" head="28" dep="prep">sites</word>
-          <word id="30" lem="industriel" postag="ADJ" morpho="g=m|n=p" head="29" dep="mod">industriels</word>
-          <word id="31" lem="de" postag="P" morpho="_" head="29" dep="dep">de</word>
-          <word id="32" lem="consommation" postag="NC" morpho="g=f|n=s" head="31" dep="prep">consommation</word>
-          <word id="33" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="gazoduc" postag="NC" morpho="g=m|n=p" head="0" dep="_">gazoducs</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="distribution" postag="NC" morpho="g=f|n=s" head="2" dep="prep">distribution</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="répartir" postag="VPR" morpho="t=pst" head="1" dep="mod">répartissant</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="7" lem="gaz" postag="NC" morpho="g=m" head="5" dep="obj">gaz</word>
-          <word id="8" lem="à" postag="P" morpho="_" head="7" dep="dep">à</word>
-          <word id="9" lem="bas" postag="ADJ" morpho="g=f|n=s" head="10" dep="mod">basse</word>
-          <word id="10" lem="pression" postag="NC" morpho="g=f|n=s" head="8" dep="prep">pression</word>
-          <word id="11" lem="à" postag="P+D" morpho="g=m|n=s" head="5" dep="mod">au</word>
-          <word id="12" lem="plus" postag="ADV" morpho="_" head="13" dep="mod">plus</word>
-          <word id="13" lem="près_de" postag="P+D" morpho="n=p" head="14" dep="mod">près_des</word>
-          <word id="14" lem="consommateur" postag="NC" morpho="g=m|n=p" head="11" dep="prep">consommateurs</word>
-          <word id="15" lem="domestique" postag="ADJ" morpho="n=p" head="14" dep="mod">domestiques</word>
-          <word id="16" lem="ou" postag="CC" morpho="_" head="11" dep="coord">ou</word>
-          <word id="17" lem="de" postag="P+D" morpho="n=p" head="16" dep="dep_coord">des</word>
-          <word id="18" lem="petit" postag="ADJ" morpho="g=f|n=p" head="19" dep="mod">petites</word>
-          <word id="19" lem="industrie" postag="NC" morpho="g=f|n=p" head="17" dep="prep">industries</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="gazoduc" postag="NC" morpho="g=m|n=s" head="0" dep="_">gazoduc</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="3" lem="transport" postag="NC" morpho="g=m|n=s" head="2" dep="prep">transport</word>
-        <word id="4" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep_coord">de</word>
-        <word id="6" lem="transit" postag="NC" morpho="g=m|n=s" head="5" dep="prep">transit</word>
-        <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        <word id="8" lem="acheminer" postag="VPR" morpho="t=pst" head="1" dep="mod">acheminant</word>
-        <word id="9" lem="sous" postag="P" morpho="_" head="8" dep="mod">sous</word>
-        <word id="10" lem="haut" postag="ADJ" morpho="g=f|n=s" head="11" dep="mod">haute</word>
-        <word id="11" lem="pression" postag="NC" morpho="g=f|n=s" head="9" dep="prep">pression</word>
-        <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-        <word id="13" lem="gaz" postag="NC" morpho="g=m" head="8" dep="obj">gaz</word>
-        <word id="14" lem="traiter" postag="VPP" morpho="g=m|n=s|t=past" head="13" dep="mod">traité</word>
-        <word id="15" lem="(" postag="PONCT" morpho="_" head="13" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">aité</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="déshydrater" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">déshydraté</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="désulfurer" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="_">désulfuré</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="gazoduc" postag="NC" morpho="g=m|n=p" head="4" dep="suj">gazoducs</word>
-        <word id="3" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="4" dep="aux_pass">sont</word>
-        <word id="4" lem="constituer" postag="VPP" morpho="g=m|n=p|t=past" head="0" dep="root">constitués</word>
-        <word id="5" lem="de" postag="P" morpho="_" head="4" dep="de_obj">de</word>
-        <word id="6" lem="tube" postag="NC" morpho="g=m|n=p" head="5" dep="prep">tubes</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
-        <word id="8" lem="_" postag="NC" morpho="_" head="7" dep="prep">aciersoudés</word>
-        <word id="9" lem="bouillir" postag="V" morpho="n=s|p=3|t=pst" head="4" dep="mod">bout</word>
-        <word id="10" lem="à" postag="P" morpho="_" head="9" dep="mod">à</word>
-        <word id="11" lem="bout" postag="NC" morpho="g=m|n=s" head="10" dep="prep">bout</word>
-        <word id="12" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        <word id="13" lem="recouvrir" postag="VPP" morpho="g=m|n=p|t=past" head="4" dep="mod">recouverts</word>
-        <word id="14" lem="de" postag="P" morpho="_" head="13" dep="de_obj">d'</word>
-        <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
-        <word id="16" lem="matériau" postag="NC" morpho="g=m|n=s" head="14" dep="prep">matériau</word>
-        <word id="17" lem="isolant" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">isolant</word>
-        <word id="18" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="polyéthylène" postag="NC" morpho="g=m|n=s" head="0" dep="_">polyéthylène</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="polypropylène" postag="NC" morpho="g=m|n=s" head="0" dep="_">polypropylène</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="PONCT" morpho="_" head="0" dep="_">..</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="ces" postag="DET" morpho="n=p" head="2" dep="det">Ces</word>
-        <word id="2" lem="réseau" postag="NC" morpho="g=m|n=p" head="3" dep="suj">réseaux</word>
-        <word id="3" lem="comprendre" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">comprennent</word>
-        <word id="4" lem="en_outre" postag="ADV" morpho="_" head="3" dep="mod">en_outre</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
-          <word id="2" lem="station" postag="NC" morpho="g=f|n=p" head="0" dep="_">stations</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="compression" postag="NC" morpho="g=f|n=s" head="3" dep="prep">compression</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="régulièrement" postag="ADV" morpho="_" head="7" dep="mod">régulièrement</word>
-          <word id="7" lem="espacer" postag="VPP" morpho="g=f|n=p|t=past" head="2" dep="mod">espacées</word>
-          <word id="8" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="9" lem="tout" postag="ADJ" morpho="g=m|n=p" head="11" dep="mod">tous</word>
-          <word id="10" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-          <word id="11" lem="#NUM#" postag="ADJ" morpho="n=p" head="2" dep="mod">80</word>
-          <word id="12" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="13" lem="#NUM#" postag="DET" morpho="n=p" head="14" dep="det">250</word>
-          <word id="14" lem="kilomètre" postag="NC" morpho="g=m" head="12" dep="prep">km</word>
-          <word id="15" lem="selon" postag="P" morpho="_" head="2" dep="dep">selon</word>
-          <word id="16" lem="les" postag="DET" morpho="n=p" head="17" dep="det">les</word>
-          <word id="17" lem="réseau" postag="NC" morpho="g=m|n=p" head="15" dep="prep">réseaux</word>
-          <word id="18" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="19" lem="qui" postag="PROREL" morpho="n=s" head="20" dep="suj">qui</word>
-          <word id="20" lem="maintenir" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">maintiennent</word>
-          <word id="21" lem="la" postag="DET" morpho="g=f|n=s" head="22" dep="det">la</word>
-          <word id="22" lem="pression" postag="NC" morpho="g=f|n=s" head="20" dep="obj">pression</word>
-          <word id="23" lem="de" postag="P+D" morpho="g=m|n=s" head="22" dep="dep">du</word>
-          <word id="24" lem="gaz" postag="NC" morpho="g=m" head="23" dep="prep">gaz</word>
-          <word id="25" lem="transporter" postag="VPP" morpho="g=m|n=s|t=past" head="24" dep="mod">transporté</word>
-          <word id="26" lem="et" postag="CC" morpho="_" head="20" dep="coord">et</word>
-          <word id="27" lem="assurer" postag="V" morpho="n=p|p=3|t=pst" head="26" dep="dep_coord">assurent</word>
-          <word id="28" lem="sa" postag="DET" morpho="g=f|n=s|p=3|poss=s" head="29" dep="det">sa</word>
-          <word id="29" lem="progression" postag="NC" morpho="g=f|n=s" head="27" dep="obj">progression</word>
-          <word id="30" lem="dans" postag="P" morpho="_" head="27" dep="mod">dans</word>
-          <word id="31" lem="les" postag="DET" morpho="n=p" head="32" dep="det">les</word>
-          <word id="32" lem="canalisation" postag="NC" morpho="g=f|n=p" head="30" dep="prep">canalisations</word>
-          <word id="33" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
-          <word id="2" lem="station" postag="NC" morpho="g=f|n=p" head="0" dep="root">stations</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="interconnexion" postag="NC" morpho="g=f|n=s" head="3" dep="prep">interconnexion</word>
-          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
-          <word id="6" lem="constituer" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">constituent</word>
-          <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="6" dep="obj">nœuds</word>
-          <word id="9" lem="important" postag="ADJ" morpho="g=m|n=p" head="8" dep="mod">importants</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="11" lem="réseau" postag="NC" morpho="g=m|n=s" head="10" dep="prep">réseau</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="transport" postag="NC" morpho="g=m|n=s" head="12" dep="prep">transport</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
-          <word id="2" lem="poste" postag="NC" morpho="n=p" head="0" dep="_">postes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="livraison" postag="NC" morpho="g=f|n=s" head="3" dep="prep">livraison</word>
-          <word id="5" lem="qui" postag="PROREL" morpho="n=s" head="6" dep="suj">qui</word>
-          <word id="6" lem="assurer" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">assurent</word>
-          <word id="7" lem="la" postag="DET" morpho="g=f|n=s" head="8" dep="det">la</word>
-          <word id="8" lem="livraison" postag="NC" morpho="g=f|n=s" head="6" dep="obj">livraison</word>
-          <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-          <word id="10" lem="gaz" postag="NC" morpho="g=m" head="9" dep="prep">gaz</word>
-          <word id="11" lem="naturel" postag="ADJ" morpho="g=m|n=s" head="10" dep="mod">naturel</word>
-          <word id="12" lem="chez" postag="P" morpho="_" head="6" dep="mod">chez</word>
-          <word id="13" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-          <word id="14" lem="gros" postag="ADJ" morpho="g=m" head="15" dep="mod">gros</word>
-          <word id="15" lem="industriel" postag="NC" morpho="g=m|n=p" head="12" dep="prep">industriels</word>
-          <word id="16" lem="ou" postag="CC" morpho="_" head="12" dep="coord">ou</word>
-          <word id="17" lem="dans" postag="P" morpho="_" head="16" dep="dep_coord">dans</word>
-          <word id="18" lem="les" postag="DET" morpho="n=p" head="19" dep="det">les</word>
-          <word id="19" lem="réseau" postag="NC" morpho="g=m|n=p" head="17" dep="prep">réseaux</word>
-          <word id="20" lem="aval" postag="ADJ" morpho="g=m|n=s" head="19" dep="mod">aval</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
-          <word id="22" lem="distribution" postag="NC" morpho="g=f|n=s" head="21" dep="prep">distribution</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ces" postag="DET" morpho="n=p" head="2" dep="det">Ces</word>
-          <word id="2" lem="poste" postag="NC" morpho="n=p" head="3" dep="suj">postes</word>
-          <word id="3" lem="assurer" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">assurent</word>
-          <word id="4" lem="généralement" postag="ADV" morpho="_" head="3" dep="mod">généralement</word>
-          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
-          <word id="6" lem="fonction" postag="NC" morpho="g=f|n=p" head="3" dep="obj">fonctions</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="détente" postag="NC" morpho="g=f|n=s" head="7" dep="prep">détente</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="11" lem="réchauffage" postag="NC" morpho="g=m|n=s" head="10" dep="prep">réchauffage</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="14" lem="filtrage" postag="NC" morpho="g=m|n=s" head="13" dep="prep">filtrage</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="13" dep="coord">et</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep_coord">de</word>
-          <word id="17" lem="mesurage" postag="NC" morpho="g=m|n=s" head="16" dep="prep">mesurage</word>
-          <word id="18" lem="de" postag="P+D" morpho="g=m|n=s" head="17" dep="dep">du</word>
-          <word id="19" lem="gaz" postag="NC" morpho="g=m" head="18" dep="prep">gaz</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="en" postag="P" morpho="_" head="14" dep="mod">En</word>
-        <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
-        <word id="3" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-        <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-        <word id="5" lem="schéma" postag="NC" morpho="g=m|n=s" head="14" dep="suj">schéma</word>
-        <word id="6" lem="général" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">général</word>
-        <word id="7" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-        <word id="8" lem="réseau" postag="NC" morpho="g=m|n=p" head="7" dep="prep">réseaux</word>
-        <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-        <word id="10" lem="transport" postag="NC" morpho="g=m|n=s" head="9" dep="prep">transport</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-        <word id="12" lem="gaz" postag="NC" morpho="g=m" head="11" dep="prep">gaz</word>
-        <word id="13" lem="naturel" postag="ADJ" morpho="g=m|n=s" head="12" dep="mod">naturel</word>
-        <word id="14" lem="comporter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">comporte</word>
-        <word id="15" lem="plusieurs" postag="DET" morpho="n=p" head="16" dep="det">plusieurs</word>
-        <word id="16" lem="dorsale" postag="NC" morpho="g=f|n=p" head="14" dep="obj">dorsales</word>
-        <word id="17" lem="principal" postag="ADJ" morpho="g=f|n=p" head="16" dep="mod">principales</word>
-        <word id="18" lem="souvent" postag="ADV" morpho="_" head="19" dep="mod">souvent</word>
-        <word id="19" lem="affubler" postag="VPP" morpho="g=f|n=p|t=past" head="16" dep="mod">affublées</word>
-        <word id="20" lem="de" postag="P" morpho="_" head="19" dep="de_obj">de</word>
-        <word id="21" lem="nom" postag="NC" morpho="g=m|n=p" head="20" dep="prep">noms</word>
-        <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">de</word>
-        <word id="23" lem="baptême" postag="NC" morpho="g=m|n=s" head="22" dep="prep">baptême</word>
-        <word id="24" lem="toponymique" postag="ADJ" morpho="n=p" head="23" dep="mod">toponymiques</word>
-        <word id="25" lem="(" postag="PONCT" morpho="_" head="19" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="artère" postag="NC" morpho="g=f|n=s" head="0" dep="_">Artère</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Hauts</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="France" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">France</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P" morpho="_" head="0" dep="_">de</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="prep">Guyenne</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Plateaux</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Vexin</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="des" postag="DET" morpho="n=p" head="2" dep="det">des</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Marches</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Nord-Est</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="de" postag="P+D" morpho="g=m|n=s" head="0" dep="_">du</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="prep">Midi</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="se" postag="CLR" morpho="p=3" head="3" dep="aff">S'</word>
-        <word id="2" lem="y" postag="CLO" morpho="_" head="3" dep="a_obj">y</word>
-        <word id="3" lem="ajouter" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">ajoute</word>
-        <word id="4" lem="le" postag="DET" morpho="g=m|n=s" head="5" dep="det">le</word>
-        <word id="5" lem="réseau" postag="NC" morpho="g=m|n=s" head="3" dep="suj">réseau</word>
-        <word id="6" lem="offshore" postag="ADJ" morpho="n=s" head="5" dep="mod">offshore</word>
-        <word id="7" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-        <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-        <word id="9" lem="réseau" postag="NC" morpho="g=m|n=s" head="7" dep="dep_coord">réseau</word>
-        <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-        <word id="11" lem="environ" postag="ADV" morpho="_" head="13" dep="mod">environ</word>
-        <word id="12" lem="#NUM#" postag="DET" morpho="n=p" head="13" dep="det">10000</word>
-        <word id="13" lem="kilomètre" postag="NC" morpho="g=m" head="10" dep="prep">km</word>
-        <word id="14" lem="consacrer" postag="VPP" morpho="g=m|n=s|t=past" head="13" dep="mod">consacré</word>
-        <word id="15" lem="à" postag="P+D" morpho="g=m|n=s" head="14" dep="a_obj">au</word>
-        <word id="16" lem="transport" postag="NC" morpho="g=m|n=s" head="15" dep="prep">transport</word>
-        <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">d'</word>
-        <word id="18" lem="autres" postag="ADJ" morpho="n=p" head="19" dep="mod">autres</word>
-        <word id="19" lem="gaz" postag="NC" morpho="g=m" head="17" dep="prep">gaz</word>
-        <word id="20" lem="que" postag="CS" morpho="_" head="3" dep="obj">que</word>
-        <word id="21" lem="le" postag="DET" morpho="g=m|n=s" head="22" dep="det">le</word>
-        <word id="22" lem="gaz" postag="NC" morpho="g=m" head="29" dep="suj">gaz</word>
-        <word id="23" lem="naturel" postag="ADJ" morpho="g=m|n=s" head="22" dep="mod">naturel</word>
-        <word id="24" lem="(" postag="PONCT" morpho="_" head="22" dep="ponct">(</word>
-        <word id="25" lem="plus_de" postag="P" morpho="_" head="22" dep="dep">plus_de</word>
-        <word id="26" lem="#NUM#" postag="DET" morpho="n=p" head="27" dep="det">150</word>
-        <word id="27" lem="produit" postag="NC" morpho="g=m|n=p" head="25" dep="prep">produits</word>
-        <word id="28" lem="dangereux" postag="ADJ" morpho="g=m" head="27" dep="mod">dangereux</word>
-        <word id="29" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="20" dep="sub">peuvent</word>
-        <word id="30" lem="y" postag="CLO" morpho="_" head="31" dep="aff">y</word>
-        <word id="31" lem="circuler" postag="VINF" morpho="_" head="29" dep="obj">circuler</word>
-        <word id="32" lem="dont" postag="PROREL" morpho="_" head="0" dep="_">dont</word>
-        <word id="33" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="éthylène" postag="NC" morpho="g=m|n=s" head="0" dep="_">Éthylène</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="dominant" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">dominant</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="propylène" postag="NC" morpho="g=m|n=s" head="0" dep="_">Propylène</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="dominant" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">dominant</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="propylène" postag="NC" morpho="g=m|n=s" head="0" dep="_">Propylène</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="dominant" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">dominant</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="chlore" postag="NC" morpho="n=s" head="0" dep="_">Chlore</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="ammoniac" postag="ADJ" morpho="n=s" head="0" dep="_">Ammoniac</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="hydrogène" postag="NC" morpho="g=m|n=s" head="0" dep="_">Hydrogène</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="oxygène" postag="NC" morpho="g=m|n=s" head="0" dep="_">Oxygène</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="butadiène" postag="NC" morpho="g=m|n=s" head="0" dep="root">Butadiène</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="styrène" postag="NC" morpho="g=m|n=s" head="0" dep="root">Styrène</word>
-          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="root">etc</word>
-          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-        <word id="2" lem="fourniture" postag="NC" morpho="g=f|n=s" head="6" dep="suj">fourniture</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="gaz" postag="NC" morpho="g=m" head="3" dep="prep">gaz</word>
-        <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="aux_pass">est</word>
-        <word id="6" lem="assurer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">assurée</word>
-        <word id="7" lem="par" postag="P" morpho="_" head="6" dep="p_obj">par</word>
-        <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-        <word id="9" lem="quarantaine" postag="NC" morpho="g=f|n=s" head="7" dep="prep">quarantaine</word>
-        <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-        <word id="11" lem="fournisseur" postag="NC" morpho="g=m|n=p" head="10" dep="prep">fournisseurs</word>
-        <word id="12" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="expéditeur" postag="NC" morpho="g=m|n=p" head="0" dep="root">expéditeurs</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="trader" postag="NC" morpho="g=m|n=p" head="0" dep="_">traders</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -762,8 +205,8 @@ etc.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -778,8 +221,8 @@ etc.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -790,8 +233,8 @@ etc.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -807,7 +250,7 @@ etc.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -819,7 +262,7 @@ etc.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -835,7 +278,7 @@ etc.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -847,7 +290,7 @@ etc.</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -863,7 +306,7 @@ etc.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="primer" idSE="4">
@@ -875,7 +318,7 @@ etc.</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="items" idSE="4">
@@ -897,76 +340,9 @@ etc.</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="primer" idSE="5">
-      <span begin="1" end="174" />
-      <text>S'y ajoute le réseau offshore et un réseau d'environ 10000 km consacré au transport d'autres gaz que le gaz naturel (plus de 150 produits dangereux peuvent y circuler dont :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="items" idSE="5">
-      <span begin="746" end="765" id="0" />
-      <text id="0">Éthylène (dominant)</text>
-      <span begin="766" end="786" id="1" />
-      <text id="1">Propylène (dominant)</text>
-      <span begin="766" end="794" id="2" />
-      <text id="2">Propylène (dominant)
-Chlore,</text>
-      <span begin="795" end="804" id="3" />
-      <text id="3">Ammoniac,</text>
-      <span begin="805" end="815" id="4" />
-      <text id="4">Hydrogène,</text>
-      <span begin="816" end="824" id="5" />
-      <text id="5">Oxygène,</text>
-      <span begin="825" end="834" id="6" />
-      <text id="6">Butadiène</text>
-      <span begin="835" end="843" id="7" />
-      <text id="7">Styrène.</text>
-      <span begin="844" end="848" id="8" />
-      <text id="8">etc.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="primer" idSE="6">
-      <span begin="1" end="71" />
-      <text>La fourniture de gaz est assurée par une quarantaine de fournisseurs (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="items" idSE="6">
-      <span begin="70" end="85" id="0" />
-      <text id="0">(expéditeurs ou</text>
-      <span begin="86" end="94" id="1" />
-      <text id="1">traders)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -977,8 +353,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -989,8 +365,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1001,8 +377,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -1013,8 +389,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -1025,8 +401,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -1037,8 +413,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -1049,8 +425,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -1062,7 +438,7 @@ Chlore,</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
@@ -1074,7 +450,7 @@ Chlore,</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -1086,7 +462,7 @@ Chlore,</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -1098,7 +474,7 @@ Chlore,</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
@@ -1110,7 +486,7 @@ Chlore,</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -1122,7 +498,7 @@ Chlore,</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -1134,7 +510,7 @@ Chlore,</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="2">
@@ -1146,7 +522,7 @@ Chlore,</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="3" localisation="primer" idItem="-1">
@@ -1158,7 +534,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
@@ -1170,7 +546,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="0">
@@ -1182,7 +558,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="1">
@@ -1194,7 +570,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="2">
@@ -1206,7 +582,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="3">
@@ -1218,7 +594,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="4">
@@ -1230,7 +606,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
@@ -1240,45 +616,9 @@ Chlore,</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
-      <span begin="57" end="69" id="0" />
-      <text id="0">fournisseurs</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="0">
-      <span begin="71" end="82" id="0" />
-      <text id="0">expéditeurs</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="1">
-      <span begin="86" end="93" id="0" />
-      <text id="0">traders</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1291,8 +631,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1305,8 +645,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1322,8 +662,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1348,8 +688,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1362,8 +702,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1376,8 +716,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1393,8 +733,8 @@ Chlore,</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 2:00</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 14:28</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1420,7 +760,7 @@ Chlore,</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1434,7 +774,7 @@ Chlore,</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1448,7 +788,7 @@ Chlore,</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1465,7 +805,7 @@ Chlore,</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1491,7 +831,7 @@ Chlore,</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1505,7 +845,7 @@ Chlore,</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1519,7 +859,7 @@ Chlore,</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1536,7 +876,7 @@ Chlore,</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:29</date>
+      <date>3/01/14 14:29</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -1562,7 +902,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -1576,7 +916,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -1590,7 +930,7 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -1607,152 +947,10 @@ Chlore,</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
+      <date>3/01/14 14:30</date>
       <document>Gazoduc.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="5">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="5">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="5">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:30</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="5">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="6">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="6">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="6">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:31</date>
-      <document>Gazoduc.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="6">
       <visee_ontologique value="1">
         <isA value="1" />
         <partOf value="0" />

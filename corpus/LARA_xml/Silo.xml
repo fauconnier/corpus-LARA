@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SE>
@@ -21,13 +21,13 @@ Il existe des parkings dits parkings-silos.
 Silo blog littéraire de l'écrivain et poèteLucien Suel</text>
       <span begin="9" end="586" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SE>
@@ -62,273 +62,53 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Silo</word>
-        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="3" lem="signifier" postag="VINF" morpho="_" head="2" dep="obj">signifier</word>
-        <word id="4" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="silo" postag="NC" morpho="g=m|n=s" head="0" dep="root">silo</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-          <word id="4" lem="silo" postag="NC" morpho="g=m|n=s" head="3" dep="dep_coord">silo</word>
-          <word id="5" lem="agricole" postag="ADJ" morpho="n=s" head="4" dep="mod">agricole</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="réservoir" postag="NC" morpho="g=m|n=s" head="2" dep="mod">réservoir</word>
-          <word id="9" lem="destiner" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="mod">destiné</word>
-          <word id="10" lem="à" postag="P" morpho="_" head="9" dep="a_obj">à</word>
-          <word id="11" lem="stocker" postag="VINF" morpho="_" head="10" dep="prep">stocker</word>
-          <word id="12" lem="du" postag="DET" morpho="g=m|n=s" head="13" dep="det">du</word>
-          <word id="13" lem="matériel" postag="NC" morpho="g=m|n=s" head="11" dep="obj">matériel</word>
-          <word id="14" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="15" lem="vrac" postag="NC" morpho="g=m|n=s" head="14" dep="prep">vrac</word>
-          <word id="16" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="17" lem="des" postag="DET" morpho="n=p" head="18" dep="det">des</word>
-          <word id="18" lem="céréale" postag="NC" morpho="g=f|n=p" head="11" dep="obj">céréales</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="20" lem="_" postag="ADV" morpho="_" head="11" dep="mod">etc</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="0" dep="root">silo</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="missile" postag="NC" morpho="g=m|n=s" head="2" dep="prep">missile</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-          <word id="6" lem="installation" postag="NC" morpho="g=f|n=s" head="1" dep="mod">installation</word>
-          <word id="7" lem="militaire" postag="ADJ" morpho="n=s" head="6" dep="mod">militaire</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="silo" postag="NC" morpho="g=m|n=s" head="6" dep="suj">silo</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="informatique" postag="NC" morpho="g=f|n=s" head="2" dep="mod">informatique</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="modèle" postag="NC" morpho="g=m|n=s" head="6" dep="ats">modèle</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="déploiement" postag="NC" morpho="g=m|n=s" head="9" dep="prep">déploiement</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">d'</word>
-          <word id="12" lem="application" postag="NC" morpho="g=f|n=s" head="11" dep="prep">application</word>
-          <word id="13" lem="informatique" postag="ADJ" morpho="n=s" head="12" dep="mod">informatique</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="15" lem="en" postag="P" morpho="_" head="6" dep="mod">en</word>
-          <word id="16" lem="référence" postag="NC" morpho="g=f|n=s" head="15" dep="prep">référence</word>
-          <word id="17" lem="à" postag="P+D" morpho="g=m|n=s" head="6" dep="mod">au</word>
-          <word id="18" lem="terme" postag="NC" morpho="g=m|n=s" head="17" dep="prep">terme</word>
-          <word id="19" lem="militaire" postag="ADJ" morpho="n=s" head="18" dep="mod">militaire</word>
-          <word id="20" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Silo</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="salle" postag="NC" morpho="g=f|n=s" head="2" dep="mod">salle</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="spectacle" postag="NC" morpho="g=m|n=p" head="6" dep="prep">spectacles</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="ville" postag="NC" morpho="g=f|n=s" head="8" dep="prep">ville</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="Marseille" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">Marseille</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="0" dep="_">Silo</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="logiciel" postag="NC" morpho="g=m|n=s" head="0" dep="_">logiciel</word>
-          <word id="5" lem="concevoir" postag="VPP" morpho="g=m|n=s|t=past" head="4" dep="mod">conçu</word>
-          <word id="6" lem="pour" postag="P" morpho="_" head="5" dep="mod">pour</word>
-          <word id="7" lem="modéliser" postag="VINF" morpho="_" head="6" dep="prep">modéliser</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="7" dep="mod">en</word>
-          <word id="9" lem="subdivision" postag="NC" morpho="g=f|n=s" head="8" dep="prep">subdivision</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="surface" postag="NC" morpho="g=f|n=s" head="10" dep="prep">surface</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="0" dep="_">Silo</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="genre" postag="NC" morpho="g=m|n=s" head="0" dep="_">genre</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="insecte" postag="NC" morpho="g=m|n=p" head="5" dep="prep">insectes</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="famille" postag="NC" morpho="g=f|n=s" head="7" dep="prep">famille</word>
-          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Goeridae</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="0" dep="_">Silo</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="lieu" postag="NC" morpho="g=m|n=s" head="0" dep="_">lieu</word>
-          <word id="5" lem="biblique" postag="ADJ" morpho="n=s" head="4" dep="mod">biblique</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="2" dep="suj">Il</word>
-          <word id="2" lem="exister" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">existe</word>
-          <word id="3" lem="des" postag="DET" morpho="n=p" head="4" dep="det">des</word>
-          <word id="4" lem="parking" postag="NC" morpho="g=m|n=p" head="2" dep="obj">parkings</word>
-          <word id="5" lem="dire" postag="VPP" morpho="g=m|n=p|t=past" head="4" dep="mod">dits</word>
-          <word id="6" lem="_" postag="ADV" morpho="_" head="5" dep="mod">parkings-silos</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="0" dep="_">Silo</word>
-          <word id="2" lem="blog" postag="NC" morpho="g=m|n=s" head="1" dep="mod">blog</word>
-          <word id="3" lem="littéraire" postag="ADJ" morpho="n=s" head="2" dep="mod">littéraire</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-          <word id="6" lem="écrivain" postag="NC" morpho="g=m|n=s" head="4" dep="prep">écrivain</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="7" dep="dep_coord">poèteLucien</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Suel</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="personne" postag="NC" morpho="g=f|n=p" head="0" dep="_">Personnes</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Silo</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="un" postag="DET" morpho="g=m|n=s" head="4" dep="det">un</word>
-          <word id="4" lem="prénom" postag="NC" morpho="g=m|n=s" head="2" dep="ats">prénom</word>
-          <word id="5" lem="masculin" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">masculin</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="7" lem="selon" postag="P" morpho="_" head="2" dep="mod">selon</word>
-          <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-          <word id="9" lem="liste" postag="NC" morpho="g=f|n=s" head="7" dep="prep">liste</word>
-          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="11" lem="prénom" postag="NC" morpho="g=m|n=p" head="10" dep="prep">prénoms</word>
-          <word id="12" lem="espagnol" postag="ADJ" morpho="g=m|n=p" head="11" dep="mod">espagnols</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Susan" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Susan</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Silo</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="une" postag="DET" morpho="g=f|n=s" head="5" dep="det">une</word>
-          <word id="5" lem="acteur" postag="NC" morpho="g=f|n=s" head="1" dep="mod">actrice</word>
-          <word id="6" lem="américain" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">américaine</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="0" dep="_">Silo</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Asturies</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="3" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="mod">?-783</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-          <word id="9" lem="roi" postag="NC" morpho="g=m|n=s" head="0" dep="_">roi</word>
-          <word id="10" lem="de" postag="P+D" morpho="n=p" head="9" dep="dep">des</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Asturies</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="0" dep="_">Silo</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">nom</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="plume" postag="NC" morpho="n=s" head="5" dep="prep">plume</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="écrivain" postag="NC" morpho="g=m|n=s" head="7" dep="prep">écrivain</word>
-          <word id="10" lem="argentin" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">argentin</word>
-          <word id="11" lem="Mario" postag="NPP" morpho="g=m|n=s" head="9" dep="mod">Mario</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Rodríguez</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Cobos</word>
-          <word id="14" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
-          <word id="15" lem="_" postag="NPP" morpho="_" head="9" dep="mod">1938-</word>
-          <word id="16" lem=")" postag="PONCT" morpho="_" head="9" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="silo" postag="NC" morpho="g=m|n=s" head="0" dep="_">Silo</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="nom" postag="NC" morpho="g=m|n=s" head="0" dep="_">nom</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="scène" postag="NC" morpho="g=f|n=s" head="4" dep="prep">scène</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="artiste" postag="NC" morpho="n=s" head="6" dep="prep">artiste</word>
-          <word id="9" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">malgache</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="mod">Silo</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Andrianandraina</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -338,11 +118,7 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
       <date>1/01/13 15:24</date>
       <document>Silo.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="toponymie" postag="NC" morpho="g=f|n=s" head="0" dep="root">Toponymie</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -352,66 +128,16 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
       <document>Silo.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="abbaye" postag="NC" morpho="g=f|n=s" head="5" dep="suj">abbaye</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Silos</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-          <word id="7" lem="abbaye" postag="NC" morpho="g=f|n=s" head="5" dep="ats">abbaye</word>
-          <word id="8" lem="médiéval" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">médiévale</word>
-          <word id="9" lem="en" postag="P" morpho="_" head="7" dep="dep">en</word>
-          <word id="10" lem="Espagne" postag="NPP" morpho="g=f|n=s" head="9" dep="prep">Espagne</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Šilo</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="île" postag="NC" morpho="g=f|n=s" head="1" dep="mod">île</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="Croatie" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Croatie</word>
-          <word id="7" lem=";" postag="PONCT" morpho="_" head="0" dep="_">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Šilo</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="une" postag="DET" morpho="g=f|n=s" head="4" dep="det">une</word>
-          <word id="4" lem="localité" postag="NC" morpho="g=f|n=s" head="1" dep="mod">localité</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="Croatie" postag="NPP" morpho="g=f|n=s" head="5" dep="prep">Croatie</word>
-          <word id="7" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="4" dep="mod">située</word>
-          <word id="8" lem="sur" postag="P" morpho="_" head="7" dep="mod">sur</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="île" postag="NC" morpho="g=f|n=s" head="8" dep="prep">île</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="prep">Krk</word>
-          <word id="13" lem="et" postag="CC" morpho="_" head="11" dep="coord">et</word>
-          <word id="14" lem="dans" postag="P" morpho="_" head="13" dep="dep_coord">dans</word>
-          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-          <word id="16" lem="municipalité" postag="NC" morpho="g=f|n=s" head="14" dep="prep">municipalité</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="prep">Dobrinj</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-          <word id="20" lem="_" postag="NC" morpho="_" head="7" dep="mod">comitat</word>
-          <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
-          <word id="22" lem="_" postag="NPP" morpho="_" head="21" dep="prep">Primorje-Gorski</word>
-          <word id="23" lem="_" postag="NPP" morpho="_" head="22" dep="mod">Kotar</word>
-          <word id="24" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -422,8 +148,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -450,8 +176,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -462,8 +188,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -510,8 +236,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -522,8 +248,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -534,8 +260,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -546,8 +272,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -558,8 +284,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -572,8 +298,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -586,8 +312,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -600,8 +326,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -614,8 +340,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="7">
@@ -626,8 +352,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="8">
@@ -638,8 +364,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -650,20 +376,20 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
-      <span begin="11" end="15" id="0" />
-      <text id="0">Silo</text>
+      <span begin="20" end="38" id="0" />
+      <text id="0">un prénom masculin</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -674,8 +400,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -686,8 +412,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -700,8 +426,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="4">
@@ -712,8 +438,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -808,8 +534,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -822,8 +548,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -836,8 +562,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -853,8 +579,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 4:01</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -879,8 +605,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -893,8 +619,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -907,8 +633,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -924,8 +650,8 @@ L'abbaye de Silos est une abbaye médiévale en Espagne
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:19</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:36</date>
       <document>Silo.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">

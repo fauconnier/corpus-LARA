@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SE>
@@ -18,13 +18,13 @@ Un portique de détection est un cadre muni d'un dispositif de détection magné
 Un pont-portique est un pont d'un modèle particulier en automobile, constitué de cascades de pignons sur une transmission, dans le but de réhausser la garde au sol d’un véhicule ; on trouve ce dispositif sur des véhicules tels que les 4x4 Unimog, Pinzgauer, Luaz, Hummer H1...</text>
       <span begin="13" end="1381" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SE>
@@ -40,405 +40,55 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="nom" postag="NC" morpho="g=m|n=s" head="6" dep="suj">nom</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="portique" postag="NC" morpho="g=m|n=s" head="3" dep="prep">portique</word>
-        <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="aux_pass">est</word>
-        <word id="6" lem="donner" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">donné</word>
-        <word id="7" lem="à" postag="P" morpho="_" head="6" dep="a_obj">à</word>
-        <word id="8" lem="des" postag="DET" morpho="n=p" head="9" dep="det">des</word>
-        <word id="9" lem="structure" postag="NC" morpho="g=f|n=p" head="7" dep="prep">structures</word>
-        <word id="10" lem="constituer" postag="VPP" morpho="g=f|n=p|t=past" head="9" dep="mod">constituées</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="10" dep="de_obj">d'</word>
-        <word id="12" lem="un" postag="DET" morpho="g=m|n=s" head="13" dep="det">un</word>
-        <word id="13" lem="élément" postag="NC" morpho="g=m|n=s" head="11" dep="prep">élément</word>
-        <word id="14" lem="horizontal" postag="ADJ" morpho="g=m|n=s" head="13" dep="mod">horizontal</word>
-        <word id="15" lem="soutenir" postag="VPP" morpho="g=m|n=s|t=past" head="13" dep="mod">soutenu</word>
-        <word id="16" lem="par" postag="P" morpho="_" head="15" dep="p_obj">par</word>
-        <word id="17" lem="plusieurs" postag="DET" morpho="n=p" head="18" dep="det">plusieurs</word>
-        <word id="18" lem="élément" postag="NC" morpho="g=m|n=p" head="16" dep="prep">éléments</word>
-        <word id="19" lem="vertical" postag="ADJ" morpho="g=m|n=p" head="18" dep="mod">verticaux</word>
-        <word id="20" lem="," postag="PONCT" morpho="_" head="18" dep="ponct">,</word>
-        <word id="21" lem="entre" postag="P" morpho="_" head="24" dep="mod">entre</word>
-        <word id="22" lem="lequel" postag="PROREL" morpho="g=m|n=p" head="21" dep="prep">lesquels</word>
-        <word id="23" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="24" dep="suj">il</word>
-        <word id="24" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="18" dep="mod_rel">est</word>
-        <word id="25" lem="possible" postag="ADJ" morpho="n=s" head="24" dep="ats">possible</word>
-        <word id="26" lem="de" postag="P" morpho="_" head="24" dep="obj">de</word>
-        <word id="27" lem="passer" postag="VINF" morpho="_" head="26" dep="prep">passer</word>
-        <word id="28" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="ces" postag="DET" morpho="n=p" head="2" dep="det">Ces</word>
-        <word id="2" lem="structure" postag="NC" morpho="g=f|n=p" head="3" dep="suj">structures</word>
-        <word id="3" lem="pouvoir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">peuvent</word>
-        <word id="4" lem="être" postag="VINF" morpho="_" head="3" dep="obj">être</word>
-        <word id="5" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="6" dep="mod">En</word>
-          <word id="2" lem="architecture" postag="NC" morpho="g=f|n=s" head="1" dep="prep">architecture</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="portique" postag="NC" morpho="g=m|n=s" head="6" dep="suj">portique</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
-          <word id="8" lem="galerie" postag="NC" morpho="g=f|n=s" head="6" dep="ats">galerie</word>
-          <word id="9" lem="couvrir" postag="VPP" morpho="g=f|n=s|t=past" head="8" dep="mod">couverte</word>
-          <word id="10" lem="dont" postag="PROREL" morpho="_" head="17" dep="de_obj">dont</word>
-          <word id="11" lem="les" postag="DET" morpho="n=p" head="12" dep="det">les</word>
-          <word id="12" lem="voûte" postag="NC" morpho="g=f|n=p" head="17" dep="suj">voûtes</word>
-          <word id="13" lem="ou" postag="CC" morpho="_" head="12" dep="coord">ou</word>
-          <word id="14" lem="les" postag="DET" morpho="n=p" head="15" dep="det">les</word>
-          <word id="15" lem="plafond" postag="NC" morpho="g=m|n=p" head="13" dep="dep_coord">plafonds</word>
-          <word id="16" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="17" dep="aux_pass">sont</word>
-          <word id="17" lem="supporter" postag="VPP" morpho="g=m|n=p|t=past" head="8" dep="mod_rel">supportés</word>
-          <word id="18" lem="par" postag="P" morpho="_" head="17" dep="p_obj">par</word>
-          <word id="19" lem="des" postag="DET" morpho="n=p" head="20" dep="det">des</word>
-          <word id="20" lem="colonne" postag="NC" morpho="g=f|n=p" head="18" dep="prep">colonnes</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="22" lem="des" postag="DET" morpho="n=p" head="23" dep="det">des</word>
-          <word id="23" lem="pilier" postag="NC" morpho="g=m|n=p" head="6" dep="mod">piliers</word>
-          <word id="24" lem="ou" postag="CC" morpho="_" head="23" dep="coord">ou</word>
-          <word id="25" lem="des" postag="DET" morpho="n=p" head="26" dep="det">des</word>
-          <word id="26" lem="arcade" postag="NC" morpho="g=f|n=p" head="24" dep="dep_coord">arcades</word>
-          <word id="27" lem="soutenir" postag="VPP" morpho="g=f|n=p|t=past" head="26" dep="mod">soutenues</word>
-          <word id="28" lem="par" postag="P" morpho="_" head="27" dep="p_obj">par</word>
-          <word id="29" lem="deux" postag="NC" morpho="g=m" head="28" dep="prep">deux</word>
-          <word id="30" lem="ranger" postag="VPP" morpho="g=f|n=p|t=past" head="29" dep="mod">rangées</word>
-          <word id="31" lem="de" postag="P" morpho="_" head="30" dep="de_obj">de</word>
-          <word id="32" lem="colonne" postag="NC" morpho="g=f|n=p" head="31" dep="prep">colonnes</word>
-          <word id="33" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="34" lem="ou" postag="CC" morpho="_" head="6" dep="coord">ou</word>
-          <word id="35" lem="par" postag="P" morpho="_" head="34" dep="dep_coord">par</word>
-          <word id="36" lem="un" postag="DET" morpho="g=m|n=s" head="37" dep="det">un</word>
-          <word id="37" lem="mur" postag="NC" morpho="g=m|n=s" head="35" dep="prep">mur</word>
-          <word id="38" lem="et" postag="CC" morpho="_" head="37" dep="coord">et</word>
-          <word id="39" lem="une" postag="DET" morpho="g=f|n=s" head="40" dep="det">une</word>
-          <word id="40" lem="rangée" postag="NC" morpho="g=f|n=s" head="38" dep="dep_coord">rangée</word>
-          <word id="41" lem="de" postag="P" morpho="_" head="40" dep="dep">de</word>
-          <word id="42" lem="colonne" postag="NC" morpho="g=f|n=p" head="41" dep="prep">colonnes</word>
-          <word id="43" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-          <word id="2" lem="poutre" postag="NC" morpho="g=f|n=s" head="0" dep="_">poutre</word>
-          <word id="3" lem="horizontal" postag="ADJ" morpho="g=f|n=s" head="2" dep="mod">horizontale</word>
-          <word id="4" lem="soutenir" postag="VPP" morpho="g=f|n=s|t=past" head="2" dep="mod">soutenue</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="4" dep="a_obj">à</word>
-          <word id="6" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="7" dep="det">ses</word>
-          <word id="7" lem="extrémité" postag="NC" morpho="g=f|n=p" head="5" dep="prep">extrémités</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
-          <word id="9" lem="des" postag="DET" morpho="n=p" head="10" dep="det">des</word>
-          <word id="10" lem="poteau" postag="NC" morpho="g=m|n=p" head="8" dep="prep">poteaux</word>
-          <word id="11" lem="vertical" postag="ADJ" morpho="g=m|n=p" head="10" dep="mod">verticaux</word>
-          <word id="12" lem="ou" postag="CC" morpho="_" head="11" dep="coord">ou</word>
-          <word id="13" lem="oblique" postag="ADJ" morpho="n=p" head="12" dep="dep_coord">obliques</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="15" lem="à" postag="P" morpho="_" head="18" dep="mod">à</word>
-          <word id="16" lem="lequel" postag="PROREL" morpho="g=f|n=s" head="15" dep="prep">laquelle</word>
-          <word id="17" lem="on" postag="CLS" morpho="n=s|p=3" head="18" dep="suj">on</word>
-          <word id="18" lem="accrocher" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">accroche</word>
-          <word id="19" lem="des" postag="DET" morpho="n=p" head="20" dep="det">des</word>
-          <word id="20" lem="agrès" postag="NC" morpho="g=m" head="18" dep="obj">agrès</word>
-          <word id="21" lem=":" postag="PONCT" morpho="_" head="18" dep="ponct">:</word>
-          <word id="22" lem="un" postag="DET" morpho="g=m|n=s" head="23" dep="det">un</word>
-          <word id="23" lem="portique" postag="NC" morpho="g=m|n=s" head="18" dep="mod">portique</word>
-          <word id="24" lem="de" postag="P" morpho="_" head="23" dep="dep">de</word>
-          <word id="25" lem="gymnastique" postag="NC" morpho="g=f|n=s" head="24" dep="prep">gymnastique</word>
-          <word id="26" lem="ou" postag="CC" morpho="_" head="24" dep="coord">ou</word>
-          <word id="27" lem="de" postag="P" morpho="_" head="26" dep="dep_coord">de</word>
-          <word id="28" lem="jeu" postag="NC" morpho="g=m|n=p" head="27" dep="prep">jeux</word>
-          <word id="29" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="portique" postag="NC" morpho="g=m|n=s" head="5" dep="suj">portique</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="manutention" postag="NC" morpho="g=f|n=s" head="3" dep="prep">manutention</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="appareil" postag="NC" morpho="g=m|n=s" head="5" dep="ats">appareil</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="levage" postag="NC" morpho="g=m|n=s" head="8" dep="prep">levage</word>
-          <word id="10" lem="en" postag="P" morpho="_" head="5" dep="mod">en</word>
-          <word id="11" lem="forme" postag="NC" morpho="g=f|n=s" head="10" dep="prep">forme</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="pont" postag="NC" morpho="g=m|n=s" head="12" dep="prep">pont</word>
-          <word id="14" lem="se" postag="CLR" morpho="n=p|p=3" head="15" dep="aff">se</word>
-          <word id="15" lem="déplacer" postag="VPR" morpho="t=pst" head="10" dep="prep">déplaçant</word>
-          <word id="16" lem="à" postag="P+D" morpho="g=m|n=s" head="15" dep="a_obj">au</word>
-          <word id="17" lem="sol" postag="NC" morpho="g=m|n=p" head="16" dep="prep">sol</word>
-          <word id="18" lem="sur" postag="P" morpho="_" head="15" dep="mod">sur</word>
-          <word id="19" lem="des" postag="DET" morpho="n=p" head="20" dep="det">des</word>
-          <word id="20" lem="rail" postag="NC" morpho="g=m|n=p" head="18" dep="prep">rails</word>
-          <word id="21" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="*" postag="PONCT" morpho="_" head="6" dep="ponct">*</word>
-          <word id="2" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">Un</word>
-          <word id="3" lem="portique" postag="NC" morpho="g=m|n=s" head="6" dep="suj">portique</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="signalisation" postag="NC" morpho="g=f|n=s" head="4" dep="prep">signalisation</word>
-          <word id="6" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="support" postag="NC" morpho="g=m|n=s" head="6" dep="ats">support</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="signal" postag="NC" morpho="g=m|n=p" head="9" dep="prep">signaux</word>
-          <word id="11" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep_coord">de</word>
-          <word id="13" lem="panneau" postag="NC" morpho="g=m|n=p" head="12" dep="prep">panneaux</word>
-          <word id="14" lem="enjamber" postag="VPR" morpho="t=pst" head="13" dep="mod">enjambant</word>
-          <word id="15" lem="une" postag="DET" morpho="g=f|n=s" head="16" dep="det">une</word>
-          <word id="16" lem="autoroute" postag="NC" morpho="g=f|n=s" head="14" dep="obj">autoroute</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="18" lem="des" postag="DET" morpho="n=p" head="19" dep="det">des</word>
-          <word id="19" lem="voie" postag="NC" morpho="g=f|n=p" head="6" dep="ats">voies</word>
-          <word id="20" lem="ferrer" postag="ADJ" morpho="g=f|n=p|t=past" head="19" dep="mod">ferrées</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="22" lem="un" postag="DET" morpho="g=m|n=s" head="23" dep="det">un</word>
-          <word id="23" lem="canal" postag="NC" morpho="g=m|n=s" head="6" dep="ats">canal</word>
-          <word id="24" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="25" lem="..." postag="PONCT" morpho="_" head="6" dep="ponct">...</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="portique" postag="NC" morpho="g=m|n=s" head="5" dep="suj">portique</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="lavage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">lavage</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="dispositif" postag="NC" morpho="g=m|n=s" head="5" dep="ats">dispositif</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="lavage" postag="NC" morpho="g=m|n=s" head="8" dep="prep">lavage</word>
-          <word id="10" lem="automatique" postag="ADJ" morpho="n=s" head="9" dep="mod">automatique</word>
-          <word id="11" lem="pour" postag="P" morpho="_" head="5" dep="mod">pour</word>
-          <word id="12" lem="les" postag="DET" morpho="n=p" head="13" dep="det">les</word>
-          <word id="13" lem="véhicule" postag="NC" morpho="g=m|n=p" head="11" dep="prep">véhicules</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="portique" postag="NC" morpho="g=m|n=s" head="5" dep="suj">portique</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="détection" postag="NC" morpho="g=f|n=s" head="3" dep="prep">détection</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-          <word id="7" lem="cadre" postag="NC" morpho="g=m|n=s" head="5" dep="ats">cadre</word>
-          <word id="8" lem="munir" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod">muni</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="de_obj">d'</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="dispositif" postag="NC" morpho="g=m|n=s" head="9" dep="prep">dispositif</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">de</word>
-          <word id="13" lem="détection" postag="NC" morpho="g=f|n=s" head="12" dep="prep">détection</word>
-          <word id="14" lem="magnétique" postag="ADJ" morpho="n=s" head="13" dep="mod">magnétique</word>
-          <word id="15" lem="utiliser" postag="VPP" morpho="g=m|n=s|t=past" head="11" dep="mod">utilisé</word>
-          <word id="16" lem="dans" postag="P" morpho="_" head="15" dep="mod">dans</word>
-          <word id="17" lem="certains" postag="DET" morpho="g=m|n=p" head="18" dep="det">certains</word>
-          <word id="18" lem="lieu" postag="NC" morpho="g=m|n=p" head="16" dep="prep">lieux</word>
-          <word id="19" lem="public" postag="ADJ" morpho="g=m|n=p" head="18" dep="mod">publics</word>
-          <word id="20" lem="pour" postag="P" morpho="_" head="8" dep="mod">pour</word>
-          <word id="21" lem="contrôler" postag="VINF" morpho="_" head="20" dep="prep">contrôler</word>
-          <word id="22" lem="que" postag="CS" morpho="_" head="21" dep="obj">que</word>
-          <word id="23" lem="les" postag="DET" morpho="n=p" head="24" dep="det">les</word>
-          <word id="24" lem="personne" postag="NC" morpho="g=f|n=p" head="26" dep="suj">personnes</word>
-          <word id="25" lem="ne" postag="ADV" morpho="_" head="26" dep="mod">ne</word>
-          <word id="26" lem="transporter" postag="V" morpho="n=p|p=3|t=pst" head="22" dep="sub">transportent</word>
-          <word id="27" lem="pas" postag="ADV" morpho="_" head="26" dep="mod">pas</word>
-          <word id="28" lem="de" postag="DET" morpho="n=p" head="29" dep="det">d'</word>
-          <word id="29" lem="arme" postag="NC" morpho="g=f|n=p" head="26" dep="obj">armes</word>
-          <word id="30" lem="en" postag="P" morpho="_" head="26" dep="mod">en</word>
-          <word id="31" lem="métal" postag="NC" morpho="g=m|n=s" head="30" dep="prep">métal</word>
-          <word id="32" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">Un</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="3" dep="suj">pont-portique</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="pont" postag="NC" morpho="g=m|n=s" head="3" dep="ats">pont</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="un" postag="DET" morpho="g=m|n=s" head="8" dep="det">un</word>
-          <word id="8" lem="modèle" postag="NC" morpho="g=m|n=s" head="6" dep="prep">modèle</word>
-          <word id="9" lem="particulier" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">particulier</word>
-          <word id="10" lem="en" postag="P" morpho="_" head="8" dep="dep">en</word>
-          <word id="11" lem="automobile" postag="NC" morpho="g=f|n=s" head="10" dep="prep">automobile</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="13" lem="constituer" postag="VPP" morpho="g=m|n=s|t=past" head="8" dep="mod">constitué</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="de_obj">de</word>
-          <word id="15" lem="cascade" postag="NC" morpho="g=f|n=p" head="14" dep="prep">cascades</word>
-          <word id="16" lem="de" postag="P" morpho="_" head="15" dep="dep">de</word>
-          <word id="17" lem="pignon" postag="NC" morpho="g=m|n=p" head="16" dep="prep">pignons</word>
-          <word id="18" lem="sur" postag="P" morpho="_" head="13" dep="mod">sur</word>
-          <word id="19" lem="une" postag="DET" morpho="g=f|n=s" head="20" dep="det">une</word>
-          <word id="20" lem="transmission" postag="NC" morpho="g=f|n=s" head="18" dep="prep">transmission</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-          <word id="22" lem="dans" postag="P" morpho="_" head="13" dep="mod">dans</word>
-          <word id="23" lem="le" postag="DET" morpho="g=m|n=s" head="24" dep="det">le</word>
-          <word id="24" lem="but" postag="NC" morpho="g=m|n=s" head="22" dep="prep">but</word>
-          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="dep">de</word>
-          <word id="26" lem="réhausser" postag="VINF" morpho="_" head="25" dep="prep">réhausser</word>
-          <word id="27" lem="la" postag="DET" morpho="g=f|n=s" head="28" dep="det">la</word>
-          <word id="28" lem="garde" postag="NC" morpho="n=s" head="26" dep="obj">garde</word>
-          <word id="29" lem="à" postag="P+D" morpho="g=m|n=s" head="28" dep="dep">au</word>
-          <word id="30" lem="sol" postag="NC" morpho="g=m|n=p" head="29" dep="prep">sol</word>
-          <word id="31" lem="de" postag="P" morpho="_" head="30" dep="dep">d'</word>
-          <word id="32" lem="un" postag="DET" morpho="g=m|n=s" head="33" dep="det">un</word>
-          <word id="33" lem="véhicule" postag="NC" morpho="g=m|n=s" head="31" dep="prep">véhicule</word>
-          <word id="34" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-          <word id="35" lem="on" postag="CLS" morpho="n=s|p=3" head="36" dep="suj">on</word>
-          <word id="36" lem="trouver" postag="V" morpho="n=s|p=13|t=pst" head="3" dep="mod">trouve</word>
-          <word id="37" lem="ce" postag="DET" morpho="g=m|n=s" head="38" dep="det">ce</word>
-          <word id="38" lem="dispositif" postag="NC" morpho="g=m|n=s" head="36" dep="obj">dispositif</word>
-          <word id="39" lem="sur" postag="P" morpho="_" head="36" dep="mod">sur</word>
-          <word id="40" lem="des" postag="DET" morpho="n=p" head="41" dep="det">des</word>
-          <word id="41" lem="véhicule" postag="NC" morpho="g=m|n=p" head="39" dep="prep">véhicules</word>
-          <word id="42" lem="tel" postag="ADJ" morpho="g=m|n=p" head="41" dep="mod">tels</word>
-          <word id="43" lem="que" postag="CS" morpho="_" head="42" dep="dep">que</word>
-          <word id="44" lem="les" postag="DET" morpho="n=p" head="45" dep="det">les</word>
-          <word id="45" lem="4x4" postag="NC" morpho="g=m" head="43" dep="sub">4x4</word>
-          <word id="46" lem="_" postag="NPP" morpho="_" head="45" dep="mod">Unimog</word>
-          <word id="47" lem="," postag="PONCT" morpho="_" head="45" dep="ponct">,</word>
-          <word id="48" lem="_" postag="NPP" morpho="_" head="45" dep="mod">Pinzgauer</word>
-          <word id="49" lem="," postag="PONCT" morpho="_" head="45" dep="ponct">,</word>
-          <word id="50" lem="_" postag="NPP" morpho="_" head="45" dep="mod">Luaz</word>
-          <word id="51" lem="," postag="PONCT" morpho="_" head="45" dep="ponct">,</word>
-          <word id="52" lem="_" postag="NPP" morpho="_" head="45" dep="mod">Hummer</word>
-          <word id="53" lem="_" postag="NPP" morpho="_" head="52" dep="mod">H1</word>
-          <word id="54" lem="..." postag="PONCT" morpho="_" head="3" dep="ponct">...</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="autres" postag="ADJ" morpho="n=p" head="2" dep="mod">Autres</word>
-        <word id="2" lem="sens" postag="NC" morpho="g=m" head="0" dep="root">sens</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="école" postag="NC" morpho="g=f|n=s" head="5" dep="suj">école</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Portique</word>
-          <word id="5" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="école" postag="NC" morpho="g=f|n=s" head="5" dep="ats">école</word>
-          <word id="8" lem="philosophique" postag="ADJ" morpho="n=s" head="7" dep="mod">philosophique</word>
-          <word id="9" lem="fonder" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">fondée</word>
-          <word id="10" lem="par" postag="P" morpho="_" head="9" dep="p_obj">par</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Zénon</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="prep">Citium</word>
-          <word id="14" lem="en" postag="P" morpho="_" head="7" dep="dep">en</word>
-          <word id="15" lem="#NUM#" postag="DET" morpho="n=p" head="16" dep="det">301</word>
-          <word id="16" lem="_" postag="NC" morpho="_" head="14" dep="prep">av</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="8" dep="suj">J</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">.-C</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-          <word id="4" lem="-" postag="PONCT" morpho="_" head="1" dep="ponct">-</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="6" lem="grec" postag="NC" morpho="g=m|n=s" head="5" dep="prep">grec</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="6" dep="mod">stoa</word>
-          <word id="8" lem="signifier" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">signifie</word>
-          <word id="9" lem="_" postag="ADJ" morpho="_" head="8" dep="mod">portique</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="11" lem="d'où" postag="P" morpho="_" head="8" dep="mod">d'où</word>
-          <word id="12" lem="le" postag="DET" morpho="g=m|n=s" head="13" dep="det">le</word>
-          <word id="13" lem="nom" postag="NC" morpho="g=m|n=s" head="11" dep="prep">nom</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-          <word id="15" lem="stoïcisme" postag="NC" morpho="g=m|n=s" head="14" dep="prep">stoïcisme</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="8" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Portique</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="centre" postag="NC" morpho="g=m|n=s" head="3" dep="ats">centre</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-          <word id="7" lem="art" postag="NC" morpho="g=m|n=s" head="6" dep="prep">art</word>
-          <word id="8" lem="contemporain" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">contemporain</word>
-          <word id="9" lem="situer" postag="VPP" morpho="g=m|n=s|t=past" head="7" dep="mod">situé</word>
-          <word id="10" lem="à" postag="P+D" morpho="g=m|n=s" head="9" dep="a_obj">au</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="10" dep="prep">Havre</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="13" lem="France" postag="NPP" morpho="g=m|n=s" head="3" dep="mod">France</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="3" dep="suj">Portique</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="bâtiment" postag="NC" morpho="g=m|n=s" head="3" dep="ats">bâtiment</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="_" postag="NC" morpho="_" head="6" dep="prep">Université</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Strasbourg" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Strasbourg</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="3" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -449,8 +99,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -471,8 +121,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -483,8 +133,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -499,8 +149,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -513,8 +163,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -525,8 +175,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -537,8 +187,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -549,8 +199,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -561,8 +211,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -573,8 +223,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -585,8 +235,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
@@ -597,8 +247,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -609,8 +259,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -623,8 +273,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -637,8 +287,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
@@ -649,8 +299,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="item" idItem="2">
@@ -663,8 +313,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -677,8 +327,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -691,8 +341,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -708,8 +358,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:51</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -734,8 +384,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -748,8 +398,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -762,8 +412,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -779,8 +429,8 @@ Le Portique est un bâtiment de l'Université de Strasbourg.</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 3:09</date>
+      <auteur>Autre</auteur>
+      <date>8/01/13 14:57</date>
       <document>Portique.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">

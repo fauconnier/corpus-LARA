@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SE>
@@ -12,13 +12,13 @@
       <text>Une calanque (calanca ou calanco en occitan ou provençal, calanca en corse et en italien; cala en catalan)</text>
       <span begin="13" end="119" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SE>
@@ -46,7 +46,7 @@ Calanque de Port-Miou</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SE>
@@ -64,8 +64,8 @@ Les criques suivantes, depuis le Rouet jusqu'à la Couronne (commune de Martigue
   <annotation type="1">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SE>
@@ -78,290 +78,87 @@ Les criques suivantes, depuis le Rouet jusqu'à la Couronne (commune de Martigue
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="2" dep="det">Une</word>
-        <word id="2" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">calanque</word>
-        <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="root">calanca</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="VPP" morpho="_" head="0" dep="_">calanco</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="mod">en</word>
-          <word id="3" lem="occitan" postag="NC" morpho="g=m|n=s" head="2" dep="prep">occitan</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="2" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="provençal" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">provençal</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="VPP" morpho="_" head="0" dep="_">calanca</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="mod">en</word>
-          <word id="3" lem="corse" postag="NC" morpho="n=s" head="2" dep="prep">corse</word>
-          <word id="4" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="4" dep="dep_coord">en</word>
-          <word id="6" lem="italien" postag="NC" morpho="g=m|n=s" head="5" dep="prep">italien</word>
-          <word id="7" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="caler" postag="V" morpho="n=s|p=3|t=past" head="0" dep="root">cala</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="mod">en</word>
-          <word id="3" lem="catalan" postag="NC" morpho="g=m|n=s" head="2" dep="prep">catalan</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="liste" postag="NC" morpho="g=f|n=s" head="7" dep="suj">Liste</word>
-        <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-        <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Calanques</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">d'</word>
-        <word id="5" lem="ouest" postag="NC" morpho="g=m|n=s" head="4" dep="prep">ouest</word>
-        <word id="6" lem="en" postag="CLO" morpho="_" head="7" dep="aff">en</word>
-        <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="8" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Callelongue" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Callelongue</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="prep">Mounine</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Marseilleveyre</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Podestat</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="root">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="prep">Escu</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Sormiou</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="prep">Triperie</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Morgiou</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Sugiton</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Devenson</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="root">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="prep">Oule</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">En-Vau</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Port-Pin</word>
-        </sentence>
-      </item>
-      <item id="13">
-        <sentence id="1">
-          <word id="1" lem="calanque" postag="NC" morpho="g=f|n=s" head="0" dep="_">Calanque</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Port-Miou</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
+      <item id="13" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-        <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Côte</word>
-        <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Bleue</word>
-        <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        <word id="5" lem="à" postag="P" morpho="_" head="0" dep="_">à</word>
-        <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-        <word id="7" lem="ouest" postag="NC" morpho="g=m|n=s" head="5" dep="prep">ouest</word>
-        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-        <word id="9" lem="Marseille" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Marseille</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="de" postag="P" morpho="_" head="2" dep="mod">D'</word>
-        <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="3" lem="en" postag="P" morpho="_" head="2" dep="ats">en</word>
-        <word id="4" lem="ouest" postag="NC" morpho="g=m|n=s" head="3" dep="prep">ouest</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        <word id="6" lem="on" postag="CLS" morpho="n=s|p=3" head="7" dep="suj">on</word>
-        <word id="7" lem="trouver" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod">trouve</word>
-        <word id="8" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">l'</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Establon</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="coord">,</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="dep_coord">Vesse</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="2" dep="coord">,</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="dep_coord">Niolon</word>
-          <word id="8" lem="sur" postag="P" morpho="_" head="0" dep="_">sur</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="commune" postag="NC" morpho="g=f|n=s" head="8" dep="prep">commune</word>
-          <word id="11" lem="de" postag="P+D" morpho="g=m|n=s" head="10" dep="dep">du</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="11" dep="prep">Rove</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Méjean</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="0" dep="_">Figuières</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="0" dep="_">Redonne</word>
-          <word id="8" lem="sur" postag="P" morpho="_" head="7" dep="dep">sur</word>
-          <word id="9" lem="la" postag="DET" morpho="g=f|n=s" head="10" dep="det">la</word>
-          <word id="10" lem="commune" postag="NC" morpho="g=f|n=s" head="8" dep="prep">commune</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">d'</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="11" dep="prep">Ensuès-la-Redonne</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Sources</word>
-          <word id="3" lem="saler" postag="VPP" morpho="g=f|n=p|t=past" head="2" dep="mod">salées</word>
-          <word id="4" lem="sur" postag="P" morpho="_" head="3" dep="mod">sur</word>
-          <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=s" head="4" dep="prep">commune</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="Carry-le-Rouet" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Carry-le-Rouet</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="cloture" idSE="2">
@@ -372,71 +169,29 @@ Les criques suivantes, depuis le Rouet jusqu'à la Couronne (commune de Martigue
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="de" postag="P" morpho="_" head="11" dep="mod">De</word>
-        <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="prep">Saint-Raphaël</word>
-        <word id="3" lem="à" postag="P" morpho="_" head="1" dep="arg">à</word>
-        <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Mandelieu-la-Napoule</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-        <word id="7" lem="massif" postag="NC" morpho="g=m|n=s" head="11" dep="suj">massif</word>
-        <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-        <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-        <word id="10" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Estérel</word>
-        <word id="11" lem="tomber" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">tombe</word>
-        <word id="12" lem="à" postag="P" morpho="_" head="11" dep="mod">à</word>
-        <word id="13" lem="pic" postag="NC" morpho="g=m|n=s" head="12" dep="prep">pic</word>
-        <word id="14" lem="dans" postag="P" morpho="_" head="11" dep="mod">dans</word>
-        <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-        <word id="16" lem="mer" postag="NC" morpho="g=f|n=s" head="14" dep="prep">mer</word>
-        <word id="17" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-        <word id="18" lem="qui" postag="PROREL" morpho="n=s" head="19" dep="suj">qui</word>
-        <word id="19" lem="découper" postag="V" morpho="n=s|p=13|t=pst" head="11" dep="mod">découpe</word>
-        <word id="20" lem="de" postag="P" morpho="_" head="19" dep="de_obj">de</word>
-        <word id="21" lem="multiple" postag="ADJ" morpho="n=p" head="22" dep="mod">multiples</word>
-        <word id="22" lem="crique" postag="NC" morpho="g=f|n=p" head="20" dep="prep">criques</word>
-        <word id="23" lem="sauvage" postag="ADJ" morpho="n=p" head="22" dep="mod">sauvages</word>
-        <word id="24" lem="ou" postag="CC" morpho="_" head="23" dep="coord">ou</word>
-        <word id="25" lem="habiter" postag="ADJ" morpho="g=f|n=p|t=past" head="24" dep="dep_coord">habitées</word>
-        <word id="26" lem="(" postag="PONCT" morpho="_" head="22" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-          <word id="2" lem="Agay" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Agay</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Trayas</word>
-          <word id="3" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -447,8 +202,8 @@ Les criques suivantes, depuis le Rouet jusqu'à la Couronne (commune de Martigue
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -468,7 +223,7 @@ Les criques suivantes, depuis le Rouet jusqu'à la Couronne (commune de Martigue
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -480,7 +235,7 @@ Les criques suivantes, depuis le Rouet jusqu'à la Couronne (commune de Martigue
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -518,7 +273,7 @@ Les criques suivantes, depuis le Rouet jusqu'à la Couronne (commune de Martigue
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -531,7 +286,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -547,7 +302,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="cloture" idSE="2">
@@ -558,8 +313,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -570,8 +325,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -584,8 +339,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -596,8 +351,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -608,8 +363,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -620,8 +375,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -632,8 +387,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -644,8 +399,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
@@ -656,8 +411,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="3">
@@ -668,8 +423,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="4">
@@ -681,7 +436,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -693,7 +448,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -705,7 +460,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -717,7 +472,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -729,7 +484,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -741,7 +496,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="4">
@@ -753,7 +508,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="5">
@@ -765,7 +520,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="6">
@@ -777,7 +532,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="7">
@@ -789,7 +544,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="8">
@@ -801,7 +556,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="9">
@@ -813,7 +568,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="10">
@@ -825,7 +580,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="11">
@@ -837,7 +592,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="12">
@@ -849,7 +604,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="13">
@@ -861,7 +616,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -873,7 +628,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
@@ -885,7 +640,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
@@ -897,7 +652,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -913,7 +668,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -929,7 +684,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -941,7 +696,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
@@ -953,7 +708,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
@@ -965,7 +720,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="1">
@@ -977,7 +732,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="item" idItem="2">
@@ -989,7 +744,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
@@ -1000,8 +755,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
@@ -1012,8 +767,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -1024,8 +779,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -1036,8 +791,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1050,8 +805,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1064,8 +819,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1081,8 +836,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:14</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1108,7 +863,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1122,7 +877,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1136,7 +891,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1153,7 +908,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 9:55</date>
+      <date>3/01/14 9:55</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -1179,7 +934,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1193,7 +948,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -1207,7 +962,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -1224,7 +979,7 @@ D’est en ouest, on trouve :</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 10:00</date>
+      <date>3/01/14 10:00</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -1249,8 +1004,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -1263,8 +1018,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -1277,8 +1032,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -1294,8 +1049,8 @@ D’est en ouest, on trouve :</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:13</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 10:01</date>
       <document>Calanque.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">

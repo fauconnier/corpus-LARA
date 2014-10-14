@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SE>
@@ -14,13 +14,13 @@ la courbe des pressions : c'est l'enveloppe de la résultante des actions qui s'
 la rupture par blocs : la voûte est supposée se casser en trois blocs indépendants qui se séparent par glissement, le frottement est supposé nul. Ces hypothèses, fausses, permirent néanmoins d'approcher le calcul des culées.</text>
       <span begin="13102" end="13650" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SE>
@@ -37,7 +37,7 @@ les ponts en arc, présentant une composante oblique de compression tendant à �
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SE>
@@ -53,330 +53,73 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-        <word id="2" lem="ne" postag="ADV" morpho="_" head="3" dep="mod">ne</word>
-        <word id="3" lem="réussir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">réussit</word>
-        <word id="4" lem="pas" postag="ADV" morpho="_" head="3" dep="mod">pas</word>
-        <word id="5" lem="à" postag="P" morpho="_" head="3" dep="a_obj">à</word>
-        <word id="6" lem="obtenir" postag="VINF" morpho="_" head="5" dep="prep">obtenir</word>
-        <word id="7" lem="des" postag="DET" morpho="n=p" head="8" dep="det">des</word>
-        <word id="8" lem="résultat" postag="NC" morpho="g=m|n=p" head="6" dep="obj">résultats</word>
-        <word id="9" lem="suffisant" postag="ADJ" morpho="g=m|n=p" head="8" dep="mod">suffisants</word>
-        <word id="10" lem="pour" postag="P" morpho="_" head="6" dep="mod">pour</word>
-        <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-        <word id="12" lem="pratique" postag="NC" morpho="g=f|n=s" head="10" dep="prep">pratique</word>
-        <word id="13" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-        <word id="14" lem="mais" postag="CC" morpho="_" head="3" dep="coord">mais</word>
-        <word id="15" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="16" dep="suj">il</word>
-        <word id="16" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="14" dep="dep_coord">a</word>
-        <word id="17" lem="toutefois" postag="ADV" morpho="_" head="16" dep="mod">toutefois</word>
-        <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
-        <word id="19" lem="mérite" postag="NC" morpho="g=m|n=s" head="16" dep="obj">mérite</word>
-        <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
-        <word id="21" lem="mettre" postag="VINF" morpho="_" head="20" dep="prep">mettre</word>
-        <word id="22" lem="en" postag="P" morpho="_" head="21" dep="p_obj">en</word>
-        <word id="23" lem="évidence" postag="NC" morpho="g=f|n=s" head="22" dep="prep">évidence</word>
-        <word id="24" lem="deux" postag="ADJ" morpho="n=p" head="23" dep="mod">deux</word>
-        <word id="25" lem="notion" postag="NC" morpho="g=f|n=p" head="23" dep="mod">notions</word>
-        <word id="26" lem="qui" postag="PROREL" morpho="n=s" head="34" dep="suj">qui</word>
-        <word id="27" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
-        <word id="28" lem="un" postag="DET" morpho="g=m|n=s" head="29" dep="det">un</word>
-        <word id="29" lem="siècle" postag="NC" morpho="g=m|n=s" head="34" dep="suj">siècle</word>
-        <word id="30" lem="plus" postag="ADV" morpho="_" head="31" dep="mod">plus</word>
-        <word id="31" lem="tard" postag="ADV" morpho="_" head="29" dep="mod">tard</word>
-        <word id="32" lem="," postag="PONCT" morpho="_" head="34" dep="ponct">,</word>
-        <word id="33" lem="se" postag="CLR" morpho="n=p|p=3" head="34" dep="aff">se</word>
-        <word id="34" lem="_" postag="V" morpho="_" head="25" dep="mod_rel">révèleront</word>
-        <word id="35" lem="extrêmement" postag="ADV" morpho="_" head="34" dep="mod">extrêmement</word>
-        <word id="36" lem="fécond" postag="ADJ" morpho="g=f|n=p" head="34" dep="ats">fécondes</word>
-        <word id="37" lem=":" postag="PONCT" morpho="_" head="16" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="courbe" postag="NC" morpho="g=f|n=s" head="7" dep="mod">courbe</word>
-          <word id="3" lem="de" postag="P+D" morpho="n=p" head="2" dep="dep">des</word>
-          <word id="4" lem="pression" postag="NC" morpho="g=f|n=p" head="3" dep="prep">pressions</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="7" dep="ponct">:</word>
-          <word id="6" lem="ce" postag="CLS" morpho="_" head="7" dep="suj">c'</word>
-          <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="enveloppe" postag="NC" morpho="g=f|n=s" head="7" dep="ats">enveloppe</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="la" postag="DET" morpho="g=f|n=s" head="12" dep="det">la</word>
-          <word id="12" lem="résultante" postag="NC" morpho="g=f|n=s" head="10" dep="prep">résultante</word>
-          <word id="13" lem="de" postag="P+D" morpho="n=p" head="12" dep="dep">des</word>
-          <word id="14" lem="action" postag="NC" morpho="g=f|n=p" head="13" dep="prep">actions</word>
-          <word id="15" lem="qui" postag="PROREL" morpho="n=s" head="17" dep="suj">qui</word>
-          <word id="16" lem="se" postag="CLR" morpho="p=3" head="17" dep="aff">s'</word>
-          <word id="17" lem="exercer" postag="V" morpho="n=p|p=3|t=pst" head="14" dep="mod_rel">exercent</word>
-          <word id="18" lem="sur" postag="P" morpho="_" head="17" dep="mod">sur</word>
-          <word id="19" lem="un" postag="DET" morpho="g=m|n=s" head="20" dep="det">un</word>
-          <word id="20" lem="joint" postag="NC" morpho="g=m|n=s" head="18" dep="prep">joint</word>
-          <word id="21" lem="quelconque" postag="ADJ" morpho="n=s" head="20" dep="mod">quelconque</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="20" dep="dep">de</word>
-          <word id="23" lem="la" postag="DET" morpho="g=f|n=s" head="24" dep="det">la</word>
-          <word id="24" lem="voûte" postag="NC" morpho="g=f|n=s" head="22" dep="prep">voûte</word>
-          <word id="25" lem="," postag="PONCT" morpho="_" head="20" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="rupture" postag="NC" morpho="g=f|n=s" head="9" dep="suj">rupture</word>
-          <word id="3" lem="par" postag="P" morpho="_" head="2" dep="dep">par</word>
-          <word id="4" lem="bloc" postag="NC" morpho="g=m|n=p" head="3" dep="prep">blocs</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
-          <word id="6" lem="la" postag="DET" morpho="g=f|n=s" head="7" dep="det">la</word>
-          <word id="7" lem="voûte" postag="NC" morpho="g=f|n=s" head="9" dep="suj">voûte</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="9" dep="aux_pass">est</word>
-          <word id="9" lem="supposer" postag="VPP" morpho="g=f|n=s|t=past" head="0" dep="root">supposée</word>
-          <word id="10" lem="se" postag="CLR" morpho="n=p|p=3" head="11" dep="aff">se</word>
-          <word id="11" lem="casser" postag="VINF" morpho="_" head="9" dep="obj">casser</word>
-          <word id="12" lem="en" postag="P" morpho="_" head="11" dep="mod">en</word>
-          <word id="13" lem="deux" postag="NC" morpho="g=m" head="12" dep="prep">trois</word>
-          <word id="14" lem="bloc" postag="NC" morpho="g=m|n=p" head="13" dep="mod">blocs</word>
-          <word id="15" lem="indépendant" postag="ADJ" morpho="g=m|n=p" head="14" dep="mod">indépendants</word>
-          <word id="16" lem="qui" postag="PROREL" morpho="n=s" head="18" dep="suj">qui</word>
-          <word id="17" lem="se" postag="CLR" morpho="n=p|p=3" head="18" dep="aff">se</word>
-          <word id="18" lem="séparer" postag="V" morpho="n=p|p=3|t=pst" head="11" dep="mod">séparent</word>
-          <word id="19" lem="par" postag="P" morpho="_" head="18" dep="mod">par</word>
-          <word id="20" lem="glissement" postag="NC" morpho="g=m|n=s" head="19" dep="prep">glissement</word>
-          <word id="21" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="22" lem="le" postag="DET" morpho="g=m|n=s" head="23" dep="det">le</word>
-          <word id="23" lem="frottement" postag="NC" morpho="g=m|n=s" head="25" dep="suj">frottement</word>
-          <word id="24" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="25" dep="aux_pass">est</word>
-          <word id="25" lem="supposer" postag="VPP" morpho="g=m|n=s|t=past" head="9" dep="mod">supposé</word>
-          <word id="26" lem="nul" postag="ADJ" morpho="g=m|n=s" head="25" dep="ats">nul</word>
-          <word id="27" lem="." postag="PONCT" morpho="_" head="9" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="ces" postag="DET" morpho="n=p" head="2" dep="det">Ces</word>
-          <word id="2" lem="hypothèse" postag="NC" morpho="g=f|n=p" head="6" dep="suj">hypothèses</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="faux" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">fausses</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="6" lem="permettre" postag="V" morpho="n=p|p=3|t=past" head="0" dep="root">permirent</word>
-          <word id="7" lem="néanmoins" postag="ADV" morpho="_" head="6" dep="mod">néanmoins</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="6" dep="obj">d'</word>
-          <word id="9" lem="approcher" postag="VINF" morpho="_" head="8" dep="prep">approcher</word>
-          <word id="10" lem="le" postag="DET" morpho="g=m|n=s" head="11" dep="det">le</word>
-          <word id="11" lem="calcul" postag="NC" morpho="g=m|n=s" head="9" dep="obj">calcul</word>
-          <word id="12" lem="de" postag="P+D" morpho="n=p" head="11" dep="dep">des</word>
-          <word id="13" lem="culée" postag="NC" morpho="g=f|n=p" head="12" dep="prep">culées</word>
-          <word id="14" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">Une</word>
-        <word id="2" lem="premier" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">première</word>
-        <word id="3" lem="approche" postag="NC" morpho="g=f|n=s" head="15" dep="suj">approche</word>
-        <word id="4" lem="selon" postag="P" morpho="_" head="3" dep="dep">selon</word>
-        <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-        <word id="6" lem="nature" postag="NC" morpho="g=f|n=s" head="4" dep="prep">nature</word>
-        <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
-        <word id="8" lem="effort" postag="NC" morpho="g=m|n=p" head="7" dep="prep">efforts</word>
-        <word id="9" lem="transmettre" postag="VPP" morpho="g=m|t=past" head="8" dep="mod">transmis</word>
-        <word id="10" lem="à" postag="P+D" morpho="n=p" head="9" dep="a_obj">aux</word>
-        <word id="11" lem="appui" postag="NC" morpho="g=m|n=p" head="10" dep="prep">appuis</word>
-        <word id="12" lem="ou" postag="CC" morpho="_" head="10" dep="coord">ou</word>
-        <word id="13" lem="à" postag="P+D" morpho="n=p" head="12" dep="dep_coord">aux</word>
-        <word id="14" lem="culée" postag="NC" morpho="g=f|n=p" head="13" dep="prep">culées</word>
-        <word id="15" lem="conduire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">conduit</word>
-        <word id="16" lem="à" postag="P" morpho="_" head="15" dep="a_obj">à</word>
-        <word id="17" lem="classer" postag="VINF" morpho="_" head="16" dep="prep">classer</word>
-        <word id="18" lem="les" postag="DET" morpho="n=p" head="19" dep="det">les</word>
-        <word id="19" lem="pont" postag="NC" morpho="g=m|n=p" head="17" dep="obj">ponts</word>
-        <word id="20" lem="en" postag="P" morpho="_" head="17" dep="mod">en</word>
-        <word id="21" lem="deux" postag="NC" morpho="g=m" head="20" dep="prep">trois</word>
-        <word id="22" lem="catégorie" postag="NC" morpho="g=f|n=p" head="21" dep="mod">catégories</word>
-        <word id="23" lem=":" postag="PONCT" morpho="_" head="15" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="pont" postag="NC" morpho="g=m|n=p" head="0" dep="_">ponts</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="câble" postag="NC" morpho="g=m|n=p" head="3" dep="prep">câbles</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="6" lem="présenter" postag="VPR" morpho="t=pst" head="0" dep="_">présentant</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="8" lem="composant" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">composante</word>
-          <word id="9" lem="horizontale" postag="NC" morpho="g=f|n=s" head="6" dep="obj">horizontale</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="traction" postag="NC" morpho="g=f|n=s" head="10" dep="prep">traction</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="6" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="pont" postag="NC" morpho="g=m|n=p" head="0" dep="_">ponts</word>
-          <word id="3" lem="à" postag="P" morpho="_" head="2" dep="dep">à</word>
-          <word id="4" lem="poutre" postag="NC" morpho="g=f|n=p" head="3" dep="prep">poutres</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="exercer" postag="VPR" morpho="t=pst" head="2" dep="mod">exerçant</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="8" dep="det">une</word>
-          <word id="8" lem="action" postag="NC" morpho="g=f|n=s" head="6" dep="obj">action</word>
-          <word id="9" lem="vertical" postag="ADJ" morpho="g=f|n=s" head="8" dep="mod">verticale</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="11" lem="compression" postag="NC" morpho="g=f|n=s" head="10" dep="prep">compression</word>
-          <word id="12" lem="sur" postag="P" morpho="_" head="6" dep="mod">sur</word>
-          <word id="13" lem="leurs" postag="DET" morpho="n=p|p=3|poss=p" head="14" dep="det">leurs</word>
-          <word id="14" lem="appui" postag="NC" morpho="g=m|n=p" head="12" dep="prep">appuis</word>
-          <word id="15" lem=";" postag="PONCT" morpho="_" head="2" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="pont" postag="NC" morpho="g=m|n=p" head="0" dep="_">ponts</word>
-          <word id="3" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="4" lem="arc" postag="NC" morpho="g=m|n=s" head="3" dep="prep">arc</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="présenter" postag="VPR" morpho="t=pst" head="2" dep="mod">présentant</word>
-          <word id="7" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="8" lem="composant" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">composante</word>
-          <word id="9" lem="oblique" postag="NC" morpho="n=s" head="6" dep="obj">oblique</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">de</word>
-          <word id="11" lem="compression" postag="NC" morpho="g=f|n=s" head="10" dep="prep">compression</word>
-          <word id="12" lem="tendre" postag="VPR" morpho="t=pst" head="9" dep="mod">tendant</word>
-          <word id="13" lem="à" postag="P" morpho="_" head="12" dep="a_obj">à</word>
-          <word id="14" lem="éloigner" postag="VINF" morpho="_" head="13" dep="prep">éloigner</word>
-          <word id="15" lem="la" postag="DET" morpho="g=f|n=s" head="16" dep="det">la</word>
-          <word id="16" lem="culée" postag="NC" morpho="g=f|n=s" head="14" dep="obj">culée</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">Une</word>
-        <word id="2" lem="deuxième" postag="ADJ" morpho="n=p" head="3" dep="mod">deuxième</word>
-        <word id="3" lem="approche" postag="NC" morpho="g=f|n=s" head="14" dep="suj">approche</word>
-        <word id="4" lem="selon" postag="P" morpho="_" head="3" dep="dep">selon</word>
-        <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-        <word id="6" lem="nature" postag="NC" morpho="g=f|n=s" head="4" dep="prep">nature</word>
-        <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
-        <word id="8" lem="effort" postag="NC" morpho="g=m|n=p" head="7" dep="prep">efforts</word>
-        <word id="9" lem="dans" postag="P" morpho="_" head="6" dep="dep">dans</word>
-        <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-        <word id="11" lem="élément" postag="NC" morpho="g=m|n=s" head="9" dep="prep">élément</word>
-        <word id="12" lem="structurel" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">structurel</word>
-        <word id="13" lem="porteur" postag="NC" morpho="g=m|n=s" head="11" dep="mod">porteur</word>
-        <word id="14" lem="conduire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">conduit</word>
-        <word id="15" lem="à" postag="P" morpho="_" head="14" dep="a_obj">à</word>
-        <word id="16" lem="classer" postag="VINF" morpho="_" head="15" dep="prep">classer</word>
-        <word id="17" lem="les" postag="DET" morpho="n=p" head="18" dep="det">les</word>
-        <word id="18" lem="pont" postag="NC" morpho="g=m|n=p" head="16" dep="obj">ponts</word>
-        <word id="19" lem="en" postag="P" morpho="_" head="16" dep="mod">en</word>
-        <word id="20" lem="deux" postag="NC" morpho="g=m" head="19" dep="prep">cinq</word>
-        <word id="21" lem="catégorie" postag="NC" morpho="g=f|n=p" head="20" dep="mod">catégories</word>
-        <word id="22" lem=":" postag="PONCT" morpho="_" head="14" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=p" head="0" dep="_">ponts</word>
-          <word id="2" lem="voûter" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="mod">voûtés</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="4" lem="pont" postag="NC" morpho="g=m|n=p" head="3" dep="dep_coord">ponts</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="6" lem="arc" postag="NC" morpho="g=m|n=s" head="5" dep="prep">arc</word>
-          <word id="7" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="8" lem="effort" postag="NC" morpho="g=m|n=p" head="1" dep="mod">efforts</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="compression" postag="NC" morpho="g=f|n=s" head="9" dep="prep">compression</word>
-          <word id="11" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=p" head="0" dep="root">ponts</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="poutre" postag="NC" morpho="g=f|n=p" head="2" dep="prep">poutres</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="5" lem="effort" postag="NC" morpho="g=m|n=p" head="1" dep="mod">efforts</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="flexion" postag="NC" morpho="g=f|n=s" head="6" dep="prep">flexion</word>
-          <word id="8" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=p" head="0" dep="_">ponts</word>
-          <word id="2" lem="suspendre" postag="VPP" morpho="g=m|n=p|t=past" head="1" dep="mod">suspendus</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="4" lem="pont" postag="NC" morpho="g=m|n=p" head="3" dep="dep_coord">ponts</word>
-          <word id="5" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="6" lem="hauban" postag="NC" morpho="g=m|n=p" head="5" dep="prep">haubans</word>
-          <word id="7" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="8" lem="effort" postag="NC" morpho="g=m|n=p" head="1" dep="mod">efforts</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="traction" postag="NC" morpho="g=f|n=s" head="9" dep="prep">traction</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -387,8 +130,8 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -402,7 +145,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -414,7 +157,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -430,7 +173,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -442,7 +185,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -457,8 +200,8 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -469,8 +212,8 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -481,8 +224,8 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -494,7 +237,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -506,7 +249,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -518,7 +261,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -530,7 +273,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -542,7 +285,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="1" localisation="primer" idItem="-1">
@@ -554,7 +297,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
@@ -566,7 +309,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -580,7 +323,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -592,7 +335,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -606,7 +349,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
@@ -617,8 +360,8 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -631,8 +374,8 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -645,8 +388,8 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -662,8 +405,8 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -689,7 +432,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -703,7 +446,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -717,7 +460,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -734,7 +477,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:33</date>
+      <date>8/01/13 10:33</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -760,7 +503,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -774,7 +517,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -788,7 +531,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -805,7 +548,7 @@ ponts suspendus et ponts à haubans : efforts de traction.</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 10:34</date>
+      <date>8/01/13 10:34</date>
       <document>Pont.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">

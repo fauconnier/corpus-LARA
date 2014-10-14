@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SE>
@@ -22,187 +22,42 @@ Pont-levis
 Il est traditionnellement la passerelle située au-dessus du fossé d'un château fort.</text>
       <span begin="182" end="835" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="type" postag="NC" morpho="g=m|n=p" head="0" dep="_">Types</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="3" lem="pont" postag="NC" morpho="g=m|n=p" head="2" dep="prep">ponts</word>
-        <word id="4" lem="mobile" postag="ADJ" morpho="n=p" head="3" dep="mod">mobiles</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">Pont</word>
-          <word id="2" lem="transbordeur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">transbordeur</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">Une</word>
-          <word id="2" lem="haut" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">haute</word>
-          <word id="3" lem="structure" postag="NC" morpho="g=f|n=s" head="0" dep="_">structure</word>
-          <word id="4" lem="métallique" postag="ADJ" morpho="n=s" head="3" dep="mod">métallique</word>
-          <word id="5" lem="faire" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="_">fait</word>
-          <word id="6" lem="passer" postag="VINF" morpho="_" head="5" dep="obj">passer</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="8" lem="dans" postag="P" morpho="_" head="6" dep="mod">dans</word>
-          <word id="9" lem="une" postag="DET" morpho="g=f|n=s" head="10" dep="det">une</word>
-          <word id="10" lem="nacelle" postag="NC" morpho="g=f|n=s" head="8" dep="prep">nacelle</word>
-          <word id="11" lem="suspendre" postag="VPP" morpho="g=f|n=s|t=past" head="10" dep="mod">suspendue</word>
-          <word id="12" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="13" lem="les" postag="DET" morpho="n=p" head="14" dep="det">les</word>
-          <word id="14" lem="véhicule" postag="NC" morpho="g=m|n=p" head="6" dep="obj">véhicules</word>
-          <word id="15" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
-          <word id="16" lem="les" postag="DET" morpho="n=p" head="17" dep="det">les</word>
-          <word id="17" lem="personne" postag="NC" morpho="g=f|n=p" head="15" dep="dep_coord">personnes</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">d'</word>
-          <word id="19" lem="une" postag="DET" morpho="g=f|n=s" head="20" dep="det">une</word>
-          <word id="20" lem="rive" postag="NC" morpho="g=f|n=s" head="18" dep="prep">rive</word>
-          <word id="21" lem="à" postag="P" morpho="_" head="20" dep="dep">à</word>
-          <word id="22" lem="l'" postag="DET" morpho="n=s" head="23" dep="det">l'</word>
-          <word id="23" lem="autre" postag="ADJ" morpho="n=s" head="21" dep="prep">autre</word>
-          <word id="24" lem="par" postag="P" morpho="_" head="20" dep="dep">par</word>
-          <word id="25" lem="translation" postag="NC" morpho="g=f|n=s" head="24" dep="prep">translation</word>
-          <word id="26" lem="horizontal" postag="ADJ" morpho="g=f|n=s" head="25" dep="mod">horizontale</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">Pont</word>
-          <word id="2" lem="tourner" postag="VPR" morpho="t=pst" head="1" dep="mod">tournant</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="tablier" postag="NC" morpho="g=m|n=s" head="5" dep="suj">tablier</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="pont" postag="NC" morpho="g=m|n=s" head="3" dep="prep">pont</word>
-          <word id="5" lem="tourner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">tourne</word>
-          <word id="6" lem="horizontalement" postag="ADV" morpho="_" head="5" dep="mod">horizontalement</word>
-          <word id="7" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-          <word id="8" lem="libérer" postag="V" morpho="n=s|p=13|t=pst" head="7" dep="dep_coord">libère</word>
-          <word id="9" lem="ainsi" postag="ADV" morpho="_" head="8" dep="mod">ainsi</word>
-          <word id="10" lem="le" postag="DET" morpho="g=m|n=s" head="11" dep="det">le</word>
-          <word id="11" lem="passage" postag="NC" morpho="g=m|n=s" head="8" dep="obj">passage</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="dep">d'</word>
-          <word id="13" lem="un" postag="DET" morpho="g=m|n=s" head="14" dep="det">un</word>
-          <word id="14" lem="bateau" postag="NC" morpho="g=m|n=s" head="12" dep="prep">bateau</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="5" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="2" dep="suj">Pont</word>
-          <word id="2" lem="lever" postag="VPR" morpho="t=pst" head="0" dep="_">levant</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="root">Pont</word>
-          <word id="2" lem="dont" postag="PROREL" morpho="_" head="5" dep="de_obj">dont</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="tablier" postag="NC" morpho="g=m|n=s" head="5" dep="suj">tablier</word>
-          <word id="5" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="1" dep="mod_rel">peut</word>
-          <word id="6" lem="se" postag="CLR" morpho="n=p|p=3" head="7" dep="aff">se</word>
-          <word id="7" lem="relever" postag="VINF" morpho="_" head="5" dep="obj">relever</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="mod">par</word>
-          <word id="9" lem="translation" postag="NC" morpho="g=f|n=s" head="8" dep="prep">translation</word>
-          <word id="10" lem="vertical" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">verticale</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="_">Pont</word>
-          <word id="2" lem="basculer" postag="VPR" morpho="t=pst" head="1" dep="mod">basculant</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="pont" postag="NC" morpho="g=m|n=s" head="0" dep="root">Pont</word>
-          <word id="2" lem="dont" postag="PROREL" morpho="_" head="5" dep="de_obj">dont</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="tablier" postag="NC" morpho="g=m|n=s" head="5" dep="suj">tablier</word>
-          <word id="5" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="1" dep="mod_rel">peut</word>
-          <word id="6" lem="se" postag="CLR" morpho="n=p|p=3" head="7" dep="aff">se</word>
-          <word id="7" lem="relever" postag="VINF" morpho="_" head="5" dep="obj">relever</word>
-          <word id="8" lem="par" postag="P" morpho="_" head="7" dep="mod">par</word>
-          <word id="9" lem="rotation" postag="NC" morpho="g=f|n=s" head="8" dep="prep">rotation</word>
-          <word id="10" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="11" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Tower</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Bridge</word>
-          <word id="13" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="14" lem="Londres" postag="NPP" morpho="g=m|n=s" head="13" dep="prep">Londres</word>
-          <word id="15" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="16" lem="axe" postag="NC" morpho="g=m|n=s" head="1" dep="mod">axe</word>
-          <word id="17" lem="parallèle" postag="ADJ" morpho="n=s" head="16" dep="mod">parallèle</word>
-          <word id="18" lem="à" postag="P" morpho="_" head="16" dep="dep">à</word>
-          <word id="19" lem="l'" postag="DET" morpho="n=s" head="20" dep="det">l'</word>
-          <word id="20" lem="obstacle" postag="NC" morpho="g=m|n=s" head="18" dep="prep">obstacle</word>
-          <word id="21" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="22" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-          <word id="23" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Millenimum</word>
-          <word id="24" lem="_" postag="NPP" morpho="_" head="23" dep="mod">Bridge</word>
-          <word id="25" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="26" lem="_" postag="NPP" morpho="_" head="25" dep="prep">Newcastle</word>
-          <word id="27" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="28" lem="axe" postag="NC" morpho="g=m|n=s" head="1" dep="mod">axe</word>
-          <word id="29" lem="perpendiculaire" postag="ADJ" morpho="n=s" head="28" dep="mod">perpendiculaire</word>
-          <word id="30" lem="à" postag="P" morpho="_" head="28" dep="dep">à</word>
-          <word id="31" lem="l'" postag="DET" morpho="n=s" head="32" dep="det">l'</word>
-          <word id="32" lem="obstacle" postag="NC" morpho="g=m|n=s" head="30" dep="prep">obstacle</word>
-          <word id="33" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="34" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="pont-levis" postag="NC" morpho="g=m|n=s" head="0" dep="root">Pont-levis</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="2" dep="suj">Il</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="3" lem="traditionnellement" postag="ADV" morpho="_" head="2" dep="mod">traditionnellement</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="passerelle" postag="NC" morpho="g=f|n=s" head="2" dep="ats">passerelle</word>
-          <word id="6" lem="situer" postag="VPP" morpho="g=f|n=s|t=past" head="5" dep="mod">située</word>
-          <word id="7" lem="au-dessus_de" postag="P+D" morpho="g=m|n=s" head="6" dep="mod">au-dessus_du</word>
-          <word id="8" lem="fossé" postag="NC" morpho="g=m|n=s" head="7" dep="prep">fossé</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">d'</word>
-          <word id="10" lem="un" postag="DET" morpho="g=m|n=s" head="11" dep="det">un</word>
-          <word id="11" lem="château" postag="NC" morpho="g=m|n=s" head="9" dep="prep">château</word>
-          <word id="12" lem="fort" postag="ADJ" morpho="g=m|n=s" head="11" dep="mod">fort</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -213,8 +68,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -243,8 +98,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -255,8 +110,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -267,8 +122,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -279,8 +134,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -291,8 +146,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -303,8 +158,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="8">
@@ -315,8 +170,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -327,8 +182,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -341,8 +196,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -355,8 +210,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -372,8 +227,8 @@ Il est traditionnellement la passerelle située au-dessus du fossé d'un châtea
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:44</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Pont_mobile.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">

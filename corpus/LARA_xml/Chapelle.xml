@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chapelle.html</document>
     </metadata>
     <SE>
@@ -12,7 +12,7 @@
       <text>On désigne comme chapelle soit un édifice religieux secondaire dans une paroisse, soit un lieu de culte au sein d'un bâtiment ou ensemble de bâtiments ayant une fonction précise (château, hôpital, école, cimetière, etc).</text>
       <span begin="150" end="370" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
@@ -31,8 +31,8 @@
   <annotation type="1">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SE>
@@ -45,94 +45,25 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chapelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-        <word id="2" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">désigne</word>
-        <word id="3" lem="comme" postag="P" morpho="_" head="2" dep="mod">comme</word>
-        <word id="4" lem="chapelle" postag="NC" morpho="g=f|n=s" head="3" dep="prep">chapelle</word>
-        <word id="5" lem="soit" postag="CC" morpho="_" head="2" dep="coord">soit</word>
-        <word id="6" lem="un" postag="DET" morpho="g=m|n=s" head="7" dep="det">un</word>
-        <word id="7" lem="édifice" postag="NC" morpho="g=m|n=s" head="5" dep="dep_coord">édifice</word>
-        <word id="8" lem="religieux" postag="ADJ" morpho="g=m" head="7" dep="mod">religieux</word>
-        <word id="9" lem="secondaire" postag="ADJ" morpho="n=s" head="7" dep="mod">secondaire</word>
-        <word id="10" lem="dans" postag="P" morpho="_" head="2" dep="mod">dans</word>
-        <word id="11" lem="une" postag="DET" morpho="g=f|n=s" head="12" dep="det">une</word>
-        <word id="12" lem="paroisse" postag="NC" morpho="g=f|n=s" head="10" dep="prep">paroisse</word>
-        <word id="13" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        <word id="14" lem="soit" postag="CC" morpho="_" head="2" dep="coord">soit</word>
-        <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
-        <word id="16" lem="lieu" postag="NC" morpho="g=m|n=s" head="14" dep="dep_coord">lieu</word>
-        <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">de</word>
-        <word id="18" lem="culte" postag="NC" morpho="g=m|n=s" head="17" dep="prep">culte</word>
-        <word id="19" lem="à" postag="P+D" morpho="g=m|n=s" head="14" dep="dep_coord">au</word>
-        <word id="20" lem="sein" postag="NC" morpho="g=m|n=s" head="19" dep="prep">sein</word>
-        <word id="21" lem="de" postag="P" morpho="_" head="20" dep="dep">d'</word>
-        <word id="22" lem="un" postag="DET" morpho="g=m|n=s" head="23" dep="det">un</word>
-        <word id="23" lem="bâtiment" postag="NC" morpho="g=m|n=s" head="21" dep="prep">bâtiment</word>
-        <word id="24" lem="ou" postag="CC" morpho="_" head="23" dep="coord">ou</word>
-        <word id="25" lem="ensemble" postag="NC" morpho="g=m|n=s" head="24" dep="dep_coord">ensemble</word>
-        <word id="26" lem="de" postag="P" morpho="_" head="25" dep="dep">de</word>
-        <word id="27" lem="bâtiment" postag="NC" morpho="g=m|n=p" head="26" dep="prep">bâtiments</word>
-        <word id="28" lem="avoir" postag="VPR" morpho="t=pst" head="25" dep="mod">ayant</word>
-        <word id="29" lem="une" postag="DET" morpho="g=f|n=s" head="30" dep="det">une</word>
-        <word id="30" lem="fonction" postag="NC" morpho="g=f|n=s" head="28" dep="obj">fonction</word>
-        <word id="31" lem="précis" postag="ADJ" morpho="g=f|n=s" head="30" dep="mod">précise</word>
-        <word id="32" lem="(" postag="PONCT" morpho="_" head="28" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="château" postag="NC" morpho="g=m|n=s" head="0" dep="root">château</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="hôpital" postag="NC" morpho="g=m|n=s" head="0" dep="_">hôpital</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="école" postag="NC" morpho="g=f|n=s" head="0" dep="_">école</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="cimetière" postag="NC" morpho="g=m|n=s" head="0" dep="_">cimetière</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="0" dep="_">etc</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="5" dep="ponct">)</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="cimetière" postag="NC" morpho="g=m|n=s" head="0" dep="_">cimetière</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">etc</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">etc</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -142,25 +73,7 @@
       <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="par" postag="P" morpho="_" head="5" dep="mod">Par</word>
-        <word id="2" lem="extension" postag="NC" morpho="g=f|n=s" head="1" dep="prep">extension</word>
-        <word id="3" lem="," postag="PONCT" morpho="_" head="5" dep="ponct">,</word>
-        <word id="4" lem="on" postag="CLS" morpho="n=s|p=3" head="5" dep="suj">on</word>
-        <word id="5" lem="appeler" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">appelle</word>
-        <word id="6" lem="chapelle" postag="NC" morpho="g=f|n=s" head="5" dep="obj">chapelle</word>
-        <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-        <word id="8" lem="ensemble" postag="NC" morpho="g=m|n=s" head="5" dep="obj">ensemble</word>
-        <word id="9" lem="de" postag="P+D" morpho="n=p" head="8" dep="dep">des</word>
-        <word id="10" lem="objet" postag="NC" morpho="g=m|n=p" head="9" dep="prep">objets</word>
-        <word id="11" lem="utiliser" postag="VPP" morpho="g=m|n=p|t=past" head="10" dep="mod">utilisés</word>
-        <word id="12" lem="par" postag="P" morpho="_" head="11" dep="p_obj">par</word>
-        <word id="13" lem="le" postag="DET" morpho="g=m|n=s" head="14" dep="det">le</word>
-        <word id="14" lem="culte" postag="NC" morpho="g=m|n=s" head="12" dep="prep">culte</word>
-        <word id="15" lem=":" postag="PONCT" morpho="_" head="5" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -170,81 +83,38 @@
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="calice" postag="NC" morpho="g=m|n=s" head="0" dep="_">calice</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="patène" postag="NC" morpho="g=f|n=s" head="0" dep="_">patène</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="chandelier" postag="NC" morpho="g=m|n=p" head="0" dep="_">chandeliers</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="root">etc</word>
-          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="elle" postag="CLS" morpho="g=f|n=s|p=3" head="2" dep="suj">Elle</word>
-        <word id="2" lem="permettre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">permet</word>
-        <word id="3" lem="à" postag="P" morpho="_" head="2" dep="a_obj">à</word>
-        <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-        <word id="5" lem="_" postag="NC" morpho="_" head="3" dep="prep">œuvres</word>
-        <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">d'</word>
-        <word id="7" lem="art" postag="NC" morpho="g=m|n=s" head="6" dep="prep">art</word>
-        <word id="8" lem="moderne" postag="ADJ" morpho="n=s" head="7" dep="mod">moderne</word>
-        <word id="9" lem="(" postag="PONCT" morpho="_" head="5" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="peinture" postag="NC" morpho="g=f|n=s" head="0" dep="root">peinture</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="sculpture" postag="NC" morpho="g=f|n=s" head="0" dep="root">sculpture</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -255,8 +125,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -305,8 +175,8 @@
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -317,8 +187,8 @@
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -326,6 +196,56 @@
       <text id="0">(peinture,</text>
       <span begin="51" end="61" id="1" />
       <text id="1">sculpture)</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Chapelle.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
+      <span begin="114" end="126" id="0" />
+      <text id="0">'un bâtiment</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Chapelle.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
+      <span begin="180" end="187" id="0" />
+      <text id="0">château</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Chapelle.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
+      <span begin="189" end="196" id="0" />
+      <text id="0">hôpital</text>
+    </SEval>
+  </annotation>
+  <annotation type="2">
+    <metadata>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
+      <document>Chapelle.html</document>
+    </metadata>
+    <SEval type="concept" idSE="0" localisation="item" idItem="2">
+      <span begin="198" end="203" id="0" />
+      <text id="0">école</text>
+      <span begin="205" end="214" id="1" />
+      <text id="1">cimetière</text>
     </SEval>
   </annotation>
   <annotation type="2">
@@ -379,8 +299,8 @@
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
@@ -391,8 +311,8 @@
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -403,8 +323,8 @@
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -415,8 +335,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -429,12 +349,12 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -443,12 +363,12 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -460,8 +380,8 @@
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:27</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -557,8 +477,8 @@
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -571,8 +491,8 @@
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -585,8 +505,8 @@
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -602,8 +522,8 @@
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 0:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 12:37</date>
       <document>Chapelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">

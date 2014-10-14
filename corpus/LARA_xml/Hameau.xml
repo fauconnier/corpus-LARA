@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SE>
@@ -12,13 +12,13 @@
       <text>On le trouve dans la toponymie des régions du nord de la France sous les formes -ham, Ham, Le Ham, Hamel, Hamelet, -hem, Hem (Normandie, Nord-Pas-de-Calais, Picardie et Lorraine essentiellement).</text>
       <span begin="777" end="972" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SE>
@@ -47,458 +47,73 @@ Nombreuses communes de Flandre française et du Nord-Pas-de-Calais construites a
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
-    <SE>
-      <id>2</id>
-      <text>Nombreuses communes de Flandre française et du Nord-Pas-de-Calais construites avec l'appellatif -hem (néerlandais heem, -em dans les toponymes) devenu parfois -hen ou -hain: Hem, Wazemmes, Radinghem, Widehem, Equihen-Plage, etc.</text>
-      <span begin="4510" end="4738" />
-    </SE>
-    <comment />
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="3" dep="suj">On</word>
-        <word id="2" lem="le" postag="CLO" morpho="g=m|n=s|p=3" head="3" dep="obj">le</word>
-        <word id="3" lem="trouver" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">trouve</word>
-        <word id="4" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
-        <word id="5" lem="la" postag="DET" morpho="g=f|n=s" head="6" dep="det">la</word>
-        <word id="6" lem="toponymie" postag="NC" morpho="g=f|n=s" head="4" dep="prep">toponymie</word>
-        <word id="7" lem="de" postag="P+D" morpho="n=p" head="6" dep="dep">des</word>
-        <word id="8" lem="région" postag="NC" morpho="g=f|n=p" head="7" dep="prep">régions</word>
-        <word id="9" lem="de" postag="P+D" morpho="g=m|n=s" head="8" dep="dep">du</word>
-        <word id="10" lem="nord" postag="NC" morpho="g=m|n=s" head="9" dep="prep">nord</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">de</word>
-        <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-        <word id="13" lem="France" postag="NPP" morpho="g=m|n=s" head="11" dep="prep">France</word>
-        <word id="14" lem="sous" postag="P" morpho="_" head="10" dep="dep">sous</word>
-        <word id="15" lem="les" postag="DET" morpho="n=p" head="16" dep="det">les</word>
-        <word id="16" lem="forme" postag="NC" morpho="g=f|n=p" head="14" dep="prep">formes</word>
-        <word id="17" lem="_" postag="NPP" morpho="_" head="16" dep="mod">-ham</word>
-        <word id="18" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-        <word id="19" lem="Ham" postag="NPP" morpho="g=m|n=s" head="16" dep="mod">Ham</word>
-        <word id="20" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-        <word id="21" lem="_" postag="NPP" morpho="_" head="16" dep="mod">Le</word>
-        <word id="22" lem="Ham" postag="NPP" morpho="g=m|n=s" head="21" dep="mod">Ham</word>
-        <word id="23" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-        <word id="24" lem="Hamel" postag="NPP" morpho="g=m|n=s" head="16" dep="mod">Hamel</word>
-        <word id="25" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-        <word id="26" lem="Hamelet" postag="NPP" morpho="g=m|n=s" head="16" dep="mod">Hamelet</word>
-        <word id="27" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-        <word id="28" lem="_" postag="NPP" morpho="_" head="16" dep="mod">-hem</word>
-        <word id="29" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-        <word id="30" lem="Hem" postag="NPP" morpho="g=m|n=s" head="16" dep="mod">Hem</word>
-        <word id="31" lem="(" postag="PONCT" morpho="_" head="16" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="Normandie" postag="NPP" morpho="g=f|n=s" head="0" dep="root">Normandie</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="_">Nord-Pas-de-Calais</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="Picardie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Picardie</word>
-          <word id="2" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="lorrain" postag="NC" morpho="g=f|n=s" head="0" dep="root">Lorraine</word>
-          <word id="2" lem="essentiellement" postag="ADV" morpho="_" head="1" dep="mod">essentiellement</word>
-          <word id="3" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">=</word>
-        <word id="2" lem="=" postag="P" morpho="_" head="1" dep="dep">=</word>
-        <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Communes</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="5" lem="France" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">France</word>
-        <word id="6" lem="baser" postag="VPP" morpho="g=f|n=p|t=past" head="1" dep="mod">basées</word>
-        <word id="7" lem="sur" postag="P" morpho="_" head="6" dep="mod">sur</word>
-        <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-        <word id="9" lem="racine" postag="NC" morpho="g=f|n=s" head="7" dep="prep">racine</word>
-        <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">haim</word>
-        <word id="11" lem="/" postag="PONCT" morpho="_" head="9" dep="ponct">/</word>
-        <word id="12" lem="_" postag="NPP" morpho="_" head="9" dep="mod">ham</word>
-        <word id="13" lem="_" postag="NPP" morpho="_" head="9" dep="mod">=</word>
-        <word id="14" lem="_" postag="VIMP" morpho="_" head="13" dep="ponct">=</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Ouistreham" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Ouistreham</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="calvados" postag="NC" morpho="g=m" head="1" dep="mod">Calvados</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Étréham</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="calvados" postag="NC" morpho="g=m" head="1" dep="mod">Calvados</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="Surrain" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Surrain</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="calvados" postag="NC" morpho="g=m" head="1" dep="mod">Calvados</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="Huppain" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Huppain</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="calvados" postag="NC" morpho="g=m" head="1" dep="mod">Calvados</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="Hambye" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Hambye</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="manche" postag="NC" morpho="n=s" head="1" dep="mod">Manche</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Hambais</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="Alexain" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Alexain</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="Mayenne" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Mayenne</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Hembise</word>
-          <word id="2" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="3" lem="Cambron" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Cambron</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="somme" postag="NC" morpho="n=s" head="1" dep="mod">Somme</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Notre-Dame-du-Hamel</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Eure" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Eure</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="Ham" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Ham</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="4" lem="manche" postag="NC" morpho="n=s" head="2" dep="mod">Manche</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Cavados</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="8" lem="Mayenne" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Mayenne</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Hémevez</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="manche" postag="NC" morpho="n=s" head="1" dep="mod">Manche</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Hémevez</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="manche" postag="NC" morpho="n=s" head="1" dep="mod">Manche</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="Balham" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Balham</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Ardennes" postag="NPP" morpho="g=f|n=p" head="1" dep="mod">Ardennes</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Basse-Ham</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Moselle</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="Beaumont-Hamel" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Beaumont-Hamel</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="somme" postag="NC" morpho="n=s" head="1" dep="mod">Somme</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="13">
-        <sentence id="1">
-          <word id="1" lem="Hamel" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Hamel</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="3" lem="élément" postag="NC" morpho="g=m|n=s" head="1" dep="mod">élément</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="plusieurs" postag="DET" morpho="n=p" head="6" dep="det">plusieurs</word>
-          <word id="6" lem="commune" postag="NC" morpho="g=f|n=p" head="4" dep="prep">communes</word>
-          <word id="7" lem="en" postag="P" morpho="_" head="3" dep="dep">en</word>
-          <word id="8" lem="Normandie" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Normandie</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="7" dep="coord">,</word>
-          <word id="10" lem="en" postag="P" morpho="_" head="9" dep="dep_coord">en</word>
-          <word id="11" lem="Picardie" postag="NPP" morpho="g=f|n=s" head="10" dep="prep">Picardie</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="7" dep="coord">et</word>
-          <word id="13" lem="patronyme" postag="NC" morpho="g=m|n=s" head="12" dep="dep_coord">patronyme</word>
-        </sentence>
-      </item>
-      <item id="14">
-        <sentence id="1">
-          <word id="1" lem="Ham" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Ham</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="somme" postag="NC" morpho="n=s" head="1" dep="mod">Somme</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="15">
-        <sentence id="1">
-          <word id="1" lem="Ham-en-Artois" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Ham-en-Artois</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Pas-de-Calais</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="16">
-        <sentence id="1">
-          <word id="1" lem="Ham-sous-Varsberg" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Ham-sous-Varsberg</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Moselle</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="17">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Hameaux</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="4" lem="ancien" postag="ADJ" morpho="g=f|n=s" head="5" dep="mod">ancienne</word>
-          <word id="5" lem="commune" postag="NC" morpho="g=f|n=s" head="2" dep="mod">commune</word>
-          <word id="6" lem="de" postag="P+D" morpho="n=p" head="5" dep="dep">des</word>
-          <word id="7" lem="_" postag="NC" morpho="_" head="6" dep="prep">Deux-Sèvres</word>
-        </sentence>
-      </item>
-      <item id="18">
-        <sentence id="1">
-          <word id="1" lem="nombreux" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">Nombreuses</word>
-          <word id="2" lem="commune" postag="NC" morpho="g=f|n=p" head="0" dep="root">communes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="Alsace" postag="NPP" morpho="g=f|n=s" head="3" dep="prep">Alsace</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep_coord">de</word>
-          <word id="7" lem="Moselle" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Moselle</word>
-          <word id="8" lem="construire" postag="VPP" morpho="g=f|n=p|t=past" head="2" dep="mod">construites</word>
-          <word id="9" lem="avec" postag="P" morpho="_" head="8" dep="mod">avec</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="appellatif" postag="NC" morpho="g=m|n=s" head="9" dep="prep">appellatif</word>
-          <word id="12" lem="_" postag="ADJ" morpho="_" head="11" dep="mod">-heim</word>
-        </sentence>
-      </item>
-      <item id="19">
-        <sentence id="1">
-          <word id="1" lem="nombreux" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">Nombreuses</word>
-          <word id="2" lem="commune" postag="NC" morpho="g=f|n=p" head="0" dep="root">communes</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Flandre</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-          <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep_coord">du</word>
-          <word id="8" lem="Nord-Pas-de-Calais" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Nord-Pas-de-Calais</word>
-          <word id="9" lem="construire" postag="VPP" morpho="g=f|n=p|t=past" head="2" dep="mod">construites</word>
-          <word id="10" lem="avec" postag="P" morpho="_" head="9" dep="mod">avec</word>
-          <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-          <word id="12" lem="appellatif" postag="NC" morpho="g=m|n=s" head="10" dep="prep">appellatif</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">-hem</word>
-          <word id="14" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-          <word id="15" lem="néerlandais" postag="ADJ" morpho="g=m" head="12" dep="mod">néerlandais</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="12" dep="mod">heem</word>
-          <word id="17" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="12" dep="mod">-em</word>
-          <word id="19" lem="dans" postag="P" morpho="_" head="9" dep="mod">dans</word>
-          <word id="20" lem="les" postag="DET" morpho="n=p" head="21" dep="det">les</word>
-          <word id="21" lem="toponyme" postag="NC" morpho="g=m|n=p" head="19" dep="prep">toponymes</word>
-          <word id="22" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="23" lem="devenir" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">devenu</word>
-          <word id="24" lem="parfois" postag="ADV" morpho="_" head="0" dep="_">parfois</word>
-          <word id="25" lem="_" postag="NPP" morpho="_" head="0" dep="_">-hen</word>
-          <word id="26" lem="ou" postag="CC" morpho="_" head="25" dep="coord">ou</word>
-          <word id="27" lem="_" postag="NPP" morpho="_" head="26" dep="dep_coord">-hain</word>
-          <word id="28" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="29" lem="Hem" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Hem</word>
-          <word id="30" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="31" lem="_" postag="NPP" morpho="_" head="0" dep="_">Wazemmes</word>
-          <word id="32" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="33" lem="Radinghem" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Radinghem</word>
-          <word id="34" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="35" lem="Widehem" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Widehem</word>
-          <word id="36" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="37" lem="Equihen-Plage" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Equihen-Plage</word>
-          <word id="38" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="39" lem="_" postag="NPP" morpho="_" head="38" dep="dep_coord">etc</word>
-          <word id="40" lem="." postag="PONCT" morpho="_" head="38" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="nombreux" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">Nombreuses</word>
-        <word id="2" lem="commune" postag="NC" morpho="g=f|n=p" head="0" dep="root">communes</word>
-        <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-        <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Flandre</word>
-        <word id="5" lem="français" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">française</word>
-        <word id="6" lem="et" postag="CC" morpho="_" head="3" dep="coord">et</word>
-        <word id="7" lem="de" postag="P+D" morpho="g=m|n=s" head="6" dep="dep_coord">du</word>
-        <word id="8" lem="Nord-Pas-de-Calais" postag="NPP" morpho="g=m|n=s" head="7" dep="prep">Nord-Pas-de-Calais</word>
-        <word id="9" lem="construire" postag="VPP" morpho="g=f|n=p|t=past" head="2" dep="mod">construites</word>
-        <word id="10" lem="avec" postag="P" morpho="_" head="9" dep="mod">avec</word>
-        <word id="11" lem="l'" postag="DET" morpho="n=s" head="12" dep="det">l'</word>
-        <word id="12" lem="appellatif" postag="NC" morpho="g=m|n=s" head="10" dep="prep">appellatif</word>
-        <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="mod">-hem</word>
-        <word id="14" lem="(" postag="PONCT" morpho="_" head="12" dep="ponct">(</word>
-        <word id="15" lem="néerlandais" postag="ADJ" morpho="g=m" head="12" dep="mod">néerlandais</word>
-        <word id="16" lem="_" postag="NPP" morpho="_" head="12" dep="mod">heem</word>
-        <word id="17" lem="," postag="PONCT" morpho="_" head="12" dep="ponct">,</word>
-        <word id="18" lem="_" postag="NPP" morpho="_" head="12" dep="mod">-em</word>
-        <word id="19" lem="dans" postag="P" morpho="_" head="9" dep="mod">dans</word>
-        <word id="20" lem="les" postag="DET" morpho="n=p" head="21" dep="det">les</word>
-        <word id="21" lem="toponyme" postag="NC" morpho="g=m|n=p" head="19" dep="prep">toponymes</word>
-        <word id="22" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        <word id="23" lem="devenir" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">devenu</word>
-        <word id="24" lem="parfois" postag="ADV" morpho="_" head="0" dep="_">parfois</word>
-        <word id="25" lem="_" postag="NPP" morpho="_" head="0" dep="_">-hen</word>
-        <word id="26" lem="ou" postag="CC" morpho="_" head="25" dep="coord">ou</word>
-        <word id="27" lem="_" postag="NPP" morpho="_" head="26" dep="dep_coord">-hain</word>
-        <word id="28" lem=":" postag="PONCT" morpho="_" head="25" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Hem" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Hem</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Wazemmes</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="Radinghem" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Radinghem</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="Widehem" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Widehem</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="Equihen-Plage" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Equihen-Plage</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="0" dep="root">etc</word>
-          <word id="2" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
+      <item id="13" />
+      <item id="14" />
+      <item id="15" />
+      <item id="16" />
+      <item id="17" />
+      <item id="18" />
+      <item id="19" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -509,8 +124,8 @@ Nombreuses communes de Flandre française et du Nord-Pas-de-Calais construites a
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -528,7 +143,7 @@ Nombreuses communes de Flandre française et du Nord-Pas-de-Calais construites a
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -540,7 +155,7 @@ Nombreuses communes de Flandre française et du Nord-Pas-de-Calais construites a
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -589,43 +204,9 @@ Hémevez (Manche)</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="primer" idSE="2">
-      <span begin="1" end="174" />
-      <text>Nombreuses communes de Flandre française et du Nord-Pas-de-Calais construites avec l'appellatif -hem (néerlandais heem, -em dans les toponymes) devenu parfois -hen ou -hain:</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="175" end="180" id="0" />
-      <text id="0">Hem,</text>
-      <span begin="180" end="189" id="1" />
-      <text id="1">Wazemmes,</text>
-      <span begin="189" end="200" id="2" />
-      <text id="2">Radinghem,</text>
-      <span begin="200" end="210" id="3" />
-      <text id="3">Widehem,</text>
-      <span begin="210" end="224" id="4" />
-      <text id="4">Equihen-Plage,</text>
-      <span begin="225" end="229" id="5" />
-      <text id="5">etc.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -636,8 +217,8 @@ Hémevez (Manche)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -648,8 +229,8 @@ Hémevez (Manche)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -660,8 +241,8 @@ Hémevez (Manche)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -672,8 +253,8 @@ Hémevez (Manche)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -685,7 +266,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
@@ -697,7 +278,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -709,7 +290,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -721,7 +302,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
@@ -733,7 +314,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="3">
@@ -745,7 +326,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="4">
@@ -757,7 +338,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="5">
@@ -769,7 +350,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="6">
@@ -781,7 +362,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="7">
@@ -793,7 +374,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="8">
@@ -807,7 +388,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="10">
@@ -819,7 +400,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="11">
@@ -831,7 +412,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="12">
@@ -843,7 +424,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="13">
@@ -855,7 +436,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="14">
@@ -867,7 +448,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="15">
@@ -879,7 +460,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="16">
@@ -891,7 +472,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="17">
@@ -901,107 +482,9 @@ Hémevez (Manche)</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
-      <span begin="12" end="20" id="0" />
-      <text id="0">communes</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
-      <span begin="175" end="178" id="0" />
-      <text id="0">Hem</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
-      <span begin="180" end="188" id="0" />
-      <text id="0">Wazemmes</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="2">
-      <span begin="190" end="199" id="0" />
-      <text id="0">Radinghem</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="3">
-      <span begin="201" end="208" id="0" />
-      <text id="0">Widehem</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="4">
-      <span begin="210" end="223" id="0" />
-      <text id="0">Equihen-Plage</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
-      <span begin="21" end="41" id="0" />
-      <text id="0">de Flandre française</text>
-      <span begin="45" end="66" id="1" />
-      <text id="1">du Nord-Pas-de-Calais</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="marq_relation" idSE="2" localisation="primer" idItem="-1">
-      <span begin="1" end="11" id="0" />
-      <text id="0">Nombreuses</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1014,8 +497,8 @@ Hémevez (Manche)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1028,8 +511,8 @@ Hémevez (Manche)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1045,8 +528,8 @@ Hémevez (Manche)</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 3:07</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1072,7 +555,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -1086,7 +569,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -1100,7 +583,7 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -1117,81 +600,10 @@ Hémevez (Manche)</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 16:09</date>
+      <date>3/01/14 16:09</date>
       <document>Hameau.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
-      <visee_ontologique value="1">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="1" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="2">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 16:10</date>
-      <document>Hameau.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="2">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />

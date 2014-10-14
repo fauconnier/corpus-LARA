@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SE>
@@ -74,13 +74,13 @@ Citadelle du Kef
 Citadelle de Kelibia</text>
       <span begin="887" end="2332" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SE>
@@ -96,7 +96,7 @@ Citadelle de Spandau</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SE>
@@ -115,7 +115,7 @@ Citadelle de Liège</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SE>
@@ -131,7 +131,7 @@ Citadelle de Québec (patrimoine mondial de l'Unesco)</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SE>
@@ -146,8 +146,8 @@ Citadelle de Pampelune</text>
   <annotation type="1">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SE>
@@ -191,7 +191,7 @@ Citadelle Saint-Nicolas de Marseille</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SE>
@@ -207,7 +207,7 @@ Citadelle de Parme</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SE>
@@ -219,989 +219,220 @@ Citadelle de Kelibia</text>
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:45</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
-    <SE>
-      <id>8</id>
-      <text>Voir aussi
-Alcazar (architecture)
-Kasbah</text>
-      <span begin="2333" end="2373" />
-    </SE>
-    <comment />
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
-      <document>Citadelle.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=p" head="0" dep="_">Citadelles</word>
-        <word id="2" lem="célèbre" postag="ADJ" morpho="n=p" head="1" dep="mod">célèbres</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Allemagne</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Mayence" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Mayence</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Spandau</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Belgique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Bouillon" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Bouillon</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Dinant</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="fort" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">Fort</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="de_obj">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Huy</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Namur</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Liège</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="canada" postag="NC" morpho="g=f" head="0" dep="_">Canada</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Halifax" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Halifax</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Québec" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Québec</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="Espagne" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Espagne</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Jaca</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Pampelune" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Pampelune</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Amiens</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Arras" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Arras</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Belfort" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Belfort</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Besançon</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Bitche" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Bitche</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="citadelle" postag="NC" morpho="g=f|n=s" head="1" dep="mod">citadelle</word>
-          <word id="6" lem="Vauban" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">Vauban</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Blaye" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Blaye</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Bourg" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Bourg</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="girond" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">Gironde</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Calais" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Calais</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Calvi" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Calvi</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Château-d'Oléron</word>
-        </sentence>
-        <sentence id="12">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Doullens" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Doullens</word>
-        </sentence>
-        <sentence id="13">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Forcalquier" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Forcalquier</word>
-        </sentence>
-        <sentence id="14">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Givet" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Givet</word>
-        </sentence>
-        <sentence id="15">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="root">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="île" postag="NC" morpho="g=f|n=s" head="2" dep="prep">île</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="prep">Yeu</word>
-        </sentence>
-        <sentence id="16">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Langres" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Langres</word>
-        </sentence>
-        <sentence id="17">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Quesnoy</word>
-        </sentence>
-        <sentence id="18">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Lille" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Lille</word>
-        </sentence>
-        <sentence id="19">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Longwy" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Longwy</word>
-        </sentence>
-        <sentence id="20">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Metz" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Metz</word>
-        </sentence>
-        <sentence id="21">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Mont-Louis" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Mont-Louis</word>
-        </sentence>
-        <sentence id="22">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Montmédy</word>
-        </sentence>
-        <sentence id="23">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Montpellier" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Montpellier</word>
-        </sentence>
-        <sentence id="24">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Montreuil-sur-Mer</word>
-        </sentence>
-        <sentence id="25">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Port-Louis" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Port-Louis</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="Morbihan" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Morbihan</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="26">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Saint-Martin-de-Ré</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-        <sentence id="27">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Sisteron" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Sisteron</word>
-        </sentence>
-        <sentence id="28">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Toul" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Toul</word>
-        </sentence>
-        <sentence id="29">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Verdun" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Verdun</word>
-        </sentence>
-        <sentence id="30">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Saint-Elme</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Villefranche-sur-Mer" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Villefranche-sur-Mer</word>
-        </sentence>
-        <sentence id="31">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="Saint-Nicolas" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Nicolas</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Marseille" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Marseille</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="Italie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Italie</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Alessandria</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Parme</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="Maroc" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Maroc</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="_">Kasbah</word>
-          <word id="2" lem="de" postag="P+D" morpho="n=p" head="1" dep="dep">des</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Oudaya</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="Maurice" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Maurice</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Port-Louis" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Port-Louis</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="Russie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Russie</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Kremlin</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Moscou" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Moscou</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="Syrie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Syrie</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Alep</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="Algérie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Algérie</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="casbah" postag="NC" morpho="g=f|n=s" head="0" dep="_">Casbah</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Alger" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Alger</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="Tunisie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Tunisie</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Kef</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Kelibia</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="Allemagne" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Allemagne</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Mayence" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Mayence</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Spandau</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Belgique</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Bouillon" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Bouillon</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Dinant</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="fort" postag="ADJ" morpho="g=m|n=s" head="0" dep="_">Fort</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="de_obj">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Huy</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Namur</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Liège</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="canada" postag="NC" morpho="g=f" head="0" dep="_">Canada</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Halifax" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Halifax</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Québec" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Québec</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="Espagne" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Espagne</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Jaca</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Pampelune" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Pampelune</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="France" postag="NPP" morpho="g=m|n=s" head="0" dep="_">France</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="5" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Amiens</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="Arras" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Arras</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Belfort" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Belfort</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Besançon</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Bitche" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Bitche</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="citadelle" postag="NC" morpho="g=f|n=s" head="1" dep="mod">citadelle</word>
-          <word id="6" lem="Vauban" postag="NPP" morpho="g=m|n=s" head="5" dep="mod">Vauban</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Blaye" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Blaye</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Bourg" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Bourg</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="girond" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">Gironde</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Calais" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Calais</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Calvi" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Calvi</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Château-d'Oléron</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Doullens" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Doullens</word>
-        </sentence>
-      </item>
-      <item id="11">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Forcalquier" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Forcalquier</word>
-        </sentence>
-      </item>
-      <item id="12">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Givet" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Givet</word>
-        </sentence>
-      </item>
-      <item id="13">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="root">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="île" postag="NC" morpho="g=f|n=s" head="2" dep="prep">île</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">d'</word>
-          <word id="6" lem="_" postag="NC" morpho="_" head="5" dep="prep">Yeu</word>
-        </sentence>
-      </item>
-      <item id="14">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Langres" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Langres</word>
-        </sentence>
-      </item>
-      <item id="15">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Quesnoy</word>
-        </sentence>
-      </item>
-      <item id="16">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Lille" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Lille</word>
-        </sentence>
-      </item>
-      <item id="17">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Longwy" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Longwy</word>
-        </sentence>
-      </item>
-      <item id="18">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Metz" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Metz</word>
-        </sentence>
-      </item>
-      <item id="19">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Mont-Louis" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Mont-Louis</word>
-        </sentence>
-      </item>
-      <item id="20">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Montmédy</word>
-        </sentence>
-      </item>
-      <item id="21">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Montpellier" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Montpellier</word>
-        </sentence>
-      </item>
-      <item id="22">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Montreuil-sur-Mer</word>
-        </sentence>
-      </item>
-      <item id="23">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Port-Louis" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Port-Louis</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="Morbihan" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Morbihan</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="24">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Saint-Martin-de-Ré</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="patrimoine" postag="NC" morpho="g=m|n=s" head="1" dep="mod">patrimoine</word>
-          <word id="6" lem="mondial" postag="ADJ" morpho="g=m|n=s" head="5" dep="mod">mondial</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="8" lem="l'" postag="DET" morpho="n=s" head="9" dep="det">l'</word>
-          <word id="9" lem="Unesco" postag="NPP" morpho="g=f|n=s" head="7" dep="prep">Unesco</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="25">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Sisteron" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Sisteron</word>
-        </sentence>
-      </item>
-      <item id="26">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Toul" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Toul</word>
-        </sentence>
-      </item>
-      <item id="27">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="Verdun" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Verdun</word>
-        </sentence>
-      </item>
-      <item id="28">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Saint-Elme</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Villefranche-sur-Mer" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Villefranche-sur-Mer</word>
-        </sentence>
-      </item>
-      <item id="29">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="Saint-Nicolas" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Saint-Nicolas</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="4" lem="Marseille" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Marseille</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
+      <item id="11" />
+      <item id="12" />
+      <item id="13" />
+      <item id="14" />
+      <item id="15" />
+      <item id="16" />
+      <item id="17" />
+      <item id="18" />
+      <item id="19" />
+      <item id="20" />
+      <item id="21" />
+      <item id="22" />
+      <item id="23" />
+      <item id="24" />
+      <item id="25" />
+      <item id="26" />
+      <item id="27" />
+      <item id="28" />
+      <item id="29" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="Italie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Italie</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="6" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Alessandria</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Parme</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="7">
-      <sentence id="1">
-        <word id="1" lem="Tunisie" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Tunisie</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="7" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="7">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">du</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="prep">Kef</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="citadelle" postag="NC" morpho="g=f|n=s" head="0" dep="_">Citadelle</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Kelibia</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:45</date>
-      <document>Citadelle.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="8">
-      <sentence id="1">
-        <word id="1" lem="voir" postag="VINF" morpho="_" head="0" dep="_">Voir</word>
-        <word id="2" lem="aussi" postag="ADV" morpho="_" head="1" dep="mod">aussi</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:45</date>
-      <document>Citadelle.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="8">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="alcazar" postag="NC" morpho="g=m|n=s" head="0" dep="_">Alcazar</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="architecture" postag="NC" morpho="g=f|n=s" head="1" dep="mod">architecture</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Kasbah</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -1212,8 +443,8 @@ Kasbah</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -1297,7 +528,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="primer" idSE="1">
@@ -1309,7 +540,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items" idSE="1">
@@ -1323,7 +554,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -1335,7 +566,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -1355,7 +586,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="primer" idSE="3">
@@ -1367,7 +598,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items" idSE="3">
@@ -1381,7 +612,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="primer" idSE="4">
@@ -1393,7 +624,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items" idSE="4">
@@ -1406,8 +637,8 @@ Citadelle de Kelibia</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="primer" idSE="5">
@@ -1418,8 +649,8 @@ Citadelle de Kelibia</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items" idSE="5">
@@ -1489,7 +720,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="primer" idSE="6">
@@ -1501,7 +732,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items" idSE="6">
@@ -1515,7 +746,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="primer" idSE="7">
@@ -1527,7 +758,7 @@ Citadelle de Kelibia</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="items" idSE="7">
@@ -1539,35 +770,9 @@ Citadelle de Kelibia</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:45</date>
-      <document>Citadelle.html</document>
-    </metadata>
-    <SEval type="primer" idSE="8">
-      <span begin="1" end="11" />
-      <text>Voir aussi</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:45</date>
-      <document>Citadelle.html</document>
-    </metadata>
-    <SEval type="items" idSE="8">
-      <span begin="11" end="34" id="0" />
-      <text id="0">Alcazar (architecture)</text>
-      <span begin="35" end="41" id="1" />
-      <text id="1">Kasbah</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -1578,8 +783,8 @@ Citadelle de Kelibia</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -1592,8 +797,8 @@ Citadelle de Kelibia</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1612,8 +817,8 @@ Citadelle de Kelibia</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="2">
@@ -1626,8 +831,8 @@ Citadelle de Kelibia</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="3">
@@ -1640,8 +845,8 @@ Citadelle de Kelibia</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="4">
@@ -1711,8 +916,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="5">
@@ -1725,8 +930,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="6">
@@ -1737,8 +942,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="7">
@@ -1749,8 +954,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="8">
@@ -1761,8 +966,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="9">
@@ -1773,8 +978,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="10">
@@ -1785,8 +990,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="11">
@@ -1799,8 +1004,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
@@ -1811,8 +1016,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
@@ -1823,8 +1028,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="2">
@@ -1835,8 +1040,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="3">
@@ -1847,8 +1052,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="4">
@@ -1859,8 +1064,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="5">
@@ -1871,8 +1076,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="6">
@@ -1883,8 +1088,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="7">
@@ -1895,8 +1100,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="8">
@@ -1907,8 +1112,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="9">
@@ -1919,8 +1124,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="10">
@@ -1931,8 +1136,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="11">
@@ -1944,7 +1149,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="0">
@@ -1956,7 +1161,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="1" localisation="item" idItem="1">
@@ -1968,7 +1173,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="1" localisation="primer" idItem="-1">
@@ -1980,7 +1185,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="0">
@@ -1992,7 +1197,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="1">
@@ -2004,7 +1209,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="2">
@@ -2016,7 +1221,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="3">
@@ -2028,7 +1233,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="2" localisation="item" idItem="4">
@@ -2040,7 +1245,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
@@ -2052,7 +1257,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="0">
@@ -2064,7 +1269,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="3" localisation="item" idItem="1">
@@ -2076,7 +1281,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
@@ -2088,7 +1293,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="0">
@@ -2100,7 +1305,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="item" idItem="1">
@@ -2112,7 +1317,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
@@ -2123,8 +1328,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="0">
@@ -2135,8 +1340,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="1">
@@ -2147,8 +1352,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="2">
@@ -2159,8 +1364,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="3">
@@ -2171,8 +1376,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="4">
@@ -2183,8 +1388,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="5">
@@ -2195,8 +1400,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="6">
@@ -2207,8 +1412,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="7">
@@ -2219,8 +1424,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="8">
@@ -2231,8 +1436,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="9">
@@ -2243,8 +1448,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="10">
@@ -2255,8 +1460,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="11">
@@ -2267,8 +1472,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="12">
@@ -2279,8 +1484,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="13">
@@ -2291,8 +1496,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="14">
@@ -2303,8 +1508,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="15">
@@ -2315,8 +1520,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="16">
@@ -2327,8 +1532,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="17">
@@ -2339,8 +1544,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="18">
@@ -2351,8 +1556,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="19">
@@ -2363,8 +1568,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="20">
@@ -2375,8 +1580,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="21">
@@ -2387,8 +1592,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="22">
@@ -2399,8 +1604,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="23">
@@ -2411,8 +1616,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="24">
@@ -2423,8 +1628,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="25">
@@ -2435,8 +1640,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="26">
@@ -2447,8 +1652,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="27">
@@ -2459,8 +1664,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="28">
@@ -2471,8 +1676,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="5" localisation="item" idItem="29">
@@ -2483,8 +1688,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="5" localisation="primer" idItem="-1">
@@ -2496,7 +1701,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="6" localisation="item" idItem="0">
@@ -2508,7 +1713,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="6" localisation="item" idItem="1">
@@ -2520,7 +1725,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="6" localisation="primer" idItem="-1">
@@ -2532,7 +1737,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="7" localisation="item" idItem="0">
@@ -2544,7 +1749,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="concept" idSE="7" localisation="item" idItem="1">
@@ -2556,7 +1761,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="circonstant" idSE="7" localisation="primer" idItem="-1">
@@ -2567,8 +1772,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -2581,8 +1786,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -2595,8 +1800,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -2612,8 +1817,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:34</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -2639,7 +1844,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
@@ -2653,7 +1858,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
@@ -2667,7 +1872,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
@@ -2684,7 +1889,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>1</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -2710,7 +1915,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -2724,7 +1929,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -2738,7 +1943,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -2755,7 +1960,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -2781,7 +1986,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -2795,7 +2000,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -2809,7 +2014,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -2826,7 +2031,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:42</date>
+      <date>3/01/14 13:42</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -2852,7 +2057,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -2866,7 +2071,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -2880,7 +2085,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -2897,7 +2102,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:43</date>
+      <date>3/01/14 13:43</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
@@ -2922,8 +2127,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="5">
@@ -2936,8 +2141,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="5">
@@ -2950,8 +2155,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="5">
@@ -2967,8 +2172,8 @@ Citadelle de l'île d'Yeu</text>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:01</date>
+      <auteur>Autre</auteur>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="5">
@@ -2994,7 +2199,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="6">
@@ -3008,7 +2213,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="6">
@@ -3022,7 +2227,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="6">
@@ -3039,7 +2244,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="6">
@@ -3065,7 +2270,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="7">
@@ -3079,7 +2284,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="7">
@@ -3093,7 +2298,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="7">
@@ -3110,7 +2315,7 @@ Citadelle de l'île d'Yeu</text>
     <metadata>
       <id>7</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:44</date>
+      <date>3/01/14 13:44</date>
       <document>Citadelle.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="7">
@@ -3118,77 +2323,6 @@ Citadelle de l'île d'Yeu</text>
         <isA value="0" />
         <partOf value="0" />
         <instanceOf value="1" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:45</date>
-      <document>Citadelle.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="8">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="1" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:45</date>
-      <document>Citadelle.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="8">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:45</date>
-      <document>Citadelle.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="8">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:45</date>
-      <document>Citadelle.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="8">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
         <ontologique_autre value="0" />
       </visee_ontologique>
       <metalinguistique value="0">

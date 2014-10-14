@@ -3,40 +3,26 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
     <SE>
       <id>0</id>
-      <text>En France l'un des « Aven-pièges » les plus remarquables est celui de de l’Igue du Gral (département du Lot, non loin de la grotte de Pech-Merle)</text>
-      <span begin="282" end="427" />
-    </SE>
-    <comment>unknown</comment>
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SE>
-      <id>1</id>
       <text>Le terme occitan est lui-même basé sur le radical celtique *ab « eau, rivière »</text>
       <span begin="752" end="832" />
     </SE>
-    <comment />
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
     <SE>
-      <id>2</id>
+      <id>1</id>
       <text>Albert Dauzat émet aussi l'hypothèse d'une racine *av- présente dans divers hydronymes (Avara Yèvre; Avario Aveyron)</text>
       <span begin="1190" end="1306" />
     </SE>
@@ -44,48 +30,13 @@
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
     <SE>
-      <id>3</id>
-      <text>Synonymes
-En Belgique
-Adugeoir dans l'Entre-Sambre-et-Meuse
-Abîme
-Aiguigeois dans la région de Namur.
-Chantoire ou chantoir (lorsque l'abîme est de petite taille).
-Tchantwèr en wallon liégeois.
-En France
-Par ordre alphabétique
-Abime (nouvelle orthographe 1990 sans tréma de Abîme).
-Barrenc dans l'Aude.
-Bétoire ou bétoure en français de Normandie.
-Chourun dans le Dévoluy (Hautes-Alpes) : Chourun Picard, Chourun Martin par exemple.
-Embùt (avec ou sans accent) en Provence, qui signifie petit entonnoir en occitan.
-Endousoir ou endouzoère en Champagne.
-Emposieu dans le Jura (confusion de sens avec une doline).
-Igue en quercinois.
-Ragas en provençal.
-Scialet dans les Alpes du Nord (Savoie et Isère) et Sarriét dans le Diois (Drôme).
-Tindoul en occitan, en Aveyron (lorsque l'abîme est de petite taille) : Tindoul de la Vayssière par exemple.
-Autres
-Cenote au Mexique, dans le Yucatán.</text>
-      <span begin="2050" end="2936" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SE>
-      <id>4</id>
+      <id>2</id>
       <text>En Belgique
 Adugeoir dans l'Entre-Sambre-et-Meuse
 Abîme
@@ -98,13 +49,13 @@ Tchantwèr en wallon liégeois.</text>
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SE>
-      <id>5</id>
+      <id>3</id>
       <text>En France
 Par ordre alphabétique
 Abime (nouvelle orthographe 1990 sans tréma de Abîme).
@@ -124,27 +75,13 @@ Tindoul en occitan, en Aveyron (lorsque l'abîme est de petite taille) : Tindoul
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:22</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SE>
-      <id>6</id>
-      <text>Chourun dans le Dévoluy (Hautes-Alpes) : Chourun Picard, Chourun Martin par exemple.</text>
-      <span begin="2398" end="2482" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>7</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SE>
-      <id>7</id>
+      <id>4</id>
       <text>Scialet dans les Alpes du Nord (Savoie et Isère)</text>
       <span begin="2702" end="2750" />
     </SE>
@@ -152,13 +89,13 @@ Tindoul en occitan, en Aveyron (lorsque l'abîme est de petite taille) : Tindoul
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
     <SE>
-      <id>8</id>
+      <id>5</id>
       <text>Quelques avens
 L'abîme de Bramabiau
 L'aven de Garéoult
@@ -174,27 +111,13 @@ Le Tindoul de la Vayssière en Aveyron, remarquable de par ses dimensions.</text
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>9</id>
+      <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 23:37</date>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
     <SE>
-      <id>9</id>
-      <text>Chantoir de Rouge-Thier à Deigné (Belgique, Région wallonne)</text>
-      <span begin="3083" end="3143" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SE>
-      <id>10</id>
+      <id>6</id>
       <text>Toponyme
 Labencas (hameau, Aveyron)
 Avens (Lozère),
@@ -204,1216 +127,193 @@ Lavenças (Saint-Georges-de-Luzençon, Aveyron)</text>
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>11</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:38</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
-    <SE>
-      <id>11</id>
-      <text>Labencas (hameau, Aveyron)</text>
-      <span begin="3227" end="3253" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>12</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:39</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SE>
-      <id>12</id>
-      <text>Lavenc (Sérénac, Lot),</text>
-      <span begin="3270" end="3292" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>13</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:23</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SE>
-      <id>13</id>
-      <text>Lavenças (Saint-Georges-de-Luzençon, Aveyron)</text>
-      <span begin="3293" end="3338" />
-    </SE>
-    <comment />
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="en" postag="P" morpho="_" head="12" dep="mod">En</word>
-        <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
-        <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-        <word id="4" lem="un" postag="PRO" morpho="g=m|n=s" head="12" dep="suj">un</word>
-        <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-        <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-        <word id="7" lem="_" postag="NC" morpho="_" head="5" dep="prep">Aven-pièges</word>
-        <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-        <word id="9" lem="les" postag="DET" morpho="n=p" head="11" dep="det">les</word>
-        <word id="10" lem="plus" postag="ADV" morpho="_" head="11" dep="mod">plus</word>
-        <word id="11" lem="remarquable" postag="ADJ" morpho="n=p" head="7" dep="mod">remarquables</word>
-        <word id="12" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="13" lem="celui" postag="PRO" morpho="g=m|n=s" head="12" dep="ats">celui</word>
-        <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-        <word id="15" lem="de" postag="P" morpho="_" head="13" dep="dep">de</word>
-        <word id="16" lem="l'" postag="DET" morpho="n=s" head="17" dep="det">l'</word>
-        <word id="17" lem="_" postag="NC" morpho="_" head="15" dep="prep">Igue</word>
-        <word id="18" lem="de" postag="P+D" morpho="g=m|n=s" head="17" dep="dep">du</word>
-        <word id="19" lem="_" postag="NPP" morpho="_" head="18" dep="prep">Gral</word>
-        <word id="20" lem="(" postag="PONCT" morpho="_" head="17" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">u</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Gral</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="département" postag="NC" morpho="g=m|n=s" head="1" dep="mod">département</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="6" lem="Lot" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Lot</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="2" lem="non" postag="ADV" morpho="_" head="3" dep="mod">non</word>
-          <word id="3" lem="loin_de" postag="P" morpho="_" head="0" dep="_">loin_de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="grotte" postag="NC" morpho="g=f|n=s" head="3" dep="prep">grotte</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Pech-Merle</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="terme" postag="NC" morpho="g=m|n=s" head="4" dep="suj">terme</word>
-        <word id="3" lem="occitan" postag="ADJ" morpho="g=m|n=s" head="2" dep="mod">occitan</word>
-        <word id="4" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="5" lem="lui-même" postag="PRO" morpho="g=m|n=s|p=3" head="4" dep="mod">lui-même</word>
-        <word id="6" lem="baser" postag="VPP" morpho="g=m|n=s|t=past" head="5" dep="mod">basé</word>
-        <word id="7" lem="sur" postag="P" morpho="_" head="6" dep="mod">sur</word>
-        <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="10" dep="det">le</word>
-        <word id="9" lem="radical" postag="ADJ" morpho="g=m|n=s" head="10" dep="mod">radical</word>
-        <word id="10" lem="celtique" postag="ADJ" morpho="n=s" head="7" dep="prep">celtique</word>
-        <word id="11" lem="*" postag="PONCT" morpho="_" head="4" dep="ponct">*</word>
-        <word id="12" lem="_" postag="NPP" morpho="_" head="4" dep="mod">ab</word>
-        <word id="13" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">b</word>
-          <word id="2" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
-          <word id="3" lem="eau" postag="NC" morpho="g=f|n=s" head="1" dep="mod">eau</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="rivière" postag="NC" morpho="g=f|n=s" head="0" dep="_">rivière</word>
-          <word id="2" lem="&quot;" postag="PONCT" morpho="_" head="1" dep="ponct">"</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="Albert" postag="NPP" morpho="g=m|n=s" head="3" dep="suj">Albert</word>
-        <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Dauzat</word>
-        <word id="3" lem="émettre" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">émet</word>
-        <word id="4" lem="aussi" postag="ADV" morpho="_" head="3" dep="mod">aussi</word>
-        <word id="5" lem="l'" postag="DET" morpho="n=s" head="6" dep="det">l'</word>
-        <word id="6" lem="hypothèse" postag="NC" morpho="g=f|n=s" head="3" dep="obj">hypothèse</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
-        <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-        <word id="9" lem="racine" postag="NC" morpho="g=f|n=s" head="7" dep="prep">racine</word>
-        <word id="10" lem="*" postag="PONCT" morpho="_" head="3" dep="ponct">*</word>
-        <word id="11" lem="_" postag="NC" morpho="_" head="3" dep="obj">av-</word>
-        <word id="12" lem="présent" postag="ADJ" morpho="g=f|n=s" head="11" dep="mod">présente</word>
-        <word id="13" lem="dans" postag="P" morpho="_" head="3" dep="mod">dans</word>
-        <word id="14" lem="divers" postag="DET" morpho="g=m|n=p" head="15" dep="det">divers</word>
-        <word id="15" lem="_" postag="NC" morpho="_" head="13" dep="prep">hydronymes</word>
-        <word id="16" lem="(" postag="PONCT" morpho="_" head="15" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">s</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Avara</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Yèvre</word>
-          <word id="5" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Avario</word>
-          <word id="2" lem="Aveyron" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Aveyron</word>
-          <word id="3" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="synonyme" postag="NC" morpho="g=m|n=p" head="0" dep="_">Synonymes</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-          <word id="2" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="prep">Belgique</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Adugeoir</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="prep">Entre-Sambre-et-Meuse</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="abîme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Abîme</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Aiguigeois</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="région" postag="NC" morpho="g=f|n=s" head="2" dep="prep">région</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Namur</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chantoire</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="dep_coord">chantoir</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="lorsque" postag="CS" morpho="_" head="1" dep="mod">lorsque</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="abîme" postag="NC" morpho="g=m|n=s" head="8" dep="suj">abîme</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="sub">est</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="ats">de</word>
-          <word id="10" lem="petit" postag="ADJ" morpho="g=f|n=s" head="11" dep="mod">petite</word>
-          <word id="11" lem="taille" postag="NC" morpho="g=f|n=s" head="9" dep="prep">taille</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Tchantwèr</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="wallon" postag="NC" morpho="g=m|n=s" head="2" dep="prep">wallon</word>
-          <word id="4" lem="liégeois" postag="ADJ" morpho="g=m" head="3" dep="mod">liégeois</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-          <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="par" postag="P" morpho="_" head="0" dep="_">Par</word>
-          <word id="2" lem="ordre" postag="NC" morpho="g=m|n=s" head="1" dep="prep">ordre</word>
-          <word id="3" lem="alphabétique" postag="ADJ" morpho="n=s" head="2" dep="mod">alphabétique</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Abime</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="nouveau" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">nouvelle</word>
-          <word id="4" lem="orthographe" postag="NC" morpho="g=f|n=s" head="1" dep="mod">orthographe</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="4" dep="mod">1990</word>
-          <word id="6" lem="sans" postag="P" morpho="_" head="1" dep="dep">sans</word>
-          <word id="7" lem="tréma" postag="NC" morpho="g=m|n=s" head="6" dep="prep">tréma</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Abîme</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Barrenc</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="Aude" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Aude</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="bétoire" postag="NC" morpho="g=f|n=s" head="0" dep="root">Bétoire</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="dep_coord">bétoure</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=m" head="4" dep="prep">français</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="7" lem="Normandie" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Normandie</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chourun</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Dévoluy</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Hautes-Alpes</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chourun</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Picard</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chourun</word>
-          <word id="13" lem="Martin" postag="NPP" morpho="g=m|n=s" head="12" dep="mod">Martin</word>
-          <word id="14" lem="par" postag="P" morpho="_" head="12" dep="dep">par</word>
-          <word id="15" lem="exemple" postag="NC" morpho="g=m|n=s" head="14" dep="prep">exemple</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Embùt</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="avec" postag="P" morpho="_" head="1" dep="dep">avec</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-          <word id="5" lem="sans" postag="P" morpho="_" head="4" dep="dep_coord">sans</word>
-          <word id="6" lem="accent" postag="NC" morpho="g=m|n=s" head="5" dep="prep">accent</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="9" lem="Provence" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Provence</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="11" lem="qui" postag="PROREL" morpho="n=s" head="12" dep="suj">qui</word>
-          <word id="12" lem="signifier" postag="V" morpho="n=s|p=13|t=pst" head="1" dep="mod_rel">signifie</word>
-          <word id="13" lem="petit" postag="ADJ" morpho="g=m|n=s" head="14" dep="mod">petit</word>
-          <word id="14" lem="entonnoir" postag="NC" morpho="g=m|n=s" head="12" dep="obj">entonnoir</word>
-          <word id="15" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-          <word id="16" lem="occitan" postag="NC" morpho="g=m|n=s" head="15" dep="prep">occitan</word>
-          <word id="17" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Endousoir</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="dep_coord">endouzoère</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="Champagne" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Champagne</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Emposieu</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="Jura" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Jura</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="confusion" postag="NC" morpho="g=f|n=s" head="4" dep="mod">confusion</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="sens" postag="NC" morpho="g=m" head="7" dep="prep">sens</word>
-          <word id="9" lem="avec" postag="P" morpho="_" head="6" dep="dep">avec</word>
-          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
-          <word id="11" lem="doline" postag="NC" morpho="g=f|n=s" head="9" dep="prep">doline</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="igue" postag="NC" morpho="g=f|n=s" head="0" dep="root">Igue</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="quercinois" postag="NC" morpho="g=m" head="2" dep="prep">quercinois</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Ragas</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="provençal" postag="NC" morpho="g=m|n=s" head="2" dep="prep">provençal</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="12">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Scialet</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-          <word id="4" lem="Alpes" postag="NPP" morpho="g=f|n=p" head="2" dep="prep">Alpes</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="6" lem="Nord" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Nord</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="8" lem="Savoie" postag="NPP" morpho="g=f|n=s" head="4" dep="mod">Savoie</word>
-          <word id="9" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="10" lem="Isère" postag="NPP" morpho="g=f|n=s" head="9" dep="dep_coord">Isère</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="dep_coord">Sarriét</word>
-          <word id="14" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="prep">Diois</word>
-          <word id="17" lem="(" postag="PONCT" morpho="_" head="16" dep="ponct">(</word>
-          <word id="18" lem="Drôme" postag="NPP" morpho="g=f|n=s" head="16" dep="mod">Drôme</word>
-          <word id="19" lem=")" postag="PONCT" morpho="_" head="16" dep="ponct">)</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="13">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Tindoul</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="occitan" postag="NC" morpho="g=m|n=s" head="2" dep="prep">occitan</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="6" lem="Aveyron" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Aveyron</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="8" lem="lorsque" postag="CS" morpho="_" head="0" dep="_">lorsque</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="abîme" postag="NC" morpho="g=m|n=s" head="11" dep="suj">abîme</word>
-          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="sub">est</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="ats">de</word>
-          <word id="13" lem="petit" postag="ADJ" morpho="g=f|n=s" head="14" dep="mod">petite</word>
-          <word id="14" lem="taille" postag="NC" morpho="g=f|n=s" head="12" dep="prep">taille</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-          <word id="16" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="0" dep="_">Tindoul</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="_" postag="NPP" morpho="_" head="18" dep="prep">Vayssière</word>
-          <word id="21" lem="par" postag="P" morpho="_" head="17" dep="dep">par</word>
-          <word id="22" lem="exemple" postag="NC" morpho="g=m|n=s" head="21" dep="prep">exemple</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="17" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="autres" postag="ADJ" morpho="n=p" head="0" dep="_">Autres</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Cenote</word>
-          <word id="2" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="3" lem="Mexique" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Mexique</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Yucatán</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
+      <item id="10" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-        <word id="2" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="prep">Belgique</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Adugeoir</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="_" postag="NC" morpho="_" head="2" dep="prep">Entre-Sambre-et-Meuse</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="abîme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Abîme</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Aiguigeois</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="0" dep="_">dans</word>
-          <word id="3" lem="la" postag="DET" morpho="g=f|n=s" head="4" dep="det">la</word>
-          <word id="4" lem="région" postag="NC" morpho="g=f|n=s" head="2" dep="prep">région</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Namur</word>
-          <word id="7" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chantoire</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="dep_coord">chantoir</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="5" lem="lorsque" postag="CS" morpho="_" head="1" dep="mod">lorsque</word>
-          <word id="6" lem="l'" postag="DET" morpho="n=s" head="7" dep="det">l'</word>
-          <word id="7" lem="abîme" postag="NC" morpho="g=m|n=s" head="8" dep="suj">abîme</word>
-          <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="5" dep="sub">est</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="ats">de</word>
-          <word id="10" lem="petit" postag="ADJ" morpho="g=f|n=s" head="11" dep="mod">petite</word>
-          <word id="11" lem="taille" postag="NC" morpho="g=f|n=s" head="9" dep="prep">taille</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Tchantwèr</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="wallon" postag="NC" morpho="g=m|n=s" head="2" dep="prep">wallon</word>
-          <word id="4" lem="liégeois" postag="ADJ" morpho="g=m" head="3" dep="mod">liégeois</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="en" postag="P" morpho="_" head="0" dep="_">En</word>
-        <word id="2" lem="France" postag="NPP" morpho="g=m|n=s" head="1" dep="prep">France</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="5" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Abime</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="nouveau" postag="ADJ" morpho="g=f|n=s" head="4" dep="mod">nouvelle</word>
-          <word id="4" lem="orthographe" postag="NC" morpho="g=f|n=s" head="1" dep="mod">orthographe</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="4" dep="mod">1990</word>
-          <word id="6" lem="sans" postag="P" morpho="_" head="1" dep="dep">sans</word>
-          <word id="7" lem="tréma" postag="NC" morpho="g=m|n=s" head="6" dep="prep">tréma</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="8" dep="prep">Abîme</word>
-          <word id="10" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="11" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="root">Barrenc</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="Aude" postag="NPP" morpho="g=f|n=s" head="2" dep="prep">Aude</word>
-          <word id="5" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="bétoire" postag="NC" morpho="g=f|n=s" head="0" dep="root">Bétoire</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="dep_coord">bétoure</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=m" head="4" dep="prep">français</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="7" lem="Normandie" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Normandie</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="bétoire" postag="NC" morpho="g=f|n=s" head="0" dep="root">Bétoire</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="2" dep="dep_coord">bétoure</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="français" postag="ADJ" morpho="g=m" head="4" dep="prep">français</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="7" lem="Normandie" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Normandie</word>
-          <word id="8" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chourun</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Dévoluy</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Hautes-Alpes</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="9" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chourun</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Picard</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chourun</word>
-          <word id="13" lem="Martin" postag="NPP" morpho="g=m|n=s" head="12" dep="mod">Martin</word>
-          <word id="14" lem="par" postag="P" morpho="_" head="12" dep="dep">par</word>
-          <word id="15" lem="exemple" postag="NC" morpho="g=m|n=s" head="14" dep="prep">exemple</word>
-          <word id="16" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Embùt</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="avec" postag="P" morpho="_" head="1" dep="dep">avec</word>
-          <word id="4" lem="ou" postag="CC" morpho="_" head="3" dep="coord">ou</word>
-          <word id="5" lem="sans" postag="P" morpho="_" head="4" dep="dep_coord">sans</word>
-          <word id="6" lem="accent" postag="NC" morpho="g=m|n=s" head="5" dep="prep">accent</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="8" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="9" lem="Provence" postag="NPP" morpho="g=f|n=s" head="8" dep="prep">Provence</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="11" lem="qui" postag="PROREL" morpho="n=s" head="12" dep="suj">qui</word>
-          <word id="12" lem="signifier" postag="V" morpho="n=s|p=13|t=pst" head="1" dep="mod_rel">signifie</word>
-          <word id="13" lem="petit" postag="ADJ" morpho="g=m|n=s" head="14" dep="mod">petit</word>
-          <word id="14" lem="entonnoir" postag="NC" morpho="g=m|n=s" head="12" dep="obj">entonnoir</word>
-          <word id="15" lem="en" postag="P" morpho="_" head="12" dep="mod">en</word>
-          <word id="16" lem="occitan" postag="NC" morpho="g=m|n=s" head="15" dep="prep">occitan</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Endousoir</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="dep_coord">endouzoère</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="Champagne" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Champagne</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Endousoir</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="dep_coord">endouzoère</word>
-          <word id="4" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="5" lem="Champagne" postag="NPP" morpho="g=m|n=s" head="4" dep="prep">Champagne</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Emposieu</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-          <word id="4" lem="Jura" postag="NPP" morpho="g=m|n=s" head="2" dep="prep">Jura</word>
-          <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="6" lem="confusion" postag="NC" morpho="g=f|n=s" head="4" dep="mod">confusion</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="sens" postag="NC" morpho="g=m" head="7" dep="prep">sens</word>
-          <word id="9" lem="avec" postag="P" morpho="_" head="6" dep="dep">avec</word>
-          <word id="10" lem="une" postag="DET" morpho="g=f|n=s" head="11" dep="det">une</word>
-          <word id="11" lem="doline" postag="NC" morpho="g=f|n=s" head="9" dep="prep">doline</word>
-          <word id="12" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="igue" postag="NC" morpho="g=f|n=s" head="0" dep="root">Igue</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="quercinois" postag="NC" morpho="g=m" head="2" dep="prep">quercinois</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Ragas</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="provençal" postag="NC" morpho="g=m|n=s" head="2" dep="prep">provençal</word>
-          <word id="4" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Scialet</word>
-          <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-          <word id="4" lem="Alpes" postag="NPP" morpho="g=f|n=p" head="2" dep="prep">Alpes</word>
-          <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-          <word id="6" lem="Nord" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Nord</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-          <word id="8" lem="Savoie" postag="NPP" morpho="g=f|n=s" head="4" dep="mod">Savoie</word>
-          <word id="9" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="10" lem="Isère" postag="NPP" morpho="g=f|n=s" head="9" dep="dep_coord">Isère</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="12" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-          <word id="13" lem="_" postag="NPP" morpho="_" head="12" dep="dep_coord">Sarriét</word>
-          <word id="14" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-          <word id="15" lem="le" postag="DET" morpho="g=m|n=s" head="16" dep="det">le</word>
-          <word id="16" lem="_" postag="NPP" morpho="_" head="14" dep="prep">Diois</word>
-          <word id="17" lem="(" postag="PONCT" morpho="_" head="16" dep="ponct">(</word>
-          <word id="18" lem="Drôme" postag="NPP" morpho="g=f|n=s" head="16" dep="mod">Drôme</word>
-          <word id="19" lem=")" postag="PONCT" morpho="_" head="16" dep="ponct">)</word>
-          <word id="20" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
-      <item id="10">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Tindoul</word>
-          <word id="2" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="3" lem="occitan" postag="NC" morpho="g=m|n=s" head="2" dep="prep">occitan</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="en" postag="P" morpho="_" head="1" dep="dep">en</word>
-          <word id="6" lem="Aveyron" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Aveyron</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="8" lem="lorsque" postag="CS" morpho="_" head="0" dep="_">lorsque</word>
-          <word id="9" lem="l'" postag="DET" morpho="n=s" head="10" dep="det">l'</word>
-          <word id="10" lem="abîme" postag="NC" morpho="g=m|n=s" head="11" dep="suj">abîme</word>
-          <word id="11" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="8" dep="sub">est</word>
-          <word id="12" lem="de" postag="P" morpho="_" head="11" dep="ats">de</word>
-          <word id="13" lem="petit" postag="ADJ" morpho="g=f|n=s" head="14" dep="mod">petite</word>
-          <word id="14" lem="taille" postag="NC" morpho="g=f|n=s" head="12" dep="prep">taille</word>
-          <word id="15" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-          <word id="16" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="17" lem="_" postag="NPP" morpho="_" head="0" dep="_">Tindoul</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="la" postag="DET" morpho="g=f|n=s" head="20" dep="det">la</word>
-          <word id="20" lem="_" postag="NPP" morpho="_" head="18" dep="prep">Vayssière</word>
-          <word id="21" lem="par" postag="P" morpho="_" head="17" dep="dep">par</word>
-          <word id="22" lem="exemple" postag="NC" morpho="g=m|n=s" head="21" dep="prep">exemple</word>
-          <word id="23" lem="." postag="PONCT" morpho="_" head="17" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 22:22</date>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chourun</word>
-        <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-        <word id="3" lem="le" postag="DET" morpho="g=m|n=s" head="4" dep="det">le</word>
-        <word id="4" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Dévoluy</word>
-        <word id="5" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-        <word id="6" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Hautes-Alpes</word>
-        <word id="7" lem=")" postag="PONCT" morpho="_" head="4" dep="ponct">)</word>
-        <word id="8" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="6" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 22:22</date>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">s</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chourun</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Picard</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="4" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chourun</word>
-          <word id="2" lem="Martin" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Martin</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="par" postag="P" morpho="_" head="0" dep="_">par</word>
-          <word id="2" lem="exemple" postag="NC" morpho="g=m|n=s" head="1" dep="prep">exemple</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:31</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="7">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Scialet</word>
-        <word id="2" lem="dans" postag="P" morpho="_" head="1" dep="dep">dans</word>
-        <word id="3" lem="les" postag="DET" morpho="n=p" head="4" dep="det">les</word>
-        <word id="4" lem="Alpes" postag="NPP" morpho="g=f|n=p" head="2" dep="prep">Alpes</word>
-        <word id="5" lem="de" postag="P+D" morpho="g=m|n=s" head="4" dep="dep">du</word>
-        <word id="6" lem="Nord" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Nord</word>
-        <word id="7" lem="(" postag="PONCT" morpho="_" head="4" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:31</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="7">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">d</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Savoie" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Savoie</word>
-          <word id="4" lem="et" postag="CC" morpho="_" head="1" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Isère" postag="NPP" morpho="g=f|n=s" head="0" dep="_">Isère</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:32</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="8">
-      <sentence id="1">
-        <word id="1" lem="quelques" postag="DET" morpho="n=p" head="2" dep="det">Quelques</word>
-        <word id="2" lem="aven" postag="NC" morpho="g=m|n=p" head="0" dep="_">avens</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:32</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="8">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="abîme" postag="NC" morpho="g=m|n=s" head="0" dep="_">abîme</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Bramabiau</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="aven" postag="NC" morpho="g=m|n=s" head="0" dep="_">aven</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Garéoult</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="aven" postag="NC" morpho="g=m|n=s" head="0" dep="_">aven</word>
-          <word id="3" lem="Armand" postag="NPP" morpho="g=m|n=s" head="2" dep="mod">Armand</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-          <word id="2" lem="aven" postag="NC" morpho="g=m|n=s" head="0" dep="_">aven</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Orgnac</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="gouffre" postag="NC" morpho="g=m|n=s" head="0" dep="_">gouffre</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="Padirac" postag="NPP" morpho="g=m|n=s" head="3" dep="prep">Padirac</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="aven" postag="NC" morpho="g=m|n=p" head="0" dep="_">avens</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Orgnac-l'</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="mod">Aven</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="7" lem="(" postag="PONCT" morpho="_" head="6" dep="ponct">(</word>
-          <word id="8" lem="Ardèche" postag="NPP" morpho="g=f|n=s" head="6" dep="prep">Ardèche</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chantoir</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Rouge-Thier</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Deigné</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="7" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Belgique</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="1" dep="mod">Région</word>
-          <word id="10" lem="wallon" postag="ADJ" morpho="g=f|n=s" head="9" dep="mod">wallonne</word>
-          <word id="11" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Tindoul</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="3" dep="prep">Vayssière</word>
-          <word id="6" lem="en" postag="P" morpho="_" head="2" dep="dep">en</word>
-          <word id="7" lem="Aveyron" postag="NPP" morpho="g=m|n=s" head="6" dep="prep">Aveyron</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="9" lem="remarquable" postag="ADJ" morpho="n=s" head="2" dep="mod">remarquable</word>
-          <word id="10" lem="de_par" postag="P" morpho="_" head="9" dep="mod">de_par</word>
-          <word id="11" lem="ses" postag="DET" morpho="n=p|p=3|poss=s" head="12" dep="det">ses</word>
-          <word id="12" lem="dimension" postag="NC" morpho="g=f|n=p" head="10" dep="prep">dimensions</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>9</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:37</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="9">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Chantoir</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">de</word>
-        <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">Rouge-Thier</word>
-        <word id="4" lem="à" postag="P" morpho="_" head="1" dep="dep">à</word>
-        <word id="5" lem="_" postag="NPP" morpho="_" head="4" dep="prep">Deigné</word>
-        <word id="6" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>9</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:37</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="9">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">é</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Belgique" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Belgique</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="région" postag="NC" morpho="g=f|n=s" head="0" dep="root">Région</word>
-          <word id="2" lem="wallon" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">wallonne</word>
-          <word id="3" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="10">
-      <sentence id="1">
-        <word id="1" lem="toponyme" postag="NC" morpho="g=m|n=s" head="0" dep="root">Toponyme</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="10">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Labencas</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="hameau" postag="NC" morpho="g=m|n=s" head="1" dep="mod">hameau</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Aveyron" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Aveyron</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="aven" postag="NC" morpho="g=m|n=p" head="0" dep="_">Avens</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Lozère" postag="NPP" morpho="g=f|n=s" head="1" dep="mod">Lozère</word>
-          <word id="4" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Lavenc</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Sérénac</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Lot" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Lot</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Lavenças</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Saint-Georges-de-Luzençon</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="Aveyron" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Aveyron</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>11</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:38</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="11">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Labencas</word>
-        <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>11</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:38</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="11">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">s</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="hameau" postag="NC" morpho="g=m|n=s" head="1" dep="mod">hameau</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Aveyron" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Aveyron</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>12</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:39</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="12">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Lavenc</word>
-        <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>12</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:39</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="12">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">enc</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Sérénac</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="lot" postag="NC" morpho="g=m|n=s" head="0" dep="root">Lot</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>13</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:23</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="13">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Lavenças</word>
-        <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>13</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:23</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="13">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">s</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="1" dep="mod">Saint-Georges-de-Luzençon</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="Aveyron" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Aveyron</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
-      <span begin="1" end="90" />
-      <text>En France l'un des « Aven-pièges » les plus remarquables est celui de de l’Igue du Gral (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items" idSE="0">
-      <span begin="82" end="110" id="0" />
-      <text id="0">u Gral (département du Lot,</text>
-      <span begin="108" end="146" id="1" />
-      <text id="1">, non loin de la grotte de Pech-Merle)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer" idSE="1">
       <span begin="1" end="65" />
       <text>Le terme occitan est lui-même basé sur le radical celtique *ab «</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="items" idSE="1">
+    <SEval type="items" idSE="0">
       <span begin="62" end="70" id="0" />
       <text id="0">b « eau,</text>
       <span begin="70" end="80" id="1" />
@@ -1422,24 +322,24 @@ Lavenças (Saint-Georges-de-Luzençon, Aveyron)</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer" idSE="2">
+    <SEval type="primer" idSE="1">
       <span begin="1" end="89" />
       <text>Albert Dauzat émet aussi l'hypothèse d'une racine *av- présente dans divers hydronymes (</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="items" idSE="2">
+    <SEval type="items" idSE="1">
       <span begin="86" end="101" id="0" />
       <text id="0">s (Avara Yèvre;</text>
       <span begin="101" end="117" id="1" />
@@ -1448,70 +348,24 @@ Lavenças (Saint-Georges-de-Luzençon, Aveyron)</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer" idSE="3">
-      <span begin="1" end="10" />
-      <text>Synonymes</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items" idSE="3">
-      <span begin="11" end="194" id="0" />
-      <text id="0">En Belgique
-Adugeoir dans l'Entre-Sambre-et-Meuse
-Abîme
-Aiguigeois dans la région de Namur.
-Chantoire ou chantoir (lorsque l'abîme est de petite taille).
-Tchantwèr en wallon liégeois.</text>
-      <span begin="195" end="844" id="1" />
-      <text id="1">En France
-Par ordre alphabétique
-Abime (nouvelle orthographe 1990 sans tréma de Abîme).
-Barrenc dans l'Aude.
-Bétoire ou bétoure en français de Normandie.
-Chourun dans le Dévoluy (Hautes-Alpes) : Chourun Picard, Chourun Martin par exemple.
-Embùt (avec ou sans accent) en Provence, qui signifie petit entonnoir en occitan.
-Endousoir ou endouzoère en Champagne.
-Emposieu dans le Jura (confusion de sens avec une doline).
-Igue en quercinois.
-Ragas en provençal.
-Scialet dans les Alpes du Nord (Savoie et Isère) et Sarriét dans le Diois (Drôme).
-Tindoul en occitan, en Aveyron (lorsque l'abîme est de petite taille) : Tindoul de la Vayssière par exemple.</text>
-      <span begin="845" end="887" id="2" />
-      <text id="2">Autres
-Cenote au Mexique, dans le Yucatán.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer" idSE="4">
+    <SEval type="primer" idSE="2">
       <span begin="1" end="12" />
       <text>En Belgique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="items" idSE="4">
+    <SEval type="items" idSE="2">
       <span begin="13" end="50" id="0" />
       <text id="0">Adugeoir dans l'Entre-Sambre-et-Meuse</text>
       <span begin="51" end="56" id="1" />
@@ -1526,24 +380,24 @@ Cenote au Mexique, dans le Yucatán.</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer" idSE="5">
+    <SEval type="primer" idSE="3">
       <span begin="1" end="10" />
       <text>En France</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="items" idSE="5">
+    <SEval type="items" idSE="3">
       <span begin="34" end="88" id="0" />
       <text id="0">Abime (nouvelle orthographe 1990 sans tréma de Abîme).</text>
       <span begin="89" end="109" id="1" />
@@ -1572,52 +426,24 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:22</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer" idSE="6">
-      <span begin="1" end="42" />
-      <text>Chourun dans le Dévoluy (Hautes-Alpes) :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:22</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items" idSE="6">
-      <span begin="37" end="57" id="0" />
-      <text id="0">s) : Chourun Picard,</text>
-      <span begin="58" end="72" id="1" />
-      <text id="1">Chourun Martin</text>
-      <span begin="73" end="85" id="2" />
-      <text id="2">par exemple.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer" idSE="7">
+    <SEval type="primer" idSE="4">
       <span begin="1" end="33" />
       <text>Scialet dans les Alpes du Nord (</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="items" idSE="7">
+    <SEval type="items" idSE="4">
       <span begin="30" end="42" id="0" />
       <text id="0">d (Savoie et</text>
       <span begin="42" end="49" id="1" />
@@ -1626,24 +452,24 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer" idSE="8">
+    <SEval type="primer" idSE="5">
       <span begin="1" end="15" />
       <text>Quelques avens</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="items" idSE="8">
+    <SEval type="items" idSE="5">
       <span begin="16" end="36" id="0" />
       <text id="0">L'abîme de Bramabiau</text>
       <span begin="37" end="55" id="1" />
@@ -1664,50 +490,24 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
+      <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 23:37</date>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer" idSE="9">
-      <span begin="1" end="35" />
-      <text>Chantoir de Rouge-Thier à Deigné (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>9</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:37</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items" idSE="9">
-      <span begin="32" end="44" id="0" />
-      <text id="0">é (Belgique,</text>
-      <span begin="45" end="61" id="1" />
-      <text id="1">Région wallonne)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer" idSE="10">
+    <SEval type="primer" idSE="6">
       <span begin="1" end="9" />
       <text>Toponyme</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="items" idSE="10">
+    <SEval type="items" idSE="6">
       <span begin="10" end="36" id="0" />
       <text id="0">Labencas (hameau, Aveyron)</text>
       <span begin="37" end="52" id="1" />
@@ -1720,338 +520,144 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>11</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:38</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="primer" idSE="11">
-      <span begin="1" end="11" />
-      <text>Labencas (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>11</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:38</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items" idSE="11">
-      <span begin="8" end="18" id="0" />
-      <text id="0">s (hameau,</text>
-      <span begin="19" end="27" id="1" />
-      <text id="1">Aveyron)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>12</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:39</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer" idSE="12">
-      <span begin="1" end="9" />
-      <text>Lavenc (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>12</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:39</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items" idSE="12">
-      <span begin="4" end="17" id="0" />
-      <text id="0">enc (Sérénac,</text>
-      <span begin="17" end="23" id="1" />
-      <text id="1">Lot),</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>13</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:23</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="primer" idSE="13">
-      <span begin="1" end="11" />
-      <text>Lavenças (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>13</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:23</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="items" idSE="13">
-      <span begin="8" end="37" id="0" />
-      <text id="0">s (Saint-Georges-de-Luzençon,</text>
-      <span begin="38" end="46" id="1" />
-      <text id="1">Aveyron)</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
       <span begin="40" end="63" id="0" />
       <text id="0">le radical celtique *ab</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="0">
+    <SEval type="concept" idSE="0" localisation="item" idItem="0">
       <span begin="66" end="69" id="0" />
       <text id="0">eau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="1" localisation="item" idItem="1">
+    <SEval type="concept" idSE="0" localisation="item" idItem="1">
       <span begin="71" end="78" id="0" />
       <text id="0">rivière</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="1" localisation="primer" idItem="-1">
       <span begin="70" end="87" id="0" />
       <text id="0">divers hydronymes</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+    <SEval type="concept" idSE="1" localisation="item" idItem="0">
       <span begin="88" end="94" id="0" />
       <text id="0">(Avara</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+    <SEval type="concept" idSE="1" localisation="item" idItem="1">
       <span begin="102" end="108" id="0" />
       <text id="0">Avario</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="0">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="0">
       <span begin="95" end="100" id="0" />
       <text id="0">Yèvre</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>1</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="2" localisation="item" idItem="1">
+    <SEval type="circonstant" idSE="1" localisation="item" idItem="1">
       <span begin="109" end="116" id="0" />
       <text id="0">Aveyron</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
-      <span begin="1" end="10" id="0" />
-      <text id="0">Synonymes</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="0">
-      <span begin="23" end="31" id="0" />
-      <text id="0">Adugeoir</text>
-      <span begin="61" end="66" id="1" />
-      <text id="1">Abîme</text>
-      <span begin="67" end="77" id="2" />
-      <text id="2">Aiguigeois</text>
-      <span begin="103" end="112" id="3" />
-      <text id="3">Chantoire</text>
-      <span begin="116" end="124" id="4" />
-      <text id="4">chantoir</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="1">
-      <span begin="228" end="233" id="0" />
-      <text id="0">Abime</text>
-      <span begin="283" end="290" id="1" />
-      <text id="1">Barrenc</text>
-      <span begin="304" end="311" id="2" />
-      <text id="2">Bétoire</text>
-      <span begin="315" end="322" id="3" />
-      <text id="3">bétoure</text>
-      <span begin="349" end="356" id="4" />
-      <text id="4">Chourun</text>
-      <span begin="434" end="439" id="5" />
-      <text id="5">Embùt</text>
-      <span begin="516" end="525" id="6" />
-      <text id="6">Endousoir</text>
-      <span begin="529" end="539" id="7" />
-      <text id="7">endouzoère</text>
-      <span begin="554" end="562" id="8" />
-      <text id="8">Emposieu</text>
-      <span begin="613" end="617" id="9" />
-      <text id="9">Igue</text>
-      <span begin="633" end="638" id="10" />
-      <text id="10">Ragas</text>
-      <span begin="653" end="660" id="11" />
-      <text id="11">Scialet</text>
-      <span begin="736" end="743" id="12" />
-      <text id="12">Tindoul</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="concept" idSE="3" localisation="item" idItem="2">
-      <span begin="852" end="858" id="0" />
-      <text id="0">Cenote</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="3" localisation="item" idItem="0">
-      <span begin="11" end="22" id="0" />
-      <text id="0">En Belgique</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="3" localisation="item" idItem="1">
-      <span begin="195" end="204" id="0" />
-      <text id="0">En France</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="3" localisation="item" idItem="2">
-      <span begin="845" end="851" id="0" />
-      <text id="0">Autres</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
       <span begin="13" end="21" id="0" />
       <text id="0">Adugeoir</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
       <span begin="51" end="56" id="0" />
       <text id="0">Abîme</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="2">
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
       <span begin="57" end="67" id="0" />
       <text id="0">Aiguigeois</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="3">
+    <SEval type="concept" idSE="2" localisation="item" idItem="3">
       <span begin="93" end="102" id="0" />
       <text id="0">Chantoire</text>
       <span begin="106" end="114" id="1" />
@@ -2060,48 +666,48 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <id>2</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="4" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="2" localisation="primer" idItem="-1">
       <span begin="1" end="12" id="0" />
       <text id="0">En Belgique</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
       <span begin="34" end="39" id="0" />
       <text id="0">Abime</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
       <span begin="89" end="96" id="0" />
       <text id="0">Barrenc</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="2">
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
       <span begin="110" end="117" id="0" />
       <text id="0">Bétoire</text>
       <span begin="121" end="128" id="1" />
@@ -2110,36 +716,36 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="3">
+    <SEval type="concept" idSE="3" localisation="item" idItem="3">
       <span begin="155" end="162" id="0" />
       <text id="0">Chourun</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="4">
+    <SEval type="concept" idSE="3" localisation="item" idItem="4">
       <span begin="240" end="245" id="0" />
       <text id="0">Embùt</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="5">
+    <SEval type="concept" idSE="3" localisation="item" idItem="5">
       <span begin="322" end="331" id="0" />
       <text id="0">Endousoir</text>
       <span begin="335" end="345" id="1" />
@@ -2148,276 +754,276 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="6">
+    <SEval type="concept" idSE="3" localisation="item" idItem="6">
       <span begin="360" end="368" id="0" />
       <text id="0">Emposieu</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="7">
+    <SEval type="concept" idSE="3" localisation="item" idItem="7">
       <span begin="419" end="423" id="0" />
       <text id="0">Igue</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="8">
+    <SEval type="concept" idSE="3" localisation="item" idItem="8">
       <span begin="439" end="444" id="0" />
       <text id="0">Ragas</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="9">
+    <SEval type="concept" idSE="3" localisation="item" idItem="9">
       <span begin="459" end="466" id="0" />
       <text id="0">Scialet</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="10">
+    <SEval type="concept" idSE="3" localisation="item" idItem="10">
       <span begin="542" end="550" id="0" />
       <text id="0">Tindoul</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>3</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="circonstant" idSE="5" localisation="primer" idItem="-1">
+    <SEval type="circonstant" idSE="3" localisation="primer" idItem="-1">
       <span begin="1" end="10" id="0" />
       <text id="0">En France</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
       <span begin="14" end="31" id="0" />
       <text id="0">les Alpes du Nord</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="0">
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
       <span begin="33" end="40" id="0" />
       <text id="0">Savoie</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="1">
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
       <span begin="43" end="48" id="0" />
       <text id="0">Isère</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
       <span begin="1" end="15" id="0" />
       <text id="0">Quelques avens</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="0">
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
       <span begin="16" end="36" id="0" />
       <text id="0">L'abîme de Bramabiau</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="1">
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
       <span begin="37" end="55" id="0" />
       <text id="0">L'aven de Garéoult</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="2">
+    <SEval type="concept" idSE="5" localisation="item" idItem="2">
       <span begin="56" end="69" id="0" />
       <text id="0">L'aven Armand</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="3">
+    <SEval type="concept" idSE="5" localisation="item" idItem="3">
       <span begin="70" end="85" id="0" />
       <text id="0">L'aven d'Orgnac</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="4">
+    <SEval type="concept" idSE="5" localisation="item" idItem="4">
       <span begin="86" end="107" id="0" />
       <text id="0">Le gouffre de Padirac</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="5">
+    <SEval type="concept" idSE="5" localisation="item" idItem="5">
       <span begin="108" end="133" id="0" />
       <text id="0">Les avens d'Orgnac-l'Aven</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="6">
+    <SEval type="concept" idSE="5" localisation="item" idItem="6">
       <span begin="147" end="170" id="0" />
       <text id="0">Chantoir de Rouge-Thier</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="8" localisation="item" idItem="7">
+    <SEval type="concept" idSE="5" localisation="item" idItem="7">
       <span begin="208" end="235" id="0" />
       <text id="0">Le Tindoul de la Vayssière</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="10" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
       <span begin="1" end="9" id="0" />
       <text id="0">Toponyme</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="10" localisation="item" idItem="0">
+    <SEval type="concept" idSE="6" localisation="item" idItem="0">
       <span begin="10" end="18" id="0" />
       <text id="0">Labencas</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="10" localisation="item" idItem="1">
+    <SEval type="concept" idSE="6" localisation="item" idItem="1">
       <span begin="37" end="42" id="0" />
       <text id="0">Avens</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="10" localisation="item" idItem="2">
+    <SEval type="concept" idSE="6" localisation="item" idItem="2">
       <span begin="53" end="59" id="0" />
       <text id="0">Lavenc</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="concept" idSE="10" localisation="item" idItem="3">
+    <SEval type="concept" idSE="6" localisation="item" idItem="3">
       <span begin="76" end="84" id="0" />
       <text id="0">Lavenças</text>
     </SEval>
@@ -2425,26 +1031,26 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
       <horizontale value="1" />
       <verticale value="0" />
       <navigationnelle value="0" />
-      <hypertextuelle value="1" />
+      <hypertextuelle value="0" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -2453,12 +1059,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -2470,8 +1076,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 1:58</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -2481,12 +1087,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
         <instanceOf value="0" />
         <ontologique_autre value="0" />
       </visee_ontologique>
-      <metalinguistique value="0">
+      <metalinguistique value="1">
         <hyperonymie value="0" />
         <meronymie value="0" />
         <homonymie value="0" />
         <synonymie value="0" />
-        <multilingue value="0" />
+        <multilingue value="1" />
         <lexical_autre value="0" />
       </metalinguistique>
       <semantique_autre value="0" />
@@ -2496,26 +1102,26 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="1">
       <horizontale value="1" />
       <verticale value="0" />
       <navigationnelle value="0" />
-      <hypertextuelle value="0" />
+      <hypertextuelle value="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="1">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -2524,12 +1130,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="1">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -2541,8 +1147,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>1</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:48</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:26</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="1">
@@ -2567,13 +1173,13 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
-      <horizontale value="1" />
-      <verticale value="0" />
+      <horizontale value="0" />
+      <verticale value="1" />
       <navigationnelle value="0" />
       <hypertextuelle value="1" />
     </SEval>
@@ -2581,8 +1187,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -2595,8 +1201,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -2612,8 +1218,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:30</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -2627,8 +1233,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
         <hyperonymie value="0" />
         <meronymie value="0" />
         <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="1" />
+        <synonymie value="1" />
+        <multilingue value="0" />
         <lexical_autre value="0" />
       </metalinguistique>
       <semantique_autre value="0" />
@@ -2638,8 +1244,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
@@ -2652,8 +1258,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
@@ -2666,8 +1272,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
@@ -2683,8 +1289,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>3</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:50</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -2709,13 +1315,13 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
-      <horizontale value="0" />
-      <verticale value="1" />
+      <horizontale value="1" />
+      <verticale value="0" />
       <navigationnelle value="0" />
       <hypertextuelle value="1" />
     </SEval>
@@ -2723,8 +1329,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -2737,8 +1343,8 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -2754,224 +1360,11 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   <annotation type="2">
     <metadata>
       <id>4</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:31</date>
       <document>Aven.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="1">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="1" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="5">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="5">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="5">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="5">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="1">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="1" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:22</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="6">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:22</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="6">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:22</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="6">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:22</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="6">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:31</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="7">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:31</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="7">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:31</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="7">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:31</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="7">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="1" />
@@ -2992,12 +1385,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="8">
+    <SEval type="axe_visuel" idSE="5">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -3006,12 +1399,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="8">
+    <SEval type="axe_rhetorique" idSE="5">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -3020,12 +1413,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="8">
+    <SEval type="axe_intentionnel" idSE="5">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -3037,12 +1430,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
+      <id>5</id>
       <auteur>Autre</auteur>
       <date>1/01/14 13:32</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="8">
+    <SEval type="axe_semantique" idSE="5">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />
@@ -3063,83 +1456,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>9</id>
+      <id>6</id>
       <auteur>Autre</auteur>
-      <date>1/01/13 23:37</date>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="9">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>9</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:37</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="9">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>9</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:37</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="9">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>9</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:37</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="9">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="10">
+    <SEval type="axe_visuel" idSE="6">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -3148,12 +1470,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="10">
+    <SEval type="axe_rhetorique" idSE="6">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -3162,12 +1484,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="10">
+    <SEval type="axe_intentionnel" idSE="6">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -3179,12 +1501,12 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>10</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 23:52</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:33</date>
       <document>Aven.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="10">
+    <SEval type="axe_semantique" idSE="6">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />
@@ -3193,219 +1515,6 @@ Emposieu dans le Jura (confusion de sens avec une doline).</text>
       </visee_ontologique>
       <metalinguistique value="1">
         <hyperonymie value="1" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>11</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:38</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="11">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>11</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:38</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="11">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>11</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:38</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="11">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>11</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:38</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="11">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>12</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:39</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="12">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>12</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:39</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="12">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>12</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:39</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="12">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>12</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 23:39</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="12">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>13</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:23</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="13">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>13</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:23</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="13">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>13</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:23</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="13">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>13</id>
-      <auteur>Autre</auteur>
-      <date>1/01/13 22:23</date>
-      <document>Aven.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="13">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
         <meronymie value="0" />
         <homonymie value="0" />
         <synonymie value="0" />

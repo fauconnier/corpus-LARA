@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SE>
@@ -15,7 +15,7 @@ soit un lieu de correspondance, parfois appelé « pôle intermodal », entre de
 soit un lieu de transbardement de marchandises, généralement doté d'entrepôts importants, comme par exemple Garonor, au nord de Paris.</text>
       <span begin="701" end="1118" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
@@ -35,25 +35,11 @@ soit un lieu de transbardement de marchandises, généralement doté d'entrepôt
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
     <SE>
       <id>2</id>
-      <text>Dans un port, une gare maritime est un quai aménagé pour l'embarquement et le débarquement des passagers (éventuellement des véhicules transportés par ferry...).</text>
-      <span begin="1565" end="1727" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SE>
-      <id>3</id>
       <text>Dans une remontée mécanique, les gares sont les installations d'extrémités de ligne (bâtiment comportant l'ancrage des câbles, les quais d'embarquement, la motorisation, etc.)</text>
       <span begin="1747" end="1922" />
     </SE>
@@ -61,27 +47,13 @@ soit un lieu de transbardement de marchandises, généralement doté d'entrepôt
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
     <SE>
-      <id>4</id>
-      <text>Les gares servent toujours d'interface entre au moins deux réseaux : un moyen de transport en commun et les rues qui l'entourent.</text>
-      <span begin="2153" end="2283" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SE>
-      <id>5</id>
+      <id>3</id>
       <text>On peut observer des activités induites par la gare, liées au transport lui-même (douane, personnel commercial, maintenance...)</text>
       <span begin="2444" end="2571" />
     </SE>
@@ -89,13 +61,13 @@ soit un lieu de transbardement de marchandises, généralement doté d'entrepôt
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
     <SE>
-      <id>6</id>
+      <id>4</id>
       <text>On peut observer des activités induites par la gare, liées au transport lui-même (douane, personnel commercial, maintenance...) ou aux services aux voyageurs (presse, hôtellerie, duty-free…)</text>
       <span begin="2444" end="2634" />
     </SE>
@@ -104,110 +76,22 @@ soit un lieu de transbardement de marchandises, généralement doté d'entrepôt
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="gare" postag="NC" morpho="g=f|n=s" head="0" dep="root">Gare</word>
-        <word id="2" lem="routier" postag="ADJ" morpho="g=f|n=s" head="1" dep="mod">routière</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="mot" postag="NC" morpho="g=m|n=s" head="6" dep="suj">mot</word>
-        <word id="3" lem="avoir" postag="V" morpho="n=s|p=3|t=pst" head="6" dep="aux_tps">a</word>
-        <word id="4" lem="être" postag="VPP" morpho="t=past" head="6" dep="aux_pass">été</word>
-        <word id="5" lem="ensuite" postag="ADV" morpho="_" head="6" dep="mod">ensuite</word>
-        <word id="6" lem="étendre" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">étendu</word>
-        <word id="7" lem="à" postag="P+D" morpho="g=m|n=s" head="6" dep="mod">au</word>
-        <word id="8" lem="monde" postag="NC" morpho="g=m|n=s" head="7" dep="prep">monde</word>
-        <word id="9" lem="routier" postag="ADJ" morpho="g=m|n=s" head="8" dep="mod">routier</word>
-        <word id="10" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-        <word id="11" lem="dans" postag="P" morpho="_" head="6" dep="mod">dans</word>
-        <word id="12" lem="lequel" postag="PROREL" morpho="g=m|n=s" head="11" dep="prep">lequel</word>
-        <word id="13" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="14" dep="suj">il</word>
-        <word id="14" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="11" dep="mod_rel">désigne</word>
-        <word id="15" lem="aujourd'hui" postag="ADV" morpho="_" head="14" dep="mod">aujourd'hui</word>
-        <word id="16" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-        <word id="17" lem="sous" postag="P" morpho="_" head="14" dep="mod">sous</word>
-        <word id="18" lem="le" postag="DET" morpho="g=m|n=s" head="19" dep="det">le</word>
-        <word id="19" lem="terme" postag="NC" morpho="g=m|n=s" head="17" dep="prep">terme</word>
-        <word id="20" lem="de" postag="P" morpho="_" head="19" dep="dep">de</word>
-        <word id="21" lem="gare" postag="NC" morpho="g=f|n=s" head="20" dep="prep">gare</word>
-        <word id="22" lem="routier" postag="ADJ" morpho="g=f|n=s" head="21" dep="mod">routière</word>
-        <word id="23" lem=":" postag="PONCT" morpho="_" head="6" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="soit" postag="CC" morpho="_" head="0" dep="root">soit</word>
-          <word id="2" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">un</word>
-          <word id="3" lem="lieu" postag="NC" morpho="g=m|n=s" head="1" dep="dep_coord">lieu</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="correspondance" postag="NC" morpho="g=f|n=s" head="4" dep="prep">correspondance</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="7" lem="parfois" postag="ADV" morpho="_" head="8" dep="mod">parfois</word>
-          <word id="8" lem="appeler" postag="VPP" morpho="g=m|n=s|t=past" head="3" dep="mod">appelé</word>
-          <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="8" dep="ponct">"</word>
-          <word id="10" lem="pôle" postag="NC" morpho="g=m|n=s" head="8" dep="mod">pôle</word>
-          <word id="11" lem="_" postag="ADJ" morpho="_" head="10" dep="mod">intermodal</word>
-          <word id="12" lem="&quot;" postag="PONCT" morpho="_" head="8" dep="ponct">"</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-          <word id="14" lem="entre" postag="P" morpho="_" head="8" dep="mod">entre</word>
-          <word id="15" lem="de" postag="DET" morpho="n=p" head="17" dep="det">de</word>
-          <word id="16" lem="nombreux" postag="ADJ" morpho="g=f|n=p" head="17" dep="mod">nombreuses</word>
-          <word id="17" lem="ligne" postag="NC" morpho="g=f|n=p" head="14" dep="prep">lignes</word>
-          <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-          <word id="19" lem="transport" postag="NC" morpho="g=m|n=s" head="18" dep="prep">transport</word>
-          <word id="20" lem="en_commun" postag="ADV" morpho="_" head="19" dep="mod">en_commun</word>
-          <word id="21" lem="(" postag="PONCT" morpho="_" head="17" dep="ponct">(</word>
-          <word id="22" lem="autocar" postag="NC" morpho="g=m|n=p" head="17" dep="mod">autocars</word>
-          <word id="23" lem="," postag="PONCT" morpho="_" head="22" dep="coord">,</word>
-          <word id="24" lem="autobus" postag="NC" morpho="g=m" head="23" dep="dep_coord">autobus</word>
-          <word id="25" lem="ou" postag="CC" morpho="_" head="22" dep="coord">ou</word>
-          <word id="26" lem="trolleybus" postag="NC" morpho="g=m" head="25" dep="dep_coord">trolleybus</word>
-          <word id="27" lem=")" postag="PONCT" morpho="_" head="17" dep="ponct">)</word>
-          <word id="28" lem=";" postag="PONCT" morpho="_" head="8" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="soit" postag="CC" morpho="_" head="0" dep="root">soit</word>
-          <word id="2" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">un</word>
-          <word id="3" lem="lieu" postag="NC" morpho="g=m|n=s" head="1" dep="dep_coord">lieu</word>
-          <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-          <word id="5" lem="_" postag="NC" morpho="_" head="4" dep="prep">transbardement</word>
-          <word id="6" lem="de" postag="P" morpho="_" head="5" dep="dep">de</word>
-          <word id="7" lem="marchandise" postag="NC" morpho="g=f|n=p" head="6" dep="prep">marchandises</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="9" lem="généralement" postag="ADV" morpho="_" head="10" dep="mod">généralement</word>
-          <word id="10" lem="doter" postag="VPP" morpho="g=m|n=s|t=past" head="3" dep="mod">doté</word>
-          <word id="11" lem="de" postag="P" morpho="_" head="10" dep="de_obj">d'</word>
-          <word id="12" lem="entrepôt" postag="NC" morpho="g=m|n=p" head="11" dep="prep">entrepôts</word>
-          <word id="13" lem="important" postag="ADJ" morpho="g=m|n=p" head="12" dep="mod">importants</word>
-          <word id="14" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="15" lem="comme" postag="P" morpho="_" head="3" dep="dep">comme</word>
-          <word id="16" lem="par" postag="P" morpho="_" head="15" dep="prep">par</word>
-          <word id="17" lem="exemple" postag="NC" morpho="g=m|n=s" head="16" dep="prep">exemple</word>
-          <word id="18" lem="_" postag="NPP" morpho="_" head="17" dep="mod">Garonor</word>
-          <word id="19" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-          <word id="20" lem="à" postag="P+D" morpho="g=m|n=s" head="3" dep="dep">au</word>
-          <word id="21" lem="nord" postag="NC" morpho="g=m|n=s" head="20" dep="prep">nord</word>
-          <word id="22" lem="de" postag="P" morpho="_" head="21" dep="dep">de</word>
-          <word id="23" lem="Paris" postag="NPP" morpho="g=m|n=s" head="22" dep="prep">Paris</word>
-          <word id="24" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -217,31 +101,7 @@ soit un lieu de transbardement de marchandises, généralement doté d'entrepôt
       <date>1/01/14 14:25</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="soit" postag="CC" morpho="_" head="0" dep="root">soit</word>
-        <word id="2" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">un</word>
-        <word id="3" lem="lieu" postag="NC" morpho="g=m|n=s" head="1" dep="dep_coord">lieu</word>
-        <word id="4" lem="de" postag="P" morpho="_" head="3" dep="dep">de</word>
-        <word id="5" lem="correspondance" postag="NC" morpho="g=f|n=s" head="4" dep="prep">correspondance</word>
-        <word id="6" lem="," postag="PONCT" morpho="_" head="3" dep="ponct">,</word>
-        <word id="7" lem="parfois" postag="ADV" morpho="_" head="8" dep="mod">parfois</word>
-        <word id="8" lem="appeler" postag="VPP" morpho="g=m|n=s|t=past" head="3" dep="mod">appelé</word>
-        <word id="9" lem="&quot;" postag="PONCT" morpho="_" head="8" dep="ponct">"</word>
-        <word id="10" lem="pôle" postag="NC" morpho="g=m|n=s" head="8" dep="mod">pôle</word>
-        <word id="11" lem="_" postag="ADJ" morpho="_" head="10" dep="mod">intermodal</word>
-        <word id="12" lem="&quot;" postag="PONCT" morpho="_" head="8" dep="ponct">"</word>
-        <word id="13" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="14" lem="entre" postag="P" morpho="_" head="8" dep="mod">entre</word>
-        <word id="15" lem="de" postag="DET" morpho="n=p" head="17" dep="det">de</word>
-        <word id="16" lem="nombreux" postag="ADJ" morpho="g=f|n=p" head="17" dep="mod">nombreuses</word>
-        <word id="17" lem="ligne" postag="NC" morpho="g=f|n=p" head="14" dep="prep">lignes</word>
-        <word id="18" lem="de" postag="P" morpho="_" head="17" dep="dep">de</word>
-        <word id="19" lem="transport" postag="NC" morpho="g=m|n=s" head="18" dep="prep">transport</word>
-        <word id="20" lem="en_commun" postag="ADV" morpho="_" head="19" dep="mod">en_commun</word>
-        <word id="21" lem="(" postag="PONCT" morpho="_" head="17" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -251,350 +111,85 @@ soit un lieu de transbardement de marchandises, généralement doté d'entrepôt
       <document>Gare.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="autocar" postag="NC" morpho="g=m|n=p" head="0" dep="root">autocars</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="autobus" postag="NC" morpho="g=m" head="0" dep="root">autobus</word>
-          <word id="2" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="trolleybus" postag="NC" morpho="g=m" head="0" dep="_">trolleybus</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="dans" postag="P" morpho="_" head="8" dep="mod">Dans</word>
-        <word id="2" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">un</word>
-        <word id="3" lem="port" postag="NC" morpho="g=m|n=s" head="1" dep="prep">port</word>
-        <word id="4" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="5" lem="une" postag="DET" morpho="g=f|n=s" head="6" dep="det">une</word>
-        <word id="6" lem="gare" postag="NC" morpho="g=f|n=s" head="8" dep="suj">gare</word>
-        <word id="7" lem="maritime" postag="ADJ" morpho="n=s" head="6" dep="mod">maritime</word>
-        <word id="8" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="9" lem="un" postag="DET" morpho="g=m|n=s" head="10" dep="det">un</word>
-        <word id="10" lem="quai" postag="NC" morpho="g=m|n=s" head="8" dep="ats">quai</word>
-        <word id="11" lem="aménager" postag="VPP" morpho="g=m|n=s|t=past" head="10" dep="mod">aménagé</word>
-        <word id="12" lem="pour" postag="P" morpho="_" head="11" dep="mod">pour</word>
-        <word id="13" lem="l'" postag="DET" morpho="n=s" head="14" dep="det">l'</word>
-        <word id="14" lem="embarquement" postag="NC" morpho="g=m|n=s" head="12" dep="prep">embarquement</word>
-        <word id="15" lem="et" postag="CC" morpho="_" head="14" dep="coord">et</word>
-        <word id="16" lem="le" postag="DET" morpho="g=m|n=s" head="17" dep="det">le</word>
-        <word id="17" lem="débarquement" postag="NC" morpho="g=m|n=s" head="15" dep="dep_coord">débarquement</word>
-        <word id="18" lem="de" postag="P+D" morpho="n=p" head="17" dep="dep">des</word>
-        <word id="19" lem="passager" postag="NC" morpho="g=m|n=p" head="18" dep="prep">passagers</word>
-        <word id="20" lem="(" postag="PONCT" morpho="_" head="17" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="éventuellement" postag="ADV" morpho="_" head="0" dep="_">éventuellement</word>
-          <word id="2" lem="des" postag="DET" morpho="n=p" head="3" dep="det">des</word>
-          <word id="3" lem="véhicule" postag="NC" morpho="g=m|n=p" head="0" dep="_">véhicules</word>
-          <word id="4" lem="transporter" postag="VPP" morpho="g=m|n=p|t=past" head="3" dep="mod">transportés</word>
-          <word id="5" lem="par" postag="P" morpho="_" head="4" dep="p_obj">par</word>
-          <word id="6" lem="ferry" postag="NC" morpho="g=m|n=s" head="5" dep="prep">ferry</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="3" lem="." postag="PONCT" morpho="_" head="1" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="dans" postag="P" morpho="_" head="8" dep="mod">Dans</word>
-        <word id="2" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">une</word>
-        <word id="3" lem="remontée" postag="NC" morpho="g=f|n=s" head="1" dep="prep">remontée</word>
-        <word id="4" lem="mécanique" postag="ADJ" morpho="n=s" head="3" dep="mod">mécanique</word>
-        <word id="5" lem="," postag="PONCT" morpho="_" head="8" dep="ponct">,</word>
-        <word id="6" lem="les" postag="DET" morpho="n=p" head="7" dep="det">les</word>
-        <word id="7" lem="gare" postag="NC" morpho="g=f|n=p" head="8" dep="suj">gares</word>
-        <word id="8" lem="être" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">sont</word>
-        <word id="9" lem="les" postag="DET" morpho="n=p" head="10" dep="det">les</word>
-        <word id="10" lem="installation" postag="NC" morpho="g=f|n=p" head="8" dep="ats">installations</word>
-        <word id="11" lem="de" postag="P" morpho="_" head="10" dep="dep">d'</word>
-        <word id="12" lem="extrémité" postag="NC" morpho="g=f|n=p" head="11" dep="prep">extrémités</word>
-        <word id="13" lem="de" postag="P" morpho="_" head="12" dep="dep">de</word>
-        <word id="14" lem="ligne" postag="NC" morpho="g=f|n=s" head="13" dep="prep">ligne</word>
-        <word id="15" lem="(" postag="PONCT" morpho="_" head="10" dep="ponct">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="bâtiment" postag="NC" morpho="g=m|n=s" head="0" dep="_">bâtiment</word>
-          <word id="2" lem="comporter" postag="VPR" morpho="t=pst" head="1" dep="mod">comportant</word>
-          <word id="3" lem="l'" postag="DET" morpho="n=s" head="4" dep="det">l'</word>
-          <word id="4" lem="ancrage" postag="NC" morpho="g=m|n=s" head="2" dep="obj">ancrage</word>
-          <word id="5" lem="de" postag="P+D" morpho="n=p" head="4" dep="dep">des</word>
-          <word id="6" lem="câble" postag="NC" morpho="g=m|n=p" head="5" dep="prep">câbles</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="quai" postag="NC" morpho="g=m|n=p" head="0" dep="_">quais</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="embarquement" postag="NC" morpho="g=m|n=s" head="3" dep="prep">embarquement</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">la</word>
-          <word id="2" lem="motorisation" postag="NC" morpho="g=f|n=s" head="0" dep="_">motorisation</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="_" postag="ADV" morpho="_" head="2" dep="ato">etc.</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="gare" postag="NC" morpho="g=f|n=p" head="3" dep="suj">gares</word>
-        <word id="3" lem="servir" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">servent</word>
-        <word id="4" lem="toujours" postag="ADV" morpho="_" head="3" dep="mod">toujours</word>
-        <word id="5" lem="de" postag="P" morpho="_" head="3" dep="de_obj">d'</word>
-        <word id="6" lem="interface" postag="NC" morpho="g=f|n=s" head="5" dep="prep">interface</word>
-        <word id="7" lem="entre" postag="P" morpho="_" head="3" dep="mod">entre</word>
-        <word id="8" lem="au_moins" postag="ADV" morpho="_" head="7" dep="mod">au_moins</word>
-        <word id="9" lem="deux" postag="ADJ" morpho="n=p" head="10" dep="mod">deux</word>
-        <word id="10" lem="réseau" postag="NC" morpho="g=m|n=p" head="7" dep="prep">réseaux</word>
-        <word id="11" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="un" postag="DET" morpho="g=m|n=s" head="2" dep="det">un</word>
-          <word id="2" lem="moyen" postag="NC" morpho="g=m|n=s" head="0" dep="_">moyen</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">de</word>
-          <word id="4" lem="transport" postag="NC" morpho="g=m|n=s" head="3" dep="prep">transport</word>
-          <word id="5" lem="en_commun" postag="ADV" morpho="_" head="0" dep="_">en_commun</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">les</word>
-          <word id="2" lem="rue" postag="NC" morpho="g=f|n=p" head="0" dep="_">rues</word>
-          <word id="3" lem="qui" postag="PROREL" morpho="n=s" head="5" dep="suj">qui</word>
-          <word id="4" lem="le" postag="CLO" morpho="n=s|p=3" head="5" dep="obj">l'</word>
-          <word id="5" lem="entourer" postag="V" morpho="n=p|p=3|t=pst" head="2" dep="mod_rel">entourent</word>
-          <word id="6" lem="." postag="PONCT" morpho="_" head="2" dep="ponct">.</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="3" lem="observer" postag="VINF" morpho="_" head="2" dep="obj">observer</word>
-        <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-        <word id="5" lem="activité" postag="NC" morpho="g=f|n=p" head="3" dep="obj">activités</word>
-        <word id="6" lem="induire" postag="VPP" morpho="g=f|n=p|t=past" head="5" dep="mod">induites</word>
-        <word id="7" lem="par" postag="P" morpho="_" head="6" dep="p_obj">par</word>
-        <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-        <word id="9" lem="gare" postag="NC" morpho="g=f|n=s" head="7" dep="prep">gare</word>
-        <word id="10" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="11" lem="lier" postag="VPP" morpho="g=f|n=p|t=past" head="9" dep="mod">liées</word>
-        <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="11" dep="a_obj">au</word>
-        <word id="13" lem="transport" postag="NC" morpho="g=m|n=s" head="12" dep="prep">transport</word>
-        <word id="14" lem="lui-même" postag="PRO" morpho="g=m|n=s|p=3" head="13" dep="mod">lui-même</word>
-        <word id="15" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="douane" postag="NC" morpho="g=f|n=s" head="0" dep="root">douane</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="personnel" postag="NC" morpho="g=m|n=s" head="0" dep="root">personnel</word>
-          <word id="2" lem="commercial" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">commercial</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="maintenance" postag="NC" morpho="g=f|n=s" head="0" dep="root">maintenance</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">...</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:28</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="on" postag="CLS" morpho="n=s|p=3" head="2" dep="suj">On</word>
-        <word id="2" lem="pouvoir" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">peut</word>
-        <word id="3" lem="observer" postag="VINF" morpho="_" head="2" dep="obj">observer</word>
-        <word id="4" lem="des" postag="DET" morpho="n=p" head="5" dep="det">des</word>
-        <word id="5" lem="activité" postag="NC" morpho="g=f|n=p" head="3" dep="obj">activités</word>
-        <word id="6" lem="induire" postag="VPP" morpho="g=f|n=p|t=past" head="5" dep="mod">induites</word>
-        <word id="7" lem="par" postag="P" morpho="_" head="6" dep="p_obj">par</word>
-        <word id="8" lem="la" postag="DET" morpho="g=f|n=s" head="9" dep="det">la</word>
-        <word id="9" lem="gare" postag="NC" morpho="g=f|n=s" head="7" dep="prep">gare</word>
-        <word id="10" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="11" lem="lier" postag="VPP" morpho="g=f|n=p|t=past" head="9" dep="mod">liées</word>
-        <word id="12" lem="à" postag="P+D" morpho="g=m|n=s" head="11" dep="a_obj">au</word>
-        <word id="13" lem="transport" postag="NC" morpho="g=m|n=s" head="12" dep="prep">transport</word>
-        <word id="14" lem="lui-même" postag="PRO" morpho="g=m|n=s|p=3" head="13" dep="mod">lui-même</word>
-        <word id="15" lem="(" postag="PONCT" morpho="_" head="13" dep="ponct">(</word>
-        <word id="16" lem="douane" postag="NC" morpho="g=f|n=s" head="13" dep="mod">douane</word>
-        <word id="17" lem="," postag="PONCT" morpho="_" head="13" dep="ponct">,</word>
-        <word id="18" lem="personnel" postag="NC" morpho="g=m|n=s" head="13" dep="mod">personnel</word>
-        <word id="19" lem="commercial" postag="ADJ" morpho="g=m|n=s" head="18" dep="mod">commercial</word>
-        <word id="20" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-        <word id="21" lem="maintenance" postag="NC" morpho="g=f|n=s" head="9" dep="mod">maintenance</word>
-        <word id="22" lem="..." postag="PONCT" morpho="_" head="9" dep="ponct">...</word>
-        <word id="23" lem=")" postag="PONCT" morpho="_" head="9" dep="ponct">)</word>
-        <word id="24" lem="ou" postag="CC" morpho="_" head="9" dep="coord">ou</word>
-        <word id="25" lem="à" postag="P+D" morpho="n=p" head="24" dep="dep_coord">aux</word>
-        <word id="26" lem="service" postag="NC" morpho="g=m|n=p" head="25" dep="prep">services</word>
-        <word id="27" lem="à" postag="P+D" morpho="n=p" head="9" dep="dep">aux</word>
-        <word id="28" lem="voyageur" postag="NC" morpho="g=m|n=p" head="27" dep="prep">voyageurs</word>
-        <word id="29" lem="(" postag="PONCT" morpho="_" head="9" dep="ponct">(</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:28</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="presse" postag="NC" morpho="g=f|n=s" head="0" dep="_">presse</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="hôtellerie" postag="NC" morpho="g=f|n=s" head="0" dep="_">hôtellerie</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">duty-free</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="..." postag="PONCT" morpho="_" head="0" dep="_">…</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="0" dep="_">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -606,8 +201,8 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -649,48 +244,22 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
-      <span begin="1" end="107" />
-      <text>Dans un port, une gare maritime est un quai aménagé pour l'embarquement et le débarquement des passagers (</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="items" idSE="2">
-      <span begin="107" end="157" id="0" />
-      <text id="0">éventuellement des véhicules transportés par ferry</text>
-      <span begin="157" end="162" id="1" />
-      <text id="1">...).</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>3</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="primer" idSE="3">
       <span begin="1" end="86" />
       <text>Dans une remontée mécanique, les gares sont les installations d'extrémités de ligne (</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>3</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="items" idSE="3">
+    <SEval type="items" idSE="2">
       <span begin="86" end="127" id="0" />
       <text id="0">bâtiment comportant l'ancrage des câbles,</text>
       <span begin="128" end="153" id="1" />
@@ -703,50 +272,24 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="primer" idSE="4">
-      <span begin="1" end="69" />
-      <text>Les gares servent toujours d'interface entre au moins deux réseaux :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="items" idSE="4">
-      <span begin="70" end="104" id="0" />
-      <text id="0">un moyen de transport en commun et</text>
-      <span begin="105" end="130" id="1" />
-      <text id="1">les rues qui l'entourent.</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="primer" idSE="5">
+    <SEval type="primer" idSE="3">
       <span begin="1" end="83" />
       <text>On peut observer des activités induites par la gare, liées au transport lui-même (</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="items" idSE="5">
+    <SEval type="items" idSE="3">
       <span begin="82" end="90" id="0" />
       <text id="0">(douane,</text>
       <span begin="91" end="112" id="1" />
@@ -759,24 +302,24 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="primer" idSE="6">
+    <SEval type="primer" idSE="4">
       <span begin="1" end="160" />
       <text>On peut observer des activités induites par la gare, liées au transport lui-même (douane, personnel commercial, maintenance...) ou aux services aux voyageurs (</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="items" idSE="6">
+    <SEval type="items" idSE="4">
       <span begin="160" end="167" id="0" />
       <text id="0">presse,</text>
       <span begin="168" end="179" id="1" />
@@ -790,8 +333,8 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -802,20 +345,20 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
-      <span begin="135" end="161" id="0" />
-      <text id="0">un lieu de correspondance,</text>
+      <span begin="136" end="160" id="0" />
+      <text id="0">n lieu de correspondance</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -826,8 +369,8 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="marq_relation" idSE="0" localisation="primer" idItem="-1">
@@ -887,144 +430,144 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
-      <span begin="60" end="67" id="0" />
-      <text id="0">réseaux</text>
+    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
+      <span begin="45" end="84" id="0" />
+      <text id="0">les installations d'extrémités de ligne</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
-      <span begin="70" end="101" id="0" />
-      <text id="0">un moyen de transport en commun</text>
+    <SEval type="concept" idSE="2" localisation="item" idItem="0">
+      <span begin="86" end="126" id="0" />
+      <text id="0">bâtiment comportant l'ancrage des câbles</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
-      <span begin="105" end="113" id="0" />
-      <text id="0">les rues</text>
+    <SEval type="concept" idSE="2" localisation="item" idItem="1">
+      <span begin="128" end="152" id="0" />
+      <text id="0">les quais d'embarquement</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>4</id>
+      <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
-      <span begin="55" end="59" id="0" />
-      <text id="0">deux</text>
+    <SEval type="concept" idSE="2" localisation="item" idItem="2">
+      <span begin="154" end="169" id="0" />
+      <text id="0">la motorisation</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="3" localisation="primer" idItem="-1">
       <span begin="18" end="31" id="0" />
       <text id="0">des activités</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+    <SEval type="concept" idSE="3" localisation="item" idItem="0">
       <span begin="83" end="89" id="0" />
       <text id="0">douane</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+    <SEval type="concept" idSE="3" localisation="item" idItem="1">
       <span begin="91" end="111" id="0" />
       <text id="0">personnel commercial</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
+      <id>3</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="2">
+    <SEval type="concept" idSE="3" localisation="item" idItem="2">
       <span begin="113" end="124" id="0" />
       <text id="0">maintenance</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
       <span begin="132" end="144" id="0" />
       <text id="0">aux services</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
       <span begin="160" end="166" id="0" />
       <text id="0">presse</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
       <span begin="168" end="178" id="0" />
       <text id="0">hôtellerie</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
+      <id>4</id>
       <auteur>Autre</auteur>
       <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="2">
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
       <span begin="180" end="189" id="0" />
       <text id="0">duty-free</text>
     </SEval>
@@ -1032,8 +575,8 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -1046,8 +589,8 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -1060,8 +603,8 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -1077,8 +620,8 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:57</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -1175,7 +718,7 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -1189,11 +732,11 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -1203,11 +746,11 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -1220,12 +763,12 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>2</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>4/01/14 22:23</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
-      <visee_ontologique value="0">
-        <isA value="0" />
+      <visee_ontologique value="1">
+        <isA value="1" />
         <partOf value="0" />
         <instanceOf value="0" />
         <ontologique_autre value="0" />
@@ -1246,25 +789,25 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="3">
       <horizontale value="1" />
       <verticale value="0" />
       <navigationnelle value="0" />
-      <hypertextuelle value="1" />
+      <hypertextuelle value="0" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="3">
-      <paradigmatique value="0" />
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -1274,11 +817,11 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="3">
-      <descriptive value="0" />
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -1291,7 +834,7 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>3</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:26</date>
+      <date>1/01/14 14:27</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="3">
@@ -1317,7 +860,7 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -1331,7 +874,7 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -1345,7 +888,7 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -1362,152 +905,10 @@ Le mot a été ensuite étendu au monde routier, dans lequel il désigne aujourd
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
+      <date>1/01/14 14:28</date>
       <document>Gare.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="5">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="5">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="5">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:27</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="5">
-      <visee_ontologique value="1">
-        <isA value="1" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:28</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="6">
-      <horizontale value="1" />
-      <verticale value="0" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:28</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="6">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:28</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="6">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>6</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 14:28</date>
-      <document>Gare.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="6">
       <visee_ontologique value="1">
         <isA value="1" />
         <partOf value="0" />

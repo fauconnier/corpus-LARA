@@ -3,8 +3,8 @@
   <annotation type="1">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SE>
@@ -14,7 +14,7 @@ Dans un désert, comme pour l'Okavango,
 Dans une mer intérieure comme le Jourdain qui se jette dans la mer morte.</text>
       <span begin="10" end="246" />
     </SE>
-    <comment>unknown</comment>
+    <comment>Consensus</comment>
   </annotation>
   <annotation type="1">
     <metadata>
@@ -37,8 +37,8 @@ le chenal d'étiage n'occupe qu'une partie du lit ordinaire.</text>
   <annotation type="1">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:21</date>
       <document>Fleuve.html</document>
     </metadata>
     <SE>
@@ -77,41 +77,11 @@ Mekong (4350 à 4909 km)</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SE>
       <id>4</id>
-      <text>Autres utilisations du mot fleuve
-Expressions
-fleuve au long cours :
-roman-fleuve, discours-fleuve : roman, discours particulièrement long, voire interminable
-haut, bas du fleuve : dans le langage familier, la hauteur du fleuve détermine la proximité avec l'océan. Haut = près de la source, Bas = près de l'océan
-oued (pluriel ouadi, wad, wadi) est un termearabe qui désigne un cours d'eau ; Guadalajara (Espagne) viendrait de Oued El Hjar (la rivière des pierres)
-Œuvres
-Titres d'œuvres dans lesquelles le mot fleuve apparaît :
-Fleuve noir : éditeur et collection de romans policiers
-Le Fleuve : film de Jean Renoir, 1950
-Le Monde du fleuve : série de romans de Philip José Farmer
-La vie est un long fleuve tranquille : film d'Étienne Chatiliez, 1987
-Le Fleuve sauvage (Wild river): film d'Elia Kazan, 1960
-Le Fleuve aux grandes eaux: film de Frédéric Back, 1993
-Les Caprices d'un fleuve : film de Bernard Giraudeau, 1995
-Les Pouvoirs du fleuve : film
-Le Fleuve : chanson de Noir Désir</text>
-      <span begin="3682" end="4668" />
-    </SE>
-    <comment />
-  </annotation>
-  <annotation type="1">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SE>
-      <id>5</id>
       <text>Expressions
 fleuve au long cours :
 roman-fleuve, discours-fleuve : roman, discours particulièrement long, voire interminable
@@ -123,13 +93,13 @@ oued (pluriel ouadi, wad, wadi) est un termearabe qui désigne un cours d'eau ; 
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SE>
-      <id>6</id>
+      <id>5</id>
       <text>roman-fleuve, discours-fleuve : roman, discours particulièrement long, voire interminable</text>
       <span begin="3751" end="3840" />
     </SE>
@@ -137,13 +107,13 @@ oued (pluriel ouadi, wad, wadi) est un termearabe qui désigne un cours d'eau ; 
   </annotation>
   <annotation type="1">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SE>
-      <id>7</id>
+      <id>6</id>
       <text>Œuvres
 Titres d'œuvres dans lesquelles le mot fleuve apparaît :
 Fleuve noir : éditeur et collection de romans policiers
@@ -159,107 +129,25 @@ Le Fleuve : chanson de Noir Désir</text>
     </SE>
     <comment />
   </annotation>
-  <annotation type="1">
+  <annotation type="2">
     <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:46</date>
+      <id>0</id>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SE>
-      <id>8</id>
-      <text>Titres d'œuvres dans lesquelles le mot fleuve apparaît :
-Fleuve noir : éditeur et collection de romans policiers
-Le Fleuve : film de Jean Renoir, 1950
-Le Monde du fleuve : série de romans de Philip José Farmer
-La vie est un long fleuve tranquille : film d'Étienne Chatiliez, 1987
-Le Fleuve sauvage (Wild river): film d'Elia Kazan, 1960
-Le Fleuve aux grandes eaux: film de Frédéric Back, 1993
-Les Caprices d'un fleuve : film de Bernard Giraudeau, 1995
-Les Pouvoirs du fleuve : film
-Le Fleuve : chanson de Noir Désir</text>
-      <span begin="4154" end="4668" />
-    </SE>
-    <comment />
+    <SEval type="primer_syntax" idSE="0" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="0">
-      <sentence id="1">
-        <word id="1" lem="en" postag="P" morpho="_" head="7" dep="mod">En</word>
-        <word id="2" lem="hydrographie" postag="NC" morpho="g=f|n=s" head="1" dep="prep">hydrographie</word>
-        <word id="3" lem="francophone" postag="ADJ" morpho="n=s" head="2" dep="mod">francophone</word>
-        <word id="4" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-        <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-        <word id="6" lem="fleuve" postag="NC" morpho="g=m|n=s" head="7" dep="suj">fleuve</word>
-        <word id="7" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-        <word id="8" lem="un" postag="DET" morpho="g=m|n=s" head="9" dep="det">un</word>
-        <word id="9" lem="cour" postag="NC" morpho="g=f|n=p" head="7" dep="ats">cours</word>
-        <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-        <word id="11" lem="eau" postag="NC" morpho="g=f|n=s" head="10" dep="prep">eau</word>
-        <word id="12" lem="qui" postag="PROREL" morpho="n=s" head="14" dep="suj">qui</word>
-        <word id="13" lem="se" postag="CLR" morpho="n=p|p=3" head="14" dep="aff">se</word>
-        <word id="14" lem="jeter" postag="V" morpho="n=s|p=13|t=pst" head="9" dep="mod_rel">jette</word>
-        <word id="15" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
-        <word id="16" lem="une" postag="DET" morpho="g=f|n=s" head="17" dep="det">une</word>
-        <word id="17" lem="mer" postag="NC" morpho="g=f|n=s" head="15" dep="prep">mer</word>
-        <word id="18" lem="," postag="PONCT" morpho="_" head="14" dep="ponct">,</word>
-        <word id="19" lem="dans" postag="P" morpho="_" head="14" dep="mod">dans</word>
-        <word id="20" lem="l'" postag="DET" morpho="n=s" head="21" dep="det">l'</word>
-        <word id="21" lem="océan" postag="NC" morpho="g=m|n=s" head="19" dep="prep">océan</word>
-        <word id="22" lem="," postag="PONCT" morpho="_" head="7" dep="ponct">,</word>
-        <word id="23" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
-        <word id="24" lem="," postag="PONCT" morpho="_" head="23" dep="ponct">,</word>
-        <word id="25" lem="exceptionnellement" postag="ADV" morpho="_" head="23" dep="mod">exceptionnellement</word>
-        <word id="26" lem=":" postag="PONCT" morpho="_" head="23" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="0">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="dans" postag="P" morpho="_" head="0" dep="_">Dans</word>
-          <word id="2" lem="un" postag="DET" morpho="g=m|n=s" head="3" dep="det">un</word>
-          <word id="3" lem="désert" postag="NC" morpho="g=m|n=s" head="1" dep="prep">désert</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="5" lem="comme" postag="P" morpho="_" head="0" dep="_">comme</word>
-          <word id="6" lem="pour" postag="P" morpho="_" head="5" dep="prep">pour</word>
-          <word id="7" lem="l'" postag="DET" morpho="n=s" head="8" dep="det">l'</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="6" dep="prep">Okavango</word>
-          <word id="9" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="dans" postag="P" morpho="_" head="0" dep="_">Dans</word>
-          <word id="2" lem="une" postag="DET" morpho="g=f|n=s" head="3" dep="det">une</word>
-          <word id="3" lem="mer" postag="NC" morpho="g=f|n=s" head="1" dep="prep">mer</word>
-          <word id="4" lem="intérieur" postag="ADJ" morpho="g=f|n=s" head="3" dep="mod">intérieure</word>
-          <word id="5" lem="comme" postag="P" morpho="_" head="3" dep="dep">comme</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="7" lem="Jourdain" postag="NPP" morpho="g=m|n=s" head="5" dep="prep">Jourdain</word>
-          <word id="8" lem="qui" postag="PROREL" morpho="n=s" head="10" dep="suj">qui</word>
-          <word id="9" lem="se" postag="CLR" morpho="n=p|p=3" head="10" dep="aff">se</word>
-          <word id="10" lem="jeter" postag="V" morpho="n=s|p=13|t=pst" head="3" dep="mod_rel">jette</word>
-          <word id="11" lem="dans" postag="P" morpho="_" head="10" dep="mod">dans</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="mer" postag="NC" morpho="g=f|n=s" head="11" dep="prep">mer</word>
-          <word id="14" lem="mort" postag="ADJ" morpho="g=f|n=s" head="13" dep="mod">morte</word>
-          <word id="15" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -269,27 +157,7 @@ Le Fleuve : chanson de Noir Désir</text>
       <date>1/01/14 13:36</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="1">
-      <sentence id="1">
-        <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-        <word id="2" lem="lit" postag="NC" morpho="g=m|n=s" head="0" dep="_">lit</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="l'" postag="DET" morpho="n=s" head="2" dep="det">L'</word>
-        <word id="2" lem="espace" postag="NC" morpho="n=s" head="9" dep="suj">espace</word>
-        <word id="3" lem="que" postag="PROREL" morpho="_" head="4" dep="obj">qu'</word>
-        <word id="4" lem="occuper" postag="V" morpho="n=s|p=13|t=pst" head="2" dep="mod_rel">occupe</word>
-        <word id="5" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-        <word id="6" lem="cour" postag="NC" morpho="g=f|n=p" head="4" dep="suj">cours</word>
-        <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">d'</word>
-        <word id="8" lem="eau" postag="NC" morpho="g=f|n=s" head="7" dep="prep">eau</word>
-        <word id="9" lem="varier" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">varie</word>
-        <word id="10" lem="selon" postag="P" morpho="_" head="9" dep="mod">selon</word>
-        <word id="11" lem="son" postag="DET" morpho="n=s|p=3|poss=s" head="12" dep="det">son</word>
-        <word id="12" lem="hydrologie" postag="NC" morpho="g=f|n=s" head="10" dep="prep">hydrologie</word>
-        <word id="13" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="1" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -299,123 +167,31 @@ Le Fleuve : chanson de Noir Désir</text>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="1">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="lit" postag="NC" morpho="g=m|n=s" head="19" dep="suj">lit</word>
-          <word id="2" lem="majeur" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">majeur</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="4" lem="appeler" postag="VPP" morpho="g=m|n=s|t=past" head="1" dep="mod">appelé</word>
-          <word id="5" lem="aussi" postag="ADV" morpho="_" head="4" dep="mod">aussi</word>
-          <word id="6" lem="&quot;" postag="PONCT" morpho="_" head="4" dep="ponct">"</word>
-          <word id="7" lem="plaine" postag="NC" morpho="g=f|n=s" head="4" dep="mod">plaine</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">d'</word>
-          <word id="9" lem="inondation" postag="NC" morpho="g=f|n=s" head="8" dep="prep">inondation</word>
-          <word id="10" lem="&quot;" postag="PONCT" morpho="_" head="9" dep="ponct">"</word>
-          <word id="11" lem="ou" postag="CC" morpho="_" head="7" dep="coord">ou</word>
-          <word id="12" lem="&quot;" postag="PONCT" morpho="_" head="11" dep="ponct">"</word>
-          <word id="13" lem="lit" postag="NC" morpho="g=m|n=s" head="11" dep="dep_coord">lit</word>
-          <word id="14" lem="de" postag="P" morpho="_" head="13" dep="dep">d'</word>
-          <word id="15" lem="inondation" postag="NC" morpho="g=f|n=s" head="14" dep="prep">inondation</word>
-          <word id="16" lem="&quot;" postag="PONCT" morpho="_" head="15" dep="ponct">"</word>
-          <word id="17" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="19" dep="aux_pass">est</word>
-          <word id="18" lem="plus" postag="ADV" morpho="_" head="19" dep="mod">plus</word>
-          <word id="19" lem="étendre" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">étendu</word>
-          <word id="20" lem="que" postag="CS" morpho="_" head="19" dep="obj">que</word>
-          <word id="21" lem="le" postag="DET" morpho="g=m|n=s" head="22" dep="det">le</word>
-          <word id="22" lem="lit" postag="NC" morpho="g=m|n=s" head="0" dep="_">lit</word>
-          <word id="23" lem="ordinaire" postag="ADJ" morpho="n=s" head="22" dep="mod">ordinaire</word>
-          <word id="24" lem="." postag="PONCT" morpho="_" head="0" dep="_">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="il" postag="CLS" morpho="g=m|n=s|p=3" head="3" dep="suj">Il</word>
-          <word id="2" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="3" dep="aux_pass">est</word>
-          <word id="3" lem="recouvrir" postag="VPP" morpho="g=m|n=s|t=past" head="0" dep="root">recouvert</word>
-          <word id="4" lem="par" postag="P" morpho="_" head="3" dep="p_obj">par</word>
-          <word id="5" lem="des" postag="DET" morpho="n=p" head="6" dep="det">des</word>
-          <word id="6" lem="alluvion" postag="NC" morpho="g=f|n=p" head="4" dep="prep">alluvions</word>
-          <word id="7" lem=";" postag="PONCT" morpho="_" head="3" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="lit" postag="NC" morpho="g=m|n=s" head="0" dep="_">lit</word>
-          <word id="2" lem="mineur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">mineur</word>
-          <word id="3" lem="aussi" postag="ADV" morpho="_" head="4" dep="mod">aussi</word>
-          <word id="4" lem="appeler" postag="VPP" morpho="g=m|n=s|t=past" head="2" dep="mod">appelé</word>
-          <word id="5" lem="lit" postag="NC" morpho="g=m|n=s" head="4" dep="mod">lit</word>
-          <word id="6" lem="ordinaire" postag="ADJ" morpho="n=s" head="5" dep="mod">ordinaire</word>
-          <word id="7" lem="ou" postag="CC" morpho="_" head="5" dep="coord">ou</word>
-          <word id="8" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="9" lem="lit" postag="NC" morpho="g=m|n=s" head="7" dep="dep_coord">lit</word>
-          <word id="10" lem="apparent" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">apparent</word>
-          <word id="11" lem="&quot;" postag="PONCT" morpho="_" head="7" dep="ponct">"</word>
-          <word id="12" lem=";" postag="PONCT" morpho="_" head="1" dep="ponct">;</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">le</word>
-          <word id="2" lem="chenal" postag="NC" morpho="g=m|n=s" head="6" dep="suj">chenal</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="étiage" postag="NC" morpho="g=m|n=s" head="3" dep="prep">étiage</word>
-          <word id="5" lem="ne" postag="ADV" morpho="_" head="6" dep="mod">n'</word>
-          <word id="6" lem="occuper" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">occupe</word>
-          <word id="7" lem="que" postag="ADV" morpho="_" head="6" dep="mod">qu'</word>
-          <word id="8" lem="une" postag="DET" morpho="g=f|n=s" head="9" dep="det">une</word>
-          <word id="9" lem="partie" postag="NC" morpho="g=f|n=s" head="6" dep="obj">partie</word>
-          <word id="10" lem="de" postag="P+D" morpho="g=m|n=s" head="9" dep="dep">du</word>
-          <word id="11" lem="lit" postag="NC" morpho="g=m|n=s" head="10" dep="prep">lit</word>
-          <word id="12" lem="ordinaire" postag="ADJ" morpho="n=s" head="11" dep="mod">ordinaire</word>
-          <word id="13" lem="." postag="PONCT" morpho="_" head="6" dep="ponct">.</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:21</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="2">
-      <sentence id="1">
-        <word id="1" lem="dans" postag="P" morpho="_" head="0" dep="_">Dans</word>
-        <word id="2" lem="certains" postag="DET" morpho="g=m|n=p" head="3" dep="det">certains</word>
-        <word id="3" lem="contexte" postag="NC" morpho="g=m|n=s" head="1" dep="prep">contexte</word>
-        <word id="4" lem="(" postag="PONCT" morpho="_" head="0" dep="_">(</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="2" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:21</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="2">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="2" lem="sol" postag="NC" morpho="g=m|n=p" head="0" dep="root">sols</word>
-          <word id="3" lem="et" postag="CC" morpho="_" head="2" dep="coord">et</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="substrat" postag="NC" morpho="g=m|n=p" head="0" dep="root">substrats</word>
-          <word id="2" lem="perméable" postag="ADJ" morpho="n=p" head="1" dep="mod">perméables</word>
-          <word id="3" lem="ou" postag="CC" morpho="_" head="1" dep="coord">ou</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">semi-perméables</word>
-          <word id="2" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="3" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
     </SEval>
   </annotation>
   <annotation type="2">
@@ -425,27 +201,7 @@ Le Fleuve : chanson de Noir Désir</text>
       <date>1/01/14 13:40</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="3">
-      <sentence id="1">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="deux" postag="NC" morpho="g=m" head="0" dep="_">dix</word>
-        <word id="3" lem="plus" postag="ADV" morpho="_" head="4" dep="mod">plus</word>
-        <word id="4" lem="long" postag="ADJ" morpho="g=m|n=p" head="2" dep="mod">longs</word>
-        <word id="5" lem="fleuve" postag="NC" morpho="g=m|n=p" head="2" dep="mod">fleuves</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-        <word id="2" lem="donnée" postag="NC" morpho="g=f|n=p" head="4" dep="suj">données</word>
-        <word id="3" lem="suivant" postag="ADJ" morpho="g=f|n=p" head="2" dep="mod">suivantes</word>
-        <word id="4" lem="correspondre" postag="V" morpho="n=p|p=3|t=pst" head="0" dep="root">correspondent</word>
-        <word id="5" lem="à" postag="P" morpho="_" head="4" dep="a_obj">à</word>
-        <word id="6" lem="une" postag="DET" morpho="g=f|n=s" head="7" dep="det">une</word>
-        <word id="7" lem="longueur" postag="NC" morpho="g=f|n=s" head="5" dep="prep">longueur</word>
-        <word id="8" lem="moyen" postag="ADJ" morpho="g=f|n=s" head="7" dep="mod">moyenne</word>
-        <word id="9" lem="estimer" postag="VPP" morpho="g=f|n=s|t=past" head="7" dep="mod">estimée</word>
-        <word id="10" lem=":" postag="PONCT" morpho="_" head="4" dep="ponct">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="3" />
   </annotation>
   <annotation type="2">
     <metadata>
@@ -455,873 +211,95 @@ Le Fleuve : chanson de Noir Désir</text>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="3">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="Nil" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Nil</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="entre" postag="P" morpho="_" head="1" dep="dep">entre</word>
-          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">6499</word>
-          <word id="5" lem="kilomètre" postag="NC" morpho="g=m" head="3" dep="prep">km</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-          <word id="7" lem="#NUM#" postag="DET" morpho="n=p" head="8" dep="det">6718</word>
-          <word id="8" lem="kilomètre" postag="NC" morpho="g=m" head="6" dep="dep_coord">km</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="amazone" postag="NC" morpho="g=f|n=s" head="0" dep="_">Amazone</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="entre" postag="P" morpho="_" head="1" dep="dep">entre</word>
-          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">6259</word>
-          <word id="5" lem="kilomètre" postag="NC" morpho="g=m" head="3" dep="prep">km</word>
-          <word id="6" lem="et" postag="CC" morpho="_" head="5" dep="coord">et</word>
-          <word id="7" lem="#NUM#" postag="DET" morpho="n=p" head="8" dep="det">6800</word>
-          <word id="8" lem="kilomètre" postag="NC" morpho="g=m" head="6" dep="dep_coord">km</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="Yangtsé" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Yangtsé</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="Chang" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Chang</word>
-          <word id="4" lem="Jiang" postag="NPP" morpho="n=s" head="1" dep="mod">Jiang</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="6" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="7" lem="#NUM#" postag="DET" morpho="n=p" head="8" dep="det">6380</word>
-          <word id="8" lem="kilomètre" postag="NC" morpho="g=m" head="1" dep="mod">km</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="Mississippi-Missouri" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Mississippi-Missouri</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="#NUM#" postag="DET" morpho="n=p" head="4" dep="det">6210</word>
-          <word id="4" lem="kilomètre" postag="NC" morpho="g=m" head="1" dep="mod">km</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="Ienisseï-Angara" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Ienisseï-Angara</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="#NUM#" postag="DET" morpho="n=p" head="4" dep="det">5550</word>
-          <word id="4" lem="kilomètre" postag="NC" morpho="g=m" head="1" dep="mod">km</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="Huang" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Huang</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="1" dep="mod">He</word>
-          <word id="3" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="4" lem="#NUM#" postag="DET" morpho="n=p" head="5" dep="det">5464</word>
-          <word id="5" lem="kilomètre" postag="NC" morpho="g=m" head="1" dep="mod">km</word>
-          <word id="6" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="Ob-Irtych" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Ob-Irtych</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="#NUM#" postag="DET" morpho="n=p" head="4" dep="det">5410</word>
-          <word id="4" lem="kilomètre" postag="NC" morpho="g=m" head="1" dep="mod">km</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="Congo" postag="NPP" morpho="g=m|n=s" head="0" dep="_">Congo</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="#NUM#" postag="DET" morpho="n=p" head="4" dep="det">4380</word>
-          <word id="4" lem="kilomètre" postag="NC" morpho="g=m" head="1" dep="mod">km</word>
-          <word id="5" lem="ou" postag="CC" morpho="_" head="4" dep="coord">ou</word>
-          <word id="6" lem="#NUM#" postag="DET" morpho="n=p" head="7" dep="det">4670</word>
-          <word id="7" lem="kilomètre" postag="NC" morpho="g=m" head="5" dep="dep_coord">km</word>
-          <word id="8" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="amour" postag="NC" morpho="g=m|n=s" head="0" dep="_">Amour</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="#NUM#" postag="DET" morpho="n=p" head="4" dep="det">4354</word>
-          <word id="4" lem="kilomètre" postag="NC" morpho="g=m" head="1" dep="mod">km</word>
-          <word id="5" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="9">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NPP" morpho="_" head="0" dep="_">Mekong</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="#NUM#" postag="DET" morpho="n=p" head="0" dep="_">4350</word>
-          <word id="4" lem="à" postag="P" morpho="_" head="3" dep="dep">à</word>
-          <word id="5" lem="#NUM#" postag="DET" morpho="n=p" head="6" dep="det">4909</word>
-          <word id="6" lem="kilomètre" postag="NC" morpho="g=m" head="4" dep="prep">km</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="3" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
+      <item id="9" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="4">
-      <sentence id="1">
-        <word id="1" lem="autres" postag="ADJ" morpho="n=p" head="2" dep="mod">Autres</word>
-        <word id="2" lem="utilisation" postag="NC" morpho="g=f|n=p" head="0" dep="root">utilisations</word>
-        <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-        <word id="4" lem="mot" postag="NC" morpho="g=m|n=s" head="3" dep="prep">mot</word>
-        <word id="5" lem="fleuve" postag="NC" morpho="g=m|n=s" head="4" dep="mod">fleuve</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="4" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="4">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="expression" postag="NC" morpho="g=f|n=p" head="0" dep="_">Expressions</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="fleuve" postag="NC" morpho="g=m|n=s" head="0" dep="_">fleuve</word>
-          <word id="2" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="3" lem="long" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">long</word>
-          <word id="4" lem="cour" postag="NC" morpho="g=f|n=p" head="2" dep="prep">cours</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="roman-fleuve" postag="NC" morpho="g=m|n=s" head="0" dep="_">roman-fleuve</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="0" dep="_">discours-fleuve</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="5" lem="roman" postag="NC" morpho="g=m|n=s" head="0" dep="_">roman</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="discours" postag="NC" morpho="g=m" head="0" dep="_">discours</word>
-          <word id="8" lem="particulièrement" postag="ADV" morpho="_" head="9" dep="mod">particulièrement</word>
-          <word id="9" lem="long" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">long</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="11" lem="voire" postag="CC" morpho="_" head="7" dep="coord">voire</word>
-          <word id="12" lem="interminable" postag="ADJ" morpho="n=s" head="11" dep="dep_coord">interminable</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="haut" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">haut</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="3" lem="bas" postag="ADJ" morpho="g=m" head="16" dep="mod">bas</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="de_obj">du</word>
-          <word id="5" lem="fleuve" postag="NC" morpho="g=m|n=s" head="4" dep="prep">fleuve</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="16" dep="ponct">:</word>
-          <word id="7" lem="dans" postag="P" morpho="_" head="16" dep="mod">dans</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="langage" postag="NC" morpho="g=m|n=s" head="7" dep="prep">langage</word>
-          <word id="10" lem="familier" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">familier</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="hauteur" postag="NC" morpho="g=f|n=s" head="16" dep="suj">hauteur</word>
-          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
-          <word id="15" lem="fleuve" postag="NC" morpho="g=m|n=s" head="14" dep="prep">fleuve</word>
-          <word id="16" lem="déterminer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">détermine</word>
-          <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
-          <word id="18" lem="proximité" postag="NC" morpho="g=f|n=s" head="16" dep="obj">proximité</word>
-          <word id="19" lem="avec" postag="P" morpho="_" head="18" dep="dep">avec</word>
-          <word id="20" lem="l'" postag="DET" morpho="n=s" head="21" dep="det">l'</word>
-          <word id="21" lem="océan" postag="NC" morpho="g=m|n=s" head="19" dep="prep">océan</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="haut" postag="NC" morpho="g=m|n=s" head="0" dep="root">Haut</word>
-          <word id="2" lem="=" postag="P" morpho="_" head="1" dep="dep">=</word>
-          <word id="3" lem="près_de" postag="P" morpho="_" head="2" dep="dep">près_de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="source" postag="NC" morpho="g=f|n=s" head="3" dep="prep">source</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="Bas" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Bas</word>
-          <word id="8" lem="=" postag="P" morpho="_" head="1" dep="dep">=</word>
-          <word id="9" lem="près_de" postag="P" morpho="_" head="0" dep="_">près_de</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="océan" postag="NC" morpho="g=m|n=s" head="9" dep="prep">océan</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="oued" postag="NC" morpho="g=m|n=s" head="10" dep="suj">oued</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="pluriel" postag="NC" morpho="g=m|n=s" head="1" dep="mod">pluriel</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">ouadi</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="1" dep="mod">wad</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="1" dep="mod">wadi</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="10" dep="ats">termearabe</word>
-          <word id="13" lem="qui" postag="PROREL" morpho="n=s" head="14" dep="suj">qui</word>
-          <word id="14" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="12" dep="mod_rel">désigne</word>
-          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
-          <word id="16" lem="cour" postag="NC" morpho="g=f|n=p" head="14" dep="obj">cours</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">d'</word>
-          <word id="18" lem="eau" postag="NC" morpho="g=f|n=s" head="17" dep="prep">eau</word>
-          <word id="19" lem=";" postag="PONCT" morpho="_" head="10" dep="ponct">;</word>
-          <word id="20" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Guadalajara</word>
-          <word id="21" lem="(" postag="PONCT" morpho="_" head="20" dep="ponct">(</word>
-          <word id="22" lem="Espagne" postag="NPP" morpho="g=f|n=s" head="20" dep="mod">Espagne</word>
-          <word id="23" lem=")" postag="PONCT" morpho="_" head="20" dep="ponct">)</word>
-          <word id="24" lem="venir" postag="V" morpho="n=s|p=3|t=cond" head="10" dep="mod">viendrait</word>
-          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="de_obj">de</word>
-          <word id="26" lem="_" postag="NPP" morpho="_" head="25" dep="prep">Oued</word>
-          <word id="27" lem="_" postag="NPP" morpho="_" head="26" dep="mod">El</word>
-          <word id="28" lem="_" postag="NPP" morpho="_" head="26" dep="mod">Hjar</word>
-          <word id="29" lem="(" postag="PONCT" morpho="_" head="24" dep="ponct">(</word>
-          <word id="30" lem="la" postag="DET" morpho="g=f|n=s" head="31" dep="det">la</word>
-          <word id="31" lem="rivière" postag="NC" morpho="g=f|n=s" head="24" dep="suj">rivière</word>
-          <word id="32" lem="de" postag="P+D" morpho="n=p" head="31" dep="dep">des</word>
-          <word id="33" lem="pierre" postag="NC" morpho="g=f|n=p" head="32" dep="prep">pierres</word>
-          <word id="34" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Œuvres</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="titre" postag="NC" morpho="g=m|n=p" head="9" dep="mod">Titres</word>
-          <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-          <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">œuvres</word>
-          <word id="4" lem="dans" postag="P" morpho="_" head="9" dep="mod">dans</word>
-          <word id="5" lem="lequel" postag="PROREL" morpho="g=f|n=p" head="4" dep="prep">lesquelles</word>
-          <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-          <word id="7" lem="mot" postag="NC" morpho="g=m|n=s" head="9" dep="suj">mot</word>
-          <word id="8" lem="fleuve" postag="NC" morpho="g=m|n=s" head="7" dep="mod">fleuve</word>
-          <word id="9" lem="apparaître" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">apparaît</word>
-          <word id="10" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
-        </sentence>
-        <sentence id="3">
-          <word id="1" lem="fleuve" postag="NC" morpho="g=m|n=s" head="0" dep="_">Fleuve</word>
-          <word id="2" lem="noir" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">noir</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="4" lem="éditeur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">éditeur</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="collection" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">collection</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="8" lem="roman" postag="NC" morpho="g=m|n=p" head="7" dep="prep">romans</word>
-          <word id="9" lem="policier" postag="ADJ" morpho="g=m|n=p" head="8" dep="mod">policiers</word>
-        </sentence>
-        <sentence id="4">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Fleuve</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="Jean" postag="NPP" morpho="n=s" head="5" dep="prep">Jean</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Renoir</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="6" dep="mod">1950</word>
-        </sentence>
-        <sentence id="5">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Monde</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="prep">fleuve</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="6" lem="série" postag="NC" morpho="g=f|n=s" head="2" dep="mod">série</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="roman" postag="NC" morpho="g=m|n=p" head="7" dep="prep">romans</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Philip" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Philip</word>
-          <word id="11" lem="José" postag="NPP" morpho="g=m|n=s" head="10" dep="mod">José</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Farmer</word>
-        </sentence>
-        <sentence id="6">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="vie" postag="NC" morpho="g=f|n=s" head="3" dep="suj">vie</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="5" lem="long" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">long</word>
-          <word id="6" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="ats">fleuve</word>
-          <word id="7" lem="tranquille" postag="ADJ" morpho="n=s" head="6" dep="mod">tranquille</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-          <word id="9" lem="film" postag="NC" morpho="g=m|n=s" head="0" dep="_">film</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="Étienne" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Étienne</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Chatiliez</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="9" dep="mod">1987</word>
-        </sentence>
-        <sentence id="7">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Fleuve</word>
-          <word id="3" lem="sauvage" postag="ADJ" morpho="n=s" head="2" dep="mod">sauvage</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Wild</word>
-          <word id="6" lem="river" postag="VINF" morpho="_" head="2" dep="dep">river</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="9" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="Elia" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Elia</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Kazan</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="2" dep="mod">1960</word>
-        </sentence>
-        <sentence id="8">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Fleuve</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="grand" postag="ADJ" morpho="g=f|n=p" head="5" dep="mod">grandes</word>
-          <word id="5" lem="eau" postag="NC" morpho="g=f|n=p" head="3" dep="prep">eaux</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="7" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="Frédéric" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Frédéric</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Back</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="9" dep="mod">1993</word>
-        </sentence>
-        <sentence id="9">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Caprices</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="prep">fleuve</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="7" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="Bernard" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Bernard</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Giraudeau</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="9" dep="mod">1995</word>
-        </sentence>
-        <sentence id="10">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Pouvoirs</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="prep">fleuve</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="6" lem="film" postag="NC" morpho="g=m|n=s" head="0" dep="_">film</word>
-        </sentence>
-        <sentence id="11">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Fleuve</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="chanson" postag="NC" morpho="g=f|n=s" head="2" dep="mod">chanson</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Noir</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Désir</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="5">
-      <sentence id="1">
-        <word id="1" lem="expression" postag="NC" morpho="g=f|n=p" head="0" dep="_">Expressions</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="5" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="5">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="fleuve" postag="NC" morpho="g=m|n=s" head="0" dep="_">fleuve</word>
-          <word id="2" lem="à" postag="P+D" morpho="g=m|n=s" head="1" dep="dep">au</word>
-          <word id="3" lem="long" postag="ADJ" morpho="g=m|n=s" head="4" dep="mod">long</word>
-          <word id="4" lem="cour" postag="NC" morpho="g=f|n=p" head="2" dep="prep">cours</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="roman-fleuve" postag="NC" morpho="g=m|n=s" head="0" dep="_">roman-fleuve</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="3" lem="_" postag="NC" morpho="_" head="0" dep="_">discours-fleuve</word>
-          <word id="4" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="5" lem="roman" postag="NC" morpho="g=m|n=s" head="0" dep="_">roman</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-          <word id="7" lem="discours" postag="NC" morpho="g=m" head="0" dep="_">discours</word>
-          <word id="8" lem="particulièrement" postag="ADV" morpho="_" head="9" dep="mod">particulièrement</word>
-          <word id="9" lem="long" postag="ADJ" morpho="g=m|n=s" head="7" dep="mod">long</word>
-          <word id="10" lem="," postag="PONCT" morpho="_" head="11" dep="ponct">,</word>
-          <word id="11" lem="voire" postag="CC" morpho="_" head="7" dep="coord">voire</word>
-          <word id="12" lem="interminable" postag="ADJ" morpho="n=s" head="11" dep="dep_coord">interminable</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="haut" postag="ADJ" morpho="g=m|n=s" head="16" dep="mod">haut</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="3" lem="bas" postag="ADJ" morpho="g=m" head="16" dep="mod">bas</word>
-          <word id="4" lem="de" postag="P+D" morpho="g=m|n=s" head="3" dep="de_obj">du</word>
-          <word id="5" lem="fleuve" postag="NC" morpho="g=m|n=s" head="4" dep="prep">fleuve</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="16" dep="ponct">:</word>
-          <word id="7" lem="dans" postag="P" morpho="_" head="16" dep="mod">dans</word>
-          <word id="8" lem="le" postag="DET" morpho="g=m|n=s" head="9" dep="det">le</word>
-          <word id="9" lem="langage" postag="NC" morpho="g=m|n=s" head="7" dep="prep">langage</word>
-          <word id="10" lem="familier" postag="ADJ" morpho="g=m|n=s" head="9" dep="mod">familier</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="16" dep="ponct">,</word>
-          <word id="12" lem="la" postag="DET" morpho="g=f|n=s" head="13" dep="det">la</word>
-          <word id="13" lem="hauteur" postag="NC" morpho="g=f|n=s" head="16" dep="suj">hauteur</word>
-          <word id="14" lem="de" postag="P+D" morpho="g=m|n=s" head="13" dep="dep">du</word>
-          <word id="15" lem="fleuve" postag="NC" morpho="g=m|n=s" head="14" dep="prep">fleuve</word>
-          <word id="16" lem="déterminer" postag="V" morpho="n=s|p=13|t=pst" head="0" dep="root">détermine</word>
-          <word id="17" lem="la" postag="DET" morpho="g=f|n=s" head="18" dep="det">la</word>
-          <word id="18" lem="proximité" postag="NC" morpho="g=f|n=s" head="16" dep="obj">proximité</word>
-          <word id="19" lem="avec" postag="P" morpho="_" head="18" dep="dep">avec</word>
-          <word id="20" lem="l'" postag="DET" morpho="n=s" head="21" dep="det">l'</word>
-          <word id="21" lem="océan" postag="NC" morpho="g=m|n=s" head="19" dep="prep">océan</word>
-          <word id="22" lem="." postag="PONCT" morpho="_" head="16" dep="ponct">.</word>
-        </sentence>
-        <sentence id="2">
-          <word id="1" lem="haut" postag="NC" morpho="g=m|n=s" head="0" dep="root">Haut</word>
-          <word id="2" lem="=" postag="P" morpho="_" head="1" dep="dep">=</word>
-          <word id="3" lem="près_de" postag="P" morpho="_" head="2" dep="dep">près_de</word>
-          <word id="4" lem="la" postag="DET" morpho="g=f|n=s" head="5" dep="det">la</word>
-          <word id="5" lem="source" postag="NC" morpho="g=f|n=s" head="3" dep="prep">source</word>
-          <word id="6" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="7" lem="Bas" postag="NPP" morpho="g=m|n=s" head="1" dep="mod">Bas</word>
-          <word id="8" lem="=" postag="P" morpho="_" head="1" dep="dep">=</word>
-          <word id="9" lem="près_de" postag="P" morpho="_" head="0" dep="_">près_de</word>
-          <word id="10" lem="l'" postag="DET" morpho="n=s" head="11" dep="det">l'</word>
-          <word id="11" lem="océan" postag="NC" morpho="g=m|n=s" head="9" dep="prep">océan</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="oued" postag="NC" morpho="g=m|n=s" head="10" dep="suj">oued</word>
-          <word id="2" lem="(" postag="PONCT" morpho="_" head="1" dep="ponct">(</word>
-          <word id="3" lem="pluriel" postag="NC" morpho="g=m|n=s" head="1" dep="mod">pluriel</word>
-          <word id="4" lem="_" postag="NPP" morpho="_" head="3" dep="mod">ouadi</word>
-          <word id="5" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="1" dep="mod">wad</word>
-          <word id="7" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="8" lem="_" postag="NPP" morpho="_" head="1" dep="mod">wadi</word>
-          <word id="9" lem=")" postag="PONCT" morpho="_" head="1" dep="ponct">)</word>
-          <word id="10" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="11" lem="un" postag="DET" morpho="g=m|n=s" head="12" dep="det">un</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="10" dep="ats">termearabe</word>
-          <word id="13" lem="qui" postag="PROREL" morpho="n=s" head="14" dep="suj">qui</word>
-          <word id="14" lem="désigner" postag="V" morpho="n=s|p=13|t=pst" head="12" dep="mod_rel">désigne</word>
-          <word id="15" lem="un" postag="DET" morpho="g=m|n=s" head="16" dep="det">un</word>
-          <word id="16" lem="cour" postag="NC" morpho="g=f|n=p" head="14" dep="obj">cours</word>
-          <word id="17" lem="de" postag="P" morpho="_" head="16" dep="dep">d'</word>
-          <word id="18" lem="eau" postag="NC" morpho="g=f|n=s" head="17" dep="prep">eau</word>
-          <word id="19" lem=";" postag="PONCT" morpho="_" head="10" dep="ponct">;</word>
-          <word id="20" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Guadalajara</word>
-          <word id="21" lem="(" postag="PONCT" morpho="_" head="20" dep="ponct">(</word>
-          <word id="22" lem="Espagne" postag="NPP" morpho="g=f|n=s" head="20" dep="mod">Espagne</word>
-          <word id="23" lem=")" postag="PONCT" morpho="_" head="20" dep="ponct">)</word>
-          <word id="24" lem="venir" postag="V" morpho="n=s|p=3|t=cond" head="10" dep="mod">viendrait</word>
-          <word id="25" lem="de" postag="P" morpho="_" head="24" dep="de_obj">de</word>
-          <word id="26" lem="_" postag="NPP" morpho="_" head="25" dep="prep">Oued</word>
-          <word id="27" lem="_" postag="NPP" morpho="_" head="26" dep="mod">El</word>
-          <word id="28" lem="_" postag="NPP" morpho="_" head="26" dep="mod">Hjar</word>
-          <word id="29" lem="(" postag="PONCT" morpho="_" head="24" dep="ponct">(</word>
-          <word id="30" lem="la" postag="DET" morpho="g=f|n=s" head="31" dep="det">la</word>
-          <word id="31" lem="rivière" postag="NC" morpho="g=f|n=s" head="24" dep="suj">rivière</word>
-          <word id="32" lem="de" postag="P+D" morpho="n=p" head="31" dep="dep">des</word>
-          <word id="33" lem="pierre" postag="NC" morpho="g=f|n=p" head="32" dep="prep">pierres</word>
-          <word id="34" lem=")" postag="PONCT" morpho="_" head="10" dep="ponct">)</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="primer_syntax" idSE="6">
-      <sentence id="1">
-        <word id="1" lem="roman-fleuve" postag="NC" morpho="g=m|n=s" head="0" dep="_">roman-fleuve</word>
-        <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        <word id="3" lem="_" postag="NC" morpho="_" head="0" dep="_">discours-fleuve</word>
-        <word id="4" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-      </sentence>
-    </SEval>
+    <SEval type="primer_syntax" idSE="6" />
   </annotation>
   <annotation type="2">
     <metadata>
       <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="items_syntax" idSE="6">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="roman" postag="NC" morpho="g=m|n=s" head="0" dep="_">roman</word>
-          <word id="2" lem="," postag="PONCT" morpho="_" head="0" dep="_">,</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="discours" postag="NC" morpho="g=m" head="0" dep="root">discours</word>
-          <word id="2" lem="particulièrement" postag="ADV" morpho="_" head="3" dep="mod">particulièrement</word>
-          <word id="3" lem="long" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">long</word>
-          <word id="4" lem="," postag="PONCT" morpho="_" head="1" dep="ponct">,</word>
-          <word id="5" lem="voire" postag="CC" morpho="_" head="1" dep="coord">voire</word>
-          <word id="6" lem="interminable" postag="ADJ" morpho="n=s" head="5" dep="dep_coord">interminable</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="7">
-      <sentence id="1">
-        <word id="1" lem="_" postag="NC" morpho="_" head="0" dep="root">Œuvres</word>
-      </sentence>
-      <sentence id="2">
-        <word id="1" lem="titre" postag="NC" morpho="g=m|n=p" head="9" dep="mod">Titres</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-        <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">œuvres</word>
-        <word id="4" lem="dans" postag="P" morpho="_" head="9" dep="mod">dans</word>
-        <word id="5" lem="lequel" postag="PROREL" morpho="g=f|n=p" head="4" dep="prep">lesquelles</word>
-        <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-        <word id="7" lem="mot" postag="NC" morpho="g=m|n=s" head="9" dep="suj">mot</word>
-        <word id="8" lem="fleuve" postag="NC" morpho="g=m|n=s" head="7" dep="mod">fleuve</word>
-        <word id="9" lem="apparaître" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">apparaît</word>
-        <word id="10" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="7">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="fleuve" postag="NC" morpho="g=m|n=s" head="0" dep="_">Fleuve</word>
-          <word id="2" lem="noir" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">noir</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="4" lem="éditeur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">éditeur</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="collection" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">collection</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="8" lem="roman" postag="NC" morpho="g=m|n=p" head="7" dep="prep">romans</word>
-          <word id="9" lem="policier" postag="ADJ" morpho="g=m|n=p" head="8" dep="mod">policiers</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Fleuve</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="Jean" postag="NPP" morpho="n=s" head="5" dep="prep">Jean</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Renoir</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="6" dep="mod">1950</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Monde</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="prep">fleuve</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="6" lem="série" postag="NC" morpho="g=f|n=s" head="2" dep="mod">série</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="roman" postag="NC" morpho="g=m|n=p" head="7" dep="prep">romans</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Philip" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Philip</word>
-          <word id="11" lem="José" postag="NPP" morpho="g=m|n=s" head="10" dep="mod">José</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Farmer</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="vie" postag="NC" morpho="g=f|n=s" head="3" dep="suj">vie</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="5" lem="long" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">long</word>
-          <word id="6" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="ats">fleuve</word>
-          <word id="7" lem="tranquille" postag="ADJ" morpho="n=s" head="6" dep="mod">tranquille</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-          <word id="9" lem="film" postag="NC" morpho="g=m|n=s" head="0" dep="_">film</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="Étienne" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Étienne</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Chatiliez</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="9" dep="mod">1987</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Fleuve</word>
-          <word id="3" lem="sauvage" postag="ADJ" morpho="n=s" head="2" dep="mod">sauvage</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Wild</word>
-          <word id="6" lem="river" postag="VINF" morpho="_" head="2" dep="dep">river</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="9" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="Elia" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Elia</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Kazan</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="2" dep="mod">1960</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Fleuve</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="grand" postag="ADJ" morpho="g=f|n=p" head="5" dep="mod">grandes</word>
-          <word id="5" lem="eau" postag="NC" morpho="g=f|n=p" head="3" dep="prep">eaux</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="7" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="Frédéric" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Frédéric</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Back</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="9" dep="mod">1993</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Caprices</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="prep">fleuve</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="7" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="Bernard" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Bernard</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Giraudeau</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="9" dep="mod">1995</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Pouvoirs</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="prep">fleuve</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="6" lem="film" postag="NC" morpho="g=m|n=s" head="0" dep="_">film</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Fleuve</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="chanson" postag="NC" morpho="g=f|n=s" head="2" dep="mod">chanson</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Noir</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Désir</word>
-        </sentence>
-      </item>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:46</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="primer_syntax" idSE="8">
-      <sentence id="1">
-        <word id="1" lem="titre" postag="NC" morpho="g=m|n=p" head="9" dep="mod">Titres</word>
-        <word id="2" lem="de" postag="P" morpho="_" head="1" dep="dep">d'</word>
-        <word id="3" lem="_" postag="NPP" morpho="_" head="2" dep="prep">œuvres</word>
-        <word id="4" lem="dans" postag="P" morpho="_" head="9" dep="mod">dans</word>
-        <word id="5" lem="lequel" postag="PROREL" morpho="g=f|n=p" head="4" dep="prep">lesquelles</word>
-        <word id="6" lem="le" postag="DET" morpho="g=m|n=s" head="7" dep="det">le</word>
-        <word id="7" lem="mot" postag="NC" morpho="g=m|n=s" head="9" dep="suj">mot</word>
-        <word id="8" lem="fleuve" postag="NC" morpho="g=m|n=s" head="7" dep="mod">fleuve</word>
-        <word id="9" lem="apparaître" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">apparaît</word>
-        <word id="10" lem=":" postag="PONCT" morpho="_" head="9" dep="ponct">:</word>
-      </sentence>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:46</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="items_syntax" idSE="8">
-      <item id="0">
-        <sentence id="1">
-          <word id="1" lem="fleuve" postag="NC" morpho="g=m|n=s" head="0" dep="_">Fleuve</word>
-          <word id="2" lem="noir" postag="ADJ" morpho="g=m|n=s" head="1" dep="mod">noir</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="1" dep="ponct">:</word>
-          <word id="4" lem="éditeur" postag="NC" morpho="g=m|n=s" head="1" dep="mod">éditeur</word>
-          <word id="5" lem="et" postag="CC" morpho="_" head="4" dep="coord">et</word>
-          <word id="6" lem="collection" postag="NC" morpho="g=f|n=s" head="5" dep="dep_coord">collection</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="8" lem="roman" postag="NC" morpho="g=m|n=p" head="7" dep="prep">romans</word>
-          <word id="9" lem="policier" postag="ADJ" morpho="g=m|n=p" head="8" dep="mod">policiers</word>
-        </sentence>
-      </item>
-      <item id="1">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Fleuve</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="Jean" postag="NPP" morpho="n=s" head="5" dep="prep">Jean</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Renoir</word>
-          <word id="8" lem="," postag="PONCT" morpho="_" head="6" dep="ponct">,</word>
-          <word id="9" lem="_" postag="NC" morpho="_" head="6" dep="mod">1950</word>
-        </sentence>
-      </item>
-      <item id="2">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Monde</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="prep">fleuve</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="6" lem="série" postag="NC" morpho="g=f|n=s" head="2" dep="mod">série</word>
-          <word id="7" lem="de" postag="P" morpho="_" head="6" dep="dep">de</word>
-          <word id="8" lem="roman" postag="NC" morpho="g=m|n=p" head="7" dep="prep">romans</word>
-          <word id="9" lem="de" postag="P" morpho="_" head="8" dep="dep">de</word>
-          <word id="10" lem="Philip" postag="NPP" morpho="g=m|n=s" head="9" dep="prep">Philip</word>
-          <word id="11" lem="José" postag="NPP" morpho="g=m|n=s" head="10" dep="mod">José</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="10" dep="mod">Farmer</word>
-        </sentence>
-      </item>
-      <item id="3">
-        <sentence id="1">
-          <word id="1" lem="la" postag="DET" morpho="g=f|n=s" head="2" dep="det">La</word>
-          <word id="2" lem="vie" postag="NC" morpho="g=f|n=s" head="3" dep="suj">vie</word>
-          <word id="3" lem="être" postag="V" morpho="n=s|p=3|t=pst" head="0" dep="root">est</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="6" dep="det">un</word>
-          <word id="5" lem="long" postag="ADJ" morpho="g=m|n=s" head="6" dep="mod">long</word>
-          <word id="6" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="ats">fleuve</word>
-          <word id="7" lem="tranquille" postag="ADJ" morpho="n=s" head="6" dep="mod">tranquille</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="3" dep="ponct">:</word>
-          <word id="9" lem="film" postag="NC" morpho="g=m|n=s" head="0" dep="_">film</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="Étienne" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Étienne</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Chatiliez</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="9" dep="mod">1987</word>
-        </sentence>
-      </item>
-      <item id="4">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Fleuve</word>
-          <word id="3" lem="sauvage" postag="ADJ" morpho="n=s" head="2" dep="mod">sauvage</word>
-          <word id="4" lem="(" postag="PONCT" morpho="_" head="2" dep="ponct">(</word>
-          <word id="5" lem="_" postag="NPP" morpho="_" head="2" dep="mod">Wild</word>
-          <word id="6" lem="river" postag="VINF" morpho="_" head="2" dep="dep">river</word>
-          <word id="7" lem=")" postag="PONCT" morpho="_" head="2" dep="ponct">)</word>
-          <word id="8" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="9" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="10" lem="de" postag="P" morpho="_" head="9" dep="dep">d'</word>
-          <word id="11" lem="Elia" postag="NPP" morpho="g=m|n=s" head="10" dep="prep">Elia</word>
-          <word id="12" lem="_" postag="NPP" morpho="_" head="11" dep="mod">Kazan</word>
-          <word id="13" lem="," postag="PONCT" morpho="_" head="2" dep="ponct">,</word>
-          <word id="14" lem="_" postag="NC" morpho="_" head="2" dep="mod">1960</word>
-        </sentence>
-      </item>
-      <item id="5">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="_">Fleuve</word>
-          <word id="3" lem="à" postag="P+D" morpho="n=p" head="2" dep="dep">aux</word>
-          <word id="4" lem="grand" postag="ADJ" morpho="g=f|n=p" head="5" dep="mod">grandes</word>
-          <word id="5" lem="eau" postag="NC" morpho="g=f|n=p" head="3" dep="prep">eaux</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="7" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="Frédéric" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Frédéric</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Back</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="9" dep="mod">1993</word>
-        </sentence>
-      </item>
-      <item id="6">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Caprices</word>
-          <word id="3" lem="de" postag="P" morpho="_" head="2" dep="dep">d'</word>
-          <word id="4" lem="un" postag="DET" morpho="g=m|n=s" head="5" dep="det">un</word>
-          <word id="5" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="prep">fleuve</word>
-          <word id="6" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="7" lem="film" postag="NC" morpho="g=m|n=s" head="2" dep="mod">film</word>
-          <word id="8" lem="de" postag="P" morpho="_" head="7" dep="dep">de</word>
-          <word id="9" lem="Bernard" postag="NPP" morpho="g=m|n=s" head="8" dep="prep">Bernard</word>
-          <word id="10" lem="_" postag="NPP" morpho="_" head="9" dep="mod">Giraudeau</word>
-          <word id="11" lem="," postag="PONCT" morpho="_" head="9" dep="ponct">,</word>
-          <word id="12" lem="_" postag="NC" morpho="_" head="9" dep="mod">1995</word>
-        </sentence>
-      </item>
-      <item id="7">
-        <sentence id="1">
-          <word id="1" lem="les" postag="DET" morpho="n=p" head="2" dep="det">Les</word>
-          <word id="2" lem="_" postag="NC" morpho="_" head="0" dep="_">Pouvoirs</word>
-          <word id="3" lem="de" postag="P+D" morpho="g=m|n=s" head="2" dep="dep">du</word>
-          <word id="4" lem="fleuve" postag="NC" morpho="g=m|n=s" head="3" dep="prep">fleuve</word>
-          <word id="5" lem=":" postag="PONCT" morpho="_" head="0" dep="_">:</word>
-          <word id="6" lem="film" postag="NC" morpho="g=m|n=s" head="0" dep="_">film</word>
-        </sentence>
-      </item>
-      <item id="8">
-        <sentence id="1">
-          <word id="1" lem="le" postag="DET" morpho="g=m|n=s" head="2" dep="det">Le</word>
-          <word id="2" lem="_" postag="NPP" morpho="_" head="0" dep="root">Fleuve</word>
-          <word id="3" lem=":" postag="PONCT" morpho="_" head="2" dep="ponct">:</word>
-          <word id="4" lem="chanson" postag="NC" morpho="g=f|n=s" head="2" dep="mod">chanson</word>
-          <word id="5" lem="de" postag="P" morpho="_" head="4" dep="dep">de</word>
-          <word id="6" lem="_" postag="NPP" morpho="_" head="5" dep="prep">Noir</word>
-          <word id="7" lem="_" postag="NPP" morpho="_" head="6" dep="mod">Désir</word>
-        </sentence>
-      </item>
+      <item id="0" />
+      <item id="1" />
+      <item id="2" />
+      <item id="3" />
+      <item id="4" />
+      <item id="5" />
+      <item id="6" />
+      <item id="7" />
+      <item id="8" />
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="primer" idSE="0">
@@ -1332,8 +310,8 @@ Le Fleuve : chanson de Noir Désir</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="items" idSE="0">
@@ -1375,8 +353,8 @@ L'espace qu'occupe un cours d'eau varie selon son hydrologie :</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:21</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="primer" idSE="2">
@@ -1387,8 +365,8 @@ L'espace qu'occupe un cours d'eau varie selon son hydrologie :</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:21</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="items" idSE="2">
@@ -1447,62 +425,22 @@ Les données suivantes correspondent à une longueur moyenne estimée :</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="primer" idSE="4">
-      <span begin="1" end="34" />
-      <text>Autres utilisations du mot fleuve</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="items" idSE="4">
-      <span begin="35" end="465" id="0" />
-      <text id="0">Expressions
-fleuve au long cours :
-roman-fleuve, discours-fleuve : roman, discours particulièrement long, voire interminable
-haut, bas du fleuve : dans le langage familier, la hauteur du fleuve détermine la proximité avec l'océan. Haut = près de la source, Bas = près de l'océan
-oued (pluriel ouadi, wad, wadi) est un termearabe qui désigne un cours d'eau ; Guadalajara (Espagne) viendrait de Oued El Hjar (la rivière des pierres)</text>
-      <span begin="466" end="987" id="1" />
-      <text id="1">Œuvres
-Titres d'œuvres dans lesquelles le mot fleuve apparaît :
-Fleuve noir : éditeur et collection de romans policiers
-Le Fleuve : film de Jean Renoir, 1950
-Le Monde du fleuve : série de romans de Philip José Farmer
-La vie est un long fleuve tranquille : film d'Étienne Chatiliez, 1987
-Le Fleuve sauvage (Wild river): film d'Elia Kazan, 1960
-Le Fleuve aux grandes eaux: film de Frédéric Back, 1993
-Les Caprices d'un fleuve : film de Bernard Giraudeau, 1995
-Les Pouvoirs du fleuve : film
-Le Fleuve : chanson de Noir Désir</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="primer" idSE="5">
       <span begin="1" end="12" />
       <text>Expressions</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="items" idSE="5">
+    <SEval type="items" idSE="4">
       <span begin="13" end="35" id="0" />
       <text id="0">fleuve au long cours :</text>
       <span begin="36" end="125" id="1" />
@@ -1515,24 +453,24 @@ Le Fleuve : chanson de Noir Désir</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="primer" idSE="6">
+    <SEval type="primer" idSE="5">
       <span begin="1" end="32" />
       <text>roman-fleuve, discours-fleuve :</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="items" idSE="6">
+    <SEval type="items" idSE="5">
       <span begin="33" end="39" id="0" />
       <text id="0">roman,</text>
       <span begin="40" end="90" id="1" />
@@ -1541,12 +479,12 @@ Le Fleuve : chanson de Noir Désir</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="primer" idSE="7">
+    <SEval type="primer" idSE="6">
       <span begin="1" end="64" />
       <text>Œuvres
 Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
@@ -1554,12 +492,12 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="items" idSE="7">
+    <SEval type="items" idSE="6">
       <span begin="65" end="120" id="0" />
       <text id="0">Fleuve noir : éditeur et collection de romans policiers</text>
       <span begin="121" end="158" id="1" />
@@ -1582,49 +520,9 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:46</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="primer" idSE="8">
-      <span begin="1" end="57" />
-      <text>Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:46</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="items" idSE="8">
-      <span begin="58" end="113" id="0" />
-      <text id="0">Fleuve noir : éditeur et collection de romans policiers</text>
-      <span begin="114" end="151" id="1" />
-      <text id="1">Le Fleuve : film de Jean Renoir, 1950</text>
-      <span begin="152" end="210" id="2" />
-      <text id="2">Le Monde du fleuve : série de romans de Philip José Farmer</text>
-      <span begin="211" end="280" id="3" />
-      <text id="3">La vie est un long fleuve tranquille : film d'Étienne Chatiliez, 1987</text>
-      <span begin="281" end="336" id="4" />
-      <text id="4">Le Fleuve sauvage (Wild river): film d'Elia Kazan, 1960</text>
-      <span begin="337" end="392" id="5" />
-      <text id="5">Le Fleuve aux grandes eaux: film de Frédéric Back, 1993</text>
-      <span begin="393" end="451" id="6" />
-      <text id="6">Les Caprices d'un fleuve : film de Bernard Giraudeau, 1995</text>
-      <span begin="452" end="481" id="7" />
-      <text id="7">Les Pouvoirs du fleuve : film</text>
-      <span begin="482" end="515" id="8" />
-      <text id="8">Le Fleuve : chanson de Noir Désir</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="primer" idItem="-1">
@@ -1635,8 +533,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="0">
@@ -1647,8 +545,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="concept" idSE="0" localisation="item" idItem="1">
@@ -1659,8 +557,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="primer" idItem="-1">
@@ -1671,8 +569,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="0">
@@ -1683,8 +581,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="circonstant" idSE="0" localisation="item" idItem="1">
@@ -1738,54 +636,6 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
     <SEval type="concept" idSE="1" localisation="item" idItem="2">
       <span begin="279" end="297" id="0" />
       <text id="0">le chenal d'étiage</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="primer" idItem="-1">
-      <span begin="6" end="23" id="0" />
-      <text id="0">certains contexte</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="0">
-      <span begin="25" end="30" id="0" />
-      <text id="0">sols</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="1">
-      <span begin="33" end="53" id="0" />
-      <text id="0">substrats perméables</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="concept" idSE="2" localisation="item" idItem="2">
-      <span begin="57" end="72" id="0" />
-      <text id="0">semi-perméables</text>
     </SEval>
   </annotation>
   <annotation type="2">
@@ -1936,130 +786,34 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="concept" idSE="4" localisation="primer" idItem="-1">
-      <span begin="28" end="34" id="0" />
-      <text id="0">fleuve</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="0">
-      <span begin="47" end="67" id="0" />
-      <text id="0">fleuve au long cours</text>
-      <span begin="70" end="82" id="1" />
-      <text id="1">roman-fleuve</text>
-      <span begin="84" end="99" id="2" />
-      <text id="2">discours-fleuve</text>
-      <span begin="160" end="179" id="3" />
-      <text id="3">haut, bas du fleuve</text>
-      <span begin="314" end="318" id="4" />
-      <text id="4">oued</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="concept" idSE="4" localisation="item" idItem="1">
-      <span begin="530" end="541" id="0" />
-      <text id="0">Fleuve noir</text>
-      <span begin="586" end="595" id="1" />
-      <text id="1">Le Fleuve</text>
-      <span begin="624" end="642" id="2" />
-      <text id="2">Le Monde du fleuve</text>
-      <span begin="683" end="719" id="3" />
-      <text id="3">La vie est un long fleuve tranquille</text>
-      <span begin="753" end="770" id="4" />
-      <text id="4">Le Fleuve sauvage</text>
-      <span begin="809" end="835" id="5" />
-      <text id="5">Le Fleuve aux grandes eaux</text>
-      <span begin="865" end="889" id="6" />
-      <text id="6">Les Caprices d'un fleuve</text>
-      <span begin="924" end="946" id="7" />
-      <text id="7">Les Pouvoirs du fleuve</text>
-      <span begin="954" end="963" id="8" />
-      <text id="8">Le Fleuve</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="4" localisation="item" idItem="0">
-      <span begin="35" end="46" id="0" />
-      <text id="0">Expressions</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="circonstant" idSE="4" localisation="item" idItem="1">
-      <span begin="466" end="472" id="0" />
-      <text id="0">Œuvres</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>4</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="marq_relation" idSE="4" localisation="primer" idItem="-1">
-      <span begin="24" end="27" id="0" />
-      <text id="0">mot</text>
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
       <span begin="1" end="12" id="0" />
       <text id="0">Expressions</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="0">
+    <SEval type="concept" idSE="4" localisation="item" idItem="0">
       <span begin="13" end="33" id="0" />
       <text id="0">fleuve au long cours</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="1">
+    <SEval type="concept" idSE="4" localisation="item" idItem="1">
       <span begin="36" end="48" id="0" />
       <text id="0">roman-fleuve</text>
       <span begin="50" end="65" id="1" />
@@ -2068,182 +822,180 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="2">
+    <SEval type="concept" idSE="4" localisation="item" idItem="2">
       <span begin="126" end="145" id="0" />
       <text id="0">haut, bas du fleuve</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>4</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="5" localisation="item" idItem="3">
+    <SEval type="concept" idSE="4" localisation="item" idItem="3">
       <span begin="280" end="284" id="0" />
       <text id="0">oued</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="5" localisation="primer" idItem="-1">
       <span begin="1" end="13" id="0" />
       <text id="0">roman-fleuve</text>
-      <span begin="15" end="30" id="1" />
-      <text id="1">discours-fleuve</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="0">
+    <SEval type="concept" idSE="5" localisation="item" idItem="0">
       <span begin="33" end="38" id="0" />
       <text id="0">roman</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="6" localisation="item" idItem="1">
+    <SEval type="concept" idSE="5" localisation="item" idItem="1">
       <span begin="40" end="70" id="0" />
       <text id="0">discours particulièrement long</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="primer" idItem="-1">
+    <SEval type="concept" idSE="6" localisation="primer" idItem="-1">
       <span begin="1" end="7" id="0" />
       <text id="0">Œuvres</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="0">
+    <SEval type="concept" idSE="6" localisation="item" idItem="0">
       <span begin="65" end="76" id="0" />
       <text id="0">Fleuve noir</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="1">
+    <SEval type="concept" idSE="6" localisation="item" idItem="1">
       <span begin="121" end="130" id="0" />
       <text id="0">Le Fleuve</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="2">
+    <SEval type="concept" idSE="6" localisation="item" idItem="2">
       <span begin="159" end="177" id="0" />
       <text id="0">Le Monde du fleuve</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="3">
+    <SEval type="concept" idSE="6" localisation="item" idItem="3">
       <span begin="218" end="254" id="0" />
       <text id="0">La vie est un long fleuve tranquille</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="4">
+    <SEval type="concept" idSE="6" localisation="item" idItem="4">
       <span begin="288" end="305" id="0" />
       <text id="0">Le Fleuve sauvage</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="5">
+    <SEval type="concept" idSE="6" localisation="item" idItem="5">
       <span begin="344" end="370" id="0" />
       <text id="0">Le Fleuve aux grandes eaux</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="6">
+    <SEval type="concept" idSE="6" localisation="item" idItem="6">
       <span begin="400" end="424" id="0" />
       <text id="0">Les Caprices d'un fleuve</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="7">
+    <SEval type="concept" idSE="6" localisation="item" idItem="7">
       <span begin="459" end="481" id="0" />
       <text id="0">Les Pouvoirs du fleuve</text>
     </SEval>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="concept" idSE="7" localisation="item" idItem="8">
+    <SEval type="concept" idSE="6" localisation="item" idItem="8">
       <span begin="489" end="498" id="0" />
       <text id="0">Le Fleuve</text>
     </SEval>
@@ -2251,8 +1003,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="0">
@@ -2265,8 +1017,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="0">
@@ -2279,8 +1031,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="0">
@@ -2296,8 +1048,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>0</id>
-      <auteur />
-      <date>11/06/14 2:54</date>
+      <auteur>Reference</auteur>
+      <date>14/10/14 19:22</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="0">
@@ -2393,8 +1145,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:21</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="2">
@@ -2407,8 +1159,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:21</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="2">
@@ -2421,8 +1173,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:21</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="2">
@@ -2438,8 +1190,8 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   <annotation type="2">
     <metadata>
       <id>2</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:21</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="2">
@@ -2536,7 +1288,7 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_visuel" idSE="4">
@@ -2550,7 +1302,7 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_rhetorique" idSE="4">
@@ -2564,7 +1316,7 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_intentionnel" idSE="4">
@@ -2581,81 +1333,10 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
     <metadata>
       <id>4</id>
       <auteur>Autre</auteur>
-      <date>1/01/14 13:41</date>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
     <SEval type="axe_semantique" idSE="4">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="1">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="1" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="5">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="5">
-      <paradigmatique value="1" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="5">
-      <descriptive value="1" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>5</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="5">
       <visee_ontologique value="0">
         <isA value="0" />
         <partOf value="0" />
@@ -2676,12 +1357,12 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="6">
+    <SEval type="axe_visuel" idSE="5">
       <horizontale value="1" />
       <verticale value="0" />
       <navigationnelle value="0" />
@@ -2690,13 +1371,13 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="6">
-      <paradigmatique value="0" />
+    <SEval type="axe_rhetorique" idSE="5">
+      <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
       <bivalente value="0" />
@@ -2704,13 +1385,13 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="6">
-      <descriptive value="0" />
+    <SEval type="axe_intentionnel" idSE="5">
+      <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
       <prescriptive value="0" />
@@ -2721,12 +1402,12 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>6</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:51</date>
+      <id>5</id>
+      <auteur>Autre</auteur>
+      <date>4/01/14 22:22</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="6">
+    <SEval type="axe_semantique" idSE="5">
       <visee_ontologique value="1">
         <isA value="1" />
         <partOf value="0" />
@@ -2747,12 +1428,12 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="axe_visuel" idSE="7">
+    <SEval type="axe_visuel" idSE="6">
       <horizontale value="0" />
       <verticale value="1" />
       <navigationnelle value="0" />
@@ -2761,12 +1442,12 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="axe_rhetorique" idSE="7">
+    <SEval type="axe_rhetorique" idSE="6">
       <paradigmatique value="1" />
       <syntagmatique value="0" />
       <hybride value="0" />
@@ -2775,12 +1456,12 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="axe_intentionnel" idSE="7">
+    <SEval type="axe_intentionnel" idSE="6">
       <descriptive value="1" />
       <narrative value="0" />
       <explicative value="0" />
@@ -2792,87 +1473,16 @@ Titres d'œuvres dans lesquelles le mot fleuve apparaît :</text>
   </annotation>
   <annotation type="2">
     <metadata>
-      <id>7</id>
-      <auteur>A1</auteur>
-      <date>1/01/14 1:54</date>
+      <id>6</id>
+      <auteur>Autre</auteur>
+      <date>1/01/14 13:45</date>
       <document>Fleuve.html</document>
     </metadata>
-    <SEval type="axe_semantique" idSE="7">
+    <SEval type="axe_semantique" idSE="6">
       <visee_ontologique value="1">
         <isA value="0" />
         <partOf value="0" />
         <instanceOf value="1" />
-        <ontologique_autre value="0" />
-      </visee_ontologique>
-      <metalinguistique value="0">
-        <hyperonymie value="0" />
-        <meronymie value="0" />
-        <homonymie value="0" />
-        <synonymie value="0" />
-        <multilingue value="0" />
-        <lexical_autre value="0" />
-      </metalinguistique>
-      <semantique_autre value="0" />
-      <contextuelle value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:46</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="axe_visuel" idSE="8">
-      <horizontale value="0" />
-      <verticale value="1" />
-      <navigationnelle value="0" />
-      <hypertextuelle value="1" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:46</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="axe_rhetorique" idSE="8">
-      <paradigmatique value="0" />
-      <syntagmatique value="0" />
-      <hybride value="0" />
-      <bivalente value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:46</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="axe_intentionnel" idSE="8">
-      <descriptive value="0" />
-      <narrative value="0" />
-      <explicative value="0" />
-      <prescriptive value="0" />
-      <procedurale value="0" />
-      <argumentative value="0" />
-      <intentionnel_autre value="0" />
-    </SEval>
-  </annotation>
-  <annotation type="2">
-    <metadata>
-      <id>8</id>
-      <auteur>Autre</auteur>
-      <date>1/01/14 13:46</date>
-      <document>Fleuve.html</document>
-    </metadata>
-    <SEval type="axe_semantique" idSE="8">
-      <visee_ontologique value="0">
-        <isA value="0" />
-        <partOf value="0" />
-        <instanceOf value="0" />
         <ontologique_autre value="0" />
       </visee_ontologique>
       <metalinguistique value="0">
